@@ -1,0 +1,16 @@
+---
+address: Shelby County Judicial Center
+aliases:
+- 02, Dist.
+- Dist. 02
+entity_subtype: judge
+entity_type: person
+name: Dist. 53, Div. 02
+phone: '[PHONE-1]'
+---
+
+# Dist. 53, Div. 02
+
+## Case References
+
+No active case references. This entity is in the directory for future lookups.

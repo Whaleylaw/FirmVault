@@ -1,0 +1,19 @@
+---
+address: 110 Hardin Ln Ste 2B, Somerset KY 42503-3818
+aliases:
+- Afzal, Mohammad
+- Mohammad Afzal
+entity_subtype: doctor
+entity_type: person
+name: Dr. Mohammad Afzal
+phone: '[PHONE-1]'
+specialty: internal medicine
+---
+
+# Dr. Mohammad Afzal
+
+**Specialty:** internal medicine
+
+## Case References
+
+No active case references. This entity is in the directory for future lookups.

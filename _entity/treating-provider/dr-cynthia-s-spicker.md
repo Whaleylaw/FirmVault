@@ -1,0 +1,20 @@
+---
+address: '2865 Chancellor Dr., #225, Crestview Hills KY 41017'
+aliases:
+- Cynthia S. Spicker
+- Cynthia Spicker
+- Spicker, Cynthia
+entity_subtype: doctor
+entity_type: person
+name: Dr. Cynthia S. Spicker
+phone: '[PHONE-1]'
+specialty: Pediatrics
+---
+
+# Dr. Cynthia S. Spicker
+
+**Specialty:** Pediatrics
+
+## Case References
+
+No active case references. This entity is in the directory for future lookups.

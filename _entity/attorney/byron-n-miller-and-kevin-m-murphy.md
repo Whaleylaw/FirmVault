@@ -1,0 +1,14 @@
+---
+aliases:
+- Byron Murphy
+- Murphy, Byron
+entity_subtype: attorney
+entity_type: person
+name: Byron N. Miller and Kevin M. Murphy
+---
+
+# Byron N. Miller and Kevin M. Murphy
+
+## Case References
+
+No active case references. This entity is in the directory for future lookups.

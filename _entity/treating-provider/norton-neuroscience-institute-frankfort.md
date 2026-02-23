@@ -1,0 +1,18 @@
+---
+address: 202 Limestone Street South, Suite 1B, Frankfort, KY 40601
+aliases:
+- Frankfort, Norton
+- Norton Frankfort
+entity_subtype: location
+entity_type: organization
+name: Norton Neuroscience Institute - Frankfort
+organization: Norton Neuroscience Institute
+---
+
+# Norton Neuroscience Institute - Frankfort
+
+**Organization:** Norton Neuroscience Institute
+
+## Case References
+
+No active case references. This entity is in the directory for future lookups.

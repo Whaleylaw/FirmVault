@@ -1,0 +1,20 @@
+---
+address: 350 Hospital Way Suite 101, Somerset KY 42503
+aliases:
+- Eric M. Peterson
+- Eric Peterson
+- Peterson, Eric
+entity_subtype: doctor
+entity_type: person
+name: Dr. Eric M. Peterson
+phone: '[PHONE-1]'
+specialty: internal medicine
+---
+
+# Dr. Eric M. Peterson
+
+**Specialty:** internal medicine
+
+## Case References
+
+No active case references. This entity is in the directory for future lookups.

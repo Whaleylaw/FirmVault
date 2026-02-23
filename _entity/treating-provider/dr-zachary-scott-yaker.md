@@ -1,0 +1,20 @@
+---
+address: 201 Abraham Flexner Way, Louisville KY 40202
+aliases:
+- Yaker, Zachary
+- Zachary Scott Yaker
+- Zachary Yaker
+entity_subtype: doctor
+entity_type: person
+name: Dr. Zachary Scott Yaker
+phone: '[PHONE-1]'
+specialty: Cardiovascular Disease
+---
+
+# Dr. Zachary Scott Yaker
+
+**Specialty:** Cardiovascular Disease
+
+## Case References
+
+No active case references. This entity is in the directory for future lookups.

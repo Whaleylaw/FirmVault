@@ -1,0 +1,20 @@
+---
+address: 1 Trillium Way, Corbin KY 40701
+aliases:
+- Elder, Joseph
+- Joseph Dominique Elder
+- Joseph Elder
+entity_subtype: doctor
+entity_type: person
+name: Dr. Joseph Dominique Elder
+phone: '[PHONE-1]'
+specialty: internal medicine
+---
+
+# Dr. Joseph Dominique Elder
+
+**Specialty:** internal medicine
+
+## Case References
+
+No active case references. This entity is in the directory for future lookups.

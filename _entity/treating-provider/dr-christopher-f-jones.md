@@ -1,0 +1,20 @@
+---
+address: 900 Hospital Drive, Madisonville KY 42431
+aliases:
+- Christopher F. Jones
+- Christopher Jones
+- Jones, Christopher
+entity_subtype: doctor
+entity_type: person
+name: Dr. Christopher F. Jones
+phone: '[PHONE-1]'
+specialty: internal medicine
+---
+
+# Dr. Christopher F. Jones
+
+**Specialty:** internal medicine
+
+## Case References
+
+No active case references. This entity is in the directory for future lookups.

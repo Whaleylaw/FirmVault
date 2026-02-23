@@ -1,0 +1,20 @@
+---
+address: 1351 Newtown Pike, Lexington KY 40511
+aliases:
+- David A. Hudson
+- David Hudson
+- Hudson, David
+entity_subtype: doctor
+entity_type: person
+name: Dr. David A. Hudson
+phone: '[PHONE-1]'
+specialty: psychiatry
+---
+
+# Dr. David A. Hudson
+
+**Specialty:** psychiatry
+
+## Case References
+
+No active case references. This entity is in the directory for future lookups.

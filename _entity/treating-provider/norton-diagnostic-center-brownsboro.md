@@ -1,0 +1,19 @@
+---
+address: 4915 Norton Healthcare Boulevard, Medical Plaza III, Suite 101, Louisville,
+  KY 40241
+aliases:
+- Brownsboro, Norton
+- Norton Brownsboro
+entity_subtype: location
+entity_type: organization
+name: Norton Diagnostic Center - Brownsboro
+organization: Norton Diagnostic Center
+---
+
+# Norton Diagnostic Center - Brownsboro
+
+**Organization:** Norton Diagnostic Center
+
+## Case References
+
+No active case references. This entity is in the directory for future lookups.

@@ -1,0 +1,20 @@
+---
+address: 2900 Breckinridge Lane, Louisville KY 40220
+aliases:
+- Jean H. Nusz
+- Jean Nusz
+- Nusz, Jean
+entity_subtype: doctor
+entity_type: person
+name: Dr. Jean H. Nusz
+phone: '[PHONE-1]'
+specialty: Obstetrics/Gynecology
+---
+
+# Dr. Jean H. Nusz
+
+**Specialty:** Obstetrics/Gynecology
+
+## Case References
+
+No active case references. This entity is in the directory for future lookups.

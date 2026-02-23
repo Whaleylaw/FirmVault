@@ -1,0 +1,19 @@
+---
+address: 800 Rose St., HQ101, Lexington KY 40536
+aliases:
+- Adam Taylor
+- Taylor, Adam
+entity_subtype: doctor
+entity_type: person
+name: Dr. Adam Taylor
+phone: '[PHONE-1]'
+specialty: family medicine
+---
+
+# Dr. Adam Taylor
+
+**Specialty:** family medicine
+
+## Case References
+
+No active case references. This entity is in the directory for future lookups.

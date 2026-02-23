@@ -1,0 +1,19 @@
+---
+address: 1530 LONE OAK ROAD, PADUCAH KY 42003
+aliases:
+- Fearon, Simone
+- Simone Fearon
+entity_subtype: doctor
+entity_type: person
+name: Dr. Simone Fearon
+phone: '[PHONE-1]'
+specialty: Cardiovascular Disease
+---
+
+# Dr. Simone Fearon
+
+**Specialty:** Cardiovascular Disease
+
+## Case References
+
+No active case references. This entity is in the directory for future lookups.

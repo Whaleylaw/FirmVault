@@ -1,0 +1,20 @@
+---
+address: St. Elizabeth Healthcare, Edgewood KY 41017
+aliases:
+- Goetz, Kevin
+- Kevin Goetz
+- Kevin R. Goetz
+entity_subtype: doctor
+entity_type: person
+name: Dr. Kevin R. Goetz
+phone: '[PHONE-1]'
+specialty: internal medicine
+---
+
+# Dr. Kevin R. Goetz
+
+**Specialty:** internal medicine
+
+## Case References
+
+No active case references. This entity is in the directory for future lookups.

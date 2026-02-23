@@ -1,0 +1,14 @@
+---
+aliases:
+- Edward Mayer
+- Mayer, Edward
+entity_subtype: attorney
+entity_type: person
+name: Edward A. Mayer
+---
+
+# Edward A. Mayer
+
+## Case References
+
+No active case references. This entity is in the directory for future lookups.

@@ -1,0 +1,19 @@
+---
+address: 3101 Beaumont Centre Cir, Lexington KY 40513
+aliases:
+- Fanucchi, Laura
+- Laura Fanucchi
+entity_subtype: doctor
+entity_type: person
+name: Dr. Laura Fanucchi
+phone: '[PHONE-1]'
+specialty: internal medicine
+---
+
+# Dr. Laura Fanucchi
+
+**Specialty:** internal medicine
+
+## Case References
+
+No active case references. This entity is in the directory for future lookups.

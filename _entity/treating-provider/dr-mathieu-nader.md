@@ -1,0 +1,19 @@
+---
+address: 1602 Ave Q, Lubbock TX 79401
+aliases:
+- Mathieu Nader
+- Nader, Mathieu
+entity_subtype: doctor
+entity_type: person
+name: Dr. Mathieu Nader
+phone: '[PHONE-1]'
+specialty: radiology
+---
+
+# Dr. Mathieu Nader
+
+**Specialty:** radiology
+
+## Case References
+
+No active case references. This entity is in the directory for future lookups.

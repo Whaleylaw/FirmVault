@@ -1,0 +1,19 @@
+---
+address: 740 S. Limestone St., Lexington KY 40536
+aliases:
+- Sarah Vick
+- Vick, Sarah
+entity_subtype: doctor
+entity_type: person
+name: Dr. Sarah Vick
+phone: '[PHONE-1]'
+specialty: internal medicine
+---
+
+# Dr. Sarah Vick
+
+**Specialty:** internal medicine
+
+## Case References
+
+No active case references. This entity is in the directory for future lookups.

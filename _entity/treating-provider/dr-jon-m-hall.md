@@ -1,0 +1,20 @@
+---
+address: 8100 Ewing Blvd, Florence KY 41042
+aliases:
+- Hall, Jon
+- Jon Hall
+- Jon M. Hall
+entity_subtype: doctor
+entity_type: person
+name: Dr. Jon M. Hall
+phone: '[PHONE-1]'
+specialty: family medicine
+---
+
+# Dr. Jon M. Hall
+
+**Specialty:** family medicine
+
+## Case References
+
+No active case references. This entity is in the directory for future lookups.

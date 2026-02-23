@@ -1,0 +1,20 @@
+---
+address: 740 S. Limestone, Suite A301, Lexington KY 40536
+aliases:
+- Mansi Manjul Shah-Jadeja
+- Mansi Shah-Jadeja
+- Shah-Jadeja, Mansi
+entity_subtype: doctor
+entity_type: person
+name: Dr. Mansi Manjul Shah-Jadeja
+phone: '[PHONE-1]'
+specialty: surgery
+---
+
+# Dr. Mansi Manjul Shah-Jadeja
+
+**Specialty:** surgery
+
+## Case References
+
+No active case references. This entity is in the directory for future lookups.

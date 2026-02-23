@@ -1,0 +1,19 @@
+---
+address: 550 South Jackson St, Louisville KY 40202
+aliases:
+- Anne Crowner
+- Crowner, Anne
+entity_subtype: doctor
+entity_type: person
+name: Dr. Anne Crowner
+phone: '[PHONE-1]'
+specialty: internal medicine
+---
+
+# Dr. Anne Crowner
+
+**Specialty:** internal medicine
+
+## Case References
+
+No active case references. This entity is in the directory for future lookups.

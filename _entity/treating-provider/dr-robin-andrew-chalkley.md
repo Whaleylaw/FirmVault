@@ -1,0 +1,20 @@
+---
+address: 1740 Nicholasville Road, Lexington KY 40503
+aliases:
+- Chalkley, Robin
+- Robin Andrew Chalkley
+- Robin Chalkley
+entity_subtype: doctor
+entity_type: person
+name: Dr. Robin Andrew Chalkley
+phone: '[PHONE-1]'
+specialty: Cardiovascular Disease
+---
+
+# Dr. Robin Andrew Chalkley
+
+**Specialty:** Cardiovascular Disease
+
+## Case References
+
+No active case references. This entity is in the directory for future lookups.

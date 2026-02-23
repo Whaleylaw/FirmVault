@@ -1,0 +1,13 @@
+---
+aliases:
+- Winchester, S.J.
+entity_subtype: judge
+entity_type: person
+name: S.J. Winchester
+---
+
+# S.J. Winchester
+
+## Case References
+
+No active case references. This entity is in the directory for future lookups.

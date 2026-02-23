@@ -1,0 +1,20 @@
+---
+address: 534 Hillcrest Drive, Brandenburg KY 40108
+aliases:
+- Madut, Nyebol
+- Nyebol Buok Madut
+- Nyebol Madut
+entity_subtype: doctor
+entity_type: person
+name: Dr. Nyebol Buok Madut
+phone: '[PHONE-1]'
+specialty: family medicine
+---
+
+# Dr. Nyebol Buok Madut
+
+**Specialty:** family medicine
+
+## Case References
+
+No active case references. This entity is in the directory for future lookups.

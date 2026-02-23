@@ -1,0 +1,20 @@
+---
+address: Cincinnati SportsMedicine & Orth, Crestview Hills KY 41017
+aliases:
+- Gregory H. Dairyko Jr.
+- Gregory Jr.
+- Jr., Gregory
+entity_subtype: doctor
+entity_type: person
+name: Dr. Gregory H. Dairyko Jr.
+phone: '[PHONE-1]'
+specialty: orthopedic
+---
+
+# Dr. Gregory H. Dairyko Jr.
+
+**Specialty:** orthopedic
+
+## Case References
+
+No active case references. This entity is in the directory for future lookups.

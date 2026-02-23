@@ -1,0 +1,14 @@
+---
+aliases:
+- Mat Slechter
+- Slechter, Mat
+entity_subtype: attorney
+entity_type: person
+name: Mat A. Slechter
+---
+
+# Mat A. Slechter
+
+## Case References
+
+No active case references. This entity is in the directory for future lookups.

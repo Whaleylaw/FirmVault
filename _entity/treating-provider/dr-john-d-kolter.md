@@ -1,0 +1,20 @@
+---
+address: 4004 Dupont Circle, Louisville KY 40207
+aliases:
+- John D. Kolter
+- John Kolter
+- Kolter, John
+entity_subtype: doctor
+entity_type: person
+name: Dr. John D. Kolter
+phone: '[PHONE-1]'
+specialty: internal medicine
+---
+
+# Dr. John D. Kolter
+
+**Specialty:** internal medicine
+
+## Case References
+
+No active case references. This entity is in the directory for future lookups.
