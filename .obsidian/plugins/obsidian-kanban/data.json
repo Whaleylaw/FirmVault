@@ -1,0 +1,6 @@
+{
+  "new-card-insertion-method": "prepend",
+  "show-checkboxes": false,
+  "prepend-archive-separator": false,
+  "prepend-archive-date": false
+}
