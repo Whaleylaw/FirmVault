@@ -1,0 +1,2191 @@
+{
+  "migration_timestamp": "2026-02-23T15:23:57.454945+00:00",
+  "dry_run": false,
+  "duration_seconds": 315.98,
+  "summary": {
+    "total_cases_processed": 109,
+    "migrated": 109,
+    "failed": 0,
+    "quarantined": 0,
+    "skipped": 0,
+    "total_files_created": 14788,
+    "total_documents_migrated": 14451,
+    "total_entity_links": 338
+  },
+  "entity_extraction": {
+    "entities_created": 31169,
+    "entities_skipped": 0,
+    "role_counts": {
+      "court": 1108,
+      "treating-provider": 23928,
+      "other": 95,
+      "adjuster": 252,
+      "attorney": 5786
+    },
+    "errors": [],
+    "duplicates_flagged": 2419
+  },
+  "batches": [
+    {
+      "batch_num": 1,
+      "cases_count": 15,
+      "migrated": 15,
+      "failed": 0,
+      "files_created": 3779,
+      "cases": [
+        {
+          "case_slug": "abby-sitgraves",
+          "legacy_case_id": "2024-07-13-MVA-001",
+          "success": true,
+          "files_created": 142,
+          "documents_migrated": 138,
+          "entity_links": 5,
+          "duration_seconds": 0.54,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2024-07-13-abby-sitgraves-medical-record-jewish-hospital-er-bill.md, creating fresh metadata",
+            "No valid frontmatter in 2024-07-14-abby-sitgraves-medical-record-foundation-radiology-foot-and-tibia-exam.md, creating fresh metadata",
+            "No valid frontmatter in 2024-08-06-abby-sitgraves-medical-record-cfb-orthopedics-right-knee-ankle-pain.md, creating fresh metadata",
+            "No valid frontmatter in 2024-08-06-mb-uofl-orthopedics.md, creating fresh metadata",
+            "No valid frontmatter in 2023-07-18-abby-sitgraves-medical-record-uofl-physicians-visits-certified.md, creating fresh metadata",
+            "No valid frontmatter in 2024-07-13-abby-sitgraves-medical-record-jewish-hospital-knee-and-ankle-pain.md, creating fresh metadata",
+            "No valid frontmatter in 2025-03-13-sitgraves-cmr-ul-health-jewish-hospital-emr.md, creating fresh metadata",
+            "No valid frontmatter in 2025-03-26-sitgraves-cmb-ul-physicians-1724-00.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "abigail-whaley",
+          "legacy_case_id": "2024-10-24-MVA-001",
+          "success": true,
+          "files_created": 31,
+          "documents_migrated": 28,
+          "entity_links": 5,
+          "duration_seconds": 0.06,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "alma-cristobal",
+          "legacy_case_id": "2024-02-15-MVA-001",
+          "success": true,
+          "files_created": 319,
+          "documents_migrated": 316,
+          "entity_links": 3,
+          "duration_seconds": 1.51,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2024-02-15-alma-cristobal-medical-mary-elizabeth-hospital-medical-records-mary-elizabeth-hospital-er-medical-records.md, creating fresh metadata",
+            "No valid frontmatter in 2024-03-16-alma-cristobal-medical-ulh-university-of-louisville-hospital-medical-records-ulh-university-of-louisville-hospital-emergency-department-medical-records.md, creating fresh metadata",
+            "No valid frontmatter in 2024-03-16-alma-cristobal-medical-ulh-university-of-louisville-hospital-medical-records-ulh-university-of-louisville-hospital-medical-records.md, creating fresh metadata",
+            "No valid frontmatter in 2024-02-15-alma-cristobal-investigation-crete-carrier-corporation-roy-hamilton-driver-file.md, creating fresh metadata",
+            "No valid frontmatter in 7-driver-file-onboarding-records-redacted.md, creating fresh metadata",
+            "Unmapped directory 'videos' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "amanda-tackore",
+          "legacy_case_id": "2026-01-24-SF-001",
+          "success": true,
+          "files_created": 8,
+          "documents_migrated": 6,
+          "entity_links": 0,
+          "duration_seconds": 0.0,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "amy-mills",
+          "legacy_case_id": "2019-04-26-PrL-001",
+          "success": true,
+          "files_created": 992,
+          "documents_migrated": 989,
+          "entity_links": 3,
+          "duration_seconds": 91.97,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2022-11-28-amy-mills-medical-clark-clinic-neurology-record-requests-wlf-medical-records-request-and-authorization.md, creating fresh metadata",
+            "No valid frontmatter in 2022-11-28-amy-mills-medical-clark-clinic-neurology-record-requests-wlf-medical-records-request.md, creating fresh metadata",
+            "No valid frontmatter in 2023-01-11-amy-mills-kentucky-orthopedic-clinic-medical-records-request.md, creating fresh metadata",
+            "No valid frontmatter in 2023-06-19-amy-mills-baptist-neurology-medical-records-request.md, creating fresh metadata",
+            "No valid frontmatter in 2019-04-26-amy-mills-plaintiffs-responses-to-interrogatories.md, creating fresh metadata",
+            "No valid frontmatter in 2023-01-19-amy-mills-litigation-wlf-notice-of-service-medical-records.md, creating fresh metadata",
+            "No valid frontmatter in 2025-08-23-amy-mills-knox-county-circuit-court-plaintiffs-disclosure-of-expert-witnesses.md, creating fresh metadata",
+            "No valid frontmatter in 2018-11-01-amy-mills-medical-baptist-health-corbin-medical-bills-baptist-health-itemization-of-hospital-charges.md, creating fresh metadata",
+            "No valid frontmatter in 2019-04-26-amy-mills-medical-baptist-health-corbin-medical-bills-baptist-health-itemization-of-hospital-charges.md, creating fresh metadata",
+            "No valid frontmatter in 2019-04-26-amy-mills-medical-baptist-health-corbin-medical-bills-baptist-health-itemized-hospital-bills.md, creating fresh metadata",
+            "No valid frontmatter in 2019-05-30-amy-mills-medical-baptist-health-corbin-medical-bills-baptist-health-itemized-mri-hospital-charges.md, creating fresh metadata",
+            "No valid frontmatter in 2019-06-12-amy-mills-medical-baptist-health-corbin-medical-bills-baptist-health-itemization-of-hospital-services.md, creating fresh metadata",
+            "No valid frontmatter in 2019-06-21-amy-mills-medical-baptist-health-corbin-medical-bills-baptist-health-itemized-statement-mri-cervical-spine.md, creating fresh metadata",
+            "No valid frontmatter in 2019-08-23-amy-mills-medical-baptist-health-corbin-medical-bills-baptist-health-itemized-hospital-charges-mri.md, creating fresh metadata",
+            "No valid frontmatter in 2020-01-24-amy-mills-medical-baptist-health-corbin-medical-bills-baptist-health-hospital-itemized-charges.md, creating fresh metadata",
+            "No valid frontmatter in 2020-06-24-amy-mills-medical-baptist-health-corbin-medical-bills-baptist-health-hospital-services-itemization-charges.md, creating fresh metadata",
+            "No valid frontmatter in 2021-06-07-amy-mills-medical-baptist-health-corbin-medical-bills-baptist-health-itemized-bill-mri-upper-joint.md, creating fresh metadata",
+            "No valid frontmatter in 2022-05-26-amy-mills-medical-baptist-health-corbin-medical-bills-baptist-health-itemized-hospital-charges.md, creating fresh metadata",
+            "No valid frontmatter in 2022-07-05-amy-mills-medical-baptist-health-corbin-medical-bills-baptist-health-medical-bill-itemization.md, creating fresh metadata",
+            "No valid frontmatter in 2022-12-15-amy-mills-gchc-bishop-street-cl-office-visit.md, creating fresh metadata",
+            "No valid frontmatter in 2025-01-21-mills-cmb-chi-st-joseph-ortho-dr-kevin-magone-797-00.md, creating fresh metadata",
+            "No valid frontmatter in a-mills-billing.md, creating fresh metadata",
+            "No valid frontmatter in 2020-05-07-amy-mills-medical-grace-health-medical-records-gracehealth-office-visit-note-neck-pain.md, creating fresh metadata",
+            "No valid frontmatter in 2022-10-31-amy-mills-vocational-economics-inc-loss-of-earning-capacity.md, creating fresh metadata",
+            "No valid frontmatter in 2-cv-marc-p-orlando-md.md, creating fresh metadata",
+            "No valid frontmatter in 2012-05-18-amy-mills-medical-baptist-health-corbin-medical-records-baptist-health-medical-records.md, creating fresh metadata",
+            "No valid frontmatter in 2014-04-26-amy-mills-medical-chi-st-joseph-medical-group-orthopedics-record-requests-wlf-medical-record-request-follow-up.md, creating fresh metadata",
+            "No valid frontmatter in 2014-09-09-amy-mills-20-20-eyecare-of-london-eye-examination.md, creating fresh metadata",
+            "No valid frontmatter in 2014-09-09-amy-mills-20-20-eyecare-of-london-llc-comprehensive-eye-examination.md, creating fresh metadata",
+            "No valid frontmatter in 2015-12-22-amy-mills-medical-baptist-health-corbin-medical-records-baptist-health-medical-records-and-consent-forms.md, creating fresh metadata",
+            "No valid frontmatter in 2018-06-13-amy-mills-medical-grace-health-medical-records-grace-health-certified-medical-records-and-history.md, creating fresh metadata",
+            "No valid frontmatter in 2018-06-13-amy-mills-medical-grace-health-medical-records-gracehealth-patient-record-and-encounter-notes.md, creating fresh metadata",
+            "No valid frontmatter in 2018-11-01-amy-mills-medical-baptist-health-corbin-medical-records-baptist-health-corbin-medical-records-lab-results.md, creating fresh metadata",
+            "No valid frontmatter in 2018-11-05-amy-mills-medical-baptist-health-corbin-medical-records-baptist-health-corbin-medical-records-hysterectomy-sling-surgery.md, creating fresh metadata",
+            "No valid frontmatter in 2018-11-05-amy-mills-medical-baptist-health-corbin-medical-records-baptist-health-corbin-medical-records-hysterectomy-surgery.md, creating fresh metadata",
+            "No valid frontmatter in 2019-03-30-amy-mills-medical-baptist-health-corbin-medical-records-baptist-health-corbin-emergency-department-medical-records-1.md, creating fresh metadata",
+            "No valid frontmatter in 2019-03-30-amy-mills-medical-baptist-health-corbin-medical-records-baptist-health-corbin-emergency-department-medical-records.md, creating fresh metadata",
+            "No valid frontmatter in 2019-04-26-amy-mills-medical-baptist-health-corbin-medical-records-baptist-health-after-visit-summary.md, creating fresh metadata",
+            "No valid frontmatter in 2019-04-26-amy-mills-medical-baptist-health-corbin-medical-records-baptist-health-corbin-emergency-department-medical-records-1.md, creating fresh metadata",
+            "No valid frontmatter in 2019-04-26-amy-mills-medical-baptist-health-corbin-medical-records-baptist-health-corbin-emergency-department-medical-records.md, creating fresh metadata",
+            "No valid frontmatter in 2019-04-26-amy-mills-medical-clark-clinic-neurology-medical-records-clark-clinic-neurology-medical-records-and-certification.md, creating fresh metadata",
+            "No valid frontmatter in 2019-04-26-amy-mills-medical-grace-health-medical-records-client-medical-treatment-date-log.md, creating fresh metadata",
+            "No valid frontmatter in 2019-04-29-amy-mills-medical-grace-health-medical-records-grace-community-health-center-medical-records.md, creating fresh metadata",
+            "No valid frontmatter in 2019-05-16-amy-mills-medical-grace-health-medical-records-grace-health-office-visit-records.md, creating fresh metadata",
+            "No valid frontmatter in 2019-05-16-amy-mills-medical-pt-pros-physical-therapy-and-sports-center-medical-records-pt-pros-records-and-bills.md, creating fresh metadata",
+            "No valid frontmatter in 2019-05-21-amy-mills-medical-baptist-health-corbin-south-imaging-medical-records-baptist-health-corbin-medical-records.md, creating fresh metadata",
+            "No valid frontmatter in 2019-05-21-amy-mills-medical-baptist-health-corbin-south-imaging-medical-records-baptist-health-corbin-mri-brain-records.md, creating fresh metadata",
+            "No valid frontmatter in 2019-06-21-amy-mills-medical-baptist-health-corbin-medical-records-baptist-health-corbin-medical-records-and-bills-1.md, creating fresh metadata",
+            "No valid frontmatter in 2019-06-21-amy-mills-medical-baptist-health-corbin-medical-records-baptist-health-corbin-medical-records-and-bills.md, creating fresh metadata",
+            "No valid frontmatter in 2019-06-21-amy-mills-medical-baptist-health-corbin-medical-records-baptist-health-mri-report-and-bills.md, creating fresh metadata",
+            "No valid frontmatter in 2019-09-23-amy-mills-knr-eeg-normal.md, creating fresh metadata",
+            "No valid frontmatter in 2019-10-08-amy-mills-medical-norton-neuroscience-institute-brownsboro-medical-records-norton-physicians-services-medical-records-and-consultation.md, creating fresh metadata",
+            "No valid frontmatter in 2019-10-14-amy-mills-medical-pt-pros-physical-therapy-and-sports-center-medical-records-pt-pros-emr-and-billing-records.md, creating fresh metadata",
+            "No valid frontmatter in 2019-11-05-amy-mills-medical-baptist-health-orthopedic-and-sport-medicine-medical-records-baptist-health-medical-group-office-visit-left-shoulder-pain.md, creating fresh metadata",
+            "No valid frontmatter in 2019-11-05-amy-mills-medical-baptist-health-orthopedic-and-sport-medicine-medical-records-baptist-health-medical-records-and-bills-1.md, creating fresh metadata",
+            "No valid frontmatter in 2019-11-05-amy-mills-medical-baptist-health-orthopedic-and-sport-medicine-medical-records-baptist-health-medical-records-and-bills.md, creating fresh metadata",
+            "No valid frontmatter in 2019-12-19-amy-mills-medical-norton-neuroscience-institute-brownsboro-medical-records-norton-neuroscience-institute-office-visit-notes.md, creating fresh metadata",
+            "No valid frontmatter in 2020-01-07-amy-mills-medical-baptist-health-orthopedic-and-sport-medicine-medical-records-baptist-health-medical-group-office-visit-orthopedic-surgery-notes.md, creating fresh metadata",
+            "No valid frontmatter in 2020-01-15-amy-mills-medical-norton-neuroscience-institute-brownsboro-medical-records-norton-hospital-pre-admission-testing-medical-records-1.md, creating fresh metadata",
+            "No valid frontmatter in 2020-01-15-amy-mills-medical-norton-neuroscience-institute-brownsboro-medical-records-norton-hospital-pre-admission-testing-medical-records.md, creating fresh metadata",
+            "No valid frontmatter in 2020-01-15-amy-mills-medical-norton-orthopedic-institute-medical-bills-norton-healthcare-itemized-list-of-charges.md, creating fresh metadata",
+            "No valid frontmatter in 2020-01-15-amy-mills-medical-norton-orthopedic-institute-medical-bills-norton-hospital-itemized-list-of-charges.md, creating fresh metadata",
+            "No valid frontmatter in 2020-01-24-amy-mills-medical-baptist-health-corbin-medical-records-baptist-health-corbin-emergency-department-medical-records.md, creating fresh metadata",
+            "No valid frontmatter in 2020-01-28-amy-mills-medical-grace-health-medical-records-gracehealth-office-visit-medical-records.md, creating fresh metadata",
+            "No valid frontmatter in 2020-02-19-amy-mills-medical-norton-neuroscience-institute-brownsboro-medical-records-norton-physicians-services-medical-records-amy-mills.md, creating fresh metadata",
+            "No valid frontmatter in 2020-02-19-amy-mills-medical-norton-neuroscience-institute-brownsboro-medical-records-norton-physicians-services-medical-records-and-imaging-reports.md, creating fresh metadata",
+            "No valid frontmatter in 2020-02-19-amy-mills-medical-norton-neuroscience-institute-brownsboro-medical-records-norton-physicians-services-medical-records-and-imaging.md, creating fresh metadata",
+            "No valid frontmatter in 2020-02-19-amy-mills-medical-norton-orthopedic-institute-medical-records-norton-physicians-services-medical-records.md, creating fresh metadata",
+            "No valid frontmatter in 2020-05-26-amy-mills-medical-norton-neuroscience-institute-brownsboro-medical-records-norton-spine-specialists-office-visit-summary-spine-encounter.md, creating fresh metadata",
+            "No valid frontmatter in 2020-06-17-amy-mills-medical-norton-orthopedic-institute-medical-records-norton-healthcare-medical-records.md, creating fresh metadata",
+            "No valid frontmatter in 2020-06-17-amy-mills-medical-norton-orthopedic-institute-medical-records-norton-orthopedic-institute-medical-records-and-facesheets.md, creating fresh metadata",
+            "No valid frontmatter in 2020-06-17-amy-mills-medical-norton-orthopedic-institute-medical-records-norton-orthopedic-institute-medical-records-and-notes.md, creating fresh metadata",
+            "No valid frontmatter in 2020-06-17-amy-mills-uk-healthcare-hipaa-authorization.md, creating fresh metadata",
+            "No valid frontmatter in 2020-06-18-amy-mills-medical-norton-orthopedic-institute-medical-records-norton-orthopedic-institute-office-visit-left-shoulder-pain.md, creating fresh metadata",
+            "No valid frontmatter in 2020-06-24-amy-mills-medical-baptist-health-corbin-medical-records-baptist-health-corbin-left-shoulder-arthrogram-medical-records.md, creating fresh metadata",
+            "No valid frontmatter in 2020-08-06-amy-mills-medical-norton-orthopedic-institute-medical-records-norton-orthopedic-institute-medical-records-office-visit.md, creating fresh metadata",
+            "No valid frontmatter in 2020-08-06-amy-mills-medical-norton-orthopedic-institute-medical-records-norton-orthopedic-institute-office-visit-follow-up-mri-results.md, creating fresh metadata",
+            "No valid frontmatter in 2020-08-10-amy-mills-medical-norton-orthopedic-institute-medical-records-norton-hospital-left-shoulder-arthroscopy-records.md, creating fresh metadata",
+            "No valid frontmatter in 2020-08-19-amy-mills-medical-grace-health-medical-records-grace-health-office-visit-note-neck-pain.md, creating fresh metadata",
+            "No valid frontmatter in 2020-09-10-amy-mills-medical-norton-neuroscience-institute-brownsboro-medical-records-norton-spine-specialists-office-visit-follow-up-notes.md, creating fresh metadata",
+            "No valid frontmatter in 2020-09-10-amy-mills-medical-norton-orthopedic-institute-medical-records-norton-orthopedic-institute-post-op-follow-up-visit.md, creating fresh metadata",
+            "No valid frontmatter in 2020-09-15-amy-mills-medical-clark-clinic-neurology-medical-records-clark-clinic-medical-record-neurology-follow-up.md, creating fresh metadata",
+            "No valid frontmatter in 2020-12-30-amy-mills-medical-grace-health-medical-records-grace-health-office-visit-cervicalgia-headache.md, creating fresh metadata",
+            "No valid frontmatter in 2021-01-21-amy-mills-norton-healthcare-roi-authorization.md, creating fresh metadata",
+            "No valid frontmatter in 2021-02-03-amy-mills-norton-healthcare-medical-records-request.md, creating fresh metadata",
+            "No valid frontmatter in 2021-06-07-amy-mills-medical-baptist-health-corbin-medical-records-baptist-health-corbin-left-shoulder-mri-report.md, creating fresh metadata",
+            "No valid frontmatter in 2021-11-05-amy-mills-primary-care-visit-new-patient.md, creating fresh metadata",
+            "No valid frontmatter in 2021-12-07-amy-mills-norton-healthcare-roi-authorization.md, creating fresh metadata",
+            "No valid frontmatter in 20210204-amy-mills-2020-2021-med-providers.md, creating fresh metadata",
+            "No valid frontmatter in 20210204-amy-mills-2020-2021-med-providers1.md, creating fresh metadata",
+            "No valid frontmatter in 2022-03-15-amy-mills-dr-brown-dermatology-skin-check-up.md, creating fresh metadata",
+            "No valid frontmatter in 2022-05-27-amy-mills-whaley-law-firm-release-authorization.md, creating fresh metadata",
+            "No valid frontmatter in 2022-07-05-amy-mills-medical-baptist-health-corbin-medical-records-baptist-health-corbin-nuclear-medicine-bone-scan-record.md, creating fresh metadata",
+            "No valid frontmatter in 2022-10-31-amy-mills-uk-neurosurgery-medicalrecordsauthorization.md, creating fresh metadata",
+            "No valid frontmatter in 2023-01-01-amy-mills-medical-uk-neuroscience-medical-records-marc-inc-and-kls-life-care-planning-introduction-of-medical-legal-services.md, creating fresh metadata",
+            "No valid frontmatter in 2023-01-20-amy-mills-baptist-health-release-of-information-2.md, creating fresh metadata",
+            "No valid frontmatter in 2023-03-17-amy-mills-clark-clinic-neurology-medical-records-request-2.md, creating fresh metadata",
+            "No valid frontmatter in 2023-06-16-amy-mills-whaley-law-firm-settlement-demand.md, creating fresh metadata",
+            "No valid frontmatter in 2023-07-17-amy-mills-whaley-law-firm-medical-record-release.md, creating fresh metadata",
+            "No valid frontmatter in 2023-07-18-amy-mills-mayoclinic-new-patient-visit.md, creating fresh metadata",
+            "No valid frontmatter in 2023-08-09-amy-mills-medical-clark-clinic-neurology-record-requests-wlf-medical-records-request-and-authorization.md, creating fresh metadata",
+            "No valid frontmatter in 2023-09-01-amy-mills-whaley-law-firm-client-update.md, creating fresh metadata",
+            "No valid frontmatter in 2023-09-19-amy-mills-kasper-neck-and-shoulder-pain-visit.md, creating fresh metadata",
+            "No valid frontmatter in 2023-10-16-amy-mills-whaley-law-firm-incoming-correspondence.md, creating fresh metadata",
+            "No valid frontmatter in 2023-10-27-amy-mills-whaley-law-firm-estate-planning-consultation.md, creating fresh metadata",
+            "No valid frontmatter in 2024-01-11-amy-mills-whaley-law-firm-client-update.md, creating fresh metadata",
+            "No valid frontmatter in 2024-01-15-amy-mills-st-vincent-medical-center-post-op-instructions.md, creating fresh metadata",
+            "No valid frontmatter in 2024-02-08-amy-mills-whaley-law-firm-client-update.md, creating fresh metadata",
+            "No valid frontmatter in 2024-05-02-amy-mills-whaley-law-firm-consultation-notes.md, creating fresh metadata",
+            "No valid frontmatter in 2025-01-21-mills-cmr-chi-st-joseph-ortho-dr-kevin-magone-emr.md, creating fresh metadata",
+            "No valid frontmatter in 2025-02-03-mills-cmr-chi-st-joseph-ortho-certification-pages-correct.md, creating fresh metadata",
+            "No valid frontmatter in 2025-02-26-mills-suppl-resp-to-dc-fortch-3rd-4th-request.md, creating fresh metadata",
+            "No valid frontmatter in 2025-02-27-mills-suppl-resp-to-dc-forcht-3rd-4th-request.md, creating fresh metadata",
+            "No valid frontmatter in amy-mills-2020-2021-med-providers.md, creating fresh metadata",
+            "No valid frontmatter in amy-mills-personal-provider-list-date-log.md, creating fresh metadata",
+            "No valid frontmatter in amy-mills-updated-chronology-and-billing-with-hyerlinks.md, creating fresh metadata",
+            "No valid frontmatter in dgbs.md, creating fresh metadata",
+            "No valid frontmatter in dghmndmills.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "amy-stich",
+          "legacy_case_id": "2024-01-17-OTH-001",
+          "success": true,
+          "files_created": 725,
+          "documents_migrated": 723,
+          "entity_links": 3,
+          "duration_seconds": 2.26,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2024-01-18-amy-stich-medical-baptist-health-urgent-care-medical-bills-baptist-health-itemization-of-hospital-services.md, creating fresh metadata",
+            "No valid frontmatter in 2024-08-13-amy-stich-medical-universal-anesthesia-services-llc-medical-bills-universal-anesthesia-services-llc-jask-medical-bill-charges.md, creating fresh metadata",
+            "No valid frontmatter in 2021-03-05-amy-stich-medical-baptist-health-urgent-care-medical-records-baptist-health-medical-records-and-consents.md, creating fresh metadata",
+            "No valid frontmatter in 2024-01-18-amy-stich-medical-baptist-health-urgent-care-medical-records-baptist-health-medical-records-and-mri-report.md, creating fresh metadata",
+            "No valid frontmatter in 2024-01-18-amy-stich-medical-heartland-imaging-medical-records-baptist-health-medical-records-and-mri-report.md, creating fresh metadata",
+            "No valid frontmatter in 2024-02-26-amy-stich-client-client-plaintiff-medical-and-employment-history.md, creating fresh metadata",
+            "No valid frontmatter in 2024-05-13-amy-stich-correspondence-wlf-email-update-regarding-medical-approval.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "anella-noble",
+          "legacy_case_id": "2021-01-03-MVA-001",
+          "success": true,
+          "files_created": 565,
+          "documents_migrated": 563,
+          "entity_links": 4,
+          "duration_seconds": 13.03,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2021-01-03-anella-noble-baptist-health-hospital-services.md, creating fresh metadata",
+            "No valid frontmatter in 2021-01-03-anella-noble-hospital-charges-summary.md, creating fresh metadata",
+            "No valid frontmatter in 21-01-03-anella-noble-baptist-health-itemized-hospital-services.md, creating fresh metadata",
+            "No valid frontmatter in 2021-01-03-anella-noble-baptist-east-hospital-emergency-room-visit.md, creating fresh metadata",
+            "No valid frontmatter in 2021-01-03-anella-noble-baptist-east-hospital-settlement-demand-package.md, creating fresh metadata",
+            "No valid frontmatter in 2021-01-03-anella-noble-louisville-emerg-med-associates-psc-emergency-dept-visit-2.md, creating fresh metadata",
+            "No valid frontmatter in 2021-01-03-anella-noble-louisville-emerg-med-associates-psc-emergency-dept-visit.md, creating fresh metadata",
+            "No valid frontmatter in 2021-01-03-anella-noble-louisville-emerg-med-associates-psc-mva-lumbar-strain.md, creating fresh metadata",
+            "No valid frontmatter in 2021-01-28-anella-noble-baptist-health-louisville-pregnancy-record.md, creating fresh metadata",
+            "No valid frontmatter in 2023-07-19-anella-noble-baptist-health-louisville-routine-medical-examination.md, creating fresh metadata",
+            "No valid frontmatter in 2025-08-24-anella-noble-court-pleading-plaintiffs-responses-to-interrogatories-2.md, creating fresh metadata",
+            "No valid frontmatter in 2025-08-24-anella-noble-court-pleading-plaintiffs-responses-to-interrogatories.md, creating fresh metadata",
+            "No valid frontmatter in 2025-08-24-anella-noble-lexisnexis-person-report.md, creating fresh metadata",
+            "Unmapped directory 'videos' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "antonio-lopez",
+          "legacy_case_id": "2025-11-14-MVA-001",
+          "success": true,
+          "files_created": 21,
+          "documents_migrated": 18,
+          "entity_links": 4,
+          "duration_seconds": 0.03,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "ashlee-williams",
+          "legacy_case_id": "2023-08-29-MVA-001",
+          "success": true,
+          "files_created": 191,
+          "documents_migrated": 187,
+          "entity_links": 4,
+          "duration_seconds": 1.36,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2023-08-29-ashlee-k-williams-new-chapel-ems-motor-vehicle-collision.md, creating fresh metadata",
+            "No valid frontmatter in 2023-08-29-ashlee-k-williams-new-chapel-ems-mvc-seizure-loc.md, creating fresh metadata",
+            "No valid frontmatter in 2024-03-05-ashlee-k-williams-advanced-medical-practice-new-patient-visit.md, creating fresh metadata",
+            "No valid frontmatter in 2024-10-22-ashlee-k-williams-state-farm-settlement-demand-bodily-injury.md, creating fresh metadata",
+            "Unmapped directory 'videos' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "azaire-lopez",
+          "legacy_case_id": "2025-11-14-MVA-002",
+          "success": true,
+          "files_created": 17,
+          "documents_migrated": 14,
+          "entity_links": 4,
+          "duration_seconds": 0.01,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "brandon-robinson-jr",
+          "legacy_case_id": "2025-12-23-MVA-001",
+          "success": true,
+          "files_created": 18,
+          "documents_migrated": 16,
+          "entity_links": 3,
+          "duration_seconds": 0.03,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "brenda-lang",
+          "legacy_case_id": "2021-09-03-MVA-001",
+          "success": true,
+          "files_created": 210,
+          "documents_migrated": 206,
+          "entity_links": 8,
+          "duration_seconds": 3.02,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2024-11-04-brenda-d-lang-norton-hospital-record-request.md, creating fresh metadata",
+            "No valid frontmatter in 2021-09-03-brenda-d-lang-baptist-health-louisville-ct-head-scan.md, creating fresh metadata",
+            "No valid frontmatter in 2021-09-03-brenda-d-lang-whaley-law-firm-mva-settlement.md, creating fresh metadata",
+            "No valid frontmatter in 2021-06-07-brenda-d-lang-st-lukes-hospital-annual-physical.md, creating fresh metadata",
+            "No valid frontmatter in 2021-09-03-brenda-d-lang-baptist-health-emergency-room-visit.md, creating fresh metadata",
+            "No valid frontmatter in 2021-09-03-brenda-d-lang-louisville-emerg-med-associates-psc-emergency-dept-visit.md, creating fresh metadata",
+            "No valid frontmatter in 2021-09-03-brenda-d-lang-louisville-emergency-dept-visit-neck-pain.md, creating fresh metadata",
+            "No valid frontmatter in 2021-09-03-brenda-d-lang-okolona-fire-protection-district-headache-treatment.md, creating fresh metadata",
+            "No valid frontmatter in 2021-09-06-brenda-d-lang-norton-hospital-medical-record.md, creating fresh metadata",
+            "No valid frontmatter in 2021-09-12-brenda-d-lang-baptist-health-louisville-motor-vehicle-crash.md, creating fresh metadata",
+            "No valid frontmatter in 2023-07-06-brenda-d-lang-whaley-law-firm-request-medical-records.md, creating fresh metadata",
+            "No valid frontmatter in 2023-10-20-brenda-d-lang-adapthealth-medical-records-request.md, creating fresh metadata",
+            "No valid frontmatter in 2021-09-03-brenda-d-lang-okolona-fire-protection-district-patient-care-record.md, creating fresh metadata",
+            "No valid frontmatter in 2021-11-09-brenda-d-lang-dr-chen-post-op-notes.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "brigido-gonzalez-martinez",
+          "legacy_case_id": "2025-12-07-MVA-001",
+          "success": true,
+          "files_created": 17,
+          "documents_migrated": 14,
+          "entity_links": 3,
+          "duration_seconds": 0.02,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "carmelita-wilson",
+          "legacy_case_id": "2025-10-12-MVA-001",
+          "success": true,
+          "files_created": 17,
+          "documents_migrated": 14,
+          "entity_links": 1,
+          "duration_seconds": 0.02,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "caryn-mccay",
+          "legacy_case_id": "2023-07-30-MVA-001",
+          "success": true,
+          "files_created": 506,
+          "documents_migrated": 504,
+          "entity_links": 2,
+          "duration_seconds": 16.4,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2023-07-30-caryn-mccay-lexington-fire-department-ambulance-transport.md, creating fresh metadata",
+            "No valid frontmatter in 2023-07-30-caryn-mccay-lexington-fire-department-emergency-medical-transport.md, creating fresh metadata",
+            "No valid frontmatter in 2023-07-30-caryn-mccay-lexington-fire-department-unspecified-multiple-injuries.md, creating fresh metadata",
+            "No valid frontmatter in 2023-09-18-caryn-mccay-whaley-law-firm-complaint-filed-by-plaintiff.md, creating fresh metadata",
+            "No valid frontmatter in 2023-10-03-caryn-mccay-whaley-law-firm-medical-records-request.md, creating fresh metadata",
+            "No valid frontmatter in 2024-02-29-caryn-mccay-oakwood-hospital-follow-up-appointment.md, creating fresh metadata",
+            "No valid frontmatter in 2023-05-24-caryn-mccay-allstate-insurance-company-plaintiffs-discovery-responses.md, creating fresh metadata",
+            "No valid frontmatter in 2024-01-17-caryn-mccay-plaintiffs-answers-to-discovery.md, creating fresh metadata",
+            "No valid frontmatter in 2010-10-30-caryn-mccay-various-medical-providers-multiple-impairments.md, creating fresh metadata",
+            "No valid frontmatter in 2023-07-30-caryn-mccay-uk-healthcare-motor-vehicle-crash-encounter-part-1.md, creating fresh metadata",
+            "No valid frontmatter in 2023-07-30-caryn-mccay-uk-healthcare-motor-vehicle-crash-encounter-part-2.md, creating fresh metadata",
+            "No valid frontmatter in 2023-07-30-caryn-mccay-uk-healthcare-motor-vehicle-crash-encounter.md, creating fresh metadata",
+            "No valid frontmatter in 2023-08-18-caryn-mccay-uk-healthcare-peritonsillar-abscess.md, creating fresh metadata",
+            "No valid frontmatter in 2023-08-18-caryn-mccay-ukhc-emergency-department-peritonsillar-abscess.md, creating fresh metadata",
+            "No valid frontmatter in 2024-04-16-caryn-mccay-cardinal-hill-rehab-hospital-diabetic-neuropathy-follow-up.md, creating fresh metadata",
+            "No valid frontmatter in 2024-04-16-caryn-mccay-uk-physical-medicine-pain-management.md, creating fresh metadata",
+            "No valid frontmatter in 2024-05-28-caryn-mccay-state-farm-insurance-offer-of-compromise.md, creating fresh metadata",
+            "No valid frontmatter in 2024-06-19-caryn-mccay-whaley-law-firm-records-request.md, creating fresh metadata",
+            "No valid frontmatter in 2024-06-19-caryn-mccay-whaley-law-firm-request-for-records.md, creating fresh metadata",
+            "No valid frontmatter in 2024-06-28-caryn-mccay-ukhc-billing-statements.md, creating fresh metadata",
+            "No valid frontmatter in 2024-09-11-caryn-mccay-allstate-insurance-company-demand-for-settlement-injuries.md, creating fresh metadata"
+          ]
+        }
+      ]
+    },
+    {
+      "batch_num": 2,
+      "cases_count": 15,
+      "migrated": 15,
+      "failed": 0,
+      "files_created": 1770,
+      "cases": [
+        {
+          "case_slug": "cecelia-neltner",
+          "legacy_case_id": "2023-04-01-MVA-001",
+          "success": true,
+          "files_created": 159,
+          "documents_migrated": 157,
+          "entity_links": 2,
+          "duration_seconds": 0.73,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2024-11-25-cecelia-neltner-whaley-law-firm-settlement-demand.md, creating fresh metadata",
+            "No valid frontmatter in 2023-04-01-cecelia-neltner-plaintiff-greg-neltners-answers-to-the-first-set-of-interrogatories-and-requests-for-production-of-documents-propounded-by-defendant-trinity-cohara-discovery-responses.md, creating fresh metadata",
+            "No valid frontmatter in 2024-01-19-cecelia-neltner-answers-to-interrogatories.md, creating fresh metadata",
+            "No valid frontmatter in 2015-04-20-cecelia-neltner-st-elizabeth-healthcare-well-child-visit.md, creating fresh metadata",
+            "No valid frontmatter in 2024-04-01-cecelia-neltner-whaley-law-firm-record-request.md, creating fresh metadata",
+            "No valid frontmatter in 2025-08-24-cecelia-neltner-cincinnati-childrens-hospital-medical-center-medical-record.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "cecil-finley",
+          "legacy_case_id": "2024-01-24-MVA-001",
+          "success": true,
+          "files_created": 235,
+          "documents_migrated": 233,
+          "entity_links": 3,
+          "duration_seconds": 0.82,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2023-01-24-cecil-finley-ul-mary-and-elizabeth-hospital-motor-vehicle-collision.md, creating fresh metadata",
+            "No valid frontmatter in 2024-01-24-cecil-finley-southeastern-emergency-services-initial-er-visit.md, creating fresh metadata",
+            "No valid frontmatter in 2024-01-24-cecil-finley-uofl-physicians-mvc-headache-neck-pain.md, creating fresh metadata",
+            "No valid frontmatter in 2024-02-12-cecil-finley-uofl-physicians-medical-records-request.md, creating fresh metadata",
+            "No valid frontmatter in 2024-04-22-cecil-finley-uofl-physicians-motor-vehicle-accident.md, creating fresh metadata",
+            "Unmapped directory 'videos' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "charles-godsey",
+          "legacy_case_id": "2025-06-30-MVA-001",
+          "success": true,
+          "files_created": 104,
+          "documents_migrated": 100,
+          "entity_links": 4,
+          "duration_seconds": 1.57,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2025-06-30-charles-godsey-medical-records-mary-elizabeth-hospital-visit.md, creating fresh metadata",
+            "No valid frontmatter in 2025-10-08-charles-godsey-negotiation-settlement-progressive-settlement-demand.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "charles-t-johnson",
+          "legacy_case_id": "2023-04-18-MVA-001",
+          "success": true,
+          "files_created": 187,
+          "documents_migrated": 184,
+          "entity_links": 3,
+          "duration_seconds": 0.81,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2024-10-08-charles-t-johnson-university-of-louisville-hospital-radiologyrecords-request.md, creating fresh metadata",
+            "No valid frontmatter in 2024-10-08-charles-t-johnson-university-of-louisville-hospital-radiologyrecordsrequest.md, creating fresh metadata",
+            "No valid frontmatter in 2023-04-18-charles-t-johnson-medical-jewish-hospital-record-requests-wlf-email-request-for-certified-records.md, creating fresh metadata",
+            "No valid frontmatter in 2025-08-24-charles-t-johnson-plaintiffs-answers-to-interrogatories-and-requests-for-production-of-documents-propounded-by-defendant-robert-lowe-court-pleading-filed-by-charles-johnson.md, creating fresh metadata",
+            "No valid frontmatter in 2023-04-18-charles-t-johnson-jhl-jewish-hospital-mva-chest-pain-evaluation.md, creating fresh metadata",
+            "No valid frontmatter in 2023-04-18-charles-t-johnson-jhl-jewish-hospital-mva-chest-pain.md, creating fresh metadata",
+            "No valid frontmatter in 2023-05-16-charles-t-johnson-jewish-hospital-medical-records.md, creating fresh metadata",
+            "No valid frontmatter in 2023-12-11-charles-t-johnson-state-farm-insurance-settlement-demand.md, creating fresh metadata",
+            "No valid frontmatter in 2024-07-22-charles-t-johnson-whaley-law-firm-record-request.md, creating fresh metadata",
+            "Unmapped directory 'videos' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "christopher-lanier",
+          "legacy_case_id": "2025-06-28-MVA-001",
+          "success": true,
+          "files_created": 55,
+          "documents_migrated": 52,
+          "entity_links": 2,
+          "duration_seconds": 0.14,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2025-11-07-national-general-settlement-demand.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "christopher-wilkerson",
+          "legacy_case_id": "2024-02-15-MVA-002",
+          "success": true,
+          "files_created": 321,
+          "documents_migrated": 317,
+          "entity_links": 3,
+          "duration_seconds": 1.0,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2024-03-20-christopher-wilkerson-adair-family-medical-center-medical-records-request-2.md, creating fresh metadata",
+            "No valid frontmatter in 2024-03-20-christopher-wilkerson-adair-family-medical-center-medical-records-request-3.md, creating fresh metadata",
+            "No valid frontmatter in 2024-03-20-christopher-wilkerson-adair-family-medical-center-medical-records-request.md, creating fresh metadata",
+            "No valid frontmatter in 2025-08-24-christopher-wilkerson-ephraim-mcdowell-regional-medical-center-medical-records.md, creating fresh metadata",
+            "No valid frontmatter in 2024-02-15-christopher-wilkerson-ephraim-mcdowell-regional-medical-center-workmans-compensation.md, creating fresh metadata",
+            "No valid frontmatter in 2024-03-07-christopher-wilkerson-adair-family-medical-center-workers-compensation-claim.md, creating fresh metadata",
+            "No valid frontmatter in 2024-03-20-christopher-wilkerson-ephraim-mcdowell-regional-medical-center-medical-records-request.md, creating fresh metadata",
+            "No valid frontmatter in 2024-11-12-medical-narrative-report-request-taylor-county-chiropractic-v2.md, creating fresh metadata",
+            "No valid frontmatter in 2024-11-12-medical-narrative-report-request-taylor-county-chiropractic.md, creating fresh metadata",
+            "No valid frontmatter in 2025-10-16-christopher-wilkerson-wc-medical-taylor-county-chiropractic-and-rehabilitation-medical-records-and-bills.md, creating fresh metadata",
+            "No valid frontmatter in 2025-10-16-christopher-wilkerson-wc-medical-taylor-county-chiropractic-medical-records-and-bills-1.md, creating fresh metadata",
+            "No valid frontmatter in 2025-10-16-christopher-wilkerson-wc-medical-taylor-county-chiropractic-medical-records-and-bills.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "clarence-robinson",
+          "legacy_case_id": "2021-06-10-MVA-001",
+          "success": true,
+          "files_created": 8,
+          "documents_migrated": 6,
+          "entity_links": 1,
+          "duration_seconds": 0.01,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "colleen-colvin",
+          "legacy_case_id": "2023-10-01-MVA-001",
+          "success": true,
+          "files_created": 117,
+          "documents_migrated": 115,
+          "entity_links": 2,
+          "duration_seconds": 31.45,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2024-08-16-colleen-m-colvin-zip-clinic-urgent-care-medical-records-request-2.md, creating fresh metadata",
+            "No valid frontmatter in 2023-10-01-colleen-m-colvin-paul-rafferty-plaintiffs-interrogatories.md, creating fresh metadata",
+            "No valid frontmatter in 2017-09-01-colleen-m-colvin-norton-community-medical-associates-medical-record-visit.md, creating fresh metadata",
+            "No valid frontmatter in 2023-11-07-colleen-m-colvin-baptist-health-hardin-motor-vehicle-crash.md, creating fresh metadata",
+            "No valid frontmatter in 2025-01-29-colvin-cmr-ncma-barret-ave-emr.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "collie-williams-sr",
+          "legacy_case_id": "2025-11-24-MVA-001",
+          "success": true,
+          "files_created": 16,
+          "documents_migrated": 14,
+          "entity_links": 1,
+          "duration_seconds": 0.02,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "collieon-williams",
+          "legacy_case_id": "2025-11-24-MVA-002",
+          "success": true,
+          "files_created": 16,
+          "documents_migrated": 14,
+          "entity_links": 1,
+          "duration_seconds": 0.02,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "connie-goree",
+          "legacy_case_id": "2024-09-03-MVA-001",
+          "success": true,
+          "files_created": 68,
+          "documents_migrated": 65,
+          "entity_links": 1,
+          "duration_seconds": 0.12,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "cora-hall",
+          "legacy_case_id": "2022-12-05-OTH-001",
+          "success": true,
+          "files_created": 419,
+          "documents_migrated": 417,
+          "entity_links": 2,
+          "duration_seconds": 3.2,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2023-01-06-cora-hall-medical-center-scottsville-request-for-records.md, creating fresh metadata",
+            "No valid frontmatter in 2023-01-09-cora-hall-medical-center-of-scottsville-er-records-request.md, creating fresh metadata",
+            "No valid frontmatter in 2024-03-18-cora-hall-commonwealth-ime-wrist-fracture-report.md, creating fresh metadata",
+            "No valid frontmatter in 2024-12-13-cora-hall-the-medical-center-at-bowling-green-medical-records-request-2.md, creating fresh metadata",
+            "No valid frontmatter in 2024-12-13-cora-hall-the-medical-center-at-bowling-green-medical-records-request-3.md, creating fresh metadata",
+            "No valid frontmatter in 2024-12-13-cora-hall-the-medical-center-of-scottsville-medical-records-request-2.md, creating fresh metadata",
+            "No valid frontmatter in 2024-12-13-cora-hall-the-medical-center-of-scottsville-medical-records-request-3.md, creating fresh metadata",
+            "No valid frontmatter in 2025-02-04-cora-hall-scottsville-rural-health-clinic-medical-records-request-2.md, creating fresh metadata",
+            "No valid frontmatter in 2025-02-04-cora-hall-scottsville-rural-health-clinic-medical-records.md, creating fresh metadata",
+            "No valid frontmatter in 2023-01-26-cora-hall-med-conte-heattt-medical-records.md, creating fresh metadata",
+            "No valid frontmatter in 2024-11-20-cora-hall-plaintiffs-notice-of-disclosure.md, creating fresh metadata",
+            "No valid frontmatter in 2021-12-05-cora-hall-the-medical-center-at-bowling-green-medical-records.md, creating fresh metadata",
+            "No valid frontmatter in 2022-12-08-cora-hall-med-center-health-anesthesia-lower-arm-surgery.md, creating fresh metadata",
+            "No valid frontmatter in 2024-06-19-cora-hall-medical-center-scottsville-pastdue-balance-reminders.md, creating fresh metadata",
+            "No valid frontmatter in 2022-12-05-cora-hall-accidentfund-claim-payment-report.md, creating fresh metadata",
+            "No valid frontmatter in 2022-12-05-cora-hall-accidentfund-insurance-company-of-america-claim-payment-report.md, creating fresh metadata",
+            "No valid frontmatter in 2022-12-05-cora-hall-accidentfund-insurance-payment-report.md, creating fresh metadata",
+            "No valid frontmatter in 2024-11-20-cora-hall-initial-notice-of-disclosure-plaintiff-vs-sonic-drive-in.md, creating fresh metadata",
+            "No valid frontmatter in 2021-12-08-cora-hall-the-medical-center-of-scottsville-medical-records-request.md, creating fresh metadata",
+            "No valid frontmatter in 2022-12-05-cora-hall-commonwealth-pain-associates-pllc-left-hand-fracture-pain.md, creating fresh metadata",
+            "No valid frontmatter in 2022-12-08-cora-hall-mch-ortho-and-sports-med-left-radius-fracture-orif.md, creating fresh metadata",
+            "No valid frontmatter in 2022-12-08-cora-hall-medical-center-bowling-green-left-distal-radius-fracture.md, creating fresh metadata",
+            "No valid frontmatter in 2022-12-08-cora-hall-the-medical-center-at-scottsville-wrist-fracture-x-ray.md, creating fresh metadata",
+            "No valid frontmatter in 2023-01-06-cora-hall-medical-center-scottsville-hipaa-authorization.md, creating fresh metadata",
+            "No valid frontmatter in 2023-01-09-cora-hall-medical-center-orthopaedics-request-for-medical-records.md, creating fresh metadata",
+            "No valid frontmatter in 2023-01-11-cora-hall-mch-orthopedics-plus-physical-therapy-l-distal-radius.md, creating fresh metadata",
+            "No valid frontmatter in 2023-01-11-cora-hall-mch-orthopedics-plus-scottsville-left-radius-fracture-treatment.md, creating fresh metadata",
+            "No valid frontmatter in 2023-01-31-cora-hall-orthopedics-plus-physical-therapy-wrist-treatment-note.md, creating fresh metadata",
+            "No valid frontmatter in 2023-03-15-cora-hall-saint-francis-hospital-post-operative-care.md, creating fresh metadata",
+            "No valid frontmatter in 2023-05-25-cora-hall-ips-riverside-wrist-pain-management.md, creating fresh metadata",
+            "No valid frontmatter in 2023-08-04-cora-hall-the-medical-center-of-bowling-green-record-request.md, creating fresh metadata",
+            "No valid frontmatter in 2023-10-18-cora-hall-ips-riverside-wrist-pain-evaluation.md, creating fresh metadata",
+            "No valid frontmatter in 2023-10-19-cora-hall-orthopedic-plus-physical-therapy-request-for-records.md, creating fresh metadata",
+            "No valid frontmatter in 2023-10-19-cora-hall-orthopedics-plus-physical-therapy-record-request.md, creating fresh metadata",
+            "No valid frontmatter in 2023-10-19-cora-hall-whaley-law-firm-record-request.md, creating fresh metadata",
+            "No valid frontmatter in 2024-02-06-cora-hall-dr-jeffrey-hazlewood-medical-report-analysis.md, creating fresh metadata",
+            "No valid frontmatter in 2024-12-13-cora-hall-orthopedics-plus-hipaa-authorization.md, creating fresh metadata",
+            "No valid frontmatter in 2024-12-13-cora-hall-whaley-law-firm-certified-record-request.md, creating fresh metadata",
+            "No valid frontmatter in 2024-12-13-cora-hall-whaley-law-firm-medical-record-request.md, creating fresh metadata",
+            "No valid frontmatter in 2024-12-13-cora-hall-whaley-law-firm-records-request.md, creating fresh metadata",
+            "No valid frontmatter in 2025-01-31-cora-hall-whaley-law-firm-request-for-records.md, creating fresh metadata",
+            "No valid frontmatter in 2025-02-04-cora-hall-orthopedic-plus-pt-bowling-green-medical-records-request.md, creating fresh metadata",
+            "No valid frontmatter in 2025-09-22-c-hall-mch-ortho-records.md, creating fresh metadata",
+            "No valid frontmatter in cora-hall-medical-records.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "corey-todd",
+          "legacy_case_id": "2025-08-02-MVA-001",
+          "success": true,
+          "files_created": 18,
+          "documents_migrated": 16,
+          "entity_links": 1,
+          "duration_seconds": 0.02,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "cory-stephenson",
+          "legacy_case_id": "2025-09-03-MVA-001",
+          "success": true,
+          "files_created": 39,
+          "documents_migrated": 36,
+          "entity_links": 2,
+          "duration_seconds": 0.4,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2025-09-03-cory-stephenson-medical-university-of-louisville-hospital-medical-bills-u-of-l-hospital-itemized-statement-and-charges.md, creating fresh metadata",
+            "No valid frontmatter in 2025-09-03-cory-stephenson-medical-university-of-louisville-hospital-medical-bills-u-of-l-hospital-itemized-statement-of-charges.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "curtis-lee-justice",
+          "legacy_case_id": "2023-02-05-MVA-001",
+          "success": true,
+          "files_created": 8,
+          "documents_migrated": 6,
+          "entity_links": 1,
+          "duration_seconds": 0.01,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/"
+          ]
+        }
+      ]
+    },
+    {
+      "batch_num": 3,
+      "cases_count": 15,
+      "migrated": 15,
+      "failed": 0,
+      "files_created": 1972,
+      "cases": [
+        {
+          "case_slug": "cynthia-gibson",
+          "legacy_case_id": "2025-07-09-MVA-001",
+          "success": true,
+          "files_created": 78,
+          "documents_migrated": 74,
+          "entity_links": 4,
+          "duration_seconds": 0.25,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "dakota-mccord",
+          "legacy_case_id": "2025-10-12-MVA-002",
+          "success": true,
+          "files_created": 34,
+          "documents_migrated": 31,
+          "entity_links": 3,
+          "duration_seconds": 0.06,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "dana-jackson",
+          "legacy_case_id": "2024-01-24-MVA-002",
+          "success": true,
+          "files_created": 153,
+          "documents_migrated": 149,
+          "entity_links": 3,
+          "duration_seconds": 0.63,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2024-08-14-dana-jackson-medical-vip-imaging-medical-bills-chartswap-statement-of-no-billing-records.md, creating fresh metadata",
+            "No valid frontmatter in 2024-01-25-dana-jackson-meh-motor-vehicle-crash-minor.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "daniel-w-volk",
+          "legacy_case_id": "2021-09-24-MVA-001",
+          "success": true,
+          "files_created": 330,
+          "documents_migrated": 326,
+          "entity_links": 7,
+          "duration_seconds": 6.77,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2017-04-24-daniel-w-volk-baptist-health-medical-group-annual-exam-visit.md, creating fresh metadata",
+            "No valid frontmatter in 2018-09-20-daniel-w-volk-baptist-health-medical-group-colon-cancer-screening-referral.md, creating fresh metadata",
+            "No valid frontmatter in 2018-09-20-daniel-w-volk-baptist-health-medical-group-multiple-referrals-colon-leg.md, creating fresh metadata",
+            "No valid frontmatter in 2021-12-27-daniel-w-volk-norton-neuroscience-institute-neurosurgery-telehealth-visit.md, creating fresh metadata",
+            "No valid frontmatter in 2022-01-07-daniel-w-volk-norton-audubon-hospital-brain-mri-report.md, creating fresh metadata",
+            "No valid frontmatter in 2022-06-21-daniel-w-volk-norton-brownsboro-hospital-meningioma-admission.md, creating fresh metadata",
+            "No valid frontmatter in 2023-01-18-daniel-w-volk-norton-brownsboro-hospital-mri-brain-meningioma.md, creating fresh metadata",
+            "No valid frontmatter in 2023-01-18-daniel-w-volk-norton-healthcare-mri-bill.md, creating fresh metadata",
+            "No valid frontmatter in 2023-01-18-daniel-w-volk-norton-healthcare-mri-brain-with-contrast.md, creating fresh metadata",
+            "No valid frontmatter in 2023-03-23-daniel-w-volk-united-states-district-court-complaint-filed-by-united-states-district-court.md, creating fresh metadata",
+            "No valid frontmatter in 2023-10-11-daniel-w-volk-norton-healthcare-hipaa-authorization.md, creating fresh metadata",
+            "No valid frontmatter in 2023-10-11-daniel-w-volk-norton-neuroscience-institute-hipaa-authorization.md, creating fresh metadata",
+            "No valid frontmatter in 2023-10-11-daniel-w-volk-whaley-law-firm-record-request.md, creating fresh metadata",
+            "No valid frontmatter in daniel-volk-combined-exhibits.md, creating fresh metadata",
+            "No valid frontmatter in 2024-04-23-daniel-w-volk-whaley-settlement-demand-letter.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "davis-robinson",
+          "legacy_case_id": "2025-05-02-SF-001",
+          "success": true,
+          "files_created": 139,
+          "documents_migrated": 136,
+          "entity_links": 2,
+          "duration_seconds": 0.25,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2025-05-15-medical-orthopaedic-surgery-center-bill-001.md, creating fresh metadata",
+            "No valid frontmatter in 2025-06-13-medical-sound-mind-counseling-service-bill-001.md, creating fresh metadata",
+            "No valid frontmatter in 2025-05-15-medical-orthopaedic-surgery-center-quadriceps-repair-001.md, creating fresh metadata",
+            "No valid frontmatter in 2025-05-15-medical-orthopaedic-surgery-center-quadriceps-surgery-001.md, creating fresh metadata",
+            "No valid frontmatter in 2025-05-02-evidence-client-injury-ankle-bruising-001.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "deanna-jones",
+          "legacy_case_id": "2025-07-30-MVA-001",
+          "success": true,
+          "files_created": 35,
+          "documents_migrated": 32,
+          "entity_links": 5,
+          "duration_seconds": 0.08,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2025-08-19-deanna-jones-medical-primary-express-care-wellness-medical-records-primary-express-care-wellness-medical-records-and-charges.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "deanna-scott",
+          "legacy_case_id": "2025-12-21-MVA-001",
+          "success": true,
+          "files_created": 16,
+          "documents_migrated": 14,
+          "entity_links": 1,
+          "duration_seconds": 0.02,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "debra-marshall",
+          "legacy_case_id": "2022-12-03-MVA-001",
+          "success": true,
+          "files_created": 241,
+          "documents_migrated": 237,
+          "entity_links": 3,
+          "duration_seconds": 2.88,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2024-04-01-debra-marshall-tristar-skyline-medical-center-medical-records-request-2.md, creating fresh metadata",
+            "No valid frontmatter in 2024-04-01-debra-marshall-tristar-skyline-medical-center-medical-records-request.md, creating fresh metadata",
+            "No valid frontmatter in 2024-04-01-debra-marshall-tristar-skyline-medical-center-request-for-medical-records.md, creating fresh metadata",
+            "No valid frontmatter in 2024-04-18-debra-marshall-skyline-medical-center-hipaa-authorization.md, creating fresh metadata",
+            "No valid frontmatter in 2024-04-18-debra-marshall-skyline-medical-center-medical-records-request.md, creating fresh metadata",
+            "No valid frontmatter in 2024-07-18-debra-marshall-doverside-emergency-physicians-record-request.md, creating fresh metadata",
+            "No valid frontmatter in 2024-07-18-debra-marshall-the-medical-center-at-caverna-medical-records-request-2.md, creating fresh metadata",
+            "No valid frontmatter in 2024-07-18-debra-marshall-the-medical-center-at-caverna-medical-records.md, creating fresh metadata",
+            "No valid frontmatter in 2023-01-04-debra-marshall-whaley-law-firm-client-intake-form.md, creating fresh metadata",
+            "No valid frontmatter in 2015-07-21-debra-marshall-kaiser-permanente-annual-checkup.md, creating fresh metadata",
+            "No valid frontmatter in 2022-12-03-debra-marshall-air-evac-ems-inc-hip-injury-transport.md, creating fresh metadata",
+            "No valid frontmatter in 2022-12-03-debra-marshall-barren-metcalfe-ems-traffic-collision-report.md, creating fresh metadata",
+            "No valid frontmatter in 2022-12-03-julie-rutledge-skyline-medical-center-medical-record.md, creating fresh metadata",
+            "No valid frontmatter in 2023-03-15-debra-marshall-tristar-skyline-medical-center-medical-records-release.md, creating fresh metadata",
+            "No valid frontmatter in 2023-09-29-debra-marshall-whaley-law-firm-request-for-records.md, creating fresh metadata",
+            "No valid frontmatter in 2024-04-01-debra-marshall-tj-health-pavilion-medical-records-request.md, creating fresh metadata",
+            "No valid frontmatter in 2024-04-11-debra-faye-marshall-t-j-samson-community-hospital-medical-records.md, creating fresh metadata",
+            "No valid frontmatter in 2024-04-11-debra-marshall-t-j-samson-community-hospital-medical-record-certification.md, creating fresh metadata",
+            "No valid frontmatter in 2024-07-18-debra-marshall-the-medical-center-at-caverna-medical-records-request.md, creating fresh metadata",
+            "No valid frontmatter in 2024-10-10-debra-marshall-whaley-law-firm-settlement-demand.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "destiny-adkins",
+          "legacy_case_id": "2021-04-16-MVA-001",
+          "success": true,
+          "files_created": 159,
+          "documents_migrated": 155,
+          "entity_links": 4,
+          "duration_seconds": 8.03,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2025-08-24-destiny-adkins-plaintiffs-responses-interrogatories.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "dewayne-ward",
+          "legacy_case_id": "2023-08-29-MVA-002",
+          "success": true,
+          "files_created": 90,
+          "documents_migrated": 86,
+          "entity_links": 3,
+          "duration_seconds": 0.33,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2024-10-22-dewayne-ward-whaley-law-firm-settlement-demand.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "diamond-williams",
+          "legacy_case_id": "2025-12-23-MVA-002",
+          "success": true,
+          "files_created": 18,
+          "documents_migrated": 16,
+          "entity_links": 3,
+          "duration_seconds": 0.02,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "douglas-livers",
+          "legacy_case_id": "2023-01-19-MVA-001",
+          "success": true,
+          "files_created": 173,
+          "documents_migrated": 169,
+          "entity_links": 7,
+          "duration_seconds": 0.81,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2023-12-06-douglas-g-livers-aptiva-health-mva-shoulder-foot-pain.md, creating fresh metadata",
+            "No valid frontmatter in 2023-12-06-douglas-g-livers-aptiva-health-new-patient-visit.md, creating fresh metadata",
+            "No valid frontmatter in 2024-01-17-douglas-g-livers-aptiva-health-left-shoulder-foot.md, creating fresh metadata",
+            "No valid frontmatter in 2024-01-22-douglas-g-livers-aptiva-health-left-shoulder-foot-pain.md, creating fresh metadata",
+            "No valid frontmatter in 2024-01-24-douglas-g-livers-aptiva-health-mva-shoulder-foot-pain.md, creating fresh metadata",
+            "No valid frontmatter in 2024-01-31-douglas-g-livers-aptiva-health-mva-shoulder-foot.md, creating fresh metadata",
+            "No valid frontmatter in 2024-02-07-douglas-g-livers-aptiva-health-mva-shoulder-foot-pain.md, creating fresh metadata",
+            "No valid frontmatter in 2024-02-12-douglas-g-livers-aptiva-health-left-shoulder-left-foot.md, creating fresh metadata",
+            "No valid frontmatter in 2024-02-26-douglas-g-livers-aptiva-health-left-shoulder-pain.md, creating fresh metadata",
+            "No valid frontmatter in 2024-02-28-douglas-g-livers-aptiva-health-left-shoulder-and-foot-treatment.md, creating fresh metadata",
+            "No valid frontmatter in 2024-03-04-douglas-livers-aptiva-health-left-shoulder-pain-mva.md, creating fresh metadata",
+            "No valid frontmatter in 2024-03-11-douglas-g-livers-aptiva-health-mva-shoulder-foot-pain.md, creating fresh metadata",
+            "No valid frontmatter in 2024-03-13-douglas-g-livers-aptiva-health-left-shoulder-pain-mva.md, creating fresh metadata",
+            "No valid frontmatter in 2024-03-18-douglas-livers-aptiva-health-left-shoulder-foot-pain.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "elizabeth-lindsey",
+          "legacy_case_id": "2024-12-01-MVA-001",
+          "success": true,
+          "files_created": 106,
+          "documents_migrated": 102,
+          "entity_links": 3,
+          "duration_seconds": 0.86,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2024-12-09-elizabeth-lindsey-whaley-law-firm-request-medical-records.md, creating fresh metadata",
+            "No valid frontmatter in 723596-001-req-22409620-records.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "estate-of-betty-prince",
+          "legacy_case_id": "2020-07-14-PrL-001",
+          "success": true,
+          "files_created": 392,
+          "documents_migrated": 388,
+          "entity_links": 3,
+          "duration_seconds": 29.94,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2021-10-13-robert-prince-dsjandassociates-hospitalfallopinion.md, creating fresh metadata",
+            "No valid frontmatter in 2025-03-18-prince-expert-nurse-jones-available-may-2-may-6-may-8.md, creating fresh metadata",
+            "No valid frontmatter in 2025-03-27-prince-nurse-jones-request-for-confirmation-of-depo-dates-has-other-commitments-waiting.md, creating fresh metadata",
+            "No valid frontmatter in 2021-10-08-robert-prince-caretenders-subpoena-duces-tecum-2.md, creating fresh metadata",
+            "No valid frontmatter in 2021-10-08-robert-prince-caretenders-subpoena-duces-tecum.md, creating fresh metadata",
+            "No valid frontmatter in 2021-10-08-robert-prince-kings-daughters-health-medical-records-request.md, creating fresh metadata",
+            "No valid frontmatter in 2021-10-08-robert-prince-walmart-pharmacy-betty-prince-medical-records.md, creating fresh metadata",
+            "No valid frontmatter in 2020-07-14-robert-prince-norton-healthcare-medical-charges.md, creating fresh metadata",
+            "No valid frontmatter in 2020-09-08-robert-prince-norton-healthcare-hospital-charges-2.md, creating fresh metadata",
+            "No valid frontmatter in 2020-09-08-robert-prince-norton-healthcare-hospital-charges-3.md, creating fresh metadata",
+            "No valid frontmatter in 2020-09-08-robert-prince-norton-healthcare-hospital-charges.md, creating fresh metadata",
+            "No valid frontmatter in 2020-09-08-robert-prince-norton-healthcare-medical-record-2.md, creating fresh metadata",
+            "No valid frontmatter in 2020-09-08-robert-prince-norton-healthcare-medical-record.md, creating fresh metadata",
+            "No valid frontmatter in 2020-09-08-robert-prince-norton-healthcare-medical-visit-charges.md, creating fresh metadata",
+            "No valid frontmatter in 2024-02-06-robert-prince-norton-hospital-transcript.md, creating fresh metadata",
+            "No valid frontmatter in princedepoinvoice.md, creating fresh metadata",
+            "No valid frontmatter in princeinvoice.md, creating fresh metadata",
+            "No valid frontmatter in 2019-11-14-robert-prince-norton-healthcare-medical-staff-bylaws.md, creating fresh metadata",
+            "No valid frontmatter in 2020-07-14-robert-prince-norton-hospitals-inc-supplemental-responses.md, creating fresh metadata",
+            "No valid frontmatter in 2022-06-20-robert-prince-kidney-care-consultants-subpoena-for-medical-records.md, creating fresh metadata",
+            "No valid frontmatter in 2024-06-17-robert-prince-norton-hospitals-inc-court-pleading.md, creating fresh metadata",
+            "No valid frontmatter in 2024-09-20-robert-prince-norton-hospitals-inc-response-to-motion-to-compel.md, creating fresh metadata",
+            "No valid frontmatter in 2019-01-17-robert-prince-norton-hospital-organization-functions-manual.md, creating fresh metadata",
+            "No valid frontmatter in 2020-01-13-robert-prince-bluegrass-kidney-betty-prince-medical-record.md, creating fresh metadata",
+            "No valid frontmatter in 2020-07-14-robert-prince-norton-health-care-betty-prince-fall-affidavit.md, creating fresh metadata",
+            "No valid frontmatter in 2020-07-14-robert-prince-norton-health-care-fall-incident.md, creating fresh metadata",
+            "No valid frontmatter in 2020-07-14-robert-prince-norton-health-care-patient-fall-2.md, creating fresh metadata",
+            "No valid frontmatter in 2020-10-14-robert-prince-norton-healthcare-medical-records-release.md, creating fresh metadata",
+            "No valid frontmatter in 2021-10-08-robert-prince-kings-daughters-health-trimble-county-medical-building-medical-records-subpoena.md, creating fresh metadata",
+            "No valid frontmatter in 2021-10-08-robert-prince-norton-hospitals-inc-betty-prince-medical-records.md, creating fresh metadata",
+            "No valid frontmatter in 2021-10-27-robert-prince-uofl-physicians-betty-prince-medical-record.md, creating fresh metadata",
+            "No valid frontmatter in 2022-03-09-robert-prince-kindred-healthcare-medical-records-request.md, creating fresh metadata",
+            "No valid frontmatter in 2022-05-09-robert-prince-mro-medical-records-transmittal.md, creating fresh metadata",
+            "No valid frontmatter in 2025-08-24-robert-prince-bluegrass-kidney-consultants-new-patient-visit.md, creating fresh metadata",
+            "No valid frontmatter in 2025-08-24-robert-prince-kindred-at-home-medical-records.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "estate-of-evangeline-young",
+          "legacy_case_id": "2023-08-12-MVA-001",
+          "success": true,
+          "files_created": 8,
+          "documents_migrated": 6,
+          "entity_links": 0,
+          "duration_seconds": 0.0,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/"
+          ]
+        }
+      ]
+    },
+    {
+      "batch_num": 4,
+      "cases_count": 15,
+      "migrated": 15,
+      "failed": 0,
+      "files_created": 1724,
+      "cases": [
+        {
+          "case_slug": "forrest-muss",
+          "legacy_case_id": "2025-07-20-MVA-001",
+          "success": true,
+          "files_created": 38,
+          "documents_migrated": 35,
+          "entity_links": 1,
+          "duration_seconds": 0.05,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "frances-whitis",
+          "legacy_case_id": "2024-09-06-MVA-001",
+          "success": true,
+          "files_created": 290,
+          "documents_migrated": 286,
+          "entity_links": 7,
+          "duration_seconds": 8.73,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2024-09-06-frances-whitis-wc-medical-frankfort-regional-medical-center-record-requests-wlf-certified-medical-records-request.md, creating fresh metadata",
+            "No valid frontmatter in 2024-09-06-frances-whitis-wc-medical-frankfort-regional-medical-center-record-requests-wlf-medical-records-request.md, creating fresh metadata",
+            "No valid frontmatter in 2024-09-06-frances-whitis-wc-medical-family-care-of-the-bluegrass-east-medical-records-cumberland-family-medical-center-inc-medical-records-and-billing.md, creating fresh metadata",
+            "No valid frontmatter in 2024-09-06-frances-whitis-wc-medical-family-care-of-the-bluegrass-east-medical-records-frankfort-regional-medical-center-work-or-school-excuse-notes.md, creating fresh metadata",
+            "No valid frontmatter in 2025-02-27-frances-whitis-frankfort-regional-hospital-medical-records-request-2.md, creating fresh metadata",
+            "Unmapped directory 'videos' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "gerald-jacobs",
+          "legacy_case_id": "2025-10-23-MVA-001",
+          "success": true,
+          "files_created": 8,
+          "documents_migrated": 6,
+          "entity_links": 1,
+          "duration_seconds": 0.01,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "greg-neltner",
+          "legacy_case_id": "2023-04-01-MVA-002",
+          "success": true,
+          "files_created": 199,
+          "documents_migrated": 195,
+          "entity_links": 4,
+          "duration_seconds": 0.98,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2024-11-25-greg-neltner-whaley-law-firm-settlement-demand.md, creating fresh metadata",
+            "No valid frontmatter in 2023-04-01-greg-neltner-trinity-cohara-answers-to-interrogatories.md, creating fresh metadata",
+            "No valid frontmatter in 2024-01-19-greg-neltner-plaintiffs-answers-to-interrogatories.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "henrietta-jenkins",
+          "legacy_case_id": "2025-05-20-MVA-001",
+          "success": true,
+          "files_created": 59,
+          "documents_migrated": 55,
+          "entity_links": 3,
+          "duration_seconds": 0.59,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2025-05-20-henrietta-jenkins-norton-audubon-hospital-mva-emergency-visit.md, creating fresh metadata",
+            "No valid frontmatter in 2025-06-03-henrietta-jenkins-synergy-rehabilitation-auto-accident-treatment.md, creating fresh metadata",
+            "No valid frontmatter in 2025-06-03-henrietta-jenkins-synergy-rehabilitation-medical-statement-2.md, creating fresh metadata",
+            "No valid frontmatter in 2025-06-03-henrietta-jenkins-synergy-rehabilitation-medical-statement.md, creating fresh metadata",
+            "No valid frontmatter in 2025-10-07-demand-package-1.md, creating fresh metadata",
+            "No valid frontmatter in 2025-10-07-demand-package.md, creating fresh metadata",
+            "No valid frontmatter in henrietta-jenkins-synergy-records-bills-1.md, creating fresh metadata",
+            "No valid frontmatter in jenkinshenrietta-doi-05-20-25.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "hope-renee-padgett",
+          "legacy_case_id": "2023-01-16-MVA-001",
+          "success": true,
+          "files_created": 130,
+          "documents_migrated": 126,
+          "entity_links": 9,
+          "duration_seconds": 0.89,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2023-01-16-hope-renee-padgett-stanton-police-department-traffic-collision-report.md, creating fresh metadata",
+            "No valid frontmatter in 2023-01-17-hope-renee-padgett-clark-regional-medical-center-er-visit-trauma.md, creating fresh metadata",
+            "No valid frontmatter in 2023-01-17-hope-renee-padgett-clark-regional-medical-center-trauma-visit-records.md, creating fresh metadata",
+            "No valid frontmatter in 2023-01-17-hope-renee-padgett-clark-regional-medical-ctr-head-pain-injury.md, creating fresh metadata",
+            "No valid frontmatter in 2023-01-25-hope-renee-padgett-baptist-health-medical-group-neurology-hipaa-authorization.md, creating fresh metadata",
+            "No valid frontmatter in 2023-01-25-hope-renee-padgett-clark-regional-medical-center-hipaa-authorization.md, creating fresh metadata",
+            "No valid frontmatter in 2023-01-31-hope-renee-padgett-chi-saint-joseph-mount-sterling-hospital-orthopedics.md, creating fresh metadata",
+            "No valid frontmatter in 2023-12-07-hope-renee-padgett-progressive-insurance-company-settlement-demand.md, creating fresh metadata",
+            "No valid frontmatter in 2023-12-07-hope-renee-padgett-whaley-law-firm-settlement-demand.md, creating fresh metadata",
+            "No valid frontmatter in 2024-03-15-hope-renee-padgett-chi-saint-joseph-mount-sterling-mri-thoracic-spine-and-brain.md, creating fresh metadata",
+            "No valid frontmatter in 2024-07-30-hope-renee-padgett-saint-joseph-mount-sterling-dxa-bone-density.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "imari-wheat",
+          "legacy_case_id": "2026-01-23-MVA-001",
+          "success": true,
+          "files_created": 8,
+          "documents_migrated": 6,
+          "entity_links": 0,
+          "duration_seconds": 0.01,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "jacob-herrle",
+          "legacy_case_id": "2025-06-17-MVA-001",
+          "success": true,
+          "files_created": 48,
+          "documents_migrated": 44,
+          "entity_links": 2,
+          "duration_seconds": 0.13,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "james-kiper",
+          "legacy_case_id": "2022-12-05-MVA-001",
+          "success": true,
+          "files_created": 441,
+          "documents_migrated": 437,
+          "entity_links": 9,
+          "duration_seconds": 40.26,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2022-12-05-james-kiper-medical-records-synergy-injury-care-treatment-records.md, creating fresh metadata",
+            "No valid frontmatter in 2022-12-05-james-kiper-synergy-injury-care-records.md, creating fresh metadata",
+            "No valid frontmatter in 2014-04-17-james-kiper-medical-records-norton-community-medical-associates-audubon-treatment-records-part-10.md, creating fresh metadata",
+            "No valid frontmatter in 2014-04-17-james-kiper-medical-records-norton-community-medical-associates-audubon-treatment-records-part-11.md, creating fresh metadata",
+            "No valid frontmatter in 2014-04-17-james-kiper-medical-records-norton-community-medical-associates-audubon-treatment-records-part-12.md, creating fresh metadata",
+            "No valid frontmatter in 2014-04-17-james-kiper-medical-records-norton-community-medical-associates-audubon-treatment-records-part-13.md, creating fresh metadata",
+            "No valid frontmatter in 2014-04-17-james-kiper-medical-records-norton-community-medical-associates-audubon-treatment-records-part-14.md, creating fresh metadata",
+            "No valid frontmatter in 2014-04-17-james-kiper-medical-records-norton-community-medical-associates-audubon-treatment-records-part-15.md, creating fresh metadata",
+            "No valid frontmatter in 2014-04-17-james-kiper-medical-records-norton-community-medical-associates-audubon-treatment-records-part-16.md, creating fresh metadata",
+            "No valid frontmatter in 2014-04-17-james-kiper-medical-records-norton-community-medical-associates-audubon-treatment-records-part-17.md, creating fresh metadata",
+            "No valid frontmatter in 2014-04-17-james-kiper-medical-records-norton-community-medical-associates-audubon-treatment-records-part-2.md, creating fresh metadata",
+            "No valid frontmatter in 2014-04-17-james-kiper-medical-records-norton-community-medical-associates-audubon-treatment-records-part-5.md, creating fresh metadata",
+            "No valid frontmatter in 2014-04-17-james-kiper-medical-records-norton-community-medical-associates-audubon-treatment-records-part-6.md, creating fresh metadata",
+            "No valid frontmatter in 2014-04-17-james-kiper-medical-records-norton-community-medical-associates-audubon-treatment-records-part-7.md, creating fresh metadata",
+            "No valid frontmatter in 2014-04-17-james-kiper-medical-records-norton-community-medical-associates-audubon-treatment-records-part-8.md, creating fresh metadata",
+            "No valid frontmatter in 2014-04-17-james-kiper-medical-records-norton-community-medical-associates-audubon-treatment-records-part-9.md, creating fresh metadata",
+            "No valid frontmatter in 2014-04-17-james-kiper-medical-records-norton-community-medical-associates-audubon-treatment-records.md, creating fresh metadata",
+            "No valid frontmatter in 2014-04-17-james-kiper-norton-community-medical-associates-audubon-medical-records.md, creating fresh metadata",
+            "No valid frontmatter in 2014-05-05-james-kiper-medical-records-norton-audubon-hospital-treatment-records-2.md, creating fresh metadata",
+            "No valid frontmatter in 2014-05-05-james-kiper-norton-audubon-hospital-medical-records.md, creating fresh metadata",
+            "No valid frontmatter in 2022-12-05-james-kiper-medical-records-mary-and-elizabeth-hospital-emergency-visit-part-1.md, creating fresh metadata",
+            "No valid frontmatter in 2022-12-05-james-kiper-medical-records-mary-and-elizabeth-hospital-emergency-visit-part-3.md, creating fresh metadata",
+            "No valid frontmatter in 2022-12-05-james-kiper-medical-records-mary-and-elizabeth-hospital-emergency-visit.md, creating fresh metadata",
+            "No valid frontmatter in 2022-12-05-james-kiper-meh-mary-elizabeth-hospital-motor-vehicle-crash.md, creating fresh metadata",
+            "No valid frontmatter in 2022-12-12-james-kiper-medical-records-synergy-injury-care-lumbar-spine-mri-report.md, creating fresh metadata",
+            "No valid frontmatter in 2022-12-12-james-kiper-medical-records-synergy-injury-care-lumbar-spine-mri.md, creating fresh metadata",
+            "No valid frontmatter in 2022-12-12-james-kiper-synergy-injury-care-mri-lumbar-spine-report.md, creating fresh metadata",
+            "No valid frontmatter in 2022-12-12-james-kiper-synergy-injury-care-mri-lumbar-spine.md, creating fresh metadata",
+            "No valid frontmatter in 2023-02-02-james-kiper-correspondence-mary-and-elizabeth-hospital-records-transmittal.md, creating fresh metadata",
+            "No valid frontmatter in 2023-02-02-james-kiper-mary-and-elizabeth-hospital-medical-records-transmittal.md, creating fresh metadata",
+            "No valid frontmatter in 2023-04-26-james-kiper-settlement-negotiation-travelers-demand-letter.md, creating fresh metadata",
+            "No valid frontmatter in 2023-04-26-james-kiper-whaley-law-firm-settlement-demand.md, creating fresh metadata",
+            "No valid frontmatter in 2024-04-17-james-kiper-litigation-jefferson-circuit-court-notice-of-filing.md, creating fresh metadata",
+            "No valid frontmatter in 2024-04-17-james-kiper-whaley-law-firm-notice-of-filing-plaintiff-james-kiper.md, creating fresh metadata",
+            "Unmapped directory 'videos' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "james-lanier",
+          "legacy_case_id": "2025-06-28-MVA-002",
+          "success": true,
+          "files_created": 61,
+          "documents_migrated": 58,
+          "entity_links": 3,
+          "duration_seconds": 0.5,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "james-sadler",
+          "legacy_case_id": "2023-04-07-MVA-001",
+          "success": true,
+          "files_created": 123,
+          "documents_migrated": 119,
+          "entity_links": 3,
+          "duration_seconds": 0.72,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2023-11-06-james-sadler-louisville-endodontics-medical-records.md, creating fresh metadata",
+            "No valid frontmatter in 2023-04-07-james-sadler-whaley-law-firm-settlement-report.md, creating fresh metadata",
+            "No valid frontmatter in 2023-06-12-james-sadler-baptist-health-louisville-medical-records-request.md, creating fresh metadata",
+            "No valid frontmatter in 2023-10-18-james-sadler-louisville-endodontics-dental-consultation-fracture.md, creating fresh metadata",
+            "No valid frontmatter in 2023-10-18-james-sadler-louisville-endodontics-dental-exam-records.md, creating fresh metadata",
+            "No valid frontmatter in 2023-10-18-james-sadler-louisville-endodontics-dental-visit-for-pain.md, creating fresh metadata",
+            "No valid frontmatter in 2023-05-25-james-sadler-baptist-health-medical-group-primary-care-injury-treatment.md, creating fresh metadata",
+            "No valid frontmatter in 2023-07-13-james-sadler-baptist-health-louisville-hipaa-authorization.md, creating fresh metadata",
+            "No valid frontmatter in 2023-07-19-james-sadler-whaley-law-firm-client-meeting.md, creating fresh metadata",
+            "No valid frontmatter in 2023-08-04-james-sadler-whaley-law-firm-request-for-records.md, creating fresh metadata",
+            "No valid frontmatter in 2024-09-17-james-sadler-state-farm-insurance-company-settlement-demand-for-injuries.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "jasmine-wilson",
+          "legacy_case_id": "2025-10-12-MVA-003",
+          "success": true,
+          "files_created": 47,
+          "documents_migrated": 44,
+          "entity_links": 4,
+          "duration_seconds": 0.1,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2025-10-21-jasmine-wilson-insurance-pip-progressive-direct-insurance-company-pip-application-benefits.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "jaysha-aponte",
+          "legacy_case_id": "2025-03-15-MVA-001",
+          "success": true,
+          "files_created": 70,
+          "documents_migrated": 67,
+          "entity_links": 4,
+          "duration_seconds": 0.33,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2025-03-15-jaysha-aponte-medical-louisville-metro-ems-medical-records-louisville-metro-ems-patient-care-record.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "jensen-ott",
+          "legacy_case_id": "2025-08-06-MVA-001",
+          "success": true,
+          "files_created": 23,
+          "documents_migrated": 20,
+          "entity_links": 2,
+          "duration_seconds": 0.04,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "jeremy-lindsey",
+          "legacy_case_id": "2024-12-01-MVA-002",
+          "success": true,
+          "files_created": 179,
+          "documents_migrated": 175,
+          "entity_links": 3,
+          "duration_seconds": 0.37,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/"
+          ]
+        }
+      ]
+    },
+    {
+      "batch_num": 5,
+      "cases_count": 15,
+      "migrated": 15,
+      "failed": 0,
+      "files_created": 1064,
+      "cases": [
+        {
+          "case_slug": "jerome-hedinger",
+          "legacy_case_id": "2023-10-24-PrL-001",
+          "success": true,
+          "files_created": 169,
+          "documents_migrated": 165,
+          "entity_links": 1,
+          "duration_seconds": 0.68,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2024-03-19-jerome-hedinger-jefferson-animal-hospital-canine-rory-records-2.md, creating fresh metadata",
+            "No valid frontmatter in 2024-03-19-jerome-hedinger-ultimate-md-medical-records-request-2.md, creating fresh metadata",
+            "No valid frontmatter in 2024-03-19-jerome-hedinger-ultimate-md-medical-records-request.md, creating fresh metadata",
+            "No valid frontmatter in 2023-10-24-jerome-hedinger-432-atwood-llc-plaintiffs-discovery-responses.md, creating fresh metadata",
+            "No valid frontmatter in 2023-10-24-jerome-hedinger-whaley-law-firm-intake-agreement.md, creating fresh metadata",
+            "No valid frontmatter in 2024-01-17-jerome-hedinger-william-haney-md-pllc-demographics-and-clinical.md, creating fresh metadata",
+            "No valid frontmatter in 2024-06-24-jerome-hedinger-state-farm-insurance-settlement-demand-bodily-injury.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "jimmy-ferguson",
+          "legacy_case_id": "2024-05-30-MVA-001",
+          "success": true,
+          "files_created": 187,
+          "documents_migrated": 183,
+          "entity_links": 4,
+          "duration_seconds": 0.46,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2024-05-30-baptist-health-hardin-spine-x-rays-er-bill.md, creating fresh metadata",
+            "No valid frontmatter in 2021-08-28-baptist-health-medical-group-neurology-hipaa-authorization.md, creating fresh metadata",
+            "No valid frontmatter in 2025-01-02-baptist-health-medical-group-neck-pain-evaluation.md, creating fresh metadata",
+            "No valid frontmatter in 2025-01-02-baptist-health-neurology-and-neurosurgery-neck-pain-evaluation.md, creating fresh metadata",
+            "No valid frontmatter in 2025-03-18-kort-elizabethtown-pt-medical-records-package.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "jonah-price",
+          "legacy_case_id": "2025-08-25-MVA-001",
+          "success": true,
+          "files_created": 34,
+          "documents_migrated": 31,
+          "entity_links": 2,
+          "duration_seconds": 0.07,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2025-10-09-jonah-price-client-wlf-signed-intake-docs.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "joseph-ott",
+          "legacy_case_id": "2025-08-06-MVA-002",
+          "success": true,
+          "files_created": 27,
+          "documents_migrated": 24,
+          "entity_links": 1,
+          "duration_seconds": 0.08,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "juanita-nicole-downs",
+          "legacy_case_id": "2021-04-16-MVA-002",
+          "success": true,
+          "files_created": 10,
+          "documents_migrated": 6,
+          "entity_links": 3,
+          "duration_seconds": 0.01,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "julian-wilson",
+          "legacy_case_id": "2025-10-12-MVA-004",
+          "success": true,
+          "files_created": 41,
+          "documents_migrated": 38,
+          "entity_links": 4,
+          "duration_seconds": 0.08,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2025-10-21-julian-wilson-insurance-pip-progressive-direct-insurance-company-application-for-pip-benefits.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "julmonzhae-moore",
+          "legacy_case_id": "2023-08-29-MVA-003",
+          "success": true,
+          "files_created": 146,
+          "documents_migrated": 142,
+          "entity_links": 3,
+          "duration_seconds": 1.54,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2024-12-05-julmonzhae-moore-uofl-hospital-medical-records-request.md, creating fresh metadata",
+            "No valid frontmatter in 2023-08-29-julmonzhae-moore-ameripro-ems-llc-traffic-accident-report.md, creating fresh metadata",
+            "No valid frontmatter in 2023-12-15-julmonzhae-moore-liberty-mutual-insurance-settlement-demand-letter.md, creating fresh metadata",
+            "No valid frontmatter in 2023-12-15-julmonzhae-moore-whaley-law-firm-settlement-demand-2.md, creating fresh metadata",
+            "No valid frontmatter in 2023-12-15-julmonzhae-moore-whaley-law-firm-settlement-demand.md, creating fresh metadata",
+            "No valid frontmatter in 2024-08-29-julmonzhae-moore-state-farm-insurance-company-settlement-demand-bodily-injury.md, creating fresh metadata",
+            "No valid frontmatter in 2023-08-29-julmonzhae-moore-ameripro-ems-traffic-accident-ems-report.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "kdaya-austin",
+          "legacy_case_id": null,
+          "success": true,
+          "files_created": 2,
+          "documents_migrated": 0,
+          "entity_links": 0,
+          "duration_seconds": 0.0,
+          "errors": [
+            "Document migration failed: unsupported operand type(s) for /: 'PosixPath' and 'NoneType'"
+          ],
+          "warnings": []
+        },
+        {
+          "case_slug": "kaelin-litton",
+          "legacy_case_id": "2025-10-30-MVA-001",
+          "success": true,
+          "files_created": 16,
+          "documents_migrated": 14,
+          "entity_links": 1,
+          "duration_seconds": 0.01,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "kimberly-brasher",
+          "legacy_case_id": "2023-02-25-PrL-001",
+          "success": true,
+          "files_created": 285,
+          "documents_migrated": 281,
+          "entity_links": 8,
+          "duration_seconds": 2.68,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2023-02-25-kimberly-brasher-deaconess-gateway-hospital-medical-records.md, creating fresh metadata",
+            "No valid frontmatter in 2023-03-10-kimberly-brasher-deaconess-health-system-hospital-services.md, creating fresh metadata",
+            "No valid frontmatter in 2023-04-03-kimberly-brasher-phia-group-subrogation-reimbursement-claims.md, creating fresh metadata",
+            "No valid frontmatter in 2023-06-28-kimberly-brasher-deaconesshealthsystem-hospitalservicesitemization.md, creating fresh metadata",
+            "No valid frontmatter in 2024-02-22-kimberly-brasher-deaconess-hospital-invoice-records.md, creating fresh metadata",
+            "No valid frontmatter in 2024-07-17-kimberly-brasher-lien-the-phia-group-subrogation-notice-and-itemization.md, creating fresh metadata",
+            "No valid frontmatter in 2024-09-11-kimberly-brasher-the-phia-group-subrogation-reimbursement-claims.md, creating fresh metadata",
+            "No valid frontmatter in 2024-07-03-kimberly-brasher-insurance-bi-wlf-settlement-demand-to-walgreens.md, creating fresh metadata",
+            "No valid frontmatter in 2024-07-03-kimberly-brasher-insurance-bi-wlf-settlement-demand.md, creating fresh metadata",
+            "No valid frontmatter in 2023-02-25-kimberly-brasher-deaconess-health-system-hospital-services-itemization.md, creating fresh metadata",
+            "No valid frontmatter in 2023-02-25-kimberly-brasher-deaconess-henderson-hospital-hip-fracture-treatment-2.md, creating fresh metadata",
+            "No valid frontmatter in 2023-02-25-kimberly-brasher-deaconess-henderson-hospital-hip-fracture-treatment.md, creating fresh metadata",
+            "No valid frontmatter in 2023-02-25-kimberly-brasher-deaconess-henderson-hospital-left-hip-fracture.md, creating fresh metadata",
+            "No valid frontmatter in 2023-02-25-kimberly-brasher-james-gish-np-femur-fracture-treatment.md, creating fresh metadata",
+            "No valid frontmatter in 2023-02-25-kimberly-brasher-orthopaedic-associates-hip-fracture-treatment.md, creating fresh metadata",
+            "No valid frontmatter in 2023-02-25-kimberly-brasher-orthopaedic-associates-hip-fracture-visit.md, creating fresh metadata",
+            "No valid frontmatter in 2023-03-10-kimberly-brasher-deaconess-henderson-hospital-medication-overdose-accidental-unintentional.md, creating fresh metadata",
+            "No valid frontmatter in 2023-03-23-kimberly-brasher-medical-kort-physical-therapy-madisonville-medical-records-kort-physical-therapy-progress-notes.md, creating fresh metadata",
+            "No valid frontmatter in 2023-06-12-kimberly-brasher-medical-deaconess-midtown-hospital-medical-records-deaconess-health-system-medical-records-and-operative-notes.md, creating fresh metadata",
+            "No valid frontmatter in 2023-06-28-kimberly-brasher-deaconess-midtown-campus-hospital-left-hip-arthroplasty.md, creating fresh metadata",
+            "No valid frontmatter in 2023-09-18-kimberly-brasher-deaconess-midtown-hospital-hipaa-authorization-2.md, creating fresh metadata",
+            "No valid frontmatter in 2023-09-18-kimberly-brasher-kort-physical-therapy-hipaa-authorization-2.md, creating fresh metadata",
+            "No valid frontmatter in 2024-10-14-kimberly-brasher-deaconess-health-system-radiology-images.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "laniaya-wilson",
+          "legacy_case_id": "2025-10-24-MVA-001",
+          "success": true,
+          "files_created": 16,
+          "documents_migrated": 14,
+          "entity_links": 1,
+          "duration_seconds": 0.02,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "leanora-brown",
+          "legacy_case_id": "2025-08-19-MVA-001",
+          "success": true,
+          "files_created": 39,
+          "documents_migrated": 36,
+          "entity_links": 4,
+          "duration_seconds": 0.36,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2025-08-19-leanora-brown-medical-louisville-metro-ems-medical-records-louisville-metro-ems-patient-care-record.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "lejzane-miftari",
+          "legacy_case_id": "2025-06-18-MVA-001",
+          "success": true,
+          "files_created": 39,
+          "documents_migrated": 36,
+          "entity_links": 3,
+          "duration_seconds": 0.12,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2025-06-23-lejzane-miftari-medical-starlite-chiropractic-medical-records-starlite-chiropractic-medical-records-and-bills-1.md, creating fresh metadata",
+            "No valid frontmatter in 2025-06-23-lejzane-miftari-medical-starlite-chiropractic-medical-records-starlite-chiropractic-medical-records-and-bills.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "lindsey-dunn",
+          "legacy_case_id": "2025-09-24-MVA-001",
+          "success": true,
+          "files_created": 34,
+          "documents_migrated": 31,
+          "entity_links": 3,
+          "duration_seconds": 0.06,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "lori-house",
+          "legacy_case_id": "2025-11-19-MVA-001",
+          "success": true,
+          "files_created": 19,
+          "documents_migrated": 17,
+          "entity_links": 1,
+          "duration_seconds": 0.02,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in intake-2025-11-21-18-41-30.md, creating fresh metadata"
+          ]
+        }
+      ]
+    },
+    {
+      "batch_num": 6,
+      "cases_count": 15,
+      "migrated": 15,
+      "failed": 0,
+      "files_created": 1663,
+      "cases": [
+        {
+          "case_slug": "lorraine-robinson",
+          "legacy_case_id": "2025-11-13-MVA-001",
+          "success": true,
+          "files_created": 16,
+          "documents_migrated": 14,
+          "entity_links": 1,
+          "duration_seconds": 0.01,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "maia-ott",
+          "legacy_case_id": "2025-08-06-MVA-003",
+          "success": true,
+          "files_created": 24,
+          "documents_migrated": 21,
+          "entity_links": 2,
+          "duration_seconds": 0.05,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "malcom-glass-jones",
+          "legacy_case_id": "2024-10-02-MVA-001",
+          "success": true,
+          "files_created": 49,
+          "documents_migrated": 46,
+          "entity_links": 4,
+          "duration_seconds": 0.12,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "maryan-kassim",
+          "legacy_case_id": "2024-08-06-MVA-001",
+          "success": true,
+          "files_created": 205,
+          "documents_migrated": 201,
+          "entity_links": 4,
+          "duration_seconds": 0.58,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2024-10-30-maryan-kassim-insurance-pip-progressive-pip-application-for-benefits.md, creating fresh metadata",
+            "No valid frontmatter in 2024-08-06-maryan-kassim-medical-norton-audubon-hospital-medical-records-norton-audubon-hospital-emergency-department-medical-records.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "miayla-lopez",
+          "legacy_case_id": "2025-11-14-MVA-003",
+          "success": true,
+          "files_created": 27,
+          "documents_migrated": 24,
+          "entity_links": 4,
+          "duration_seconds": 0.05,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "michae-guyton",
+          "legacy_case_id": "2025-11-14-MVA-004",
+          "success": true,
+          "files_created": 23,
+          "documents_migrated": 20,
+          "entity_links": 2,
+          "duration_seconds": 0.03,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "michael-crader",
+          "legacy_case_id": "2023-05-19-MVA-001",
+          "success": true,
+          "files_created": 219,
+          "documents_migrated": 215,
+          "entity_links": 4,
+          "duration_seconds": 0.6,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2023-05-19-michael-crader-medical-uk-albert-chandler-hospital-medical-bills-uk-healthcare-medical-billing-records.md, creating fresh metadata",
+            "No valid frontmatter in 2024-06-04-michael-crader-medical-morehead-va-clinic-record-requests-wlf-medical-records-request-and-auth.md, creating fresh metadata",
+            "No valid frontmatter in 2023-05-19-michael-crader-medical-uk-albert-chandler-hospital-record-requests-uk-healthcare-medical-records.md, creating fresh metadata",
+            "No valid frontmatter in 2023-05-19-michael-crader-investigation-morgan-county-sheriff-dept-police-traffic-collision-report.md, creating fresh metadata",
+            "No valid frontmatter in 2024-09-03-michael-crader-investigation-lexisnexis-smartlinx-person-report-victoria-halsey.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "michael-deshields",
+          "legacy_case_id": "2025-10-31-MVA-001",
+          "success": true,
+          "files_created": 42,
+          "documents_migrated": 39,
+          "entity_links": 1,
+          "duration_seconds": 0.08,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2021-03-10-michael-deshields-client-wlf-signed-intake-documents.md, creating fresh metadata",
+            "No valid frontmatter in 2025-10-31-michael-deshields-medical-louisville-metro-ems-medical-records-louisville-metro-ems-ems-patient-care-record.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "michael-ditto-jr",
+          "legacy_case_id": "2023-04-11-MM-001",
+          "success": true,
+          "files_created": 59,
+          "documents_migrated": 57,
+          "entity_links": 2,
+          "duration_seconds": 0.23,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2023-04-07-michael-ditto-jr-med-medical-norton-women-s-children-s-hospital-medical-records-norton-healthcare-hospital-admission-discharge-summary-records.md, creating fresh metadata",
+            "No valid frontmatter in 2023-06-13-michael-ditto-jr-med-medical-norton-children-s-medical-group-medical-records-norton-childrens-medical-group-well-child-visit-medical-records.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "michael-johnston",
+          "legacy_case_id": "2023-05-03-OTH-001",
+          "success": true,
+          "files_created": 74,
+          "documents_migrated": 71,
+          "entity_links": 2,
+          "duration_seconds": 0.27,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2023-05-11-michael-johnston-medical-uofl-physicians-podiatric-medicine-surgery-medical-records-uofl-physicians-medical-records-and-progress-notes.md, creating fresh metadata",
+            "No valid frontmatter in 2023-05-11-michael-johnston-medical-uofl-physicians-podiatric-medicine-surgery-medical-records-uofl-physicians-medical-records-and-work-status.md, creating fresh metadata",
+            "No valid frontmatter in 2023-07-13-michael-johnston-medical-kort-physical-therapy-record-requests-kort-physical-therapy-physical-therapy-treatment-records.md, creating fresh metadata",
+            "No valid frontmatter in 2024-06-18-michael-johnston-medical-uofl-physicians-podiatric-medicine-surgery-record-requests-wlf-medical-record-request-and-hipaa.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "michael-lanier",
+          "legacy_case_id": "2025-06-28-MVA-003",
+          "success": true,
+          "files_created": 25,
+          "documents_migrated": 22,
+          "entity_links": 1,
+          "duration_seconds": 0.08,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "michelle-mcelroy",
+          "legacy_case_id": "2025-12-28-MVA-001",
+          "success": true,
+          "files_created": 15,
+          "documents_migrated": 13,
+          "entity_links": 1,
+          "duration_seconds": 0.01,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "mohamad-daud-shaheen",
+          "legacy_case_id": "2025-12-24-MVA-001",
+          "success": true,
+          "files_created": 16,
+          "documents_migrated": 14,
+          "entity_links": 1,
+          "duration_seconds": 0.01,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "muhammad-alif",
+          "legacy_case_id": "2022-11-08-MVA-001",
+          "success": true,
+          "files_created": 550,
+          "documents_migrated": 546,
+          "entity_links": 13,
+          "duration_seconds": 5.68,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2023-10-26-muhammad-alif-lien-elevate-patient-financial-solutions-notice-of-outstanding-balance-lien.md, creating fresh metadata",
+            "No valid frontmatter in 2024-08-02-muhammad-alif-medical-spring-creek-emergency-phy-record-requests-wlf-medical-records-request-and-denial.md, creating fresh metadata",
+            "No valid frontmatter in 2023-01-03-muhammad-alif-medical-lynn-family-sports-vision-training-tbi-concussion-therapy-medical-records-lynn-family-sports-vision-training-medical-records-affidavit.md, creating fresh metadata",
+            "No valid frontmatter in 2025-04-23-muhammad-alif-litigation-jacquelyn-b-wickcliffe-and-harbor-house-of-louisville-motion-for-cr-35-examinations.md, creating fresh metadata",
+            "No valid frontmatter in 2025-04-23-muhammad-alif-litigation-jacquelyn-b-wickcliffe-motion-for-cr-35-examinations.md, creating fresh metadata",
+            "No valid frontmatter in 2025-04-23-muhammad-alif-litigation-ward-hocker-thornton-motion-for-cr35-and-costs.md, creating fresh metadata",
+            "No valid frontmatter in 2026-01-28-muhammad-alif-litigation-wlf-supplemental-responses-to-interrogatories.md, creating fresh metadata",
+            "No valid frontmatter in 2021-11-08-muhammad-alif-medical-mayo-spine-clinic-record-requests-mayo-clinic-email-regarding-record-request-processing.md, creating fresh metadata",
+            "No valid frontmatter in 2022-11-08-muhammad-alif-expense-hampton-inn-lexington-medical-center-hotel-reservation-confirmation.md, creating fresh metadata",
+            "No valid frontmatter in 2022-11-22-muhammad-alif-medical-spring-creek-emergency-phy-medical-bills-spring-creek-emerg-phys-medical-bill-and-hcfa-form.md, creating fresh metadata",
+            "No valid frontmatter in 2023-01-03-muhammad-alif-medical-lynn-family-sports-vision-training-tbi-concussion-therapy-medical-bills-lynn-family-sports-vision-training-medical-bills-and-cover-letter-1.md, creating fresh metadata",
+            "No valid frontmatter in 2023-01-03-muhammad-alif-medical-lynn-family-sports-vision-training-tbi-concussion-therapy-medical-bills-lynn-family-sports-vision-training-medical-bills-and-cover-letter.md, creating fresh metadata",
+            "No valid frontmatter in 2023-01-03-muhammad-alif-medical-lynn-family-sports-vision-training-tbi-concussion-therapy-medical-bills-lynn-family-sports-vision-training-medical-bills-and-hcfa-forms-1.md, creating fresh metadata",
+            "No valid frontmatter in 2023-01-03-muhammad-alif-medical-lynn-family-sports-vision-training-tbi-concussion-therapy-medical-bills-lynn-family-sports-vision-training-medical-bills-and-hcfa-forms.md, creating fresh metadata",
+            "No valid frontmatter in 2023-01-03-muhammad-alif-medical-lynn-family-sports-vision-training-tbi-concussion-therapy-medical-bills-lynn-family-sports-vision-training-medical-bills-and-hicfa-forms.md, creating fresh metadata",
+            "No valid frontmatter in 2024-01-04-muhammad-alif-lien-plano-surgical-hospital-status-request-open-balance.md, creating fresh metadata",
+            "No valid frontmatter in 2024-08-13-muhammad-alif-medical-mayo-spine-clinic-record-requests-mayo-clinic-certification-of-no-medical-records.md, creating fresh metadata",
+            "No valid frontmatter in 2025-01-20-muhammad-alif-medical-cutting-edge-orthopedics-medical-bills-plano-surgical-hospital-case-status-and-balance-request.md, creating fresh metadata",
+            "No valid frontmatter in 2022-11-08-muhammad-alif-litigation-client-plaintiff-responses-to-first-interrogatories.md, creating fresh metadata",
+            "No valid frontmatter in 2022-02-17-muhammad-alif-medical-norton-community-medical-associates-preston-medical-records-norton-physicians-services-medical-records-1.md, creating fresh metadata",
+            "No valid frontmatter in 2022-02-17-muhammad-alif-medical-norton-community-medical-associates-preston-medical-records-norton-physicians-services-medical-records-and-facesheets.md, creating fresh metadata",
+            "No valid frontmatter in 2022-02-17-muhammad-alif-medical-norton-community-medical-associates-preston-medical-records-norton-physicians-services-medical-records-preston.md, creating fresh metadata",
+            "No valid frontmatter in 2022-02-17-muhammad-alif-medical-norton-community-medical-associates-preston-medical-records-norton-physicians-services-medical-records.md, creating fresh metadata",
+            "No valid frontmatter in 2022-11-22-muhammad-alif-medical-parkridge-medical-center-medical-records-parkridge-valley-hospital-medical-records-and-discharge-summary.md, creating fresh metadata",
+            "No valid frontmatter in 2022-11-22-muhammad-alif-medical-parkridge-medical-center-medical-records-parkridge-valley-hospital-medical-records.md, creating fresh metadata",
+            "No valid frontmatter in 2022-11-28-muhammad-alif-medical-cutting-edge-orthopedics-medical-records-cutting-edge-orthopedics-initial-evaluation-and-tbi-reports.md, creating fresh metadata",
+            "No valid frontmatter in 2022-11-28-muhammad-alif-medical-cutting-edge-orthopedics-medical-records-cutting-edge-orthopedics-medical-records-and-tbi-evaluation.md, creating fresh metadata",
+            "No valid frontmatter in 2022-11-28-muhammad-alif-medical-cutting-edge-orthopedics-medical-records-cutting-edge-orthopedics-neuro-cognitive-assessment-records.md, creating fresh metadata",
+            "No valid frontmatter in 2022-11-28-muhammad-alif-medical-cutting-edge-orthopedics-medical-records-cutting-edge-orthopedics-neuro-injury-evaluation-and-testing.md, creating fresh metadata",
+            "No valid frontmatter in 2022-11-28-muhammad-alif-medical-cutting-edge-orthopedics-medical-records-cutting-edge-orthopedics-neuro-injury-evaluation-report.md, creating fresh metadata",
+            "No valid frontmatter in 2022-11-28-muhammad-alif-medical-cutting-edge-orthopedics-medical-records-cutting-edge-orthopedics-neurotrauma-evaluation-and-tbi-testing.md, creating fresh metadata",
+            "No valid frontmatter in 2022-11-28-muhammad-alif-medical-cutting-edge-orthopedics-medical-records-legent-orthopedic-hospital-tbi-evaluation-medical-records.md, creating fresh metadata",
+            "No valid frontmatter in 2022-11-28-muhammad-alif-medical-cutting-edge-orthopedics-medical-records-legent-orthopedic-hospital-tbi-evaluation-testing-results.md, creating fresh metadata",
+            "No valid frontmatter in 2022-11-29-muhammad-alif-medical-cutting-edge-orthopedics-medical-records-legent-orthopedic-hosp-imaging-record-and-billing.md, creating fresh metadata",
+            "No valid frontmatter in 2022-11-29-muhammad-alif-medical-cutting-edge-orthopedics-medical-records-legent-orthopedic-hosp-medical-record-and-bill.md, creating fresh metadata",
+            "No valid frontmatter in 2022-11-29-muhammad-alif-medical-cutting-edge-orthopedics-medical-records-legent-orthopedic-hospital-tbi-evaluation-and-causation-report.md, creating fresh metadata",
+            "No valid frontmatter in 2022-12-10-muhammad-alif-medical-norton-neurosciences-spine-and-rehabilitation-center-medical-records-norton-healthcare-emergency-department-encounter-medical-record.md, creating fresh metadata",
+            "No valid frontmatter in 2022-12-12-muhammad-alif-medical-kort-physical-therapy-shelbyville-medical-records-kort-medical-records-and-billing.md, creating fresh metadata",
+            "No valid frontmatter in 2022-12-12-muhammad-alif-medical-kort-physical-therapy-shelbyville-medical-records-kort-physical-therapy-emr-physical-therapy-records.md, creating fresh metadata",
+            "No valid frontmatter in 2022-12-12-muhammad-alif-medical-kort-physical-therapy-shelbyville-medical-records-kort-physical-therapy-emr-records-and-billing.md, creating fresh metadata",
+            "No valid frontmatter in 2022-12-12-muhammad-alif-medical-kort-physical-therapy-shelbyville-medical-records-kort-physical-therapy-medical-records-and-plan-care.md, creating fresh metadata",
+            "No valid frontmatter in 2022-12-14-muhammad-alif-medical-cutting-edge-orthopedics-medical-records-cutting-edge-orthopedics-initial-consult-and-progress-notes.md, creating fresh metadata",
+            "No valid frontmatter in 2022-12-14-muhammad-alif-medical-cutting-edge-orthopedics-medical-records-cutting-edge-orthopedics-initial-consultation-and-tbi-evaluation.md, creating fresh metadata",
+            "No valid frontmatter in 2022-12-14-muhammad-alif-medical-cutting-edge-orthopedics-medical-records-cutting-edge-orthopedics-medical-records-initial-and-follow-up.md, creating fresh metadata",
+            "No valid frontmatter in 2022-12-20-muhammad-alif-medical-kort-physical-therapy-shelbyville-medical-records-kort-partners-in-physical-therapy-physical-therapy-daily-note.md, creating fresh metadata",
+            "No valid frontmatter in 2023-01-03-muhammad-alif-medical-aptiva-health-medical-records-lynn-family-sports-vision-medical-records-and-evaluation.md, creating fresh metadata",
+            "No valid frontmatter in 2023-01-03-muhammad-alif-medical-lynn-family-sports-vision-training-tbi-concussion-therapy-medical-records-lynn-family-sports-vision-medical-records-and-billing.md, creating fresh metadata",
+            "No valid frontmatter in 2023-01-03-muhammad-alif-medical-lynn-family-sports-vision-training-tbi-concussion-therapy-medical-records-lynn-family-sports-vision-training-medical-records-and-initial-evaluation.md, creating fresh metadata",
+            "No valid frontmatter in 2023-01-05-muhammad-alif-medical-innovation-open-mri-medical-records-innovative-open-mri-mri-reports-and-clinical-notes.md, creating fresh metadata",
+            "No valid frontmatter in 2023-01-16-muhammad-alif-medical-mayo-spine-clinic-medical-records-mayo-clinic-medical-records-and-bills-1.md, creating fresh metadata",
+            "No valid frontmatter in 2023-01-16-muhammad-alif-medical-mayo-spine-clinic-medical-records-mayo-clinic-medical-records-and-bills.md, creating fresh metadata",
+            "No valid frontmatter in 2023-01-24-muhammad-alif-medical-parkridge-medical-center-medical-records-client-list-of-medical-providers.md, creating fresh metadata",
+            "No valid frontmatter in 2023-02-09-muhammad-alif-medical-kort-physical-therapy-shelbyville-medical-records-kort-partners-in-physical-therapy-physical-therapy-re-evaluation.md, creating fresh metadata",
+            "No valid frontmatter in 2023-03-04-muhammad-alif-medical-axon-medical-centers-medical-records-axon-medical-center-medical-records-and-evaluations.md, creating fresh metadata",
+            "No valid frontmatter in 2023-03-04-muhammad-alif-medical-axon-medical-centers-medical-records-axon-medical-center-medical-records-and-testing-reports.md, creating fresh metadata",
+            "No valid frontmatter in 2023-03-04-muhammad-alif-medical-axon-medical-centers-medical-records-axon-medical-center-medical-records-and-testing-results.md, creating fresh metadata",
+            "No valid frontmatter in 2023-03-04-muhammad-alif-medical-axon-medical-centers-medical-records-axon-medical-centers-electronic-medical-records.md, creating fresh metadata",
+            "No valid frontmatter in 2023-03-22-muhammad-alif-medical-norton-neurosciences-spine-and-rehabilitation-center-medical-records-norton-hospital-speech-therapy-evaluation-records.md, creating fresh metadata",
+            "No valid frontmatter in 2023-10-25-muhammad-alif-client-client-business-contacts.md, creating fresh metadata",
+            "No valid frontmatter in 2024-08-02-muhammad-alif-medical-parkridge-medical-center-record-requests-wlf-medical-records-request-and-authorization.md, creating fresh metadata",
+            "No valid frontmatter in 2024-08-02-muhammad-alif-medical-spring-creek-emergency-phy-record-requests-wlf-medical-records-request-and-hipaa.md, creating fresh metadata",
+            "No valid frontmatter in 2024-08-13-muhammad-alif-medical-mayo-spine-clinic-record-requests-wlf-medical-record-request-and-authorization.md, creating fresh metadata",
+            "No valid frontmatter in 2025-03-03-muhammad-alif-litigation-wlf-plaintiffs-expert-disclosures.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "nayram-adadevoh",
+          "legacy_case_id": "2024-07-13-MVA-002",
+          "success": true,
+          "files_created": 319,
+          "documents_migrated": 315,
+          "entity_links": 3,
+          "duration_seconds": 0.8,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2025-02-10-nayram-adadevoh-medical-advocate-medical-group-outpatient-center-record-requests-wlf-certified-medical-records-request.md, creating fresh metadata",
+            "No valid frontmatter in 2024-07-13-nayram-adadevoh-jewish-hospital-mva-visit.md, creating fresh metadata",
+            "No valid frontmatter in 2024-07-14-nayram-adadevoh-jhl-jewish-hospital-mvc-ed-physician-notes.md, creating fresh metadata",
+            "No valid frontmatter in 2024-08-24-nayram-adadevoh-jewish-hospital-mva-related-injuries.md, creating fresh metadata"
+          ]
+        }
+      ]
+    },
+    {
+      "batch_num": 7,
+      "cases_count": 15,
+      "migrated": 15,
+      "failed": 0,
+      "files_created": 2091,
+      "cases": [
+        {
+          "case_slug": "nicole-tewes",
+          "legacy_case_id": "2025-07-05-MVA-001",
+          "success": true,
+          "files_created": 51,
+          "documents_migrated": 48,
+          "entity_links": 3,
+          "duration_seconds": 0.16,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2025-07-29-nicole-tewes-medical-the-christ-hospital-physicians-primary-care-medical-records-the-christ-hospital-physicians-office-visit-progress-notes.md, creating fresh metadata",
+            "No valid frontmatter in 2025-07-29-nicole-tewes-medical-the-christ-hospital-physicians-primary-care-medical-records-the-christ-hospital-physicians-progress-notes-office-visit.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "prince-ngabonziza",
+          "legacy_case_id": "2025-05-27-MVA-001",
+          "success": true,
+          "files_created": 28,
+          "documents_migrated": 25,
+          "entity_links": 1,
+          "duration_seconds": 0.08,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "raymond-hunter",
+          "legacy_case_id": "2025-12-18-OTH-001",
+          "success": true,
+          "files_created": 16,
+          "documents_migrated": 14,
+          "entity_links": 1,
+          "duration_seconds": 0.02,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "rayshawn-wilson",
+          "legacy_case_id": "2025-04-10-MVA-001",
+          "success": true,
+          "files_created": 36,
+          "documents_migrated": 33,
+          "entity_links": 1,
+          "duration_seconds": 0.1,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2025-04-15-rayshawn-wilson-medical-uofl-health-mary-elizabeth-mary-elizabeth-hospital-record-requests-ul-health-affidavit-custodian-billing-records.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "rebecca-lanier",
+          "legacy_case_id": "2025-06-28-MVA-004",
+          "success": true,
+          "files_created": 16,
+          "documents_migrated": 14,
+          "entity_links": 1,
+          "duration_seconds": 0.02,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "robin-wilder-hamilton",
+          "legacy_case_id": "2023-06-15-MVA-001",
+          "success": true,
+          "files_created": 234,
+          "documents_migrated": 230,
+          "entity_links": 4,
+          "duration_seconds": 1.22,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2024-04-16-robin-wilder-hamilton-lexington-va-health-system-iprp-assessment-visit.md, creating fresh metadata",
+            "No valid frontmatter in 2024-04-16-robin-wilder-hamilton-lexington-va-health-system-iprp-telephone-call.md, creating fresh metadata",
+            "No valid frontmatter in 2023-03-08-robin-wilder-hamilton-community-memorial-hospital-annual-physical.md, creating fresh metadata",
+            "No valid frontmatter in 2023-06-17-robin-wilder-hamilton-lexington-cdd-vamc-multiple-injuries-evaluation.md, creating fresh metadata",
+            "No valid frontmatter in 2023-12-22-robin-wilder-hamilton-va-medical-center-lexington-medical-records-request.md, creating fresh metadata",
+            "No valid frontmatter in 2024-01-04-robin-wilder-hamilton-lexington-va-health-system-gyn-follow-up.md, creating fresh metadata",
+            "No valid frontmatter in 2024-02-02-robin-wilder-hamilton-lexington-va-health-system-dental-hygiene.md, creating fresh metadata",
+            "No valid frontmatter in 2024-02-02-robin-wilder-hamilton-scioto-valley-chiropractic-and-rehab-center-llc-neck-and-back-pain-treatment.md, creating fresh metadata",
+            "No valid frontmatter in 2024-02-28-robin-wilder-hamilton-lexington-cdd-vamc-pulmonary-function-test.md, creating fresh metadata",
+            "No valid frontmatter in 2024-04-25-robin-wilder-hamilton-anesthesiology-pre-iprp-assessment-visit.md, creating fresh metadata",
+            "No valid frontmatter in 2024-05-30-robin-wilder-hamilton-lexington-veterans-affairs-medical-center-radiology-reports.md, creating fresh metadata",
+            "No valid frontmatter in 2024-05-30-robin-wilder-hamilton-va-medical-center-optometry-exam.md, creating fresh metadata",
+            "No valid frontmatter in 2024-06-29-robin-wilder-hamilton-lexington-cdd-vamc-muscle-spasms-neck.md, creating fresh metadata",
+            "No valid frontmatter in 2024-06-29-robin-wilder-hamilton-lexington-cdd-vamc-muscle-spasms-pain.md, creating fresh metadata",
+            "No valid frontmatter in 2025-10-02-updated-demand-package.md, creating fresh metadata",
+            "No valid frontmatter in lexington-va-records-1.md, creating fresh metadata",
+            "No valid frontmatter in robin-wilder-hamilton-va-06-29-2024-records-1.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "robin-willis-beck",
+          "legacy_case_id": "2023-09-21-PrL-001",
+          "success": true,
+          "files_created": 215,
+          "documents_migrated": 212,
+          "entity_links": 2,
+          "duration_seconds": 0.94,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2023-11-07-robin-willis-beck-norton-audubon-hospital-medical-records-request.md, creating fresh metadata",
+            "No valid frontmatter in 2023-11-23-robin-willis-beck-aetna-injury-claim-letter.md, creating fresh metadata",
+            "No valid frontmatter in 2024-07-19-robin-willis-beck-whaley-law-firm-request-for-ledger.md, creating fresh metadata",
+            "No valid frontmatter in 2024-09-27-robin-willis-beck-baptist-health-hipaa-authorization.md, creating fresh metadata",
+            "No valid frontmatter in 2024-09-27-robin-willis-beck-baptist-health-ortho-no-records-found.md, creating fresh metadata",
+            "No valid frontmatter in 2024-09-27-robin-willis-beck-baptist-health-orthopedics-medical-records-request-2.md, creating fresh metadata",
+            "No valid frontmatter in 2024-09-27-robin-willis-beck-baptist-health-orthopedics-medical-records-request-3.md, creating fresh metadata",
+            "No valid frontmatter in 2024-09-27-robin-willis-beck-baptist-health-orthopedics-records-request.md, creating fresh metadata",
+            "No valid frontmatter in 2024-09-27-robin-willis-beck-ortho-louisville-medical-records-request-2.md, creating fresh metadata",
+            "No valid frontmatter in 2023-09-22-robin-willis-beck-norton-healthcare-ankle-fracture-visit-summary.md, creating fresh metadata",
+            "No valid frontmatter in 2023-09-22-robin-willis-beck-norton-womens-and-childrens-hospital-ankle-pain-2.md, creating fresh metadata",
+            "No valid frontmatter in 2023-09-22-robin-willis-beck-norton-womens-and-childrens-hospital-ankle-pain.md, creating fresh metadata",
+            "No valid frontmatter in 2023-11-09-robin-willis-beck-whaley-law-firm-request-for-records.md, creating fresh metadata",
+            "No valid frontmatter in 2024-08-30-robin-willis-beck-adapthealth-medical-records-release.md, creating fresh metadata",
+            "No valid frontmatter in 2023-11-13-beck-cpd-phi-card-aetna-back.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "samuel-clites",
+          "legacy_case_id": "2024-04-23-MVA-001",
+          "success": true,
+          "files_created": 244,
+          "documents_migrated": 241,
+          "entity_links": 2,
+          "duration_seconds": 0.55,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2024-04-25-samuel-clites-medical-baptist-health-louisville-medical-bills-baptist-health-itemized-hospital-charges-1.md, creating fresh metadata",
+            "No valid frontmatter in 2024-04-25-samuel-clites-medical-baptist-health-louisville-medical-bills-baptist-health-itemized-hospital-charges-2.md, creating fresh metadata",
+            "No valid frontmatter in 2024-04-25-samuel-clites-medical-baptist-health-louisville-medical-bills-baptist-health-itemized-hospital-charges.md, creating fresh metadata",
+            "No valid frontmatter in 2024-05-16-samuel-clites-medical-baptist-health-louisville-medical-records-baptist-health-medical-records-ct-angiogram.md, creating fresh metadata",
+            "No valid frontmatter in 2024-05-16-samuel-clites-medical-baptist-health-louisville-record-requests-baptist-health-medical-records-and-bill-request.md, creating fresh metadata",
+            "No valid frontmatter in 2024-05-16-samuel-clites-medical-baptist-health-louisville-record-requests-baptist-health-medical-records-and-bills-1.md, creating fresh metadata",
+            "No valid frontmatter in 2024-05-16-samuel-clites-medical-baptist-health-louisville-record-requests-baptist-health-medical-records-and-bills-2.md, creating fresh metadata",
+            "No valid frontmatter in 2024-05-16-samuel-clites-medical-baptist-health-louisville-record-requests-baptist-health-medical-records-and-bills.md, creating fresh metadata",
+            "No valid frontmatter in 2024-05-16-samuel-clites-medical-baptist-health-louisville-record-requests-baptist-health-medical-records-and-request.md, creating fresh metadata",
+            "No valid frontmatter in 2024-05-16-samuel-clites-medical-baptist-health-louisville-record-requests-wlf-medical-records-request-and-hipaa.md, creating fresh metadata",
+            "No valid frontmatter in 2024-04-25-samuel-clites-client-client-medical-authorization.md, creating fresh metadata",
+            "No valid frontmatter in 2024-04-25-samuel-clites-medical-baptist-health-louisville-medical-records-baptist-health-louisville-emergency-department-visit-records.md, creating fresh metadata",
+            "No valid frontmatter in 2024-04-25-samuel-clites-medical-louisville-emergency-medical-associates-medical-records-baptist-health-louisville-er-medical-records-and-bills.md, creating fresh metadata",
+            "No valid frontmatter in 2024-04-29-samuel-clites-medical-baptist-health-louisville-record-requests-wlf-hipaa-medical-authorization-baptist-east.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "sariya-mason",
+          "legacy_case_id": "2022-08-19-DB-001",
+          "success": true,
+          "files_created": 282,
+          "documents_migrated": 278,
+          "entity_links": 9,
+          "duration_seconds": 1.36,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2022-08-19-schrice-thomas-ul-msw-medical-center-emergency-room-visit.md, creating fresh metadata",
+            "No valid frontmatter in 2023-03-01-schrice-thomas-medical-record-orthopedics-consult.md, creating fresh metadata",
+            "Unmapped directory 'videos' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "sean-may",
+          "legacy_case_id": "2025-08-19-MVA-002",
+          "success": true,
+          "files_created": 34,
+          "documents_migrated": 31,
+          "entity_links": 3,
+          "duration_seconds": 0.1,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "shannon-colvin",
+          "legacy_case_id": "2023-10-01-MVA-002",
+          "success": true,
+          "files_created": 122,
+          "documents_migrated": 118,
+          "entity_links": 3,
+          "duration_seconds": 0.34,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2024-08-15-shannon-colvin-zip-clinic-urgent-care-medical-records-request.md, creating fresh metadata",
+            "No valid frontmatter in 2024-08-15-shannon-colvin-zip-clinic-urgent-care-records-request.md, creating fresh metadata",
+            "No valid frontmatter in 2024-08-28-shannon-colvin-zip-clinic-urgent-care-medical-records.md, creating fresh metadata",
+            "No valid frontmatter in 2023-10-01-shannon-colvin-plaintiffs-responses-to-discovery-requests.md, creating fresh metadata",
+            "No valid frontmatter in 2024-02-13-shannon-colvin-zip-clinic-urgent-care-medical-records-release.md, creating fresh metadata",
+            "No valid frontmatter in 2024-08-28-shannon-colvin-baptist-health-hardin-medical-records-request.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "shannon-lankswert",
+          "legacy_case_id": "2025-02-07-OTH-001",
+          "success": true,
+          "files_created": 196,
+          "documents_migrated": 192,
+          "entity_links": 4,
+          "duration_seconds": 0.56,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2025-03-17-shannon-lankswert-insurance-lucas-and-dietz-first-report-of-injury-email.md, creating fresh metadata",
+            "No valid frontmatter in 2025-02-11-shannon-lankswert-medical-flaget-memorial-hospital-medical-bills-flaget-memorial-hospital-billing-records-and-affidavit.md, creating fresh metadata",
+            "No valid frontmatter in 2025-03-28-shannon-lankswert-medical-flaget-memorial-hospital-medical-bills-wlf-correspondence-regarding-treatment-facilities.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "stevie-hawks",
+          "legacy_case_id": "2024-03-08-MVA-001",
+          "success": true,
+          "files_created": 135,
+          "documents_migrated": 131,
+          "entity_links": 4,
+          "duration_seconds": 0.36,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2024-03-08-stevie-hawks-medical-air-evac-lifeteam-62-medical-records-air-evac-lifeteam-patient-care-report-and-billing.md, creating fresh metadata",
+            "No valid frontmatter in 2024-10-07-stevie-hawks-medical-tristar-skyline-medical-center-record-requests-wlf-request-for-medical-records.md, creating fresh metadata",
+            "No valid frontmatter in 2023-06-19-stevie-hawks-medical-the-medical-center-at-bowling-green-medical-records-the-medical-center-ems-ems-patient-care-record.md, creating fresh metadata",
+            "No valid frontmatter in 2024-09-16-stevie-hawks-medical-tristar-skyline-medical-center-record-requests-wlf-medical-records-release.md, creating fresh metadata",
+            "No valid frontmatter in 2024-09-23-stevie-hawks-client-wlf-signed-medical-hipaa-authorization-1.md, creating fresh metadata",
+            "No valid frontmatter in 2024-09-23-stevie-hawks-client-wlf-signed-medical-hipaa-authorization.md, creating fresh metadata",
+            "No valid frontmatter in 2024-11-18-stevie-hawks-insurance-pip-client-application-for-benefits.md, creating fresh metadata",
+            "No valid frontmatter in 2024-11-18-stevie-hawks-insurance-pip-kentucky-assigned-claims-plan-application-for-benefits.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "taylor-thompson",
+          "legacy_case_id": "2024-12-06-MVA-001",
+          "success": true,
+          "files_created": 162,
+          "documents_migrated": 159,
+          "entity_links": 2,
+          "duration_seconds": 0.67,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "timothy-ruhl",
+          "legacy_case_id": "2023-09-14-PrL-001",
+          "success": true,
+          "files_created": 320,
+          "documents_migrated": 314,
+          "entity_links": 13,
+          "duration_seconds": 5.18,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2024-07-25-timothy-ruhl-louisville-emergency-medicine-associates-medical-records-request.md, creating fresh metadata",
+            "No valid frontmatter in 2022-08-15-austin-whitman-state-of-indiana-intrastate-transfer-probation.md, creating fresh metadata",
+            "No valid frontmatter in 2022-08-15-timothy-ruhl-austin-whitman-state-of-indiana-intrastate-transfer-probation.md, creating fresh metadata",
+            "No valid frontmatter in 2023-09-14-baptist-health-assault-victim-visit.md, creating fresh metadata",
+            "No valid frontmatter in 2023-09-14-timothy-ruhl-baptist-health-assault-victim-visit.md, creating fresh metadata",
+            "No valid frontmatter in 2023-09-20-mce-medical-center-east-alleged-assault-concussion.md, creating fresh metadata",
+            "No valid frontmatter in 2023-09-20-timothy-ruhl-mce-medical-center-east-alleged-assault-concussion.md, creating fresh metadata",
+            "No valid frontmatter in 2024-07-22-louisville-emergency-medicine-associates-hipaa-authorization.md, creating fresh metadata",
+            "No valid frontmatter in 2024-07-22-timothy-ruhl-louisville-emergency-medicine-associates-hipaa-authorization.md, creating fresh metadata"
+          ]
+        }
+      ]
+    },
+    {
+      "batch_num": 8,
+      "cases_count": 4,
+      "migrated": 4,
+      "failed": 0,
+      "files_created": 725,
+      "cases": [
+        {
+          "case_slug": "tina-smith",
+          "legacy_case_id": "2025-04-02-SF-001",
+          "success": true,
+          "files_created": 21,
+          "documents_migrated": 19,
+          "entity_links": 2,
+          "duration_seconds": 0.03,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/"
+          ]
+        },
+        {
+          "case_slug": "tonya-dunn",
+          "legacy_case_id": "2025-09-24-MVA-002",
+          "success": true,
+          "files_created": 165,
+          "documents_migrated": 162,
+          "entity_links": 3,
+          "duration_seconds": 0.34,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2025-10-01-client-intake-form.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "torrey-green",
+          "legacy_case_id": "2025-09-03-MVA-002",
+          "success": true,
+          "files_created": 144,
+          "documents_migrated": 141,
+          "entity_links": 4,
+          "duration_seconds": 0.37,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2025-09-24-legal-client-intake.md, creating fresh metadata"
+          ]
+        },
+        {
+          "case_slug": "wayne-weber",
+          "legacy_case_id": "2022-01-01-MVA-001",
+          "success": true,
+          "files_created": 395,
+          "documents_migrated": 391,
+          "entity_links": 5,
+          "duration_seconds": 1.47,
+          "errors": [],
+          "warnings": [
+            "Unmapped directory '.pii' -> documents/other/",
+            "No valid frontmatter in 2024-10-15-legal-notice-of-representation-whaley-law-firm.md, creating fresh metadata",
+            "No valid frontmatter in weber-discovery-responses.md, creating fresh metadata",
+            "No valid frontmatter in 2022-08-19-mb-baptist-health-eastpoint.md, creating fresh metadata",
+            "No valid frontmatter in 2022-08-19-medical-baptist-health-mri-upper-extremity-wayne-weber.md, creating fresh metadata",
+            "No valid frontmatter in 2022-01-01-medical-norton-healthcare-hospital-record-wayne-weber.md, creating fresh metadata",
+            "No valid frontmatter in 2022-01-01-mr-norton-brownsboro-hospital.md, creating fresh metadata",
+            "No valid frontmatter in 2022-07-26-mr-baptist-sports-medicine.md, creating fresh metadata",
+            "No valid frontmatter in 2022-07-26-wayne-weber-medical-baptist-health-medical-group-sports-medicine-medical-records-baptist-health-medical-records-multiple-visits.md, creating fresh metadata",
+            "No valid frontmatter in 2024-11-14-medical-norton-brownsboro-hospital-medical-records-request-wayne-weber.md, creating fresh metadata"
+          ]
+        }
+      ]
+    }
+  ]
+}

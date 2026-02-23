@@ -1,0 +1,145 @@
+2026-02-23T10:18:41 [INFO] ============================================================
+2026-02-23T10:18:41 [INFO] Vault Migration LIVE
+2026-02-23T10:18:41 [INFO] ============================================================
+2026-02-23T10:18:41 [INFO] Running pre-flight checks...
+2026-02-23T10:18:41 [INFO]   PASS: Database exists with 109 active cases
+2026-02-23T10:18:41 [INFO]   PASS: Firm-repo exists with 116 directories
+2026-02-23T10:18:41 [INFO]   PASS: Vault path exists at /Users/aaronwhaley/Whaley Law Firm Dropbox/Roscoe/firm-vault
+2026-02-23T10:18:41 [INFO] Found 109 active cases
+2026-02-23T10:18:41 [INFO] Will process in 8 batches of 15
+2026-02-23T10:18:41 [INFO] Running entity extraction...
+2026-02-23T10:18:46 [INFO]   Created 31169 entity cards. Skipped 0.
+2026-02-23T10:18:46 [INFO] Running duplicate flagging...
+2026-02-23T10:18:53 [INFO]   Flagged 2419 potential duplicates.
+2026-02-23T10:18:53 [INFO] Batch 1/8: Processing 15 cases
+2026-02-23T10:18:54 [INFO]   Migrated: Abby Sitgraves (abby-sitgraves) -- 142 files, 138 docs, 5 links
+2026-02-23T10:18:54 [INFO]   Migrated: Abigail Whaley (abigail-whaley) -- 31 files, 28 docs, 5 links
+2026-02-23T10:18:55 [INFO]   Migrated: Alma Cristobal (alma-cristobal) -- 319 files, 316 docs, 3 links
+2026-02-23T10:18:55 [INFO]   Migrated: Amanda Tackore (amanda-tackore) -- 8 files, 6 docs, 0 links
+2026-02-23T10:20:27 [INFO]   Migrated: Amy Mills (amy-mills) -- 992 files, 989 docs, 3 links
+2026-02-23T10:20:29 [INFO]   Migrated: Amy Stich (amy-stich) -- 725 files, 723 docs, 3 links
+2026-02-23T10:20:42 [INFO]   Migrated: Anella Noble (anella-noble) -- 565 files, 563 docs, 4 links
+2026-02-23T10:20:42 [INFO]   Migrated: Antonio Lopez (antonio-lopez) -- 21 files, 18 docs, 4 links
+2026-02-23T10:20:44 [INFO]   Migrated: Ashlee Williams (ashlee-williams) -- 191 files, 187 docs, 4 links
+2026-02-23T10:20:44 [INFO]   Migrated: Azaire Lopez (azaire-lopez) -- 17 files, 14 docs, 4 links
+2026-02-23T10:20:44 [INFO]   Migrated: Brandon Robinson Jr (brandon-robinson-jr) -- 18 files, 16 docs, 3 links
+2026-02-23T10:20:47 [INFO]   Migrated: Brenda Lang (brenda-lang) -- 210 files, 206 docs, 8 links
+2026-02-23T10:20:47 [INFO]   Migrated: Brigido Gonzalez Martinez (brigido-gonzalez-martinez) -- 17 files, 14 docs, 3 links
+2026-02-23T10:20:47 [INFO]   Migrated: Carmelita Wilson (carmelita-wilson) -- 17 files, 14 docs, 1 links
+2026-02-23T10:21:03 [INFO]   Migrated: Caryn McCay (caryn-mccay) -- 506 files, 504 docs, 2 links
+2026-02-23T10:21:03 [INFO] Batch 1/8 complete: 15 migrated, 0 failed
+2026-02-23T10:21:03 [INFO] Batch 2/8: Processing 15 cases
+2026-02-23T10:21:04 [INFO]   Migrated: Cecelia Neltner (cecelia-neltner) -- 159 files, 157 docs, 2 links
+2026-02-23T10:21:05 [INFO]   Migrated: Cecil Finley (cecil-finley) -- 235 files, 233 docs, 3 links
+2026-02-23T10:21:06 [INFO]   Migrated: Charles Godsey (charles-godsey) -- 104 files, 100 docs, 4 links
+2026-02-23T10:21:07 [INFO]   Migrated: Charles T Johnson (charles-t-johnson) -- 187 files, 184 docs, 3 links
+2026-02-23T10:21:07 [INFO]   Migrated: Christopher Lanier (christopher-lanier) -- 55 files, 52 docs, 2 links
+2026-02-23T10:21:08 [INFO]   Migrated: Christopher Wilkerson (christopher-wilkerson) -- 321 files, 317 docs, 3 links
+2026-02-23T10:21:08 [INFO]   Migrated: Clarence Robinson (clarence-robinson) -- 8 files, 6 docs, 1 links
+2026-02-23T10:21:40 [INFO]   Migrated: Colleen Colvin (colleen-colvin) -- 117 files, 115 docs, 2 links
+2026-02-23T10:21:40 [INFO]   Migrated: Collie Williams Sr (collie-williams-sr) -- 16 files, 14 docs, 1 links
+2026-02-23T10:21:40 [INFO]   Migrated: Collieon Williams (collieon-williams) -- 16 files, 14 docs, 1 links
+2026-02-23T10:21:40 [INFO]   Migrated: Connie Goree (connie-goree) -- 68 files, 65 docs, 1 links
+2026-02-23T10:21:43 [INFO]   Migrated: Cora Hall (cora-hall) -- 419 files, 417 docs, 2 links
+2026-02-23T10:21:43 [INFO]   Migrated: Corey Todd (corey-todd) -- 18 files, 16 docs, 1 links
+2026-02-23T10:21:44 [INFO]   Migrated: Cory Stephenson (cory-stephenson) -- 39 files, 36 docs, 2 links
+2026-02-23T10:21:44 [INFO]   Migrated: Curtis Lee Justice (curtis-lee-justice) -- 8 files, 6 docs, 1 links
+2026-02-23T10:21:44 [INFO] Batch 2/8 complete: 15 migrated, 0 failed
+2026-02-23T10:21:44 [INFO] Batch 3/8: Processing 15 cases
+2026-02-23T10:21:44 [INFO]   Migrated: Cynthia Gibson (cynthia-gibson) -- 78 files, 74 docs, 4 links
+2026-02-23T10:21:44 [INFO]   Migrated: Dakota McCord (dakota-mccord) -- 34 files, 31 docs, 3 links
+2026-02-23T10:21:45 [INFO]   Migrated: Dana Jackson (dana-jackson) -- 153 files, 149 docs, 3 links
+2026-02-23T10:21:51 [INFO]   Migrated: Daniel W Volk (daniel-w-volk) -- 330 files, 326 docs, 7 links
+2026-02-23T10:21:52 [INFO]   Migrated: Davis Robinson (davis-robinson) -- 139 files, 136 docs, 2 links
+2026-02-23T10:21:52 [INFO]   Migrated: Deanna Jones (deanna-jones) -- 35 files, 32 docs, 5 links
+2026-02-23T10:21:52 [INFO]   Migrated: Deanna Scott (deanna-scott) -- 16 files, 14 docs, 1 links
+2026-02-23T10:21:55 [INFO]   Migrated: Debra Marshall (debra-marshall) -- 241 files, 237 docs, 3 links
+2026-02-23T10:22:03 [INFO]   Migrated: Destiny Adkins (destiny-adkins) -- 159 files, 155 docs, 4 links
+2026-02-23T10:22:03 [INFO]   Migrated: Dewayne Ward (dewayne-ward) -- 90 files, 86 docs, 3 links
+2026-02-23T10:22:03 [INFO]   Migrated: Diamond Williams (diamond-williams) -- 18 files, 16 docs, 3 links
+2026-02-23T10:22:04 [INFO]   Migrated: Douglas Livers (douglas-livers) -- 173 files, 169 docs, 7 links
+2026-02-23T10:22:05 [INFO]   Migrated: Elizabeth Lindsey (elizabeth-lindsey) -- 106 files, 102 docs, 3 links
+2026-02-23T10:22:35 [INFO]   Migrated: Estate of Betty Prince (estate-of-betty-prince) -- 392 files, 388 docs, 3 links
+2026-02-23T10:22:35 [INFO]   Migrated: Estate of Evangeline Young (estate-of-evangeline-young) -- 8 files, 6 docs, 0 links
+2026-02-23T10:22:35 [INFO] Batch 3/8 complete: 15 migrated, 0 failed
+2026-02-23T10:22:35 [INFO] Batch 4/8: Processing 15 cases
+2026-02-23T10:22:35 [INFO]   Migrated: Forrest Muss (forrest-muss) -- 38 files, 35 docs, 1 links
+2026-02-23T10:22:43 [INFO]   Migrated: Frances Whitis (frances-whitis) -- 290 files, 286 docs, 7 links
+2026-02-23T10:22:43 [INFO]   Migrated: Gerald Jacobs (gerald-jacobs) -- 8 files, 6 docs, 1 links
+2026-02-23T10:22:44 [INFO]   Migrated: Greg Neltner (greg-neltner) -- 199 files, 195 docs, 4 links
+2026-02-23T10:22:45 [INFO]   Migrated: Henrietta Jenkins (henrietta-jenkins) -- 59 files, 55 docs, 3 links
+2026-02-23T10:22:46 [INFO]   Migrated: Hope Renee Padgett (hope-renee-padgett) -- 130 files, 126 docs, 9 links
+2026-02-23T10:22:46 [INFO]   Migrated: Imari Wheat (imari-wheat) -- 8 files, 6 docs, 0 links
+2026-02-23T10:22:46 [INFO]   Migrated: Jacob Herrle (jacob-herrle) -- 48 files, 44 docs, 2 links
+2026-02-23T10:23:26 [INFO]   Migrated: James Kiper (james-kiper) -- 441 files, 437 docs, 9 links
+2026-02-23T10:23:27 [INFO]   Migrated: James Lanier (james-lanier) -- 61 files, 58 docs, 3 links
+2026-02-23T10:23:27 [INFO]   Migrated: James Sadler (james-sadler) -- 123 files, 119 docs, 3 links
+2026-02-23T10:23:28 [INFO]   Migrated: Jasmine Wilson (jasmine-wilson) -- 47 files, 44 docs, 4 links
+2026-02-23T10:23:28 [INFO]   Migrated: Jaysha Aponte (jaysha-aponte) -- 70 files, 67 docs, 4 links
+2026-02-23T10:23:28 [INFO]   Migrated: Jensen Ott (jensen-ott) -- 23 files, 20 docs, 2 links
+2026-02-23T10:23:28 [INFO]   Migrated: Jeremy Lindsey (jeremy-lindsey) -- 179 files, 175 docs, 3 links
+2026-02-23T10:23:28 [INFO] Batch 4/8 complete: 15 migrated, 0 failed
+2026-02-23T10:23:28 [INFO] Batch 5/8: Processing 15 cases
+2026-02-23T10:23:29 [INFO]   Migrated: Jerome Hedinger (jerome-hedinger) -- 169 files, 165 docs, 1 links
+2026-02-23T10:23:29 [INFO]   Migrated: Jimmy Ferguson (jimmy-ferguson) -- 187 files, 183 docs, 4 links
+2026-02-23T10:23:30 [INFO]   Migrated: Jonah Price (jonah-price) -- 34 files, 31 docs, 2 links
+2026-02-23T10:23:30 [INFO]   Migrated: Joseph Ott (joseph-ott) -- 27 files, 24 docs, 1 links
+2026-02-23T10:23:30 [INFO]   Migrated: Juanita Nicole Downs (juanita-nicole-downs) -- 10 files, 6 docs, 3 links
+2026-02-23T10:23:30 [INFO]   Migrated: Julian Wilson (julian-wilson) -- 41 files, 38 docs, 4 links
+2026-02-23T10:23:31 [INFO]   Migrated: Julmonzhae Moore (julmonzhae-moore) -- 146 files, 142 docs, 3 links
+2026-02-23T10:23:31 [INFO]   Migrated: K'daya Austin (kdaya-austin) -- 2 files, 0 docs, 0 links
+2026-02-23T10:23:31 [INFO]   Migrated: Kaelin Litton (kaelin-litton) -- 16 files, 14 docs, 1 links
+2026-02-23T10:23:34 [INFO]   Migrated: Kimberly Brasher (kimberly-brasher) -- 285 files, 281 docs, 8 links
+2026-02-23T10:23:34 [INFO]   Migrated: Laniaya Wilson (laniaya-wilson) -- 16 files, 14 docs, 1 links
+2026-02-23T10:23:34 [INFO]   Migrated: Leanora Brown (leanora-brown) -- 39 files, 36 docs, 4 links
+2026-02-23T10:23:34 [INFO]   Migrated: Lejzane Miftari (lejzane-miftari) -- 39 files, 36 docs, 3 links
+2026-02-23T10:23:34 [INFO]   Migrated: Lindsey Dunn (lindsey-dunn) -- 34 files, 31 docs, 3 links
+2026-02-23T10:23:34 [INFO]   Migrated: Lori House (lori-house) -- 19 files, 17 docs, 1 links
+2026-02-23T10:23:34 [INFO] Batch 5/8 complete: 15 migrated, 0 failed
+2026-02-23T10:23:34 [INFO] Batch 6/8: Processing 15 cases
+2026-02-23T10:23:34 [INFO]   Migrated: Lorraine Robinson (lorraine-robinson) -- 16 files, 14 docs, 1 links
+2026-02-23T10:23:35 [INFO]   Migrated: Maia Ott (maia-ott) -- 24 files, 21 docs, 2 links
+2026-02-23T10:23:35 [INFO]   Migrated: Malcom Glass Jones (malcom-glass-jones) -- 49 files, 46 docs, 4 links
+2026-02-23T10:23:35 [INFO]   Migrated: Maryan Kassim (maryan-kassim) -- 205 files, 201 docs, 4 links
+2026-02-23T10:23:35 [INFO]   Migrated: Mi'Ayla Lopez (miayla-lopez) -- 27 files, 24 docs, 4 links
+2026-02-23T10:23:35 [INFO]   Migrated: Michae Guyton (michae-guyton) -- 23 files, 20 docs, 2 links
+2026-02-23T10:23:36 [INFO]   Migrated: Michael Crader (michael-crader) -- 219 files, 215 docs, 4 links
+2026-02-23T10:23:36 [INFO]   Migrated: Michael Deshields (michael-deshields) -- 42 files, 39 docs, 1 links
+2026-02-23T10:23:36 [INFO]   Migrated: Michael Ditto Jr (michael-ditto-jr) -- 59 files, 57 docs, 2 links
+2026-02-23T10:23:37 [INFO]   Migrated: Michael Johnston (michael-johnston) -- 74 files, 71 docs, 2 links
+2026-02-23T10:23:37 [INFO]   Migrated: Michael Lanier (michael-lanier) -- 25 files, 22 docs, 1 links
+2026-02-23T10:23:37 [INFO]   Migrated: Michelle McElroy (michelle-mcelroy) -- 15 files, 13 docs, 1 links
+2026-02-23T10:23:37 [INFO]   Migrated: Mohamad Daud Shaheen (mohamad-daud-shaheen) -- 16 files, 14 docs, 1 links
+2026-02-23T10:23:42 [INFO]   Migrated: Muhammad Alif (muhammad-alif) -- 550 files, 546 docs, 13 links
+2026-02-23T10:23:43 [INFO]   Migrated: Nayram Adadevoh (nayram-adadevoh) -- 319 files, 315 docs, 3 links
+2026-02-23T10:23:43 [INFO] Batch 6/8 complete: 15 migrated, 0 failed
+2026-02-23T10:23:43 [INFO] Batch 7/8: Processing 15 cases
+2026-02-23T10:23:43 [INFO]   Migrated: Nicole Tewes (nicole-tewes) -- 51 files, 48 docs, 3 links
+2026-02-23T10:23:43 [INFO]   Migrated: Prince Ngabonziza (prince-ngabonziza) -- 28 files, 25 docs, 1 links
+2026-02-23T10:23:43 [INFO]   Migrated: Raymond Hunter (raymond-hunter) -- 16 files, 14 docs, 1 links
+2026-02-23T10:23:43 [INFO]   Migrated: Rayshawn Wilson (rayshawn-wilson) -- 36 files, 33 docs, 1 links
+2026-02-23T10:23:43 [INFO]   Migrated: Rebecca Lanier (rebecca-lanier) -- 16 files, 14 docs, 1 links
+2026-02-23T10:23:45 [INFO]   Migrated: Robin Wilder Hamilton (robin-wilder-hamilton) -- 234 files, 230 docs, 4 links
+2026-02-23T10:23:46 [INFO]   Migrated: Robin Willis Beck (robin-willis-beck) -- 215 files, 212 docs, 2 links
+2026-02-23T10:23:46 [INFO]   Migrated: Samuel Clites (samuel-clites) -- 244 files, 241 docs, 2 links
+2026-02-23T10:23:48 [INFO]   Migrated: Sariya Mason (sariya-mason) -- 282 files, 278 docs, 9 links
+2026-02-23T10:23:48 [INFO]   Migrated: Sean May (sean-may) -- 34 files, 31 docs, 3 links
+2026-02-23T10:23:48 [INFO]   Migrated: Shannon Colvin (shannon-colvin) -- 122 files, 118 docs, 3 links
+2026-02-23T10:23:49 [INFO]   Migrated: Shannon Lankswert (shannon-lankswert) -- 196 files, 192 docs, 4 links
+2026-02-23T10:23:49 [INFO]   Migrated: Stevie Hawks (stevie-hawks) -- 135 files, 131 docs, 4 links
+2026-02-23T10:23:50 [INFO]   Migrated: Taylor Thompson (taylor-thompson) -- 162 files, 159 docs, 2 links
+2026-02-23T10:23:55 [INFO]   Migrated: Timothy Ruhl (timothy-ruhl) -- 320 files, 314 docs, 13 links
+2026-02-23T10:23:55 [INFO] Batch 7/8 complete: 15 migrated, 0 failed
+2026-02-23T10:23:55 [INFO] Batch 8/8: Processing 4 cases
+2026-02-23T10:23:55 [INFO]   Migrated: Tina Smith (tina-smith) -- 21 files, 19 docs, 2 links
+2026-02-23T10:23:55 [INFO]   Migrated: Tonya Dunn (tonya-dunn) -- 165 files, 162 docs, 3 links
+2026-02-23T10:23:55 [INFO]   Migrated: Torrey Green (torrey-green) -- 144 files, 141 docs, 4 links
+2026-02-23T10:23:57 [INFO]   Migrated: Wayne Weber (wayne-weber) -- 395 files, 391 docs, 5 links
+2026-02-23T10:23:57 [INFO] Batch 8/8 complete: 4 migrated, 0 failed
+2026-02-23T10:23:57 [INFO] Writing migration log...
+2026-02-23T10:23:57 [INFO]   Migration log: /Users/aaronwhaley/Whaley Law Firm Dropbox/Roscoe/firm-vault/_archive/migration/migration-log.json
+2026-02-23T10:23:57 [INFO] Writing migration summary...
+2026-02-23T10:23:57 [INFO]   Migration summary: /Users/aaronwhaley/Whaley Law Firm Dropbox/Roscoe/firm-vault/_archive/migration/migration-summary.md
+2026-02-23T10:23:57 [INFO] ============================================================
+2026-02-23T10:23:57 [INFO] Migration complete: 109 migrated, 0 failed, 5.3 minutes
+2026-02-23T10:23:57 [INFO] ============================================================
