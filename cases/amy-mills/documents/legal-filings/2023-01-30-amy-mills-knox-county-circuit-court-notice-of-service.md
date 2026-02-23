@@ -1,0 +1,44 @@
+---
+case_slug: amy-mills
+created_at: 2026-02-17 02:47:25.570000+00:00
+document_category: court-filings
+document_type: court_filing
+extraction_method: native_text
+legacy_case_id: 2019-04-26-PrL-001
+mime_type: application/pdf
+page_count: 1
+quality_score: 100
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Litigation/2023-01-30-Amy-Mills-KNOX-COUNTY-CIRCUIT-COURT-Notice-of-Service.pdf
+source_hash: sha256:60f3cc8b18feb3e2d0260ac6de9db42bddfb1c6f729bf9dd116c81532481d691
+---
+
+NO. 20-CI-00112 KNOX COUNTY CIRCUIT COURT 
+DIVISION TWO (2) 
+HON. MICHAEL CAPERTON 
+AMY MILLS PLAINTIFF 
+v. 
+FORCHT BANK DEFENDANT 
+NOTICE OF SERVICE: 
+CERTIFIED MEDICAL RECORDS & BILLING 
+ FROM: BAPTIST HEALTH CORBIN NEUROLOGY & 
+BAPTIST HEALTH OUTPATIENT & DIAGNOSTIC IMAGING 
+Comes the Plaintiff, Amy Mills, by and through undersigned counsel, and hereby notices 
+she has received and provided the certified medical records and billing to the Defendant Counsel, 
+Hon. Betsy Catron of Ward, Hocker & Thornton, PLLC. 
+ Respectfully submitted, 
+Aaron G. Whaley, Esq 
+Aaron G. Whaley, Esq 
+WHALEY LAW FIRM 
+712 Lyndon Lane 
+Louisville, KY 40222 
+P: [PHONE-1] 
+E: [EMAIL-2] 
+CERTIFICATE OF SERVICE 
+I hereby affirm that I sent a true and accurate copy of the foregoing to the parties listed 
+below through United States mail with prepaid postage affixed and/or via email to the below listed 
+parties this 30th day of January, 2023: 
+Hon. Betsy Catron 
+Ward, Hocker & Thornton, PLLC 
+333 W. Vine Street #1100 
+Lexington, KY 40507 
+Counsel for Defendant: Forcht Bank

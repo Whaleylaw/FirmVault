@@ -1,0 +1,71 @@
+---
+case_slug: sariya-mason
+created_at: 2026-02-17 00:20:22.911000+00:00
+document_category: court-filings
+document_date: 1973-09-29
+document_type: court_filing
+extraction_method: native_text
+legacy_case_id: 2022-08-19-DB-001
+mime_type: application/pdf
+page_count: 1
+quality_score: 100
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya-Mason-DB-08-19-2022/Litigation/2022-09-06-Sariya-Mason-Litigation-Court-Criminal-Court-Case-Record.pdf
+source_hash: sha256:e3e1a113c723ff9ce81ca173aa33b8f4d71b4f99bd871e1156586c29db7e9a62
+---
+
+Parties 22-M005998
+Charges 22-M005998
+Documents 22-M005998
+Events 22-M005998
+22-M-005998
+COMMONWEALTH VS. CASTILLO, SURELIS RICARDO
+JEFFERSON DISTRICT COURT
+Filed on [DOB-19] as MISDEMEANOR with HON. LISA L.
+LANGFORD
+Disposition on [DOB-18] by HON. LISA L. LANGFORD
+**** NOT AN OFFICIAL COURT RECORD ****
+CASTILLO, SURELIS RICARDO as DEFENDANT / RESPONDENT
+DOB: [DOB-17] DLN: C14570555 OPERATOR'S LICENSE - KENTUCKY Race: ****** Sex: F
+Hispanic: H
+Address
+2326 QUINN DRIVE
+LOUISVILLE KY 40216
+MCKECHNIE, MATTHEW, as COMPLAINING WITNESS
+Address
+LOUISVILLE METRO ANIMAL SERVICES
+3528 NEWBURG RD
+LOUISVILLE KY 40218
+LOCAL COUNTY ORDINANCE - ***.***
+CHARGE 1 ORIGINAL 9000000
+Charged on [DOB-16] by citation 2P3604762-1
+FAILURE TO APPEAR Disposition on [DOB-15] by NO TRIAL
+LOCAL COUNTY ORDINANCE - ***.***
+CHARGE 2 ORIGINAL 9000000
+Charged on [DOB-14] by citation 2P3604762-2
+FAILURE TO APPEAR Disposition on [DOB-13] by NO TRIAL
+LOCAL COUNTY ORDINANCE - ***.***
+CHARGE 3 ORIGINAL 9000000
+Charged on [DOB-12] by citation 2P3604762-3
+FAILURE TO APPEAR Disposition on [DOB-11] by NO TRIAL
+NOTICE OF HEARING filed on [DOB-10]
+FTA ISSUED filed on [DOB-11]
+[DOB-12] 89495 1
+COURTOFJUSTICE
+Ul
+
+Images 22-M005998
+ARRAIGNMENT scheduled for [DOB-13] 01:00 PM in room HJ101 with HON. LISA L. LANGFORD
+Super Memo
+[DOB-14] DEF NOT PRESENTCH G:1 LOCAL COUNTY ORDINANCE; CIT#: 2P3604762-
+1CHG:2 LOCAL COUNTY O RDINANCE; CIT#:2P3604762-2CHG:3 LOCALCOUNTY
+ORDINANCE; CIT#:2P3604762-3 Court Finding FAILURE TO APPEAR Issue DOT/FTA NO
+TRIAL 7 P M^]
+ARRAIGNMENT scheduled for [DOB-15] 01:00 PM in room HJ101 with HON. LISA L. LANGFORD
+Super Memo
+[DOB-16] Def NOT Present C ourt Notice Crt (CRIMINAL COURTROOM 101) [DOB-17]
+01:00 PM ARRAIGNMENT 0 PM^]
+CITATION filed on [DOB-18] Page(s): 1
+**** End of Case Number : 22-M-005998 ****
+[DOB-19] 89495 2
+waned
+aa---4

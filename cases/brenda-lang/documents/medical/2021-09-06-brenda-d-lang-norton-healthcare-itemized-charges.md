@@ -1,0 +1,202 @@
+---
+case_slug: brenda-lang
+created_at: 2026-02-16 22:09:47.630000+00:00
+document_category: medical
+document_date: 2021-09-06
+document_type: medical
+entities:
+- Norton Hospital
+- Humana
+- Norton Healthcare
+extraction_method: native_text
+legacy_case_id: 2021-09-03-MVA-001
+mime_type: application/pdf
+page_count: 1
+quality_score: 100
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda-Lang-MVA-09-03-2021/Medical/2021-09-06-Brenda-D-Lang-Norton-Healthcare-Itemized-Charges.pdf
+source_hash: sha256:dfafa03a16811cbb78e75930afc55fbae16c25905db256d43f0fbadee04bc695
+---
+
+Patient: Lang,Brenda D
+Account ID: 210385563
+Norton Healthcare
+Patient Financial Services 14-7
+P.O. Box 775278
+Chicago, IL 60677-5278
+Brenda D Lang Guarantor ID: 845190
+831 SUTCLIFFE AVE
+LOUISVILLE, KY 40211
+Visit Coverages:
+Humana Medicare Replacement - Humana Community Medicare Advantage HMO
+Patient: Lang,Brenda D Admission Date: 09/06/21
+Account ID: 210385563 Discharge Date: 09/08/21
+Location: Norton Hospital
+This is an itemized list of charges.
+Professional Charges
+Service Professional ETR'RX'Number =!Proféssional'Charge Description’ Quantity
+BEV) Charge ID.
+[DOB-1] |93010
+[
+ECG ROUTINE ECG W/LEAST
+12 LDS I1&R ONLY
+Total professional charges: 25.00
+Professional Payments and Adjustments
+Date Description é
+11/02/21 |Humana Medicare Replacement Insurance Payment
+11/23/21 __|Humana Medicare Replacement Write-Off
+Total professional payments and adjustments: -25.00
+Please call [PHONE-87] if you have questions regarding this document.
+Page 1
+
+Patient: Lang,Brenda D
+Account ID: 221693018
+Norton Healthcare
+Patient Financial Services 14-7
+P.O. Box 775278
+Chicago, IL 60677-5278
+Brenda D Lang Guarantor ID: 845190
+831 SUTCLIFFE AVE
+LOUISVILLE, KY 40211
+Visit Coverages:
+Humana Medicare Replacement - Humana Community Medicare Advantage HMO
+Patient: Lang,Brenda D Admission Date: 10/21/22
+Account ID: 221693018 Discharge Date: 10/21/22
+Location: Norton Hospital
+This is an itemized list of charges.
+Hospital Charges
+REVENUE “Description Quantity
+CODE HGRCS
+HB BC BONE DENS MLT SITES AX SKEL
+HB BREAST TOMOSYNTHESIS SCREEN BI
+HB MAMMO SCREEN BIL
+[DOB-86]
+[DOB-85]
+[DOB-84]
+Total hospital charges:
+Hospital Payments and Adjustments
+| Date Description
+11/01/22 |Humana Medicare Replacement Insurance Payment
+41/01/22 _|Humana Medicare Replacement Contractual Write-Off
+Total hospital payments and adjustments: -1,101.00
+Please call [PHONE-6] if you have questions regarding this document.
+Page 1
+
+Patient: Lang,Brenda D
+Account ID: 210384988
+Norton Healthcare
+Patient Financial Services 14-7
+P.O. Box 775278
+Chicago, IL 60677-5278
+Brenda D Lang Guarantor ID: 845190
+831 SUTCLIFFE AVE
+LOUISVILLE, KY 40211
+Visit Coverages:
+Humana Medicare Replacement - Humana Community Medicare Advantage HMO
+Patient: Lang,Brenda D Admission Date: 09/06/21
+Account ID: 210384988 Discharge Date: 09/08/21
+Location: Norton Hospital
+This is an itemized list of charges.
+Hospital Charges
+REVENUE™ Description : ( Quantity
+ie ; oe
+[DOB-82] [0250 HB PHARMACY GENERAL 1 6.20
+[DOB-81] [0250 HB PHARMACY GENERAL 1 11.71
+[DOB-80] |0250 HB PHARMACY GENERAL 2 38.59
+[DOB-79] |0250 HB PHARMACY GENERAL 1 93.94
+[DOB-78] |0250 HB PHARMACY GENERAL 1 18.78
+[DOB-77] |0250 HB PHARMACY GENERAL 1 25.04
+[DOB-76] 0250 HB PHARMACY GENERAL 1 412.94
+[DOB-75] |0272 ADHESIVE 2OCTYL DNX12 1 139.00
+[DOB-74] |0272 CUTTER RELOAD ENDO LNR TR45W. 1 749.00
+[DOB-73] |0272 KIT CLARIFY VIS LAP CARE 21345 1 383.00
+[DOB-72] |0272 PACK BASIC NORTON DYNJ25290 1 89.00
+[DOB-71] |0272 RETRIEVER ENDOPOUCH ETPOUCH 1 403.00
+[DOB-70] |0272 SHEAR HARMONIC ACE+ 7 HARH36 1 3,106.00
+[DOB-69] |0272 SLEEVE OPTIVIEW 52CB5LT 2 264.00
+[DOB-68] |0272 STAPLER ECHELN 45 LONG PLEE45A 1 2,067.00
+[DOB-67] 0272 STAPLER RELOAD 45 6R45B 2 1,498.00
+[DOB-66] [0272 STAPLER RELOAD BLUE 45 GST45B 1 1,108.00
+[DOB-65] |0272 TIP SCISSOR RENEW II3142 1 254.00
+[DOB-64] |0272 TROCAR ENDO 5MM W/SLV 2B5LT 1 190.00
+[DOB-63] |0272 TROCAR XCEL BLADELSS 12 B12LTH 1 190.00
+[DOB-62] [0272 TROCAR XCEL BLUNT 12 H12LP 1 190.00
+[DOB-61] |0300 HB COVID-19 NON CDC 87635 1 260.00
+[DOB-60] |0300 HB SPECIMEN COLLECTION VENIPUNCT _|36415 1 37.00
+Please call [PHONE-30] ifyou have questions regarding this document.
+Page 1
+
+Patient: Lang,Brenda D
+Account ID: 210384988
+(eave Sele tay
+os sreeanty el : : Bukit ~HCPCS
+[DOB-58] |0301 83880 1 529.00
+[DOB-57] {0301 HB COMP METABOLIC PANEL 80053 1 287.00
+[DOB-56] |0301 HB LIPASE 83690 al 217.00
+[DOB-55] |0301 HB MAGNESIUM 83735 i 210.00
+[DOB-54] |0301 HB PHOSPHORUS BLOOD 84100 4 134.00
+[DOB-53] |0301 HB TROPONIN | 84484 1 391.00
+[DOB-52] |0302 HB ANTIBODY SCREEN GEL 86850 1 239.00
+[DOB-51] {0302 HB BLOOD TYPING ABO 86900 4 153.00
+[DOB-50] |0302 HB BLOOD TYPING RH(D) 86901 ‘| 129.00
+[DOB-49] |0305 HB CBC/PLT/AUTO DIFF 85025 1 191.00
+[DOB-48] |0307 HB US AUTO W/O MICRO 81003 1 49.00
+[DOB-47] |0310 HB PATH LVL III/88304 88304 1 270.00
+[DOB-46] 0352 HB CT ABDOMEN & PELVIS W/CONTRAST |74177 1 4,207.00
+[DOB-45] /0360 HB SURG INTENSITY LEVEL #6 97 11,058.00
+[DOB-45] |0370 HB ANES GENERAL/MIN 97 2,619.00
+[DOB-46] |0450 HB ER LEVEL 5 99285 1 1,700.00
+[DOB-47] {0636 HB PHARMACY DETAILED CODING J1100 4 5.00
+[DOB-48] |0636 HB PHARMACY DETAILED CODING J1885 1 5.00
+[DOB-49] |0636 HB PHARMACY DETAILED CODING J1885 1 2.10
+[DOB-50] |0636 HB PHARMACY DETAILED CODING J2250 2 5.00
+[DOB-51] {0636 HB PHARMACY DETAILED CODING }J2405 4 5.00
+[DOB-52] |0636 HB PHARMACY DETAILED CODING J2543, 3 35.37
+[DOB-53] |0636 HB PHARMACY DETAILED CODING }J2543, 3 61.84
+[DOB-54] |0636 HB PHARMACY DETAILED CODING J2704 20 16.09
+[DOB-55] |0636 HB PHARMACY DETAILED CODING J3010 3 11.27
+[DOB-56] |0636 HB PHARMACY DETAILED CODING J3480 5 13.46
+[DOB-57] |0636 HB PHARMACY DETAILED CODING J7060 1 11.74
+[DOB-58] |0636 HB PHARMACY DETAILED RADIOLOGY Q9967 100 378.10
+[DOB-59] |0637 HB PHARMACY SELF ADMINISTERED |A9270 2 0.17
+[DOB-60] |0710 HB RECOVERY INTENSIVE PER MIN 42 756.00
+[DOB-61] |0730 HB EKG 93005 1 276.00
+[DOB-62] |0762 HB OBS PRIVATE G0378 8 467.00
+[DOB-63] |0260 HB IV MEDICATION INITIAL 96374 1 365.00
+[DOB-64] |0260 HB IV MEDICATION SUBSEQ 96375 1 365.00
+[DOB-65] |0300 HB SPECIMEN COLLECTION VENIPUNCT [36415 1 37.00
+[DOB-66] |0301 HB BMP WTOTAL CALCIUM 80048 4 229.00
+[DOB-67] 0301 HB HGB A1C 83036 4 224.00
+[DOB-68] |0305 HB CBC/PLT/AUTO DIFF 85025 4 191.00
+[DOB-69] |0636 HB PHARMACY DETAILED CODING J1170 1 5.89
+[DOB-70] |0636 HB PHARMACY DETAILED CODING J2405 4 5.00
+[DOB-71] |0637 HB PHARMACY SELF ADMINISTERED (A9270 1 0.76
+[DOB-72] |0637 HB PHARMACY SELF ADMINISTERED A9270 1 35.10
+[DOB-73] |0637 HB PHARMACY SELF ADMINISTERED A9270 1 1.04
+[DOB-74] |0637 HB PHARMACY SELF ADMINISTERED A9270 1 0.76
+[DOB-75] |0637 HB PHARMACY SELF ADMINISTERED A9270 4 0.38
+[DOB-76] |0637 HB PHARMACY SELF ADMINISTERED A9270 2 2.24
+[DOB-77] |0637 HB PHARMACY SELF ADMINISTERED A9270 1 0.76
+[DOB-78] |0637 HB PHARMACY SELF ADMINISTERED A9270 4 0.76
+[DOB-79] |0762 HB OBS PRIVATE G0378 21 870.00
+[DOB-80] |0260 HB IV THERAPYPRO/DX IV PUSH SAME 96376 4 365.00
+[DOB-81] |0636 HB PHARMACY DETAILED CODING }J2405 4 5.00
+[DOB-82] |0637 HB PHARMACY SELF ADMINISTERED A9270 4 0.76
+[DOB-83] |0637 HB PHARMACY SELF ADMINISTERED A9270 1 1.04
+[DOB-84] |0637 HB PHARMACY SELF ADMINISTERED A9270 2 2.24
+[DOB-85] |0637 HB PHARMACY SELF ADMINISTERED A9270 1 0.13
+[DOB-86] [0762 HB OBS PRIVATE G0378 18 777.00
+Please call [PHONE-87] if you have questions regarding this document.
+Page 2
+
+Patient: Lang,Brenda D
+Account ID: 210384988
+Total hospital charges: 39,451.20
+Hospital Payments and Adjustments
+eySSeiailern é :
+10/20/21 |Humana Medicare Replacement Insurance Payment
+09/15/21 |Humana Medicare Replacement LCD-Local Coverage Determination Adjustment
+12/10/21 |Humana Medicare Replacement Contractual Write-Off
+02/16/22 _|Mychart Payment (Visa x4931)
+Total hospital payments and adjustments: -39,451.20
+Please call [PHONE-88] if you have questions regarding this document.
+Page 3

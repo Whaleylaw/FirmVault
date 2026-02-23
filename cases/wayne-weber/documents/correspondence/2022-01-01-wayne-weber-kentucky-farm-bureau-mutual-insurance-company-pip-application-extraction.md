@@ -1,0 +1,26 @@
+---
+case_slug: wayne-weber
+created_at: 2026-02-17 00:40:27.666000+00:00
+document_category: correspondence
+document_date: 2022-01-01
+document_type: correspondence
+entities:
+- Kentucky Farm Bureau
+extraction_method: native_text
+legacy_case_id: 2022-01-01-MVA-001
+mime_type: application/json
+page_count: 1
+quality_score: 100
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-Weber-MVA-01-01-2022/Reports/extractions/2022-01-01-Wayne-Weber-Kentucky-Farm-Bureau-Mutual-Insurance-Company-PIP-Application_extraction.json
+source_hash: sha256:29e92acd0eefcde70f11e0fec6cdc47e3f40405868671479961194971bd867e2
+---
+
+extraction.category: insurance_pip
+extraction.date: 2022-01-01
+extraction.description: Kentucky Farm Bureau Mutual Insurance Company PIP application for Wayne Weber dated January 1, 2022.
+extraction.entities[0]: Wayne Weber
+extraction.entities[1]: Kentucky Farm Bureau Mutual Insurance Company
+extraction_metadata.confidence_score: 0.95
+extraction_metadata.extracted_at: 2025-01-22T15:40:00Z
+extraction_metadata.extraction_method: filename_analysis
+file_path: 2022-01-01-Wayne-Weber-Kentucky-Farm-Bureau-Mutual-Insurance-Company-PIP-Application.pdf

@@ -1,0 +1,1356 @@
+---
+case_slug: ashlee-williams
+created_at: 2026-02-16 22:08:08.480000+00:00
+document_category: court-filings
+document_date: 2023-05-16
+document_type: court_filing
+extraction_method: native_text
+legacy_case_id: 2023-08-29-MVA-001
+mime_type: application/pdf
+page_count: 1
+quality_score: 100
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee-Williams-MVA-08-29-2023/Medical-Bills/2023-10-02-Ashlee-K-Williams-Tri-State-Injury-and-Rehab-Medical-Billing-Records.pdf
+source_hash: sha256:991e6ad066885153b52d2a995c6c7013c9f4281be24980e9d4c640f0534701a6
+---
+
+Dec.18.2624 11:05AM Tri State Injury and Rehab No.0081 PF.2
+CERTIFICATION AENONOFOF MEDICAL MEDICALBILLING BILLINGRECORDS RECORDSAFFIDAVIT AFFIDAVIT
+-liSsp being first duly sworn onhis/her oath,saysthat:
+(Name of records ian/clerk)
+1. Tamthe custodian ofbilling records for _.Sag ile {Ligoprnatic .
+(Wame of facility or treatmentprovider)
+2. Thebilling records attached hereto aretrue and exact copies ofthe reports andrecords
+of treatment of, hi patient for treatment occurring
+between 5 /9Q/¥_ and /2 15 OY.
+3. That the billing records attached hereto weremade in the routine course of business at
+ornear the time ofthe event recorded.
+4. Thebilling records attached hereto were made by the physicians and/or staff, who had
+personal knowledge of the facts recorded,
+. 5. The billing records areof atype regularly kept andmaintained by bhaplite i 1edpretic
+ack orenoment prover 6. Thereby certify that pages accompanied this Certification Affidavit.
+TAFFIRM UNDER THE PENALTIES OF PERJURY THAT THE FOREGOING
+REPRESENTATIONS ARE TRUE AND ACCURATE.TO THE BEST OF MY KNOWLEDGE
+AND BELIEF.
+FURTHER AFFIANT SAJTH NOT.
+f
+Billing Records Custodi
+Teed tt Aree
+
+Dec. ByDate of
+Service Dateranges [DOB-80]
+to
+[DOB-2]
+Patient History
+- Summary
+‘STARLITE
+INJURY
+9.2024 11:39AM All
+z date
+Provide
+&
+Home Phone:Office Phone:
+Chart
+#
+WILLIAMS
+ASHLEE PatientName:
+WILLIAMS
+ASHLEE
+21387691
+18923
+PRESTON HIGHWAY,
+308
+Adress:
+LOUISVILLE,
+KY
+40216
+City, State, Zip:
+U
+Code
+Tri State
+H
+52
+#25s
+Prov. Visite? Checkit Date Source
+XB
+Service
+213876213876
+[DOB-3]
+213876
+'$75,00 LIBERTY
+$60.00
+LIBERTY {$65.00 LIBERTY $80.00LIBERTY
+$75.00
+LIBERTY
+$250.00 LIBERTY
+19312883 $75.00
+$0.00 30.00
+$75.00
+1931288319312883193128831931288319312887
+10/12/2023SEARS
+YW
+98940)
+[DOB-77]
+$0.00 $0.00 $60.00 $60.00
+YN
+10/32/2023SEARS
+Yu 99903
+59
+[DOB-76],
+$0.00 $0.00 $65.00 $65.00
+10/12/2023SEARS 97012
+Injury
+213876
+213876
+10/25/202310/25/202330/25/2023
+$0.00 $0.00 $80.00 $80.00
+Y N10/12/2023Sears 97110 59
+97139
+and Rehab $75.00 $250.00 $0.00 $0.00 $0.00 $75.00
+$250.00
+10/12/2023SEARS
+YN
+v
+213876213876
+40/12/2023SEARS
+N
+99213
+25,
+98940 40/25/2023
+$75.00
+UBERTY ‘$60.00LIBERTY 465.00 LIBERTY $65.00LIBERTY {$80.00 LIBERTY $75.00
+LIBERTY
+$25.00
+LIBERTY
+$75.00
+LIBERTY {$60.00 LIBERTY {$65.00 LIBERTY {$65.00 LIBERTY
+$75.00 $75.00
+39312871
+10/11/2023SEARS10/11/2023SEARS10/11/2023SEARS
+YNYRvu
+213876213876213876
+1025/2023 19312871
+$60.00
+40.00 $0.00
+$60.00
+193128711931287119312871
+98943
+59
+97039 [DOB-75]
+[DOB-74]
+10/25/202310/25/2023 [DOB-73],[DOB-9]
+$0.00 $65.00 $0.00 $0.00 $65.00 $65.00
+10/11/2023SEARS
+Yu
+97012
+213876
+$0.00 $0.00 $80.00 $80.00
+40/11/2023SEARS
+YN
+oni10
+59
+970149701098040 213876
+$0.00 $75.00
+$0.00$0.00$0.00$0.00 9000
+$75.00
+19312871
+10/11/2023SEARS
+YNynvNvn
+213876
+$25.00 $0.00 $25.00 1931287 [DOB-71]
+SEARS.
+21387213872138721397
+$75.00 $0.00
+$0.00
+$75.00$60.00
+1831287019312870 9312470assize70
+30/10/2023.
+SEARS. [DOB-70]
+$60.00$65.00
+$65.00 [DOB-69].
+SEARS.
+98043
+59
+0055
+[DOB-68] $0.00
+$0.00
+10/10/2023SEARS
+voN
+97039
+[DOB-67] $0.00
+4465.00
+10/10/2023SEARS
+vu
+97012
+PL4/44
+Insurance
+Billed *Be
+*
+1
+=
+Bill
+Insurance Unapplied
+*Ue
+Page
+1 of
+8
+pewwesny
+Advanced
+a?
+Generated 12/5/202401:07:16
+PM
+Patient History ‘Summary bv
+Dateranges 08/29/20
+Showlas
+snsi2024
+a
+OpenItems
+'STARLITE INJURY
+ta oa
+Pati ame: WLLIAMS,ASHLEE
+Address: 18923 PRESTON HIGHWAY, 308City, State, Zip: LOUISVILLE, ¥¥49216
+“Cone or = Beer
+2940 1 Wp9asaare YM 10/32/2023 Seams
+970:7 YON reneon. 10/12/20:oni Yow topo.992 6 sopizpo%
+989. Yom soften.
+989 Yo soja;
+970 Yo softy20,
+970 YOM somo.on Yo sopiyjeo..970 YON soy.
+97010 Yo to7p20:
+980. Y ——s/10/20:
+989+ Yo soytopao..
+970: Yn [DOB-66] SEAT70 ¥ 19/10/2023 SEAS
+*Us * pillInsuranes +=Generated 12/5/2024 01:07:16 PM
+VisitCheek
+T93izons
+8a883
+ar
+393128"
+a
+87
+reunet,
+Home Phone:off inesResResp. Acct “geal
+unt Applled
+$75.00 $0.00
+$60.00. $0.0.
+49654 a0
+$80.0" 40.0oe $00
+ween $0.00
+$00
+40.00
+oe $0.00sso.e $04
+- $00
+$0.00sl.
+sree lw$65.0" FO$65.00 HOw
+$0.0.$0.00Dw$0bv$06v
+WILLIAMS ASHLEE21387691
+Insurance
+nce
+$65.$90.07$75.00
+$250.08
+$75.00$60.00
+$6544654$80.07$75.0"$25.0"$75.0"$60.0"$65.0"$65.0"
+LIBERTY
+(onTRERTY
+5.08"ERTY
+{$80.00 LIBERTY$75.00 108m
+$250.00 oer
+$75.00 UBER$60.0" ERT
+Soo wentype amen
+$80.09
+*ERT
+$75.00 LIBERTY$25,00 #798$75.0" FER$60.07ER$965.00 LIBERT$65.00 1ineo:
+Date Billed10/25/202310/25/202310/25/20;
+107257201,
+3
+10/25/20:
+sp
+Isc
+213076812139769121307601213076912130768.
+213076621307621397691213676.2130765.23976n30768..233876521387621387691,
+Page of
+
+Dec. ByDate of
+Service Date
+ranges08/29/2023
+to
+[DOB-65] Patient History
+- Summary
+STARLITE
+INJURY
+‘All
+g
+Provide
+gz
+Z| é
+2
+Home Phone:Office Phone:
+Chart
+#
+WILLIAMS
+ASHLEE PatientName:
+Addrass:
+9.2024 11:39AM
+WILUAMS,ASHLEE
+Resp. Party:
+21387691
+Resp, Acctit 18623
+PRESTON HIGHWAY,
+308
+LOUISVILLE,
+KY
+40216
+City, State,Zip:
+U
+Code
+Tri State I Resp Party This Charge Date Billed ‘Charge Amount Visita? Checkét
+1931287049312870
+Prov
+‘Source
+IB
+Serica Date
+es
+ss
+g
+a3
+28as
+28$80.00 YN
+10/10/2023SEARS 97110
+59
+[PHONE-64]
+$75.00
+YN
+10/10/2023SeaRS YN
+Y
+njury
+213876213876213876
+[DOB-63],
+'BERTY
+$75.00
+975.00
+$0.00 475.00
+1912610
+193126101931261019312610 1s3iz610
+10/9/2023SEARS
+460.00Useery465.00
+oer
+$65.00 LBERTY $80.00 Loca $7500LoeRTY $75.00 LBERTY [PHONE-19] [DOB-20] [DOB-60], sof1072023,
+$60.00 $0.00 $60.00 99943
+59
+N
+10/9/2023SEARS
+7012 97039
+and Rehab $65.00 $0.00 $65.00 10/9/2023SEARS YNYN
+213876
+213876
+$65.00 $0.00 40.00
+$0.00
+$65.00
+10/9/2023SEARS $80.00
+$75.00 $0.00 $80.00 10/9/2023SEARS
+Nya
+nN
+yu
+Y
+Y
+Y
+sito59onosrosao s7010 213876
+[DOB-59] $75.00 $0.00 475,00
+19312610
+10/9/2023SEARS
+213876
+0/10/2023
+sopto72023
+$75.00 $0.00 $0.00
+19312610
+10/9/2023SEARS
+213876213876213876
+$25.00
+LBERTY $75.00UBERTY $60.00L-BERTY $65.00
+L-BERTY {$80.00 LiBERTY $75.00UBERTY
+$25.00
+LBERTY $75.00 LIBERTY
+19312610
+425.00 $0.00 $0.00 425.00
+193125721931257239312572
+3931257219312572
+10/9/2023SEARS
+[PHONE-23]sojo9/2023,
+$0.00 $0.00 $75.00 $75.00
+10/5/2023SEARS
+NN
+$0.00 $0.00 360.00 $60.00
+10/5/2023SEARS 98043
+59
+[PHONE-57]/2023,
+$0.00 $0.00 $65.00 $65.00
+10/5/2023SEARS
+YN
+97012
+213876
+213876
+[DOB-56],
+$0.00 $0.00 $80.00 $80.00
+YN
+10/5/2023SEARS s7ut0
+59
+snowsn39 s7o10
+10/09/202310/09/202310/09/2023
+$75.00 $0.00 $75.00 10/5/2023SEARS
+0055
+$25.00
+$75.00
+$25.00 $0.00
+$0.00 19312572
+19312572
+10/5/2023SEARS
+vu
+vu
+213876213876
+$0.00 $75.00 10/5/2023SEARS
+PL5/44
+*
+B
+=
+Insurance
+Billed
+*
+T= Bill
+Insurance Unapplied
+*US
+Page
+2 of
+8
+rownetin
+Advanced
+Ma®
+Generated 12/5/202401:07:16
+PM
+Patient History ‘Summary
+STARLITE INJURY
+ChaPati lame:Address:
+9710 F*97139S7ix270x57000samos7012
+omom70sive
+* U= unappiiea
+AvDate~*Service
+City, State, Zip: LOUISVILLE, KY0286
+Dateranges 0M29/2¢2705/202
+feels
+shows de
+wnente.s 7
+HomePhones
+WILLIAMS ASHLEE om ne
+823 PRESTON HIGHWAY, 208 Res)¥F WILLIAMS ASHLEE
+Rex~t= 21387601
+z = ee vise? Charge PatientInsuranceTotal Last bled Dateilled Respparty Check#AmountApplied«BalanceBalance‘Balance Curier Thera1 1G, T8800 ‘$8000 "$0.00 ‘$0.00 0 72023 asY"[PHONE-26] Sms nsoseorw750" GUD $000 . p00 23YONpee 610 75m" = $0.00 $0.00 «$75.00 10/10/202321397691
+10/97202. = 26° - $9.00 goc, $60.0"tenon tlacory —anvanrangs 21367601
+Yo s0/9/2028 ene « $0.00 $0.00 $50" osu 028 21387601Yo 10797202 en orem g.00 so. $05.0 ges.an ne rovin7202321387691
+sojsp2ozs seas 61D $8. $0.00 $0. $800 BDanvan oc"
+¥ ~ 10/972008 seas 6 goon got, gem 75 2op10p207Yo 19/2023 seas 6 $0. $000 $7507 $75perenn
+Y 107972025 sen 6 Cw by g25.0050 sopiop20,aeroree
+10/5/2042 oc 5. $04 sou g754 520 eK - [PHONE-27]/5/2023 seme soe. $0.0. $6007 $600"MERI, aapeeradD2130761.
+Yo 10/5203 son = 400 $00 $65.0" 465.00 LIBERT 2138764Yo s0)572028 sem seme p00 $00 gees ga :YON19/5/2025 sea se go 40. grt" $784 -YY* t9/s2028. sear = 4000 $090 25" gag.en seteYo" 1mj572025 sea ‘5c 40.00 Woe TT grHR u 2130766.“T=alllInsura
+revntin, Page.of Generated 12/5/2024 01:07:16 PM
+
+Dec. ByDate of
+Service Date
+ranges08/29/2023
+to
+[DOB-53] Patient History
+- Summary
+STARLITE FAJURY
+9.2024 11:39AM All Provide
+Showlast bil OpenItemsOnly Home Phone:
+Office Phone:
+Chart
+(WILLIAMS
+ASHLEE PatientName:
+WILLIAMS
+ASHLEE
+21387601,
+18923
+PRESTON HIGHWAY,
+308, ‘Address:
+LOUISVILLE,
+XY
+40216
+City, State,Zips
+U
+code
+Tri State I Resp Party This Charge: lied Date Billed tal Last nce Carrier $75.00 LIBERTY.
+$60.00 LIBERTY
+{$65.00 LIBERTY
+Charge
+Arnount
+Prov Visite
+heckit
+Date Source
+1B
+Service
+213876213876213876
+[DOB-52]
+1009/2023,
+39312538,
+$75.00 $0.00 $0.00 $75.00
+193125383931253819312538
+10/3/2023SEARS
+YN
+YY 98940)
+$360.00
+$0.00
+$0.00
+$0.00 $60.00 10/3/2023SEARS
+NN
+98943
+59
+97039
+njury
+s0jo9/2023,
+$65.00 $0.00 $65.00 oo
+$65.00
+¥ 10/3/2023SEARS
+gs
+EE
+£4
+ees £8
+a8
+8
+$0.00$0.00
+19312538
+10/3/2023
+SEARS
+10/3/2023
+SEARS
+Nyu 97012
+97139
+21307
+2139721307213072130721397
+[DOB-30]
+$75.00
+LIBERTY
+$25.00
+LIBERTY
+$75.00
+LIBERTY
+$60.00
+LIBERTY
+$65.00
+LIBERTY {$65.00 LIBERTY
+$0.00 40.00
+$75.00 $75.00
+$25.00
+1951253819512558193123761931237619312376 19312376
+10/3/2023
+SEARS
+yu
+yY
+Y
+97014
+and Rehab
+[DOB-50]
+$25.00 $0.00
+$0.00
+$0.00$0.00 10/3/2023 SEARS
+NNN 97010
+98940 [DOB-49]
+[DOB-48]
+$75.00
+$75.00
+10/2/2023
+SEARS $0.00 $0.00 $60.00
+$62.00 10/2/2023SEARS 98943
+59
+s0y05/2023
+$0.00 $0.00 $65.00
+$65.00 10/2/2023SEARS
+YN
+97039
+[DOB-47]
+$0.00 $0.00 $65.00
+$65.00 10/2/2023SEARS 97012
+Ba
+a3Bg88
+EE
+Baae2
+g 8
+23
+gs Se
+a8
+ga
+g8a8
+ze
+g§
+213876213876213876
+[DOB-46]
+$75.00
+LIBERTY
+$75.0075.00 $0.00 $0.00 $0.00
+193123761931236019312360
+10/2/2073
+SEARS
+Yu
+[PHONE-36] [DOB-44] $75.00
+LIBERTY
+$60.00
+LIBERTY
+40,00
+$75.00
+912772023
+SEARS
+YN
+0055
+0/05/2023
+$0.00
+$0.00 $60.00 $61.00 9/27/2023SEARS
+YN
+99943
+59
+PL6/44 213876
+Page
+3 of
+8
+r
+40.00 $0.00 $65.00 $65.00
+LIBERTY
+[DOB-43].
+3 =
+=
+ZB:
+a
+B & FE a 2 |
+tT 2gS3
+s &
+R a:
+. z
+Fg
+z3
+a
+gs 5 2
+8 2 8
+Patient
+- 8
+History - Summary ByDate~fService
+STARLITEUURY Dateranges 04/2972n817024
+wets
+Show las dda
+ee sn
+Che HomePhone:
+Pati WILLIAMS ASHLEE off neAdress: 8923PRESTON HIGHWAY, 308 Rey WILLIAMS ASHLEE
+City, State, Zip: LOUISVILLE, ¥¥ 47716 Resp. Acct#t 21387691
+oo” e Prov Visite? charge ald tient ns Total LastBilled Date Billed RespParty _ “Shock —_Amgint AppliedBrice caren Tweet
+38940 +e wy TSiitow Fu $0.00 7.00 0UBER 1070a7R023 [PHONE-39] “* ‘10/3/2023 Seana 47946290 $6.0" $0.6 $0.0 Wo HRERTY [DOB-40] 213876919705" aes ~ 5a $65.00 $0.00 $0.0. $65.00 65.0% "SRT 10/09/20. 21387691970 ¥ 10/3/2023 star 1538 Ob + $ y2or~ [PHONE-41] Yo" 10/3/2023 rat som Ole $O.be $ y2023 21387691.970 ¥ 10/3/2023 SEAE so ” Oe. $0.00 $75.00 $75.00 LIBER™ 3 213876:_
+970. ‘ Lopsy20s" 8 sro 40.6 $0.0. $25.00 $25.07 RTY 10/09/20;
+$89. 970%" a - 0.00 40004753 sro oreRTY10/05/20;21387691
+989 10/2/20-~ 376 $6. Oe $0.lu ge0.re $60.0" YER) 21387691
+970; Yom s0faj2ars om" 3 Ou $0.0, $65.00 $65.00 HOERT - 213876"
+970. YN 10/2/20: - 3 0.8 $0.0_ ges." - 2138769"
+Y 1 SEAR 0.0 $2, gar 6
+ae Y 1 tA 0.00 $ v gry 6
+97139 Y¥ “10/2/2023 SEARS 193123 $0.00 90.00 $75.00 ($75.00 LIBER”
+98940 Yo™ 9/27/2023 SEARS 19312360 $74.00 40.00 $0.00 $75.00 $75.00 ERTY [DOB-42] 213876989" Yo ™ 9/27/2023 SEAF 360 $67.00 Oh. FOL, $60 0.00 LIBERTY 10/05/20. 21387691,© a f “ ar 0.0 $0.00 $65.00 $65. 2138 76° 1
+~ ance \
+d wade Page «nf
+
+Dec. By
+Date
+of
+Service
+Date
+ranges08/29/2023
+to
+[DOB-43]
+Patient History
+- Summary
+‘STARLITE
+INJURY
+9.2024 11:40AM All date Provide
+g
+é
+z
+é
+§
+Home Phone:Office Phone:
+Chart
+#
+WILLIAMS,
+ASHLEE
+PatientName:
+WILLIAMS
+ASHLEE
+24387691
+Resp. Party:Resp, Acctit £8923
+PRESTON HIGHWAY,
+308
+‘Address:
+LOUISVILLE,
+KY
+40216
+City,
+State,
+Zip:
+U
+Code
+Tri State led Date Billed Prov visita? ‘charge Checkit Amount, Date Source1B Service
+213876
+[DOB-44] $65.00
+LIBERTY
+$7500
+LIBERTY
+$75.00
+LIBERTY
+$75.00
+LIBERTY
+$60.00
+LIBERTY
+$65.00
+LaBERTY
+$65.00
+LIBERTY {$80.00LIBERTY $75.00LIBERTY
+$60.00 LIBERTY
+$65.00
+LIBERTY
+$65.00
+LIBERTY
+$25.00
+LIBERTY
+$75.00
+LIBERTY
+$75.00
+LIBERTY {$80.00 LIBERTY $75.00LIBERTY
+"$65.00 ‘$0.00 ‘965.00
+19312360 972772023
+SEARS
+YNyuYN
+y
+7012
+s7o149713998940 213876
+[DOB-45]
+$75,00 $0.00 $75.00
+1991236019312360 991225019312250 1ssiz2s019312250
+9/27/2023SEARS
+213876
+[DOB-46],
+$75.00 $0.00 $75.00
+9727/2023
+SEARS
+Injury
+21307
+213072130721367
+243876
+[DOB-47]
+$75.00 $0.00 $75.00 9/26/2023SEARS
+N
+and Rehab10/04/2023 $60.00 $0.00 $0.00 $0.00 $60.00 9/26/2023SEARS YNYN 98043 59 [DOB-48] $65.00 $65.00 9/26/2023SEARS 97039
+10/04/202310/04/202309/27/2023
+$65.00 40.00 $80.0065.00 9/26/2023SEARS
+”"
+yY
+97012
+$0.00$0.00 19312250 9725/2023 SEARS 97110
+59
+98940
+243876
+$7500 $9.00 $75.00
+19312002 93120029312002ss3i2002ss3i2o0zssp1200218912002,
+972572023
+SEARS
+YNYNYN
+213876
+[DOB-49]
+([DOB-50]
+$0.00 $0.00 360.00 $60.00
+9/25/2023SEARS 98943
+59
+97039 2138769,
+$0.00 $0.00 $65.00 $65.00
+9725/2023
+SEARS
+213876
+09/27/202309/27/2023
+$0.00 $0.00 $65.00 $65.00
+97012
+YN
+9/25/2023SEARS
+[PHONE-51]
+213876243876213876
+$0.00 $0.00 $25.00 $25.00
+9/25/2023SEARS
+YN
+[DOB-52]
+$0.00 $0.00 $75.00 $75.00
+9/25/2023SEARS
+99/27/2023
+$75.00 $0.00 $75.00 9/25/2023SEARS
+vnyr
+yon
+97139
+0055
+213876213876
+[DOB-53]
+$80.00 $0.00 40.00 $0.00
+1931200219311875 912572023
+SEARS
+o7i10
+59
+98940 [DOB-54] $75.00 40.00 $75.00 9/21/2023SEARS
+PL7/44
+*
+B
+=
+Insurance
+Billed
+*
+1
+=
+Bill
+Insurance
+*U
+=
+Unapplied Page
+4 of
+8
+vomeeateAdvanced Generated 12/5/202401:07:16
+PM
+Patient History ‘Summary BuDateService
+‘STARLITE INJURY Dateranges 08/29/2105/2024
+AllProvide
+Sm coiled da
+=e ems.
+cha oo HomePhone:Pat ame: WILLIAMS, ASHLEE off ine:
+‘Address {9923 PRESTON HIGHWAY, 308 Res, ye ‘WILLIAMS ASHLEE
+City, State, Zip: LOUISVILLE, xv 49216 Res it 24387691 wool . Visita] Charge ie Insurance ‘Total Last Billed Date Billed Resp Party
+tata checks Amount Applied jalance Balance Carrier Thi
+“oe eR $65 $0.00 i OUBERTY10/05/2023 21387691
+97014 Y "972772023 Stars vsies0u $75.00 $0.00 00 LIBERTY10/05/2023 21387601,Shue yug _ 360 $75.0" 700 750" wee 10/05/20: 21387601,909 9726{2023 sear a $0.00 $75.0" $75.00 "ERT 213876°*
+988 YOM 926/202... 1250 $60.08 $0.00 $60.08 $960.09 0ERT 21387691
+970 YM 9/26/2025 oem 2 $0.00 $65.00 965,08 ERT - 2138765.970 912672025 seat 2 40.00 $65.00 05.00 7°ERT
+om 92672025 se 250 $204 0.00 $804 0c RT 213876
+989. Y “972572029 ota 0 Ole 4754 5,00LIBERT 2aaB7er*
+989: YN 9/25/2023 SEA 002 $60.0" $0.bu 360.00 $60.001FRT ~ 213876970: YN 9/25/2023 SEA 0 $0. $65." oa 213876970: YS 9725/2025 oun 002 $65.0" $00 $65.00 $65.00 7ERT 3 213876.970: YM 9/25/20: o $0.0 $25.0" $25.0" HrOERTY 09/27/20: 2138761_970 YON 9/25/2023 sca o- $00 $75.07 $75.00 OER
+on: Yo 952020 sew om rn $00 $75.07 $75.00 eR - 2u3e76r
+on Y 9P5f2023 sem om cen $0.00 0,0" $80.0" +R 21387601,
+989 Yom 9721/2023 seme er grou 40.00 $75.00 $75.00 LIBER - 2138761
+wee «Bill Insure.Generated 12/5/2024 01:07:16 PM cornet, Page -of+
+
+Dec. ByDate of
+Service Daveranges [DOB-55]
+to
+[DOB-56] Patient History
+- Summary
+[STARLITE
+INJURY
+9.2024 11:40AM
+|
+36All
+Provide
+Home
+Phonar ‘Chart
+#
+Office Phone:
+WILLIAMS
+ASHLEE PatientName:
+WILLIAMS
+ASHLEE Resp, Party:
+Resp, Acti £8923
+PRESTON HIGHWAY,
+308
+LOUIsvitte,
+KY
+40216
+‘Address:
+21387601,
+City, State,Zip:
+U
+Cote
+Tri State
+iResp
+Party
+ate Billed
+‘charge
+Amount
+Visite?
+Chackit
+Prov
+Date ‘Source
+TB
+Service
+[PHONE-57]
+213872130721397
+([DOB-58]
+'$60.00LIBERTY $25.00
+LIBERTY
+$75.00
+LIBERTY
+$75.00
+LIBERTY {$65.00 LIBERTY $80.00LIBERTY
+"360.00
+$0.00
+360.00
+‘9/21/2023
+SEARS
+1931167519311875
+YN
+98943
+59
+97010
+09/25/202309/25/2023 (09/25/202309/25/2023,
+$25.00 $0.00
+$0.00
+40.00
+$25.00
+$75.00
+9/21/2023SEARS
+vnyuvaYN
+Y
+$75.00$75.00
+$65.00
+1931187519311875
+97212023SEARS 97014 97139
+97012
+Injury
+$75.00
+912142023
+SEARS
+and Rehab $65.00 $0.00 40.00
+19311875, 9/2192023
+SEARS
+213876
+[DOB-59]
+$80.00 $0.00 $0.00 90,00
+$0.00
+39311875, 19311738 912172023
+SEARS
+N
+9711059
+213876213876213876
+[DOB-60]
+09/21/202309/21/202309/21/20230972/202309/21/2023 (09/21/202309/21/2023
+$75.00
+LIBERTY {$60.00LIBERTY $25.00LIBERTY $75.00LIBERTY
+$75.00
+LIBERTY {$80.00 LIBERTY $65.00LIBERTY
+$65.00
+LIBERTY
+$75.00
+LIBERTY.
+$60.00
+LIBERTY $25.00LiBeRTY
+$75.00 $0.00 $75.00
+YN
+9/20/2023SEARS 98940 $60.00 $0.00 $0.00 $60.00
+19311738
+9/20/2023SEARS
+yuyuvnyN
+Y
+99843
+59
+97010
+$25.00 $0.00 $0.00 $25.00
+19311738
+9/20/2023SEARS
+213876
+19311738
+$75.00 $0.00 $0.00 $75.00
+1931173819311738193117381931173819311669
+19/20/2023
+SEARS 97014
+213876213876
+$0.00 $0.00 $75.00 $75.00
+9/20/2023SEARS 97139 $0.00 $0.00 $80.00 $80.009/20/2023SEARS
+N
+97110
+59
+213876
+$65.00 $0.00 $0.00
+40.00
+40.00 $65.00
+$65.00
+9/20/2023SEARS
+YNYR 97039
+[PHONE-61]
+21307213972139721387
+$65.00$75.00
+9/20/2023SEARS
+9/20/2023
+40.00
+$75.00 91972023SEARS
+yw
+0055
+[DOB-62],
+60.00
+$0.00 425.00$0.00
+$0.00 $60.00$0.00 19311669
+YN
+9/19/2023SEARS
+Y
+98943
+59
+97010
+([DOB-63],
+$25.00
+19311669
+9/19/2023SEARS
+N
+*
+B
+=
+Insurance
+Billed 1s
+Unapplied
+*Us
+PL8/44
+Page
+5 of
+8
+rementts
+Advanced
+42
+Generated 12/5/202401:07:16
+PM
+Patient History Summary ByDater Service
+Daveranges 08/29/2021N8/7924 [STARLITE INJURY
+Showles x
+OpenItems
+chart ca Home Phone:Pati ame: witLIAMS,ASHLEE Offi ones
+Address: 8923PRESTON HIGHWAY, 308 Res) oy" WILLIAMS ASHLEE
+City, State, Zip: LOUISVILLE, FY40216 Ros,ot 21387691
+* “Goue —ee = eer visite? ‘charge: v Patient Insurance Total Lasteilled DateBilled RespParty
+Check# = Amount Applied lance nce nceCarrier Thee
+1 be Tia $60 $0.00 $0.00 ioUBERTY—_09725/2023——=«23876
+97010 Yo 9/21/2023 Seaxy ysis $254 $0.00 $0.00 “0LIBERTY09/25/2023 21387691970: Y 9725/2023 SEAL 275 s750° $000 $0 ssc e760" Hoenmy 90/25/2023 21387691,
+on: Y 9721/2023 em a 90.00 $00 $750" $7500 OER 3 213876"
+970: Yo 921720. sume a - 6.00 $00. go5.0" $65.00ERon: 972172023 EAE on sean $0.0. $04 480.00 $80.00 UBER"900 Y "9720/2023. SEAF am $0.0. 00. 953 ‘sien sore B 213876peo e° Y — 9p20j20 738 $0.00 $0.00 $60.r° $60.00LIBER" 7 213876
+970 Yo" 9720/2023 sear $04. $0. $25.07 $251970: Yo" 97200. x $0.0. $0.be 50° $75.00. TRE - 213676...on: Yo~ 9720/2025 sear nr $0.0, $00. $750" $75. 2138761
+om 9/20/2023 SEAS = $00 $00 seo. $80. 2138761.
+970: Yo" 9720/2002 sow 7 were $90. $00. $650° 965.00 LIBER’ 2B [PHONE-64]: yom 97207201 ™ were 304. $000 $0500 $6507 FR - 21387691
+909° YM 9/19/2025 oem 6 $0.00 $04. $75" $7500ER989. YM 9/19/2023 sear or ~ ou. $04. $60.0" $600" "08 2138764
+9701 sp9p202s eA or o 0.00 $0.00 $2507 $25.00 |rE 21387691
+*Us "eT Insura.. snewrance rine
+Generated 12/5/2024 01:07:16 PM Peet
+
+88 2
+aS 8 geHeg
+i
+;
+z
+z=—
+—=
+o?
+z
+Ss2
+2
+zme =i
+BEB52
+Ei
+Th:41AM‘Home Phone: Office Phone: Chart
+#
+WILLIAMS,
+ASHLEE
+PatientName:
+Address:
+WILLIAMS,
+ASHLEE
+21387601
+Resp. Party:
+18923
+PRESTON HIGHWAY,
+308
+Resp. AcctiF
+LOUISVILLE,
+KY
+40216
+City, State,Zip:
+U
+Code
+Tri State Resp Party This Date Billed Prov visitet/ Charge Check Amount Date ‘SourceXB Service
+$75.00
+LIBERTY
+[DOB-65]
+213876
+$75.00
+LIBERTY
+$75.00
+$30.00
+$75.00
+19311669193116691931166919311669
+‘9/19/2023
+SEARS
+YNYN
+Y ‘o7014
+213876
+([DOB-66]
+$75.00 40.00 $0.00
+40.00
+$75.00
+9/19/2023SEARS 97139
+21307
+2138721387213872138721387
+99/20/2023([DOB-67]
+{$80.00 LIBERTY $65.00
+LIBERTY
+$965.00 LIBERTY $75.00
+LIBERTY $60.00LIBERTY $25.00LIBERTY
+$75.00
+LIBERTY
+$75.00
+LIBERTY.
+{$65.00 LIBERTY {$65.00 LIBERTY $80.00
+LIBERTY {$75.00 LIBERTY {960,00LIBERTY $25.00 LIBERTY $75.00LIBERTY
+$80.00 $0.00 $80.00
+$65.00
+9/19/2023SEARS
+N
+s7110
+59
+s7o1 970398940
+Injury
+965.00 $0.00 9/19/2023SEARS
+veynyw
+y
+and Rehab
+([DOB-68]
+$0.00
+$0.00 $65.00 $65.00
+19311669
+9/19/2023SEARS
+09/19/202309/19/2023
+[DOB-69]
+$75.00
+$0.00 $0.00
+$75.00
+19311607
+9/18/2023SEARS $60.00 $0.00 $0.00
+‘$60.00
+1901160719311607 ss31607
+19311607 1s3is6071931160719311607
+9/18/2023SEARS
+NNN 98043
+59
+97010
+$0.00 $0.00 $25.00 $25.00
+9/18/2023SEARS
+213876
+09/39/2023
+$75.00
+$0.00$0.00$0.0040.0040.00
+$0.00 $75.00 9/18/2023SEARS
+Y
+70a
+213876
+[DOB-70]([DOB-71]
+$75.00 $0.00 $75.00 9/18/2023SEARS
+YN
+[PHONE-72]
+213876213876
+$65.00 $0.00 9/18/2023SEARS
+ywvavwyw
+y
+9/19/2023
+$65.00$80.00
+$0.00 9/18/2023SEARS
+465.00
+97012
+213876213876213876
+[DOB-73]
+$0.00$0.00
+$80.00
+9/18/2023SEARS 9711059
+98940 [DOB-74] $75.00 $0.00 $0.00 $75.00
+19311479,19311479,
+9/14/2023SEARS
+[DOB-75] [DOB-76],([DOB-77],
+$60.00 $0.00 $60.00 91472023SEARS
+N
+90943
+58
+0055
+213076213876
+$25.00
+$0.00 $0.00 $25.00
+1931147939311479
+9/14/2023SEARS
+YN
+97010 $0.00 $0.00
+$75.00
+$75.00
+9/14/2023SEARS 97014
+*
+B
+=
+Insurance
+Billed
+* | =
+Bill
+Insurance Unapplied
+*Us
+PL9/44
+Page
+6 of
+8
+vonmeaty Advanced Generated 12/5/202401:07:16
+PM
+By
+c ~329/202
+s
+Show te
+°
+Chart 39 ‘ome Phone:atl ““amer —WILLIAMS,ASHLEE off ~me:
+Address: £8923 PRESTON HIGHWAY, 308 Res) oy" WILLIAMS ASHLEE
+City, State, Zip: LOUISVILLE, FY«216 Rest 21387601
+“Coue cor . ‘visite charge Patlent Insurance Total Last Billed Date Billed Resp Party
+pate Check# Amount nce oe reier This Charge
+7014 +N very 5 $0.0 san 475 onLIBERTY09/20/2023 213876
+97139 YM 9/19/2023 Seana rys1s003 $75.06 $0.00 scree 99/20/2023 21387691om: © _ 669 $80.00 000 $80.00 $e00" TERTY 09/20/20... 21387691
+970: Yo 9A9f20-5 sean err sere $04. $65.00 $965.00 LIBER™ B 213676"970 Y 97197202 ear erm sree $0.00 $0.00 $65.00 $65.00 PER 21387691989 Yo~ 9718/20¢3 sear er $04. $0 9751 5.00 UBER99043ro 9pr720e3 sea or $0.0 $0. $60.00 $60.00ER B 213876970. Y 97182025 >ea0 or $00. $0.0 $251 Silvan
+970 97187202) 200 om or ne 300 $00. $75.0" “ion: YM 6718202. sow 7 $7506 $0.00 $0.00 $757 75.00 "ERI 213876
+97039 Yo 9/18/2029 oem 6 $l $0 $05.0" $55.05 PERT 213876
+970: Y7 918/202 oem 6 Ole $0. $65.0" $65.00 LIBER" 2B 213876
+om: Y~ 9/18/2023 sear or $60.07 so. $0. 8000 $80.00LIBERTY98/19/20. 213876...
+989 Yo“ 97147202 oer 4 $0. $0 $75.00 $75.00LIRER™
+943 re ( 9pap20es seat 479 seo." $e $0 604 ou 2138764
+9701 Yo" 9/tapaoes sear 4 $0.00 foe $254 5.00 |RED - [PHONE-78] YON 9/4p025 sear 4 $00 $04. $754 5.09 106R 3B 2138760"
+*US “1 illInsure... vncneany
+Generated 12/5/2024 01:07:16 PM penne, Pane ae
+28g
+6lO
+
+Dec. 9 2024 11:41AM Tri State Injury and Rehab 0055. 10/44
+exeael gle RRR RRR RRR RRR RHEE © B2836 Feige 2 Se See SSS FR 22s 3
+Sana? SSQE EERE EER EEREEEEE 5
+ga% a5 aE g
+ag ze
+3 P|,ESELES SESEERRGEE i Bljgteeeezeeeees88 88s
+z
+. EEEEEEEEEEEEEEEEE SERSSSEEERS EEeeea8 ge8222233333338338 BSSeeseseessgcgegegse
+g
+a B[PHONE-79]s322288 23 BRRSRSSS eeseeeees
+g&
+Ba
+222222888282 2822222
+iss 33g gsseesee8 s ages
+22:8 B@SAeeagsgeegggegeg gs
+2Bz a4 2622
+ge/8 e22323:88888 sg s2e FIISEREREREREERE SEES £ oe 3
+Zz:
+w#/E £8 BS 2288225 552 && zs HEPES EEREERLERRRRR EF ES|RERR ESESE SERSREE gf
+v
+3 geggeegneee2e222882 F
+> EI SEE ES EES 2E 88 288 GE
+S zs g
+= ez 28|SSSSSSSSS SSSRSSR2 2 E
+é EG S(G(Fe SR SSS SSSRSSS SSS EF
+g28|of2 \22222222222222 zez 7 8
+2 Ba Sl. hoe > yr =
+8 s alt 2&
+ze ori 28 2 ae aig a 3a E oe E52cle lssSeaee2eeggeeseeaesg 5 B
+33 22s SSRERRSERERSEREREE =
+z > 8 aoa > * OO
+s o4
+2
+ae 3 eE
+Prov Paid) PatientInsurance“Total Lst Billed Ted '
+. Applied lance lanceBalance Cartier -
+Se —_ a B :
+y ry ° \ 2 -
+3 . 00 2B :a wwe 2
+Y @ 2B
+3 23 oS
+Y a) o * $ 23Y 2 ° * $ a : ~
+y 1023 19 ° ¥ 3 :y ; ° # 3y ; ° $0.00 3y 3 ° $0. 3y ° $0.00 23y 60.00 ~ 2Y '
+40 cy =
+Y 2B oo $0.00 2B :Y 2B 0 00 2 ;
+mar :
+ater ic wut . a x.
+
+Dec. By
+Date
+of
+Service Date
+ranges08/29/2023
+to
+[DOB-80] Patient History
+- Summary
+[STARLITE
+INJURY
+Open
+ItemsOnly
+Home
+Phone:
+Office Phone:
+Chart
+#
+3
+5=
+9.2024 11:42AM
+WILLIAMS
+ASHLEE
+21387691
+Resp. Party:Resp. Acti
+8923
+PRESTON HIGHWAY,
+308
+ip:
+LOUISVILLE,
+KY
+40216
+City,Sti
+Tri State I Resp Party
+721387213876
+‘ThisCharge
+Date Billed
+10/25/202330/25/2023
+BE
+B43 a8
+g2|s 8
+B£a|53
+3a\2 = ia|* =
+5a|*
+sslk 22/5§
+Bo |8 f
+Eig8
+s |e&
+e2|8§ GB
+a |z =
+i
+8
+>
+njury and
+‘$6,205.00, "$0,105.00 ‘$8,105.00
+‘GrandTotal:
+Rehab No.0055 P,
+*
+T=Bill
+Insurance
+*
+B=
+Insurance
+Billed
+* U
+=
+Unapplied
+11/44
+Page
+8 of
+8
+rereeaty
+Advance
+day
+Generated 12/5/202401:07:16
+PM
+Patient History ‘Summary
+SSTARLITE INJURY
+Presta ntService
+Dateranges 08/29/20... 2/05/2024
+coreels
+‘Showlastbilledda
+pen Items Only
+chars oa Home Phoner
+Pat ame: Lee om ane:
+Address: 8923PRESTON HIGHWAY, 308 Res, ty WILLIAMS ASHLEE
+Clty, State, Zin; Lomewnss yyannag Res, a 21387691,
+tor ~ ge Patient Ir Date Billed Resp Party
+cunt Bal Balance Cartier This Chsra0,
+a ~ 500 , 90.00 1
+9711059 Y ” $80.00 0 $0.00 4 30/25/2023 21387691
+Grand Total: ‘38,105,00$0.00 $0.00$0,105.00$0,105.00
+—* Unapplied ‘I Sill Insurance‘ —_Insurance Billed
+Generated 12/5/2024 01:07:16 PM reventbs Advanceda Page icf

@@ -1,0 +1,151 @@
+---
+case_slug: amy-stich
+created_at: 2026-02-17 02:55:48.549000+00:00
+document_category: correspondence
+document_date: 2024-07-12
+document_type: correspondence
+extraction_method: native_text
+legacy_case_id: 2024-01-17-OTH-001
+mime_type: message/rfc822
+page_count: 1
+quality_score: 100
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Stich-WC-01-17-2024/Correspondence/Email/2024-07-15-Amy-Stich-Correspondence-WLF-Email-to-Client-Regarding-Surgery.eml
+source_hash: sha256:7c9957f385b4c86ac2c08f62c24219ec00eca92d1df1dec3ee0a33221b252982
+---
+
+Subject: Re: Case updates
+From: sarena@whaleylawfirm.com
+To: [EMAIL-13]
+CC: [EMAIL-2], [EMAIL-3]
+Date: 2024-07-15T09:57:32-04:00
+Good morning Amy,
+    I have attached the office notes from your visit with Dr. Smith at
+Ellis & Badenhausen. You have a full thickness tear of your distal bicep
+tendon with retraction by 2cm as well as an 'extensive amount' of
+tendinosis. While we understand the difficulties of not having a proper
+support group, we have to recommend you have the surgery as the injury is
+not going to get any better and the longer we wait to have the surgery, the
+chances of success diminish. Also, if you are already not working, this
+would be the best time to get this done. We can see about getting you
+temporary total disability payments from your workers compensation carrier
+while you recover and are in physical therapy. Further, the pain you are
+currently enduring is only going to increase as more damage is done and the
+chance of a successful recovery decreases.
+    We can not currently say what settlement would look like at this time
+as it is not how these claims are typically handled and depend largely on
+your workers compensation carrier's willingness to settle. They do have the
+option to decline settlement & close your file as non-compliant with
+medical treatment. The best outcome would be having the surgery and going
+from there. However, it is your body and we can not tell you how to
+proceed. We can only inform you of the options, you have to make the
+decision. Please give us a call to discuss these options in further detail
+and to go over any other questions you may have.
+
+Sarena M. Tuttle
+Litigation Paralegal &
+Workers' Compensation Case Manager
+The Whaley Law Firm
+712 Lyndon Lane
+Louisville, KY 40222
+D: [PHONE-10]
+O: [PHONE-5] ext 104
+E: Sarena@WhaleyLawFirm.com
+(PLEASE NOTE NEW EMAIL ADDRESS)
+
+
+On Sat, Jul 13, 2024 at 12:39 PM Amy Stich <[EMAIL-8]> wrote:
+
+> Since we supposedly don't have a lot of time and I am unable to get any
+> kind of surgery right now (due to not having anyone to help me (widowed, no
+> partner, no family, no friends) and unable to not  work or drive for time
+> I would have to heal from said surgery), can we ask for the 4 years and/or
+> funds for surgery (everything included) in settlement? I bet they would
+> allow the 4 years if they had a choice between the 2 options...If all of
+> this was taken care of in a better and more timely matter, I may have been
+> able to do the surgery, but I have no support right now and have things
+> coming up that I can't get out of nor do I want to. I have my dog and this
+> house to take care of, plus currently I am interviewing for new jobs and I
+> can't go in saying that I will be unable to work due to surgery and
+> healing. I am trying to survive with side gigs right now and that means I
+> have to drive and be able to work. I can not do any catering or heavy
+> lifting due to injury so that leaves me without ability to get jobs in
+> those categories. I can serve, due to injury, because of the repetition of
+> constantly carrying things. There are a lot of things I just can't do..So I
+> am limited.
+> Is the surgery success in the high percentage range?
+>
+>
+> Is the muscle tear a partial or total tear?
+> I have not seen the reports from the last doctor yet.. Can you all send it
+> to me?
+>
+> I want to make a complete and informed decision.
+> What does it look like if we opt to no surgery at the moment and go for a
+> settlement?
+>
+> Amy Stich
+>
+> Get Outlook for Android <https://aka.ms/AAb9ysg>
+> ------------------------------
+> *From:* Sarena Tuttle <sarena@whaleylawfirm.com>
+> *Sent:* Friday, July 12, 2024 10:28:44 AM
+> *To:* Amy Stich <[EMAIL-7]>
+> *Cc:* Bryce Koon <[EMAIL-8]>; Greg Whaley <
+> [EMAIL-9]>
+> *Subject:* Re: Case updates
+>
+> Good morning Amy,
+>     I have asked Bryce to call you and go over your options, I apologize
+> that that has not happened yet. We have received the office notes & x-ray
+> from Dr. Smith and as you already explained, he wants to do surgery. I have
+> explained to Bryce your situation and currently we have a couple of
+> options. First, we can hold the claim and see if your situation changes to
+> a point that you are comfortable with doing the surgery and go from there.
+> Please understand that we can only hold the claim for a short period of
+> time. The second option would be to attempt settlement and request the
+> Right to Reopen not be waived, allowing us a 4 year period to revisit the
+> claim for additional treatment. Bryce does not feel the Defense would be
+> open to this, but it never hurts to ask. Our 3rd Option is to settle the
+> claim as is and unfortunately, you would miss out on proper treatment and
+> possibly will have to pay out of pocket for future treatments if your
+> health insurance denies the claims due to workers compensation being your
+> primary coverage. Our 4th option is to work with your Nurse Case Manager
+> and try to get some type of physical therapy in place. The downfall to this
+> option is that due to the torn muscle, physical therapy will most likely be
+> unsuccessful or possibly cause more damage. If you would like to give me a
+> call to discuss these in further detail, please do so when you have a few
+> moments. I can be reached directly at [PHONE-10].
+>
+> Sarena M. Tuttle
+> Litigation Paralegal &
+> Workers' Compensation Case Manager
+> The Whaley Law Firm
+> 712 Lyndon Lane
+> Louisville, KY 40222
+> D: [PHONE-11]
+> O: [PHONE-12] ext 104
+> E: Sarena@WhaleyLawFirm.com
+> (PLEASE NOTE NEW EMAIL ADDRESS)
+>
+>
+> On Fri, Jul 12, 2024 at 9:23 AM Amy Stich <[EMAIL-13]>
+> wrote:
+>
+> Hey Sarena,
+>
+> I hope all is well. I haven't heard from you and Bryce finally emailed
+> saying you all haven't heard anything from doctor's office. That
+> appointment was a month ago. If you all call..don't forget to leave a
+> message with good phone number and extention to call you back. I have my
+> phone on silent as I get too many sales related/spam calls. Or you can just
+> email me.
+>
+> I appreciate you,
+>
+> Amy Stich
+>
+> Get Outlook for Android <https://aka.ms/AAb9ysg>
+>
+>
+
+Attachments: 2024.07.11 Stich CPD Ellis & Badenhausen Office Notes.pdf

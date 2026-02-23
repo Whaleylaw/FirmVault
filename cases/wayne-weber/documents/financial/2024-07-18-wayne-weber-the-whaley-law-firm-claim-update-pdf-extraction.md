@@ -1,0 +1,24 @@
+---
+case_slug: wayne-weber
+created_at: 2026-02-17 00:41:14.847000+00:00
+document_category: financial
+document_date: 2024-07-18
+document_type: financial
+extraction_method: native_text
+legacy_case_id: 2022-01-01-MVA-001
+mime_type: application/json
+page_count: 1
+quality_score: 95
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-Weber-MVA-01-01-2022/extractions/2024-07-18-Wayne-Weber-The-Whaley-Law-Firm-Claim-Update.pdf_extraction.json
+source_hash: sha256:00ed54f21bcb5881fa1dd3ee4d38cf964d189ff89bd5deef437cb55ef7b8836c
+---
+
+extraction.category: client
+extraction.date: 2024-07-18
+extraction.description: Claim status update from The Whaley Law Firm to Wayne Weber regarding case progress.
+extraction.entities[0]: Wayne Weber
+extraction.entities[1]: The Whaley Law Firm
+extraction_metadata.confidence_score: 0.91
+extraction_metadata.extracted_at: 2025-01-22T15:00:00Z
+extraction_metadata.extraction_method: filename_analysis
+file_path: 2024-07-18-Wayne-Weber-The-Whaley-Law-Firm-Claim-Update.pdf

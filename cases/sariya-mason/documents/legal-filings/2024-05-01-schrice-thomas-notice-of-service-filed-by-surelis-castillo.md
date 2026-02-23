@@ -1,0 +1,45 @@
+---
+case_slug: sariya-mason
+created_at: 2026-02-17 00:20:29.639000+00:00
+document_category: court-filings
+document_type: court_filing
+extraction_method: native_text
+legacy_case_id: 2022-08-19-DB-001
+mime_type: application/pdf
+page_count: 1
+quality_score: 100
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya-Mason-DB-08-19-2022/Litigation/2024-05-01-Schrice-Thomas-Notice-of-Service-filed-by-Surelis-Castillo.pdf
+source_hash: sha256:f01bebc40e1d136833d8a7cc5a9eb1fa8e5a621b230a2d14f6138745abe2c92b
+---
+
+CIVIL ACTION NO. 23-CI-006039 JEFFERSON CIRCUIT COURT
+DIVISION SEVEN (7)
+JUDGE MELISSA LOGAN
+SCHRICE THOMAS as next of kin
+on behalf of SARTYA MASON, a minor PLAINTIFF
+V. NOTICE OF SERVICE
+(Electronically Filed)
+YANELYS CASTILLO, et al. DEFENDANTS
+KReEKSK
+Comes now Defendant, Surelis Castillo, by counsel, and hereby gives notice that she has
+propounded Interrogatories and Requests for Production of Documents upon Plaintiff on this Ist
+day of May 2024.
+/s/ Deanna M. Marzian Tucker
+Deanna M. Marzian Tucker
+Matthew R. Londergan
+BARNES MALONEY PLLC
+401 W. Main Street, Suite 1600
+Louisville, KY 40202
+T: [PHONE-1]
+F: [PHONE-2]
+[EMAIL-3]
+Counselfor Defendant, Surelis Castillo
+CERTIFICATE OF SERVICE
+It is hereby certified that a copy of the foregoing was this 1“ day of May 2024, electronically filed
+using the court’s E-filing System which will send electronic notification to: Aaron G. Whaley; W.
+Bryce Koon.
+/s/ Deanna M. Marzian Tucker
+BARNES MALONEY PLLC
+:
+of
+of

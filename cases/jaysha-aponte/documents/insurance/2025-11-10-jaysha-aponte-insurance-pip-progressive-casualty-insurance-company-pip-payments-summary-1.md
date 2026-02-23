@@ -1,0 +1,92 @@
+---
+case_slug: jaysha-aponte
+created_at: 2026-02-16 23:55:46.158000+00:00
+document_category: insurance
+document_date: 2025-03-15
+document_type: insurance
+entities:
+- Progressive
+extraction_method: native_text
+legacy_case_id: 2025-03-15-MVA-001
+mime_type: application/pdf
+page_count: 1
+quality_score: 100
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jaysha-Aponte-MVA-3-15-2025/Insurance/2025-11-10-Jaysha-Aponte-Insurance-PIP-Progressive-Casualty-Insurance-Company-PIP-Payments-Summary-1.pdf
+source_hash: sha256:8783fe071b0d82c925974c62008c9cdbc9b7c6f1d190731224cf013de930845f
+---
+
+Payments Summary
+Named Insured: JAYSHA M APONTE
+Injured Party: APONTE, JAYSHA M
+Claim Number: 25-311813973
+Date of Loss: [DOB-18]
+Coverage Policy Limit Total Paid Deductible Offsets Remaining
+PIP $10,000.00 $1,401.14 $0.00 $0.00 $8,598.86
+Provider Payee
+Expense
+Type
+MDP # Date
+Received
+Service
+Dates
+Billed Approved Paid PIP Medical Deductible Copayment Interest/Fees Invoice # Payment
+Status
+STARLITE INJURY STARLITE INJURY
+MEDICAL 83257031 04/01/25 03/27/25 -
+03/27/25
+$245.00 $180.00 $180.00 $180.00 - - - - 142364686 [DOB-17]
+STARLITE INJURY STARLITE INJURY
+MEDICAL 82961508 03/27/25 03/26/25 -
+03/26/25
+$180.00 $180.00 $180.00 $180.00 - - - - 141695518 [DOB-16]
+STARLITE INJURY STARLITE INJURY
+MEDICAL 82961489 03/27/25 03/20/25 -
+03/20/25
+$180.00 $180.00 $180.00 $180.00 - - - - 141695515 [DOB-15]
+STARLITE INJURY STARLITE INJURY
+MEDICAL 82961498 03/27/25 03/18/25 -
+03/18/25
+$100.00 $100.00 $100.00 $100.00 - - - - 141695513 [DOB-14]
+STARLITE INJURY STARLITE INJURY
+MEDICAL 82961475 03/26/25 03/24/25 -
+03/24/25
+$180.00 $180.00 $180.00 $180.00 - - - - 141695511 [DOB-13]
+STARLITE INJURY STARLITE INJURY
+MEDICAL 82961463 03/26/25 03/17/25 -
+03/17/25
+$350.00 $350.00 $350.00 $350.00 - - - - 141695507 [DOB-12]
+VIRTUAL RADIOLOGIC PROFESSIONALS VIRTUAL RADIOLOGIC PROFESSIONALS
+MEDICAL 83439072 04/18/25 03/15/25 -
+03/15/25
+$338.00 $231.14 $231.14 $231.14 - - - - [POLICY-1] [DOB-11]
+Page 1 of 1 Generated: [DOB-10] Progressive Casualty Insurance Company
+Payments Summary
+Named Insured: JAYSHA M APONTE Coverage Policy Limit Total Paid Deductible Offsets Remaining
+Injured Party: APONTE, JAYSHA M PIP $10,000.00 $1,401.14 $0.00 $0.00 $8,598.86
+Claim Number: 25-311813973
+Date of Loss: [DOB-10]
+Provider Payee
+Expense MDP # Date Service Billed Approved Paid PIP Medical Deductible Copayment Interest/Fees Invoice # Payment
+Type Received Dates Status
+STARLITE INJURY STARLITE INJURY
+MEDICAL 83257031 04/01/25 03/27/25 $245.00 $180.00 $180.00 $180.00 - - - - 142364686 [DOB-11]
+03/27/25
+STARLITE INJURY STARLITE INJURY
+MEDICAL 82961508 03/27/25 03/26/25 $180.00 $180.00 $180.00 $180.00 - - - - 141695518 [DOB-12]
+03/26/25
+STARLITE INJURY STARLITE INJURY
+MEDICAL 82961489 03/27/25 03/20/25 $180.00 $180.00 $180.00 $180.00 - - - - 141695515 [DOB-13]
+03/20/25
+STARLITE INJURY STARLITE INJURY
+MEDICAL 82961498 03/27/25 03/18/25 $100.00 $100.00 $100.00 $100.00 - - - - 141695513 [DOB-14]
+03/18/25
+STARLITE INJURY STARLITE INJURY
+MEDICAL 82961475 03/26/25 03/24/25 $180.00 $180.00 $180.00 $180.00 - - - - 141695511 [DOB-15]
+03/24/25
+STARLITE INJURY STARLITE INJURY
+MEDICAL 82961463 03/26/25 03/17/25 $350.00 $350.00 $350.00 $350.00 - - - - 141695507 [DOB-16]
+03/17/25
+VIRTUAL RADIOLOGIC PROFESSIONALS VIRTUAL RADIOLOGIC PROFESSIONALS
+MEDICAL 83439072 04/18/25 03/15/25 $338.00 $231.14 $231.14 $231.14 - - - - [POLICY-1] [DOB-17]
+03/15/25
+Page 1 of 1 Generated: [DOB-18] Progressive Casualty Insurance Company

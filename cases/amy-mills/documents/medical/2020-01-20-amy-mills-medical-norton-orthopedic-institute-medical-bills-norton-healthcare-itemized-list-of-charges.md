@@ -1,0 +1,295 @@
+---
+case_slug: amy-mills
+created_at: 2026-02-17 02:48:56.422000+00:00
+document_category: medical
+document_date: 2020-01-20
+document_type: medical
+entities:
+- Norton Hospital
+- Aetna
+- Norton Healthcare
+extraction_method: native_text
+legacy_case_id: 2019-04-26-PrL-001
+mime_type: application/pdf
+page_count: 1
+quality_score: 100
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Norton
+  Orthopedic Institute/Medical Bills/2020-01-20-Amy-Mills-Medical-Norton Orthopedic
+  Institute-Medical-Bills-Norton-Healthcare-Itemized-List-of-Charges.pdf
+source_hash: sha256:74bbb8dbfaaaf9114e403db986bb0237d48cdb8b3b89792f3e5f8bfbafa737ce
+---
+
+Patient:
+Account ID:
+Mills,Amy
+200541176
+Norton Healthcare
+Patient Financial Services 14-7
+P.O. Box 775278
+Chicago, IL 60677-5278
+Amy Mills
+200 MEADOW LARK CIRCLE
+CORBIN, KY 40701
+Guarantor ID:
+Visit Coverages:
+Aetna Better Health KY - Aetna Better Health KY
+Admission Date:
+Discharge Date:
+Patient:
+Account ID:
+Mills,Amy
+200541176
+Location: Norton Hospital
+This is an itemized list of charges.
+Professional Charges
+1580422
+01/20/20
+01/21/20
+[DOB-1] |20930 ALLOGRAFT FOR SPINE
+[DOB-2] |22551 ARTHRD ANT INTERBODY
+DECOMPRESS CERVICAL
+BELW C2
+ARTHRD ANT INTERBODY
+DECOMPRESS CERVICAL
+BELW C2
+INSJ BIOMCHN DEV
+INTERVERTEBRAL DSC SPC
+W/ARTHRD
+INSJ BIOMCHN DEV
+INTERVERTEBRAL DSC SPC
+W/ARTHRD
+SPINE SURGERY
+PROCEDURE UNLISTED
+PLATE
+SPINE SURGERY
+PROCEDURE UNLISTED
+PLATE
+[DOB-82] |22551
+[DOB-81] |22853
+[DOB-80] |22853
+[DOB-79] |22899
+[DOB-78] |22899
+SURGERY ONLY MORSELIZED
+1 362.00
+1 4,977.00
+1 4,977.00
+1 767.00
+1 767.00
+1 1,785.00
+1 1,785.00
+Total professional charges:
+Professional Payments and Adjustments
+15,420.00
+Please call [PHONE-8] if you have questions regarding this document.
+Page 1
+to j
+1 a
+~ | , 07
+Be )
+- 3 }
+f a ~
+oy !
+v
+, |
+-_ . - ,
+w
+
+Patient:
+Account ID:
+Mills,Amy
+200541176
+Dat esciption a
+02/04/20 |Aetna Better Health KY Insurance Payment 0.00
+02/06/20 |Aetna Better Health KY Insurance Payment -1,763.32
+03/09/20 |Aetna Better Health KY Insurance Payment 0.00
+09/09/20 ‘|Aetna Better Health KY Insurance Payment 235.19
+02/06/20 |Aetna Better Health KY Contractual Write-Off -3,980.68
+03/12/20 |Aetna Better Health KY Non-Covered/Bundled Assistant or Extender Service Adj -5,744.00
+Insurance
+08/03/20 |Aetna Better Health KY Bundled/Payment Included Adj Insurance -362.00
+09/09/20 [Aetna Better Health KY Contractual Write-Off 126.81
+09/09/20 |Aetna Better Health KY Write-Off -3,570.00
+09/09/20 |Aetna Better Health Super Payor Insurance Payment -235.19
+09/17/20 |Aetna Better Health Super Payor Contractual Write-Off -126.81
+Total professional payments and adjustments: -15,420.00
+Please call [PHONE-9] if you have questions regarding this document.
+Page 2
+eeee
+a ee
+w
+
+Patient: Mills,Amy
+Account ID: 200459740
+Norton Healthcare
+Patient Financial Services 14-7
+P.O. Box 775278
+Chicago, IL 60677-5278
+Amy Mills
+200 MEADOW LARK CIRCLE
+CORBIN, KY 40701
+Visit Coverages:
+Guarantor ID:
+Aetna Better Health KY - Aetna Better Health KY
+Patient: Mills,Amy
+Account ID: 200459740
+Admission Date:
+Discharge Date:
+Location: Norton Hospital
+This is an itemized list of charges.
+Hospital Charges
+[DOB-75] 0250 BACITRACIN 50000 UNITS SOLR
+[DOB-74] |0250 EPHEDRINE 50 MG/ML SOLN
+[DOB-73] |0250 KETAMINE 50-0.9 MG/5ML-% SOL PRESYRG
+5 ML SYRINGE
+[DOB-72] |0250 LIDOCAINE-PF 2 % SOLN
+[DOB-71] |0250 ROCURONIUM 50 MG/5ML SOLN
+[DOB-70] |0272 ADHESIVE 2 OCTYL DNX12
+[DOB-69] |0272 HB BLADE VIDEO MAC 3 350005000
+[DOB-68] |0272 HB COLLAR CERV SEMI RIGID L0172
+[DOB-67] |0272 TRAY J/H SPINE DYNJ19468F
+[DOB-66] |0278 CAGE 6 CERV FOUNDATION CL0706
+[DOB-65] |0278 GRAFT BONE FIBER 2.5 BORMP025
+[DOB-64] |0278 PLATE CERV iL 13 AROD 20001013
+[DOB-63] |0278 SCREW CERV SD 4.5X12 2014512 C1713
+[DOB-62] (0278 SCREW SD CERV 12 2014012
+[DOB-61] |0278 SEALANT FLOSEAL10 VHSD 1505291
+[DOB-60] |0300 HB SPECIMEN COLLECTION VENIPUNCT = 36415
+[DOB-59] |0302 HB ANTIBODY SCREEN GEL 86850
+[DOB-58] |0302 HB BLOOD TYPING ABO 86900
+[DOB-57] |0302 HB BLOOD TYPING RH(D) 86901
+[DOB-56] |0305 HB HEMATOCRIT 85014
+[DOB-55] |0305 HB HEMOGLOBIN 85018
+[DOB-54] |0320 HB C SPINE 1VIEW 72020
+[DOB-53] |0320 HB C SPINE 1VIEW 72020
+1580422
+01/20/20
+01/21/20
+— SB ee Sr ee em fmmS em eS mS em mm meom
+38.06
+119.88
+12.01
+11.77
+18.58
+139.00
+168.00
+897.00
+602.00
+9,212.00
+11,049.00
+5,534.00
+1,000.00
+4,016.00
+1,759.00
+37.00
+239.00
+153.00
+129.00
+87.00
+56.00
+460.00
+460.00
+Please call [PHONE-33] if you have questions regarding this document.
+Page 1
+{
+1
+-5 . 1 \
+1
+4
+1
+meee eee nas : {
+a eee eee aAAsy . : \-- . fam ae 7
+nae . em >
+7 T4 r ' ) , ’ )
+Ans ' ) rae - oy
+-_ Rm 8s
+-
+Seen ee any oo | a
+7) | |
+cose lamang oo . 2774
+-~--4 . Pg Pn
+wee eee AARAR wee ase 5
+a)
+~ -- ae
+sae aoe
+w
+
+Patient: Mills,Amy
+Account ID: 200459740
+[DOB-51] 10320 HB C SPINE 1VIEW 72020 1 460.00
+[DOB-50] |0360 HB SURG INTENSITY LEVEL #6 153 17,442.00
+[DOB-49] |0370 HB ANES GENERAL/MIN 153 4,131.00
+[DOB-48] |0420 HB PAT/FAMLY TRAIN PT 15 MIN PT 97535 1 161.00
+[DOB-47] |0424 HB PT EVAL MOD 97162 1 431.00
+[DOB-46] |0636 CEFAZOLIN 1 GM/50 ML J0690 2 25.17
+[DOB-45] |0636 CEFAZOLIN 10 G SOLR 1EACH VIAL Jo690 4 7.59
+[DOB-44] |0636 CEFAZOLIN 10 G SOLR 1EACH VIAL Jo690 4 7.59
+[DOB-43] |0636 DEXAMETHASONE 4 MG/ML SOLN J1100 8 6.81
+[DOB-43] |0636 DEXTROSE 5 % SOLN 50 ML FLEX CONT__ |J7060 1 7.29
+[DOB-44] |0636 DEXTROSE 5 % SOLN 50 ML FLEX CONT_ |J7060 1 7.29
+[DOB-45] |0636 FENTANYL (PF) 250 MCG/5ML SOLN J3010 3 8.03
+[DOB-46] |0636 HYDROMORPHONE 1 MG/ML SOLN J1170 1 8.79
+[DOB-47] |0636 HYDROMORPHONE 1 MG/ML SOLN J1170 1 8.79
+[DOB-48] |0636 HYDROMORPHONE 2 MG/ML SOLN J1170 1 5.35
+[DOB-49] |0636 LACTATED RINGERS SOLN J7120 1 17.16
+[DOB-50] |0636 MIDAZOLAM 2 MG/2ML SOLN J2250 2 5.00
+[DOB-51] |0636 ONDANSETRON 4 MG/2ML SOLN J2405 4 8.09
+[DOB-52] |0636 PHENYLEPHRINE 1 MG/10ML SOL J2370 10 24.77
+PRESYRG
+[DOB-53] |0636 PHENYLEPHRINE 10 MG/ML SOLN J2370 1 13.21
+[DOB-54] |0636 PROPOFOL 200 MG/20ML EMUL J2704 40 35.36
+[DOB-55] |0636 SODIUM CHLORIDE 0.9 % SOLN J7040 2 17.16
+[DOB-56] |0636 SODIUM CHLORIDE PF 0.9 % SOLN J7040 1 5.00
+[DOB-57] |0637 AMITRIPTYLINE 10 MG TABS A9270 1 0.32
+[DOB-58] |0637 CALCIUM CITRATE 950 MG TABS A9270 2 0.12
+[DOB-59] |0637 CALCIUM CITRATE 950 MG TABS A9270 2 0.12
+[DOB-60] |0637 HYDROCODONE-ACETAMINOPHEN 10-325 |A9270 2 1.01
+MG TABS
+[DOB-61] |0637 HYDROCODONE-ACETAMINOPHEN 10-325 |A9270 2 1.01
+MG TABS
+[DOB-62] |0637 HYDROCODONE-ACETAMINOPHEN 10-325 |A9270 2 1.01
+MG TABS
+[DOB-63] |0637 SENNA-DOCUSATE 8.6-50 MG TABS A9270 1 0.18
+[DOB-64] |0637 SENNA-DOCUSATE 8.6-50 MG TABS A9270 1 0.18
+[DOB-65] |0637 TIZANIDINE 4 MG TABS A9270 1 1.51
+[DOB-66] |0637 VITAMIN D 25 MCG (1000 UT) TABS A9270 1 0.05
+[DOB-67] |0637 VITAMINS/MINERALS TABS A9270 1 0.11
+[DOB-68] |0710 HB RECOVERY INTENSIVE PER MIN 78 1,404.00
+[DOB-69] |0762 HB OBS PRIVATE G0378 12 591.00
+[DOB-70] |0920 HB IMP SOMATOSENSORY TESTING 95938 1 1,855.00
+[DOB-71] |0260 HB IV MEDICATION INITIAL 96374 1 365.00
+[DOB-72] |0420 HB GAIT TRAINING 15 MIN PT 97116 1 175.00
+[DOB-73] |0420 HB PAT/FAMLY TRAIN PT 15 MIN PT 97535 1 161.00
+[DOB-74] |0636 HYDROMORPHONE 1 MG/ML SOLN J1170 1 8.79
+[DOB-75] |0637 CALCIUM CITRATE 950 MG TABS A9270 2 0.12
+[DOB-76] |0637 HYDROCODONE-ACETAMINOPHEN 10-325 |A9270 2 1.01
+MG TABS
+[DOB-77] |0637 HYDROCODONE-ACETAMINOPHEN 10-325 |A9270 2 1.01
+MG TABS
+[DOB-78] |0637 SENNA-DOCUSATE 8.6-50 MG TABS A9270 1 0.18
+[DOB-79] |0637 TIZANIDINE 4 MG TABS A9270 1 1.51
+[DOB-80] |0637 VITAMIN D 25 MCG (1000 UT) TABS A9270 1 0.05
+[DOB-81] |0637 VITAMINS/MINERALS TABS A9270 1 0.11
+[DOB-82] |0762 HB OBS PRIVATE G0378 11 560.00
+Total hospital charges: 64,170.15
+Please call [PHONE-83] if you have questions regarding this document.
+Page 2
+---5
+naas
+aaa
+ane
+ee
+eee
+ee
+w
+
+Patient: Mills,Amy
+Account ID: 200459740
+Hospital Payments and Adjustments
+Dat cdeen
+04/14/20 |Aetna Better Health KY Insurance Payment -12,079.30
+01/31/20 |Aetna Better Health KY Credit Adjustment -9.61
+01/31/20 |Aetna Better Health KY Non Covered Adjustment -8.09
+04/14/20 _|Aetna Better Health KY Contractual Write-Off -52,073.15
+Total hospital payments and adjustments: -64,170.15
+Please call [PHONE-84] if you have questions regarding this document.
+Page 3

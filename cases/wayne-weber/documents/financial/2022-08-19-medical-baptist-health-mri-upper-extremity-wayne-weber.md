@@ -1,0 +1,137 @@
+---
+case_slug: wayne-weber
+document_category: financial
+legacy_case_id: 2022-01-01-MVA-001
+---
+
+---
+source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-Weber-MVA-[DOB-1]/Medical/2022-08-19 - Medical - Baptist Health - MRI Upper Extremity - Wayne Weber.pdf"
+source_hash: "sha256:0bc8ebf15df0f977d22d351a233bc703f4c73a4a91bdefe31f856b09c7f4ad5a"
+extraction_method: native_text
+quality_score: 100
+page_count: 1
+document_type: financial
+mime_type: application/pdf
+case_slug: c-2022-01-01-MVA-001
+created_at: 2026-02-17T00:40:15.538Z
+entities:
+  - Wayne
+Hospital
+  - HC MRI UPPER EXT JOINT WO
+Current Hospital
+  - Kentucky Farm Bureau
+---
+
+WowVY VW Wao e
+1Daewld Nata
+EWLG9VEY wiee hive AWWLOGVUUIEW SL
+a aa BAPTIST HEALTH
+PO BOX 950257
+LOUISVILLE, KY 40295-0257
+[PHONE-4]
+WAYNE WEBER Guarantor ID:
+11815 CEDARDALE ROAD
+LOUISVILLE, KY 40223
+Visit Coverages:
+Auto - Kentucky Farm Bureau
+This is not a bill. This is an itemization ofyour hospital services for:
+Patient: Weber,Wayne
+Hospital Account: 400003820595
+Hospital Charges
+[BE YC: Revenu Procedure Description
+eCode Code
+08/19/22| 0614 [61473221000 |HC MRI UPPER EXT JOINT WO
+Current Hospital Account Balance: 3,466.76
+AAIIABIA B411 TAs TAAIICAAANA
+839075
+Admission Date: 08/19/22
+Discharge Date: 08/19/22
+
+1
+‘
+’
+j
+!
+!
+:
+/ | |
+100126889261
+‘BAPTIST HEALTH LOUISVILLE ?BAPTIST HEALTH LOUISVILLE Bry] 40000382059500 * oF aie
+4000! KRESGE WAY P O BOX 734837 ! Bve?] [PHONE-3] 0131
+LOUISVILLE, KY 402074605 US | CHICAGO, IL 606734837 5FEDTAXNO eee |
+[PHONE-4] ; | 610444707 081922 ]081922 MED
+It 8PATIENT NAME «| grarient appress [a] 11815 CEDARDALE ROAD
+»|WEBER, WAYNE LOUISVILLE [e[R¥ [+]40223 {e]
+sOETHOATE SEX ty pare MRCtatyPE assrc|'SOHRYI7STAT] yp ip gol arp ION SOOES, 227 __20_| “State =
+07131947 | ™ 21s 01 . Li RY
+31 OCCURRENCE %_ OCCURRENCE 33___OCCURRENCE 3a__OCCURRENCE 5 OSCURRENCE SPAN 38 OCCURRENCE SPAN aw
+cone _*_DATE CODE DATE CODE DATE CODE DATE CODE FROM THROUGH _| CODE FROM THROUGH
+‘| 02 |010122 11 |010322
+°)
+2 ' ' 3 VALUE CODES 40 VALUE CODES al VALUE CODES
+t LCODE AMOUNT CODE AMOUNT __ ci Al
+KENTUCKY FARM BUREAU : a
+PO BOX 20600 b
+3 : c
+LOUISVILLE. KY 40250 id
+42 REV CD. 3 DESCRIPTION < 44 KCPCS / RATE / HIPPS CODE 45 SERV DATE 46 SERV UNITS 47 TOTAL CHARGES: 4BNON-COVERED CHARGES [49
+‘10614 | MRI JOINT UPR EXTREM W/O DYE 73221-RT 081922 1.00 3466.76
+2 \
+,
+‘ ’
+5 J ; :
+6 | | :
+7 | i
+1 '
+'
+: . ; '
+o ; :
+10} i
+"W
+13] ‘
+13] ;
+1"
+chy '
+" i
+W 1
+at)
+19)
+20)
+J \
+PAGE 1OF Zz. CREATION DATE |082622 OTA 3466.76
+50 PAYER NAME 51HEALTH PLAN ID ps 54 PRIOR PAYMENTS 55 EST AMOUNT DUE |s6np} [PHONE-5]
+4|KENTUCKY FARM BUREAU j x 3466 .76)57
+s|MEDICARE A & B \ ig OTHER
+¢|AETNA! HEALTH AND LIFE MC SU] : ¥ PAV ID
+58INSURED S NAME $9P REL) 60 INSUREDS UNIQUEID 61 GROUP NAME 62 INSURANCE GROUP NO
+4 WAYNE! WEBER G8 | 04671023 KENTUCKY FARM BURE
+s)WAYNE| E WEBER 18 1M87YO6PP47 \
+«WAYNE! WEBER 18 |sGc6225385 | AETNA HEALTH AND J
+83TREATMENT AUTHORIZATION CODES : 64 DOCUMENT CONTROL NUMBER: 65EMPLOYER NAME
+al i
+| ;
+q ; ‘
+—— M25511 S43491A M89311 M899 M7581 ie
+x 2 ‘ |
+er ey (M25511 [S4991XA ee | ig
+4 oon EROCED UAE @ cour et jOCEDUI DATE b con PI ami 76 ATTENDING [per 237 4 5 6 6 152 foun] |
+i : : | ust PITCOCK |rinst CHRISTOPHER V
+© copSHER PROCEDURE J SopOTHERPROCEDURE © Codi HER PROCEDURE TOPERATNG A e._]
+i \ LAST [rst
+whee "53207980010X aomen | fem jew] |
+| »[83/282N00000X UST [rast
+1 ell é meorHeR | |NFI Jou] |
+\ 4 | ust |Finst
+04 1 1 Oo}
+; 1
+-Racu'la Nsata+ IAIIARIA Ri17!
+l
+|
+|
+NBO TRP2a3e48a8
+' i
+TNs 1AA1TERRAIM1
+ANNNNN
+OF 18
+600176 004851
+H

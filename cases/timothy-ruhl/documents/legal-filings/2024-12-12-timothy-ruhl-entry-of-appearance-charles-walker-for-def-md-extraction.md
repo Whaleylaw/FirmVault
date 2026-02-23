@@ -1,0 +1,27 @@
+---
+case_slug: timothy-ruhl
+created_at: 2026-02-17 00:36:27.548000+00:00
+document_category: court-filings
+document_date: 2024-12-12
+document_type: court_filing
+extraction_method: native_text
+legacy_case_id: 2023-09-14-PrL-001
+mime_type: application/json
+page_count: 1
+quality_score: 90
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timothy-Ruhl-Premise-09-14-2023/Reports/extractions/2024-12-12-timothy-ruhl-entry-of-appearance-charles-walker-for-def.md_extraction.json
+source_hash: sha256:1bdd2291513af161e51736f71b722783cecae8e663fcc2d346c94eaa69588c23
+---
+
+content_analysis.category: Litigation
+content_analysis.date: 2024-12-12
+content_analysis.description: Notice of Appearance
+content_analysis.entities[0]: Charles Walker
+content_analysis.entities[1]: Austin Whitman
+content_analysis.entities[2]: Trey Cooper
+content_analysis.entities[3]: Jefferson Circuit Court
+extraction_date: 2026-02-02T12:00:00Z
+folder_structure.bucket: Litigation
+folder_structure.subcategory: Pleadings
+folder_structure.suggested_name: 2024-12-12_Litigation_Notice-of-Appearance.md
+original_filename: 2024-12-12-timothy-ruhl-entry-of-appearance-charles-walker-for-def.md

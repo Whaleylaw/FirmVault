@@ -1,0 +1,28 @@
+---
+case_slug: james-kiper
+created_at: 2026-02-16 23:52:36.265000+00:00
+document_category: medical
+document_date: 2022-12-08
+document_type: medical
+extraction_method: native_text
+legacy_case_id: 2022-12-05-MVA-001
+mime_type: application/json
+page_count: 1
+quality_score: 100
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Kiper-MVA-12-5-2022/extractions/2022-12-08-James-Kiper-Southeastern-Emergency-Services-LLC-Medical-Authorization_extraction.json
+source_hash: sha256:12de1a4716805255e2113ba0f903329f72882ea68e3deef88005639be6dea6cc
+---
+
+category: medical_request
+confidence: high
+date: 2022-12-08
+description: HIPAA authorization form signed by James Kiper authorizing release of medical records from Southeastern Emergency Services LLC
+document_type: hipaa_authorization
+entities[0]: James Kiper
+entities[1]: Southeastern Emergency Services LLC
+entities[2]: Law Firm
+extraction_date: 2024-12-18
+extraction_status: success
+original_file: 2022-12-08-James-Kiper-Southeastern-Emergency-Services-LLC-Medical-Authorization.pdf
+parties_involved[0]: James Kiper
+parties_involved[1]: Southeastern Emergency Services LLC

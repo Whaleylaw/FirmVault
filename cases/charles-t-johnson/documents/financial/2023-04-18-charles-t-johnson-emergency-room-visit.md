@@ -1,0 +1,34 @@
+---
+case_slug: charles-t-johnson
+created_at: 2026-02-16 22:25:47.443000+00:00
+document_category: financial
+document_type: financial
+extraction_method: native_text
+legacy_case_id: 2023-04-18-MVA-001
+mime_type: application/pdf
+page_count: 1
+quality_score: 100
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charles-T-Johnson-MVA-4-18-2023/Medical-Records/2023-04-18-Charles-T-Johnson-Emergency-Room-Visit.pdf
+source_hash: sha256:dc5707584a641b53b0c9144cf4dee78335dac392f153b3d063778727ab2455dc
+---
+
+04/24/23
+ CHARLES B JOHNSON 
+ 23108-01418
+ 001 ERD MC D1
+ 04/18/23 04/18/23
+ CHARLES B JOHNSON 
+ 2652 ROWAN ST
+ LOUISVILLE KY 40212
+ *** 259 SELF ADMINISTERED DRUGS
+ 04/18/23 2 10019 ACETAMINOPHEN 500 MG TABLET 0.50 1.00
+ TOTAL SELF ADMINISTERED DRUGS 1.00
+ *** 324 DIAGNOSTIC RAD/CHEST
+ 04/18/23 1 10564 CR CHEST SINGLE VIEW - PORTABL 450.00 450.00
+ TOTAL DIAGNOSTIC RAD/CHEST 450.00
+ *** 450 EMERGENCY ROOM
+ 04/18/23 1 20006 EMERGENCY ROOM LEVEL 3 W/MOD 1,329.00 1,329.00
+ TOTAL EMERGENCY ROOM 1,329.00
+ TOTAL CHARGES 1,780.00
+ TOTAL PAYMENTS/ADJUSTMENTS 0.00
+ BALANCE DUE 1,780.00

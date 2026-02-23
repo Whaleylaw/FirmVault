@@ -1,0 +1,169 @@
+---
+case_slug: frances-whitis
+created_at: 2026-02-16 23:42:00.841000+00:00
+document_category: police-reports
+document_date: 2024-09-13
+document_type: police_report
+extraction_method: native_text
+legacy_case_id: 2024-09-06-MVA-001
+mime_type: application/pdf
+page_count: 1
+quality_score: 100
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Frances-Whitis-WC-MVA-9-6-2024/Investigation/2024-07-28-Frances-Whitis-WC-Investigation-Frankfort-Police-Department-Uniform-Citation-DUI-Careless-Driving.pdf
+source_hash: sha256:752d763286bce6c8e85a346081622dc67559fdbfb9af9bc708c51223aa54762b
+---
+
+NOT ORIGINAL
+DOCUMENT
+[DOB-2]
+11:07:28 AM
+92775
+Page 1 of 2 COMMONWEALTHOF KENTUCKY
+UNIFORM CITATION | CHARGES
+AND
+POST-ARREST
+COMPLAINT
+leg stand tests.
+Charge 1: CARELESS DRIVING
+Charge 2: OPER MTR VEHICLE U/INFL ALC .08 (189A.010(1A) - 1ST
+AGENCY OFT -
+FRANKFORT POLICE DEPARTMENT 0370100 ow
+AST, FIRST, Mi, FILIAL ATTN HOME PHONE >|
+WHITIS, FRANCES A LU UNKNOWN oO
+& ALIAS NAME: LAST, FIRST, Mi, FILIAL EMERGENCY PHONE: oO
+iu UNKNOWN
+{| RODRESS (WOMBER NAME, SUFFDO KENTUCKY RESIDENT STATUS
+© | 25 SLICKAWAY RD LOT #2 F:FULL-TIME [_]P: PART-TIME [_|N: NON RESIDENT
+> cy [_svare_ | ZiP CODE/EXTENSION MARITAL STATUS | _VICTIN'S RELATIONSHIP TO OFFENDER
+<
+ira FRANKFORT KY 40601-0000 SINGLE
+WwW ID TYPE [2 sT | 1DNUMBER [| sswumeer [HeicHT [weicaT[ HaIRCOLOR [| EYECOLOR
+9 OPERATOR'SLICENSE | KY | W95536009 05"| 160 GRAYOR | _ BROWN
+i ETHNIC ORIGIN ALCOHOL/DRUG
+LL | [_|COMMERCIAL VEHICLE [_]PLACARDED HAZARDOUS VEHICLE INVOLVEMENT
+6 . [_]HISPANIC NON HISPANIC
+DATE OF BIRTH SEX RACE
+AM. INDIAN OR B.A RESULTS ALCOHOL oa| 418| 4970 | LJMALE [V]FEMALE | [¥jwHire [_|BLAcK [alacKa [_JASIAN
+PLACE OF EMPLOYMENT/OCCUPATION | CITY [_sTaTe__| BREATH “149 [_Jprucs
+VEHIGLE MAKE I VEHIOLE MODEL [veH YEAR| VERICLE COLOR“ee NOT REQUESTED| ["]UNKNoWnN a URINE NOT REQUESTED
+a VEH.TYPE | REGISTRATION. STATE, YEAR, NUMBER | VEHICLE IDENTIFIERS [*PH_|INMPHZONE | VIOL KEY
+> [|
+wy | Wotation bare viouarion Time EXACT LOCATION OF VIOLATION MILES DIRECTION ny
+s SCHENKEL LNCITGO GAS STATION aa RAKrORT (FRANKLIN — = | 07| 28| 2024 9:21 PM C C
+Eb FRANKLIN Li
+Ww ARREST DATE | TIME OF ARREST EXACT LOCATION OF ARREST MILES DIRECTION cH,
+q SCHENKEL LNCITGO GAS STATION ror(FRANKLIN =
+a 07| 28 | 2024 9:21 PM FRANKLIN LF
+NUMBER | VIOLATION CODE | ASCF STATUTE/ORD. CHARGE(S) | STARTING CASE | ENDING CASE DRUG TYPE
+1| of| 2 00136 0 189.290 1 124022228
+2 | of| 2 03110 0 189A.010(5A) 1
+of
+of
+POST-ARREST COMPLAINT
+Officer observed the above subject drive her vehicle into the Citgo gas station. Officer ran the above subjects license plate and found that
+|the registered owner had a active warrant confirmed by dispatch. The above subject whois the registered owner exited the car after
+placing itin park and walked into the gas station. Upon contact Officers confirmed the identity oftheabove subject and confirmed through
+dispatch again that there was a active warrant for her. The above subject had the strong odor of alcohol coming from her breath along to
+admitting the had over4 beers prior to driving there after leaving Roses Pub and coming into contact with Officers. The above subject had
+a roadside PBT reading of 0.162 BAC and a INTOXILYZER reading of 0.149 BAC
+Officers preformed field sobriety tests that yielded the following. The subjectwas unwilling/unable to complete the walk and turn orone
+Horizontal gaze nystagmus tests indicate: Operator showed equal pupil size; and equal tracking.Operator did not show resting
+Inystagmus. Officerobserved lack of smooth pursuit present in both left and right eyes; distinct and sustained nystagmus at maximum
+deviation in both left and right eyes; and onset of nystagmus at angle prior to 45 degrees in both left and right eyes. Operator showed 6 of
+: COURT DATE COURT TIME [Jpavaple | COURT LOCATION
+5 ARRESTED [V]court FRANKLIN i
+TOTAL PREPAYABLE
+Oo
+COURT CASE NUMBER AMOUNT NOT PREPAYABLE
+WITNESS 1NAME LAST, FIRST, MiFILIAL STATE | ZIPCODE 9
+m|zZ
+WITNESS 1ADRESS (NUMBER, STREET, SUFFI CHY ola
+B/O
+iy | PRESS ZNAME LAST, FIRST,FIUAL STATE | __ ZIPCODE Rl z
+Q A/C
+<LI WiTNESS 2ADRRESS (NUMBER, STREET, SUFFIX) CiY o/s ° mn
+a
+SERVING WARRANT FOR
+OTHER AGENCY SPECIFY: = < FINGERPRINTS 4
+OFFIGER SIGNATURE [_BADGETD. NUMBER | _ASSIONNENT | puotos n| 3m
+Grapner, J. | 3765 l 4 EVIDENCE HELD.
+
+NOT ORIGINAL
+DOCUMENT
+[DOB-2]
+11:07:28 AM
+92775
+Page 2 of 2 COMMONWEALTH OFKENTUCKY
+UNIFORM CITATION |
+AGENCY OFT -
+FRANKFORT POLICE DEPARTMENT 0370100 ow
+AST, FIRST, Mi, FILIAL ATTN HOME PHONE >|
+WHITIS, FRANCES A LU UNKNOWN oO
+& ALIAS NAME LAST, FIRST, Mi, FILIAL EMERGENCY PHONE oO
+iu UNKNOWN
+{| RODRESS (WOMBER NAME, SUFFDO KENTUCKY RESIDENT STATUS
+©| 25 SLICKAWAY RD LOT #2 F:FULL-TIME [_]P: PART-TIME [_]N: NON RESIDENT
+> CHTY [sae | ZIP CODE/EXTENSION MARITAL STATUS |_ VICTIM'S RELATIONSHIP 10 OFFENDER
+<
+ira FRANKFORT Ky | 40601-0000 SINGLE
+W ID TYPE [2 sT | 1DNUMBER [| sswumeer [HeicHT [weicaT[ HaIRCOLOR [| EYECOLOR
+2 OPERATOR'SLICENSE | KY | W95536009 | 505" | 160 GRAYOR | _ BROWN
+i ETHNIC ORIGIN ALCOHOL/DRUG
+LL | [_|COMMERCIAL VEHICLE [_]PLACARDED HAZARDOUS VEHICLE INVOLVEMENT
+° DATE OF BIRTH a RACE L]hseawe NONHISPANIC
+BLACK AM. INDIAN OR 8.4, RESULTS \LCOHOL 04/18 | 1970 | LIMALE [V)FEMALE | [V]wHiTe [_] CarasKa [_JASIAN
+PLACE OF EMPLOYMENT/OCCUPATION | CITY [_sTaTe__| BREATH “149 [_Jprucs
+BLOOD NOT REQUESTED| unknown
+VEHIOLE MAKE VEHIOLE MODEL VEH YEAR| _ VEHICLE COLOR a | URINE NOTREQUESTED
+a VEH TYPE | REGISTRATION. STATE, YEAR, NUMBER | VEHICLE IDENTIFIERS [MPH] INMPRZONE | VOL KEY
+> | |
+wy | Wotation bare viouarion Time EXACT LOCATION OF VIOLATION MILES DIRECTION ny
+s SCHENKEL LNCITGO GAS STATION aa RAKrORT (FRANKLIN — = | 07| 28| 2024 9:21 PM C C
+Eb FRANKLIN Li
+Ww ARREST DATE | TIME OF ARREST EXACT LOCATION OF ARREST MILES DIRECTION cH,
+q SCHENKEL LNCITGO GAS STATION ror(FRANKLIN =
+Q| 07| 28| 2024) 9:21 PM
+FRANKLIN L_#
+NUMBER | VIOLATION CODE | ASCF STATUTE/ORD. CHARGE(S) | STARTING CASE | ENDING CASE DRUG TYPE
+56 of
+Zz 4 of
+a of
+2 of
+8 POST-ARREST COMPLAINT
+- |6clues onHGN.
+yn
+Ww
+ec
+ec
+$EB
+Q
+°
+a
+a
+Zz
+<
+Y
+Ww
+QO
+ac
+<
+=
+0
+bE COURT DATE COURT TIME [JpavaBe | COURT LOCATION
+g ARRESTED [V]court | FRANKLIN a
+Q TOTAL PREPAYABLE ,
+© |courr case wumaer | AMOUNT | NOT PREPAYABLE
+WITNESS 1NAME LAST, FIRST, Mi, FILIAL STATE |__ ZIPCODE 9
+m| Zz
+WITNESS 1ADRRESS (NUMBER, STREET, SUFFIX) CHY olz
+B|O
+yy | WITNESS 21ANE LAST, FIRST, Mi FILAL STaTe | _ ZIPCODE Rp 5
+Q A/C
+é WITNESS 2ADRRESS (NUMBER, STREET, SUFFIX) city ad =
+m
+a
+SERVING WARRANT FOR
+OTHER AGENCY SPECIFY: - v|vIDEO
+FINGERPRINTS 4
+OFFICER SIGNATURE [_SADGE.D. NUMBER |_ ASSIGNMENT PHOTOS nv] 3
+Grapner, J. | 3765 l 4 EVIDENCE HELD

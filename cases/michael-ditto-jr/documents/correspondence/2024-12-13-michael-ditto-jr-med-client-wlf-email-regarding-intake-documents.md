@@ -1,0 +1,54 @@
+---
+case_slug: michael-ditto-jr
+created_at: 2026-02-16 19:47:42.135000+00:00
+document_category: correspondence
+document_date: 2024-12-13
+document_type: correspondence
+extraction_method: native_text
+legacy_case_id: 2023-04-11-MM-001
+mime_type: message/rfc822
+page_count: 1
+quality_score: 100
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michael-Ditto-Jr-Med-Mal-04-11-2023/Client/2024-12-13-Michael-Ditto-Jr-Med-Client-WLF-Email-Regarding-Intake-Documents.eml
+source_hash: sha256:aa3283dda9170566cb13c83098153f302a0f21db4d172dc613ccde354bea4d3e
+---
+
+Subject: Re: Intake
+From: sarena@whaleylawfirm.com
+To: [EMAIL-1]
+CC: [EMAIL-6], [EMAIL-3]
+Date: 2024-12-13T10:27:32-05:00
+Absolutely,
+     Good morning Cameal. I will be sending the documents via DocuSign
+momentarily to the email you provided. The DocuSign application will allow
+you to complete & execute the required documents from any electronic device
+such as your cell phone, laptop, chromebook, etc. If you have any
+questions, please do not hesitate to contact me directly to discuss them in
+further detail.
+
+Sarena M. Tuttle
+Litigation Paralegal &
+Workers' Compensation Case Manager
+The Whaley Law Firm
+712 Lyndon Lane
+Louisville, KY 40222
+D: [PHONE-4]
+O: [PHONE-5] ext 104
+E: Sarena@WhaleyLawFirm.com
+(PLEASE NOTE NEW EMAIL ADDRESS)
+
+
+On Fri, Dec 13, 2024 at 10:20 AM Aaron Whaley <[EMAIL-6]>
+wrote:
+
+> Sarena, please forward intake documents for a potential medical
+> malpractice claim with Cameal Stafford's son. She is on this email. Thanks.
+>
+> --
+> Aaron Whaley
+> Whaley Law Firm
+> 712 Lyndon Ln
+> Louisville, KY 40222
+> [PHONE-7]
+>
+>

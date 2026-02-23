@@ -1,0 +1,143 @@
+---
+case_slug: muhammad-alif
+created_at: 2026-02-17 00:10:53.328000+00:00
+document_category: financial
+document_date: 1961-04-16
+document_type: financial
+extraction_method: native_text
+legacy_case_id: 2022-11-08-MVA-001
+mime_type: application/pdf
+page_count: 1
+quality_score: 100
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Axon
+  Medical Centers/Medical Bills/2023-05-19-Muhammad-Alif-Medical-Axon Medical Centers-Medical-Bills-Axon-Medical-Centers-Patient-Ledger-Charges.pdf
+source_hash: sha256:b99e33d6b57bc0658ff91b02a062bb4794041237839949b5944d0f8f826db1b3
+---
+
+Case# Service 
+Date ACC# Responsible Type Code Modifiers Description Units Amount Date of Posting
+Check 
+Date
+Billed 
+Date
+Statement 
+Date
+ICD 
+Codes Location Provider
+ABCALIF
+M000435
+2
+[DOB-1] 2158 Patient Charges 99215 OFFICE/OUTPATI
+ENT VISIT, EST 1 $4,000.00 [DOB-2] 2023-11-21 S069X9A AMC Dallas
+Dr ROBERT 
+VANBOVEN., 
+M.D., D.D.S.
+Total Balance $4,000.00
+ABCALIF
+M000263
+3
+[DOB-3] 1184 Patient Charges 99213 OFFICE/OP VISIT 
+EST 1 $661.70 [DOB-21] 2023-11-21
+S069X9A,
+R42,R4189
+,R454
+AMC 
+Dallas
+CHRISTOPH
+ER 
+STANFIELD., 
+NP
+Total Balance $661.70
+ABCALIF
+M002978
+5
+[DOB-5] 12418 Patient Charges 99204 OFFICE/OUTPATI
+ENT VISIT, NEW 1 $1,600.80 [DOB-6] 2023-11-21
+S069X9A,
+R42,R4189
+,R454
+AMC 
+Dallas
+CLAUDE 
+FORTIN
+Total Balance $1,600.80
+ABCALIF
+M003092
+1
+[DOB-7] 12587 Patient Charges 97750
+PHYSICAL 
+PERFORMANCE 
+TEST
+1 $832.80 [DOB-17] 2023-11-21 AMC 
+Dallas Neuro Testing
+Printed By : Christine Zamora Printed On : [DOB-16] 08:08 AM 1 / 3
+: [PHONE-10]
+: [PHONE-11]
+Ph
+Fax
+Axon Medical Centers
+DALLAS, TX, 75240-0000
+6200 Lyndon B Johnson Fwy 
+Suite 180
+Patient Ledger
+MR # : 62
+MUHAMMAD ALIF, 2139 LEXINGTON RD, LOUISVILLE, KY, 40206 - Cell : [PHONE-12] - [[DOB-1] - Male - 63.1 Yrs]
+Case # : ***All*** Include Items With Zero Balance : No
+
+Total Balance $832.80
+ABCALIF
+M003104
+4
+[DOB-13] Patient Charges 99204 OFFICE/OUTPATI
+ENT VISIT, NEW 1 $2,191.50 [DOB-14] 2023-11-21 AMC Dallas Safa Rubaye
+Total Balance $2,191.50
+ABCALIF
+M003104
+4
+[DOB-15] Patient Charges 90836
+Psychotherapy, 45 
+minutes with 
+patient when 
+performed with an 
+evaluation and 
+management 
+service
+1 $540.00 [DOB-16] 2023-11-21 AMC 
+Dallas Safa Rubaye
+Total Balance $540.00
+Printed By : Christine Zamora Printed On : [DOB-17] 08:08 AM 2 / 3
+: [PHONE-18]
+: [PHONE-19]
+Ph
+Fax
+Axon Medical Centers
+DALLAS, TX, 75240-0000
+6200 Lyndon B Johnson Fwy 
+Suite 180
+Patient Ledger
+MR # : 62
+MUHAMMAD ALIF, 2139 LEXINGTON RD, LOUISVILLE, KY, 40206 - Cell : [PHONE-20] - [[DOB-1] - Male - 63.1 Yrs]
+Case # : ***All*** Include Items With Zero Balance : No
+
+Charge Details
+Total Charges $9,826.80
+Total Insurance Payments $0.00
+Total Patient Payments $0.00
+Total Write-Off $0.00
+Total Balance $9,826.80
+Total Insurance Balance $0.00
+Total Patient Balance $9,826.80
+Unapplied Credit $0.00
+Printed By : Christine Zamora Printed On : [DOB-21] 08:08 AM 3 / 3
+: [PHONE-22]
+: [PHONE-23]
+Ph
+Fax
+Axon Medical Centers
+DALLAS, TX, 75240-0000
+6200 Lyndon B Johnson Fwy 
+Suite 180
+Patient Ledger
+MR # : 62
+MUHAMMAD ALIF, 2139 LEXINGTON RD, LOUISVILLE, KY, 40206 - Cell : [PHONE-24] - [[DOB-1] - Male - 63.1 Yrs]
+Case # : ***All*** Include Items With Zero Balance : No

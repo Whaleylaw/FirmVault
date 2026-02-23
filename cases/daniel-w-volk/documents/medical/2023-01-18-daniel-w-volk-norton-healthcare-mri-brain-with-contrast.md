@@ -1,0 +1,997 @@
+---
+case_slug: daniel-w-volk
+document_category: medical
+legacy_case_id: 2021-09-24-MVA-001
+---
+
+---
+source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel-W-Volk-MVA-[DOB-1]/Medical/2023-01-18-Daniel-W-Volk-Norton-Healthcare-MRI-Brain-With-Contrast.pdf"
+source_hash: "sha256:121b96cbcf1c9a3cab2fa78f5810e51ea9954cb466990c832e9dba96c4852fb4"
+extraction_method: native_text
+quality_score: 100
+page_count: 1
+document_type: medical
+mime_type: application/pdf
+case_slug: c-2021-09-24-MVA-001
+created_at: 2026-02-16T22:55:06.176Z
+document_date: 2022-06-06
+entities:
+  - Norton Brownsboro Hospital
+  - SOLN 
+Hospital
+  - Blue Cross
+  - Anthem
+  - Norton Healthcare
+---
+
+Patient: 
+Account ID: 
+Norton Healthcare 
+Volk,Daniel W 
+223897610 
+Patient Financial Services 14-7 
+P.O. Box 775278 
+Chicago, IL 60677-5278 
+Daniel W Volk 
+7612 Willowbend Drive 
+Crestwood, KY 40014 
+Visit Coverages: 
+Anthem - Blue Cross Federal 
+Patient: 
+Account ID: 
+Volk,Daniel W 
+223897610 
+Location: Norton Brownsboro Hospital 
+This is an itemized list of charges. 
+Hospital Charges 
+Guarantor ID: 
+Admission Date: 
+Discharge Date: 
+[DOB-167] 0611 
+[DOB-166] 0636 
+HB MRI BRAIN WO & W CONT 70553 
+GADOTERATE MEGLUMINE 10 MMOL/20ML A9575 
+SOLN 
+[DOB-165] 0636 
+Total hospital charges: 
+GADOTERATE MEGLUMINE 10 MMOL/20ML A9575 
+SOLN 
+Hospital Payments and Adjustments 
+Total hospital payments and adjustments: 
+1237355 
+01 /18/23 
+01 /18/23 
+1 
+198 
+2 
+Please call [PHONE-5] if you have questions regarding this document. 
+Page 1 
+5,406.00 
+427.68 
+4.32 
+5,838.00 
+-5,838.00
+BE Beeedsea|
+01/31/23 |Anthem Insurance Payment
+01/31/23 |Anthem Contractual Write-Off
+01/18/23 |Pre-Payment Elective (MasterCard x8225)
+02/06/23 |Mychart Payment (Visa x6173)
+
+Patient: 
+Account ID: 
+Norton Healthcare 
+Volk,Daniel W 
+218552049 
+Patient Financial Services 14-7 
+P.O. Box 775278 
+Chicago, IL 60677-5278 
+Daniel W Volk 
+7612 Willowbend Drive 
+Crestwood, KY 40014 
+Visit Coverages: 
+Anthem - Blue Cross Federal 
+Patient: 
+Account ID: 
+Volk,Daniel W 
+218552049 
+Location: Norton Brownsboro Hospital 
+This is an itemized list of charges. 
+Hospital Charges 
+Total hospital charges: 
+Hospital Payments and Adjustments 
+Total hospital payments and adjustments: 
+Guarantor ID: 
+Admission Date: 
+Discharge Date: 
+1237355 
+07/13/22 
+07/31/22 
+Please call [PHONE-6] if you have questions regarding this document. 
+Page 1 
+-396.00
+[DOB-162] [0424 HB NEURO PT EVAL LOW
+396.00
+RetPeseta
+08/15/22 |Anthem Insurance Payment
+08/15/22 |Anthem Contractual Write-Off
+07/13/22 |Co-Payment (MasterCard x8225)
+
+Patient: 
+Account ID: 
+Norton Healthcare 
+Volk,Daniel W 
+218304802 
+Patient Financial Services 14-7 
+P.O. Box 775278 
+Chicago, IL 60677-5278 
+Daniel W Volk 
+7612 Willowbend Drive 
+Crestwood, KY 40014 
+Visit Coverages: 
+Anthem - Blue Cross Federal 
+Patient: 
+Account ID: 
+Volk,Daniel W 
+218304802 
+Location: Norton Brownsboro Hospital 
+This is an itemized list of charges. 
+Professional Charges 
+[DOB-161] 61512 
+[DOB-160] 61781 
+[DOB-159] 69990 
+[DOB-158] 99223 
+Total professional charges: 
+Professional Payments and Adjustments 
+II • • 
+06/30/22 Anthem Insurance Payment 
+07/01/22 Anthem Insurance Payment 
+07/05/22 Anthem Insurance Payment 
+07/06/22 Anthem Insurance Payment 
+06/30/22 Anthem Contractual Write-Off 
+07/01/22 Anthem Contractual Write-Off 
+07/08/22 M chart Pa ment (Visa x6173) 
+Total professional payments and adjustments: 
+Guarantor ID: 
+Admission Date: 
+Discharge Date: 
+CRNEC TREPHINE BONE FLAP 
+MENINGIOMA SUPRATENTOR 
+STRTCTC CPTR ASSTD PX 
+CRANIAL INTRADURAL 
+MICROSURG TQS REQ USE 
+OPERATING MICROSCOPE 
+1ST HOSPITAL IP/OBS CARE 
+HIGH MOM 75 MINUTES 
+1237355 
+06/21/22 
+06/23/22 
+Please call [PHONE-12] if you have questions regarding this document. 
+Page 1 
+7,440.00 
+696.00 
+643.00 
+590.00 
+9,369.00 
+-5,587.34
+-367.43
+0.00
+0.00 
+-2,991.66
+-222.57
+-200.00
+-9,369.00
+
+Patient: 
+Account ID: 
+Norton Healthcare 
+Volk,Daniel W 
+216805010 
+Patient Financial Services 14-7 
+P.O. Box 775278 
+Chicago, IL 60677-5278 
+Daniel W Volk 
+7612 Willowbend Drive 
+Crestwood, KY 40014 
+Visit Coverages: 
+Guarantor ID: 
+Anthem - Blue Cross Federal 
+Patient: 
+Account ID: 
+Volk,Daniel W 
+216805010 
+Admission Date: 
+Discharge Date: 
+Location: Norton Brownsboro Hospital 
+This is an itemized list of charges. 
+Hospital Charges 
+[DOB-156] 0200 HB R&B ICU 
+[DOB-14] 0250 BUPIVACAINE-EPINEPHRINE 0.25% -
+1 :200000 SOLN 30 ML VIAL 
+[DOB-15] 0250 EPHEDRINE 50 MG/ML SOLN 
+[DOB-153] 0250 GELATIN ADSORBABLE 100 MISC 
+[DOB-152] 0250 GLYCOPYRROLATE 1 MG/5ML SOLN 
+[DOB-151] 0250 LABETALOL 5 MG/ML SOLN 20 ML VIAL 
+[DOB-150] 0250 LACTATED RINGERS SOLN 
+[DOB-149] 0250 MANNITOL 20 % SOLN 
+[DOB-148] 0250 ROCURONIUM 50 MG/5ML SOLN 5 ML VIAL 
+[DOB-147] 0250 SUGAMMADEX 200 MG/2ML SOLN 
+[DOB-146] 0250 THROMBIN 20000 UNIT 20000 UNITS KIT 
+[DOB-145] 0250 THROMBIN 5000 UNIT 5000 UNITS SOLR 
+[DOB-144] 0250 THROMBIN 5000 UNIT 5000 UNITS SOLR 
+[DOB-143] 0272 BURR BALL DIAM 6 MR87BA60DF 
+[DOB-142] 0272 BURR RND 5 [PHONE-28] 
+[DOB-140] 0272 CABLE INTEGRATED [PHONE-30] 
+[DOB-138] 0272 DRAPE CORETEMP CTD200 
+[DOB-137] 0272 DRAPE CRANIOTOMY 9450 
+[DOB-136] 0272 DRAPE SMART ZEISS 306028 
+[DOB-135] 0272 FORCEP IRRIGATING 8 67702000 
+[DOB-35] 0272 PACK BATTERY 6250201 
+[DOB-133] 0272 PACK CRANIOTOMY LF DYNJ32841F 
+1237355 
+06/21/22 
+06/23/22 
+2 
+1 
+2 
+1 
+2 
+1 
+2 
+1 
+Please call [PHONE-37] if you have questions regarding this document. 
+Page 1 
+3,157.00 
+34.56 
+92.40 
+102.98 
+43.04 
+30.05 
+18.78 
+71.99 
+38.59 
+433.52 
+1,121.89 
+541.87 
+270.93 
+1,580.00 
+1,566.00 
+390.00 
+312.00 
+146.00 
+247.00 
+2,799.00 
+4,216.00 
+1,887.00 
+a a ee
+
+Patient: 
+Account ID: 
+[DOB-131] 
+[DOB-130] 
+[DOB-129] 
+[DOB-128] 
+[DOB-127] 
+[DOB-126] 
+[DOB-125] 
+[DOB-124] 
+[DOB-123] 
+[DOB-122] 
+[DOB-121] 
+[DOB-120] 
+[DOB-119] 
+[DOB-118] 
+[DOB-117] 
+[DOB-116] 
+[DOB-115] 
+[DOB-114] 
+[DOB-113] 
+[DOB-112] 
+[DOB-111] 
+[DOB-110] 
+[DOB-109] 
+[DOB-108] 
+[DOB-107] 
+[DOB-106] 
+[DOB-105] 
+[DOB-104] 
+[DOB-103] 
+[DOB-102] 
+[DOB-101] 
+[DOB-100] 
+[DOB-99] 
+[DOB-98] 
+[DOB-97] 
+[DOB-96] 
+[DOB-95] 
+[DOB-94] 
+[DOB-93] 
+[DOB-92] 
+[DOB-91] 
+[DOB-90] 
+[DOB-80] 
+[DOB-88] 
+[DOB-87] 
+[DOB-86] 
+[DOB-85] 
+[DOB-85] 
+[DOB-86] 
+[DOB-87] 
+[DOB-88] 
+0272 
+0272 
+0272 
+0272 
+0278 
+0278 
+0278 
+0278 
+0278 
+0278 
+0302 
+0302 
+0302 
+0310 
+0310 
+0310 
+0310 
+0310 
+0310 
+0312 
+0360 
+0370 
+0410 
+0636 
+0636 
+0636 
+0636 
+0636 
+0636 
+0636 
+0636 
+0636 
+0636 
+0636 
+0636 
+0636 
+0636 
+0636 
+0636 
+0636 
+0636 
+0636 
+0636 
+0636 
+0636 
+0636 
+0636 
+0636 
+0636 
+0637 
+0637 
+Volk,Daniel W 
+216805010 
+PACK DOUBLE BASIN SET 14098D 
+PIN SKULL MAYFIELD A1072 
+ROUTER TAPERED 2.3 5407FA2023 
+SONOPET IQ 12CM STD 550025S307 
+COVER BURR HOLE 14 5334514 
+COVER BURR HOLE 18 9234518 
+COVER BURR HOLE 18 9234518 
+GRAFT DURAMATRIX 4X5 CDSLM45 
+MARKER REFLECTIVE 41773N 
+SCREW 1.5X4 SLF DRILL 5615934 
+HB ANTIBODY SCREEN GEL 
+HB BLOOD TYPING ABO 
+HB BLOOD TYPING RH(D) 
+HB CYTOLOGY EXAM EACH ADDTL SITE 
+HB FROZEN SECT 1 ST SPEC 
+HB IMMUNOHISTO ANTIBODY SLIDE 
+HB IMMUNOPEROXID EA ANTIB 
+HB PATH LVL V/88307 
+HB PATH LVL V/88307 
+HB MORPHOMETRIC ANL HER2NEU ER/PR 
+HB SURG INTENSITY LEVEL #6 
+HB ANES GENERAL/MIN 
+HB OXYGEN ADMIN DAILY 
+0.9 % NACL WITH KCL 20 MEQ 20-0.9 MEQ 
+PER L-PERCENT SOLN 
+ALBUMIN HUMAN 5% 5 % SOLN 
+CEFAZOLIN 1 G SOLR 
+CEFAZOLIN 10 G SOLR 
+DEXAMETHASONE 20 MG/5ML SOLN 
+DEXAMETHASONE 20 MG/5ML SOLN 
+DEXAMETHASONE 20 MG/5ML SOLN 
+DEXAMETHASONE 4 MG/ML SOLN 
+DEXAMETHASONE 4 MG/ML SOLN 
+DEXTROSE 5 % SOLN 
+DEXTROSE 5 % SOLN 100 ML FLEX CONT 
+DEXTROSE 5 % SOLN 100 ML FLEX CONT 
+FENTANYL (PF) 250 MCG/5ML SOLN 
+FENTANYL (PF) 250 MCG/5ML SOLN 
+MIDAZOLAM 5 MG/5ML SOLN 
+MIDAZOLAM 5 MG/5ML SOLN 
+MORPHINE 2 MG/ML SOLN 
+ONDANSETRON 4 MG/2ML SOLN 
+PANTOPRAZOLE 40 MG SOLR 
+PHENYLEPHRINE 10 MG/ML SOLN 1 ML 
+VIAL 
+PHENYLEPHRINE 10 MG/ML SOLN 1 ML 
+VIAL 
+PROPOFOL 200 MG/20ML EMUL 
+SUCCINYLCHOLINE 20 MG/ML SOLN 10 ML 
+VIAL 
+VANCOMYCIN 1 G SOLR 
+VECURONIUM 10 MG SOLR 
+VECURONIUM 10 MG SOLR 
+ACETAMINOPHEN 500 MG TABS 
+BACITRACIN 500 UNIT/GM OINTMENT 1 
+EACH PACKET 
+3 
+C1763 1 
+A4648 2 
+19 
+86850 1 
+86900 1 
+86901 1 
+88334 1 
+88331 1 
+88341 1 
+88342 1 
+88307 1 
+88307 1 
+88360 1 
+185 
+185 
+J3480 10 
+P9041 10 
+J0690 4 
+J0690 4 
+J1100 10 
+J1100 10 
+J1100 10 
+J1100 10 
+J1100 2 
+J7060 1 
+J7060 1 
+J7060 1 
+J3010 1 
+J3010 1 
+J2250 2 
+J2250 3 
+J2274 1 
+J2405 4 
+C9113 1 
+J2370 1 
+J2370 
+J2704 25 
+J0330 10 
+J3370 8 
+J3490 2 
+J3490 8 
+A9270 2 
+1 
+Please call [PHONE-89] if you have questions regarding this document. 
+Page 2 
+64.00 
+347.00 
+832.00 
+19,743.00 
+4,722.00 
+2,828.00 
+2,828.00 
+7,281.00 
+136.00 
+14,269.00 
+239.00 
+153.00 
+129.00 
+381.00 
+381.00 
+393.00 
+393.00 
+569.00 
+569.00 
+943.00 
+21,090.00 
+4,995.00 
+622.00 
+12.52 
+359.95 
+16.34 
+9.02 
+11.85 
+5.00 
+2.07 
+9.08 
+1.82 
+7.98 
+8.14 
+8.14 
+5.00 
+4.43 
+5.00 
+2.33 
+8.01 
+5.00 
+26.61 
+12.02 
+12.02 
+20.27 
+75.06 
+75.50 
+6.39 
+25.54 
+0.18 
+0.48 
+
+Patient: 
+Account ID: 
+[DOB-90] 
+[DOB-91] 
+[DOB-92] 
+[DOB-93] 
+[DOB-94] 
+[DOB-95] 
+[DOB-96] 
+[DOB-97] 
+[DOB-98] 
+[DOB-99] 
+[DOB-100] 
+[DOB-101] 
+[DOB-102] 
+[DOB-103] 
+[DOB-104] 
+[DOB-105] 
+[DOB-106] 
+[DOB-107] 
+[DOB-108] 
+[DOB-109] 
+[DOB-110] 
+[DOB-111] 
+[DOB-112] 
+[DOB-113] 
+[DOB-114] 
+[DOB-115] 
+[DOB-116] 
+[DOB-117] 
+[DOB-118] 
+[DOB-119] 
+[DOB-120] 
+[DOB-121] 
+[DOB-122] 
+[DOB-123] 
+[DOB-124] 
+[DOB-125] 
+[DOB-126] 
+[DOB-127] 
+[DOB-128] 
+[DOB-129] 
+[DOB-130] 
+[DOB-131] 
+[DOB-132] 
+[DOB-133] 
+0637 
+0637 
+0637 
+0637 
+0637 
+0637 
+0710 
+0206 
+0301 
+0305 
+0410 
+0420 
+0420 
+0420 
+0420 
+0420 
+0424 
+0430 
+0430 
+0430 
+0434 
+0611 
+0636 
+0636 
+0636 
+0636 
+0636 
+0636 
+0636 
+0636 
+0636 
+0636 
+0636 
+0636 
+0636 
+0636 
+0636 
+0636 
+0636 
+0637 
+0637 
+0637 
+0637 
+0637 
+Volk,Daniel W 
+216805010 
+FAMOTIDINE 20 MG TABS 
+HYDROCODONE-ACETAMINOPHEN 10-325 
+MG TABS 
+HYDROCODONE-ACETAMINOPHEN 10-325 
+MG TABS 
+HYDROCODONE-ACETAMINOPHEN 10-325 
+MG TABS 
+PREGABALIN 75 MG CAPS 
+SILVER SULFADIAZINE 1 % CREAM 50 G 
+TUBE 
+HB RECOVERY CRITICAL PER MINUT 
+HB R&B TCU 
+HB BMP W TOTAL CALCIUM 
+HB CBC/PL T/AUTO DIFF 
+HB OXYGEN ADMIN DAILY 
+HB FUNG THERA ACT PT 15 MIN PT 
+HB FUNG THERA ACT PT 15 MIN PT 
+HB GAIT TRAINING 15 MIN PT 
+HB PAT/FAMLY TRAIN PT 15 MIN PT 
+HB PAT/FAMLY TRAIN PT 15 MIN PT 
+HB PT EVAL LOW 
+HB AOL TRAINING OT - 15 MIN 
+HB NEUROMUSC RE ED OT 15 MIN 
+HB PAT/FAMLY TRAIN OT 15 MIN 
+HB OT EVAL MOD 
+HB MRI BRAIN WO & W CONT 
+0.9 % NACL WITH KCL 20 MEQ 20-0.9 MEQ 
+PER L-PERCENT SOLN 
+0.9 % NACL WITH KCL 20 MEQ 20-0.9 MEQ 
+PER L-PERCENT SOLN 
+CEFAZOLIN 10 G SOLR 
+DEXAMETHASONE 20 MG/5ML SOLN 
+DEXAMETHASONE 20 MG/5ML SOLN 
+DEXAMETHASONE 20 MG/5ML SOLN 
+DEXAMETHASONE 20 MG/5ML SOLN 
+DEXAMETHASONE 4 MG/ML SOLN 
+DEXAMETHASONE 4 MG/ML SOLN 
+DEXAMETHASONE 4 MG/ML SOLN 
+DEXAMETHASONE 4 MG/ML SOLN 
+DEXTROSE 5 % SOLN 
+GADOTERATE MEGLUMINE 10 MMOL/20ML 
+SOLN 
+HEPARIN SOD (PORCINE) 5000 UNIT/ML 
+SOLN 
+HEPARIN SOD (PORCINE) 5000 UNIT/ML 
+SOLN 
+MORPHINE 2 MG/ML SOLN 
+MORPHINE 2 MG/ML SOLN 
+ALLOPURINOL 300 MG TABS 
+AMLODIPINE 5 MG TABS 
+HYDROCODONE-ACETAMINOPHEN 10-325 
+MG TABS 
+HYDROCODONE-ACETAMINOPHEN 10-325 
+MG TABS 
+HYDROCODONE-ACETAMINOPHEN 10-325 
+MG TABS 
+A9270 
+A9270 
+A9270 
+A9270 
+A9270 
+A9270 
+190 
+1 
+80048 
+85025 
+97530 1 
+97530 1 
+97116 1 
+97535 1 
+97535 1 
+97161 1 
+97535 1 
+97112 1 
+97530 1 
+97166 1 
+70553 1 
+J3480 10 
+J3480 10 
+J0690 4 
+J1100 10 
+J1100 10 
+J1100 10 
+J1100 10 
+J1100 6 
+J1100 2 
+J1100 6 
+J1100 2 
+J7060 1 
+A9575 189 
+J1644 5 
+J1644 5 
+J2274 
+J2274 
+A9270 
+A9270 
+A9270 
+A9270 
+A9270 
+Please call [PHONE-134] if you have questions regarding this document. 
+Page 3 
+3.03 
+2.42 
+1.01 
+2.42 
+1.84 
+30.20 
+3,990.00 
+2,422.00 
+229.00 
+191.00 
+622.00 
+156.00 
+156.00 
+175.00 
+161.00 
+161.00 
+396.00 
+161.00 
+175.00 
+156.00 
+431.00 
+4,701.00 
+25.04 
+25.04 
+9.02 
+5.00 
+2.07 
+5.00 
+2.07 
+5.00 
+1.55 
+5.00 
+1.55 
+7.98 
+357.07 
+7.14 
+7.14 
+8.01 
+8.01 
+1.62 
+3.58 
+2.42 
+2.42 
+1.01 
+oe oe
+a
+
+Patient: 
+Account ID: 
+[DOB-135] 0637 
+[DOB-136] 0637 
+[DOB-137] 0637 
+[DOB-138] 0637 
+[DOB-139] 0637 
+[DOB-140] 0637 
+[DOB-141] 0440 
+[DOB-142] 0636 
+[DOB-143] 0636 
+[DOB-144] 0636 
+[DOB-145] 0636 
+[DOB-146] 0636 
+[DOB-147] 0637 
+[DOB-148] 0637 
+[DOB-149] 0637 
+[DOB-150] 0637 
+[DOB-151] 0637 
+[DOB-152] 0637 
+[DOB-153] 0637 
+Volk,Daniel W 
+216805010 
+HYDROCODONE-ACETAMINOPHEN 10-325 
+MG TABS 
+HYDROCODONE-ACETAMINOPHEN 10-325 
+MG TABS 
+HYDROCODONE-ACETAMINOPHEN 10-325 
+MG TABS 
+LOSART AN 25 MG TABS 
+PANTOPRAZOLE 40 MG TB DR 
+SENNA-DOCUSATE 8.6-50 MG TABS 
+HB STD COGN ASSESS PER HOUR 
+DEXAMETHASONE 4 MG/ML SOLN 
+DEXAMETHASONE 4 MG/ML SOLN 
+HEPARIN SOD (PORCINE) 5000 UNIT/ML 
+SOLN 
+HEPARIN SOD (PORCINE) 5000 UNIT/ML 
+SOLN 
+MORPHINE 2 MG/ML SOLN 
+ALLOPURINOL 300 MG TABS 
+AMLODIPINE 5 MG TABS 
+HYDROCODONE-ACETAMINOPHEN 10-325 
+MG TABS 
+LOSART AN 50 MG TABS 
+OXYCODONE-ACETAMINOPHEN 5-325 MG 
+TABS 
+PANTOPRAZOLE 40 MG TB DR 
+SENNA-DOCUSATE 8.6-50 MG TABS 
+Total hospital charges: 
+Hospital Payments and Adjustments 
+Total hospital payments and adjustments: 
+A9270 
+A9270 
+A9270 
+A9270 2 
+A9270 1 
+A9270 2 
+96125 1 
+J1100 6 
+J1100 2 
+J1644 5 
+J1644 5 
+J2274 
+A9270 
+A9270 
+A9270 
+A9270 
+A9270 
+A9270 1 
+A9270 2 
+Please call [PHONE-154] if you have questions regarding this document. 
+Page 4 
+2.42 
+2.42 
+2.42 
+6.71 
+8.17 
+0.11 
+445.00 
+5.00 
+1.55 
+7.14 
+7.14 
+8.01 
+1.62 
+3.58 
+2.42 
+4.50 
+2.74 
+8.17 
+0.11 
+119,079.24 
+-119,079.24
+a a a
+Pee
+07/19/22 |Anthem Insurance Payment -43,499.64
+07/08/22 |Anthem Late Charge Write-Off -3,629.00
+07/19/22 |Anthem Contractual Write-Off -71,600.60
+08/07/22 |Mychart Payment (Visa x6173) -350.00
+
+Patient: 
+Account ID: 
+Norton Healthcare 
+Volk,Daniel W 
+217839965 
+Patient Financial Services 14-7 
+P.O. Box 775278 
+Chicago, IL 60677-5278 
+Daniel W Volk 
+7612 Willowbend Drive 
+Crestwood, KY 40014 
+Visit Coverages: 
+Anthem - Blue Cross Federal 
+Patient: 
+Account ID: 
+Volk,Daniel W 
+217839965 
+Location: Norton Brownsboro Hospital 
+This is an itemized list of charges. 
+Professional Charges 
+Total professional charges: 
+Professional Payments and Adjustments 
+Total professional payments and adjustments: 
+Guarantor ID: 
+Admission Date: 
+Discharge Date: 
+ECG ROUTINE ECG W/LEAST 
+12 LOS l&R ONLY 
+1237355 
+06/06/22 
+06/06/22 
+Please call [PHONE-155] if you have questions regarding this document. 
+Page 1 
+25.00 
+-25.00
+' [DOB-156]
+Ceceeien
+Anthem Insurance Payment
+Anthem Contractual Write-Off
+08/02/22
+08/02/22
+
+Patient: 
+Account ID: 
+Norton Healthcare 
+Volk,Daniel W 
+216803097 
+Patient Financial Services 14-7 
+P.O. Box 775278 
+Chicago, IL 60677-5278 
+Daniel W Volk 
+7612 Willowbend Drive 
+Crestwood, KY 40014 
+Visit Coverages: 
+Anthem - Blue Cross Federal 
+Patient: 
+Account ID: 
+Volk,Daniel W 
+216803097 
+Location: Norton Brownsboro Hospital 
+This is an itemized list of charges. 
+Hospital Charges 
+Guarantor ID: 
+Admission Date: 
+Discharge Date: 
+[DOB-157] 0300 HB SPECIMEN COLLECTION VENIPUNCT 36415 
+[DOB-158] 0301 HB BMP W TOTAL CALCIUM 
+[DOB-159] 0302 HB ANTIBODY SCREEN GEL 
+[DOB-160] 0302 HB BLOOD TYPING ABO 
+[DOB-161] 0302 HB BLOOD TYPING RH(D) 
+[DOB-162] 0305 HB CBC/PL T/AUTO DIFF 
+[DOB-163] 0305 HB PROTHROMBIN TIME 
+[DOB-164] 0305 HB PTT ACTIVATED 
+[DOB-165] 0611 HB MRI BRAIN W CONTRAST 
+[DOB-166] 0636 GADOTERATE MEGLUMINE 10 MMOL/20ML 
+SOLN 
+[DOB-167] 0730 HB EKG 
+Total hospital charges: 
+Hospital Payments and Adjustments 
+06/17/22 Anthem Insurance Payment 
+06/17/22 Anthem Insurance Payment 
+06/17 /22 Anthem Contractual Write-Off 
+06/17 /22 Anthem Contractual Write-Off 
+06/06/22 Pre-Payment Elective (Visa x6173) 
+07/08/22 M chart Pa ment (Visa x6173 
+Total hospital payments and adjustments: 
+80048 
+86850 
+86900 
+86901 
+85025 
+85610 
+85730 
+70552 
+A9575 
+93005 
+1237355 
+06/06/22 
+06/06/22 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+191 
+Please call [PHONE-168] if you have questions regarding this document. 
+Page 1 
+37.00 
+229.00 
+239.00 
+153.00 
+129.00 
+191.00 
+151.00 
+356.00 
+4,493.00 
+360.85 
+276.00 
+6,614.85 
+-739.04
+-38.02
+-4,231.59
+-1,446.98
+-150.00
+-9.22
+-6,614.85

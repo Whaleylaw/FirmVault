@@ -1,0 +1,1606 @@
+---
+case_slug: charles-t-johnson
+created_at: 2026-02-16 22:25:47.660000+00:00
+document_category: financial
+document_date: 1952-04-01
+document_type: financial
+entities:
+- AtScene Jewish Hospital
+- Jewish Hospital
+extraction_method: native_text
+legacy_case_id: 2023-04-18-MVA-001
+mime_type: application/pdf
+page_count: 1
+quality_score: 100
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charles-T-Johnson-MVA-4-18-2023/Medical-Records/2023-04-18-Charles-T-Johnson-JEWISH-HOSPITAL-Medical-Visit.pdf
+source_hash: sha256:e9dbd786c2a27f8f86f6eb7871ecff0315e5dea93b4c1bbf5a4d718fd4aa6362
+---
+
+This image rendered from received data
+MNCs
+Treating Name:
+Practice Name: JEWISH HOSPITAL
+License #: Record Location:
+Tax ID: 843178470 NABP #:
+Practice Address: 200 ABRAHAM FLEXNER WAY
+Billing Name: JEWISH HOSPITAL
+Billing Address: PO BOX 645966
+City: LOUISVILLE State: KY ZIP: 40202 Practice NPI:
+City: PITTSBURGH State: PA ZIP: 15264 Billing NPI: [PHONE-81]
+il’
+Name: JOHNSON, CHARLES B
+Address: 2652 ROWAN ST
+DOB: [DOB-1] Sex: M
+City: LOUISVILLE State: KY
+SSN: Country:
+Marital Status: Payee: NO Control#: D[PHONE-80]
+WPH4ROLO1L2 DOI: 04/18/23 Client ID:
+Clearinghouses Claim #:
+Payers Claim #: 3002385272023
+Number:
+Insured’s Name:
+Submitters Claim #:
+Admit Date: if
+FS/UL Allowance: $0.00
+Provider Billed: $1780.00
+Foreign Bill Control #: D231080141
+Reprice State:
+Contracted Amount:
+Prescribing/Referring Doctor
+Name:
+Address:
+UB Fields
+Attending:GEORGE STEPHENS NPI #:[PHONE-79]
+Operating: NPI #:
+Discharge Hour:
+Rend. Prov NPI:
+Service Start: 04/18/23
+Discharge Status: 01
+Provider Billed Date: 04/26/23
+DCN: 23118036B9C270696907
+CH Paperwork: WPH4ROL01L2_01
+Service End: 04/18/23
+DRG Code:
+Bill Type: 131
+CorVel Recv Date:04/28/23
+Non-NPI Qual: #
+Non-NPI Qual: #
+Admission Hr/ Type: / 4
+Referring Prov NPI:
+Other Operating:
+Rendering Prov Taxonomy:
+Diagnosis Code / Admission Indicator
+Primary: Z041 : : : 5:
+6 : : : : 10:
+11 : : : : 15:
+16 : 3 : : 20:
+21 3 : : : Adm_ Diag Code:
+Principal:
+Fourth:
+Compound Drug Fields
+Rx Qual: Rx Date:
+Cost: Dispense Fee:
+Comments
+Product Qual: Unit of Measure:
+Gross Amt Due:
+U&C Charge:
+Net Amt Due:
+# Type Code Rev. POS Service
+PCT towCela Code Start
+324 04/18/23
+Rendering NPI#:
+Actual DXR Mod Mod Mod Units FS/UC
+Charge Nbr. i 2 Allowance
+$450.00 1 $0.00
+Non-NPI Qual: Non-NPI#:
+HCPCS!
+Rey
+Compound Qualifier:
+Dispensed:
+P 99283 450
+Rendering NPI#:
+Compound Qualifier:
+Dispensed:
+P A9270 ,50580045711 637
+Rendering NPI#:
+Compound Qualifier:
+Dispensed:
+Compound Basis of Cost:
+Original:
+$1329.00 25
+Non-NPI Qual:
+Compound Basis
+Original:
+$1.00 GY
+Non-NPI Qual:
+Compound Basis
+Original:
+04/18/23
+04/18/23
+1 $0.00
+Non-NPI#:
+of Cost:
+2
+Non-NPI#:
+of Cost:
+50580045711
+
+From West Market Spine 1.[PHONE-78] Thu Jun
+HEALTH INSURANCE CLAIM FORM
+APPROVED BY NATIONAL UNIFORM SCAM SOMANTT EE (NLC) C2AZ
+CorVel Scan Date: [DOB-5]
+8 16:48:33 2023 CDT Page 8 of 12
+me
+meme
+a
+CARRIER
+=>
+elie RIALTO
+Ye IEE CAB: penn TAILS TRUCARE SHAME SA BEG EFe nh fFaa OTHER Ta INRUREO'S 1 NMBEE ior Progrant in ten ty
+inssorcaeal [Jeena] eamoades maar fbn ba) ama O00 2IRSUT = 2673
+5 PaTiENT SNahe Last Nave, Fite) Name, moody italy = etgarni oe f. 4 INSUR ELS NAME (Last Name, First Name, Micdle titali mes
+JOWN SON, CHARLES eo JONyson, CHA
+5 EATIENT'S ADDRESS(Ma., Stand) De CHSHIPToNEGRO F_INGURED'S ROCHE SS Ne,Steet)
+lt 1 ROWAN (7, eat i jot] ome] | 2652. Rowan ST
+iSTATE ESEC BE ot
+LOUISVILLE
+TOLERHUN didude Ae WwW
+(SOL) 17.- 373
+IP GORE
+YOULL
+TELEPHONE tindude Area Code):
+(50) TM- 3991
+SOOTHER INSUAED'S NAME (ast Marie, Arst Name: Miche nitay— SENTS
+acTHEA INSURED'S POLICY OR GROUP NUMBER:
+bh.RESEAVER FOR NUCE USE
+¢:RESERVED FOR WUGG USE
+OOMLNTION RELATE:
+EI a INSURED
+Mac r. Dl
+rt Mase
+& OUHER CLAIM ify Deagnated ty MOT,
+t
+PL ALE (State
+jue Vy
+BTC ht OINSUREE'S POLICY GROUP OR FECA NLMBER
+4
+GATE OF BRIA Ot SEX
+ue
+t
+Ye ISUFLANCE PLAN NAME CA PROGH AMNAME
+INSURANCE PLEN SME OM PRIORAR MAME 1 SNA CODESTeena by NUE
+PATIENT
+AND
+INSURED
+-
+| fulo Owens
+§ THERE ANOTHER HEALTH BENEFIT PLAN?
+NG yes: chm pizte weirs 9-4, wid Sa.
+HEAD: BACK OF FORM BEFORE COMPLETING. SGNING THISF OOM.
+12. PATIENTS OF AUTHORIZED PERSON'S: SIGNATURE, |authioize theretease of any readicad Gristier inlarsial
+AS OINSUBERS OF AUTHORIZED PERSON'S SIGNATURE authorize
+paNENDOLriRGICal hanefits o:INe uriderzigned physiaa or supper. to.
+to araceise thie Cally
+tigre
+sSLONMURE ON ILE
+aSq request Sayroen tot goubrimnent Penahts ether temiysallor tate party wrie acneats x
+AOL SSA:
+it ser ines Gesdd bel talc: |
+BIGNEC STGMATUR iE ON. FIL E ¥
+Ve eeeeta pe *CORK: INSURE i PA
+SRW TO {
+4B.NCSL wea fa oo
+FROM | i
+TayGAT eaRELATED TO CURRENT SenaNES ie BO, wy
+TO {
+20. CU SIOE LABS
+[Cl ves oo |
+SCHARGES
+22RESUENISSION
+COSE OBIGIMAL ARF NG:
+23. PRECR AUTHORIZATION NUMBER
+HL
+SOF INR Y Lae Bet a 2 ire OF oes
+6PSL3.3XKA eeLEEDSXA
+e we 4 el.
+=
+£8 Season ‘ bye Sey Eset eee : —— >
+“ Fearn ee auteOr (Exuain Sousa Greuri ae aL i RENDERDS
+BME 01 bk: RAM OTs ‘Se SASERVEET EMS] SPTANCROS i i BCHARGES: UTS. Fah | AL PROMESRIG. #
+bethWoe OF 19 Pquaa | ot Tee 16S0 lool bob Pe ie 072943
+| : | ' root i i : | : | { | rail
+a.
+ON
+1 T oe od poy he : . . t
+i peng i i ‘ i i } Pula aed
+2 I | i i : ! i | ! : | | ne
+‘ i i “ i y EE oe
+i i i { | ! | NI
+OR
+HeFEnEAR, Fae, none BSN Citi
+43-13e0107 av SY SIGNATURE OF HY SIGLAS OR: BUPRLIFE:
+JRC UDING GE GRERS (CF SAEDEMTIALS
+(icertty inal tre platamenicOh Weve verse,
+aeppry to this ON and: aie made: s part thereat)
+BRENAS Lobtyric's bce Lous svILLE ky. -YoUlo
+26. BATIEN SECAINT BR if
+AArm 491 de
+2. BERMICE-FAGIUTY LOGETIY INFO AMAT ICIN
+Neen § -CUeT Tics LLG
+1ig? DIXTE MWY
+s Ibjo
+UE.TOTAL CHARGE 4 23. AMOUNT PAID
+! *
+190| *
+Gd. BLCLUINGS PROWI DES INFOS PH €
+ARENA! LOutsTsc'S LUC.
+VTL HatOIMe Qe.
+Ge ya Sree
+(30. Asvel or NUE So
+SiGNES Ob/Ob Lae ay7S5 OLN i
+NUCTUNSrECL on ManGal-avalabie at aw nuce ong: PLEASE PRINTOR TYPE
+leur svg. Ky,
+aoib
+Yor 4d
+eo yea ees
+sClear Form!
+
+CorVel Scan Date: [DOB-6]
+[DOB-7] 08:58AM [PHONE-74] STARLITE PAGE 62
+ae AUTO OWNERS 4
+& P.O. BOX 4298 i
+HEALTH INSURANCE CLAIM FORM PORTLAND, OR 97208 4
+APPHOVED BY NATIONAL UNIFORM CLAIM COMMITTEE (NUGG) DEAR
+COORA . _ 7 ee meaTTY
+4, MEDICARE MEDIGAIG TRIGARE SHAMPVA feat PLAN fA Unk GTHER| 2.INGUBED'S 1.0. NUMBER (For Programin than 7}
+[T]evacicacon [| oteionien {]aowmecn) []atereerron [| @ [\~" fe]aom | 30002385272023
+2, PATIENT'S MAME (Laat Name, Firet Name, Middle finial) a or pith ATE Z 4. NSUREO'S NAME (Laat Nana, Firat Nari, Micdie Initial}
+JOHNSON, CHARLES O11952 e[ |]| JOHNSON, CHARLES |
+§, PATIENT'S ADORESS (No., Strnel) 6, PATIENT AELATIONSHIF MoINSURED 7. INGURED'S ADDRESS (No., Strest)
+2652 ROWAN Bai |Bpouse[”] crnaf| one]| | 2652 ROWAN
+ory GTAVH | 6. RESERVED FOR NUGC USE ory STATE
+LOUISVILLE KY LOUISVILLE KY
+iP GONE TELEPHONE (indivde Area Goda} GP SOOE FELEPHONE (clude Area Gade)
+40212 [PHONE-73] 40212 [PHONE-10]
+9. OTHE INSUAED'S NAME (Last Nama, Plost Name, Micidle inittal} 40,78 PATIENTS CONDITION RELATED TO:
+‘a. GTHERINGURED'S POLICY OR GROUP NUMBER A. EMPLOYMENT? (Currant oF Provioua)
+[lyves — [Eq]no
+f. RESERVED FOR NUCG USE byAUT AGCIDENT? PLAGE (State)
+Eles [J xy
+6, RESERVED FOR NUOC USE 4, OTHERACCIGENT?T
+[]vme fx}no
+11. INGURED'S POLICY GROUP OR FECA NUMBER,
+a 'SOATS OF BIATH SEX
+Bre452" ‘]
+b OTHER CLAIM 1D (Daalynated by NUCH)
+t
+4
+“Ex
+& E PLAN NAME OF PROGRAM NAME
+d. INBURANCE PLAN NAME OFPROGRAM NAME 166. CLAIM GODES (Casignated byNUDZ)
+[Ja PLETING
+READ BACK OF FORM BEFORE COMPLETING &SIGHING THIS FORM,
+12, PATIENTS OR AUTHORIZED PERSON'S SIGNATURE tnutharite therokitige of anyy medical ar athar inionnailon necessary
+TISTHERE ANOTHER HEALTH BENEFIT PLANT
+ves Fr ]NO ayes, compiate tame 8,8a, ane 23,
+18, INSUREO’S OFAUTHORIZED PERSON'S SIGNATURE | authorize
+Payment ofmettion! penatits to‘heundacsigned Dhyalolen Ofauppiiat fo
+doplonean thie clalen, 1alan mequaat payment of to myseit ot iheParty wheaocepta
+below,
+SIGNATURE ON FILE 06112023
+SIGNED
+14.“RTE BEY see ‘of PREGNANCY (LMP) 118, OFHRA ate 0oft 4 APo 3 vy
+QUALI 4391
+77. NAME OF REFERFING PROVIDER OR OTHER SOURCE rs
+DNIMICHEAL NORMAN
+48, ADDITIONAL CLAIM INFORMATION (Deaiagnaiad by NUCAZE
+SIGNATURE ON FILE
+Ast 18,BATES pANIENT PNABLE TOWORKIN CURRENT QEOUPATION
+FROM || wo tl
+18.HOSPITALIZATION DATES ARLATED wmCARRENT,SRAVICES
+i ! tw i oft
+SGHARGES
+ORGINAL, AEF. NO.
+23. PRIOR AUTHORIZATION NUMBER
+nets tity)
+— ul
+f)
+: iefi an seee
+21. DIAGNOSIE OR NATURE OF ILLNESS OF INJURY Palate A-L iy eervice tine balow fai) $00) Sa, 10;
+AiS13. 4XMA 0 S33. 5XXA 0 M25.522 ».1823.3XxA
+Ei a
+b ae KL anaareurarrencamn, As fa BA eee OFBE D, PROGEDUAES, SERVICES, 2ASUPPLIES &
+(exolain Undid Circumetannes) DIAGNOSIS|
+taht Mi vy pend Rae PAs MODIFIE! POINTER.
+fy amey i
+: ae. oe oea
+fha
+lertinit shay
+t
+ea,ald AGGOUNT NO. FE ar
+19306662A a
+X.DNUMBER |SSN BIN
+843867850 mies
+30. Ravd for NUCC Uae
+a1.SIGNATURE GF PHYSICIAN OR SUPPLIER
+INCLUDING DEGREES OR CREDENTIALS
+kAan thattha statements on Tim rivera
+aptyto thls bill art! meeertcackee o&poaatt thereat.)
+ANTHONY SEARS
+S58, BERVICE FACILITY LOCATION INFORMATION
+STARLITE INJURY
+4200 BISHOP LANE
+LOUISVILLE, KY 40218-4558
+06112023 TE
+SIGNED DA lb
+NUCC instruction Manual avaliable at:www.nucc.org
+&
+PLEASE PRINT OF TYPE
+88,BLING PROVIDER INPO & PH# (302 Li2go
+STARLITE INJURY
+4200 BISHOP LANE
+' LOUISVILLE, KY 40218
+¥
+Zz
+oO
+= i
+Pa
+sICiAN
+OR
+"pa TieNTAND
+INSUHED
+APPROVED OMB-0998-1197 FORM 1800 (02-1
+
+CorVel Scan Date: [DOB-11]
+[DOB-12] O08:584M [PHONE-69] STARLITE PAGE 06
+Be AUTO OWNERS t
+ae° P.O. BOX 4298
+HEALTH INSURANCE CLAIM FORM PORTLAND, OR 97208
+APPROVED BY NATIONAL UNIFORM CLAIM COMMITTEE (NUCG) D2n2
+PICA
+TRIDARE iP
+iadioaitay (“" Gnwiate) Fath an 30002385272023
+JOHNSON, CHARLES h 2 JO , CHARLES
+iNo., ,
+2652 ROWAN 2652 ROWAN
+arr
+LOUI LOUISVILLE KY
+40212 [PHONE-14] 40212 [PHONE-67]
+40.18PATENTS RELATED TO:
+&. EMPLOYMENT? (Gurrant or Pravigua)
+C]ves [jo
+6. AUTO AGGIDENT? PLAGE (State)
+ves [) iky
+¢, OTHER ACGIOENT?
+NO
+Horne 8, 0, ane 9d
+12,PATIENT'S OR or nacansary tothe
+fo pronees thle claltth, taisfequenat payertaat
+balow.
+SIGNATURE ON FILE ars 06112023 SIGNATURE ON FILE
+SIGNED,
+439 ott w
+DN} MICHEAL 176,| NFA
+Heh frat,
+Bi.Leeannnenre—e
+#4.Lonnsnnanmnnasenenine
+ORIGINAL REF. NQ.
+&
+RENORRING j
+NPE
+25. PEDERAL TAX 1.0. NUMBER SSN BIN 28. PATIENTS ACCOUNT NO. ay, 28, AMOUNT PAID BO. Ravd for NUCG
+843867650 19306664A 3 80;00)s O10
+OR 32.
+; OF CREDENTIALSTARLITE INJURY STARLITE INJURY
+apply tothisHi nett ane cade a part thereat) 4200 BISHOP LANE 4200 BISHOP LANE
+ANTHONY SEARS LOUISVILLE, KY 40218-4558 LOUISVILLE, KY 40218
+06112023 bk a.
+Jat WIAn0S.Org
+
+[DOB-16] 08:58AM [PHONE-65]
+lee ie
+HEALTH INSURANCE CLAIM FORM
+APPROVED 8Y NATIONAL UNIFORM CLAIM COMMITTEE (NUCG) 02/42
+4, MEDICARE MEDICAID
+{ttadioald#)
+“TRIGARE
+GDa0t)
+JOHNSON, CHARLES
+2652 ROWAN
+I
+[PHONE-18]
+412, PATIENT'S
+{8prosesn His clam.
+balow.
+SIGNATURE ON FILE
+SIGNED,
+DN}MICHEAL NORMAN
+CorVel Scan Date: [DOB-19]
+STARLITE PAGE 05
+AUTO OWNERS
+P.O. BOX 4298
+PORTLAND, OR 97208
+30002385272023
+JOHNSON, CHARGES
+2652 ROWAN
+LOUISVILLE KY
+40212
+at.
+[PHONE-62]
+3. EMPLOYMENT? (Currant or Previous)
+ves [X]no
+b.AUTO AQOIDENT? baerptm)
+ves [NO KY
+coCTHRA ACCHOENT?
+NO
+NO
+neceaaary
+ari the party whe ancapte movignenent
+06112023
+ofa
+vant of redioat te
+Fotrloge deco below,
+SIGNATURE ON FILE
+43
+"
+NPI
+iO tnt,
+o M2Z5,.512. bo
+al
+25, FEDERAL TAX LD, NUMBER
+843867850
+SSN EIN
+STARLITE INJURY
+4200 BISHOP LANE
+LOUISVILLE, KY 40218-4558
+apply to aremade aparttharsat}
+ANTHONY SEARS
+06112023
+at www, nuce.org
+28. PATIENT'S ACCOUNT ND.
+19306664A §
+Hy brannnnunrnnmnen
+Fa
+NPL
+28. AMOUNT PAID
+375400) 5 040
+ay. a8.
+33,
+STARLITE INJURY
+4200 BISHOP LANE
+LOUISVILLE, KY 40218
+a
+OMB-0938-1197 FORM 1560 (02-12)
+
+[DOB-61] 08:58AM [PHONE-60]
+BEES
+HEALTH INSURANCE CLAIM FORM
+APPROVED AY NATIONAL UNIFORM CLAIM COMMITTEE (NUCG) 02/12
+MEDICAID
+(itetisttta)
+JOHNSON, CHARLES
+5 (No.
+2652 ROWAN
+ore
+LOULSVILLE
+40212
+SRA OR
+SIGNED,
+74, a
+QUAL,
+DNIMICHEAL NORMAN
+TRIGARE
+itomDot3A)
+STARLITE
+CorVel Scan Date: [DOB-59]
+PAGE 08
+AUTO OWNERS
+2
+RELATIONSHIP
+[PHONE-58]
+«. EMPLOYMENT? (Currant or Previous)
+Lhyes rs)
+b, AUTO AGGIOENT?
+P.O, BOX 4298
+PORTLAND, OR 97208
+don | 30002385272023
+4.
+JOHNSON, CHARLES
+2652 ROWAN
+LOUISVILLE KY
+40212
+INSURED’S POLICY
+[PHONE-57]
+11952
+PLAGE (Stata)
+fxlves [lJ xy
+©, OTHER ACGIOENT?
+NO
+&SiangTHBFORma,
+ialeaaeof anymedica} or other ivformaton nacagsary
+{aldo naquast payment of govermant bensilts ether to meloe{he party wita aonaphe asst
+SIGNATURE ON FILE 06112023
+439 ot wv
+“Tare. NPI
+25,
+843867850
+INCLUDING
+()certily that the elaterrarty on the raveras
+apply to this bil} and ars mack #part thereol.)
+ANTHONY SEARS
+06112023
+BA. PATIENTS ACCOUNT NO.
+193067004
+32,
+STARLITE INJURY
+4200 BISHOP LANE
+LOUISVILLE, KY 40218-4558
+a
+Bh www.nued.ong
+NG Herne @,0, wired 3,
+PERSON'S SIGNATURE}mithorize
+payaiantofmention! tothe senclaratr lol aotnuppllaytor
+narvioes deaortbad alow, pre
+SIGNATURE ON FILE
+ORIGINAL ABE, NG,
+RENDERING:
+8 315400) 8
+93
+STARLITE INJURY
+4200 BISHOP LANE
+LOUISVILLE, KY 40213
+4,
+
+CorVel Scan Date: [DOB-56]
+[DOB-27] O08:584M [PHONE-54] STARLITE PAGE 12
+El AUTO OWNERS
+aa P.O. BOX 4298
+HEALTH INSURANCE CLAIM FORM PORTLAND, OR 97208
+APPROVED BY NATIONAL UNIFORM O1AIM GOMMITTEE (NUCO) DAZ
+rT pica moa TT
+41. MEDICARE MEDICAID TAIGARE CHAMPVA “ae te SOTHEH| ta.INSURED'S 1.0. NUMBER {For Progress in thom 1) [rteccann) [| ertnaay [|poomionLisveron( he. FEB aon 30002385272023
+2. PATIENTS NAME (Last Nara, Firat Name, Mfidette Inia!) 3 oot HATH QATE SEX 4. INSUREOS NAME (Last Name, Plat Name, Middle initial)
+JOHNSON, CHARLES OL 962 afx] a JOHNSON, CHARLES |
+jl. -¢—
+CARRIER
+>
+5. PATIENT'SADDERS (No., Strent) a.BRTENT RELATIONSHIP TO INSURED 7. INGURED’S ADDRESS (No., Staal}
+2652 ROWAN set |spose |cma] erneef } 2652 ROWAN
+ony SYATE| 8. RESERVED FOR NUCE USE ony |STATE
+LOUISVILLE KY LOUISVILLE KY
+iP CODE TELEPHONE (nckide Area Goda} ZrCODE, TELEPHONE (indluda Arua Goda)
+40212 [PHONE-53] 40212 (502723731
+, OTHER INSURED'S NAME (Lent Naite, Birst Name, Mickie initial) 76. PATIENT'S CONDON RELATED To: 41. INSLRED'S POLICY GROUP DR FECA NUMBER
+a. OTHER INSURED'S POLICY OR GROUP NUMBER , EMPLOYMENT? (Currant ar Previous) INS OATE OF BIRTH BEX | Che Jo agitgs2 wf] Fy
+fy RESERVED FOR NUCG USE 6, AUTO AQKADENT? PLAGE (stuia) {8 OTHER GLAM 0(Designated by NUCO)
+Kx}ee [vo ys |
+[RESERVED ——S”~S~*~S~S:”:”~C~CSC*« FORNUCGUBE THB ADDI ©INGURANCE PLAN NAME OHPROGRAM NAME
+[jus [fno
+0, INBURANGE PLAN NAMEOF PROGRAM NAME 10d. GLAIM Babes (Gaaignated tyNUGE) 448THERE ANOTHER HEALTH BENEFIT PLAN?
+[Eyre Ex ]no yee,compiatn tenn 9,9, an oe,
+RADBACK OF FORM BEFORE COMPLETING & SIGNING THIS FORM. 73, INSUAEO'S GR AUTHORIZED PERSON'S SIGNATURE |authors
+12, PATIENT'S GF ALHORVZED PEABON'S SIGNATURE !authorizethe leaseof any medion! or ater infortation sacemsaty payinent afmadioat bene tothe undersigned phyaloian oyeuppilar for
+fopropeaa thie cialm. {also raquast payment of government benefits alther to ryaait of te the party whoaooepip aasignmant norvions descrlbett batars,
+“ SIGNATURE ON FILE 06112023 SIGNATURE ON FILE
+SIGNED carrera DATE SIGNED
+14,"Ba SSN INES, INJURY, ar PREGNANCY (LMP)
+QUAL i
+17. MAME OF REFERAING PROVIDER OF OTHER SOURCE
+18. DATES PATENT RNABLE TD WORK IN ° eae Ane
+FROM { i te
+16. OTREH DATE t
+aaj 439) 0adag ¥
+oe i
+iets ia:b HORPTigh PATIQN DNTERRELATED TOCURRENT SERVICES
+DNi MICHEAL NORMAN FROM 4 ! TO mun5 {
+78, ADDITIONAL CLAIM INFORMATION (Designated by NUGG} 3. GUTSIDE LAB? eOARGES
+Les hw| |
+21,DIAGNOSIS OR NATURE GFLLNESS OMIMIUHY Helate Aito secvion ling bolow(a8 ‘oT
+* seen WEED eco gne1 #2.BERS ORIGINAL AEE. NO,
+4 S13. 4XXA a(823.3XXA GLa 6.1
+et Fl al , 0. PRIOR AUTHORIZATION NUMBER
+2. BROCEOUAES, SERVICES, OR SUPPLIES
+{Explain Unusual Cinurnetanten)
+OPCS MODIFIER.
+ee rooSeean
+1 api} 132
+3
+AE SRASS near Raia ey SE Ee Nee OeCaeneee nehSeer
+11
+5
+Ginea sina eee i f anditiyie nseblonelbs anata ee eae
+{ ' 1 4
+2h.FEDERAL,TAK LD. NUMBER SON EIN 28. PATIENT'S ACGGUNT NO_ ar, ome IGNMENT? 2a. TOTAL, CHARGE 29, AMOUNT PAID 30, Peavet ne NOC Use
+L [iT
+843867850 If] |19306910a ves | |xo ¢ [PHONE-30]
+a.SIGNATURE COFOFPHYSICIAN oASUPPLIER 32, SERVICE FACILITY LOCATION INFORMATION 33. BILLING PROVIDER INFO Aoa ® { 50ep QiL4Z45 INCLUOING DEGREES CRCREDENTIAL STARLITE INJURY STARLITE INJURY
+opty to thle biandave rade # part taro!) 4200 BISHOP LANE 4200 BISHOP LANE
+ANTHONY SEARS LOUISVILLE, KY 40218-4558 LOUISVILLE, KY 40218
+06112023 5, ere: é' “
+4, a ;
+SIGNED BATE 3 i Baer ra
+NUCC instruction Manual available at: www,nucc.org PLEASEPRINT OR ee APPROVED OMB-0808-1197 FORM 1500 (02-12)
+a
+=
+DR
+|
+ET AND INSURED 
+
+CorVel Scan Date: [DOB-31]
+[DOB-32] 08:58AM [PHONE-49] STARLITE PAGE 10
+AUTO OWNERS +
+‘ P.0, BOX 4298 i
+HEALTH INSURANCE CLAIM FORM PORTLAND, OR 97208 &
+APPROVE BY NATIONAL UNIFORM CLAIM COMMITTEE (NUGG)(2/12
+PICA _ nea ETH
+\. MEDICAID ‘TRICARE CHAMPYA ae1c OTHER} 12. INSUIBED’S 1.5, NUMBER éFor Program In tam 9}
+FIpander (tn [TJ eoetece) ca ee oe 30002385272023
+2, PATIENTS NAME {Last Name, Firal Name, Middle fnitial) a te eae we — 4. |MBURED'S NAME (Last Nome, First Name, Middle Initial)
+JOHNSON, CHARLES QL e["] | JOHNSON, CHARLES |
+§, PATIENT'S ADDRESS (No, Sirset} 9, PATIENT RELATIONSHI? a INSURED 7. INBURED’S ADDRESS (No., Strest)
+2652 ROWAN Belix | Spousa cciher{ | 2652 ROWAN |
+ary STATE | 8, HESEAVED POR NUGH UGE ony STATE
+LOUISVILLE KY LOUISVILLE KY
+ZIP GODE TELEPHONE (include Area Godda} difGOOE TELEPHONE (inchide AresCode)
+40212 [PHONE-48] 40212 [PHONE-35]
+9, OTHER INSURED'S NAME (Lent Name, First Nama, Mideile tritlal) 10,168 PATIENT'S CONOGITION RELATED TO:
+a, GTHER INSURED'S POLICY OR GROUP NUMBER 4 EMPLOYMENT? (Currant or Previoud)
+XyNo
+b. RESERVEDFOR NUCG USE AUTO AGGIDENT? PLAGE (atate?
+YES NO KY
+8, RESERVED FOR NUCC USE ¢, OTHER ACCIDENT?
+ves nO
+11. INGURED'S POLICY GROUP Of FECA NUMBER
+a,a: GATE OF SIRT
+11952
+& sr GLAIM 10 (Gesignated by NUCO)
+i
+SEX
+sfx] et]
+i
+ec NBURANCGE PLAN NAME GH PROGRAM NAME
+1. INSURANGE PLAN NAME OR PROGRAM NAME 102, CLAIM BODES (Designedby HUGG)
+WEAD BACK OF FORM BEFORE COMPLETING & SFGNING THIG FORM,
+42, PATIENT'S OF AUTHORIZED PERSON'S SIGNATURE [authorles the reisaae of any medical orother iifortiatlon neceediny
+foproean ioci. |alsa requont payment of gevernmibnt batefts elle to neyedlt of te the party wheantapty AnEnGTAE
+in
+SIGNATURE ON FILE 06112023
+SIONED,
+“Rar OBE RPR YY LINESS. IMJURY, or PREGNANCY (LMP)
+47. NAME OF REFERRING PROVIDER GA OTHER SOURCE
+DNi MICHEAL NORMAN
+RATE
+18.OTHER BATE
+aval! 439) ue“
+| 18 core oemesye ree ToCoRR
+018THERE ANOTHGR HEALTH BENEFIT PLANT
+vee yee,completo items8, 5,and8d.
+73, INSURED’S OR AUTHORIZED PERSONS SIONATLIAR |authorize
+ag sf matical! baneite to the underalgned phyalolan orsupplier fr
+arson deacitvad bakew,
+SIGNATURE ON FILE SIGNED
+78, DATES: eae WORK IN_ Bee
+" ER
+FROM { i 1
+99, ADOITIONAL CLAIM INFORMATION (Resignsiad by NUGC} SGHARGES:
+i
+20. OUTSIDE LAB?
+[les [e}yo |
+(Explain Unusual Chroumnesarnes|
+CPURCPOS aa
+rahe
+ci
+ane
+#4. INGRVORIS ORWATORE OF NESE OA WIDAY Riel Ao serene Bale EY oo na1 | 2 RS yRMSION Soma men no
+a(S13.4xxA 91823.34KR ©.enna ol
+EL a et 4 23. PRIOR AUTHORIZATION NUMBER
+i Jf KL L
+2 A DATE(S) OF SERVICE BG] PRGEEDURES,BEAVICER OFSUPPORS
+ee a
+54
+‘31. SIGNATURE OF PHYSICIAN OR SUPPLIER
+INCLUDING GR NTALS ¥
+( cantly that the atatemopte onthereverse
+Hippy1 thih Sil ani aig Made A pad thapnol)
+ANTHONY SEARS
+06112023
+SIGNED DATE.
+NUCC Instruction Manual avaliable at: www.nucc.org
+22. SERVICE PACILITY LOCATIGN INFORMATION
+STARLITE INJURY
+4200 BISHOP LANE
+LOUISVILLE, KY 40218~4558
+tibagesoanoF TPE
+30, Revd Rernves Use!
+ge ayeee Pea hana aa3 ane AR tha US Pa Se eeCp 04062024 loed62003 111. le7iio Iso. A go:00] 1 Ne|eooeos4ee
+28. PEDEAAL TAX 1.0. NUMBER: SSN EIN 28, PATIENT'E ACCOUNT on 27.aes, LE AMENT?
+843867850 19306909A yes | NO
+83. GILLING PROWIDEA INFO 4 PH #
+STARLITE INJURY
+4200 BISHOP LANE
+LOULI eet RY 40218
+S
+3 e
+wo
+é
+a fe pei re
+i —— 
+OR 
+|
+«4
+_-—_-. PATIENT
+AND
+INSURED
+aPEROVEDSusoase7T37FORM 1500 oie}
+
+[DOB-46] 08:58AM [PHONE-45]
+HEALTH INSURANCE CLAIM FORM
+APPROVED BY NATIONAL UNIFORM CLAIM OOMMITTEE (NUCO) D2AZ,
+MEDICAID
+(Medicuia#)
+TRICARE
+ORDA)
+JOHNSON, CHARLES
+2652 ROWAN
+ISVILLE
+40212 [PHONE-38]
+42,
+fa
+SIGNATURE ON FILE
+SIGNED
+or
+DN}MICHEAL NORMAN
+STARLITE
+CorVel Scan Date: [DOB-39]
+PAGE 03
+AUTO OWNERS 4
+P.O. BOX 4298
+PORTLAND, OR 97208
+10.
+4.EMPLOYMENT? (Cutrant or Pravtoua)
+vee [t]ne
+»,AUTOAQCIDENT?
+YES
+5.OTHERACCIDENT?
+(9Ky
+uo
+TOOT
+the party who acoepte eEeignmnont
+06112023
+43 oft wv
+NPI
+Ununual
+ACGGUNT NO,
+843867850
+Qeatity thatthe eiatgmants on the ravers
+apply 15 this billand atecide& part tharsol.)
+ANTHONY SEARS
+06112023
+at www. nuec.org
+193066622
+STARLITE INJURY
+4200 BISHOP LANE
+LOUISVILLE, KY 40218-4558
+.
+PLAGE (Stele)
+ry
+ta,
+30002385272023
+JOHNSON, CHARLES
+2652 ROWAN
+LOUISVILLE KY
+40212 [PHONE-42]
+NGO Ha, end $d,
+Paynter of radical
+aatviees deactbed below, .
+SIGNATURE ON FILE
+AENOERING
+NPI
+NPI
+a8, Risvel torNUE
+8 80,0013 040
+STARLITE INJURY
+4200 BISHOP LANE
+LOUISVILLE, KY 40218
+a
+APPROVED OMB-0938-1 197 FORM 1600 (02-
+
+[DOB-41] 08:24AM [PHONE-42]
+Biel
+aes
+HEALTH INSURANCE CLAIM FORM
+APPROVED BY NATIONAL UNIFORM CLAIM COMMITTHE (WUCG} 0212
+TRICARE
+(omOeDe) {Mtedtcalet}
+JOHNSON, CHARLES
+2652 ROWAN
+LOUL
+40212 [PHONE-43]
+Name, Micdie
+12,
+toprocase thiaclaim,
+belew,
+SIGNATURE ON FILE
+SIGNED.
+CorVel Scan Date: [DOB-44]
+STARLITE PAGE 02
+AUTO OWNERS
+P.O. BOX 4298
+PORTLAND, OR 97208
+PIGA
+30002385272023
+JOHNSON, CHARLES
+2652 ROWAN
+LOUISVILLE KY
+40212 [PHONE-45]
+76.19 PATIENTS
+a, EMPLOYMENT? (Currant or Pravious}
+ves [X]vo
+b,AUTO ACCIDENT? PLAGE (Gets)
+‘eid [po ixya
+2. OTHER ACOIDENT?
+Ko
+NO dfyes, compiitetian 8,fa,andBd.
+paymart oFrea “— to the,snearsignns physiolan oFeuppitar for
+werviogs deporiaad&
+06142023
+oft
+SIGNATURE ON FILE
+YY 43
+17.| Nt
+2 (833. 5XXA
+RL at
+843867850
+32,
+(leery Sot ra siren on te meen
+ply Uothle BNEAne are made & part taro!)
+ANTHONY SEARS
+06142023
+avaliable at: wwiw,nuet.org
+6, (MenOLA.
+193070400 &
+STARLITE INJURY
+4200 BISHOP LANE
+LOUISVILLE,
+100 In
+Bt,
+i
+fi
+Utne
+3801001 s
+a3.
+STARLITE INJURY
+4200 BISHOP LANE
+KY 40218-4558 LOUISVILLE, KY 40218
+OMB-0938-1187 FORM 1500 (02-12)
+
+CorVel Scan Date: [DOB-46]
+[DOB-47] O9:244M [PHONE-48] STARLITE PAGE 62
+Plaid AUTO OWNERS
+P.O. BOX 4298 ti
+a
+HEALTH INSURANCE CLAIM FORM PORTLAND, OR 97208 Z
+APPROVED BY NATIONAL UNIFORM CLAIM QOMMITTEE (NUCH) (BAZ
+rr ypica moa PTT] +
+1, MEDICARE MEDICAID TRIGARE CHAMPYA, BBOuR, PLANcee OER fa. INSURED‘S 1.0, NUMBER (Fat Program in Harn 1)
+| |eatoccarany {|orth) (L] ponimoca [7]aenzerson [| 108) Gta iron 30002385272023
+2, PATIENTS NAME {Last Name, First Natta, Middle (ital) 4 ie ATH C} ee 4, INSUPLED'S NAME (Last Name, Fret Narhe, Mickite tithe!)
+JOHNSON, CHARLES o2tob2") fx] F[]| JOHNSON, CHARLES _—
+&.PATIENT'S ADDRESS (No, Strat) 6 PATIENT RELATIONSHIP70 INSURED 7.NSUAED’S ADDRESS (No, Street)
+2652 ROWAN aot | Spouse crf | omer | 2652 ROWAN ig BATE| §.ABSEAVED FOR NUGE USE ony ° Sate |
+LOUISVILLE KY LOUISVILLE KY
+2if GODE TELEPHONE (ingle Area Gude) iP CODE TELEPHONE (include Area Coda}
+40212 [PHONE-49] 40212 [PHONE-50]
+9. OTHER INSUREO'S NAME (Lant Neusa, First Name, Middle Initial 40.19 PATIENT'S QCINDITION ABLATED TO: 77. INSLARED'S POLICY GROUP Of FECA NUMBER
+S’GTHERINGURED'S FOLIGYORGROUPNUMBER SSC. BMPLOVMMENT? (Currant or Proviows) 4.REUREDEORE OF BIRT ox
+(lhves [Kjno bagi 952 a(x] FT]
+gd
+b. RESEAVED FOR NUCC USE b, AUTO AGGIDENT? PLAGE (Stain)| o ‘OTHER LAI 1D (Designated by NUICC)
+4
+¢, REBERVED FOR NUCO USE &, OTHER ACCIDENT?
+Ges (Jeo ux1¢. INSURANCE PLAN NAME O8 PROGRAM NAME
+[les hd 7. NEURANGE PLAN NAME OR PHOGHAM NAME. 18d, CLAIM CODES (Cnsignated ty NUCC) @. 18 THERE ANOTHER HEALTH BENEFIT PLAN?
+YES [e]x0 Ae, bomnplate ihenye 8, Ga, and Hd,
+READ BACK OF FORM BEFORE COMPLETING &SanaTHIS FORM, crnINSURED'SORAUTra PERSON'S SIGNATUAE |aithortie
+42, PATIENT'S OF AUTHORIZES PERSON'S SIGNATURE [authorian theroloansof nnymedical crother nBseseay ‘phyalelan or eupiiar for
+é rodehe thie clan. |also requEa! payment of pevverpmset barafite alther to myselt om‘e theparty wha avcepts amignment Fa Genctoe ‘ostow.
+wi DW, SIGNATURE ON FILE 06152023 SIGNATURE ON FILE
+SIGNED, BATE a, SIGNEO.
+14.aor “Bea ILLNESS, INQURY, a? PREGNANCY (LMP) 118, OTHEN DATE 18.DATES PATIENT, UNABLE.TOWORKIN CURRENT QUCUPATION
+FON | { wo it [8HOST ATION ONTER RRL ATED * ciagentsever,
+FROM i t $
+qual!
+47. NAME OF REFERRING PROVIGER OF OTHER SOURCE
+DNiMICHEAL NORMAN
+cu 439) ore
+49, ADDITIONAL CLAIM INFORMATION (Designated by MUCK) 20. OUTSIDE LAB? S CHARGES Les x]no |
+21, DIAGNOSIS OF NATURE OF ILLNESS OF INJORY Aalate Ac to service line below (245) Tot 22. HESUBMISSION
+top ina} Boon ORIGINAL REF. NO,
+aL813. AeA 2 B33.2KKR o MZ5.512. pL
+eel al al 22.PRIGR AUTHORIZATION NUMBER
+i oom oaocnipesene ore
+24. A DATE(S) OF SERYIGE Dp. Con, BERVIGES, OF SPCR 1 a
+Froth ta icapialn Unusual Cirounstancas) putioss fa w, AENOERING
+. # PRVICE Me BHARG ual PRE DER I, 2
+lente ech ue te: OSes ere GR RTA at i geiseee ar 1 a eeNPI oe
+t
+he ULE CCA
+Ne 132 60342 93
+pianGiae
+3.2.02.3.10.6.113 3 nes | [PHONE-51]
+). FEDERAL TAX 1.0, NUMBER: 28, PATIENT'S ACCOUNT NO. 28.TOTAL CHARGE Tze. AMOUNT PAID BO. Reavet far NUICC Uae
+843867850 L19307076A No 3 375300} $ 0400 '
+‘91. SIGNATURE OF PHYSICIAN OR SUPPLE 38. SERVICE FACILITY LOCATION INFORMATION 4BILUNG PROVIDER INFOAPHA ={DOZpPULlAds
+ee Mepoate munotieenes® STARLITE INJURY STARLITE INJURY P
+i tae bea eeence pat borat) 4200 BISHOP LANE 4200 BISHOP LANE
+LOUISVILLE, KY¥ 40218-4558 prtahetetchcel KY 40218
+06152023 TELE
+SIGNED ba SHB:
+fen
+OR
+— |
+PATIENT
+AND
+INSURED
+NUCC Instruction Manuel available at: www, nuce.arg PLEASE PRINTOR TYPE SEPROVEDOMB-O938-1 187 FORM 18002 Oot)
+
+[DOB-52] 09: 244M [PHONE-53]
+-
+mee
+HEALTH INSURANCE CLAIM FORM
+APPROVEO BY NATIONAL UNIFORM CLAIM COMMITTEE (NUCG) D242
+MEDICARE MEDICAID
+iiodiantit} GO#/DEDR ({Mareder 14}
+JOHNSON, CHARLES
+2652 ROWAN
+SVILLE
+40212 [PHONE-54]
+12.
+STARLITE PAGE 03
+AUTO OWNERS
+P.O. BOX 4298
+PORTLAND, OR 97208
+oA
+30002385272023
+Firay Nahe,
+JOHNSON, CHARLES
+2652 ROWAN
+LOUISVILLE KY
+40212 [PHONE-55]
+3, EMPLOYMENT? (urrant ofPeavious)
+YES
+b.AUTO ACCIDENT?
+(g]vee
+¢.OTHER ACCIDENT?
+12.PATENTS i
+ie severnment benaits
+SIGNATURE ON FILE
+SIGNED
+DATE
+43 oft
+NFL
+06152023
+[E]xo
+PLAGE (State)
+Cro inyu
+uo
+PLAN?
+NO ityee, complete enw B,Ba,and Od,
+neceesary yitient of medion! Denaiite io thewiiitonwiyned phyatoan OF supplier for
+coder deserved balow, iad mf
+SIGNATURE ON FILE
+78, DATES,
+FROM
+sa
+FROM
+OUTSIOE LAB?
+(0 tad,
+Unuauat
+843867850 193070764
+STARLITE INJURY
+4200 BISHOP LANE statements an the covarsa
+and are marie a part tharsof}
+5
+06152023
+at: www. Tce,ang
+LOUISVILLE, KY 40218-4558
+ORIGINAL AEF. NO.
+DeLisceamnnunnnne
+HL
+AENOE RAINES
+8 BO0100)}s
+BILLING aPHe
+STARLITE INJURY
+4200 BISHOP LANE
+LOUISVILLE, KY 40218
+&,
+
+[DOB-56] 09:24AM [PHONE-57]
+etc
+ee
+HEALTH INSURANCE CLAIM FORM
+APPROVED BY NATIONAL UNIFORM CLAIM GOMMITTRE INUCG) 02/12
+4, MEDICARE
+(Macdioatde) GoHTIORAS
+JOHNSON, CHARLES
+5
+2652 ROWAN
+[PHONE-58]
+12, PATIENT'S OR ‘
+44 prétaee thin clei. | alge request paymentofgovernment
+SIGNATURE ON FILE
+BIGNED
+MICHEAL NO ‘7b.
+2 1833.5
+FL
+a.
+al
+To
+843867850
+8. EMPLOYMENT? (Corrent or Previous)
+eS
+b, AUTO ADOIGENT?
+{elves
+&. GTHER ACCIDENT?
+hd, CLAIM.
+or
+06152023
+430 oft
+NPI
+CorVel Scan Date: [DOB-59]
+STARLITE PAGE 05
+AUTO OWNERS
+P.O, BOX 4298
+PORTLAND, OR 97208
+PICA
+30002385272023
+JOHNSON, CHARLES
+2652 ROWAN
+LOUISVILLE KY
+40212 [PHONE-60]
+«INSURES DATE GF
+[x]no 4 Tt 2
+PLAGE (State)
+NO LRY.
+RO
+H yes, complete heme %, Od, and Od,
+ABCORGATY paytientofmadical benpiits to the unearsigned physician or muppihar tor
+services descibed below, : ”
+SIGNATURE ON FILE
+vy
+tO
+DATESFIPLATED
+©
+(fa tod
+o MZ5.512.
+19307078A
+, ORIGINAL, REF, NO.
+feb
+i
+tL
+E.
+94293 5
+30, Rav for NUCG
+375100) 8
+(entity that the statements on the raversa
+Apply te this. bill and axemade apart thereat)
+ANTHONY SEARS
+06152023
+STARLITE INJURY
+4200 BISHOP LANE
+LOUISVILLE, KY 40218-4558
+WN OGOrg
+STARLITE INJURY
+4200 BISHOP LANE
+LOUISVILLE, KY 40218
+OME-0838-1
+
+[DOB-61] 09:244M [PHONE-62] STARLITE PAGE 06
+Mia AUTO OWNERS +
+a P.O. BOX 4298
+HEALTH INSURANCE CLAIM FORM PORTLAND, OR 97208
+APPROVED iY NATIONAL UNIFORM CLAIM COMMITTEE (NUGG) 12/12,
+AIA
+MEDICAID
+Otadkeaide) (dee) 30002385272023
+First Name,
+JOHNSON, CHARLES JOHNSON, CHARLES
+45. ‘Sieet)
+2652 ROWAN 2652 ROWAN
+ISVILLE LOUISVILLE KY
+40212 [PHONE-63] 40212 723731
+aie mi.
+hy EMPLOYMENT? ¢Carrant ar Previous)
+{_]ves [X]xo
+&,AUTO AQCIQENTP PLACE {Bimta}
+pelves C8 xy
+OTHER ACOIDENT?
+no
+NO FPypee, coryptate itera 8, tia, ened Bd,
+12, PATENTS OR ay nEceaay payment ofmadioa} bart tethe undengnod phyaiclar ar far for
+fo proven this ciate. ers doeppie anignmant wervicas desorbed belay. : ae
+palaw.
+=p LCNATURE ON FILE bere 06152023 SIGNATURE ON FILE
+439} oF w
+1th,|NPL
+SIGNI
+100 tnd, ORIGINAL HEF, HO,
+Ge aE Cs
+al HL
+Usutual
+OR
+3B,FEDERAL TAK 0. NUMBER =, ,
+843867850 19307078A 5 80100j}s
+aPHe
+( eartty thet theslatomenta on ihe ravers STARLITE INJURY STARLITE INJURY
+apply to this bliand aremade apart thermal) 4200 BISHOP LANE 4200 BISHOP LANE
+ANTHONY SEARS06152023 LOUISVILLE, K¥ 40218-4558 ee KY 40218
+a
+ak ww, nude,Orgy
+
+CorVel Scan Date: [DOB-64]
+06-238-" 23 13:05 FROM- J-Town Library 5N226B8569 T-817 PO002/0009 F-138
+zee AUTO OWNERS +
+ee P.O. BOX 4298
+HEALTH INSURANCE CLAIM FORM PORTLAND, OR 97208
+APPROVED BY NATIONAL UNIFORM CLAIM COMMITTEE (NUCO} 242
+PICA
+t TRIGARE
+iMarlieniey} HERE ODY) 30002385272023
+JOHNSON, CHARLES JOHNSON, CHARLES
+2652 ROWAN 2652 ROWAN
+LOUISVILLE LOUISVILLE KY
+40212 [PHONE-65] 40212 [PHONE-66]
+8, EMPLOYMENT? iCutrant or Prayinuy)
+ves [X]xo
+b.AUTO ACCIDENT? PLAGE feta)
+fe}ves (C] ayy
+¢,OTHERACCIDENT?
+No
+NG comptaty Teme 8, a, andBd.
+12. PATIENT'S OR ngceasary payment of medioat faneite to
+fo protiss this lait, 1aldo requodt origthe abelgrenent satvites deactbad baiow,
+balew.
+sianeD SIGNATURE ON FILE 06222023 SIGNATURE ON FILE
+44, DATEOF CURAENT ILLNESS, or 18.
+BY BE QUAL 43 od w FROM to
+DN! MICHEAL NORMAN NPI FROM TO
+8 CLAIM INFORMATION {Oastgnated by NUGE) #0. OUTSIDE LABY $CHARGES
+$00 Ind, t ORIGINAL REF. NQ.
+A LS13. AXXA 6,1933. 53%A . 9 1923.3
+EL F,1 i HeLa ae
+E.
+RENDERING
+Lo. E 26. ,. "
+843867850 19307363A 5 375100}
+a. a
+STARLITE INJURY STARLITE INJURY
+sow tue thang oremada panhorsot) 4200 BISHOP LANE 4200 BISHOP LANE
+ANTHONY SEARS LOUISVILLE, KY 40218-4558 LOUISVILLE, KY 40218
+06222023 be -
+www, hucc.ong
+
+06-23 23 13:07 FROMLem
+nee
+J-Town Library [PHONE-67]
+AUTO OWNERS
+P.O, BOX 4298
+CorVel Scan Date: [DOB-68]
+T-817 POO05/0009 F-138
+HEALTH INSURANCE CLAIM FORM PORTLAND, OR 97208
+APPROVED BY NATIONAL UNIFORM CLAIM COMMITTEE (NUCG) D2/12,
+price aca TU
+{MEDICARE MEDICAID TRICARE eat PLAN Bctina OBA] 1a. INSURED’S 1.0, NUMBER (For Prognam in Itas 1)
+[__JéMeckoanan) ["] dfodtontin) [| ddattoba) Cleeponer ya [ion ay | 30002385272023
+2. PATIENTS NAME (Last Name, Firat Name, Middl thitial) 3 dHol noe & Sax 4, INSURED'S NAME {Last Nem, Firat Name, Middle inital)
+JOHNSON, CHARLES F ["] JOHNSON, CHARLES _
+§. PARENT'SAQDABSS {No.,Sire!) & PATIENT |RELATIONSHIP LeTO 7. INSURED'S ADDRESS iNo., Street)
+2652 ROWAN Sol] Seoure[ Jorn} ome] | 2652 ROWAN
+ony STATE| &.RESERVED FOR NUGE USE ary STATE
+LOUISVILLE KY LOUISVILLE KY
+BP CODE TELEPHONE itnciude Area Gode} ZIP CODE TELEPHONE (include Araa Gode)
+40212 [PHONE-69] 40212 [PHONE-70]
+$. OTHER INSURED'S NAME (Laat Name, First Nai, Middle Initial) 10. 15 PATIENT'S CONDITION RELATEG TO:
+4, OTHER INSURED'S POLICY OF GROUP NUMBER a, EMPLOYMENT? (Currant or Previous)
+VES No
+®. RESERVED FOR NUGG UBE b, AUTO ACCIDENT? PLAGE (Stata)
+YES NOUKY|
+0, RESERVED FOR NUCC USE 2, OTHERACCIDENT?
+ves [yr }no
+11. INSURED'S POLICY GROUP OR FECA NUMBER
+w INSUREDS DATE OF BIRTH
+bagitd52
+be OTHER GULAIM 1D (Daxignatad by NUGG)
+t
+{
+¢, INSURANCE PLAN NAME Of PAOGAAM NAME
+@,INSURANGE PLAN NAME OR PROGRAM NAME 104, CLAIM CODES (Designated byNUGQ)
+READ BACK OF FORM BEFORE COMPLETING & SIGNING THIS FORM,
+12. PATIENT'S OR AUTHORIZED PERSON'S SIGNATURE |mutharizs ihe inloese of nnytadicw! or athor information aucaasary
+to procean this olalny. | alan request payniant of government benefils either te mysel! o7to the party who acoupty acsignmont
+SIGNATURE ON FILE ve 06222023
+JURY, ofPREGNANCY (LMP)
+SIGNED.
+1BATESe ILLNESS, |
+ouaLd
+17, NAME OF REFERRING PROVIDER OR OTHER SOURCE
+DN |MICHEAL NORMAN
+18, OTHER DATE
+Qual) 439) oftda. 3
+i 16, rey DATESARELATED TOCoP HT,
+WIS THERE ANOTHER REALTH BENEFIT PLAN?
+["]ves NO IFyes, compiota ftema 8,Ba,ars Od
+48, INSURED'S OR eabn PERSON'S SIGNATURE 4gurney fo
+it of radical banesite to the undoraiga physitlanof suppilarfor five debbed
+SIGNATURE ON FILE
+SIGNED __
+18, rowA BENEWWWORK INoe were
+1D. PROCEDURES, SERVIGES, DF cuss
+(Explain Ususvas Circumstances)
+EMG| OPTHCPOS MODIFIER
+rt
+2&2.
+v=
+48. ADDITIONAL CLAIM INFORMATION {Osa'gnated by NUCS) 80, GUTSIDE TAS? ¥GHARGES
+[]ee [K}no | |
+1 Ci T T 31, DIAGNOSIS OR NATURE OF ILLNESS OF INJURY FielateA-L to aarvica fine balow (t4E} ICD Ind. } fa) ' Be.BESUBMISEION ORIGINAL REF. NO.
+ALSLS.4XXA = S33. 5KXA gL pL macmemana eE 23, PRICR AUTHORIZATION NUMBER: EL : el GL i Po
+§ fn ———
+iain ‘isla
+i i
+25, FEDERAL TAK 1.0, NUMBER SSN EIN
+843867850 OE)
+28, PATIENT'S AGGOUNT NO.
+19307364A
+NGNMENT?
+NO
+7, aS
+YES
+0, Revd for NUCO Use’
+$ 100 |
+32. SERVICE FACILITY LOCATION INFORMATION
+STARLITE INJURY
+4200 BISHOP LANE
+LOUISVILLE,
+1.SIGNATURE OF PHYSICIAN OH SUPPLIER:
+INCLUDING DEGREES OF CREDENTIALS
+{Icertily that tho stalemanis sq thy revarte
+apply tothis bit andare made a part thereat)
+ANTHONY SEARS
+06222023
+SIGNED pare
+NUGC Insiruction Manual available at: www.nuce.org
+KY 40218-4558
+PLEASE PRINT OR TYPE
+GBWLNGPROMDEAWFORPHA ( SUZHOTTZAS
+STARLITE INJURY
+4200 BISHOP LANE
+LOUISVILLE, KY 40218
+|
+OR
+SUPPLIER
+——— 
+PATIENT
+AND
+INSGRED
+=
+|-<—
+CABRIEEH
+—>
+APPROVED OMB-0938-1 197 FORM 1500 (02-12)
+
+06-23 23 13:05 FROM- J-Town Library [PHONE-71]
+HEALTH INSURANCE CLAIM FORM
+AUTO OWNERS
+P.O. BOX 4298
+CorVel Scan Date: [DOB-72]
+T-817 POO03/0009 F-138
+PORTLAND, OR 97208
+APPROVED 8Y NATIONAL UNIFORM OLAIM COMMITTEE (NUGG) D212
+FIGA PICA, C7 Tl]
+i, MEDICARE MEDICAID TRIGARE CHAMPYA GROUP LAN OTHER} 1a. INSURED'S 1.0. NUMBER (Fat Preagetss tt Neen 9}
+[__[emoccroe) []Mactounay [|pdeootyy — [~) aienternom[|oa? oo “Ele 30002385272023 |PATIENT'S 2. NAME (Lust Name, Firat Nama, Sigal ional) 3.PGhartop2WF 4. INSUREDS NAME (Lagi Mame, First Nene, Miiell@ lente)?
+JOHNSON, CHARLES r[] | JOHNSON, CHARLES
+§, PATIENT'S ADDRESS (No, Stree!) &.gent RELATIONSHIP MOTO ct 7, INSURED’S ADDRESS (Né., Bteeut)
+2652 ROWAN sof| Spous0[”|cndf”"} ow]| 2652 ROWAN
+GIy STATE | 6. RESERVED FOR NUGD U8E ory STATE
+LOUISVILLE KY LOUISVILLE KY
+ZIP CODE TELEPHONE (neha Arsa Gods) Zip SODE TELEPHONE (include Area Goda}
+40212 [PHONE-73] 40212 [PHONE-74]
+8, CYHE# INSURED'S NAME (Last Name, Firat Nama, Middle fnitlal) 16.18 PATIENT'S GONDITION AELATED TO:
+a, OTHER INSURED'S POLIGY OR GROUP NUMBER 8, EMPLOYMENT? (Currant or Pepyious)
+ves [X]uo
+b,RESERVED FORNUOGDBE b.AUTOAGGIDENT?PLACE (Stute)
+Yes ©KY
+71. INGYRED'S POLICY GROUP OR FECA NUMBER
+a INSURED'S DATE OF BIATH SEX OD; yY¥ g11952
+& OTHER CLAIM To (Bosignated by NUCG)
+wx} FEI
+©. OTHER ACCIDENT?
+[]ves fx)No
+6, RESERVED FOR NUCE USE
+\
+t.INSURANCE PLAN NAME OF PROGRAM NAME
+@,INSURANCE PLAN NAME OR PROGRAM NAME 10d, CLAIM GODES {Qealgnatad by NUCK)
+READ BACK OF FORM BEFORE COMPLETING & SIGNING THIS FORM,
+12, PATIENT'S OF AUTHORIZED PERSON'S SIGNATURE |authonza the release of any medica) or alher information nacagsary
+fo prompeg thio clelit, }aise mhquedt payment of government benalits either to mysuil or tothe party whe accepts assignment
+below.
+SIGNATURE ON FILE 06222023
+SIGNED wasn an 7 Ba
+14,a i ILLNESS,wens OF PREGNANCY ILMP) | 15. OTHER DATE
+ua 4391 ottgatfas
+17, NAME OF REFERRING PROVIDER OR OTHER SOURCE Ea
+{OM
+18.WOBPITAL ZATION oaTeR ABLATED TO eet Ba
+@.15 THEREANOTHER HEALTH BENEFIT PLAN?
+{_}ves HFyes, complete ttayny 8, Ou, and Be.
+13, INSUREC’S OR AUTHORIZED PERSON'S SIGNATURE |authorize
+Payment of modicel beneiie to tha uartersigned phyaltian ar suppiar for
+warvines describedbelow,
+SIGNATURE ON FILE
+SIGNEO__
+18,DATES. BRP SBS WORKIN nT ey
+FROM
+124. A.
+tL
+1
+DN! MICHEAL NORMAN FROM ! i Ta i '
+48, ADDITIONAL CLAIM INFORMATION {Designated by NUGO) 2%, OUTSIDE LAB? § GHARGES
+[Jes [vo| |
+By,DIAGNOSIS OR NATURE OF IUNESS OF INIUAY Folate AcLiozarvice lina bolow (AE) ion pp oy 22, BRSYBUISEION OnUIWAl REE No,
+a. L813,4XXA 61533. 5XxXA 6. (823.3XXA pl re
+get FL el Hi 03. PRIGR AUTHORIZATION NUMBER
+name
+fe|
+DATIENT
+AND
+INSURED
+|~<--
+CARRIER
+—>-
+K. 7
+1B.PROCEOURES, SERVICES, OR BUPPLIES
+(Expiain Unusua Ciroumatanies)
+CPTHCPCS MODIFIER
+DATE(S} OF SERVICE EB
+Fresive To PIAGNOSIS
+POINTER
+Oo
+£
+©
+My
+=
+wv,
+RENDERING
+ye ROVIDER AO. #
+t 28, PATIENTS ACCOUNT NO, * aa
+$19307363A yes No
+| melee rol
+25, FEDERAL TAX £0, NUMBER SSN RIN
+843867850 x]
+28, AMOUNT PAID 80. Revd for NUCG Use!
+000
+= 28. TOTAL CHARGE
+8 80 490 9
+St, SIGNATVHE OF PHYSIOIAN OF SUPPLIER
+INCLUDING DEGREES OR CREDENTIALS 5
+{lourtily thet the slaleinanty on the rovdhte
+apply fothis bill and are made apartheracf)
+ANTHONY SEARS
+06222023
+32, GEAVIGE FACILITY LOCATION INFORMATION
+STARLITE INJURY
+4200 BISHOP LANE
+89. BILLING PROVIDER INFO 4 PH # {202p0ll24do
+STARLITE INJURY
+4200 BISHOP LANE
+LOUISVILLE, KY 40218-4553 LOUISVILLE, RY 40218
+3 :
+SIGNED pate
+NUCC instruction Manuat available at: www.nucc.org PLEASE PRINT OR TYPE
+|<
+PHYSICIAN
+OR
+SUPPLIER
+APPROVED OMB-0938+4 197 FORM 1560 (02-
+
+06-23 23 13:07 FROMseagate
+an
+J-Town Library [PHONE-75]
+AUTO OWNERS
+CorVel Scan Date: 06/23/2
+T-817 P0006/0009 F-138
+023
+P.O, BOX 4298
+HEALTH INSURANCE CLAIM FORM PORTLAND, OR 97208
+APPROVED BY NATIONAL UNIFORM CLAIM COMMITTEE (NUGO) 02/12
+PICA PIGA
+1 MEDICARE=MEDICAID TRICARE “CHANPVA UP, ‘GTHER | ta. INSURED'S 10. NUMBER (Far Programin tam 1}
+imveicaress [|Modicsiday ("| dowmoon | | wemberions| | 1ee mas Bet “Eewy } 30002385272023
+2. PATIENT'S NAME (Last Namo, Firet Nama, Middle Initial) 3, PATENT BIRTH Bay [ 4,INGUREO'SNAME {Last Nema,FiptName, Midde indy
+JOHNSON, CHARLES dost “ e[_] | JOHNSON, CHARLES
+§,PATENTS ADDAEGS (No,, Street} ©PATIENT RELATIONSHIP TO INSURED Y-INSUREOS ADDHEGE (No, Steal)
+2652 ROWAN ¥poveef orf] one{| | 2652 ROWAN
+ony BTATE| 6.RESERVED FOS NUGG USE ony STATE
+LOUISVILLE RY LOUISVILLE KY
+ZiP GOOE TELEPHONG (Include Aroa Code} ZIP CODE TELEPHONE (tnelude Aroa Goda)
+40212 [PHONE-76] 40212 [PHONE-77]
+9. OTHER INSURED'S NAME (Lant Name, First Nanie, Middle Inifial) ‘|19,1S PATIENT'SCONDINION RELATED 1D. | 11.INSURED'S POLICY GHOUP OF FECA NUMBER
+a, OTRER|NSURED'S POLICY OR GROUP NUMBER 4, EMPLOYMENT? (Carrant or Previous) a. INSURED'S OATE OF BIT
+ves [K]no 64g11952 “ F
+b,RESERVED FOR NUGO USE b-AUTO AGCISENT? PLAGE (State) {5OTHER UAToDasgnaind byNUCG)
+YES ] NOURY|
+%RESERVED FOR NUOGUSE &.OTHER ACCIDENT? c. INSURANGE PLAN NAME OR PROGRAM NAME
+[vee ]vo
+[a INGURANDE PLAN NAME OR PROGRAM NAME 4d, CLAIM CODES (Opaignated by NUGC} 4.15 THERE ANGTHEA HEALTH BENEFIT PLAN?
+[]ves [xx syne, completa tame 9,au, ane 9a,
+READ BACK OF FORM BEFORE COMPLETING &SIGNING THIS FORM. 43. INSURED’S CAAUTHORIZED PERSON'S SIGNATURE |authorize
+18. PATIENT'S OR AUTHORIZED PEASON'S SIGNATURE {authorize the :elease of any raadion! or nlher Information nscausary
+fo procogs this clair, |alsa niguest payment of gevernmont bonalits either to mysoil or #9 the parly who aocopis ascignment
+batow,
+SIGNATURE ON FILE 06222023
+SIGNED.
+14. BATEOF CURRENTILLNESS, INJURY, OrPREGNANCY (LMP) | 18, OTHER DATE
+= Bs 4 aul! UAL} 4391 oftdahas w
+yest ofmedical beneiie to tha unttersigned physician ofsuppitar for
+Sontcoscutedbelow, ‘
+SIGNATURE ON FILE
+SIGNED.
+38. crow SY ONY WORK INso ey
+17.TE OFFEFERAING PROVIDER OF OTHERSOURCE [le 5. or area RELATEO 5 THN,
+| pn}MICHEAL NORMAN NPI FROM 1 Oo
+49. ADDITIONAL CLAIM INFORMATION (Ousignated by NUGC) 20, OUTSIDE LAB? § CHARGES
+L]vss Evo | |
+21, DIAGNOSIS OR NATURE GF ILLNESS OR INJURY Relate AL to service tine BOWIE) ony ag 1 | 2,RESUSMISSION ORIEINAL HEF. No
+‘ ‘
+\ i
+atSL3. 4XKA 9 M25.512 0°1833.5XXA p.1823,3XKAl nan 2. 1M25.561 5 M25.562 al 4 28, PRIGR AUTHORIZATION NUMBER
+serene
+nnnnnn
+nnnnlon
+|
+BATIENT
+AND
+INSURED
+|<~
+J eenresemimireranine
+D. PROCEDURES, SERVICES, OF SUPPLIES
+{Explain Unusual Tireumstanees)
+PTRCH
+Mtinso3) ida
+| 97139
+25.FEDERAL TAX 1D,NUMBER [26 PATIENT'S AGGOUNT NO. 127. ACCENT ABSIGHNENT?
+843867850 {19307364A eRe No
+S5N EIN
+326094293
+0, Ravi for NUICC tae
+75.3
+28. JOTAL CHARGE 29. AMGUNT PAID
+s 565100 0$00
+32. SERVICE FACILITY LOGATION INFORMATION
+STARLITE INJURY
+4200 BISHOP LANE
+LOUTSVILLE, KY 40218-4558
+Tr
+91, SIGNATURE OF SMYSICIAN OR SUPPLIER
+INCLUDING DEGREES OR CREDENTIALS:
+Weartily thattha statements on te raverse
+apply ta hiv bi and ary rade a part handel.)
+ANTHONY SEARS
+06222023
+SIGNED bate
+NUCC Instruction Manual available at www.nucc.org PLEASE PRINT DR TYPE
+93, BILLING PROVIDER INFOa PH [ SUZ OTT245
+STARLITE INJURY
+4200 BISHOP LANE
+LOUISVILLE, KY 40218
+|<
+PHYSICIAN
+OR
+SUPPLIER
+APPROVED OMB-0838-
+
+[ES] AUTO OWNERS (LOU KY)
+\ PO BOX 910728 fl LEXINGTON, KY 40591-0728
+HEALTH INSURANCE CLAIM FORM
+APPROVED BY NATIONAL UNIFORM CLAIM COMMITTEE ({NUCC) 02/12
+200-0A3¥Soe?
+TT PIA
+7. MEDICARE MEDICAID TRICARE CHAMPVA GROUP ay eeAwe, ove
+| (Medicare #)CL] (Medicaid #) C](108/D0D#) LC](Member ID#) C](ID#) [_ Jens im (1D#
+2. PATIENT'S NAME (Last Name, First Name, Middle Initial) 3. PATIENT'S BIRTH DATE
+MM oD YY
+SEX
+JOHNSON CHARLES _ | ‘01014952 19) _“e] FC] 5,PATIENT'S ADDRESS (No., Street) 8.PATIENT RELATIONSHIP TO (NSURED
+| 2652 ROWAN ST Self: spouse[| cnia[_] orrer{_]
+cITy STATE| 8 RESERVED FOR NUCC USE
+0
+Zi CODE TELEPHONE (Include Area Code)
+40212
+—>
+2652.ROWAN'ST-————
+city 2
+STATE
+lisville. [Zip TELEPHONE (Include Area Code!
+SECOND
+FOLD
+‘9.OTHER INSUREO'S NAME (Last Name. First Name, Middle Initial)
+a, OTHER INSURED’S POLICY OR GROUP NUMBER
+b, RESERVED FOR NUCC USE
+c. RESERVED FOR NUCC USE
+. AUTO ACCIDENT?
+40. 1SPATIENT'S CONDITIONRELATED TO:
+a. EMPLOYMENT? (Current or Previous)
+{_]ves Ilo
+PLACE (State)
+ves [_]no Ley!
+c.OTHER ACCIDENT?
+L]ves 'p |no
+d. INSURANCE PLAN NAME OR PROGRAM NAME
+SIGNED __Si reonFile
+300, CLAIM CODES (Designated by Ni
+READ BACK OF FORM BEFORE COMPLETING & SIGNING THIS FORM.
+12. PATIENT'S OR AUTHORIZED PERSON'S SIGNATURE| authorize tne release of any medical or other information Recessary
+to process this claim. |also request payment of government benelils either to mysell or to the party who accepts assignment
+vat04 18.2023
+|_40212 L _/
+17. INSURED'S POLICY GROUP OR FECA NUMGER
+a INSURED'S DATE OF BIRTH SEX
+MM 1 OD YY
+b. OTHER"04 M121Aaa by NUCC)
+'
+rc. INSURANCE PLAN NAME OR PROGRAM NAME
+d. IS THERE ANOTHER HEALTH BENEFIT PLAN?
+| ves [| Lo It yes, complete items 9,9 and 9d.
+13, INSURED'S OR AUTHORIZED PERSON'S SIGNATURE| authorize”
+payment of medicat benefits to the undersigned physician or supplier for
+services described below.
+AND
+SIGNEO Signature.on File—____
+14, pare of RAEN ILLNESS, INIURY, or PREGNANCY (LMP) |" OTHER DATE 16.DATES PATIENT UNABLE TO WORK INCURRENT OCCUPATION po) YY MM, 0} vw
+DATE
+NUCC Instruction Manual available at: www.nucc.org
+WCMS-1500CS-12
+. [PHONE-78] |
+PLEASE PRINT OR TYPE AP’ IB 0938-1197 RM 1500 (02-12)
+2
+g
+2
+y
+wt
+: QUAL. 1 MY FROM I To '
+> ‘0A: 18. ‘23 qua! 494 | 439) 04 18' 23 : ' a. ‘__
+47,NAME OF REFERRING PROVIDER OR OTHER SOURCE 17a, | 18. HOSPITALIZATION DATES RELATED TO CURRENT SERVICES
+2 ' Pema ale reea MM) 0D YY MM, OD, YY
+& i FROM} To 1 '
+2 TS AgRTIONAL CLAIM INFORMATION (Designated by NUCC) oO ~~ |20. OUTSIDE LAB? ~$cHARGES \
+2 [ves NO
+4] 221. DIAGNOSIS OR NATURE OF ILLNESS OR INJURY. Relate A-L to service line below (24E) ICD ind;oogt |22. REguBMIss iON ORIGINAL REF. _ NO.
+a.L_RO79 5. LM79609__ c. DI . _
+£1 E, 6. wh 23. PRIOR AUTHOR UMBER l
+“Lh _ J. a KL L! 40212
+24. A. _ DATE(S) OF SERVICE B. | ©| D. PROCEDURES, SERVICES, OR SUPPLIES |] mete G@ ]R . J z
+Tom To PLACE OF {Explain Unusual Circumstances) DIAGNOSIS cays |essor_ ID. RENDERING 9
+MM DD yy mM__po__yv_[senvice| EMG | CpTmcPcs 1 MODIFIER ._POINTER $CHARGES uNits_|’Aa?| QUAL. PROVIDER ID. # |e
+1 1 1 1 ) ' : ro, | 2Z|______3416L0300X! ==
+04'18'23 | 04 18 23 aly | A0429 SH! ' ' | AB 610'00 | 1 | NPI [PHONE-79] | 2
+z
+2 1 ' ' ' ' t \ ZZi -3416L0300X pa 041823 | 04 18'23 | 4iiy | aogs [sH' ' | [LaB 3640! 3. | | NL. [PHONE-80]. &
+| lq 3 1 ' \ ' ’ a-----+~---- ++- ee) &
+” \ {oo | | 4 Po ao | : | NPI 5
+4 1 ' ' ‘ , 1 1 Yr Jap t 1 ' ' ' 1 i : NPI 5 | | | | | Lo _ | z
+5 , 1 \ ' ‘ ' 1 p--_|--_-__ 3
+a | poo . . PL 3
+Es Bo Po 14 [Macatee =
+25, FEDERAL TAX 1.0. NUMBER SN EIN 26. PATIENT'S ACCOUNT NO, 27. ACOEFTASSIGNMENT? *28, TOTAL GRARGE 128. AMOUNT PAID 30. Revd for NUCC use |
+i
+\
+3200491 C] ___EMS23-00920480;1 xlves_ [_]xo_[s 646 4¢ 0100|
+37.SIGNATURE QFPHYSICIAN OR SUPPLIER 32, SERVICE FACILITY LOCATION INFORMATION 33. BILLING PROVIDER i BPH C
+INCLUDING 6EGREES OR CREDENTIALS ‘AtScene Jewish Hospital [PHONE-81]
+(i certify that laments on the raverse Louisville Metro EMS
+apply to thi famade a part thereot.) 'W MAIN ST/N 22ND ST 611 West Jefferson Street
+. Louisville, KY 200 Abraham FlexnerWay
+Louisville Metro EMS 40212 Louisville, KY 40202 Louisville, KY 40202-2714
+sicneo 6/12/2024 {@ b 2

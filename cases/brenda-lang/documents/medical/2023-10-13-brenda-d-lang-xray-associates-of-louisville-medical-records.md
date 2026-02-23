@@ -1,0 +1,346 @@
+---
+case_slug: brenda-lang
+created_at: 2026-02-16 22:09:51.032000+00:00
+document_category: medical
+document_date: 2023-10-13
+document_type: medical
+entities:
+- Lewrance Mason
+- Timothy Heweomer
+extraction_method: native_text
+legacy_case_id: 2021-09-03-MVA-001
+mime_type: application/pdf
+page_count: 1
+quality_score: 100
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda-Lang-MVA-09-03-2021/Medical/2023-10-13-Brenda-D-Lang-XRAY-ASSOCIATES-OF-LOUISVILLE-medical-records.pdf
+source_hash: sha256:06947679d1ab933653eae0061a40139cc4275205d845030b83143e38c1ed9019
+---
+
+[DOB-1] 14:15 5@28949544 XRAY ASSOC OFLOU PAGE@1/12
+ASSOCIATES
+OF LOUISVILLE
+Y-RAYSSOCIATES OFLOUISVILLE
+702 EXECUTIVE PARK, P.0,BOX7159
+P:[PHONE-2] |F:[PHONE-31]
+To: na. kithle FROM:__ SHANNON MAHAFFEY
+FAKHt: $83 #OFPAGES:
+PHONE #: pare: 1613 202
+RE: LAN cc: The Whaley 10. fice
+URGENT FORREVIEW PLEASE REPLY HIPPAA wheRECORDS
+COMMENTS:
+
+[DOB-30] 14:15 [PHONE-5]
+SEES
+OF LOUISVILLE
+X-RAY ASSOCIATES OF LOUISVILLE
+702 EXECUTIVE PARK, P.0. BOX 7159
+P: [PHONE-6] |F:[PHONE-27]
+TO: THE WHALEY LAW FIRM
+*MAKE CHECKS PAYABLE TO: X-RAY
+ASSOCIATES OF LOUISVILLE
+PO BOX 7159
+LOUISVILLE, KY. 40257-0159
+ATTN: MARY
+DESCRIPTION
+BRENI LANG ACCTH2747334
+“BRENDA LANGACCT#N750(60
+“CLIENT HASALREADYRECEIVE
+“COPY TWICE BEFORE.
+XRAY ASSOC OFLOU PAGE
+INVOICE
+DATE: OCTOBER 13TH, 2023
+FOR:
+MEDICAL RECORDS
+#OF PAGES RATE
+2 $1.00 PER PAGE
+2 $1.00 PER PAGE
+AMOUNT
+HAS ALREADY RECEIVED THEIR FREE
+/12
+
+[DOB-26] [PHONE-9] XRAY ASSOC OFLOU PAGE
+[PHONE-24]
+13-Oct-2023 18:44 [PHONE-11]
+Aaron &.Whaley. E29
+712Lynden Lane
+Lowiovile, RY40222
+Pi (502)582e4022
+2)384-9265
+October 13,2023
+KrayAtcociates ofLouisville
+P.O. Box7159
+iil
+Vie Pass [PHONE-22]
+RE OurClienz «Brenda Lang.
+DateofBieth: — opsou/test
+Laseofsen: 4044-1708
+Dae oflos: 0/03/2021
+‘Dates Requested: ce/oenzn shen101131203
+CERTIFIED-RECORDS FROM ANY AND ALL LOCATIONS AND/OR DEPARTMENTS
+Deas Records Clerk,
+lense beadvised that this ofice hasheencenained rovepcesent sheabovereferenced Cliemregarding injuries sustained 2
+erof represe three(2)
+business daysanddirecta frecorcespondenceto ourficetn hamer
+tnaccordance withKentuciy Revised Statute 422.917, plesse providetous inaeween statersent, anyandallmedicel records
+and “Anyandallofficenotes, medicalhistory, physials, consuskation noes, discharge summaries ord
+progress notes.
+“Anyand al cadiciogy.pathoiogy,toricelogy, oncology aranyether laboratory records andress
+3.Anyendallnurse's ows, shysician none,emecgency records, operative reportssummatias, in-patientnates
+4. Anyandal!fims ofx-tays, Mla,CTs, orPETseansand theirasuociaed orders andreports
+5. Anyand allphacmacy orders, prescriptions unddspensinglogs
+6 idall healthinsurance inforreation oxpolicies ofmedical coverage
+‘Anyandallling andpeyment records foreach dateofservice.
+“AIP: Please forward
+anyupdated thirty(30) dayewithovt further requess. records toceroffice
+email t SoepacihallanGimcom,
+Lou Lat
+Set tale
+Lisigation Pacalegl
+12
+
+[DOB-13] 14:15 [PHONE-14] XRAY ASSOC OFLOU PAGE 84/12
+13-oct-2023 18:45 [PHONE-15] [PHONE-18] 2
+AeronWhey Big
+anvil,Kv0222
+Phe[PHONE-17]
+Fax: [PHONE-18],
+HIPAA COMPLIANT MEDICAL AUTHORIZATION
+‘Authorization toRelease Protetrd Health Cavetofermation)
+‘To:X-Ray Associgtas otcui
+ae boise sole6 0287
+ese Medical Records Clee
+Ihaveretained The Whaley LaveFiem, PSCtorepresent mei matters rlated toaninjurysustained dueto«shird parties’ negligence, Please
+Foneard acopyofany &all ceeatde notpreviously provided toThe Whaley LawFirm upon request
+uu th ahasurance Posty & Accounaiy At(HIPAA) Privacy agains 68CFR
+TheWhaley Lew
+09,theprovider listedaboveis
+‘Notes, History, Physical , Not 08"
+‘Records, Operative Reports,in-PatientRecords and filmsof X-Rays. vnc 1PETScans, Pharmacy andDrugRecords, Medics! Bills
+andHealth "
+‘i
+faciley,2 wellas ALL
+hereby authorize thereeate ofANY &ALLsecards regardicg enental health, psyehistric
+:equested under ceparate authorization), Chemical Dependencyor EV
+coches thanpaychotnerspy ates, whichmut: be
+‘Aphosoauatie copyhereof shallbe25valid astheotiginl
+t SREECOPYeal ag222.217 be have 4
+copy.
+purpose of to cbiein ALL medical informesi y physical andmeneal
+condiion(s). Thi f thesignature datebasnotpassed, as
+thiematter ison-going. ‘haleyLaw Fltme, PSC, tospe ®
+deposition andior ial asmaybetequested
+1 it signed, weiter tothe healthcare pe
+andsoTheWhaley LawFiem, PSC. revoke. *
+thet inividal mayno evokea uhorason tohextentthat shecove ety ha akanatin nein thee, Medical Providers
+listed on, Theinformation disclosed
+ogiti1952
+‘Client Signature Dateof
+Brenda Lang [SSN-19] Date;_05/1 9/2023
+jantName(Print) Socia, Security
+Doe1D’ 2b6Beeb25200%67001 TaSOScIo2dSes2eCB4"
+
+[DOB-20] 14:15 [PHONE-21] XRAY ASSOC OFLOU PAGE 95/12
+13-Oct-2023 18:45 [PHONE-22] 415022373207 3
+369.107 Legal recognition of electronic records, electronic signatures, and
+slectronis contracts,
+(1) A record or signstuze may not bedenied legal effect or enforceability solely because
+itis in electronic fon.
+(2) A contract may not be denied legal effect or enforcesbility solely because an
+electronic record was used in its formation.
+G) [fa law requires a record to bein writing, anelectronic record satisfies the law.
+@) If alaw requires a signature, an electronic signature satisfies the law,
+Eefeetive: August 1,2000
+‘History: Created 2000 Ky.Acts ch, 301, 7.effective August 1,2000,
+
+[DOB-23] 14:15 5@28949544 XRAY ASSOC OFLOU PAGE 6/12
+FAMILY FAMILY NAME &ADDRESS —- EMPLOYER NAME& ADDRESS AGING
+NUMBER — HOME PHONE NUMBER WORK PHONE &CONTRACT AND BALANCE
+OTHER INFORMATION
++
+(002747334 LANG, BRENDA CURRENT 00 LASTSTATEMENT
+09/21/21
+831 SUTCLIFFE AVE 31-60 00 LASTCHARGE — 09/03/21
+LOUISVILLE, KY40211 61-90 00 LASTPAYMENT — 12/20/21.
+91-120 00 PRINTSTMT MSG? NO
+[PHONE-24] 421-150 00 HOLD STATEMENTS? NO
+OVER 150 00 DELINQUENCY STATUS 0
+BALANCED 00 FINANCIALCLASS 085
+PATIENT PATIENTNAME/LOCATION/ —008/INIURY
+NUMBER REFERENCE#/REFDR,/DIAG+ADM/DSCHG INS.COMPANIES INSURED'S NAME
+INSURANCE ID# GROUP NUMBER.
++
+(002747334-01 LANG, BRENDA (09011952 STATE FARM AUTO CLAILANG, BRENDA
+172410541
+BAPTIST HEALTH LOUISVILLE 09/03/21 HUMANA MEDICARE REPLLANG, BRENDA
+H66878170 —_X1745001
+WOE: £400003368075 09/03/21 CEME
+(09/03/21 SOC SEC#: [SSN-1] SEX:F ACCIDENT? AUTO. EMPL.
+RELATED? NO
+0
+FRN DATE OF POSTING SRV PROCEDURE DIAG INSURANCE BILLED
+ATN. CLAIM
+TYP SERVICE DATE LOCCODE/MODS PARTIAL DESCRIPTION AMOUNT CODE PRIMARY
+SECONDARY DOC# NO. OTY
+CHG 09/03/21 09/17/21 01 7212526 CTCERVICALSPINE WITHOUT 289.00 S16.1XXA00079
+11/24/21, 00027 12/03/21 36695 0001 1
+CHG 09/03/21 09/17/22 01 7045026 CT HEAD WITHOUT 285.50 R51.9 00079 11/24/21
+00027 12/03/21 36695 0001 1
+CHG 09/03/21 09/17/2101 9557** MIPS MEASURE #406 .00 $16,1XXA00079 11/24/21.
+UNBILLED 36695 0001 1
+CHG 09/03/21 os/ar/as 01 9637** MIPS MEASURE #436 00 $16.1XXA00079 11/24/21
+UNBILLED 36695 0001
+CHG 09/03/21 3/21/24 01 9637** MIPS MEASURE #436 09 RS1.9 00079 11/24/21
+UNBILLED 36695 0001 1
+CHG 09/03/21 09/17/21 01 7214126 MRI CERVICAL W/O 345.00 $16.1XXAO0O79 11/24/21.
+90027 12/03/21 43612 0002 1
+
+[DOB-25] 14:15 5@28949544 XRAY ASSOC OFLOU PAGE 87/12
+CHG 09/03/21 09/17/2101 9557** MIPS MEASURE #406 00 $16.1XXA00079 11/24/24
+UNBILLED 43612 0002 1
+MEM rapoasaa STATE FARM DENIEO BENEFITS EXHAUSTED.
+MEM 12/02/2: STATE FARM DENIED BENEFITS EXHAUSTED
+PMTwari 12/17/2101 922 MEDICARE ADVANTAGE PAYMENT —85.45-
+36695
+ADIae 12/17/2101 822 MEDICARE ADVANTAGE ADJUSTMENT —459.05~
+36695 0001
+PMT 12/20/21 12/20/2101 922 MEDICAREADVANTAGE PAYMENT —69.75-
+43612 0002 1
+‘ADJ 12/20/21 12/20/2101 822 MEDICARE ADVANTAGE ADJUSTMENT — 275.25-
+43612 0002 1
+0 00
+CLAIM SERVICE DATES INSURANCE TRACER CLAIM CLAIM TOTAL
+AMOUNT AMOUNT
+NUMBER INSURANCE COMPANYBILLED FROM TO BILLED SENT HELD? DENIED?
+CHARGES PAID ADJUSTED
++
+(0001 STATEFARM AUTO CLAIMS —09/03/21 09/03/21 11/24/21 NY $445 0 85.4
+159.05-
+0002 STATEFARM AUTOCLAIMS —09/03/21 09/03/24 11/24/21 N ¥ 348.0 697
+275.25-
+
+[DOB-26] 14:15 5@28949544 XRAY ASSOC OFLOU PAGE
+FAMILY FAMILY NAME &ADDRESS EMPLOYER NAME& ADDRESS AGING
+NUMBER —HOME PHONE NUMBER WORK PHONE & CONTRACT AND BALANCE
+OTHER INFORMATION
++
+ee
+(002750160 LANG, BRENDA CURRENT 00 LAST STATEMENT
+09/28/21
+831 SUTCLIFFE AVE 31-60 .00 LASTCHARGE 09/12/21.
+1
+DATE: 06/01/23 PURGED ACCOUNTS REPORT PAGE:2596
+TIME: 05:00 AM Printed For: X-RAY ASSOCIATES OF LOUISVILLE USER:
+MONTHEND
+PGM: PRGLST * MONTHEND FOR 5/23* SYS:XAL
+FAMILY FAMILYNAME& ADDRESS©EMPLOYER NAME &ADDRESS AGING
+NUMBER — HOME PHONE NUMBER. WORK PHONE & CONTRACT AND BALANCE
+OTHER INFORMATION
++
+LOUISVILLE, KY40211 61-90 00 LASTPAYMENT = 11/12/21.
+91-120 00 PRINTSTMT MSG? NO
+[PHONE-27] 121-150 00 HOLD STATEMENTS? NO
+OVER 150 00 DELINQUENCY STATUS 0
+BALANCED 00 FINANCIAL CLASS 085
+PATIENT PATIENTNAME/LOCATION/=DOB/INJURY
+NUMBER REFERENCE#/REFDR/DIAG ©ADM/DSCHG INS.COMPANIES INSURED'S NAME
+INSURANCE ID# GROUP NUMBER
++
+(002750160-01 LANG, BRENDA (090711952 STATE FARM AUTO CLAILANG, BRENDA
+407761796
+BAPTISTHEALTHLousvitit 09/03/21 HUMANA MEDICARE REPLLANG, BRENDA
+66878170
+VYo/e:E 40003378697 09/12/21 CEME
+09/12/21 SOC SEC#:[SSN-1] SEX:F ACCIDENT? AUTO EMPL.
+RELATED? NO
+0.
+TRN DATE OF POSTING SRV PROCEDURE DIAG INSURANCE BILLED
+ATN. CLAIM
+TYP SERVICE DATE LOCCODE/MODS PARTIAL DESCRIPTION AMOUNT CODE PRIMARY
+SECONDARY DOC# NO. QTY
++
+12
+
+[DOB-28] 14:15 5@28949544 XRAY ASSOC OFLOU PAGE 49/12
+CHG 09/12/21 09/24/21 01 7049626 CTA HEAD WITH 459.00 R51.9 00079 09/27/21
+00027 10/29/24 37502 0001 1
+Ds ADDITIONAL ICD-10 DIAGNOSES
+CHG 09/12/21 09/24/21 01 7049826 CTA NECK WITH AQ1.00 R519 00079 09/27/21
+00027 10/29/21 37502 0001 1
+ADDITIONAL 1CD-10 DIAGNOSES Raz
+CHG 09/12/21 09/24/21 01 3100 MIPS MEASURE #195 .00 R519 — UNBILLED 00027
+10/29/21 37502 0001 1
+Dig ADDITIONAL ICD-10 DIAGNOSES RAZ
+CHG 09/12/21 09/24/2101 9557** MIPS MEASURE #406 00 R51.9 — UNBILLED 00027
+10/29/21 37502 0001 1
+Dig ADDITIONAL ICD-10 DIAGNOSES Raz
+CHG 09/12/21 09/24/2101 9637** MIPS MEASURE #436 .00 R519 UNBILLED 00027
+10/29/21 37502 0001 1
+DIG ADDITIONAL ICD-10 DIAGNOSES Raa
+CHG 09/12/21 09/24/2101 9637** MIPS MEASURE #436 00 R519 UNBILLED 00027
+10/29/21 37502 0001 1
+Dig ADDITIONALI10:10 DIAGNOSES
+MEM reps EFARM DENIED, BENEFITS aneJEHAUSTED
+MEM 10/25) oyrea
+PMTPYAYEE11/12/2101 922 MEDICARE ADVANTAGE PAYMENT — 160.80-
+37302001 1
+ADDITIONAL ICD-10 DIAGNOSES Raz
+a!ayapes 11/12/2101 822 MEDICARE ADVANTAGE ADJUSTMENT— 699.20
+37502 0001
+big ADDITIONAL ICD-10 DIAGNOSES Raz,
+0 00
+CLAIM SERVICE DATES INSURANCE TRACER CLAIM CLAIM TOTAL
+AMOUNT AMOUNT
+NUMBER INSURANCE COMPANYBILLED FROM TO BILLED SENT HELO? DENIED?
+CHARGES PAID ADJUSTED
++
+(0001 STATEFARMAUTO CLAIMS —09/12/21 09/12/21 09/27/21 NY 860.0 160.8
+699.20
+
+[DOB-29] 14:15 5@28949544 XRAY ASSOC OFLOU 18/12
+
+[DOB-30] 14:15 5@28949544 XRAY ASSOC OFLOU PAGE 11/12
+Maiedaress: ‘Street oddress: EXS SE EES
+OF LOUISVILLE PoBacTsa ans Louis, KY400870188 SODEGA OSHox
+awvsLouisvileRadiology:com
+Ranft8,Beoge, MD.
+Rober ©.Buse, Jt, M.D.
+Grege-y 6.Elion, M.D.
+DavidJo'gren MD.PRD
+AsoeKogsn, ML.
+ITEMIZED STATEMENTS:
+Lewrance Mason, MD.
+“Timothy Heweomer, MD.
+JohnD, Rothpiat, MD.
+X-RAY ASSOCIATES IS A BILLING OFFICE FOR THE RADIOLOGISTS AT AccreTraber. MD
+| BAPTIST HEALTH LOUISVILLE (FORMERLY KNOWN AS BAPTIST
+! HOSPITAL EAST). WE ARE ONLY SUPPLYING YOU WITH AN
+| ITEMIZED COPY OF OUR PATIENTS BILL. THE MEDICAL RECORDS
+THAT YOU ARE REQUESTING ARE INCLUDED IN THE COMPLETE
+MEDICAL RECORD THAT YOU WILL BEREQUESTING FROM BAPTIST
+HEALTH LOUISVILLE. IFYOU HAVE ANY QUESTIONS, PLEASE CALL
+BAPTIST HEALTH LOUISVILLE MEDICAL RECORDS AT [PHONE-31].
+THANK YOU,
+X-RAYASSOCIATES OF LOUISIVILLE
+
+[DOB-32] 14:15 5@28949544 XRAY ASSOC OFLOU PAGE 12/12
+13-Oct-2a23 16:45 [PHONE-33] »15022373287 pa
+CERTE IDICAL RE! (DAVIT
+SHANA MAHARES. .being first duly sworn on hishher oath, says tha:
+(Name of records custodian/clerk)
+1. Tamthe custodian of records for XRAY ASSOCZARS of Jyorivette
+‘ene effector rere ree
+2. The records attached hereto are true and exact covies of the reports and records of
+treatment of_Brencla- bee .patientfor treatment occurring
+berween DOQ, and_goga—.
+3. ‘That therecords attached hereto were made in the routine course ofbusiness at.or near
+the time of the event recorded.
+4, The records attached hereto were made by the physicians and/or staff, who had yersonal
+knowledge ofthe facts recarded.
+5. The records are ofatype regularly kept and maimained by _X Yay AStoutete >
+Pact ornament rider
+6 Thereby cemtify that_J“ pages accompanied this Certification Affidavit
+TAFFIRM UNDER THE PENALTIES OF PERJURY THAT THE FOREGOING
+REPRESENTATIONS ARE TRUE AND ACCURATE TO THE REST OF MY KNOWLEDGE
+AND BELIEF.
+FURTHER AFFIANT SAITH NOT.
+Records Custodian

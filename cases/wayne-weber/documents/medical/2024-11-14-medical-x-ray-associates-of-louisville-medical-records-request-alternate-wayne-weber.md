@@ -1,0 +1,623 @@
+---
+case_slug: wayne-weber
+created_at: 2026-02-17 00:39:53.845000+00:00
+document_category: medical
+document_date: 2024-01-01
+document_type: medical
+entities:
+- Stephen Anwar
+- Annie Kogan
+- Lawrence Masor
+extraction_method: native_text
+legacy_case_id: 2022-01-01-MVA-001
+mime_type: application/pdf
+page_count: 1
+quality_score: 100
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-Weber-MVA-01-01-2022/2024-11-14
+  - Medical - X-Ray Associates of Louisville - Medical Records Request (Alternate)
+  - Wayne Weber.pdf
+source_hash: sha256:b9d68b6ea13a578b7ceaf8d06ee12f7d27cd0b4e6391f81bf2565def58f806fe
+---
+
+[DOB-37] [PHONE-2] XRAY ASSOC OFLOU PAGE 41/16
+14-Nov-2024 15:28 «15028949544 [PHONE-35]
+AaronWhey Et. inane 1RYAO222 " wonstoale
+Pex(502669362
+November 14, 2024
+eRayAsmociates ofLouisville
+P.O.BEXT159 Finlias gem) SST be
+Laulbville, KY40257 completed.
+Via Pax[PHONE-4]
+necuca see
+“Teh
+Da ofBirth: oraieer
+Bell Sem seheg179
+DateofLess: ovouace2 atta.
+Dates Reguened 902001 tye suearniza
+CERTIFIED RECORDS FROM ANY AND ALL LOCATIONS AND/OR DEPARTMENTS (fara,
+Dear ResortCi, Qn
+ticlepromt Ibi ieeider
+7.pleseprovide0,aa vor tee,
+1.Any andall aftice notes, medical history, physicals, consultation nates, disc
+progeessnates.
+‘Anyandall radiology, pathology texioalogy oncology oraryother iakoratery reconés and
+summarles, orders and
+2
+salts
+5. Aay andallmuse’s notes.phyicitn nates,mergency records, operative repors'sammares, inpatient nots,
+4. Anyanda fmsofx-rays, MRIS, CTS, ofPETscans andthetaesociated onders andreport,
+5 Anyandallpharmacy orders, prescriptions anddispersing logs.
+6
+1
+‘Anyandall health insucanee infomation ofpolicies ofmedical coverage.
+Any andall billing anapayment records foreachdateofservice.
+“Wehaveattached asigned SIPPA coenpliantautherization valkdfor thee (8)years aathisisanongoing request, Peaseforward
+anyupdated recordstoaur offlee every shity(30)dayewithoutfurther requests,
+ey
+mall [EMAIL-5],
+Sincerely,
+SirensUi.Latte
+
+[DOB-32] 13:42 [PHONE-31] XRAY ASSOC OFLOU PAGE
+14-Nov-2024 15:28 [PHONE-8] 15022373207 p.2
+Aaron, Whaley, ag,
+THE 7a Lyndon Lene H.ALE seu222 X Pe(const
+aw FIRM Hex: [PHONE-9]
+HEPAA COMPLIANT MEDICAL AUTHORIZATION
+(Auuasautloa teHelene Protected Health CateInformation)
+A-RayAssociates of Louisville
+P.O. Box 7159
+Louisville, KY 40257
+aorMedicalhecarde Cle
+Lave eotatned ‘IheWhey Law Tlrm, PSCtorypresenttei matters related toaninjury amtatned duetoathindpacties' ncgligence, Please
+Forward copy ofny &allrecords net prevlcasiy provided loTheWhaley Law¥irm upontequest,
+Pursant tpdheHeal Tnsurence serait Acca ‘At (BAA) Prac Regulions, 45GR184.508, thoprovider Bite shaveis
+write,
+Votes, icory,Physica, era, Progress Ne ,arsesNi
+test, Open Reots tttRess nf ofKay» MBs SeoPENeasPhatevacy andDrug kecords, Medical Bills clictreat antl
+facility,awalla AT suchraconels whic youkeepIntheeeecourse Sonne thatarefound inmymedica record fle,
+hereby suthorlze thereleste ofANY &ALLrecords vegarding menta Kealth, pychintic (other than papesotherepy nots, which must be
+requesiad under separnteauthorization),ChemicalDependaney oc HIV,
+A-photostasic enpyheeeot shalbanevalid asthe original.
+t PREMCORY of 3
+copy.
+“Lhe purpose of phys mental
+condition(s). thedateafthesiguature rat
+theater coving, TcbyehPe ‘Whaley LaveItz,PSC, tospeak tamyhealihsace providers privately ortotakethetestimonyat
+Asponition andlor tial asneybeceques
+' dingby wwrlten nn t Ps 4
+anita’ ? PSC. hh tothesxtent iY
+7 westimenl or pay ji
+movectAct AtGBAR)
+Werince,WO.abnud 1/19[7997 Gaede ain pide sasiee a tafitfa Mf
+B82 Mil PF
+yyne Weber
+‘Client Nasr (Print) Solel Secotity
+/ 16
+
+[DOB-28]
+14-Nov-2024 15:29
+[PHONE-27] XRAY ASSOC OFLOU PAGE
+[PHONE-12] [PHONE-25] p3
+369.107 Legal recognition of electronic records, electronic signatures, and
+electr
+Q
+@
+8)
+®
+‘onic contracts.
+A recordorsi not be denied legal t il ly becaus:
+itis in electronic fonn,
+A contract may not be denied legal|effect or enforceability solely because an
+electronic record, was usedin its
+Ifalaw requires record to be in writing,anelectronic record satisfies the law.
+If law requires asignature, an electronic signature satisiies the law.
+“fteettve: August 1,2000
+History: Crested 2000Ky,Actscb, 301, se. 7,ofetive August 1,2000,
+/16
+
+[DOB-14] 13:42 — 5@28949544 XRAY ASSOC OFLOU PAGE 44/16
+14-Nov-2824 15:29 415028949544 +[PHONE-15] pt
+CER’ TI (CAL REC! FFIDA’
+WE .being first duly sworn on hissher oath, says that:
+(Name of records custodian/elark)
+1. Tamthe eastodian of records for X-LAY Ass walATES OF K UIsvee
+om facorrene rote)
+2, The records attached hereto aretus andexactcopies ofthe reports andrecords of
+treatment of. e EBER. ,patient for treatment occurring
+pewween 2)/9D2 ana_Pof 23
+That the records attached hereto were made in the routine course ofbusiness at or near
+the time of the event recorded.
+4, The records attached hereto were made by the physicians and/or staff, who had personal
+knowledge of the facts recorded,
+5. The records are of atype regularly kept and maintained byxed Asso,oe Lou
+(Pact meamentproiser;
+6, Thereby certify that 9 pages accompanied this Certification Affidavit.
+TAPFIRM UNDER THE PENALTIES OF PERJURY THAT THE FOREGOING
+REPRESENTATIONS ARE TRUE AND ACCURATE TO THE BEST OF MY. KNOWLEDGE
+AND BELIEF.
+FURTHER AFFIANT SAITH NOT.
+DrmBaurbene
+‘Records Custodian
+
+[DOB-16] 13:42 [PHONE-17] XRAY ASSOC OFLOU PAGE 5/16
+14-Nou-zeze 15:29 [PHONE-20] 91502237320? pS
+CERTIFICATIONOF MEDICAL BILLING RECORDS AFFIDAVIT
+KRS. being first duly sworn on his/her oath, says that:
+(Wame of records custodian/clerk)
+1. Tam the custodizn ofbilling records for ) LAY Assearares OFKallas
+Meme offaci orrere previder;
+2. The billing records, priached hereto are true and exact copies of the reports and records
+oftreatment of .patient for treatment occurring
+between3/9122> Dow heAyad
+3. That the billing records attached hereto were made in the routine course of business at
+or near the time of the event recorded.
+4, The billing records attacked hereto were made by the physicians and/or staff, who had
+personal knowledge ofthe facts recorded.
+5. The billing records are ofatype regularly kept and maintained by KAY Asvoe arLou
+«Feely orweciment provider)
+6. Thereby certify thet 7 pages accompanied ths CertificationAffidavit,
+IAFFIRM UNDER THE PENALTIES OF PERJURY THAT THE FOREGOING
+REPRESENTATIONS ARE TRUE AND ACCURATE TO THE BEST OF MY KNOWLEDGE
+AND BELIEF.
+FURTHER AFEIANT SAITH NOT.
+Billing Records Custodian
+
+[DOB-19] 13:42 — 5@28949544 XRAY ASSOC OFLOU PAGE 96/16
+pa xxrnmesesp one tsi
+OF LOUISVILLE 702 Executive Park PO Box7159 502. 2895-5405,
+Louisa, KY40207 Louie, © 40257-0158 [PHONE-20] fox
+wurwLovisvilleRadiology.com
+On [DOB-21], X-Ray Associates of Louisville outsourced
+their billing to Advocate RCM.
+FOR DATES OF SERVICE 1/1/24 AND AFTER, PLEASE REQUEST
+RECORDS AND BILLING STATEMENTS THROUGH CHARTSWAP.
+FOR DATES OF SERVICE PRIOR TO 1/1/24, PLEASE CONTINUE
+TO FAX YOUR REQUESTS TO X-RAY ASSOCIATES OF LOUISVILLE
+AT [PHONE-22]
+Thanks,
+X-Ray Associates of Louisville
+
+[DOB-23]
+Stephen Anwar, MD,
+Panis. Bagge, M.D.
+Rover©,Buse, éc,MD,
+Gregory S.Eliot, MD.
+Dovidolor NLD. PRO
+‘Annie Kogan, MD.
+Lawrence Masor, M.D.
+TrrathyNeweorrer, M.D.
+JohnD,Roths'ste, M.D.
+‘Andre Theber,MD.
+[PHONE-24] XRAY ASSOC OFLOU PAGE 47/16
+(ere Street address: Nei adress
+OF LOUISVILLE 702Exeovtve Par, POBoxi sons5008
+Lelia, KY20207 Louise, KY20257-0169 $02-6949544 ex
+www LouiavilleRadiology.com
+ITEMIZED STATEMENTS
+X-RAY ASSOCIATES IS A BILLING OFFICE FOR THE RADIOLOGISTS AT
+BAPTIST HEALTH LOUISVILLE (FORMERLY KNOWN AS BAPTIST
+HOSPITAL EAST). WE ARE ONLY SUPPLYING YOU WITH AN.
+ITEMIZED COPY OF OUR PATIENTS BILL. THE MEDICAL RECORDS
+THAT YOU ARE REQUESTING ARE INCLUDED IN THE COMPLETE
+MEDICAL RECORD THAT YOU WILL BE REQUESTING FROM BAPTIST
+HEALTH LOUISVILLE. IF YOU HAVE ANY QUESTIONS, PLEASE CALL
+BAPTIST HEALTH LOUISVILLE MEDICAL RECORDS AT [PHONE-25].
+THANK YOU,
+X-RAY ASSOCIATES OF LOUISIVILLE
+
+[DOB-26] 13:42 — 5@28949544 XRAY ASSOC OFLOU PAGE
+002893476 WE3ER, WAYNE
+CURRENT +9 LAST STATEMENT 20/06/22
+11815 CEDARDAL® ROAD
+3a - 60 -00 LAST CHARGE 98/19/22
+LOUISVILLE,a 40223
+co ST PAYMENT 11/08/22
+-90 iTSTMT SG? YES.
+[PHONE-27]
+12, - 150 -00 HOLD STATEMENTS? NC
+OVER 150 .00 DELINQUENCY STATCS 0
+BALANCE 0 -0C FINANCIAL CLASS 088
+PATIENS PATIENT NAME/LOCATION/ DOB/INJURY
+NUMBER REFERENCE#/REFOR. /DIAG ADM/ SCH INS. COMPANIES
+INSCRED'S NAME INSURANCE ID# GROUP NUMBER
+OOZBSSITS T WEBER, WAYNE 07131947 KY FARW BUREAU
+WEBER, WAYNE 04672023
+BAPTIST EEALTS LOUISVILLE 91/03/22 CGS ADMINISTRATORS,
+WEBER, WAYNE 1MB7YOSPP47
+I/O/E: ©400003820895 08/19/22 AETNA SENIOR
+SUBPLEYWEBER, WAYNE, $GC6225385
+08/19/22 SOC sec #: 282-44-
+e179 SEX: M BCCIDENT? AUTO EMPL. RELATED? NO
+0
+TRY DATE Of POSTING SRV PROCEDURE
+DIAG INSURANCE BILLED AUN. CLAIM
+TYP SERVICE Lec CODE/¥ODS PARTIAL DESCRIPTION
+AMOUNT CODE
++
+DATE
+PRIMA! SECONDARY Doce «WO. QTY
+CEG 08/19/22 09/02/22 O1
+345.20 M19.911 00429 09/06/22
+DIG
+25.311
+MEM 10/11/22
+CoMPLaTED PrP APP
+MEM 10/11/
+PUT io/ner2e 10/26/22 0
+96/09/24
+00100 19
+ADDITIONAL
+7322126RT MRI UPPER EXTREM JOINT W/O
+/22 38134 0002
+ICD-10 DIAGNOSES
+KY FARM BUREAU DENIED FOR
+cre
+920 MEDICARE PAYMENT
+ADDITIONAL
+38134 0001 1
+I¢0-10 PIAGNOSES
+PURGED
+4031.
+CCOUNTS
+/16
+
+[DOB-28] 13:42 — 5@28949544 XRAY ASSOC OFLOU PAGE
+232 Printed For: X-RAY
+ASSOCIATES OF Our SVILLE USER: MONTHEND
+PGM: PRGLST
++MONTHEND FOR 5/24 * sys: XAL
+OPATIENT# 602893476-01
+“TRS DATE OF FOSTING SRV PROCEDURE
+DIaG INSURANCE BILLED AIN. CLAIM
+TYE SERVICE DATE LOC COPE/MODS PARTIAL DESCRIPTION
+AMOUNT CODE PRIMARY SECONDARY DCCH NO. OTY
++
+MEM 10/26/22
+ADI 10/26/22
+DIS
+M25.5
+ADI 10/26/22
+39
+DIG
+M25. S11
+ADJ 10/26/22
+280.36-
+DIG
+25.511
+PMT 11/08/22
+12.8
+DIG
+M25.522
+MEM 11/08/22
+00
+11/08/22 01 =820
+11/08/22 Ol 988
+CLAIM FORWARDED TO SECONDARY
+2% SEQUESTRATION
+38134 oc01 1
+ADDITONAL ICD-10 DIAGNOSES
+20/26/22 C1 144
+10/26/22 01 253
+MIPS INCENTIVE
+38134 0001
+ADDITIONAL ICD-10 DIAGNOSES
+MEDICARE ADJUSTMENT
+40001 1
+ADDITIONAL xeo-1e DIAGNOSES
+CREDIT CARD/E-CHECK PAYMENT
+38234 ocal 1
+ADDITIONAL ICD-10 DIAGNOSES
+REINA SENIOR
+eEATH SEaVICE DATES
+TRACER CLAIM CLAIM TOTAL ayouwT AMOUNT
+NUMBER © INSURANCE COMPANY BILLED FR TO BILLED
+SENT ELD? DENZEC? ©CHARGES PAIB) ADCUSTED
++
+0001 KY FARMBUREAT C8/19/22 08/19/22 99/06/22
+N ¥ 345.0 63.6 281.60~
+0 NOTE DATE TIME ADDED BY NOTE TEXT
+9 09/06/22 §:11 SYSTEM CLAIM 0001 WAS BILLED TO KY FARM
+BUREAC 000/266-6109
+09/06/22 8:47 SYSTEM statement sent for the amount of
+$345.00
+9/15/22 6:58 KINA recvd
+pending pip app.-
+=from ky farm...claim
+-will send pt
+/16
+
+[DOB-29] 13:42 — 5@28949544 XRAY ASSOC OFLOU PAGE 10/16
+09/15/22 6:59 KINA infoltr w/copy
+09/18/22 7:02 KINA Letter 00014 sent: INSURANCE WI
+OMPATIENT
+10/04/22 7:90 SYSTSM Statement sent for the amount
+$345.00
+10/10/22 13:34ANGELA Claim 0001 put ca hold.
+10/10/22 13:35ANGELA Letter 00014 sent: INSURANCE Wi298
+INFO FROM PATIENT
+10/10/22 13:36 ANGELA SHREDDING LITR SINCE THIS WAS ALREADY
+100 CGS ADMINISTRATORS, LLC fiagged
+sim2
+20/12/22 7:24 SYSTEM CLAIM 001 was 8
+ADMINISTRATORS, LLC 266/276-9553
+11/08/22 11:81 ANGELA Claim 9001 released to guarantor,
+c1/28/26 9:11 ANGELA RECVD AUTORESERVE LTTR...CITE
+PTELEC TO CGS
+
+[DOB-30] 13:42 — 5@28949544 XRAY ASSOC OFLOU PAGE 11/16
+002954658 WEBER, WAYNE
+CURRENT -CO “LAST STATEMENT
+31815 aGBOARDALE ROAD
+1 - 60 LAST CHARGE 01/94/23
+covtavinse, KY 40223
+61 - 90 -00 9LAST PAYMENT 02/17/23
+gi - 120 PRINT STMT MSG? —-YES
+181
+121 - 150 HOLD STATEMENTS? 30
+OVER 150 .0O «DELINQUENCY STATUS 0
+BALANCE D .00 FINANCIAL CLASS 020
+PATIENT | PATIENT NAME/LOCATION/ DOB/TNIORY
+NUMBER REFERENCES /REFOR. /DIAS ADM/DSCHG INS. COMPANIES
+INSURED’S NAME INSURANCE ID# GROUP NUMBER
++
+002954458-01 WEBER, WAYNE 07131947 CGS ADMINISTRATORS,
+WEBER, 1M87 ¥O62P47
+BAPTIST EEALTH LOUISVILLE AETNA SENIOR
+SUPPLEMMEBER, WAYNE SGCE225385
+I/O0/E: E 400004015069 01/04/23 NT
+O1/G4/23 SOC SEC #: 282-44-
+8179 SEX: M ACCIDENT? N/A EMPL. RELATED? NO
+TRN DATE OF PCSTING SRV PROCEDURE
+DIAG INSURANCE BILLED ATN. CLAIM
+TYP SERVICE DATE LOC CODE/MODS PARTIAL DESCRIPTION
+AMOUNT CODE PRIMARY SECONDARY DOCH ory
++
+O1/i6/23 Ol 7104526 CHEST 1VIEW
+00865 01/18/23 CNBILLED 49391 000: 1
+ADDITIONAL ICD-12 DIAGNOSES
+CHG 01/0472)
+45.90 144.2
+DIG
+ROS.02
+PMT 02/02/23 92/02/23 G1 920 MEDICARE PAYMENT
+6.65- 49392 0001 1
+Dic ADDITIONAL ICD-10 DIAGNOSES
+R06.02
+ADJ 02/02/23 02/02/23 01 820 MEDICARE ADJUSTMENT
+36 49391 9001 1
+bie ADDITIONAL ICD-10DIAGNCSES
+R06.02
+MEM 02/22/23 CLAIM FORRARDED TO SECONDARY
+ADI 02/02/23 02/02/23 OL 144 MIPS INCENTIVE
+055 49391 cod1 1
+
+11/14/2624 13:42 [PHONE-31] XRAY ASSOC OFLOU PAGE
+pee ALDOITIONAL T 0 DIAGNOSES
+06.02
+awe 02/17/23 02/17/23 02 238 CREDIT CARD/Z-CHECK PAYMENT
+1.68- 49391 0001
+Dig ADDITIONAL ICD-.0 DIAGNOSES
+RO6.02
+DATE: 07/07/24 PURGED ACCOUNTS
+REPORT PAGE: 4278
+TIME: 06:08 Printed For: X-RAY
+ASSOCIATES. OFLOUISVILLE USER: MONTHEND
+PCM:DRGLST
+* MONTHEND FOR 6/24 * XAL
+OPATIENT# 062354658-01
+TENosTE OFPOSTING SAVPROCEDURE
+Dias INSURANCE BILLED ACN. CLAIM
+TYP SERVICE DATE LOC CODE/MODS PARTIAL DESCRIPTI ov
+AMOUNT CODE PRIMARY SECONDARY DOCH.«NC.QTY
++
+MEM 02/17/23 ABINA SENIOR
+~00
+EAH SERVICE EREES ~“¥NSpRance
+TRACER CLAIM CLAIM TOTAL AMOUNT B
+NUMBERINSURANCE COMPANY BILLED FROW BILLED
+SENT ELD? DENIED? CHARGESPAID’ ADJUSTED
+0001 aes GHA 38 PART 3 01/04/23 C1/04/23 02/18/23
+N 5.0 8.3 36 -
+} NOTEDATETINE’ ADDED 3¥ NOTETXT
+0 01/16/23 8: 8 SHANNON Primary Ins# changed fr 10 to 865
+due to Facility setuy
+01/18/23 6:38 SYSTEM CLAIM 9001 WAS SENT ELEC TO WPS GHA
+J8 PART 3 966/234-7331
+02/17/23 10:27 ANGELA Claim 0001 released to guarantoz.
+/ 16
+
+[DOB-32] 13:42 — 5@28949544 assoc OFLOU PAGE
+003028337 WEBER, WAYNE
+CURRENT 0s LAST STATEMENT
+11815 _cepaRDaLE BORD
+31 - 60 06/19/23
+roursyitEE, a 4022
+61 - 90 Last DAYMEN 07/28/23
+91 =120 00 PRINT STMT MSG? YES
+[PHONE-33]
+124 - 150 -00 HOLD STATEMENTS? NC
+OVER 150 .09 DELINQUENCY STATUS 0
+BALANCE 0 :00 FINANCIAL CLASS 020
+PATIENT PATIENT NAME/LOCATION/ DoB/INIURY
+NUMBER REFERENCE#/REFOR. /DIAG ADM/DSCKG INS.
+INSURED'S NAME NSURANCE ID# GROUP NUMBER
+COMPANIES
+003028. -01 WEB!7)WAYNE,
+WEBER, WAYNE 1M87¥06P247
+BAPTIST HEALTH LOUISVI“I
+SUPPLEMWEBER, WAYNE
+O723E: 927 CGS ADMINISTRATORS
+AETNA SENIOR
+SGC6225385
+T/O/E: %400004221415 06/16/23 WT
+06/16/23 SOC SEC #: 282-44-
+g179 SEX: M ACCIDENT? N/A EMPL. RELATED? No
+0
+TRN DATE OF POSTING SRV PROCEDURE
+DIAG INSURANCE SILLED AIM
+TYP VICE DATE LOC CODE/wanS ayn Skt DESCRIZTION
+AMOUNT CO2E PRIMARY SECONDARY 30CH NO. QTY
+CHG 06/16/23 06/28/23 01 7363026RT e00r MIN 3VIEWS
+48.50 103.031 00865 96/30/22 BILLED 49391 cdl 1
+CHG 06/16/23 06/28/23 Ci 73620267 root 2
+45.00 11.621 00865 06/30/23
+DI¢
+197.529 103.032
+CHS C6/19/23 06/30/23 61
+452.00 §M86.9 C0100 07/03/23
+UNBILLED 493
+ADDITIONAL ICD~19
+ENS
+737202621 Rr OnE BXTREM NON-JOINT W/
+UNI 2666 0002
+par 01/17/23 07/17/23 01 920 MEDICARE onwwent
+49391 0001 i
+aonronraaa 07/17/23 01, 826 MEDICARE ADJUSTMENT
+78. 49391 9001 1
+naeSan CLAIM FORWARDED TO SECONDARY
+ADI on/17/23 07/17/23 91. 253 2% SEQUESTRATION
+24> 49391 0001 2
+/16
+
+[DOB-34] 13:42 [PHONE-35] XRAY ASSOC OFLOU PAGE
+ADC 07/17/23 €7/17/23 91 14¢ MI2S INCENTIVE
+49391 0001 1
+vet 07/37/23 07/17/23 01 920 MEDICARE PAYMENT
+78. 39666 0002 1
+"300,orntres 07/17/23 01-829 MEDICARE ADJUSTMENT
+39666 0002 1
+‘ei 9/29/23 CLAIM FORWARDED TO SECONDARY
+7/23 01/27/23 01 253 2% SEQUESTRAT<ON
+aso 666 0002 1
+ADE 07/17/23 67/17/23 01 144 MIPS INCENTIVE
+-60 39666 0002 1
+PHT 07/28/23 07/28/23 01 988 CREDIT CARD/E-CHECK PAYMENT
+2.98- 9391 000.
+MEM 07/28/23 ABINA SENI
+PMT 07/28/23 07/28/23 01 988 CREDIT CARD/E-CHECK PAYMENT
+19.84- 39666 0902 1
+MEM 07/28/23 TOR
+Q
+00
+CUAIM SERVICE OATES TNSURANCE
+TRACER CLAIM CLAIM TOTAL
+WUMBER INSURANCE COMPANY BILLED oo BILLED
+SENT BLO? ©DENTE? «CHARGE: PAID ADJUSTED
++
+OOO WPS “GHA JO PARTS d6/1 8728 6716/23 06/30/23
+93. 14.7
+0902 css AoNENISTAATORS oenib/23 06/19/23 67/03/23
+453.0 88.1 354.92
+0 None DATE ‘Time ADDED BY NOTE TE:
+Q 98/28/23 @SHANNON Primary Ins# changed fron 100 to 865
+lity setup
+06/28/23 9:28 SHANNON Primary Ins# charged from 865 to 965
+due to Facility setup
+06/30/23 10:43 SYS
+ge PART B 866/234-7331
+07/93/23 7 YSTEI
+ADVINISTRATORS, LLC 866/276-9558
+{28/23 6:54 ANGELA
+97/28/23 6:54 ANGELA
+DATE: 09/12/24
+REEORT
+03:56 aM
+ASSOCIATES OF LOUISY
+PRGLST
++MONTEEND FOR a/2a +
+CLAIM 00C1 WAS SENT ELEC TO WeS GRA
+CLAIM 0002 WAS SENT ELEC TO CGS
+Claim 0001 released to guarantor.
+Claim 0002 released to guarantor
+PURGED ACCOUNTS
+22080
+Y
+MONTHEND
+sys
+/16
+
+[DOB-36] 13:42 — 5@28949544 XRAY ASSOC OFLOU PAGE 15/16
+003058252 WEBER, WAYNE
+CURRENT -00 LAST estat MENT
+11815enn
+31 - 60 LAST CHARGE og /21/23
+WILL, KY 40223
+€1 - 90 .00 LAST PAYMENT 09/28/23
+g1 - 129 .00 PRINT STNT MSG? YES
+G 92) 773"1481
+2. - 150 HOLD STATEMENTS? — NO
+OVER 159 .09 DELINQUENCY STATUS 6
+BALANCE > 00 NANCIAT CLASS = C29
+__e ST
+PATIENS PATIENT NAME/LOCATION/ pOB/INTURY
+NUMBER REFERENCE# /2I TAG. ALM/DSCHG INS. COMPANIES
+INSURED'S NAME INSURANCE IDF GROUP NUMBER
+eo oe _
+ee _
+003058252-01 WEBER, WAYNE 07134947 CGS ADHINISTRATORS
+SBER, WAYNE, \M87¥0SPE47
+BAPTIST HEALTH LOUISVILLE AETNA SENIOR
+SUPPLEMNEBER, WAYNE SGC6225385
+1/9/E: ©490604303082 08/21/23 WT
+98/21/23 SOC SEC 4: 282~44-
+8179 SEX: M ACCIDENT? N/A EMBL. RELATED? NO
+0_. a
+DIAG BILLED ATN. CLAZY
+TYP SERVICE TATE tee Gons/H00s PARTIAL DESCRIPTION
+AMOUNT CODE PRIMARY SECONDARY 90C# NO. QTY
+OS ——————aaowesC
+ceee 723 08/05/23 G1 7363026RT FOOT MIN 3
+43. 621 00100 09/06/23 UNBILLED 29666 CQ01_ 1
+bie. ADDITIONAL ICD-i0 DIAGNOSES
+297.511
+EMT 09/20/23 09/20/23 01 920 MEDICARE PAYMENT
+6.4
+39666 0001 2
+Ig ACDITIONAL ICD-10 DIAGNOSES
+197.5:
+ADT Sraove3 09/20/23 01 820 MEDICARE ADJUSTMENT
+40.6 39666 0001 1
+DIG ADDITIONAL 10 DIAGNOSES
+197.52
+MEM 09/20/23 FORWARDED |"FOSECONDARY
+ADS 03/20/23 69/20/23 91 253 3 SEQUESTRATI
+id 39666 2001 i
+
+[DOB-37] 13:42 — 5@28949544 XRAY ASSOC OFLOU PAGE
+pic ADDITIONAL ICD-10 DIAGNOSES
+197.81
+ADS 09/20/23 98/20/23 01 144 MI2S INCENTIVE
+05 39666 0001 1
+DIG ADOITIONAL ICD-10 DIAGNOS:
+197.5:
+PMT 09/28/23 09/28/23 01 988 CREDIT CARD/E-CHECK PAYMENT
+4.87 39666 0001
+DIG ADDITIONAL ICD-10 DIAGNOSES
+197.812
+MEM 99/28/23 ABTNA SENIOR
+00
+__ _
+TH
+TNSURANCE
+TRACER CLAIM LALM TOTAL
+NUMBER ERSURANCE coweasty BILLED 1 BILLEC
+IT ELD? DENTE! EARGES PAID ADJUSTED
+ss 8
+oor css ADMINISTRATORS Bafsifes 08/21/23 09/06/23
+N
+17 40.75"
+Q xore DATE TIME, *apveo BY NoTE
+o 02/06/23 6:48 SYSTEM CLAIM C001 WAS SENT ELEC TO Ces
+ADMINISTRATORS, LLC 866/276-9558
+1DATE: 10/01/24 PURGEC ACCOUNTS
+REPORT PAGE: 24745
+TINE: 12:59 EM Printed for: X-RAY
+ASSOCIATES OF LOUISVILLE USER: MCNTHEND
+PGN: PRGLST
++MONTHEND FOR 9/24 * SYS: XAL
+OPATIENTE 003058252-01
+a WOTS DATS TIME ADOED BY NOTE TEXT
+99/28/23 13:13 ANGELA m 0001 released to guarantor.
+Qreeeesenkresayees213ANGER cegaad bennie satte een eee RESAES
+/16

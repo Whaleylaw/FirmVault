@@ -1,0 +1,148 @@
+---
+case_slug: cora-hall
+document_category: financial
+legacy_case_id: 2022-12-05-OTH-001
+---
+
+---
+source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-Hall-WC-[DOB-1]/Medical/2022-12-08-Cora-Hall-Med-Center-Health-Anesthesia-Lower-Arm-Surgery.pdf"
+source_hash: "sha256:033cad4772eceb3cb9b4e5f4bfd1c85f80a35ce63e8a27476984485dbd032118"
+extraction_method: native_text
+quality_score: 100
+page_count: 1
+document_type: financial
+mime_type: application/pdf
+case_slug: c-2022-12-05-OTH-001
+created_at: 2026-02-16T22:37:20.146Z
+entities:
+  - CHO CFR Cashiers
+Medical Center
+---
+
+01-07 25 12:17 FROM- CHO CFR Cashiers 2/07965165 T-401 POGOB/O057 F-225
+Med Center Health Anesthesia:
+250 Park St
+BOWLING GREEN, KY 42101-1760
+Guarantor:
+Cora Mae Payne
+322 South 7th Street
+SCOTTSVILLE, Kentucky 42164
+Patient Name:Cora Mae Payne
+Account Number!AN[PHONE-4]
+Provider: Adam Kuzma, CRNA
+Account Balance: $ 0.00
+' Total Charges: $ 936.00
+CHARGE SUMMARY
+svc Date | Chg Code| Description Chg Amount| SP Balance| Ins Balance
+12/08/22 | 9001830 | ANES LOWER ARM SURGERY 936.00 0 0
+ACCIDENT FUND Total Payments: 628,24
+ACCIDENT FUND Total Adjustments: 307.76
+SELF PAY Total Payments: 0.00
+SELF PAY Total Adjustments; 0.00
+Total Payments: 0.00
+Total Adjustments: 0,00
+Total Payments: 0.00
+Total Adjustments: 0.00
+
+01-07 25 12:20 FROM- CHO CFR Cashiers 2/07965165
+MCH Ortho & Sports Med
+825 2nd Ave East
+suite C2
+Bowling Green, KY 42101-1786
+Guarantor;
+Cora Mae Payne
+322 South 7th Street
+SCOTTSVILLE, Kentucky 42164
+' Patient Name:Cora Mae Payne
+' Account Number:OR[PHONE-3]
+Provider: Chaitanya S Malempati, DO
+Account Balance: $ 0.00
+Total Charges: $ 1,968,00
+CHARGE SUMMARY
+T4071 POOT8/0057 F-225
+—
+Svc Date_| Chg Code| Description. Cha Amount SP Balance Ins Balance|
+12/08/22| 9025608 | OPEN TX DISTAL RADIAL W/INT FI 1,968.00 0 0
+ACCIDENT FUND Total Payments: 1,642.60
+ACCIDENT FUND Total Adjustments: 325.40
+SELF PAY Total Payments: 0.00
+SELF PAY Total Adjustments: 0.00
+Total Payments: 0.00
+Total Adjustments: 0.00
+Total Payments: 0.00 .
+Total Adjustments: 0.00
+
+01-07 25 12:29 FROM- CHO CFR Cashiers
+Medical Center Bowling Green
+250 Park St
+Bowling Green, KY 42101
+Responsible Party:
+2/07965165 T-401 P0048/0057 F-225
+: ‘Page 1 of #
+This amount indicated is now due on your portion
+of the charges. Please remit within 10 days.
+If you have any questions or concerns,
+Please call [PHONE-4] er [PHONE-5].
+Hall,Cora Mae
+322 South 7th St
+SCOTPSVILLE, KY
+Ulta al
+Name: Hall ,Coza Mae
+Service Date: 12/08/22
+42164
+Account Number: L060039407077
+Bill Date: 12/14/22
+[Insurance Coverage
+J|ACCIDENT FUND
+Insurance Policy Number
+AFPC230577703
+Service Date Code Daseraptaon Quantity - Amount
+12/08/22 1203020 OR LEVEL 2 INITIAL 30 MIN l 5,022.00
+12/08/22 1203025 OR LEVEL 2 BA ADDL 15 MIN 4 5,164.00
+12/08/22 1288887 OR Surgical Proc- Stats Only 1 0.00
+42/08/22 "4302005 FAGU LEVEL 1-ROUT INIT 30 MIN 1 1,206.00
+-|12/08/22 1302010 PACU LEVEL 1-ROUT ADD'L 30 MIN 2 926,00
+12/08/22 1400102 WRIST AP LAT LEFT i 341.00]
+12/08/22 1402221 XRAY ELUORO RM <1 HOUR 1 859.00
+12/08/22 1725032 COMP, METABOLIC PANEL 1 40.00
+12/08/22 1718680 CEC W/ AUTOMATEDDIFF ONLY 1 29,00
+12/08/22 1720903 HEMAT-PART THROMBOPLASTIN Time i 23,00
+12/08/22 1721208 HEMAT-PROTHROMBIN TIME 1 15.00
+12/08/22 1730308 ‘SERO-PREGNANCY TEST 1 28.00
+12/08/22 2602118 LACTATED RINGERS 1000ML BAG 2 114.20
+12/08/22 2706824 ACETAMINOPHEN 10 MG/ML 100ML 8 1 129,75
+12/08/22 2741255 CEPAZOLIN 2 GM IN DSW 50 ML B 1 73,70
+12/08/22 2741577 DEXAMETHASONE 10 MG/1 ML VIAL 1 57.35
+12/08/22 2743626 KETRLC TROMETHAMINE 30MG/ML $Y 1 27.10
+12/08/22 2743866 MAGNESIUM SULF 4G IN 100ML Wat 1 64.90
+12/08/22 2745153 PROPOFOL 200LM/20ML AMP 2 129.50
+12/08/22 2745454 PROPOFAL 1000MG/100ML SDV 1 103.60
+12/08/22 a7as2at FAMOTIDINE 20 MG/? ML INT 1 56.55
+12/08/22 2746910 MIDAZOLAM 2 MG/2 ML. VIAL I 56.45
+Total Charges 34,284.55
+Total Credits: 0.00
+
+1-07 25 12:29 FROM- CHO CFR Cashiers 2/07965165 T-401 POO4S 0057 F-225
+Page #4ot #
+Service Date Code Deseription Quantity Amount
+12/08/22 2747298 LIROCAINE 2% 5ML SDV 1 23.05
+12/08/22 2747343 . LIDOCAINE 1% 20 ML VIAL z 42.70
+12/08/22 2747560 ONDANSETRON HCL 4mG/2ML VIAL 2 113.80
+12/08/22 2750033 MEPERIDINE HCL 25 MG AMP 1 65,455
+12/08/22 2750046 HYDROMORPHONE HCL 2 MG AMP 1 60.25
+12/08/22 2750291 ‘FENTTANYL CITRATE 2 ML AMP 2 117.40
+12/08/22 3009952 CUFF-19 DPSB DISF TOURNIQUDET 1 241.00
+12/08/22 3029301 PACK-HAND DYNT52365 1 744,00
+12/08/22 3059211 PLATE-VQLAR LT 10H EXSHORT 1 4,849.00
+12/08/22" 3089244 SUTURE-ETHILON 3-0 1663H 1 58.00
+12/08/22 3091357 WIRE-K 1.6MM 390164 2 262.00
+12/08/22 3500759 APPLICATOR-CHLORAPREP 260815 1 4101.00
+12/08/22 3526250 VICRYL-0 COATED PLUS 1 12.00
+12/08/22 3545852 SOLU-NS ‘IRRIG SO00ML R5201-01 1 61.00
+12/08/22 3549240 BIT-DRILL 2*%135mMM 7038964 1 1,362.00
+12/08/22 3549259 SCREW-LOCK 2.4X16MM 656018 7 6,118.00
+12/08/22 3549435 SCREW-BONE 2,.74uxMM 65641x $ 2,622.00
+12/08/22 ° 3549847 BIT-T8 TORK AO 703663 1 1,362,00
+12/08/22 3560505 SUTURE-ETHICON J-259-H 1 12,00
+12/08/22 3598135 PENCIL-SMOKE EVAC 15' 2510157 1 246.00
+12/08/22 4801310 OP PACU 1-ROUTINE ADDL 30.MIN 3 1,326.00

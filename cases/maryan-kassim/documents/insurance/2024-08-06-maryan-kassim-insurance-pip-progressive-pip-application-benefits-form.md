@@ -1,0 +1,86 @@
+---
+case_slug: maryan-kassim
+created_at: 2026-02-17 00:04:42.852000+00:00
+document_category: insurance
+document_type: insurance
+entities:
+- Progressive
+extraction_method: native_text
+legacy_case_id: 2024-08-06-MVA-001
+mime_type: application/pdf
+page_count: 1
+quality_score: 100
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan-Kassim-MVA-08-06-2024/Insurance/2024-08-06-Maryan-Kassim-Insurance-PIP-Progressive-PIP-Application-Benefits-Form.pdf
+source_hash: sha256:8186d791e8d93eb2ba6d6b1af2a61bdce71fd61707398ff079d6eb49ceb00baa
+---
+
+Progressive Claims Mail Processing Center |=Phone: 1-[PHONE-2] PROGRESSIVE
+P.O. Box 2930 Fax: 1-[PHONE-2]
+Clinton, IA 52733-2930
+APPLICATION FOR BENEFITS—PERSONAL INJURY PROTECTION
+KENTUCKY NO-FAULT
+IMPORTANT: _ 1. To enable us to determine if you are entitled to benefits under the policyholder’s insurance contract, you must complete and sign this form.
+2. You must also sign the attached authorization(s).
+3. Return promptly with any medical bills you have received to date. However, you should not wait for your medical bills to arrive before sending
+this application to us. Please send this application back immediately.
+DATE OUR POLICYHOLDER DATE OF ACCIDENT FILE NUMBER
+Any person who knowingly and with intent to defraud any insurance company or TO:
+other person files a statement of claim containing any materially false information CLAIM DEPT.
+or conceals, for the purpose of misleading, information concerning any fact material
+thereto commits a fraudulent insurance act, which is a crime in the State of Kentucky.
+YOUR NAME EMAIL ADDRESS
+PHONE| HOME BUSINESS CELL NO.
+YOUR ADDRESS (NO., STREET, CITY OR TOWN, STATE AND ZIP CODE) DATE OF BIRTH |SOCIAL SECURITY NUMBER
+/ /
+DATE AND TIME OF ACCIDENT PLACE OF ACCIDENT (STREET, CITY OR TOWN, AND STATE)
+AM.
+/ / P.M.
+BRIEF DESCRIPTION OF ACCIDENT
+DO YOU OR ANY MEMBER OFYOUR HOUSEHOLD WERE YOU THE DRIVER OF THE MOTOR VEHICLE? YES qNO q
+OWN AMOTOR VEHICLE? YESq NOq WERE YOU APASSENGER INTHE MOTOR VEHICLE? YES q NO q
+?
+PLEASE LIST ALL AUTO INSURANCE CARRIERS CURRENTLY COVERING ANY WERE YOU APEDESTRIAN? YES q NO q
+OR ALL OF THE VEHICLES YOU OWN (NAME OF INSURANCE COMPANY AND WERE YOU A MEMBER OF MOTOR VEHICLE
+POLICY #) OWNER’S HOUSEHOLD? YES QNO q
+HAVE YOU REJECTED NO-FAULT COVERAGE (I.E., PERSONAL INJURY PROTECTION COVERAGE) AS PROVIDED BY THE KENTUCKY NO-FAULTACT (KAS304.39)
+BY SIGNING AREJECTION FOR THIS COVERAGE? YES q NO q
+WERE YOU INJURED AS ARESULT OF THIS ACCIDENT? YES q NO q
+IF YOUR ANSWER IS YES, COMPLETE THE REST OF THIS FORM.
+IF NO, SIGN HERE AND RETURN THIS FORM TO US.
+SIGNATURE: DATE:
+DESCRIBE YOUR INJURY
+WERE YOU TREATED BY A DOCTOR? |DOCTOR’S NAME AND ADDRESS
+YES qNOq
+IF YOU WERE TREATED IN A HOSPITAL WERE YOU AN |HOSPITAL’S NAME AND ADDRESS
+IN-PATIENT? q OUT-PATIENT? q
+AMOUNT OF MEDICAL BILLS TO DATE:| WILL YOU HAVE MORE MEDICAL EXPENSES?| AT THE TIME OF YOUR ACCIDENT WERE YOU IN THE COURSE OF YOUR EMPLOYMENT?
+$ YESqNOq YESqNOq
+DID YOU LOSE WAGES OR SALARY AS A RESULT OF YOUR INJURY? IF YES, AMOUNT LOST TO DATE: WHAT IS YOUR AVERAGE WEEKLY WAGE OR SALARY?
+YES qNOq $ $
+IF YOU LOST WAGES:
+DATE DISABILITY FROM WORK BEGAN / / DATE YOU RETURNED TO WORK / /
+HAVE YOU RECEIVED OR ARE YOU ELIGIBLE FOR BENEFITS UNDER: IF YES, AMOUNT: $
+(1) ANY WORKMEN'S COMPENSATION LAW? YESq NOgqg PER WEEK q
+(2) SOCIAL SECURITY BENEFITS? YES qNOq PER MONTH q
+IF YOU ARE CLAIMING LOST WAGES, COMPLETE THIS SECTION. DOING SO WILL HELP US PROMPTLY VERIFY YOUR SALARY RATE WITH YOUR EMPLOYER.
+LIST NAMES AND ADDRESSES OF ALL YOUR EMPLOYERS (STARTING WITH THE MOST CURRENT) DURING THE 12-MONTH PERIOD PRIOR TO THE ACCIDENT DATE
+AND GIVE OCCUPATION AND DATES OF EMPLOYMENT:
+EMPLOYER AND ADDRESS OCCUPATION FROM TO
+EMPLOYER AND ADDRESS. OCCUPATION FROM TO
+HAVE YOU HAD ANY OTHER EXPENSES AS A RESULT OF YOUR INJURY? YES q NOq_ IF YES,EXPLAIN
+| hereby authorize the release of medical information, including but not limited to medical bills and reports, to such persons as the company may deem necessary.
+SIGNATURE DATE
+YOU MAY DIRECT THE PAYMENT OF PERSONAL INJURY PROTECTION COVERAGE TO THE DIFFERENT ELEMENTS OF LOSS (MEDICAL EXPENSES, WORK LOSS, REPLACEMENT
+SERVICES, AND/OR SURVIVOR’'S ECONOMIC LOSS) UNDER PIP ON A PROSPECTIVE BASIS. PLEASE DESCRIBE, IN WRITING, HOW YOU WOULD LIKE YOUR PERSONAL INJURY
+PROTECTION BENEFITS TO BE DISTRIBUTED AMONG THE DIFFERENT ELEMENTS OF LOSS UNDER PIP.
+IF YOU DO NOT COMPLETE THIS SECTION, YOU ARE DIRECTING US TO PAY THE MEDICAL BILLS AS WE RECEIVE THEM.
+NOTE THAT THE MAXIMUM AMOUNT WE WILL PAY FOR WORK LOSS OR REPLACEMENT SERVICES IN ANY ONE WEEK IS $200.
+—DO NOT DETACH —
+IF YOU ARE CLAIMING MEDICAL AND/OR WORK LOSS EXPENSE, PLEASE SIGN THE FOLLOWING AUTHORIZATION SO THAT WE CAN OBTAIN ALL THE INFORMATION NECESSARY TO PROCESS YOUR CLAIM:
+AUTHORIZATION FOR MEDICAL AND WORK LOSS INFORMATION
+This authorization (or photocopy hereof) will authorize the medical provider upon which this request is being made to furnish to Progressive all medical information concerning treatment
+provided to me, including my medical records, medical history, x-rays and other diagnostic test results and reports regarding my physical findings, diagnosis, prognosis, and any treatment plan(s).
+Additionally, if you are my employer, you are authorized to furnish to Progressive all information you may have regarding my wages (or salary) and hours worked or not worked while
+employed by you and/or this company.
+SIGNATURE DATE
+Form No. 5723 (09/12) KY

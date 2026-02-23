@@ -1,0 +1,1762 @@
+---
+case_slug: frances-whitis
+created_at: 2026-02-16 23:41:41.216000+00:00
+document_category: financial
+document_date: 1970-04-18
+document_type: financial
+entities:
+- Frankfort Regional Hospital
+extraction_method: native_text
+legacy_case_id: 2024-09-06-MVA-001
+mime_type: application/pdf
+page_count: 1
+quality_score: 100
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Frances-Whitis-WC-MVA-9-6-2024/2025-02-27-Frances-Whitis-Frankfort-Regional-Hospital-Medical-Records-Request-3.pdf
+source_hash: sha256:868ca49d1a5176ea51b182ff5da6df3c5b2855a01213b5d1e83453b9140a1aa4
+---
+
+28-Feb-2025 16:03 [PHONE-286] [PHONE-2] p.1
+Aaron G. Whaley, Esq.
+712 Lyndon Lane
+THE WHALEY Louisville, KY40222
+Ph: [PHONE-3]
+Fax: [PHONE-283] LAW FIRM
+February 27, 2025
+CERTIFIED RECORD REQUEST -
+Frankfort Regional Hospital Attached Certification (or
+299 Kings Daughters Drive similar form) MUST be
+Frankfort, KY 40601 completed.
+Via Fax: [PHONE-5]
+RE: Our Client: Frances Whitis
+Date of Birth: [DOB-1]
+Social Security: ***-**-2447
+Date of Loss: [DOB-281]
+Dates Requested [DOB-280] thru 2/27/2025
+CERTIFIED RECORDS FROM ANY AND ALL LOCATIONS AND/OR DEPARTMENTS
+Dear Records Clerk,
+Please be advised that this office has been retained to represent the above referenced Client regarding injuries sustained in a
+motor vehicle, premise liability, and/or workers compensation incident. We request that you respond, with acknowledgment of
+this letter of representation, within three (3) business days and direct all future correspondence to our office in this matter.
+In accordance with Kentucky Revised Statute 422.317, please provide to us, in a sworn statement, any and all medical records
+along with the associated billing in your possession up to and including but not limited to the following within thirty (30) days:
+1. Any and all office notes, medical history, physicals, consultation notes, discharge summaries, orders and
+progress notes.
+2. Any and all radiology, pathology, toxicology, oncology or any other laboratory records and results.
+3. Any and all nurse's notes, physician notes, emergency records, operative reports/summaries, in-patient notes.
+4. Any and all films of x-rays, MRIs, CTs, or PET scans and their associated orders and reports.
+5. Any and all pharmacy orders, prescriptions and dispensing logs.
+6. Any and all health insurance information or policies of medical coverage.
+7. Any and all billing and payment records for each date of service.
+We have attached a signed HIPPA compliant authorization valid for three (3) years as this is an ongoing request. Please forward
+any updated records to our office every thirty (30) days without further requests.
+Thank you for your prompt attention to this matter and please do not hesitate to contact me directly at [PHONE-8] or via
+email at Sarena@WhaleyLawFirm.com
+Sincerely,
+Sarena m. Tuttle
+2021
+Received By MOC6442 at 
+2:18 pm, Mar 05, 2025 
+Copy sent to Billing 
+,
+r
+r ’
+) ‘ c
+A
+KF ) 1 ,
+Recieved from CWF
+8 datavant
+7
+4
+5
+5 , 5 3
+' 1 t 5 5 d
+; \ t
+\ t 3 '
+8 ; 3 po \ t, |
+t n z 1 ;
+| : : 1
+: > ’ s |
+2 l ? by . 55
+; > i i 3 ;
+be I g
+é 1 i ;
+5 l a '
+l | 3 ; ! I
+r ) r
+he 4 f 3 )
+m.
+¥ ,
+
+28-Feb-2025 16:04 [PHONE-9] [PHONE-10] p.2
+Docusign Envelope ID: 59E86574-1E9D-4FD9-B814-B110327BB023
+Aaron G. Whaley, Esq.
+712 Lyndon Lane
+WHALEY Louisville, KY 40222
+Ph: [PHONE-11] LAW FIRM Fax: [PHONE-12]
+HIPAA COMPLIANT MEDICAL AUTHORIZATION
+(Authorization to Release Protected Health Care Information)
+To: Frankfort Regional Hospital
+299 Kings Daughters Drive
+Frankfort, KY 40601
+Dear Medical Records Clerk:
+I have retained The Whaley Law Firm, PSC to represent me in matters related to an injury sustained due to a third parties' negligence. Please
+forward a copy of any & all records not previously provided to The Whaley Law Firm upon request.
+Pursuant to the Health Insurance Portability & Accountability Act (HIPAA) Privacy Regulations, 45 CFR 164.508, the provider listed above is
+hereby authorized to release to The Whaley Law Firm, PSC or any oftheir representatives, all medical records, including but not limited to: Office
+Notes, History, Physical, Consultation Notes, Discharge Summaries, Orders, Progress Notes, Laboratory Results, Nurses' Notes, Emergency Room
+Records, Operative Reports, In-Patient Records and films of X-Rays, MRIs, CT Scans, or PET Scans, Pharmacy and Drug Records, Medical Bills
+and Health Insurance Information, Medicaid/Medicare Records, concerning ANY medical treatment that I have received from you and/or at your
+facility, as well as ALL such records which you keep inthe regular course of business that are found in my medical record file.
+I hereby authorize the release of ANY & ALL records regarding mental health, psychiatric (other than psychotherapy notes, which must be
+requested under separate authorization), Chemical Dependency or HIV.
+A photostatic copy hereof shall be as valid as the original.
+I hereby authorize a FREE COPY of my medical records pursuant to KRS 422.317 be sent to the extent I have not already requested my one free
+copy.
+The purpose ofthis authorization and request is to permit my attorney to obtain ALL medical information pertaining to my physical and mental
+condition(s). This authorization expires in three (3) years from the date ofthe signature. The aforementioned expiration date has not passed, as
+this matter is on-going. I hereby authorize The Whaley Law Firm, PSC. to speak to my healthcare providers privately or to take the testimony at
+deposition and/or trial as may be requested.
+I have the right to revoke this authorization in writing by providing a signed, written notice ofrevocation to the healthcare provider listed above
+and to The Whaley Law Firm, PSC. I understand that there are exceptions to the right to revoke. Among the exceptions to the right to revoke are
+that an individual may not revoke an authorization to the extent that the covered entity has taken action in reliance thereon. Medical Providers
+may not condition treatment or payment on whether the above-listed patient executes this authorization. The information disclosed pursuant to
+this authorization may be subject to re-disclosure and no longer protected by the privacy regulations promulgated pursuant to the Health Insurance
+Portability and Accountability Act (HIPAA)
+Signed by:
+Limmer While 04/18/70
+ClientSignature Date ofBirth
+Frances Whitis [SSN-1] Date: [DOB-274]
+Client Name (Print) Social Security
+
+-
+Frankfort - @@@@@ reviewe
+Medical Release from Work on School
+Patient(s) Name Frances White 11/14/10
+Physicians Name Lawson, C.
+Reverse Authorized for (Please check one):
+Mark School
+Time Period for Restricted Activity: 1/10/2020 > 11/9/2024
+Physicians Comments: Seen on 9/6/24 &
+9/8/24
+Please Eccuse R/- illness
+Physicians Signature: MO
+28-Feb-2025 16:64 [PHONE-14] [PHONE-272]
+eo
+aa eee
+
+28-Feb-2025 16:06 [PHONE-271] [PHONE-270] p.4
+369.107 Legal recognition of electronic records, electronic signatures, and
+electronic contracts.
+(1) A record or signature may not be denied legal effect or enforceability solely because
+itis in electronic form.
+(2) A contract may not be denied legal effect or enforceability solely because an
+electronic record was used in its formation.
+(3) Ifa law requires a record to be in writing, an electronic record satisfies the law.
+(4) Ifa law requires a signature, an electronic signature satisfies the law.
+Effective: August 1, 2000
+History: Created 2000 Ky. Acts ch. 301, sec. 7, effective August 1,2000. va
+w
+w
+
+28-Feb-2025 16:06 [PHONE-18] [PHONE-19] p.5
+Aaron G. Whaley, Esq.
+712 Lyndon Lane
+WHALEY Louisville, KY 40222
+Ph: [PHONE-267]
+Fax: [PHONE-21] LAW FIRM
+ATTESTATION REGARDING a REQUESTED USE or DISCLOSURE of PROTECTED HEALTH
+INFORMATION POTENTIALLY RELATED TO REPRODUCTIVE HEALTH CARE
+REQUESTOR: The Whaley Law Firm
+712 Lyndon Lane
+Louisville, KY 40222
+Phone: [PHONE-22]
+Fax: [PHONE-264]
+Patient: See Attached Medical Records Request
+DOB: See Attached Medical Records Request
+SSN: See Attached Medical Records Request
+Medical Record Requested: Any and all related treatment - See attached Medical Records Request
+Dates of Treatment Requested: Any and all related treatment - See attached Medical Records Request
+I, Aaron G. Whaley, esq., attorney and owner of The Whaley Law Firm, attest that the use or disclosure of protected health
+information, that I am requesting is not for a purpose prohibited by the HIPAA Privacy Act at 45 CFR 1643502(a)(5)(iii)
+because the purpose ofthe use or disclosure of protected health information is NOT to investigate or impose liability on any
+person for the mere act of seeking, obtaining, providing, or facilitating reproductive health care or to identify any person for
+such purposes.
+I understand that I may be subject to criminal penalties pursuant to 42 U.S.C. 1320d-6 ifI knowingly and in violation ofthe
+HIPAA obtain individually identifiable health information relating to an individual or disclose individually identifiable health
+information to another person.
+Sincerely,
+aaron g. Whaley, Esq
+Aaron G. Whaley, Esq.
+Personal Representative/Attorney for Patient Named
+San 2025
+
+28-Feb-2025 16:06 [PHONE-24] [PHONE-25] p.6
+CERTIFICATION OF MEDICAL RECORDS AFFIDAVIT
+, being first duly sworn on his/her oath, says that:
+(Name ofrecords custodian/clerk)
+1. I am the custodian of records for .
+(Name offacility or treatment provider)
+2. The records attached hereto are true and exact copies ofthe reports and records of
+treatment of , patient for treatment occurring
+between / / and / / +
+3. That the records attached hereto were made in the routine course of business at or near
+the time of the event recorded.
+4. The records attached hereto were made by the physicians and/or staff, who had personal
+knowledge of the facts recorded.
+5. The records are of a type regularly kept and maintained by .
+(Facility or treatment provider)
+6. Ihereby certify that pages accompanied this Certification Affidavit.
+I AFFIRM UNDER THE PENALTIES OF PERJURY THAT THE FOREGOING
+REPRESENTATIONS ARE TRUE AND ACCURATE TO THE BEST OF MY KNOWLEDGE
+AND BELIEF.
+FURTHER AFFIANT SAITH NOT.
+Records Custodian
+|4
+I?
+wa
+uu
+
+28-Feb-2025 16:07 [PHONE-26] [PHONE-27] p. 7
+CERTIFICATION OF MEDICAL BILLING RECORDS AFFIDAVIT
+, being first duly sworn on his/her oath, says that:
+(Name of records custodian/clerk)
+1. I am the custodian of billing records for .
+(Name offacility or treatment provider)
+2. The billing records attached hereto are true and exact copies of the reports and records
+of treatment of , patient for treatment occurring
+between / / and / / +
+3. That the billing records attached hereto were made in the routine course ofbusiness at
+or near the time of the event recorded.
+4. The billing records attached hereto were made by the physicians and/or staff, who had
+personal knowledge of the facts recorded.
+5. The billing records are of a type regularly kept and maintained by
+(Facility or treatment provider)
+6. I hereby certify that pages accompanied this Certification Affidavit.
+I AFFIRM UNDER THE PENALTIES OF PERJURY THAT THE FOREGOING
+REPRESENTATIONS ARE TRUE AND ACCURATE TO THE BEST OF MY KNOWLEDGE
+AND BELIEF.
+FURTHER AFFIANT SAITH NOT.
+Billing Records Custodian
+wa
+wa
+latw
+
+DOB :
+Date
+[DOB-259]
+Request ID #
+[PHONE-29]
+[DOB-1]
+Ship To:
+SARENA M TUTTLE
+WHALEY LAW FIRM
+712 LYNDON LN
+LOUISVILLE,KY 40222-4642
+Records From:
+HCA RICHMOND PAS KY
+7300 BEAUFONT SPRINGS DR
+STE 100
+RICHMOND,KY 23225
+Ciox Health
+P.O. Box 409740
+Atlanta, Georgia 30384-9740
+Fed Tax ID 58 - 2659941
+1-[PHONE-30]
+Requested By:
+Patient Name:
+THE WHALEY LAW FIRM
+WHITIS FRANCES
+- PAYMENTS ONLY
+
+AFFIDAVIT OF BUSINESS RECORDS 
+STATE OF Virginia 
+) 
+) ss. 
+COUNTY OF Chesterfield 
+I, Tiffaney Jackson , bemg sworn upon my oath, of sound rmnd, capable of 
+making tlus Affidavit., and personally acquainted with the facts herein stated, do hereby certify: 
+1. I am the custodian of records for FRANKFORT REGIONAL HOSPITAL and 
+work as an Account Spec1ahst m the HCA Richmond Shared Services Center. 
+2. Attached hereto are 27 pages of medical bilhng records from the files of 
+FRANKFORT REGIONAL HOSPITAL, which are kept m the regular course of 
+business. 
+3. It was the regular course of business for an employee or representative of 
+FRANKFORT REGIONAL HOSPITAL with the knowledge of the act., event, 
+conditions, opinion, or diagnosis, to make the billing records or transmit the 
+mformation included in the medical billing records. 
+4. The medical billmg records were made at or near the time of the act., event, 
+condition, op1mon or diagnosis. 
+5. I am familiar with FRANKFORT REGIONAL HOSPITAL charges for its 
+medical services. The amounts charged to FRANCES WHITIS for the services 
+listed on the attached medical bills, in the total amount of $52,461.67, were 
+reasonable at the time and place the services were provided, and represent the value 
+of the medical serv1c·es rendered. 
+6. The medical services were provided at the direction of a physiaan. 
+7. The medical billing records attached hereto are true and accurate copies of the 
+ongmal hospital billing records. 
+Further, affiant sruth naught 
+Account Specialist 
+SUBCRIBED AND SWORN to before me, a Notary Public, tlus / 7 
+NOTARY PUBLIC 
+MY coMMISsroN EXPIREs:_~3--+/~3~/ ....... /dt_.......Vl~kli ....... (j. ..... a~-
+7 l 
+dayof M(Lt'c,h dQ~'5 
+aeName
+f __ daw nf M., wal
+21aAIAA DD,
+feRRL TY Lt
+Ql,
+: “NOTARY
+= | — PUBLIC =? REG. #7514484
+= _iMY COMMISSION;oe”
+lA
+“ani
+Q% EXPIRES on 3/31/2026
+‘i
+omOse A ensoe Ss
+“May nae®
+Cy ‘'
+%4,Ny
+TF ee
+
+FRANKFORT REG MED CTR *RANKFORT REG MED CTR 3a PAT,
+CNTL#
+299 KINGS DAUGHTERS DR PO_ BOX 402333
+596071279
+Beer 900000044386
+ak FRANKFORT KY 406016514 ATLANTA GA 30384-2333 5FED. TAX NO. 0059f°
+ENCE ae
+11 jO62424 AL 041870 AD
+B2 062424
+[PHONE-31] 610859329] 062424] 062424
+PATIENT NAME [s gpanent aporess — [al 1 17 REDBUD LN
+tWHITIS FRANCES A »]FRANKFORT lel Kyle] 40601 Ie]
+10BIRTHDATE I" SEX he pare MER NeTYPE 15aftr 7sur] 18 10- m_an_GRIONSODES) os 2 a oe| eee|
+o4781970 |
+36 OCCURAT OCCURRENCE SPAN Ed
+‘Gone CODE FROM _TH
+062424151 1041870
+KY MCD SECOND TO MCR HMO a :
+PO BOX 2106 b
+ic t
+FRANKFORT KY 40602 id : :
+42REV.CD. | 43 DESCRIPTION 44 HCPCS/ RATE / HIPPS CODE 45SERV. DATE 46 SERV, UNITS: 47 TOTAL CHARGES 48 NON-COVERED CHARGES [49
+10250 [DRUGSSELF ADMIN 062424 1 621 621
+10301| LABCHEMISTRY BO0053 062424 1 116370 :
+10301| LABCHEMISTRY B4484 062424 1 57807
+0301| LABCHEMISTRY B3690 62424 1 49464
+0301| LABCHEMISTRY B3605 062424 1 12663
+10305| LABHEMATOLOGY B5027 062424 1 35343
+10306| LABBACTMICRO B7086 062424 1 61155
+10307| LABUROLOGY B1001 062424 1 30186
+10324 |DX XRAYCHEST V1046 62424 1 130383
+40352 |CT SCANBODY V4177 p62424 1 [PHONE-32] |EMERG ROOM 9284 25 062424 1 [PHONE-33] |EMERG ROOM 6374 59 062424 1 29755
+30730 |EKGECG 3005 62424 1 33886
+18]
+»*AQOO1 | PAGE__1 OF1 _ CREATION DATE| 110224 fee 1694250 621
+SO-PAYER NAME. 51 HEALTH PLAN ID Fee]Be{s prion PAYMENTS 58 EST.AMOUNT DUE. senpt] [PHONE-34]
+MAR TNA MEDICARE’ PPO OR H60054NOCD Y)/Y 1701678 000 s7 0493532
+aKY MCD SECOND TO MCR HM999990023 YI] IY 000] 1604184 |omen] 282N00000
+4 : _: |r} 406016514
+66 INSURED'S NAME 59P.REL| 60 INSURED’S UNIQUE ID 61 GROUP NAME 62 INSURANCE GROUP NO,
+AWHITIS FRANCES A 18 [101552491900 MA INDIVIDUAL | 000003KY
+WHITIS FRANCES A, 18 10028431061 DISABLED
+83 TREATMENT AUTHORIZATION CODES: 64 DOCUMENT CONTROL NUMBER: 65 EMPLOYER NAME 4 EPFDFZVSHO0002
+1 12024207046621
+R109 [ | | | | _F
+0 i | | | | | |
+6 ADMIT | 73 |
+pe[PHONE-252]."]|
+CODE
+Sir eee ° TeATTENDING
+vst MBAH rst NSEHNIITOO
+7 CODuTHER PROCEDURE 77 OPERATING be [PHONE-251]/e4] I
+ust MBAH rst NSEHNIITOO
+coreunPTDISCOUNTSAVAILABL ['SB4282N00000% veoreen| fe Jou
+b A s LAST FIRST
+; veoer | jel Jou] |
+ust [reser A
+.
+ERIE O59 SSP EECTRON] @ mmppars ed NUBC' Seem L1C3810506
+TIE CERTIFICATIONS ON THE REVERSE APPLY TOTHIS BILL AND ARE MADEAPART HEREOF
+
+PATIENT No:
+MED REC No:
+GUARANTOR No:
+PATIENT:
+WHITIS FRANCES A
+596)
+PAY TO ADDRESS:
+BILL TO:
+WHITIS FRANCES A
+117 REDBUD LN
+FRANEFORT EK
+40601
+DATE OF BATCH F
+SERVICE REF DEPT 5
+301-LAB/ CHEMISTRY
+062424 24BVLI Ov7356
+062424 24BVLI Ov7356
+062424 24BVLI Ov7356
+062424 24BVLI Ov7356
+305-LAB/HEMATOLOGY
+062424 24BVLI Ov7356
+306-LAB/BACT-HICRO
+062424 24BVLN O736
+307-LAB/ UROLOGY
+062424 24BVLI Ov7356
+324-DX X-RAY/ CHEST
+062424 24BVLE oO726
+352-CT SCAN/ BODY
+062424 24BVLE oO726
+oO71i279
+44356
+FRANEFORT REG MED CTR
+299 EINGS DAUGHTERS DR
+FRANEFORT
+FRANEFORT REG MED CTR
+PO BOX 402333
+ATLANTA
+Gh 303842335
+¥
+PROC
+800122
+836055
+644540
+564162
+850177
+870564
+os 7770
+o80391
+325952
+EMERGENCY
+BILLING DATE
+10/19/24
+KY 406016514
+REPLACEMENT OF PRIOR CLAIM
+NbC/CPT-4/
+HOPcs QTY
+80053
+83605
+84454
+83690
+Be ee
+s5027 e
+87086 e
+81001 e
+71046 e
+74177 e
+SERVICE DESCRIPTION
+COMP METABOLIC PANEL
+LACTIC AcID
+TROPONIN OUANT
+LIPASE
+SUBTOTAL:
+CBC AUTOMATED
+SUBTOTAL:
+CULT COLONY COUNT UR
+SUBTOTAL:
+UA W MICRO AUTO
+SUBTOTAL:
+CHEST XRAY 2 V
+SUBTOTAL:
+CT ABD PELVIS wW/ CONT
+SUBTOTAL:
+KY STATUTES PROHIBIT THE USE OF THIS STATEMENT FOR
+INSURANCE PAYMENT PURPOSES WHERE BENEFITS ARE ASSIGNED
+PAGE
+Fc=12
+1
+ADMITTED
+06/24/24
+CHARGES
+1163.
+126.
+S78.
+494.
+2363.
+353.
+353.
+611.
+611.
+301.
+301.
+1303.
+1303.
+7291.
+7291.
+70
+63
+ao?
+64
+o4
+43
+43
+55
+55
+36
+36
+83
+83
+62
+62
+00059
+DISCHARGED
+06/24/24
+PROC-CD-X
+ooo008o001z2
+[PHONE-250]
+[PHONE-249]
+o000864162
+ooo008s0177
+o0008 70864
+ooo0003s7770
+o000080391
+oo00325952
+
+PATIENT No: S96071279 FRANEFORT REG MED CTR BILLING DATE PAGE 2 00059
+MED REC No: 44356 299 EINGS DAUGHTERS DR 10/19/24
+GUARANTOR No:
+PATIENT: FRANEFORT KY 406016514 ADMITTED DISCHARGED
+WHITIS FRANCES A 06/24/24 06/24/24
+DATE OF BATCH F NbC/CPT-4/
+SERVICE REF DEPT 5SPROC HOPcs QTY SERVICE DESCRIPTION CHARGES PROC-CD-X
+450-EMERG ROOM
+062424 26uLoy ovso 319041 99268425 1 LYL 4 EMER DEPT 4074.95 [PHONE-248]
+062424 26uLoy ovso 317563 9637459 1 IVF SINGLE/IMITIAL DRU 297.55 [PHONE-40]
+SUBTOTAL: 4372.50
+636-DRUGS/DETAIL CODE
+062424 24BVLI ov12 677291 33010 1 FENTANYL CIT 0.1 MG IN 27.27 OOO0677291
+062424 24BVLI ov12 677655 32405 4 ONDANSETRON 4 MG INJ 146.61 [PHONE-41]
+SUBTOTAL: 173.85
+637-DRUGS/SELF ADMIN
+062424 24BVLP ov12 241405 1 OXYCODONE TAB SMG 6.21 [PHONE-245]
+SUBTOTAL: 6.21
+730-EKG/ECG
+062424 O2BBO6 oO744 317975 93005 1 EEG TRACING ONLY 336.86 [PHONE-43]
+SUBTOTAL: 336.66
+TOTAL ANCILLARY CHARGES 17116.75
+DATE OF BATCH PAY INS BILL
+PAYMENT REFER TYPE PROC PLAN THRU DT DESCRIPTION / COMMENT AMOUNT
+06/24/24 29FBIL 5 999999 206-76 06/24/24 CONTRACTUAL ADJ cc 15,770.65
+o7/03/24 O3aEKU 1 992500 206-76 06/24/24 ERA AE P oov/oo/24 901.06
+o7/03/24 O3LREVY 5 999999 206-76 06/24/24 CONTRACTUAL ADJ cc 15,770.65-
+o7/03/24 O3RMIT 5 999999 206-76 06/24/24 CONTRACTUAL ADJ cc 15,776.86
+10/10/24 10ETOH 5 g96792 206-76 06/24/24 AETNA MCARE PFFS ADJ 336.66
+TOTAL PAYMENTS 17,016.75
+KY STATUTES PROHIBIT THE USE OF THIS STATEMENT FOR
+INSURANCE PAYMENT PURPOSES WHERE BENEFITS ARE ASSIGNED
+
+PATIENT No: S96071279 FRANEFORT REG MED CTR BILLING DATE PAGE 3 00059
+MED REC No: 44356 299 EINGS DAUGHTERS DR 10/19/24
+GUARANTOR No:
+PATIENT: FRANEFORT KY 406016514 ADMITTED DISCHARGED
+WHITIS FRANCES A 06/24/24 06/24/24
+TOTAL CHARGES 17116.75
+PAYMENTS 901.06
+ADJUSTMENTS 16115.72
+BALANCE 100.00
+KY STATUTES PROHIBIT THE USE OF THIS STATEMENT FOR
+INSURANCE PAYMENT PURPOSES WHERE BENEFITS ARE ASSIGNED
+
+PATIENT No:
+MED REC No:
+GUARANTOR No:
+PATIENT:
+WHITIS FRANCES A
+REV cD
+o301
+o305
+o306
+o307
+0324
+Oo352
+0450
+0636
+o6s7
+o7s0
+TOTAL CHARGES:
+S96071279 FRANEFORT REG MED CTR
+44356 299 EINGS DAUGHTERS DR
+FRANEFORT
+DEPARTMENTAL CHARGE SUMMARY
+DEPT DESCRIPTION
+ovi2 PHARMACY
+o726 CT Scan
+ov725 RADIOLOGY
+o736 LABORATORY
+o744 EEG
+o780 EMERGENCY ROOM
+REVENUE CHARGE SUMMARY
+DESCRIPTION BILLABLE
+LAB/ CHEMISTRY
+LAB/HEMATOLOGY
+LAB/ BACT-MICRO
+LAB/ UROLOGY
+DE X-RAY/ CHEST
+CT SCAN/ BODY
+EMERG ROOM
+DRUGS/DETAIL CODE
+DRUGS/SELF ADMIN
+EEG/ECG
+17,116.78
+TOTAL PAYMENTS: 901.06
+TOTAL ADJUST: 16,115.72
+2,363.
+353.
+6li.
+301.
+1,303.
+7,291.
+4,372.
+173.
+6.
+338.
+BILLING DATE
+o4
+45
+55
+56
+83
+62
+50
+53
+21
+56
+10/19/24
+PAGE
+KY 406016514
+AMOUNT
+180.
+7,291.
+1,303.
+3,629.
+338.
+4,372.
+oo
+62
+83
+38
+36
+50
+NON-BILLABLE
+-o0
+-o0
+-o0
+-o0
+-o0
+-o0
+-o0
+-o0
+-o0
+-o0
+4 00059
+ADMITTED
+06/24/24
+TOTAL
+2,363.
+353.
+6li.
+301.
+1,303.
+7,291.
+4,372.
+173.
+.21
+338.
+o4
+45
+55
+56
+83
+62
+50
+53
+56
+DISCHARGED
+06/24/24
+
+PARALLON
+HCAgpHealthcare’
+Facility: 00059 Frankfort Regional Hospital
+Patient: WHITIS FRANCES A
+Financial Transaction Listing
+By Entry Date
+User: CFU3885
+[DOB-243]
+8:40 am
+Facility AcctNumber EntryDate TransDate ProcCode =Type Amount Payer Comment
+00059 ©996071279 ©[DOB-45] [DOB-241] 996792 06 $338.86 20676 AETNAMCARE PFFSADJ OP
+ICN: FSD:190634232
+00059 © 996071279 © [DOB-240] [DOB-48] 996792 06 $15,776.86 20676 ERAAECA 10/28/24
+ICN: EPFDFZVSH0001
+00059 © 996071279 © [DOB-238] [DOB-237] 992500 01 $901.06 20676 ERAAEP 10/28/24
+ICN: EPFDFZVSH0001
+00059 © 996071279 © [DOB-51] [DOB-235] 996792 06 $-16,115.72 20676 ERAAE CA 10/28/24
+ICN: EPFDFZVSH0002
+00059 © 996071279 © [DOB-234] [DOB-54] 992500 01 $-901.06 20676 § ERAAEP 10/28/24
+ICN: EPFDFZVSH0002
+00059 996071279 [DOB-232] [DOB-231] 996792 06 $-338.86 20676 AETNAMCARE PFFS ADJ OP
+ICN: FSD:190067512
+00059 996071279 + —07103/2024 [DOB-57] + LICHG 06 $338.86 20676 Late Charge
+00059 996071279 = —07103/2024 [DOB-229] 992500 01 $-901.06 20676 ERAAEP 07/09/24
+ICN: EPFDFZVSH0001
+00059 996071279 07103/2024 +[DOB-228] 999999 06 $15,770.65 20676 CONTRACTUALADJ CC
+00059 996071279 07103/2024 +[DOB-60] 999999 06 $-15,776.86 20676 CONTRACTUALADJ CC
+00059 ©996071279 [DOB-226] [DOB-225] 999909 06 $-15,770.65 20676 § CONTRACTUALADJ CC
+00059 596071279 [DOB-63] +[DOB-223] [PHONE-65] 06 $4,074.95 LVL 4EMER DEPT
+00059 596071279 [DOB-66] +[DOB-220] + [PHONE-68] ~3=—s- 06 $297.55 IVP SINGLE/INITIAL DRUG
+00059 596071279 [DOB-69] [DOB-217] + 000080177 06 $353.43 CBC AUTOMATED
+00059 596071279 [DOB-216] [DOB-72] [PHONE-73] 06 $611.55 CULT COLONY COUNT UR
+00059 596071279 [DOB-213] [DOB-75] [PHONE-76] 06 $1,163.70 COMP METABOLIC PANEL
+00059 596071279 [DOB-210] [DOB-78] + 000032692 06 $7,291.62 CT ABD PELVIS WICONT
+00059 596071279 [DOB-208] [DOB-207] [PHONE-206] 06 $126.63 LACTIC ACID
+00059 596071279 [DOB-205] [DOB-204] [PHONE-203] 06 $1,303.83 CHESTXRAY 2 V
+00059 596071279 [DOB-202] [DOB-201] [PHONE-200] 06 $578.07 TROPONIN QUANT
+00059 896071279 [DOB-199] [DOB-198] [PHONE-197] 06 $494.64 LIPASE
+00059 896071279 [DOB-196] +[DOB-195] [PHONE-194] 06 $301.86 UAW MICRO AUTO
+00059 896071279 [DOB-193] +[DOB-192] [PHONE-191] 06 $6.21 OXYCODONE TAB 5MG
+00059 896071279 [DOB-190] [DOB-189] [PHONE-188] 06 $27.27 FENTANYL CIT0.1 MG INJ
+
+y: q p
+00059 ©996071279 [DOB-187] [DOB-186] + nndde776s8 «=0 $146.61 ONDANSETRON 4 MG INJ
+Account Total: $100.00
+Facility Total for 00059 -Frankfort Regional Hospital : $100.00
+Report Total: $100.00
+-CONFIDENTIALType 01= Payment, 04= Adjustment, 05= Allowance, 06= Charge
+The amounts shown are as of the date of the report and may not reflect all payments and/or adjustments to the account
+
+RT MED CTR
+99 KINGS DAUG. DR
+RI_KyY 406016514
+144
+8 PATIENT NAME
+ITIS FRANCES A
+10 BIRTHDATE ‘SEX
+4181970 | F
+RT RE
+PO 02333
+ATLANTA GA 30384-2333
+MED CTR
+ADDRESS
+FRANKFORT
+STAT :
+1
+b
+DHR
+1 ji
+724|Al Jo2724 41870
+62724
+062724 |B1 [041870
+AETNA MEDICARE PPO OR HM A3
+43 DESCRIPTION
+DRUGSSELF ADMIN
+LABCHEMISTRY
+LABCHEMISTRY
+LABHEMATOLOGY
+LABUROLOGY
+EMERG ROOM
+EMERG ROOM
+DRUGSDETAIL CODE
+(44 HCPCS/ RATE / HIPPS CODE 45SERV. DATE
+'B0053
+3690
+5027
+1001
+9284
+6374
+2405
+PAGE CREATION DATE
+BOPAYER NAME.
+TNA MEDICARE’ PPO OR
+MCD SECOND TOMCR
+OF 7
+HEALTH PLANID
+NOCD Y/Y
+99990023 Y]{[Y
+68INSURED'S NAME
+ITIS FRANCES A
+ITIS FRANCES A,
+60INSURED'S UNIQUE ID
+5524
+18 10028431061
+63 TREATMENT AUTHORIZATION CODES 64 DOCUMENT CONTROL NUMBER.
+b
+c
+d
+NI WKPUSS OB NUBC' Seem L1C3810506
+117 REDBUD LN
+62724
+62724
+62724
+62724
+62724
+62724
+62724
+$4 PRIOR PAYMENTS:
+SFED.TAXNO. OO59
+1 2
+737004
+46 SERV, UNITS. 47 TOTAL CHARGES 4B NON-COVERED CHARGES [49
+116370
+49464
+70686
+30186
+407495
+29755
+14661
+4
+EST.AMOUNT DUE
+J Y sv
+000 000 jomen! 01021799
+: “2 lprvip
+61GROUP NAME
+MA INDIVIDUAL
+DISABLED .
+62 INSURANCE GROUP NO,
+KY
+65 EMPLOYER NAME
+ATTENDING
+WANNER
+OPERATING 1922
+
+PATIENT No: [PHONE-185] FRANEFORT REG MED CTR BILLING DATE
+MED REC No: 44356 299 EINGS DAUGHTERS DR o7/o2/24
+GUARANTOR No:
+PATIENT: FRANEFORT KY 4060165
+WHITIS FRANCES A
+PAY TO ADDRESS: FRANEFORT REG MED CTR
+PO BOX 402333
+ATLANTA
+Gh 303842335
+BILL TO:
+WHITIS FRANCES A
+117 REDBUD LN
+FRANEFORT KY
+40601
+DATE OF BATCH F
+SERVICE REF DEPT 5SPROC
+301-LAB/ CHEMISTRY
+o62724 27BWLH O56 800122
+o62724 27BWLH O56 564162
+305-LAB/HEMATOLOGY
+O62724 27BWKM O736 850177
+o62724 27BWLH O56 850177
+307-LAB/ UROLOGY
+o62724 27BWLO O36 os 7770
+450-EMERG ROOM
+o62724 29NLPé6 ov80 319041
+o62724 29NLPé6 ov80 317563
+636-DRUGS/DETAIL CODE
+o62724 27BWKT ov12 677655
+637-DRUGS/SELF ADMIN
+o62724 27BWLI ovi2 241725
+80053
+83690
+s5027
+s5027
+81001
+99268425
+96374
+32405
+EMERGENCY
+ADMIT THRU
+NbC/CPT-4/
+HOPcs QTY Be Be
+e
+Be
+DISCHARGE CLAIM
+SERVICE DESCRIPTION
+COMP METABOLIC PANEL
+LIPASE
+SUBTOTAL:
+CBC AUTOMATED
+CBC AUTOMATED
+SUBTOTAL:
+UA W MICRO AUTO
+SUBTOTAL:
+LY¥YL 4 EMER DEPT
+IVF SINGLE/IMITIAL DRU
+SUBTOTAL:
+ONDANSETRON 4 MG INT
+SUBTOTAL:
+LEVSIN TAB
+SUBTOTAL:
+KY STATUTES PROHIBIT THE USE OF THIS STATEMENT FOR
+INSURANCE PAYMENT PURPOSES WHERE BENEFITS ARE ASSIGNED
+PAGE 1 00059
+14 ADMITTED DISCHARGED
+o6/27/24 06/28/24
+Fc=12
+CHARGES
+1163.
+494.
+1658.
+353.
+353.
+706.
+301.
+301.
+4074.
+297.
+4372.
+146.
+146.
+17.
+17.
+70
+64
+34
+43
+43
+36
+36
+36
+95
+55
+50
+61
+61
+82
+82
+PROC-CD-X
+ooo008o001z2
+o000864162
+ooo008s0177
+ooo008s0177
+ooo0003s7770
+[PHONE-103]
+oo003176863
+ooo0é6 77658
+[PHONE-104]
+
+PATIENT No: [PHONE-105] FRANEFORT REG MED CTR BILLING DATE PAGE 2 00059
+MED REC No: 44356 299 EINGS DAUGHTERS DR o7/o2/24
+GUARANTOR No:
+PATIENT: FRANEFORT KY 406016514 ADMITTED DISCHARGED
+WHITIS FRANCES A o6/27/24 06/28/24
+DATE OF BATCH F NbC/CPT-4/
+SERVICE REF DEPT 5SPROC HOPcs QTY SERVICE DESCRIPTION CHARGES PROC-CD-X
+637-DRUGS/SELF ADMIN
+062524 26BWLe ov12 241340 1 ONDANSETRON 4G TAB 148.235 [PHONE-106]
+062524 26BWLe ov12 241725 2 LEVSIN TAB 17.82 [PHONE-107]
+SUBTOTAL: 166.05
+TOTAL ANCILLARY CHARGES 7370.04
+TOTAL CHARGES 7370.04
+PAYMENTS -o0
+ADJUSTMENTS -o0
+BALANCE 7370.04
+KY STATUTES PROHIBIT THE USE OF THIS STATEMENT FOR
+INSURANCE PAYMENT PURPOSES WHERE BENEFITS ARE ASSIGNED
+
+PATIENT No: [PHONE-108] FRANEFORT REG MED CTR BI
+MED REC No: 44356 299 EINGS DAUGHTERS DR
+GUARANTOR No:
+PATIENT: FRANEFORT
+WHITIS FRANCES A
+DEPARTMENTAL CHARGE SUMMARY
+DEPT DESCRIPTION
+ovi2 PHARMACY
+o736 LABORATORY
+o780 EMERGENCY ROOM
+REVENUE CHARGE SUMMARY
+REV CD DESCRIPTION BILLABLE
+0301 LAaB/CHEMISTRY 1,658.54
+0305 LAB/HEMATOLOGY 706.66
+O307 LAB/sUROLOGY 301.66
+o450 EMERG ROOM 4,372.50
+0636 DRUGS/DETAIL CODE 146.61
+0637 DRUGS/SELF ADMIN 163.87
+TOTAL CHARGES:
+TOTAL PAYMENTS:
+TOTAL ADJUST:
+7,370.04
+.o0
+.o0
+LLING DATE
+o7/o2/24
+PAGE
+KY 406016514
+AMOUNT
+330.48
+2,667.06
+4,372.50
+NON-BILLABLE
+-o0
+-o0
+-o0
+-o0
+-o0
+-o0
+3 00059
+ADMITTED
+o6/27/24
+TOTAL
+1, 658.
+706.
+301.
+4,372.
+146.
+183.
+34
+56
+56
+50
+61
+a7
+DISCHARGED
+06/28/24
+
+Financial Transaction Listing PARALLON User: CFU3885
+HCAS eathae ByEntry Date [DOB-178]
+8:41 am
+Facility: 00059 Frankfort Regional Hospital
+Patient: WHITIS FRANCESA
+Facility AcctNumber EntryDate TransDate ProcCode =Type Amount Payer Comment
+00059 896082157 = [DOB-177] +=[DOB-176] 995647 06 $-100.00 04604 MCAIDKYCA
+ICN: FSD:186621657
+00059 896082157 = [DOB-175] +=[DOB-174] 992500 01 $-480.87 20676 ERAAEP 07/10/24
+ICN: E3ADDC71K0000
+00059 896082157 = [DOB-114] +=[DOB-115] 999999 06 $6,605.30 20676 CONTRACTUALADJ CC
+00059 896082157 = [DOB-116] +=[DOB-117] 999999 06 $-6,789.17 20676 CONTRACTUALADJ CC
+00059 896082157 == [DOB-118] + [DOB-119] 999999 06 $-6,605.30 20676 § CONTRACTUALADJ CC
+00059 896082157 =[DOB-120] + [DOB-121] [PHONE-165] 06 $4,074.95 LVL 4EMER DEPT
+00059 896082157 =[DOB-123] +=[DOB-124] + [PHONE-162] 06 $297.55 IVP SINGLE/INITIAL DRUG
+00059 896082157 =[DOB-126] +=[DOB-127] [PHONE-159] 06 $148.23 ONDANSETRON 4MG TAB
+00059 896082157 =[DOB-129] +=[DOB-130] + [PHONE-156] 06 $17.82 LEVSIN TAB
+00059 896082157 = [DOB-132] +=[DOB-133] + [PHONE-153] 06 $301.86 UAW MICRO AUTO
+00059 896082157 = [DOB-135] §=[DOB-136] + 000080177 =06 $393.43 CBC AUTOMATED
+00059 896082157 = [DOB-137] §=[DOB-149] + 000080177 =06 $393.43 CBC AUTOMATED
+00059 896082157 = [DOB-148] +=[DOB-140] + [PHONE-141] 06 $1,163.70 COMP METABOLIC PANEL
+00059 896082157 = [DOB-145] +=[DOB-143] + [PHONE-144] 06 $494.64 LIPASE
+00059 896082157 = [DOB-145] §=[DOB-146] [PHONE-147] 06 $17.82 LEVSIN TAB
+00059 896082157 = [DOB-148] +=[DOB-149] [PHONE-150] 06 $146.61 ONDANSETRON 4MG INJ
+Account Total: $0.00
+Facility Total for 00059 -Frankfort Regional Hospital : $0.00
+Report Total: $0.00
+-CONFIDENTIAL -
+Type 01= Payment, 04= Adjustment, 05= Allowance, 06= Charge
+The amounts shown are as of the date of the report and may not reflect all payments and/or adjustments to the account
+
+FRANKFORT REG MED CTR *RANKFORT REG MED CTR ame 596244033
+299 KINGS DAUGHTERS DR PO BOX 402333 fees. 000000044386
+FRANKFORT KY 406016514 |ATLANTA GA 30384-2333 srentaxno. OO59]° Same nove | MOOL
+[PHONE-151] 610859329] 090624] 090724
+8PATIENT NAME Is geanent aporess — [a] 117 REDEUD LN
+tWHITIS FRANCES A »]FRANKFORT lel Kyle] 40601 Ie]
+10BIRTHDATE I" SEX he pare HER Ne TYPE_15 SRC |16DHR 17STAT| 18 10- m_an_GRIONSODES) os 2 a oe| eee|
+04181970 | | KY]
+pa ENCE %, s &, oe ‘OCCURRI OUSURRENCE FAN ar
+404 Jo90624 AL 041870 AD 090624 ,
+xB
+UNITED FINANCIAL CAUSALI al :
+PO BOX 94621 b
+ic t
+CLEVELAND OH 44101 id : :
+42REV.CD. | 43 DESCRIPTION 44 HCPCS/ RATE / HIPPS CODE 45SERV. DATE 46 SERV, UNITS: 47 TOTAL CHARGES 48 NON-COVERED CHARGES [49
+10250 |DRUGSSELF ADMIN [090724 4 3564 3564
+10301| LABCHEMISTRY BO0053 090624 1 116370 :
+10301| LABCHEMISTRY B3880 090624 1 67959
+0301| LABCHEMISTRY B4484 D90624 1 57807
+0301| LABCHEMISTRY B4484 090724 1 57807
+0301| LABCHEMISTRY 83735 090624 1 48465
+10305| LABHEMATOLOGY 85378 90624 1 47142
+10305| LABHEMATOLOGY B5027 090624 1 35343
+10305| LABHEMATOLOGY B5610 090624 1 23004
+0324 |DX XRAYCHEST V1045 p90624 1 61236
+#0352 |CT SCANBODY V1275 90624 1 [PHONE-152] CT SCANBODY© 2131 090624 1 255333
+#0410|RESPIRATORY SVC 4644 920624 1 69083
+“0450 |EMERG ROOM _ 9284 25 p90624° 1 [PHONE-153] |EMERG ROOM 6376 090724 1 34128
+0450 |EMERG ROOM 6374 59 090624 1 29755
+"10636 |DRUGSDETAIL CODE 57030 090724 1 5249
+0.636 |DRUGSDETAIL CODE 17620 90624 2 3240
+“0636 |DRUGSDETAIL CODE 51170 p90624 1 1674
+0636 |DRUGSDETAIL CODE D1170° 090724 1 1674
+#10730 |EKGECG 3005 090624 1 33886
+20730 |EKGECG 3005 - 090724 1 33886 :
+~Q001 [PAGE 1 OFi __ CREATION DATE| 092424 Egeyg 1983607 3564
+SO-PAYER NAME. [stHEALTH PLAN 1D Fee]Be{s prion PAYMENTS 58 EST.AMOUNT DUE. senpt] [PHONE-154]
+4UNITED FINANCIAL CAUSAIWZ969 Y|lY [PHONE-155]|* | OTHOOO
+8) . : a : OTHER
+¢ I PRY ID
+66 INSURED'S NAME 59P.REL| 60 INSURED’S UNIQUE ID 61 GROUP NAME 62 INSURANCE GROUP NO,
+AWHITIS 20 CAB COMPANY
+83 TREATMENT AUTHORIZATION CODES: 64 DOCUMENT CONTROL NUMBER: 65 EMPLOYER NAME 1 UNEMPLOYED
+iS2220KA 7210 | | | | _F
+0
+ane Cove % [V892xxA |W228xxA|¥92410 |”
+a oR. OP rearrenons wi [PHONE-156][ax] |
+—leememrrrscrrcmeeee ust HANNA [rst JANE
+ie one ER PROCOUre vrorerarna fe[PHONE-157]|o] |
+ust HANNA Fest JANE
+coremnt® TDISCOUNTSAVAILABL ["B4282N00000 vaommer| fm [ous]
+BAS LAST FIRST
+; veoer | jel Jou] |
+d Last FIRST . 1
+HE CERTIFICATIONS ON THE REVERSE APPLY TOTHIS BILL AND ARE MADE A PART HEREOF. FAOSHD O59 PSPETE TONT®
+.
+WORE OSA NUBC' Seem L1C3810506
+
+PATIENT No: 596244033 FRANEFORT REG MED CTR BILLING DATE
+MED REC No: 44356 299 EINGS DAUGHTERS DR oof/25/24
+GUARANTOR No:
+PATIENT: FRANEFORT KY 4060165
+WHITIS FRANCES A
+PAY TO ADDRESS: FRANEFORT REG MED CTR
+PO BOX 402333
+ATLANTA
+Gh 303842335
+BILL TO:
+WHITIS FRANCES A EMERGENCY
+117 REDBUD LN REPLACEMENT OF PRIOR CLAIM
+FRANEFORT KY
+40601
+DATE OF BATCH F NbC/CPT-4/
+SERVICE REF DEPT 5SPROC HOPcs QTY SERVICE DESCRIPTION
+301-LAB/ CHEMISTRY
+o90624 O6BZH1i ov736 800122 80053 1 COMP METABOLIC PANEL
+o90624 O6BZH1i ov736 837352 83735 1 MAGNESIUM BLD
+o90624 O6BZH1i ov736 644540 84454 1 TROPONIN QUANT
+o90624 O6BZH1i ov736 835261 83680 1 NATRIURETIC PEPTIDE
+SUBTOTAL:
+305-LAB/HEMATOLOGY
+o90624 O6BZH1i ov736 850177 s5027 1 CBC AUTOMATED
+o90624 O6BZH1i ov736 656106 $5610 1 PROTINE
+o90624 O6BZH1i ov736 601261 85376 1 D-DIMER SEMI
+SUBTOTAL:
+324-DX X-RAY/ CHEST
+090624 O6B2ZH3 ov26 080369 71045 1 CHEST XRAY 1 V
+SUBTOTAL:
+352-CT SCAN/ BODY
+o90624 O6B2ZTi ov26 315166 71275 1 CTA CHEST
+o90624 O6B2ZTi ov26 029545 72131 1 CT L-SFINE W/O CONTRAS
+SUBTOTAL:
+410-RESPIRATORY Svc
+o90624 O6B2G9 o754 318456 94644 eCONT INHAL TRMT 15T Ho
+KY STATUTES PROHIBIT THE USE OF THIS STATEMENT FOR
+INSURANCE PAYMENT PURPOSES WHERE BENEFITS ARE ASSIGNED
+PAGE 1 00059
+14 ADMITTED DISCHARGED
+oo/o6/24 oo/or/24
+Fc=04
+CHARGES
+1163.
+464.
+S78.
+679.
+2906.
+353.
+230.
+471.
+1054.
+612.
+612.
+5394.
+2553.
+6446.
+690.
+70
+65
+ao?
+59
+o1
+43
+o4
+42
+89
+36
+36
+37
+a3
+30
+a3
+PROC-CD-X
+ooo008o001z2
+oo008s7352
+[PHONE-158]
+[PHONE-159]
+ooo008s0177
+[PHONE-160]
+[PHONE-161]
+[PHONE-162]
+[PHONE-163]
+ooo00029545
+[PHONE-164]
+
+PATIENT No: 596244033 FRANEFORT REG MED CTR BILLING DATE PAGE 2 00059
+MED REC No: 44356 299 EINGS DAUGHTERS DR oof/25/24
+GUARANTOR No:
+PATIENT: FRANEFORT KY 406016514 ADMITTED DISCHARGED
+WHITIS FRANCES A oo/o6/24 oo/or/24
+DATE OF BATCH F NbC/CPT-4/
+SERVICE REF DEPT 5SPROC HOPcs QTY SERVICE DESCRIPTION CHARGES PROC-CD-X
+SUBTOTAL: 690.95
+450-EMERG ROOM
+090624 O8NLVo9 o780 319041 99268425 1 LYL 4 EMER DEPT 4074.95 [PHONE-165]
+090624 O8NLVo9 o780 317563 9637459 1 IVF SINGLE/IMITIAL DRU 297.55 [PHONE-166]
+SUBTOTAL: 4372.50
+636-DRUGS/DETAIL CODE
+o90624 O6BZH2 ov12 o77so04 37620 2 INH ALB/IPRA Toz.5/0.5 32.40 o000077804
+o90624 O6BZH2 ov12 6768415 31170 1 HYDROMORPH O.5 MG INT 16.74 O000678415
+SUBTOTAL: 49.14
+730-EKG/ECG
+o90624 OSBB31 o744 317975 93005 1 EEG TRACING ONLY 336.86 [PHONE-167]
+SUBTOTAL: 336.66
+301-LAB/ CHEMISTRY
+os0724 OVBZIS ov3s6 644540 84454 1 TROPONIN QUANT 578.07 [PHONE-168]
+SUBTOTAL: 575.07
+450-EMERG ROOM
+os0724 O8NLVS o[PHONE-169] 96376 eIVP EL ADD SEQ SAME DR 341.25 [PHONE-170]
+SUBTOTAL: 341.25
+636-DRUGS/DETAIL CODE
+os0724 OVBZI3 ov12 6768415 31170 1 HYDROMORPH O.5 MG INT 16.74 O000678415
+os0724 OVBZI? oviz2 105111 77030 1 NS 1000 ML 52.49 [PHONE-171]
+SUBTOTAL: 69.235
+637-DRUGS/SELF ADMIN
+os0724 OVBZI? oviz2 241167 4 POTASSIUM CL 10MEQ ERT 35.64 [PHONE-172]
+SUBTOTAL: 35.64
+730-EKG/ECG
+os0724 OSBB31 o744 317975 93005 1 EEG TRACING ONLY 336.86 [PHONE-173]
+SUBTOTAL: 336.66
+KY STATUTES PROHIBIT THE USE OF THIS STATEMENT FOR
+INSURANCE PAYMENT PURPOSES WHERE BENEFITS ARE ASSIGNED
+
+PATIENT No: 596244033 FRANEFORT REG MED CTR BILLING DATE PAGE
+MED REC No: 44356 299 EINGS DAUGHTERS DR oof/25/24
+GUARANTOR No:
+PATIENT: FRANEFORT KY 406016514
+WHITIS FRANCES A
+DATE OF BATCH F NbC/CPT-4/
+SERVICE REF DEPT 5SPROC HOPcs QTY SERVICE DESCRIPTION
+TOTAL ANCILLARY CHARGES
+DATE OF BATCH PAY INS BILL
+PAYMENT REFER TYPE PROC PLAN THRU DT DESCRIPTION / COMMENT
+oo/o7/24 12FBIL 5 999999 206-76 09/07/24 CONTRACTUAL ADJ cc
+oo/o7/24 19LREY 5 999999 206-76 09/07/24 CONTRACTUAL IM
+oo/o7/24 20FBIL 5 999999 998-70 09/07/24 CONTRACTUAL ADJ cc
+TOTAL PAYMENTS
+TOTAL CHARGES
+PAYMENTS
+ADJUSTMENTS
+BALANCE
+KY STATUTES PROHIBIT THE USE OF THIS STATEMENT FOR
+INSURANCE PAYMENT PURPOSES WHERE BENEFITS ARE ASSIGNED
+3 00059
+ADMITTED DISCHARGED
+oo/o6/24 oo/or/24
+CHARGES PROC-CD-X
+19836. ao?
+AMOUNT
+18,742.
+18,742.
+15,612.
+15,612.
+19836.
+-o0
+15612.
+4223.
+62
+62-
+g2
+g2
+ao?
+g2
+1s
+
+PATIENT No:
+MED REC No:
+GUARANTOR No:
+PATIENT:
+WHITIS FRANCES A
+REV cD
+o301
+o305
+0324
+Oo352
+0410
+0450
+0636
+o6s7
+o7s0
+TOTAL CHARGES:
+596244033 FRANEFORT REG MED CTR
+44356 299 EINGS DAUGHTERS DR
+FRANEFORT
+DEPARTMENTAL CHARGE SUMMARY
+DEPT DESCRIPTION
+ovi2 PHARMACY
+o726 CT Scan
+ov725 RADIOLOGY
+o736 LABORATORY
+o744 EEG
+o7s4 REPIRATORY THERAPY
+o780 EMERGENCY ROOM
+REVENUE CHARGE SUMMARY
+DESCRIPTION BILLABLE
+LAB/ CHEMISTRY
+LAB/HEMATOLOGY
+DE X-RAY/ CHEST
+CT SCAN/ BODY
+RESPIRATORY SVC
+EMERG ROOM
+DRUGS/DETAIL CODE
+DRUGS/SELF ADMIN
+EEG/ECG
+19,836.07
+TOTAL PAYMENTS: O00
+TOTAL ADJUST: 15,612.92
+3,484.
+1,054.
+612.
+8,448.
+690.
+4,713.
+iis.
+35.
+677.
+BI
+o8
+69
+36
+30
+33
+73
+37
+64
+72
+LLING DATE
+oof/25/24
+PAGE
+KY 406016514
+AMOUNT
+154.
+6,448.
+612.
+4,538.
+677.
+690.
+4,713.
+o1
+30
+36
+a7
+Fe
+a3
+73
+NON-BILLABLE
+-o0
+-o0
+-o0
+-o0
+-o0
+-o0
+-o0
+-o0
+-o0
+4 00059
+ADMITTED
+oo/o6/24
+TOTAL
+3,484.
+1,054.
+612.
+8,448.
+690.
+4,713.
+iis.
+35.
+677.
+o8
+69
+36
+30
+33
+73
+37
+64
+72
+DISCHARGED
+oo/or/24
+
+— Financial Transaction Listin |
+PARALLON d User: CFU3885
+HCAHealthcare’ By Entry Date [DOB-174]
+8:43 am
+Facility: 00059 Frankfort Regional Hospital
+Patient: WHITIS FRANCESA
+Facility AcctNumber EntryDate TransDate ProcCode =Type Amount Payer Comment
+00059 996244033 [DOB-175] +[DOB-176] 992500 01 $-957.81 20676 ERAAEP 10/01/24
+ICN: EYPDFTFMP0003
+00059 996244033 [DOB-177] +[DOB-178] 9999d9 08 $-15,612.92 99870 CONTRACTUALADJ CC
+00059 996244033 [DOB-179] [DOB-180] 9999d9 06 $18,742.62 20676 CONTRACTUALIM
+00059 996244033 [DOB-181] [DOB-182] 9999d9 06 $-18,742.62 20676 CONTRACTUALADJ CC
+00059 596244033 [DOB-183] [DOB-184] [PHONE-185] 06 $338.86 EKG TRACING ONLY
+00059 ©596244033 [DOB-186] [DOB-187] [PHONE-188] 06 $338.86 EKG TRACING ONLY
+00059 ©596244033 [DOB-189] +[DOB-190] + [PHONE-191] 06 $4,074.95 LVL 4EMER DEPT
+00059 596244033 [DOB-192] +[DOB-193] [PHONE-194] = 06 $297.55 IVP SINGLE/INITIAL DRUG
+00059 596244033 [DOB-195] [DOB-196] [PHONE-197] ©06 $341.28 IVP EAADD SEQ SAME DRUG
+00059 596244033 ©[DOB-198] [DOB-199] [PHONE-200] +=06 $16.74 HYDROMORPH 0.5MGINJ
+00059 ©596244033 ©[DOB-201] [DOB-202] [PHONE-203] =06 $578.07 TROPONIN QUANT
+00059 ©596244033 [DOB-204] [DOB-205] [PHONE-206] +=06 $35.64 POTASSIUM CL 10MEQ ERTAB
+00059 996244033 [DOB-207] [DOB-208] + [PHONE-209] 06 $62.49 NS1000 ML
+00059 596244033 [DOB-210] +[DOB-211] [PHONE-212] 06 $690.93 CONT INHAL TRMT1STHOUR
+00059 596244033 [DOB-213] +[DOB-214] [PHONE-215] 06 $353.43 CBC AUTOMATED
+00059 596244033 [DOB-216] +[DOB-217] [PHONE-218] 06 $5,894.37 CTA CHEST
+00059 596244033 [DOB-219] +[DOB-220] [PHONE-221] 06 $2,553.93 CT L-SPINE W/O CONTRAST
+00059 596244033 [DOB-222] +[DOB-223] [PHONE-224] 06 $612.36 CHEST XRAY 1V
+00059 596244033 [DOB-225] +[DOB-226] [PHONE-227] 06 $230.04 PROTIME
+00059 596244033 [DOB-228] +[DOB-229] [PHONE-230] 06 $1,163.70 COMP METABOLIC PANEL
+00059 596244033 [DOB-231] +[DOB-232] [PHONE-233] ~=s- 06 $484.65 MAGNESIUM BLD
+00059 596244033 [DOB-234] +[DOB-235] [PHONE-236] 06 $578.07 TROPONIN QUANT
+00059 596244033 [DOB-237] +[DOB-238] + [PHONE-239] 06 $679.59 NATRIURETIC PEPTIDE
+00059 596244033 [DOB-240] +[DOB-241] [PHONE-242] 06 $471.42 D-DIMER SEMI
+00059 596244033 [DOB-243] +[DOB-244] [PHONE-245] 06 $32.40 INH ALB/IPRA T02.9/0.6MG
+00059 596244033 [DOB-246] +[DOB-247] [PHONE-248] =06 $16.74 HYDROMORPH 0.5MGINJ
+Account Total: $3,265.34
+Facility Total for 00059 -Frankfort Regional Hospital : $3,265.34
+
+Report Total: $3,265.34
+-CONFIDENTIALType 01= Payment, 04= Adjustment, 05= Allowance, 06= Charge
+The amounts shown are as of the date of the report and may not reflect all payments and/or adjustments to the account
+
+1
+RT MED CTR
+99 KINGS DAUG DR
+RT KY 406016514
+144
+68PATIENT NAME
+‘WHITIS FRANCES A
+10 BIRTHDATE ‘SEX
+4181970 | F
+190824[Al |041870
+90824
+MEDICAID OF KENTUCKY
+PO BOX 2106
+FRANKFORT KY 40602
+43 DESCRIPTION
+EMERG ROOM
+637 |DRUGSSELF ADMIN|
+637 |DRUGSSELF ADMIN
+42 REV.CD.
+PAGE
+5O-PAYER. NAME.
+TNA MEDICARE PPO OR
+ICAID OF KENTUCKY
+OF
+68INSURED'S NAME
+ITIS FRANCES A
+ITIS FRANCES A,
+63 TREATMENT AUTHORIZATION CODES
+PO
+ATLANTA GA 30384-2333
+RT RE
+02333
+MED
+ADDRESS
+FRANKFORT
+STAT :
+1
+DHR
+090824 |B1 [041870
+HEALTH PLAN 10
+999990023
+b
+c
+d
+EPPS OE
+44 HOPCS/RATE /HIPPS CODE
+540
+CREATION DATE
+NOCD Y)|Y Y]Y
+60INSURED'S UNIQUE ID
+5524
+18 [[PHONE-249]
+64 DOCUMENT CONTROL NUMBER.
+$4 PRIOR PAYMENTS:
+TR
+SFED.TAXNO. OO59
+1 2
+117 REDBUD LN
+10000
+45 SERV. DATE 46 SERV, UNITS.
+90824
+90824
+4
+EST. AMOUNT DUE
+060 163924
+ci GROUP RANE
+UNEMPLOYED
+UNEMPLOYED
+47 TOTAL CHARGES 4B NON-COVERED CHARGES [49
+4131
+2079
+4131
+sv
+omen! 282NO0000
+ravi] 406016514
+62 INSURANCE GROUP NO,
+KY
+65 EMPLOYER NAME
+V892
+ATTENDING
+TI
+OPERATING
+T
+OTHER
+12
+NUBC' Seem L1C3810506
+2712
+
+PATIENT No: 596245391
+MED REC No: 44356
+GUARANTOR No:
+PATIENT:
+WHITIS FRANCES A
+PAY TO ADDRESS:
+FRANEFORT REG MED CTR
+299 EINGS DAUGHTERS DR
+FRANEFORT
+PO BOX 402333
+ATLANTA
+Gh 303842335
+BILL TO:
+WHITIS FRANCES A
+117 REDBUD LN
+FRANEFORT KY
+40601
+DATE OF BATCH F
+SERVICE REF DEPT 5SPROC
+450-EMERG ROOM
+090824 10NLVD oO780 319037
+637-DRUGS/SELF ADMIN
+o90824 O8BADL ov12 241261
+o90824 O8BADL ov12 110762
+DATE OF BATCH PAY
+PAYMENT REFER TYPE PROC
+o9/08/24 13FBIL 5 999999
+05/16/24 16aEPM 1 992500
+O9/16/24 16LREVY 5 999999
+09/16/24 16RMIT 5 999999
+NbC/CPT-4/
+HOPcs QTY SERVICE DESCRIPTION
+99282 1 LYL 2 EMER DEPT
+SUBTOTAL:
+1 OXYCODONE 5/APAP
+38540 16 DEXAMETHASONE 4 MG PO
+SUBTOTAL:
+TOTAL ANCILLARY CHARGES
+INS BILL
+PLAN THRU DT DESCRIPTION / COMMENT
+206-76 09/08/24 CONTRACTUAL ADJ cc
+206-76 09/08/24 ERA AE P o9/i9/24
+206-76 09/08/24 CONTRACTUAL ADJ cc
+206-76 09/08/24 CONTRACTUAL ADJ cc
+10/21/24
+FRANEFORT REG MED CTR
+EMERGENCY
+REPLACEMENT OF PRIOR CLAIM
+TOTAL PAYMENTS
+TOTAL CHARGES
+PAYMENTS
+ADJUSTMENTS
+BALANCE
+KY STATUTES PROHIBIT THE USE OF THIS STATEMENT FOR
+INSURANCE PAYMENT PURPOSES WHERE BENEFITS ARE ASSIGNED
+BILLING DATE
+KY 406016514
+PAGE 1 00059
+ADMITTED DISCHARGED
+09/08/24 09/08/24
+Fc=12
+CHARGES PROC-CD-X
+1621.68 [PHONE-250]
+1621.68
+41.31 [PHONE-251]
+20.79 [PHONE-252]
+62.10
+1683.78
+AMOUNT
+1,497.93
+44.54
+1,497.93-
+1,539.24
+1,583.78
+1683.78
+44.54
+1539.24
+100.00
+
+PATIENT No: 596245391 FRANEFORT REG MED CTR BILLING DATE PAGE 2 00059
+MED REC No: 44356 299 EINGS DAUGHTERS DR 10/21/24
+GUARANTOR No:
+PATIENT: FRANEFORT KY 406016514 ADMITTED DISCHARGED
+WHITIS FRANCES A 09/08/24 09/08/24
+DEPARTMENTAL CHARGE SUMMARY
+DEPT DESCRIPTION AMOUNT
+ovi2 PHARMACY 62.10
+o780 EMERGENCY ROOM 1,621.65
+REVENUE CHARGE SUMMARY
+REV CD DESCRIPTION BILLABLE NON-BILLABLE TOTAL
+o450 EMERG ROOM 1,621.66 -o0 1,621.66
+0637 DRUGS/SELF ADMIN 62.10 -o0 62.10
+TOTAL CHARGES: 1,683.75
+TOTAL PAYMENTS: 44.54
+TOTAL ADJUST: 1,559.24
+
+— Financial Transaction Listin |
+PARALLON d User: CFU3885
+HCAHealthcare’ By Entry Date [DOB-253]
+8:44 am
+Facility: 00059 Frankfort Regional Hospital
+Patient: WHITIS FRANCESA
+Facility AcctNumber EntryDate TransDate ProcCode =Type Amount Payer Comment
+00059 596246391 [DOB-254] + [DOB-255] 992500 01 $-44.54 20676 ERAAEP 09/19/24
+ICN: ETADFWHGV0000
+00059 596245391 [DOB-256] +[DOB-257] 999999 06 $1,497.93 20676 CONTRACTUALADJ CC
+00059 596245391 [DOB-258] +[DOB-259] 999999 06 $-1,539.24 20676 CONTRACTUALADJ CC
+00059 596245391 [DOB-260] +[DOB-261] 999999 06 $-1,497.93 20676 CONTRACTUALADJ CC
+00059 596245391 =[DOB-262] + [DOB-263] [PHONE-264] 06 $1,621.68 LVL 2EMER DEPT
+00059 §96245391 [DOB-265] [DOB-266] [PHONE-267] 06 $20.79 DEXAMETHASONE 4MG PO
+00059 596245391 [DOB-268] +[DOB-269] [PHONE-270] 06 $41.31 OXYCODONE S/APAP
+Account Total: $100.00
+Facility Total for 00059 -Frankfort Regional Hospital : $100.00
+Report Total: $100.00
+-CONFIDENTIALType 01= Payment, 04= Adjustment, 05= Allowance, 06= Charge
+The amounts shown are as of the date of the report and may not reflect all payments and/or adjustments to the account
+
+1
+RT MED CTR
+99 KINGS DAUG DR
+RT KY 406016514
+144
+68PATIENT NAME
+‘WHITIS FRANCES A
+10 BIRTHDATE ‘SEX
+4181970 | F
+4 J091924JAl [041870
+UNITED FINANCIAL CASUALI
+PO BOX 94621
+CLEVELAND OH 44101
+43 DESCRIPTION
+352 [CT DY
+)450 |EMERG ROOM |
+42 REV.CD.
+PAGE
+BOPAYER NAME.
+ITED FINANCIAL CAS
+OF
+66 INSURED'S NAME.
+UEGRASS TAXI
+63 TREATMENT AUTHORIZATION CODES
+b
+c
+d
+NI
+PO
+ATLANTA GA 30384-2333
+DHR
+WEPTSPS O25
+RT RE
+02333
+MED
+ADDRESS
+FRANKFORT
+STAT :
+1
+44 HOPCS/RATE /HIPPS CODE
+9284 25
+TR 27107
+SFED.TAXNO. OO59
+1 2
+117 REDBUD LN
+9900] A3 662888
+45 SERV. DATE 46 SERV, UNITS. 47 TOTAL CHARGES 4B NON-COVERED CHARGES [49
+91924 407495
+CREATION DATE
+Y)|Y
+80 INSURED’S UNIQUE ID
+64 DOCUMENT CONTROL NUMBER.
+$4 PRIOR PAYMENTS: EST. AMOUNT DUE
+a7
+OTHER
+PRV ID
+61 GROUP NAME 62 INSURANCE GROUP NO,
+65 EMPLOYER NAME
+BLUEGRASS TAXI
+V892XXA|¥92410
+ATTENDING
+HANNA
+OPERATING 132
+NUBC' Seem L1C3810506
+
+PATIENT No: S96271073 FRANEFORT REG MED CTR BILLING DATE PAGE 1 00059
+MED REC No: 44356 299 EINGS DAUGHTERS DR 02/11/25
+GUARANTOR No:
+PATIENT: FRANEFORT KY 406016514 ADMITTED DISCHARGED
+WHITIS FRANCES A 05/19/24 oo/i9/24
+PAY TO ADDRESS: FRANEFORT REG MED CTR
+PO BOX 402333
+ATLANTA
+Gh 303842335
+BILL TO:
+WHITIS FRANCES A EMERGENCY Fc=04
+117 REDBUD LN REPLACEMENT OF PRIOR CLAIM
+FRANEFORT KY
+40601
+DATE OF BATCH F NbC/CPT-4/
+SERVICE REF DEPT 5SPROC HOPcs QTY SERVICE DESCRIPTION CHARGES PROC-CD-X
+352-CT SCAN/ BODY
+091924 19BDS5 ov26 315163 71250 1 CT CHEST W/O CONTRAST 2553.93 [PHONE-271]
+SUBTOTAL: 2553.95
+450-EMERG ROOM
+091924 21NLWB ovs0 319041 99268425 1 LYL 4 EMER DEPT 4074.95 [PHONE-272]
+SUBTOTAL: 4074.95
+TOTAL ANCILLARY CHARGES 6625.38
+DATE OF BATCH PAY INS BILL
+PAYMENT REFER TYPE PROC PLAN THRU DT DESCRIPTION / COMMENT AMOUNT
+o9/19/24 19FBIL 5 999999 998-70 09/19/24 CONTRACTUAL ADJ cc 5,226.96
+11/06/24 11ECDM 4 059633 226-01 09/19/24 8868 -o0
+TOTAL PAYMENTS 5,226.96
+TOTAL CHARGES 6625.38
+PAYMENTS -o0
+ADJUSTMENTS 5226.96
+BALANCE 1401.92
+KY STATUTES PROHIBIT THE USE OF THIS STATEMENT FOR
+INSURANCE PAYMENT PURPOSES WHERE BENEFITS ARE ASSIGNED
+
+PATIENT No: S96271073 FRANEFORT REG MED CTR BILLING DATE PAGE 2 00059
+MED REC No: 44356 299 EINGS DAUGHTERS DR 02/11/25
+GUARANTOR No:
+PATIENT: FRANEFORT KY 406016514 ADMITTED DISCHARGED
+WHITIS FRANCES A 05/19/24 oo/i9/24
+DEPARTMENTAL CHARGE SUMMARY
+DEPT DESCRIPTION AMOUNT
+o726 CT Scan 2,553.93
+o780 EMERGENCY ROOM 4,074.95
+REVENUE CHARGE SUMMARY
+REV CD DESCRIPTION BILLABLE NON-BILLABLE TOTAL
+0352 CT SCAN/BODY 2,553.93 -o0 2,553.93
+o450 EMERG ROOM 4,074.95 -o0 4,074.95
+TOTAL CHARGES: 6,628.88
+TOTAL PAYMENTS: O00
+TOTAL ADJUST: 5,226.96
+
+— Financial Transaction Listin |
+PARALLON d User: CFU3885
+HCAHealthcare’ By Entry Date [DOB-273]
+8:45 am
+Facility: 00059 Frankfort Regional Hospital
+Patient: WHITIS FRANCESA
+Facility AcctNumber EntryDate TransDate ProcCode =Type Amount Payer Comment
+00059 © 996271073 =[DOB-274] + [DOB-275] + 9999d9 06 $5,226.96 99870 CONTRACTUALADJ CC
+00059 © 996271073 =[DOB-276] + [DOB-277] + 9999d9 06 $6,617.26 99870 CONTRACTUALADJ CC
+00059 996271073 [DOB-278] [DOB-279] 9999d9 06 $-5,226.96 99870 CONTRACTUALADJ CC
+00059 =§996271073 = 1/11/2024 [DOB-280] +—99633 04 $0.00 22801 8868
+ICN: FSD:191179580
+00059 ©596271073 ==[DOB-281] [DOB-282] + [PHONE-283] 06 $4,074.95 LVL 4EMER DEPT
+00059 ©596271073 =[DOB-284] [DOB-285] [PHONE-286] = 06 $2,553.93 CT CHEST W/O CONTRAST
+AccountTotal: $11.62
+Facility Total for 00059 -Frankfort Regional Hospital : $11.62
+Report Total: $41.62
+-CONFIDENTIALType 01= Payment, 04= Adjustment, 05= Allowance, 06= Charge
+The amounts shown are as of the date of the report and may not reflect all payments and/or adjustments to the account

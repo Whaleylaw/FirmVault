@@ -1,0 +1,408 @@
+---
+case_slug: maryan-kassim
+created_at: 2026-02-17 00:04:54.273000+00:00
+document_category: insurance
+document_type: insurance
+extraction_method: native_text
+legacy_case_id: 2024-08-06-MVA-001
+mime_type: application/pdf
+page_count: 1
+quality_score: 100
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan-Kassim-MVA-08-06-2024/Medical/2024-08-06-Maryan-Kassim-Medical-Bills-Starlite-Injury-PIP-Payments-Summary.pdf
+source_hash: sha256:16dba2cc99b500e5fc4ac54c31fe672f72a9ea48fc4dc737d925bc92e1619c04
+---
+
+Named Insured: Abdullahi Kassim
+Injured Party: Maryan Kassim
+Claim Number: 24-711062492
+Date of Loss: 08/06/24
+Date Summary Generated: 01/27/25
+MDP
+Bill #
+795271
+44
+795271
+36
+795271
+30
+795458
+63
+795130
+79
+793078
+07
+793044
+79
+792544
+33
+792544
+18
+790894
+18
+790885
+98
+Provider
+STARLITE
+INJURY
+STARLITE
+INJURY
+STARLITE
+INJURY
+AMINS
+FAMILY
+PRACTICE
+ASSOCIA
+AMINS
+FAMILY
+PRACTICE
+ASSOCIA
+STARLITE
+INJURY
+STARLITE
+INJURY
+STARLITE
+INJURY
+STARLITE
+INJURY
+STARLITE
+INJURY
+STARLITE
+INJURY
+Date
+Received
+09/16/24
+09/17/24
+09/16/24
+09/18/24
+09/18/24
+09/04/24
+09/04/24
+09/02/24
+09/03/24
+08/21/24
+08/21/24
+Expense
+Type
+MEDICAL
+MEDICAL
+MEDICAL
+MEDICAL
+MEDICAL
+MEDICAL
+MEDICAL
+MEDICAL
+MEDICAL
+MEDICAL
+MEDICAL
+Service
+Dates
+09/16/24 -
+09/16/24
+09/12/24 -
+09/12/24
+09/11/24 -
+09/11/24
+08/09/24 -
+08/09/24
+08/16/24 -
+08/16/24
+09/04/24 -
+09/04/24
+09/03/24 -
+09/03/24
+08/29/24 -
+08/29/24
+08/28/24 -
+08/28/24
+08/20/24 -
+08/20/24
+08/19/24 -
+08/19/24
+Payments Summary
+Coverage
+PIP
+Total$ TotalS
+Approved Paid
+$335.0 $335.0
+0 0)
+$335.0 $335.0
+0 0
+$735.0 $735.0
+0 0
+$56.00 $56.00
+$83.37. $83.37
+$335.0 $335.0
+0 0
+$335.0 $335.0
+0 0
+$585.0 $585.0
+0 0
+$255.0 $255.0
+0 0
+$335.0 $335.0
+0 0
+$320.0 $320.0
+0 0
+Policy Limit Total Paid Deductible
+$10,000.00 $6,000.00 $0.00
+Applied PIP Medical Interest/
+To Payment Payment , Penalties/Payee
+Deductible Amt Amt Fees
+STARL
+$335.0 _ _ _ ITE
+0 INJUR
+Y
+STARL
+_ $335.0 _ _ _ ITE
+0 INJUR
+Y
+STARL
+_ $735.0 _ _ _ IE
+0 INJUR
+Y
+AMINS
+FAMIL
+Y
+— $56.00 - - — PRACT
+ICE
+ASSOC
+1A
+AMINS
+FAMIL
+Y
+— $83.37 - - — PRACT
+ICE
+ASSOC
+1A
+STARL
+_ $335.0 _ _ _ IE
+0 INJUR
+Y
+STARL
+_ $335.0 _ _ _ WE
+0 INJUR
+Y
+STARL
+_ $585.0 _ _ _ ITE
+0 INJUR
+Y
+STARL
+_ $255.0 _ _ _ ITE
+0 INJUR
+Y
+STARL
+_ $335.0 _ _ _ ITE
+0 INJUR
+Y
+STARL
+$320.0 _ _ ITE
+0 INJUR
+Offsets
+$0.00
+Invoice #
+1329271
+4
+1329270
+91
+1329270
+83
+1328769
+75
+1328769
+47
+1323579
+38
+1323579
+11
+1322388
+64
+1322388
+54
+1318444
+25
+1318444
+16
+Remaining
+$4,000.00
+Payment
+Status
+09/24/24
+09/24/24
+09/24/24
+09/23/24
+09/23/24
+09/11/24
+09/11/24
+09/09/24
+09/09/24
+08/29/24
+08/29/24
+
+MDP
+Bill #
+790875
+00
+789672
+99
+789645
+87
+789645
+78
+797987
+06
+796791
+84
+796668
+87
+796649
+95
+Provider
+STARLITE
+INJURY
+STARLITE
+INJURY
+STARLITE
+INJURY
+STARLITE
+INJURY
+STARLITE
+INJURY
+STARLITE
+INJURY
+STARLITE
+INJURY
+STARLITE
+INJURY
+Date
+Received
+08/21/24
+08/14/24
+08/14/24
+08/14/24
+10/01/24
+09/24/24
+09/24/24
+09/24/24
+Expense
+Type
+MEDICAL
+MEDICAL
+MEDICAL
+MEDICAL
+MEDICAL
+MEDICAL
+MEDICAL
+MEDICAL
+Service
+Dates
+08/14/24 -
+08/14/24
+08/08/24 -
+08/08/24
+08/13/24 -
+08/13/24
+08/12/24 -
+08/12/24
+09/25/24 -
+09/25/24
+09/24/24 -
+09/24/24
+09/19/24 -
+09/19/24
+09/12/24 -
+09/19/24
+Total $
+Approved
+$320.0
+0
+$350.0
+0
+$260.0
+0
+$260.0
+)
+$230.6
+3
+$335.0
+0
+$335.0
+0
+$200.0
+0
+Total $
+Paid
+$320.0
+$350.0
+$260.0
+$260.0
+$230.6
+$335.0
+$335.0
+$200.0
+0
+Applied PIP Medical Interest/
+To Payment Payment
+Deductible Amt
+$320.0
+0
+$350.0
+$260.0
+$260.0
+$230.6
+$335.0
+$335.0
+$200.0
+Copay :
+Penalties/Payee Amt y
+Amt Fees
+STARL
+ITE
+INJUR
+STARL
+ITE
+INJUR
+STARL
+ITE
+INJUR
+STARL
+ITE
+INJUR
+STARL
+ITE
+INJUR
+STARL
+ITE
+INJUR
+STARL
+ITE
+INJUR
+STARL
+ITE
+INJUR
+Invoice #
+1318444
+10
+1314843
+69
+1314843
+66
+1314843
+62
+1335667
+58
+1332482
+05
+1332482
+02
+1332481
+91
+Payment
+Status
+08/29/24
+08/21/24
+08/21/24
+08/21/24
+10/08/24
+10/01/24
+10/01/24
+10/01/24

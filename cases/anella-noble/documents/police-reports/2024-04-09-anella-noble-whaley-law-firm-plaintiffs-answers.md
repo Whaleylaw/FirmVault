@@ -1,0 +1,367 @@
+---
+case_slug: anella-noble
+created_at: 2026-02-16 22:02:39.315000+00:00
+document_category: police-reports
+document_date: 1989-02-19
+document_type: police_report
+entities:
+- State Farm
+- GEICO
+extraction_method: native_text
+legacy_case_id: 2021-01-03-MVA-001
+mime_type: application/pdf
+page_count: 1
+quality_score: 100
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella-Noble-MVA-01-03-2021/Court-Pleadings/2024-04-09-Anella-Noble-Whaley-Law-Firm-Plaintiffs-Answers.pdf
+source_hash: sha256:361bdd1e27b2f0c7d4a6d3bbe49b82f034e974ad7e72b439481bb385954fab41
+---
+
+CASE NO.: 21-CI-004985 JEFFERSON CIRCUIT COURT 
+DIVISION 5 (FIVE)
+HON. JUDGE TRACY DAVIS
+ANELLA NOBLE PLAINTIFF 
+v. 
+VIRGINIA SEWELL 
+-andESTATE OF DESHAWN FORD DEFENDANTS 
+PLAINTIFF’S ANSWERS TO REQUESTS FOR ADMISSION 
+PROPOUNDED BY DEFENDANT ESTATE OF DESHAWN FORD 
+*** *** *** 
+ Comes the Plaintiff, Anella Noble, by and through counsel, and for her Answers to 
+Requests for Admissions propounded by Defendant Estate of Deshawn Ford and states as follows: 
+REQUESTS FOR ADMISSIONS 
+REQUEST NO. 1: Admit that you do not know the identity of the driver involved in the 
+accident that occurred on January 3, 2021, on West Hall Avenue in Louisville, Kentucky. 
+RESPONSE: Objection. The term “know” as used in this Request is vague and ambiguous. 
+Without clarification as to the specific standard or criteria by which 'know' is 
+being interpreted, it is unclear whether the term refers to actual knowledge, 
+reasonable belief, or some other standard. Without further clarification, 
+responding to this Request for Admission would be unduly burdensome and 
+could lead to confusion and misunderstanding. Without waiving said object, 
+deny. 
+
+ 2 
+INTERROGATORIES 
+INTERROGATORY NO. 1: If the previous Request for Admission was denied, please set 
+forth the factual basis of your denial as well as any documents, photographs, notes, or other 
+tangible item in support of your denial. 
+ANSWER: Objection. The term “know” as used in the preceding Request for Admission 
+is vague and ambiguous. Without clarification as to the specific standard or 
+criteria by which 'know' is being interpreted, it is unclear whether the term 
+refers to actual knowledge, reasonable belief, or some other standard. Without 
+further clarification, responding to this Interrogatory would be unduly 
+burdensome and could lead to confusion and misunderstanding. Without 
+waiving said object, Plaintiff states that she learned the driver was Deshawn 
+Ford from the other occupants in the vehicle and the Police Report, attached 
+hereto. 
+Respectfully submitted, 
+ /s/ Aaron G. Whaley 
+AARON G. WHALEY 
+712 Lyndon Lane 
+Louisville, KY 40222 
+P: [PHONE-20] 
+F: [PHONE-19] 
+[EMAIL-3]
+Counsel for Plaintiff 
+ 
+
+ 3 
+CERTIFICATE OF SERVICE 
+It is hereby certified that a true and complete copy of the foregoing was served via 
+electronic mail on this 9th day of April, 2024 to the following: 
+Curt L. Sitlinger 
+SITLINGER LAW 
+320 Whittington Parkway, Suite 304 
+Louisville, KY 40222 
+Phone: [PHONE-17] 
+Fax: [PHONE-5] 
+E-mail:[EMAIL-6] 
+Counsel for Defendant, Estate of Deshawn Ford 
+Renee Hoskins 
+SMITH & HOSKINS, PLLC 
+6010 Brownsboro Park Blvd., Ste. B 
+Louisville, KY 40207 
+Email: [EMAIL-7] 
+Counsel for Defendant, Virginia Sewell 
+Richard Edwards 
+BOEHL STOPHER & GRAVES 
+400 West Market St., Ste. 2300 
+Louisville, KY 40202 
+Email: [EMAIL-8] 
+Counsel for Defendant, State Farm 
+Mutual Automobile Ins. Co. 
+ /s/ Aaron G. Whaley 
+Counsel for Plaintiff
+
+INVESTIGATOR BEAT OR POST #
+TOTAL LANES
+NO
+LATITUDE
+KENTUCKY UNIFORM POLICE
+TRAFFIC COLLISION REPORT
+MASTER FILE #
+72581366
+INVESTIGATING AGENCY AGENCY ORI NUMBER LOCAL CODE
+LOUISVILLE METRO POLICE DEPT 0568000 [PHONE-9]
+ROADWAY NAME
+ROADWAY #
+WESTHALL AVE WILDERNESS RD
+IN CITY LIMITS? COLLISION DATE AND TIME
+MILES FROM CITY
+0.335 1 0 2 YES NO 25 MPH
+YES [DOB-10] 19:22
+05 - REAR END 03 - ON ROADWAY 12 - STOP SIGN
+ROADWAY TYPE RDWY SURFACE ROADWAY CONDITION
+03 - LOCAL STREET 2 06 - STRAIGHT & LEVEL 01 - ASPHALT 01 - DRY
+WEATHER LIGHT CONDITION LAND USE SCHOOL BUS RELATED
+05 - DARK-HWY LIGHTED/ON 06 - RESIDENTIAL 03 - NOT APPLICABLE
+INJURED REMOVED TO
+YES LMEMS
+EMS AGENCY AND RUN # EMS AGENCY AND RUN # EMS AGENCY AND RUN #
+NOTIFIED TIME ARRIVED TIME TIME AT HOSPITAL NOTIFIED TIME ARRIVED TIME TIME AT HOSPITAL NOTIFIED TIME ARRIVED TIME
+165021001020
+19:22 19:28 19:45
+INJURED OR DECEASED REMOVED BY
+03 - MUNICIPAL/COUNTY EMERGENCY VEHICLE
+1 PROPERTY DAMAGE - OTHER THAN VEHICLES PROPERTY
+OWNER/ADDRESS
+2
+OWNER/ADDRESS
+3 PROPERTY DAMAGE - OTHER THAN VEHICLES PROPERTY
+OWNER/ADDRESS
+INV. COMPLETE NO PHOTOS NO PHOTOGRAPHER UNIT NO.
+LOVEWELL, NATHANIEL 7166 325C 19:22 19:31 20:13
+PARKING LOT: N Y BETWEEN STREETS: N
+FROM: DIR:
+DIR:
+LONGITUDE
+DEG:
+DEG:
+MIN:
+MIN:
+38
+85
+9.246
+46.550
+SECONDARY COLLISION: NO
+MANNER OF COLLISION LOCATION 1ST EVENT
+TO:
+COUNTY: 056 - JEFFERSON
+NO
+Frontage Rd
+DISTANCE FROM MILEPOINT
+INTERSECTION WITH:
+MILEPOINT # INJURED KILLED # UNITS INVOLVED HIT & RUN ONE WAY SPEED LIMIT
+CITY/TOWN: 05602 - LOUISVILLE RAMP:
+TRAFFIC CONTROL
+ROADWAY CHARACTER
+FIRST AID AT SCENE FIRST AID GIVEN BY
+05624 - BAPTIST EAST
+ PROPERTY DAMAGE - OTHER THAN VEHICLES PROPERTY
+ID NUMBER TIME NOTIFIED TIME ARRIVED RDWY OPENED
+TIME AT HOSPITAL
+MEDIAN CROSSOVER:
+RECONSTRUCTION PENDING NO
+REVIEWED BY PAGE
+KSP 74 Revised 7/2008
+Fleener, Monica 1 OF 5
+
+Officer arrived on scene of a reported injury accident where operator of Unit 1 fled the scene on foot and
+left the vehicle. Unit 2 was occupied three times. The rear passenger was taken to the hospital with
+possible injuries. Unit 2 driver and front passenger did not have operator licenses. Unit 2 operator was
+cited under citation number DQ70306. Unit 1 operator was not on seen when police arrived. Officers
+located a photo of suspected male on social media of a male described as the subject that fled. The subject
+was identified by the driver and front passenger as an individual known to Unit 1 vehicle owner. Officers
+found out that the vehicle owner then made a stolen vehicle report for her vehicle while officers were on
+scene working the accident. Officers called Unit 1 vehicle owner and she stated she spoke with her
+boyfriend prior to filing the report for the stolen vehicle.
+There was no damage to the vehicle's ignition and it being a push start would not allow the vehicle to start
+without a key. Officers spoke with the vehicle owner and she stated she only has one set of keys. Then she
+changed her statement when confronted about the ignition. She then stated she had a spare but has not
+been able to locate that key for a while.
+KENTUCKY UNIFORM POLICE TRAFFIC COLLISION REPORT - NARRATIVE
+MASTER FILE # 72581366
+ INVESTIGATING AGENCY LOUISVILLE METRO POLICE DEPT AGENCY ORI 0568000 LOCAL CODE [PHONE-11]
+KSP 74 Revised
+1/2000
+PAGE
+2 OF 5
+
+ GVWR TOTAL
+ US DOT #
+ [DOB-12] 08
+OPERATORS LICENSE RESTRICTIONS
+KENTUCKY UNIFORM POLICE TRAFFIC COLLISION REPORT - UNIT
+MASTER FILE # 72581366
+INVESTIGATING AGENCY LOUISVILLE METRO POLICE DEPT AGENCY ORI 0568000 LOCAL CODE [PHONE-13]
+PEDESTRIAN FACTORS
+COMPLIANT
+ UNIT # TOWED? # OCCUPANTS
+ OPERATOR'S LIC. NO. STATE
+ CDL CO. RESIDENT OWNER
+ OPERATOR NAME (LN, FN, MI)
+ BIRTH DATE ADDRESS
+1 YES - LMPD TOW LOT 1
+ A. PRE-COLLISION VEHICLE ACTION B. UNIT TYPE C. FIRE D. OVERTURNED
+E. HUMAN FACTORS
+ F-H. EVENT COLLISION
+ I. VEHICULAR FACTORS J. ENVIRONMENTAL FACTORS
+ K. UNDERRIDE/OVERRIDE
+13 - SLOWING OR STOPPED 07/08 - LT TRUCK(VAN/SPORTS UTILITY/PICKUP) NO NO
+11 - FOLLOWING TOO CLOSE
+1ST: 05 - OTHER MOTOR VEHICLE
+99 - NONE DETECTED 99 - NONE DETECTED
+01 - NO UNDERRIDE/OVERRIDE
+ INVOLVED PERSONS: NAME, ADDRESS, CITY, STATE AND ZIP
+ SEWELL, VIRGINIA P.
+ 5208 HASBROOK DR, #102
+ LOUISVILLE, KY 40229
+FEMALE NO
+ VEH YEAR MAKE MODEL TYPE STATE REGISTRATION NUMBER YEAR
+2019 DODGE JOURNEY LL KY 877ZVJ 2021
+ VIN (VEHICLE ID #) VEH INSURED
+3C4PDCBB4KT863747 NO WHITE
+1ST AREA OF CONTACT 1ST AREA CONTACT - COMBINATION VEH EXTENT OF DAMAGE AIR BAG SWITCH
+ ESTIMATED TRAVEL SPEED
+TRAVEL DIRECTION
+MOST HARMFUL EVENT
+12 - 12 O'CLOCK VERY MINOR NOT PRESENT SOUTH
+BETWEEN 5 & 10
+COMMERCIAL VEH HAZ CARGO HAZ SPILL HAZ. MAT. # TYPE CARGO/COMMODITY NAS SAFETY REPORT #
+NO
+ MOTOR CARRIER ADDRESS
+ VIOL CODES CITATION # CASE NUMBER SUSPECTED DRINKING
+DRIVER
+ METHOD OF DETERMINATION
+ LIC. CLASS ENDORSEMENT
+LARGE TRUCK / BUS
+NO
+ VEHICLE CONFIGURATION
+PLACARD PRESENT
+TOWED DUE
+TO DISABLED?
+NO
+ CARGO BODY TYPE BUS USE
+ SINGLE/ COMBINATION/BOBTAIL NO. AXLES NO. TRAILERS ICC MC # CRASH AVOIDANCE (Fatal Only)
+ NAME OF INSURANCE CO. INSURANCE POLICY # COLOR OF VEH
+ HM CLASS CARRIER TYPE
+ MOTOR CARRIER NAME CARRIER NAME SOURCE
+TAKEN BY
+Label7
+DOB/DOD 14 15 16 17 18 19 20 21 22 23
+TEST OFFER'D CHEMICAL TEST TESTED FOR
+KSP 74 Revised 7/2008
+3 OF 5
+SENT TO RESULTS PAGE
+
+ GVWR TOTAL
+ US DOT #
+ [DOB-14] 01
+ NOBLE, ANELLA
+ ,
+OPERATORS LICENSE RESTRICTIONS
+KENTUCKY UNIFORM POLICE TRAFFIC COLLISION REPORT - UNIT
+MASTER FILE # 72581366
+INVESTIGATING AGENCY LOUISVILLE METRO POLICE DEPT AGENCY ORI 0568000 LOCAL CODE [PHONE-15]
+PEDESTRIAN FACTORS
+COMPLIANT
+ UNIT # TOWED? # OCCUPANTS
+ OPERATOR'S LIC. NO. STATE
+ CDL CO. RESIDENT OWNER
+ OPERATOR NAME (LN, FN, MI)
+ BIRTH DATE ADDRESS
+2 NO 3
+NO
+NO YES NO
+LLOYD, ALELA C.
+[DOB-16] 1038 LOGAN ST, #1
+LOUISVILLE, KY 40204
+ A. PRE-COLLISION VEHICLE ACTION B. UNIT TYPE C. FIRE D. OVERTURNED
+E. HUMAN FACTORS
+ F-H. EVENT COLLISION
+ I. VEHICULAR FACTORS J. ENVIRONMENTAL FACTORS
+ K. UNDERRIDE/OVERRIDE
+13 - SLOWING OR STOPPED 14 - PASSENGER CAR NO NO
+97 - OTHER
+1ST: 05 - OTHER MOTOR VEHICLE
+99 - NONE DETECTED 99 - NONE DETECTED
+01 - NO UNDERRIDE/OVERRIDE
+ INVOLVED PERSONS: NAME, ADDRESS, CITY, STATE AND ZIP
+ LLOYD, ALELA C.
+ 1038 LOGAN ST, #1
+ LOUISVILLE, KY 40204
+FEMALE NO 11 05 01 01 01 01 01
+ BURRES, MALEA D.
+ 5303 HALSEY CT
+ LOUISVILLE, KY 40214-0000
+FEMALE 01 01 01 01 01
+FEMALE [DOB-1] 02 YES 23 04 08 01 01 01 01 01
+ VEH YEAR MAKE MODEL TYPE STATE REGISTRATION NUMBER YEAR
+2012 FORD FUSION 4D KY A[PHONE-17]
+ VIN (VEHICLE ID #) VEH INSURED
+3FAHP0JA0CR136550 YES GEICO WHITE
+1ST AREA OF CONTACT 1ST AREA CONTACT - COMBINATION VEH EXTENT OF DAMAGE AIR BAG SWITCH
+ ESTIMATED TRAVEL SPEED
+TRAVEL DIRECTION
+MOST HARMFUL EVENT
+06 - 6 O'CLOCK VERY MINOR NOT PRESENT SOUTH
+BETWEEN 1 & 5 MPH
+COMMERCIAL VEH HAZ CARGO HAZ SPILL HAZ. MAT. # TYPE CARGO/COMMODITY NAS SAFETY REPORT #
+NO
+ MOTOR CARRIER ADDRESS
+ VIOL CODES CITATION # CASE NUMBER SUSPECTED DRINKING
+DRIVER
+ METHOD OF DETERMINATION
+00380
+00424
+00530
+DQ70306 802100497
+NO
+02 - OBSERVATION
+ LIC. CLASS ENDORSEMENT
+LARGE TRUCK / BUS
+NO
+ VEHICLE CONFIGURATION
+PLACARD PRESENT
+TOWED DUE
+TO DISABLED?
+NO
+ [DOB-18] 08,02
+ CARGO BODY TYPE BUS USE
+ SINGLE/ COMBINATION/BOBTAIL NO. AXLES NO. TRAILERS ICC MC # CRASH AVOIDANCE (Fatal Only)
+ NAME OF INSURANCE CO.
+[PHONE-19]
+ INSURANCE POLICY # COLOR OF VEH
+ HM CLASS CARRIER TYPE
+ MOTOR CARRIER NAME CARRIER NAME SOURCE
+TAKEN BY
+NO 13 05
+Label7
+DOB/DOD 14 15 16 17 18 19 20 21 22 23
+TEST OFFER'D CHEMICAL TEST TESTED FOR
+NO
+KSP 74 Revised 7/2008
+4 OF 5
+SENT TO RESULTS PAGE
+
+KENTUCKY UNIFORM POLICE TRAFFIC COLLISION REPORT - WITNESS
+ MASTER FILE # 72581366
+ INVESTIGATING AGENCY LOUISVILLE METRO POLICE DEPT AGENCY ORI 0568000 LOCAL CODE [PHONE-20]
+WITNESS DOB
+ OFC. POND, S 7160
+WITNESS DOB
+WITNESS DOB
+WITNESS DOB
+WITNESS DOB
+WITNESS DOB
+WITNESS DOB
+WITNESS DOB
+WITNESS DOB
+WITNESS DOB
+WITNESS DOB
+WITNESS DOB
+WITNESS DOB
+WITNESS DOB
+WITNESS DOB
+KSP 74 Revised 7/2008
+PAGE
+5 OF 5

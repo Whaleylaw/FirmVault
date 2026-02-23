@@ -1,0 +1,96 @@
+---
+case_slug: charles-godsey
+created_at: 2026-02-16 22:22:04.079000+00:00
+document_category: financial
+document_type: financial
+extraction_method: native_text
+legacy_case_id: 2025-06-30-MVA-001
+mime_type: application/pdf
+page_count: 1
+quality_score: 100
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charles-Godsey-MVA-6-30-2025/Medical/2025-06-30-Charles-Godsey-Medical-Records-Mary-Elizabeth-Hospital-visit-1.pdf
+source_hash: sha256:78daaec74022f38c8272acc5de8f23b9e12f854f9324a98b13702796c7cc663f
+---
+
+07/07/25
+
+GODSEY JR
+
+DM DO
+
+06/30/25
+
+CHARLES LEO GODSEY JR
+
+4408 HAZLEWOOD AVE
+
+LOUISVILLE
+
+06/30/25 10648 203.00 203.00
+
+06/30/25 | 10166 1,105.00
+
+06/30/25 lL 10175 318.00
+
+06/30/25 | 10274 949.00
+
+06/30/25 lL 10572 342.00 2,714.00
+
+06/30/25 20006 1,175.00
+
+1,175.00
+
+06/30/25 11628 50.00
+
+50.00
+
+KY 40215
+
+**x* 260 IV THERAPY INJ THER PROPH DIAG SQ IM
+
+TOTAL IV THERAPY
+
+**x* 320 DIAGNOSTIC RADIOLOGY CR EXAM OF NECK SPINE
+
+CR L SPINE 2 OR 3 VIEWS
+
+CR KNEE 3 VIEWS RT
+
+CR HUMERUS 2 VIEWS RT
+
+TOTAL DIAGNOSTIC RADIOLOGY
+
+*** 450 EMERGENCY ROOM
+
+EMERGENCY ROOM LEVEL 3 W MOD
+
+TOTAL EMERGENCY ROOM
+
+*** 636 DRUGS/DETAIL CODE KETOROLAC 30 MG/1 ML INJ
+
+TOTAL DRUGS/DETAIL CODE
+
+CHARLES LEO 25181-01146 001 ERV
+
+06/30/25
+
+203.00
+
+1,105.00 318.00 949.00
+
+342.00
+
+1,175.00
+
+50.00
+
+
+
+
+TOTAL CHARGES
+
+4,142.00 07/16/25 HON TO853Managed Medicaid Payment 200 745.56CR 07/16/25 HON A2982Manual Managed Medicaid Adj 200 3,396.44CR
+
+TOTAL PAYMENTS/ADJUSTMENTS 4,142.00CR
+
+BALANCE DUE

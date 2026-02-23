@@ -1,0 +1,25 @@
+---
+case_slug: tonya-dunn
+created_at: 2026-02-17 00:37:32.360000+00:00
+document_category: police-reports
+document_date: 2025-09-24
+document_type: police_report
+extraction_method: native_text
+legacy_case_id: 2025-09-24-MVA-002
+mime_type: application/json
+page_count: 1
+quality_score: 95
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Tonya-Dunn-MVA-9-24-2025/extractions/fda4282f-ff3f-4e53-917e-a77f5d37ecc6.jpg_extraction.json
+source_hash: sha256:8b59e59da4313d26e58f21878d532644ee6c96855f00180111a4b2a11c2ba833
+---
+
+category: Investigation
+description: Photo from accident scene or vehicle damage related to Tonya Dunn's MVA on 2025-09-24.
+entities[0]: Tonya Dunn
+entities[1]: 2008 Chevrolet Impala
+extracted_date: 2025-09-24
+folder_structure.bucket: Investigation
+folder_structure.category: Photos
+folder_structure.subcategory: Scene Photos
+original_filename: fda4282f-ff3f-4e53-917e-a77f5d37ecc6.jpg
+original_path: fda4282f-ff3f-4e53-917e-a77f5d37ecc6.jpg

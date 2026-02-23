@@ -1,0 +1,51 @@
+---
+case_slug: caryn-mccay
+created_at: 2026-02-16 22:17:43.983000+00:00
+document_category: insurance
+document_date: 2025-01-28
+document_type: insurance
+entities:
+- Allstate
+extraction_method: native_text
+legacy_case_id: 2023-07-30-MVA-001
+mime_type: application/json
+page_count: 1
+quality_score: 90
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-McCay-MVA-7-30-2023/Reports/2026-02-01-file-organization/extractions/2025-01-28-Caryn-McCay-Allstate-discovery-status_extraction.json
+source_hash: sha256:853af9ad97460851fadc6651138f3a36a06c66dafe59cbef7893cf29722ab94d
+---
+
+extraction.classification.bucket: Insurance
+extraction.classification.confidence: high
+extraction.classification.document_type: insurance_correspondence
+extraction.content_summary.key_facts[0]: Allstate discovery status update
+extraction.content_summary.key_facts[1]: Litigation phase correspondence
+extraction.content_summary.page_count: 1
+extraction.date_info.date_rule_applied: Date the correspondence was written
+extraction.date_info.date_type: letter_date
+extraction.date_info.primary_date: 2025-01-28
+extraction.description.detail: Discovery status update from insurer
+extraction.description.is_multi_visit: false
+extraction.description.visit_count: 0
+extraction.description.what_value: Discovery-Status
+extraction.entities.primary.formatted_name: Allstate
+extraction.entities.primary.name: Allstate
+extraction.entities.primary.type: insurance_company
+extraction.filename_parts.category: Insurance
+extraction.filename_parts.client: Caryn McCay
+extraction.filename_parts.date: 2025-01-28
+extraction.filename_parts.extension: pdf
+extraction.filename_parts.what: Discovery-Status
+extraction.filename_parts.who: Allstate
+extraction.folder_structure.bucket: Insurance
+extraction.folder_structure.category_source: tier2
+extraction.folder_structure.tier1: Bodily Injury (BI)
+extraction.folder_structure.tier2: Allstate
+extraction.uncertainties.category_uncertain: false
+extraction.uncertainties.notes: Insurance correspondence regarding discovery
+extraction.uncertainties.what_uncertain: false
+extraction.uncertainties.who_uncertain: false
+extraction_metadata.confidence_score: 0.95
+extraction_metadata.extracted_at: 2024-12-22T15:30:00Z
+extraction_metadata.model_used: claude-haiku-4
+file_path: 2025-01-28-Caryn-McCay-Allstate-discovery-status.pdf

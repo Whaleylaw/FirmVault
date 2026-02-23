@@ -1,0 +1,47 @@
+---
+case_slug: torrey-green
+created_at: 2026-02-17 00:37:54.586000+00:00
+document_category: financial
+document_date: 2025-09-24
+document_type: financial
+extraction_method: native_text
+legacy_case_id: 2025-09-03-MVA-002
+mime_type: application/json
+page_count: 1
+quality_score: 90
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey-Green-MVA-9-03-2025/Reports/extractions/intake
+  2025-09-24 18-23-47.md_extraction.json
+source_hash: sha256:78b48d90a20b53d627fc970cd581331e00a277aa8a99b3207563bed8f035128c
+---
+
+extraction.classification.bucket: Client
+extraction.classification.confidence: high
+extraction.classification.document_type: intake_forms
+extraction.content_summary.key_facts[0]: Same as intake PDF
+extraction.content_summary.key_facts[1]: 12-page intake forms
+extraction.content_summary.page_count: 12
+extraction.date_info.date_details: Completed [DOB-1] at 18:23
+extraction.date_info.date_rule_applied: Date completed and signed
+extraction.date_info.date_type: signed_date
+extraction.date_info.primary_date: 2025-09-24
+extraction.description.detail: Text extraction of intake packet
+extraction.description.what_value: Intake-Forms
+extraction.entities.primary.formatted_name: Whaley-Law-Firm
+extraction.entities.primary.name: The Whaley Law Firm
+extraction.entities.primary.type: law_firm
+extraction.filename_parts.category: Client
+extraction.filename_parts.client: Torrey Green
+extraction.filename_parts.date: 2025-09-24
+extraction.filename_parts.extension: md
+extraction.filename_parts.what: Intake-Forms
+extraction.filename_parts.who: Whaley-Law-Firm
+extraction.folder_structure.bucket: Client
+extraction.folder_structure.category_source: bucket
+extraction.uncertainties.category_uncertain: false
+extraction.uncertainties.notes: MD version of PDF
+extraction.uncertainties.what_uncertain: false
+extraction.uncertainties.who_uncertain: false
+extraction_metadata.confidence_score: 0.95
+extraction_metadata.extracted_at: 2026-02-03T19:45:00Z
+extraction_metadata.model_used: claude-3-5-sonnet-20241022
+file_path: intake 2025-09-24 18-23-47.md

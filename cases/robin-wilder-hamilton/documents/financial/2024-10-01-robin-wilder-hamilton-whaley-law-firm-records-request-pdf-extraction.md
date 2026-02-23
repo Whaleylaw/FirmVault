@@ -1,0 +1,27 @@
+---
+case_slug: robin-wilder-hamilton
+created_at: 2026-02-17 00:16:02.448000+00:00
+document_category: financial
+document_date: 2023-06-15
+document_type: financial
+extraction_method: native_text
+legacy_case_id: 2023-06-15-MVA-001
+mime_type: application/json
+page_count: 1
+quality_score: 100
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-Wilder-Hamilton-MVA-6-15-2023/extractions/2024-10-01-Robin-Wilder-Hamilton-Whaley-Law-Firm-Records-Request.pdf_extraction.json
+source_hash: sha256:1204c0b5d734ebd0a3fef80acc4afa6f53ed6efd0173324f442890b4aa77a564
+---
+
+content_summary: Letter from Whaley Law Firm dated October 1, 2024 requesting medical records and billing for Robin Wilder-Hamilton for dates from 6/15/2023 onwards, sent to 146 Clark St, Flemingsburg KY 41041.
+document_date: 2024-10-01
+entities[0]: Robin Wilder-Hamilton
+entities[1]: Aaron G. Whaley, Esq.
+entities[2]: The Whaley Law Firm
+entities[3]: Jessa
+extraction_date: 2025-02-02
+folder_structure.bucket: Medical Records
+folder_structure.category: Records Requests
+folder_structure.description: Medical records request to Flemingsburg KY provider
+original_filename: 2024-10-01-Robin-Wilder-Hamilton-Whaley-Law-Firm-Records-Request.pdf
+original_path: Medical Records/Other Providers/2024-10-01-Robin-Wilder-Hamilton-Whaley-Law-Firm-Records-Request.pdf

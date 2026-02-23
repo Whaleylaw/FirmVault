@@ -1,0 +1,52 @@
+---
+case_slug: alma-cristobal
+created_at: 2026-02-16 21:28:37.221000+00:00
+document_category: other
+document_type: other
+extraction_method: native_text
+legacy_case_id: 2024-02-15-MVA-001
+mime_type: message/rfc822
+page_count: 1
+quality_score: 100
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-Cristobal-MVA-2-15-2024/Investigation/2024-02-15-Alma-Cristobal-Investigation-Louisville-Metro-Government-ORR-Fulfillment-Dash-Body-Cam.eml
+source_hash: sha256:b62de45b59b648b36b6b7b68e10890a1ab7095610a064e1fafb59d5516e3b9a4
+---
+
+Subject: Your Louisville Metro Government public records request #25-2254 has been closed.
+From: [EMAIL-1]
+To: sarena@whaleylawfirm.com
+Date: 2025-02-25T18:11:08Z
+Louisville Metro Government
+
+************************************************************************
+
+
+Record request #25-2254 has been closed. The closure reason supplied was:
+
+A response has been provided and your request has been fulfilled.
+
+
+
+REMINDER: closed requests are not monitored. If you have any questions about non MetroSafe or Metro Council requests, please contact Open Records at [PHONE-2] or email us at: [EMAIL-3].
+
+
+
+For questions related to LMPD requests (incl. Body Cam) please email them at [EMAIL-4] .
+
+
+
+For MetroSafe and Metro 311 requests please contact Jody Duncan at [PHONE-5] or [EMAIL-6].
+
+
+
+For Metro Council requests please contact their main line at [PHONE-7].
+
+
+
+
+
+
+
+
+************************************************************************                          
+<em>Questions about your request?</em> Reply to this email or sign in to contact staff at Louisville Metro Government.<br><em>Technical support:</em> See our <a href="https://www.nextrequest.civicplus.help/hc/en-us/categories/17720084172567-Requesters">help page</a>

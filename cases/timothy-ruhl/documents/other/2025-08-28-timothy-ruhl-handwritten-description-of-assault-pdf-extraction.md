@@ -1,0 +1,23 @@
+---
+case_slug: timothy-ruhl
+created_at: 2026-02-17 00:36:36.064000+00:00
+document_category: other
+document_date: 2025-08-28
+document_type: other
+extraction_method: native_text
+legacy_case_id: 2023-09-14-PrL-001
+mime_type: application/json
+page_count: 1
+quality_score: 85
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timothy-Ruhl-Premise-09-14-2023/Reports/extractions/2025-08-28-timothy-ruhl-handwritten-description-of-assault.pdf_extraction.json
+source_hash: sha256:2f76f7697838369790cf2d0a472c51fa78f4d57c8f77c633a40e7f6e90a85832
+---
+
+content_analysis.category: Investigation
+content_analysis.date: 2025-08-28
+content_analysis.description: Handwritten incident description
+content_analysis.entities[0]: Timothy Ruhl
+extraction_date: 2025-01-22T15:52:00Z
+folder_structure.bucket: Investigation
+folder_structure.suggested_name: 2025-08-28_Investigation_Handwritten-Description-of-Assault.pdf
+original_filename: 2025-08-28-timothy-ruhl-handwritten-description-of-assault.pdf

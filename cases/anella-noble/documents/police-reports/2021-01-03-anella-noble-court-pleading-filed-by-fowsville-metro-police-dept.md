@@ -1,0 +1,88 @@
+---
+case_slug: anella-noble
+created_at: 2026-02-16 22:02:32.778000+00:00
+document_category: police-reports
+document_date: 2020-11-11
+document_type: police_report
+extraction_method: native_text
+legacy_case_id: 2021-01-03-MVA-001
+mime_type: application/pdf
+page_count: 1
+quality_score: 100
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella-Noble-MVA-01-03-2021/Court-Pleadings/2021-01-03-Anella-Noble-COURT-PLEADING-Filed-by-FOWSVILLE-METRO-POLICE-DEPT.pdf
+source_hash: sha256:89d549e8b05efc9a0f0a4ab7354f1c910fc84f5ccb5e3d1a947cb2632d943abd
+---
+
+NOT ORIGINAL
+DOCUMENT
+[DOB-6]
+10:30:39 AM
+89495
+Page 1 of 1
+UNIFORM C
+COMMONWEALTHOF KENTUCKY
+ITATION | CHARGES
+AND
+POST-ARREST
+COMPLAINT
+AGENCY OFT -
+FOWSVILLE METRO POLICE DEPT 0568000 ow
+4ST, FIRST, MI, FILIAL ATTN HOME PHONE >|
+LLOYD, ALELA CHAMISE LU UNKNOWN oO
+CL |"AUAS NAME LAST, FIRST, Mi, FILIAL EMERGENCY PHONE oO
+ge
+{| RODRESS (WOMBER NAME, SUFFDO KENTUCKY RESIDENT STATUS
+©| 1038 LOGAN ST, #1 (_JF:FUuLL-TIME [Jp: PART-TIME _[_]N: NON RESIDENT
+> CITY [_svare_ | ZIP CODE/EXTENSION MARITAL STATUS | VICTIM'S RELATIONSHIP TO OFFENDER
+zc LOUISVILLE KY 40204
+WwW ID TYPE [2 sT | 1DNUMBER [| sswumeer [HeicHT [weicaT[ HaIRCOLOR [| EYECOLOR
+9 OPERATOR'SLICENSE _|KY | 117916038 [_[SSN-2] | 441" | 115 BLACK | __ BROWN
+i ETHNIC ORIGIN ALCOHOL/DRUG
+LL | [_|COMMERCIAL VEHICLE [_]PLACARDED HAZARDOUS VEHICLE INVOLVEMENT
+6 - [_JHIsPanic NON HISPANIC
+DATE OF BIRTH SEX RACE
+AM. INDIAN OR B.A RESULTS ALCOHOL 07| 26 | 2000 | LJMALE [VJFEMALE | [|wHITe [Y]BLACK [Aaca [_JASIAN O
+PLACE OF EMPLOYMENT/ OCCUPATION [ CITY [_sTaTe | BREATH [_Jprucs
+BLOOD [UNKNOWN Wy VEHICLE MAKE | VEHICLE MODEL [VEH YEAR| VEHICLE COLOR URINE
+© |For [Fusion [2012 |wu
+G |e] REGISTRATION. STATE, YEAR, NUMBER VEHICLE IDENTIFIERS | MPH | INNPHZONE | VIOL KEY
+> 4p [| ky | 2020 |A526580 [
+wy | OLATION Dare | VIOLATION TIME: EXACT LOCATION OF VIOLATION MILES DIRECTION CITY
+s WESTHALL AVE — LOUISVILLE -—
+=| 01| 03| 2021 7:22 PM = =
+Eb JEFFERSON 32
+Ww ARREST DATE | TIME OFARREST EXACT LOCATION OF ARREST MILES DIRECTION cHTY
+<a COUNTY [_ SECTOR
+NUMBER VIOLATION CODE | ASCE STATUTE/ORD. CHARGES) | STARTING CASE | ENDING CASE DRUG TYPE
+1| of| 3 00380 0 186.410(1) 1 [PHONE-4]
+2 | of | 3 00424 0 186.170 1 [PHONE-4]
+3 | of | 3 00530 0 186.640 1 [PHONE-5]
+of
+POST-ARREST COMPLAINT
+Charge 1: NO OPERATORS-MOPED LICENSE
+Charge 2: NO REGISTRATION PLATES
+Charge 3: DRIVING WITHOUT LICENSE/NEGLIGENCE IN ACCIDENT
+Officer arrived on scene for an reported injury accident at above listed
+|the accident. Above listed subject did not have a license. Above listed
+detail about the accident please review the accident report.
+labove listed subject was involved in an accident wherethe rear passenger of her vehicle wastakentothe hospital. The subjectfailed to
+procure a license priorto driving the vehicle and was involved in the accident resulting in anydamage whatever to person. For further
+location. Above listed subject was the operator of Unit 2 listed in
+vehicle's temporary license plate was expired as of [DOB-6]. The
+bE COURT DATE COURT TIME | [JPAYABLE | COURT LOCATION
+x 01 | 25 2021 7:00 PM | [V]CouRT Jefferson District Court - 600 WestJefferson St XN i
+Q TOTAL PREPAYABLE
+© |courr case wumaer AMOUNT | NOT PREPAYABLE
+WITNESS 1NAME LAST, FIRST, Mi, FILIAL STATE [__ZIPCODE Q
+BURRES, MALEA DANESH 40214-0000 3
+WITNESS 1ADRRESS (NUMBER, STREET, SUFFIX) CiTY 5 x
+5303 HALSEY CT LOUISVILLE | o
+WITNESS 2NAME LAST, FIRST, Mi, FILIAL STATE | __ ZIPCODE e|5
+H NOBLE, ANELLA gs ¢
+é WITNESS 2ADRRESS (NUMBER, STREET, SUFFIX) city a =
+m
+a
+OTHER AGENCYSPECIFY: - y|vimEo
+FINGERPRINTS 4
+OFFICER SIGNATURE [_SADGETD NUMBER [ASSIGNMENT PHOTOS 3
+LOVEWELL, N. | 7166 325C V EVIDENCE HELD "

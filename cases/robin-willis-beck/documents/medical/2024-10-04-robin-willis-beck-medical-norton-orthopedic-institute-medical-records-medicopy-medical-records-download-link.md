@@ -1,0 +1,35 @@
+---
+case_slug: robin-willis-beck
+created_at: 2026-02-17 00:17:03.103000+00:00
+document_category: medical
+document_type: medical
+extraction_method: native_text
+legacy_case_id: 2023-09-21-PrL-001
+mime_type: message/rfc822
+page_count: 1
+quality_score: 90
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-Willis-Beck-Premise-09-21-2023/Medical/Norton
+  Orthopedic Institute/Medical Records/2024-10-04-Robin-Willis-Beck-Medical-Norton
+  Orthopedic Institute-Medical-Records-MediCopy-Medical-Records-Download-Link.eml
+source_hash: sha256:679d485008bab423f0def450001e5dbd4854d7d0752c4fc0cc5416a7a31a2eed
+---
+
+Subject: Tina Fuqua - ROI Quality Analyst sent you a file "ROBIN BECK .zip" on Box
+From: [EMAIL-1]
+To: sarena@whaleylawfirm.com
+Date: 2024-10-04T14:43:21Z
+Tina Fuqua - ROI Quality Analyst ([EMAIL-2]) has sent you a file:
+ROBIN BECK .zip: https://medicopy.box.com/s/fcjf2otussqzc4uo978jqqlenx1shggx
+View: https://medicopy.box.com/s/fcjf2otussqzc4uo978jqqlenx1shggx
+"Please click “View File” to access the medical records you have requested. The password for access will be “MCSI” plus the patient's four-digit birth year (i.e. MCSI1912). Please download the file, as the link will disable in 10 days. If you need further assistance, please contact our office at [PHONE-3]. Thank you."
+https://medicopy.box.com/s/fcjf2otussqzc4uo978jqqlenx1shggx
+View File
+Get our app to view this on mobile
+	our app: https://app.box.com/link/?lp=dvMNQvIC2IqbSis83VG8No5iYXoqh-Hg0nAd3yqhR4R20VdFuV3OAwcbeKyHUu_eRAeEiEXo0F_UVnPljcZ1EtOpO0CB0GEQ1si8zpuJtn_XIbxRHYPjp2CYzZQA8sZm4IGauhKmuTTTECtp0HWviwlH4mQsGqWvrOnAQm10RyTOqGIrKlu7lFNWByBAlvdTJcxmHg96qOc_YY3YhK5wG8uCn6dnvCRGNuIYx1iqomTw1n1JpZHFfjHmxoTbiUS6VEHoOX8ffjDYMzPtoJ3hFwpyJUG5jZaGwQaoGpOzUkQOyJoxtVE7qsqfyaTCYy8MvL1W8Hxa7nz3enHG9jWHZmaC9AR1Vj9KKBKtzhE6pROZwoRuyPsxiZU5q8QwcU5A6OwCzHUH4ilu7Wk6WcUXte7W&a=click&tt=GetMobileApp&ru=xlRIqg7nvr2pP_imiiVYr-uUyD5mroKsscJwW0QYH59vRe9Rj9h_rL_U_1uPHgVadyUxVnJjspEWovSZ9fYtqudpSW-zmNuRhg_taqrAhpvKY_dY7P5aa8V-RKD4TW1RRBcDNzrrSoTRGjNBWKHnDaRzsAdMgkQIwfeX8Pip45M.
+© 2024 | 900 Jefferson Avenue, Redwood City, CA 94063, USA
+About Box | Edit Notification Settings | Privacy Policy
+	About Box: https://www.box.com/link/?lp=dvMNQvIC2IqbSis83VG8No5iYXoqh-Hg0nAd3yqhR4R20VdFuV3OAwcbeKyHUu_eRAeEiEXo0F_UVnPljcZ1EtOpO0CB0GEQ1si8zpuJtn_XIbxRHYPjp2CYzZQA8sZm4IGauhKmuTTTECtp0HWviwlH4mQsGqWvrOnAQm10RyTOqGIrKlu7lFNWByBAlvdTJcxmHg96qOc_YY3YhK5wG8uCn6dnvCRGNuIYx1iqomTw1n1JpZHFfjHmxoTbiUS6VEHoOX8ffjDYMzPtoJ3hFwpyJUG5jZaGwQaoGpOzUkQOyJoxtVE7qsqfyaTCYy8MvL1W8Hxa7nz3enHG9jWHZmaC9AR1Vj9KKBKtzhE6pROZwoRuyPsxiZU5q8QwcU5A6OwCzHUH4ilu7Wk6WcUXte7W&a=click&tt=AboutBox&ru=oDifh9AHwC0nf5cmD3kyjPCu0wapFRQ_-0Tds3gn_vbkAdfmH6CNINQSKlfXF36sOQ1JgqlsCXXggE7GLqTJQxkNmt-3PTuAh6lsSUdCFujuW88e3kXjXLTDciYa21LJuKlLzw..
+	Edit Notification Settings: https://app.box.com/link/?lp=dvMNQvIC2IqbSis83VG8No5iYXoqh-Hg0nAd3yqhR4R20VdFuV3OAwcbeKyHUu_eRAeEiEXo0F_UVnPljcZ1EtOpO0CB0GEQ1si8zpuJtn_XIbxRHYPjp2CYzZQA8sZm4IGauhKmuTTTECtp0HWviwlH4mQsGqWvrOnAQm10RyTOqGIrKlu7lFNWByBAlvdTJcxmHg96qOc_YY3YhK5wG8uCn6dnvCRGNuIYx1iqomTw1n1JpZHFfjHmxoTbiUS6VEHoOX8ffjDYMzPtoJ3hFwpyJUG5jZaGwQaoGpOzUkQOyJoxtVE7qsqfyaTCYy8MvL1W8Hxa7nz3enHG9jWHZmaC9AR1Vj9KKBKtzhE6pROZwoRuyPsxiZU5q8QwcU5A6OwCzHUH4ilu7Wk6WcUXte7W&a=click&tt=EditNotificationSettings&ru=hT7QzNtMu9uch2PQluohJPEKz9Lnp5Uq7Fh31NnZ-8dZ3C5ocBeJllMWzX7UCZPumxQpHYXEqL8pR2HwZVSmKFnTkhfxcHXmiBM6xHrtlnvNes08kFIeQxj0gGQZ872U_gtm_7mXLsEI_50CIHii3Q..
+	Privacy Policy: https://app.box.com/link/?lp=dvMNQvIC2IqbSis83VG8No5iYXoqh-Hg0nAd3yqhR4R20VdFuV3OAwcbeKyHUu_eRAeEiEXo0F_UVnPljcZ1EtOpO0CB0GEQ1si8zpuJtn_XIbxRHYPjp2CYzZQA8sZm4IGauhKmuTTTECtp0HWviwlH4mQsGqWvrOnAQm10RyTOqGIrKlu7lFNWByBAlvdTJcxmHg96qOc_YY3YhK5wG8uCn6dnvCRGNuIYx1iqomTw1n1JpZHFfjHmxoTbiUS6VEHoOX8ffjDYMzPtoJ3hFwpyJUG5jZaGwQaoGpOzUkQOyJoxtVE7qsqfyaTCYy8MvL1W8Hxa7nz3enHG9jWHZmaC9AR1Vj9KKBKtzhE6pROZwoRuyPsxiZU5q8QwcU5A6OwCzHUH4ilu7Wk6WcUXte7W&a=click&tt=PrivacyPolicy&ru=oboxEi8MIjEz_ZDDPoJum9B1vbIvZxb11I43Cb5wt9gFzZ38zC-JyVwJHbpQFOwFzpFtTGhn9Nf1c9pjRACwX7_Nimw8dokop6XonYYC-Lkyp1EzXiOnQFylyVMcewoxIJIkFOLkkZdwtm5b1meGm1bzv4s.
+MediCopy
+To unsubscribe from these emails please click the following link:

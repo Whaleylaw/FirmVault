@@ -1,0 +1,28 @@
+---
+case_slug: cora-hall
+created_at: 2026-02-16 22:38:01.274000+00:00
+document_category: insurance
+document_date: 2025-02-04
+document_type: insurance
+extraction_method: native_text
+legacy_case_id: 2022-12-05-OTH-001
+mime_type: message/rfc822
+page_count: 1
+quality_score: 95
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-Hall-WC-12-05-2022/Medical/lmsclaimdocumentnotification9.eml
+source_hash: sha256:ffac2e14e0b652d7d897619931a66e6e25c5ed28cc6222904da84033b7f14743
+---
+
+Subject: LMS Claim Document Notification
+From: [EMAIL-1]
+To: Sarena@WhaleyLawFirm.com
+Date: 2025-02-04T15:56:40-05:00
+p { color: #000; font-family: arial; } /*grey*/ A document has been filed on:
+
+Document Name: SCHEDULING TELEPHONIC CONFERENCE
+Claim Numbers: 202251050
+Claimants: CORA HALL
+Date Filed: 2/4/2025
+
+Please refer to the claim in LMS at https://kyworkersclaims.lms.ky.gov/ for more information.
+Please do not reply to this email.

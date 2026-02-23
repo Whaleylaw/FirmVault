@@ -1,0 +1,35 @@
+---
+case_slug: amy-stich
+created_at: 2026-02-17 02:58:05.147000+00:00
+document_category: medical
+document_date: 2024-01-18
+document_type: medical
+entities:
+- Baptist Health Urgent Care
+- Baptist Health
+extraction_method: native_text
+legacy_case_id: 2024-01-17-OTH-001
+mime_type: application/json
+page_count: 1
+quality_score: 100
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Stich-WC-01-17-2024/output/Medical/Baptist
+  Health Urgent Care/Medical Records/2024-01-18-Amy-Stich-Medical-Baptist Health Urgent
+  Care-Medical-Records-Baptist-Health-Medical-Records-and-MRI-Report.metadata.json
+source_hash: sha256:a861d01e05bddfcc77240c0f94c76613a49250fcebf642d94bc7cf91b2230b8e
+---
+
+content_length_chars: 120452
+document_metadata.created_at: 2024-05-09T20:22:43Z
+document_metadata.format_type: pdf
+document_metadata.height: 792
+document_metadata.is_encrypted: false
+document_metadata.page_count: 65
+document_metadata.pdf_version: 1.7
+document_metadata.producer: GemBoxLtd GemBox.Pdf 1.7 (17.0.462.1474; .NET Framework)
+document_metadata.quality_score: 1.0
+document_metadata.width: 612
+extraction_time_sec: 68.25
+mime_type: application/pdf
+output_format: markdown
+source_file: Medical/Baptist Health Urgent Care/Medical Records/2024-01-18-Amy-Stich-Medical-Baptist Health Urgent Care-Medical-Records-Baptist-Health-Medical-Records-and-MRI-Report.pdf
+table_count: 65

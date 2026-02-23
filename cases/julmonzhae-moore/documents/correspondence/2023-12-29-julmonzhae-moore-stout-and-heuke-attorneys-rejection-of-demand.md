@@ -1,0 +1,52 @@
+---
+case_slug: julmonzhae-moore
+created_at: 2026-02-16 23:59:49.743000+00:00
+document_category: correspondence
+document_date: 2023-08-29
+document_type: correspondence
+entities:
+- State Farm
+extraction_method: native_text
+legacy_case_id: 2023-08-29-MVA-003
+mime_type: application/pdf
+page_count: 1
+quality_score: 100
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmonzhae-Moore-MVA-8-29-2023/Legal
+  Documents/2023-12-29-Julmonzhae-Moore-Stout-and-Heuke-Attorneys-Rejection-of-Demand.pdf
+source_hash: sha256:97e4fafe59c3b36d44571fa4684c91b8a15e4c36e88e2405faf6722b3b1eca32
+---
+
+December 29, 2023
+Stout & Heuke Attorneys At Law
+300 High Rise Dr Ste 292
+Louisville KY 40213-3278
+State Farm Claims
+PO Box 106171
+Atlanta GA 30348-6171
+RE: Claim Number: 14-55R0-02D
+Date of Loss: August 29, 2023
+Our Insured: Naomi S Robinson
+Your Client: Julmonzhae Moore
+Place of Incident: Charlestown Rd and I-265 E New Albany, IN
+Policy Number(s): 691783214
+To Whom It May Concern:
+This is in response to your demand for Julmonzhae Moore. We are rejecting their demand at 
+this time. 
+Our obligation as an insurer is to pay for damages relating to this loss for which our insured is 
+legally liable. Our investigation indicates our insured is not legally liable; therefore, we must 
+respectfully deny your client’s claim.
+If you have questions or need assistance, call us at [PHONE-4] Ext. 370.
+Sincerely,
+Aaron Lovato
+Claim Specialist
+[PHONE-2] Ext. 370
+[EMAIL-3]
+For your protection, when emailing State Farm, please do not include sensitive personal information such as Social Security 
+Number, credit/debit card number (financial account number), driver’s license number, or health/medical information in an email. 
+Please contact us at [PHONE-4] Ext. 370 to discuss sensitive information.
+State Farm Fire and Casualty Company
+DUE TO PROTECTION OF PRIVACY OBLIGATIONS AND INTERNAL SYSTEM INTEGRITY, 
+STATE FARM MUTUAL AUTOMOBILE INSURANCE COMPANY DOES NOT ACCEPT TIMESENSITIVE OR ACTION-ORIENTED MESSAGES DELIVERED VIA EMAIL THAT INVOLVE 
+ACCESSING A CYBERLINK, APPLICATION, DIGITAL DROPBOX OR OTHER THIRDPARTY DOCUMENT SERVICE.
+Providing Insurance and Financial Services SS StateFarm:
+Home Office, Bloomington, IL

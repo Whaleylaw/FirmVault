@@ -1,0 +1,27 @@
+---
+case_slug: jerome-hedinger
+created_at: 2026-02-16 23:57:18.639000+00:00
+document_category: photos
+document_type: photo
+extraction_method: image_proxy
+legacy_case_id: 2023-10-24-PrL-001
+mime_type: image/jpeg
+page_count: 1
+quality_score: 70
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome-Hedinger-Premise-DB-10-24-2023/Photos-Evidence/2024.04.01-Hedinger-CPD-PHI-Card-Aetna-Back.jpg
+source_hash: sha256:e434635f2dd6aef1a8587015534bb771eb6a66d4178c95ea76abc8e5354ca576
+---
+
+# Image Document
+
+**Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome-Hedinger-Premise-DB-[DOB-1]/Photos-Evidence/2024.04.01-Hedinger-CPD-PHI-Card-Aetna-Back.jpg
+
+## Extracted Text (OCR)
+
+MEMBER SERVICES
+
+24-HOUR N
+
+PROVIDER LL/PRECERT MENTAL /BEHAVIORAL HEALTH RX MEMBER SERVICES
+
+fe Insurance Company laims To B 14079 LEXINGTON KY 40512 4079

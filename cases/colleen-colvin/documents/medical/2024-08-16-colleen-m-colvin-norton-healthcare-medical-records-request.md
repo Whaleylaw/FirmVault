@@ -1,0 +1,164 @@
+---
+case_slug: colleen-colvin
+created_at: 2026-02-16 22:28:38.132000+00:00
+document_category: medical
+document_date: 1953-05-01
+document_type: medical
+entities:
+- Norton Healthcare
+extraction_method: native_text
+legacy_case_id: 2023-10-01-MVA-001
+mime_type: application/pdf
+page_count: 1
+quality_score: 100
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Colleen-Colvin-MVA-10-01-2023/Medical-Records/2024-08-16-Colleen-M-Colvin-Norton-Healthcare-Medical-Records-Request.pdf
+source_hash: sha256:ecc09d7ba124e71a252b939dd9bea962ff2456682574811198b388dbefb35976
+---
+
+BN Beno
+Real people. Remarkable care.
+1/14/25
+Patient: Colvin,Colleen Marie
+Requested by:
+THE WHALEY LAW FIRM
+712 Lyndon Ln.
+Louisville, Kentucky 40222
+Release ID: 200984841
+The requested record has been downloaded to a password protected CD/DVD and
+mailed separately. To access the record, use code provided below:
+Password: 3lyiotify
+Please note this is the only notification that will be provided containing this password. It
+is important to retain this password. No verbal password requests will be honored. If
+lost or misplaced, a new request for records must be submitted.
+If you have any questions, you may contact us via email at
+[EMAIL-1], Monday through Friday, 8:00 a.m. to 5:00 p.m.
+Thanks,
+Norton Healthcare
+Health Information Managment
+
+Docusign Envelope ID: D4313042-EB35-42B7-83D4-989AF31322DB
+Aaron G, Whaley, Esq.
+ee aLELE . & . . 712 Lyndon Lane
+2 aA ‘iL -F L. tA H A aE Y Louisville, KY 40222
+1 * & AL VSO Bow A Ph: [PHONE-7]
+: ¥ LAW FIRM Fax: [PHONE-6]
+HIPAA COMPLIANT MEDICAL AUTHORIZATION
+(Authorization to Release Protected Health Care Information)
+To: Norton Community Medical Associates
+825 Barrett Ave
+Louisville, KY 40204
+Dear Medical Records Clerk:
+I have retained The Whaley Law Firm, PSC to represent me in matters related to an injury sustained due to a third parties’ negligence. Please
+forward a copy ofany & all records not previously provided to The Whaley Law Firmupon request.
+Pursuant to the Health Insurance Portability &Accountability Act(HIPAA) Privacy Regulations, 45 CFR 164.508, the provider listed above is
+hereby authorized to release to TheWhaley Law Firm, PSC or anyoftheir representatives, all medical records, including but not limited to: Office
+Notes, History, Physical, Consultation Notes, Discharge Summaries, Orders, Progress Notes, Laboratory Results, Nurses’ Notes, Emergency Room
+Records, Operative Reports, In-Patient Records and films ofX-Rays, MRIs, CT Scans, or PET Scans, Pharmacy and Drug Records, Medical Bills
+and Health Insurance Information, Medicaid/Medicare Records, concerning ANY medical treatment that |have received from you and/or at your
+facility, as well as ALL such records which you keep inthe regular course ofbusiness that are found in mymedical record file.
+I hereby authorize the release of ANY & ALL records regarding mental health, psychiatric (other than psychotherapy notes, which must be
+requested under separate authorization), Chemical Dependency or HIV.
+A photostatic copyhereof shall be as valid as the original.
+Thereby authorize a FREE COPY ofmymedical records pursuant to KRS 422.317 be sent to the extent I have not already requested myone free
+copy.
+The purpose ofthis authorization and request is to permit myattorney to obtain ALL medical information pertaining to myphysical and mental
+condition(s). This authorization expires in three (3) years from the date ofthe signature. The aforementioned expiration date has not passed, as
+this matter is on-going. I hereby authorize The Whaley Law Firm, PSC. to speak to my healthcare providers privately or to take the testimony at
+deposition and/or trial as may be requested.
+Lhave the right to revoke this authorization in writing by providing a signed, written notice ofrevocation to the healthcare provider listed above
+and to The Whaley Law Firm, PSC. I understand that there are exceptions to the right to revoke. Among the exceptions to the right to revoke are
+that an individual may not revoke an authorization to the extent that the covered entity has taken action in reliance thereon. Medical Providers
+may not condition treatment or payment on whether the above-listed patient executes this authorization. The information disclosed pursuant to
+this authorization may be subject to re-disclosure and no longer protected by the privacy regulations promulgated pursuant to the Health Insurance
+Portability and Accountability Act (HIPAA)
+[c ir 9pe [DOB-1]
+BIBGOEGFF 174451...
+Client Signature Date of Birth
+Colleen M. Colvin **_**_O7AG Date: [DOB-4]
+Client Name (Print) Social Security
+
+369.107 Legal recognition of electronic records, electronic signatures, and
+(1)
+(2)
+(3)
+(4)
+electronic contracts.
+A record or signature may not be denied legal effect or enforceability solely because
+it is in electronic form.
+A contract may not be denied legal effect or enforceability solely because an
+electronic record was used in its formation.
+If a law requires a record to be in writing, an electronic record satisfies the law.
+If a law requires a signature, an electronic signature satisfies the law.
+Effective: August 1, 2000
+History: Created 2000 Ky. Acts ch. 301, sec. 7, effective August |, 2000.
+
+Aaron G. Whaley, Esq.
+712 Lyndon Lane we ‘ JHE = “eae ge Louisville, KY 40222
+‘ H EF Y Ph; [PHONE-5]
+%, l A i. f Fax: [PHONE-6] na
+v L&W FERM
+ATTESTATION REGARDING a REQUESTED USE or DISCLOSURE of PROTECTED HEALTH
+INFORMATION POTENTIALLY RELATED TO REPRODUCTIVE HEALTH CARE
+REQUESTOR: The Whaley Law Firm
+712 Lyndon Lane
+Louisville, KY 40222
+Phone: [PHONE-7]
+Fax: [PHONE-8]
+Patient: See Attached Medical Records Request
+DOB: See Attached Medical Records Request
+SSN: See Attached Medical Records Request
+Medical Record Requested: Any and all related treatment—See attached Medical Records Request
+Dates of Treatment Requested: Any and all related treatment - See attached Medical Records Request
+I, Aaron G. Whaley, esq., attorney and owner of The Whaley Law Firm, attest that the use or disclosure of protected health
+information, that I am requesting is not for a purposeprohibited bythe HIPAA Privacy Act at 45CFR 1643502(a)(5)(ii1)
+because the purpose of the use or disclosure of protected health information is NOT to investigate or impose liability on any
+person for the mere act ofseeking, obtaining, providing, or facilitating reproductive health care or to identify any person for
+such purposes.
+I understand that I may be subject to criminal penalties pursuant to 42 U.S.C. 1320d-6 if I knowingly and in violation of the
+HIPAA obtain individually identifiable health information relating to an individual or disclose individually identifiable health
+information to another person.
+Sincerely,
+Aaron G. Whaley, Esq.
+Personal Representative/Attorney for Patient Named
+
+CERTIFICATION OF MEDICAL RECORDS AFFIDAVIT
+. being first duly sworn on his/her oath, says that:
+(Name ofrecords custodian/clerk)
+Iam the custodian of records for
+(Name offacility or treatment provider)
+The records attached hereto are true and exact copies of the reports and records of
+treatment of , patient for treatment occurring
+between ——/-—7 and / /
+That the records attached hereto were made in the routine course ofbusiness at or near
+the time ofthe event recorded.
+The records attached hereto were made by the physicians and/or staff, who had personal
+knowledge of the facts recorded.
+The records are of a type regularly kept and maintained by
+(Facility or treatment provider)
+I hereby certify that pages accompanied this Certification Affidavit.
+| AFFIRM UNDER THE PENALTIES OF PERJURY THAT THE FOREGOING
+REPRESENTATIONS ARE TRUE AND ACCURATE TO THE BEST OF MY KNOWLEDGE
+AND BELIEF.
+FURTHER AFFIANT SAITH NOT.
+Records Custodian
+
+CERTIFICATION OF MEDICAL BILLING RECORDS AFFIDAVIT
+, being first duly sworn on his/her oath, says that:
+(Name of records custodian/clerk)
+1, I am the custodian of billing records for
+(Name offacility or treatment provider)
+Zn The billing records attached hereto are true and exact copies of the reports and records
+oftreatment of , patient for treatment occurring
+between /7/ and / /
+3, That the billing records attached hereto were made in the routine course of business at
+or near the time ofthe event recorded.
+4, The billing records attached hereto were made by the physicians and/or staff, who had
+personal knowledge of the facts recorded.
+Ds The billing records are ofa type regularly kept and maintained by
+(Facility or treatment provider)
+6. Thereby certify that pages accompanied this Certification Affidavit.
+I AFFIRM UNDER THE PENALTIES OF PERJURY THAT THE FOREGOING
+REPRESENTATIONS ARE TRUE AND ACCURATE TO THE BEST OF MY KNOWLEDGE
+AND BELIEF.
+FURTHER AFFIANT SAITH NOT.
+Billing Records Custodian

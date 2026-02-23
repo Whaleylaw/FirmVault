@@ -1,0 +1,19 @@
+---
+case_slug: jeremy-lindsey
+created_at: 2026-02-16 23:56:11.315000+00:00
+document_category: photos
+document_type: photo
+extraction_method: image_proxy
+legacy_case_id: 2024-12-01-MVA-002
+mime_type: image/jpeg
+page_count: 1
+quality_score: 50
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy-Lindsey-MVA-12-01-2024/Investigation/2024-12-01-Jeremy-Lindsey-Investigation-Client-Photos-of-leg-injuries.jpg
+source_hash: sha256:f6a97ddb0c0c4cb1b5fb3d4767a62db638a92d9ba2f2c4355d6ab0bbb8f648f5
+---
+
+# Image Document
+
+**Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy-Lindsey-MVA-[DOB-1]/Investigation/2024-12-01-Jeremy-Lindsey-Investigation-Client-Photos-of-leg-injuries.jpg
+
+*No readable text detected. View original image in Dropbox.*

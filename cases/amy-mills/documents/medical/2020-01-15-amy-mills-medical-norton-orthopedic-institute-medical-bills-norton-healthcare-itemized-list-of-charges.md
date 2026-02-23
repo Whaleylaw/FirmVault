@@ -1,0 +1,391 @@
+---
+case_slug: amy-mills
+document_category: medical
+legacy_case_id: 2019-04-26-PrL-001
+---
+
+---
+source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-[DOB-1]/Medical/Norton Orthopedic Institute/Medical Bills/2020-01-15-Amy-Mills-Medical-Norton Orthopedic Institute-Medical-Bills-Norton-Healthcare-Itemized-List-of-Charges.pdf"
+source_hash: "sha256:892ae9e6a750ed5968ac872a23f8474963f7a1d1d942a84122638e2fe3d9f16e"
+extraction_method: native_text
+quality_score: 100
+page_count: 1
+document_type: medical
+mime_type: application/pdf
+case_slug: c-2019-04-26-PrL-001
+created_at: 2026-02-17T02:48:55.671Z
+document_date: 2020-01-15
+entities:
+  - Hospital Charges
+Service Date Hospital
+  - Service Date Hospital
+  - Aetna
+  - Norton Healthcare
+---
+
+Patient: Mills,Amy
+Account ID: 203419394
+Norton Healthcare
+Patient Financial Services 14-7
+P.O. Box 775278
+Chicago, IL 60677-5278
+Amy Mills Guarantor ID: 1580422
+200 MEADOW LARK CIRCLE
+CORBIN, KY 40701
+Visit Coverages:
+Aetna Better Health Ky - Aetna Better Health Ky
+Patient: Mills,Amy Admission Date: 08/10/20
+Account ID: 203419394 Discharge Date: 08/10/20
+Location: NORTON HOSPITAL
+This is an itemized list of charges.
+Hospital Charges
+Service Date Hospital Charge ID Description Quantity Amount
+[DOB-132] 014718 CANNULA CLEAR TRACK 8 014718 1 185.00
+[DOB-131] 10015550 HB BLADE VIDEO MAC 3 350005000 1 168.00
+[DOB-130] 10084044 HB NEEDLE STMPLX 360 20G 4 333648 1 110.00
+[DOB-129] 104208 LIDOCAINE-PF 2 % SOLN 1 11.27
+[DOB-128] 106348 ONDANSETRON 4 MG/2ML SOLN 4 5.00
+[DOB-127] 10701 PUMP POLAR CARE CUBE 10701 1 595.00
+[DOB-126] 110028404 KIT SHDR TRACTION 110028404 1 701.00
+[DOB-9] 1104494 SLING ARM ULTRA III L 1104494 1 400.00
+[DOB-10] 144677 PROPOFOL 200 MG/20ML EMUL 40 32.18
+[DOB-123] 144681 FENTANYL (PF) 100 MCG/2ML SOLN 1 5.00
+[DOB-122] 18195 ROPIVACAINE 0.5 % SOLN 150 118.31
+[DOB-121] 40100067 HB SURG INTENSITY LEVEL #6 95 10,830.00
+[DOB-120] 40700015 HB ANES GENERAL/MIN 95 2,565.00
+[DOB-119] [PHONE-16] CEFAZOLIN 1 GM/50 ML 2 25.17
+[DOB-117] [PHONE-116] CEFAZOLIN 1 GM/50 ML 2 25.17
+[DOB-19] 40872 MIDAZOLAM 2 MG/2ML SOLN 2 5.00
+[DOB-114] 4318 LACTATED RINGERS SOLN 1 18.78
+[DOB-113] 4318 LACTATED RINGERS SOLN 1 18.78
+[DOB-112] 5940 OXYCODONE-ACETAMINOPHEN 5-325
+MG TABS
+1 1.37
+[DOB-111] 65200007 HB RECOVERY PHASE II PER MINUT 54 810.00
+[DOB-110] 65200727 HB RECOVERY INTENSIVE PER MIN 30 540.00
+[DOB-109] 7210425 SHUTTLE 45 UP 7210425 1 902.00
+[DOB-108] 72202403 ANCHOR SUTURE 72202403 1 1,446.00
+[DOB-107] 72205127 TAPE MINI 72205127 1 696.00
+[DOB-106] 7536 SUCCINYLCHOLINE 20 MG/ML SOLN 10 72.05
+Please call [PHONE-29] if you have questions regarding this document. Page 1
+
+Patient: Mills,Amy
+Account ID: 203419394
+Service Date Hospital Charge ID Description Quantity Amount
+Total hospital charges: 21,071.38
+Hospital Payments and Adjustments
+Date Description Amount
+Total hospital payments and adjustments: -21,071.38
+[DOB-104] 90010 SUCTION FLOOR WATERBUG 90010 1 173.00
+[DOB-103] 95811 ROCURONIUM 50 MG/5ML SOLN 1 19.30
+[DOB-102] AR6430 TUBING ARTHROSCOPY AR6430 1 328.00
+[DOB-101] DYNJ19339G PACK ARTHROSCOPY DYNJ19339F 1 265.00
+08/25/20 Aetna Better Health Ky INSURANCE PAYMENT -4,002.35
+08/14/20 Aetna Better Health Ky CREDIT ADJUSTMENT -1.37
+08/14/20 Aetna Better Health Ky NON COVERED ADJUSTMENT -5.00
+08/25/20 Aetna Better Health Ky CONTRACTUAL WRITE-OFF
+Please call [PHONE-34] if you have questions regarding this document. Page 2
+-17,062.66
+
+Patient: Mills,Amy
+Account ID: 203467082
+Norton Healthcare
+Patient Financial Services 14-7
+P.O. Box 775278
+Chicago, IL 60677-5278
+Amy Mills Guarantor ID: 1580422
+200 MEADOW LARK CIRCLE
+CORBIN, KY 40701
+Visit Coverages:
+Aetna Better Health Ky - Aetna Better Health Ky
+Patient: Mills,Amy Admission Date: 08/10/20
+Account ID: 203467082 Discharge Date: 08/10/20
+Location: NORTON HOSPITAL
+This is an itemized list of charges.
+Professional Charges
+Service 
+Date
+Professional
+Charge ID
+ETR RX Number Professional Charge
+Description
+Quantit
+y
+Orig Amt
+Total professional charges: 4,894.00
+Professional Payments and Adjustments
+Date Description Amount
+Total professional payments and adjustments: -4,894.00
+[DOB-99] 29807 SHLDR 
+ARTHROSCOP,SURG,REPA
+IR,SLAP LESION
+1 2,986.00
+[DOB-98] 29826 SHOULDER SCOPE BONE 
+SHAVING
+1 1,908.00
+08/20/20 Aetna Better Health Ky INSURANCE PAYMENT -1,372.89
+08/20/20 Aetna Better Health Ky CONTRACTUAL WRITE-OFF
+Please call [PHONE-37] if you have questions regarding this document. Page 1
+-3,521.11
+
+Patient: Mills,Amy
+Account ID: 200565944
+Norton Healthcare
+Patient Financial Services 14-7
+P.O. Box 775278
+Chicago, IL 60677-5278
+Amy Mills Guarantor ID: 1580422
+200 MEADOW LARK CIRCLE
+CORBIN, KY 40701
+Visit Coverages:
+Rx Medicaid Managed Care - Rx Aetna Better Health Of Kentucky
+Patient: Mills,Amy Admission Date: 01/21/20
+Account ID: 200565944 Discharge Date: 01/21/20
+Location: NORTON PHARMACIES PLLC
+This is an itemized list of charges.
+Professional Charges
+Service 
+Date
+Professional
+Charge ID
+ETR RX Number Professional Charge
+Description
+Quantit
+y
+Orig Amt
+Total professional charges: 161.03
+Professional Payments and Adjustments
+Date Description Amount
+Total professional payments and adjustments: -161.03
+[DOB-96] PBRX 1025829 PBRX 42 24.16
+[DOB-95] PBRX 1025830 PBRX 90 136.87
+02/04/20 Rx Medicaid Managed Care RX INSURANCE PAYMENT -18.38
+01/22/20 Rx Medicaid Managed Care RETAIL RX INS CA
+Please call [PHONE-40] if you have questions regarding this document. Page 1
+-142.65
+
+Patient: Mills,Amy
+Account ID: 200459740
+Norton Healthcare
+Patient Financial Services 14-7
+P.O. Box 775278
+Chicago, IL 60677-5278
+Amy Mills Guarantor ID: 1580422
+200 MEADOW LARK CIRCLE
+CORBIN, KY 40701
+Visit Coverages:
+Aetna Better Health Ky - Aetna Better Health Ky
+Patient: Mills,Amy Admission Date: 01/20/20
+Account ID: 200459740 Discharge Date: 01/21/20
+Location: NORTON HOSPITAL
+This is an itemized list of charges.
+Hospital Charges
+Service Date Hospital Charge ID Description Quantity Amount
+[DOB-93] 10015550 HB BLADE VIDEO MAC 3 350005000 1 168.00
+[DOB-92] 10024263 HB IMP SOMATOSENSORY TESTING 1 1,855.00
+[DOB-91] 104208 LIDOCAINE-PF 2 % SOLN 1 11.77
+[DOB-90] 106348 ONDANSETRON 4 MG/2ML SOLN 4 8.09
+[DOB-89] 1308 CALCIUM CITRATE 950 MG TABS 2 0.12
+[DOB-88] 1308 CALCIUM CITRATE 950 MG TABS 2 0.12
+[DOB-87] 139035 PHENYLEPHRINE 10 MG/ML SOLN 1 13.21
+[DOB-86] 139098 VITAMIN D 25 MCG (1000 UT) TABS 1 0.05
+[DOB-85] 142778 KETAMINE 50-0.9 MG/5ML-% SOL
+PRESYRG 5 ML SYRINGE
+1 12.01
+[DOB-84] 1446 CEFAZOLIN 10 G SOLR 1 EACH VIAL 4 7.59
+[DOB-83] 1446 CEFAZOLIN 10 G SOLR 1 EACH VIAL 4 7.59
+[DOB-82] 144677 PROPOFOL 200 MG/20ML EMUL 40 35.36
+[DOB-53] 144682 FENTANYL (PF) 250 MCG/5ML SOLN 3 8.03
+[DOB-80] 145975 EPHEDRINE 50 MG/ML SOLN 1 119.88
+[DOB-79] 14793 TIZANIDINE 4 MG TABS 1 1.51
+[DOB-78] 155681 PHENYLEPHRINE 1 MG/10ML SOL
+PRESYRG
+10 24.77
+[DOB-77] 160306 SODIUM CHLORIDE PF 0.9 % SOLN 1 5.00
+[DOB-76] 20001013 PLATE CERV 1L 13 AROD 20001013 1 5,534.00
+[DOB-75] 2014012 SCREW SD CERV 12 2014012 4 4,016.00
+[DOB-74] 2014512 SCREW CERV SD 4.5X12 2014512 1 1,000.00
+[DOB-73] 2332 DEXAMETHASONE 4 MG/ML SOLN 8 6.81
+[DOB-72] 2364 DEXTROSE 5 % SOLN 50 ML FLEX CONT 1 7.29
+[DOB-71] 2364 DEXTROSE 5 % SOLN 50 ML FLEX CONT 1 7.29
+[DOB-70] 24216 SENNA-DOCUSATE 8.6-50 MG TABS 1 0.18
+Please call [PHONE-65] if you have questions regarding this document. Page 1
+
+Patient: Mills,Amy
+Account ID: 200459740
+Service Date Hospital Charge ID Description Quantity Amount
+Total hospital charges: 64,170.15
+Hospital Payments and Adjustments
+[DOB-68] 24216 SENNA-DOCUSATE 8.6-50 MG TABS 1 0.18
+[DOB-67] 27838 SODIUM CHLORIDE 0.9 % SOLN 2 17.16
+[DOB-68] 28384 HYDROCODONE-ACETAMINOPHEN 10- 325 MG TABS2 1.01
+[DOB-69] 28384 HYDROCODONE-ACETAMINOPHEN 10- 325 MG TABS2 1.01
+[DOB-70] 28384 HYDROCODONE-ACETAMINOPHEN 10- 325 MG TABS2 1.01
+[DOB-71] 35800374 HB C SPINE 1 VIEW 1 460.00
+[DOB-72] 35800374 HB C SPINE 1 VIEW 1 460.00
+[DOB-73] 35800374 HB C SPINE 1 VIEW 1 460.00
+[DOB-74] 3757 HYDROMORPHONE 1 MG/ML SOLN 1 8.79
+[DOB-75] 3757 HYDROMORPHONE 1 MG/ML SOLN 1 8.79
+[DOB-76] 3758 HYDROMORPHONE 2 MG/ML SOLN 1 5.35
+[DOB-77] 40100067 HB SURG INTENSITY LEVEL #6 153 17,442.00
+[DOB-78] 40164014 HB COLLAR CERV SEMI RIGID L0172 1 897.00
+[DOB-79] 40700015 HB ANES GENERAL/MIN 153 4,131.00
+[DOB-80] [PHONE-81] CEFAZOLIN 1 GM/50 ML 2 25.17
+[DOB-82] 40872 MIDAZOLAM 2 MG/2ML SOLN 2 5.00
+[DOB-83] 4318 LACTATED RINGERS SOLN 1 17.16
+[DOB-84] 432 AMITRIPTYLINE 10 MG TABS 1 0.32
+[DOB-85] 51800043 HB ANTIBODY SCREEN GEL 1 239.00
+[DOB-86] 51800142 HB BLOOD TYPING ABO 1 153.00
+[DOB-87] 51800159 HB BLOOD TYPING RH(D) 1 129.00
+[DOB-88] 52804192 HB SPECIMEN COLLECTION VENIPUNCT 1 37.00
+[DOB-89] 53800421 HB HEMATOCRIT 1 87.00
+[DOB-90] 53800454 HB HEMOGLOBIN 1 56.00
+[DOB-91] 65200727 HB RECOVERY INTENSIVE PER MIN 78 1,404.00
+[DOB-92] 76200088 HB PT EVAL MOD 1 431.00
+[DOB-93] 78202249 HB PAT/FAMLY TRAIN PT 15 MIN PT 1 161.00
+[DOB-94] 851 BACITRACIN 50000 UNITS SOLR 1 38.06
+[DOB-95] 8722 VITAMINS/MINERALS TABS 1 0.11
+[DOB-96] 91206383 HB OBS PRIVATE 12 591.00
+[DOB-97] 95811 ROCURONIUM 50 MG/5ML SOLN 1 18.58
+[DOB-98] ADS201845 SEALANT FLOSEAL10 VHSD 1505291 1 1,759.00
+[DOB-99] BORMP025 GRAFT BONE FIBER 2.5 BORMP025 1 11,049.00
+[DOB-100] CL0706 CAGE 6 CERV FOUNDATION CL0706 1 9,212.00
+[DOB-101] DNX12 ADHESIVE 2 OCTYL DNX12 1 139.00
+[DOB-102] DYNJ19468F TRAY J/H SPINE DYNJ19468F 1 602.00
+[DOB-103] 1308 CALCIUM CITRATE 950 MG TABS 2 0.12
+[DOB-104] 139098 VITAMIN D 25 MCG (1000 UT) TABS 1 0.05
+[DOB-105] 14793 TIZANIDINE 4 MG TABS 1 1.51
+[DOB-106] 24216 SENNA-DOCUSATE 8.6-50 MG TABS 1 0.18
+[DOB-107] 28384 HYDROCODONE-ACETAMINOPHEN 10- 325 MG TABS2 1.01
+[DOB-108] 28384 HYDROCODONE-ACETAMINOPHEN 10- 325 MG TABS2 1.01
+[DOB-109] 3757 HYDROMORPHONE 1 MG/ML SOLN 1 8.79
+[DOB-110] 66310210 HB IV MEDICATION INITIAL 1 365.00
+[DOB-111] 78202124 HB GAIT TRAINING 15 MIN PT 1 175.00
+[DOB-112] 78202249 HB PAT/FAMLY TRAIN PT 15 MIN PT 1 161.00
+[DOB-113] 8722 VITAMINS/MINERALS TABS 1 0.11
+[DOB-114] 91206383 HB OBS PRIVATE 11 560.00
+Please call [PHONE-115] if you have questions regarding this document. Page 2
+
+Patient: Mills,Amy
+Account ID: 200459740
+Date Description Amount
+Total hospital payments and adjustments: -64,170.15
+04/14/20 Aetna Better Health Ky INSURANCE PAYMENT -12,079.30
+01/31/20 Aetna Better Health Ky CREDIT ADJUSTMENT -9.61
+01/31/20 Aetna Better Health Ky NON COVERED ADJUSTMENT -8.09
+04/14/20 Aetna Better Health Ky CONTRACTUAL WRITE-OFF
+Please call [PHONE-116] if you have questions regarding this document. Page 3
+-52,073.15
+
+Patient: Mills,Amy
+Account ID: 200541176
+Norton Healthcare
+Patient Financial Services 14-7
+P.O. Box 775278
+Chicago, IL 60677-5278
+Amy Mills Guarantor ID: 1580422
+200 MEADOW LARK CIRCLE
+CORBIN, KY 40701
+Visit Coverages:
+Aetna Better Health Ky - Aetna Better Health Ky
+Patient: Mills,Amy Admission Date: 01/20/20
+Account ID: 200541176 Discharge Date: 01/21/20
+Location: NORTON HOSPITAL
+This is an itemized list of charges.
+Professional Charges
+Service 
+Date
+Professional
+Charge ID
+ETR RX Number Professional Charge
+Description
+Quantit
+y
+Orig Amt
+Total professional charges: 15,420.00
+[DOB-117] 20930 ALLOGRAFT FOR SPINE
+SURGERY ONLY 
+MORSELIZED
+1 362.00
+[DOB-118] 22551 ARTHRODESIS ANT 
+INTERBODY INC 
+DISCECTOMY, CERVICAL 
+BELOW C2
+1 4,977.00
+[DOB-119] 22551 ARTHRODESIS ANT 
+INTERBODY INC 
+DISCECTOMY, CERVICAL 
+BELOW C2
+1 4,977.00
+[DOB-120] 22853 INSJ BIOMCHN DEV 
+INTERVERTEBRAL DSC 
+SPC W/ARTHRD
+1 767.00
+[DOB-121] 22853 INSJ BIOMCHN DEV 
+INTERVERTEBRAL DSC 
+SPC W/ARTHRD
+1 767.00
+[DOB-122] 22899 SPINE SURGERY 
+PROCEDURE UNLISTED 
+PLATE
+1 1,785.00
+[DOB-123] 22899 SPINE SURGERY 
+PROCEDURE UNLISTED 
+PLATE
+1
+Please call [PHONE-124] if you have questions regarding this document. Page 1
+1,785.00
+
+Patient: Mills,Amy
+Account ID: 200541176
+Professional Payments and Adjustments
+Date Description Amount
+Total professional payments and adjustments: -15,420.00
+02/04/20 Aetna Better Health Ky INSURANCE PAYMENT 0.00
+02/06/20 Aetna Better Health Ky INSURANCE PAYMENT -1,763.32
+03/09/20 Aetna Better Health Ky INSURANCE PAYMENT 0.00
+09/09/20 Aetna Better Health Ky INSURANCE PAYMENT 235.19
+02/06/20 Aetna Better Health Ky CONTRACTUAL WRITE-OFF -3,980.68
+03/12/20 Aetna Better Health Ky NON-COVERED/BUNDLED ASSISTANT OR
+EXTENDER SERVICE ADJ INSURANCE
+-5,744.00
+08/03/20 Aetna Better Health Ky BUNDLED/PAYMENT INCLUDED ADJ INSURANCE -362.00
+09/09/20 Aetna Better Health Ky CONTRACTUAL WRITE-OFF 126.81
+09/09/20 Aetna Better Health Ky WRITE-OFF -3,570.00
+09/09/20 Aetna Better Health Super Payor INSURANCE PAYMENT -235.19
+09/17/20 Aetna Better Health Super Payor CONTRACTUAL WRITE-OFF
+Please call [PHONE-125] if you have questions regarding this document. Page 2
+-126.81
+
+Patient: Mills,Amy
+Account ID: 200484510
+Norton Healthcare
+Patient Financial Services 14-7
+P.O. Box 775278
+Chicago, IL 60677-5278
+Amy Mills Guarantor ID: 1580422
+200 MEADOW LARK CIRCLE
+CORBIN, KY 40701
+Visit Coverages:
+Aetna Better Health Ky - Aetna Better Health Ky
+Patient: Mills,Amy Admission Date: 01/15/20
+Account ID: 200484510 Discharge Date: 01/15/20
+Location: NORTON HOSPITAL
+This is an itemized list of charges.
+Hospital Charges
+Service Date Hospital Charge ID Description Quantity Amount
+Total hospital charges: 1,027.00
+Hospital Payments and Adjustments
+Date Description Amount
+Total hospital payments and adjustments: -1,027.00
+[DOB-126] 51800043 HB ANTIBODY SCREEN GEL 1 239.00
+[DOB-127] 51800142 HB BLOOD TYPING ABO 1 153.00
+[DOB-128] 51800159 HB BLOOD TYPING RH(D) 1 129.00
+[DOB-129] 52800562 HB BMP W TOTAL CALCIUM 1 229.00
+[DOB-130] 52804192 HB SPECIMEN COLLECTION VENIPUNCT 1 37.00
+[DOB-131] 53800074 HB CBC/PLT/AUTO DIFF 1 191.00
+[DOB-132] 53860003 HB US AUTO W/O MICRO 1 49.00
+01/28/20 Aetna Better Health Ky INSURANCE PAYMENT -39.93
+01/28/20 Aetna Better Health Ky CONTRACTUAL WRITE-OFF
+Please call [PHONE-133] if you have questions regarding this document. Page 1
+-987.07
