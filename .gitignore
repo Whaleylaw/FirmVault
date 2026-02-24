@@ -1,24 +1,8 @@
-# OS
-.DS_Store
-Thumbs.db
-
-# Obsidian
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
-.obsidian/graph.json
-.obsidian/.obsidian
-
-# Secrets
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/styles.css
+.obsidian/plugins/*/manifest.json
+.DS_Store
 .secrets.yaml
-*.key
-*.pem
-
-# Python
-__pycache__/
-*.pyc
-
-# Quarantine (contains error reports, not vault content)
 _quarantine/
-
-# Backup
-_backup/
