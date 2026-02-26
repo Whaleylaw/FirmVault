@@ -1,5 +1,5 @@
 ---
-name: monthly-report
+name: Monthly Practice Report
 schedule: "0 8 1 * *"
 timezone: America/New_York
 output_channel: "#firm-operations"
