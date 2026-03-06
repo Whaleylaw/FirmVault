@@ -5,13 +5,13 @@ case_link: "[[cases/cecelia-neltner/cecelia-neltner]]"
 claim_type: BI
 carrier_name: Progressive Insurance Company
 claim_number: 23-6275504
-status: no_demand
+status: negotiating
 ---
 
 # BI — Progressive Insurance Company
 
 **Case:** [[cases/cecelia-neltner/cecelia-neltner|Cecelia Neltner]]
-**Status:** no_demand
+**Status:** negotiating
 **Claim #:** 23-6275504
 
 **Carrier:** [[contacts/progressive-insurance-company|Progressive Insurance Company]]
@@ -19,3 +19,6 @@ status: no_demand
 
 ## Notes
 Coverage: Coverage Confirmed
+Demand sent: 11/25/2024 — $5,000
+Offer received: 1/22/2025 — $500 (nuisance offer; defense cited liability dispute)
+Defendant deposed 3/21/2025 — negotiations should resume
