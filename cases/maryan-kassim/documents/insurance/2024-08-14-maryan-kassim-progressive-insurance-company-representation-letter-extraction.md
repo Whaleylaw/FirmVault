@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:008bc5a94412edc2112fbf7bc06213c3a0f96ebaab8aef397dcccf8cfc934eee
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 category: Insurance
 description: Letter of representation from Whaley Law Firm to Progressive Insurance for Maryan Kassim regarding MVA on 8/6/2024, requesting policy information including liability limits, UM/UIM coverage, and medical payment coverage.
 entities[0]: Aaron G. Whaley

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:ab3c16597ac6bdb00bf15fcc8f360dc8639bf0a73e4e9646faaf405e711ea2ec
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 extraction.classification.bucket: Lien
 extraction.classification.confidence: high
 extraction.classification.document_type: lien_notice

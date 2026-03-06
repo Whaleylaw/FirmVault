@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Henrie
 source_hash: sha256:94d7d20bc60a7eb1949f146df8b610f53bb72b7e9c161af65ad2a5d9f1159c0a
 ---
 
+**Case:** [[cases/henrietta-jenkins/henrietta-jenkins|Henrietta Jenkins]]
+**Client:** [[cases/henrietta-jenkins/contacts/henrietta-jenkins|Henrietta Jenkins]]
+
 8/5/25, 11:14 AM Report Viewer
 https://pacs.specialtyteleradiology.com/POWERREADER/mobile/reportviewer/index.aspx?type=report&studyUID=1.2.392.[PHONE-4].100.12.11.126… 1/2
 

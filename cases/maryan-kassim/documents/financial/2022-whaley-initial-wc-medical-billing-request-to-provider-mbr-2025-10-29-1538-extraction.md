@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:74454d73abd758931db2cb39b3f1afd41937ffbd9682e46393cf15152e6594fe
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 category: Medical
 date_extracted: 2025-10-29
 description: Template Medical Billing Request (MBR) letter from Whaley Law Firm to medical provider. Dated October 29, 2025. Form 2022 template requesting itemized medical bills and treatment records from healthcare provider for Workers Compensation or personal injury case. Sent at 15:38.

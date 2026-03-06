@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:cdc4194b3d4f3d4f50c465167e4dd5c23823e5aa9f794bbaaa7b8aebfac0521a
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 Form W-9
 (Rev. October 2018)
 Department of the Treasury 

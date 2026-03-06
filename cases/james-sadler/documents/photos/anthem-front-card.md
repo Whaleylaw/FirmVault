@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:58ba59c8946987f0687a42edb03c4589aac1250316f79585e257478d9b3a9a07
 ---
 
+**Case:** [[cases/james-sadler/james-sadler|James Sadler]]
+**Client:** [[cases/james-sadler/contacts/james-sadler|James Sadler]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Sadler-MVA-4-07-2023/Insurance/Anthem-front-card.jpg

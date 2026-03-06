@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:72241166972c45c662c37e0f66be71eb8bb0b5df0974929221418c0281528685
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 Ward Hocker Thornton
 
 George B. Hocker * Grege E. Thornton *§ Brian EL. Stephenson Gene F. Zipperle, Jr. § Licha H. Farah, Jr. William H. Partin, Jr. t Brian M, Gudalis Ashtey K, Brown § John O. Hollon ¥+ Maxwell D, Smith § Chadwick A. Wells Graham D, Barth

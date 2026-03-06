@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:5abdd10c3e2e7ca451e3e0065c7c8d1e16b21744c117f6b336714fc30cef0bc4
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 PROGRESSIVE
 P.O. BOX 31260
 TAMPA, FL 33631

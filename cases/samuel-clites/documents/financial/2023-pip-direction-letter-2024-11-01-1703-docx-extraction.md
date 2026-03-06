@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Samuel
 source_hash: sha256:74ac1e803b22bd21d748c1275b9078af28c6817421fd45f2d564ef74909aa642
 ---
 
+**Case:** [[cases/samuel-clites/samuel-clites|Samuel Clites]]
+**Client:** [[cases/samuel-clites/contacts/samuel-clites|Samuel Clites]]
+
 extraction.classification.bucket: Insurance
 extraction.classification.confidence: medium
 extraction.classification.document_type: insurance_correspondence

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:4d5a0948140652f6c7bb3d2f6ad453768ad8c0a505dbe6a4f79fe08ad5742afb
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 April 7, 2021
 
 Aetna Better Health of Kentucky

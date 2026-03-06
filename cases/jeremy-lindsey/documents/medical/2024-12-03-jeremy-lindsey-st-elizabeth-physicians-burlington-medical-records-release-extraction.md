@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:a716ff0ac14f368637ac77379ff8ea324e8d36050b2df55202ba481712b8d908
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: legal
 date: 2024-12-03
 description: HIPAA Compliant Medical Authorization signed by Jeremy Lindsey on [DOB-1] authorizing St. Elizabeth Physicians - Burlington to release medical records to The Whaley Law Firm

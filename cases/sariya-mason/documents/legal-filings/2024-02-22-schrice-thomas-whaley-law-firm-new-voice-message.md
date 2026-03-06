@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya
 source_hash: sha256:a4d0e5809df0ccc88afeeb8d099f006da59786ce89ae4fa9cbfab15dbf0d1f80
 ---
 
+**Case:** [[cases/sariya-mason/sariya-mason|Sariya Mason]]
+**Client:** [[cases/sariya-mason/contacts/sariya-mason|Sariya Mason]]
+
 2/22/24, 10:39 AM Sariya Mason DB [DOB-1] | Filevine
 Aca: “‘Filevine
 Sariya Mason DB [DOB-2]

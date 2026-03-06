@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Destin
 source_hash: sha256:05cc699d08f62cbe8ece1e08b686709949bc0ac38b3157694168e576cce50801
 ---
 
+**Case:** [[cases/destiny-adkins/destiny-adkins|Destiny Adkins]]
+**Client:** [[cases/destiny-adkins/contacts/destiny-adkins|Destiny Adkins]]
+
 		
 
 	

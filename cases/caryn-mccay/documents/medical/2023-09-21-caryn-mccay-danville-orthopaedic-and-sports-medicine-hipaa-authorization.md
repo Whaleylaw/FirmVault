@@ -1,8 +1,8 @@
 ---
 case_slug: caryn-mccay
-created_at: 2026-02-16 22:16:55.336000+00:00
+created_at: {}
 document_category: medical
-document_date: 1972-11-30
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2023-07-30-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-McCay-MVA-7-30-2023/Medical/2023-09-21-Caryn-McCay-Danville-Orthopaedic-and-Sports-Medicine-HIPAA-Authorization.pdf
 source_hash: sha256:cf753107283dbcd0369b2f524845d61e83242efc61fc0e5691e815a078bd0c3c
+contact: "[[cases/2023-07-30-mva-001/contacts/caryn-mccay]]"
 ---
+
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 
 AUTHORIZATION TO RELEASE PROTECTED HEALTH CARE INFOR.MATION 
 TO:

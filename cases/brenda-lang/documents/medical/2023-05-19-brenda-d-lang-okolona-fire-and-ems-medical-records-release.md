@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:b433f6a5f53a89b413ac69eb9e8e4f28fea345695b89cb5e3066fd4375809770
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 
 Louisville, KY 40222 

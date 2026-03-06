@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:93f7720f4d01c44887d6af66fb6e3b38855cd9a22c0909362355d0c8d2678498
 ---
 
+**Case:** [[cases/shannon-colvin/shannon-colvin|Shannon Colvin]]
+**Client:** [[cases/shannon-colvin/contacts/shannon-colvin|Shannon Colvin]]
+
 Aaron G. Whaley, Esq. 712 Lyndon Lane
 
 Louisville, KY 40222 LH A. HALEY Y Ph: [PHONE-1] Fax: [PHONE-9] ~~ LAW FIRM February 7, 2025

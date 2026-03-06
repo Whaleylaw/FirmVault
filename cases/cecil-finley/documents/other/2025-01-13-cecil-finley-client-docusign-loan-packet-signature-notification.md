@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:b60e5ca041d1791d90eedc2f74f35a227960facfd2c207fb1055b84e30929287
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 Subject: Cecil Finley viewed The Whaley Law Firm has requested your signature. Follow the prompts to execute the attached.
 From: [EMAIL-2]
 To: [EMAIL-2]

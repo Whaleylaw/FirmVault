@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:4fcf00fc35d77c38c5f852a5609d6c0ecbd467fdbf5e20060efcffd518a51ec6
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 Aptiva Health
 Itemization of Charges
 For Posting Date July 29, 2024

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:66aa6d10f64490f65aff48257ce78836f13151c7dda21a80053ab5ba5151899d
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 LOUISVILLE LEXINGTON LONDON FLORENCE CINCINNATI INDIANAPOLIS ORLANDO JACKSONVILLE TAMPA.
 KENTUCKIANA —— COURT&REPORTERS
 CASE NO. 24-CI-00012

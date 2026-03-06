@@ -1,8 +1,8 @@
 ---
 case_slug: robin-wilder-hamilton
-created_at: 2026-02-17 00:15:34.716000+00:00
+created_at: {}
 document_category: medical
-document_date: 2023-12-06
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2023-06-15-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-Wilder-Hamilton-MVA-6-15-2023/Client/2023-12-06-Robin-Wilder-Hamilton-THOMPSON-CHIROPRACTIC-CENTER-HIPAA-Authorization.pdf
 source_hash: sha256:1fbcce27a6504d3f43f07fe302aca1a4bf8e2d5f4dd0357aa7b650eca46e1ac1
+contact: "[[cases/2023-06-15-mva-001/contacts/thompson-chiropractic-center]]"
 ---
+
+**Case:** [[cases/robin-wilder-hamilton/robin-wilder-hamilton|Robin Wilder Hamilton]]
+**Client:** [[cases/robin-wilder-hamilton/contacts/robin-wilder-hamilton|Robin Wilder Hamilton]]
+
 
 AUTHORIZATION TO RELEASE PROTECTED HEALTH CARE INFORMATION
 TO:

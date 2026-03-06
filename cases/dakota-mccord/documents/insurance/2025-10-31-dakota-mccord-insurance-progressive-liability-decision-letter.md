@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dakota
 source_hash: sha256:d392210b32c954f7ea698366c56222b582baa7b01f2bb4c8beb014d592f39972
 ---
 
+**Case:** [[cases/dakota-mccord/dakota-mccord|Dakota McCord]]
+**Client:** [[cases/dakota-mccord/contacts/dakota-mccord|Dakota McCord]]
+
 PROGRESSIVE CLAIMS PROGRESSIVE °
 
 PO BOX 94621

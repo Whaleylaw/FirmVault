@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2019-04-26-PrL-001
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-[DOB-3254]/Review_Needed/2023-01-20-Amy-Mills-Baptist-Health-Release-of-Information-2.pdf"
 source_hash: "sha256:dd3fbf81a69a496188c818d96a4a9a41a80820c22edede2b048c116a9523122b"

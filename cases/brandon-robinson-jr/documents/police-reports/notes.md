@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brando
 source_hash: sha256:917f0b94426b6198c2f1e8adf062e9c433448fbda21cdbc56c15f813bb9a048f
 ---
 
+**Case:** [[cases/brandon-robinson-jr/brandon-robinson-jr|Brandon Robinson Jr]]
+**Client:** [[cases/brandon-robinson-jr/contacts/brandon-robinson-jr|Brandon Robinson Jr]]
+
 item_0.note: Brandon Robinson Jr. (age 7, DOB [DOB-1]) is receiving rehabilitation treatment at ProRehab for injuries sustained in the December 23, 2025 motor vehicle accident.
 item_0.note_summary: Brandon Robinson Jr. Treating at ProRehab
 item_0.project_name: Brandon-Robinson-Jr-MVA-[DOB-1]

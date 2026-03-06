@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:29ae5ee5697c0a5fbb3cee3daba061fc2570cc99d2385cec3f47ff39310353a2
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 [DOB-1] 11:40:32 PM -0400 FAXCOM PAGE 1 OF 1
 
 MRO ) 1000 Madison Avenue, Suite 100 O M R

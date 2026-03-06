@@ -1,6 +1,6 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:49:09.728000+00:00
+created_at: {}
 document_category: court-filings
 document_type: court_filing
 extraction_method: native_text
@@ -8,11 +8,14 @@ legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/PT
-  Pros Physical Therapy and Sports Center/Medical Records/2014-04-26-Amy-Mills-Medical-PT
-  Pros Physical Therapy and Sports Center-Medical-Records-PT-Pros-Certification-of-Medical-Billing-Records.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/PT Pros Physical Therapy and Sports Center/Medical Records/2014-04-26-Amy-Mills-Medical-PT Pros Physical Therapy and Sports Center-Medical-Records-PT-Pros-Certification-of-Medical-Billing-Records.pdf
 source_hash: sha256:28e27011dc7d57f73beca111ccabb11c8139bf8e309c58d4a6d43710f2ffa9b1
+contact: "[[cases/2019-04-26-prl-001/contacts/pt-pros-physical-therapy-and-sports-center]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 CERTIFICATION OF MEDICAL BILLING RECORDS AFFIDAVIT
 A Mt)U Kus Wf , being first duly sworn on his/her oath, says that:

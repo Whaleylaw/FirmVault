@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:05d7b48956b5880a42be7c26e654b11d7b228e472ccc6830b36c3b8d5bce8941
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 content_length_chars: 246
 document_metadata.attachments[0]: Workman's Comp claim.eml
 document_metadata.created_at: 2024-02-25T20:37:31Z

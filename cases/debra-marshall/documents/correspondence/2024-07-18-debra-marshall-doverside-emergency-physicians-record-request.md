@@ -4,6 +4,9 @@ document_category: correspondence
 legacy_case_id: 2022-12-03-MVA-001
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-Marshall-MVA-12-3-2022/Medical-Records/2024-07-18-Debra-Marshall-Doverside-Emergency-Physicians-Record-Request.pdf"
 source_hash: "sha256:477500ac2e7711baf9d509a4e3f85243257b797a795676889bc21e1ea603dd76"

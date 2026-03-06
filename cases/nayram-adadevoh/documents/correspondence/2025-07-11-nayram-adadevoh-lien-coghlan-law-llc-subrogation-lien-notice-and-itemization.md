@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:579091d1f3d249b2df11eca382840cb106190e50d2f6ede0e54069bea217984f
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 OT/11/2025 FRI 1:40) FAX
 COGHLAN LAW LLC
 PanaansJ. CoaHian ATTORNEYS AT LAW Mark a. Cociiuat

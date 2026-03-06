@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:e3df98f38c55e85a9376001ba20dc3d34f339c756f5e0dbf096e687dfd793b0e
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 Subject: Cora Hall (Payne) Notice of Deposition
 From: [EMAIL-7]
 To: [EMAIL-6], sarena@whaleylawfirm.com

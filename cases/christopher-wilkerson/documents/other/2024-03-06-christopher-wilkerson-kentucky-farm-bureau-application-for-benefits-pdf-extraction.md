@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:1cc0ffedfb60ba9c5d3ef01b52dc8fc7b04e7920491050c8ea6974461ab87d60
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 category: Insurance
 confidence: high
 description: Application for insurance benefits

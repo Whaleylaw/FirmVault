@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel
 source_hash: sha256:4714ed48c2db311999c9b82261deba14cb5c4f913190c295264bc2e65f709450
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 December 21, 2021
 
 Safeco Insurance Company

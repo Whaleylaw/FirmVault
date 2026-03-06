@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:9ccf9475e9adf401eab4e102af03334ff1e5e9bcb26188e179d4f0719aea4199
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christopher-Wilkerson-WC-MVA-[DOB-1]/Client/2023-05-10-Christopher-Wilkerson-WC-Client-Kentucky-Farm-Bureau-Proof-of-Insurance-Card.jpg

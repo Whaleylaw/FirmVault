@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sean-M
 source_hash: sha256:227a54d10dbf94a731cac740e38b3acd4285697081ed337014993f64c938de9b
 ---
 
+**Case:** [[cases/sean-may/sean-may|Sean May]]
+**Client:** [[cases/sean-may/contacts/sean-may|Sean May]]
+
 Justin Chumbley
 NN Aaron G. Whaley, Esq.
 712 Lyndon Lane HALEY Louisville, KY 40222

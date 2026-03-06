@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:8395f88a255c1ad8acdaa27642c7304153d811be1f53695bbfa5c47d00c98253
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 Fax Confirmation
 To: [PHONE-11] From: [PHONE-10]
 Doc:

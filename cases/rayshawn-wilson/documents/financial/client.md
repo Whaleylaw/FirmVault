@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Raysha
 source_hash: sha256:cf960a7b5155860e86a87ab9c2102091cf506397ea7bfa80dac958800fd7180b
 ---
 
+**Case:** [[cases/rayshawn-wilson/rayshawn-wilson|Rayshawn Wilson]]
+**Client:** [[cases/rayshawn-wilson/contacts/rayshawn-wilson|Rayshawn Wilson]]
+
 address: 4707 Kerrick Lane, APT 102, Louisviklle, KY 40258
 date_of_birth: [DOB-1]
 imported_at: 2026-02-16T21:09:42.786Z

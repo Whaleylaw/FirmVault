@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:28d7725d7f4c95d42fdbfe56cd2a242868a7bd129e1501b41242db507d89d5ac
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 From: LexisNexis Payments
 Sent: Tuesday, July 25, 2023 12:58 PM
 To: [EMAIL-3]

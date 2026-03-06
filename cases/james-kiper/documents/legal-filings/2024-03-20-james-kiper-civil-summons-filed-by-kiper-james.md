@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:d054ad57059cc285fdd444f6b6bc428f7c03014662fc26be2b401f8315942870
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 CIVIL SUMMONS
 AOC-E-105           Sum Code: CI
 Rev. 9-14

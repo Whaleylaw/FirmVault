@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmon
 source_hash: sha256:d1122ec2bbc772a56bcdc60f264d6c27a5775de0da7ae701f0e68b57efe70755
 ---
 
+**Case:** [[cases/julmonzhae-moore/julmonzhae-moore|Julmonzhae Moore]]
+**Client:** [[cases/julmonzhae-moore/contacts/julmonzhae-moore|Julmonzhae Moore]]
+
 RF-PFHV 9/15/2023 10:25:07 AM PAGE 3/005 Fax Server
 Policy Number: 691 7832-FO6-14
 Date of Loss: 2023-08-29

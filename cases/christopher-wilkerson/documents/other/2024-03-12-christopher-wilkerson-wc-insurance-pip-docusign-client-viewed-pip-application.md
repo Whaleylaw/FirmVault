@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:4bc024fb009852b4c720be99552da9d9614ba967a589b086ed4c3f85322b2e8f
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 Subject: Chris Wilkerson viewed The Whaley Law Firm has requested your signature.
 From: [EMAIL-2]
 To: [EMAIL-2]

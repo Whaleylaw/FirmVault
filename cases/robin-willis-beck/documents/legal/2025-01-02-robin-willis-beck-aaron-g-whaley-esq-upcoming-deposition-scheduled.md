@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:3becdfe1267c66ac42a94f2339f4131522c8cb868b3e12a1db7057db3a2a91bc
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 
 Louisville, KY 40222 

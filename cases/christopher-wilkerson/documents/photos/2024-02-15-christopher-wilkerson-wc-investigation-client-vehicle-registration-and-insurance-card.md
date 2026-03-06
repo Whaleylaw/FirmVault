@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:97b3cb648320e8cd221d8b453be41b67323d45250586768092c7526469a8329a
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christopher-Wilkerson-WC-MVA-[DOB-1]/Investigation/2024-02-15-Christopher-Wilkerson-WC-Investigation-Client-Vehicle-Registration-And-Insurance-Card.jpg

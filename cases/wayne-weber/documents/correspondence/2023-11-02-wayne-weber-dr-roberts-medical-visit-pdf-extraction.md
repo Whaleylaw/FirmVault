@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:c81b94ae66394a0f25d6f3695ed3f3f7e86597db9b5ad9f29a6d89536d4d282f
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: medical_record
 extraction.date: 2023-11-02
 extraction.description: Medical visit record from Dr. Roberts for patient Wayne Weber dated November 2, 2023.

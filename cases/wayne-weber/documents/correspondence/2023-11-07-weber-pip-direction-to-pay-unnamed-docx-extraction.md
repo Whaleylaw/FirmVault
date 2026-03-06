@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:0b85f7feec67b0a3b8e1ba6f2a71e72cb1d080ced24cf2faca9aadae94ac80c9
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: insurance_correspondence
 extraction.date: 2023-11-07
 extraction.description: PIP (Personal Injury Protection) direction to pay document for Wayne Weber dated November 7, 2023.

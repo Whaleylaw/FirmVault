@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-
 source_hash: sha256:2b8f5dfd73b7634b9967d63a8163be181a6bcef0ec1459999d18bc2de49b65db
 ---
 
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 directory_structure.create_if_missing: true
 directory_structure.required_root_folders[0]: Medical Records
 directory_structure.required_root_folders[1]: Insurance

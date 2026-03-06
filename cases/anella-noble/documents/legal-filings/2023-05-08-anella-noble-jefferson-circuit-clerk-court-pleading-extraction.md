@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:b25427cd7abf609659e60164767101a9860cbbd30dc195ae3621cc4a5de437ec
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 category: Litigation
 description: Court-Pleading
 entities[0]: Anella Noble

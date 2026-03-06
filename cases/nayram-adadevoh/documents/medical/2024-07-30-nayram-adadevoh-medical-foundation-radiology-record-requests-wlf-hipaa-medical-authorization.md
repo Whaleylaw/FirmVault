@@ -1,18 +1,22 @@
 ---
 case_slug: nayram-adadevoh
-created_at: 2026-02-17 00:12:18.052000+00:00
+created_at: {}
 document_category: medical
-document_date: 1973-05-22
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2024-07-13-MVA-002
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram-Adadevoh-MVA-7-13-2024/Medical/Foundation
-  Radiology/Record Requests/2024-07-30-Nayram-Adadevoh-Medical-Foundation Radiology-Record-Requests-WLF-HIPAA-Medical-Authorization.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram-Adadevoh-MVA-7-13-2024/Medical/Foundation Radiology/Record Requests/2024-07-30-Nayram-Adadevoh-Medical-Foundation Radiology-Record-Requests-WLF-HIPAA-Medical-Authorization.pdf
 source_hash: sha256:e1162293e78c15fd607aad9a612df46dcc3b8aa8dfd90dcada6ec9a0ac08200d
+contact: "[[cases/2024-07-13-mva-002/contacts/foundation-radiology]]"
 ---
+
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

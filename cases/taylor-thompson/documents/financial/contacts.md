@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor
 source_hash: sha256:99e101ce5e6b86f54f9b065499606db680285dfb9fd001c769e850c42bddcb63
 ---
 
+**Case:** [[cases/taylor-thompson/taylor-thompson|Taylor Thompson]]
+**Client:** [[cases/taylor-thompson/contacts/taylor-thompson|Taylor Thompson]]
+
 item_0.jsonb_agg[0].full_name: Taylor Thompson
 item_0.jsonb_agg[0].phone: [PHONE-1]
 item_0.jsonb_agg[0].project_name: Taylor-Thompson-MVA-[DOB-2]

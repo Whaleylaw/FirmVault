@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:5d0b1470a6c5ecae5f89907a2e92053937efceed5077018c3eaf35cf8f90f53d
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 	
 
 

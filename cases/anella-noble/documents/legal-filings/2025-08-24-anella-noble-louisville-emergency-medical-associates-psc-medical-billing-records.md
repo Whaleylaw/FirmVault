@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:133b195bd4ca4f76160739bb8984f9272552497decebb55cc4fc0bd8529224e2
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 CERTIFICATION OF MEDICAL BILLING RECORDS AFFIDAVIT
 ______________________________________, being first duly sworn on his/her oath, says that: 
 (Name of records custodian/clerk) 

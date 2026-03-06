@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cynthi
 source_hash: sha256:51395b3056dfa24100590d8b1ced63a596a4a808bba4b23de518c7663cdd8ee5
 ---
 
+**Case:** [[cases/cynthia-gibson/cynthia-gibson|Cynthia Gibson]]
+**Client:** [[cases/cynthia-gibson/contacts/cynthia-gibson|Cynthia Gibson]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cynthia-Gibson-MVA-7-9-2025/Investigation/2025-07-09-Cynthia-Gibson-Investigation-Client-Photo-of-arm-injuries.jpg

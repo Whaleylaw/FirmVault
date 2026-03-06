@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:70202880abe3ea01136d618b51a37db79e6533091627a70e0ff8e1d37d9f6ab5
 ---
 
+**Case:** [[cases/michael-ditto-jr/michael-ditto-jr|Michael Ditto Jr]]
+**Client:** [[cases/michael-ditto-jr/contacts/michael-ditto-jr|Michael Ditto Jr]]
+
 item_0.jsonb_agg[0].case_create_date: 1769714459247
 item_0.jsonb_agg[0].client_address: 9903 Ponder Lane, , Louisville, KY 40272
 item_0.jsonb_agg[0].client_email: [EMAIL-1]

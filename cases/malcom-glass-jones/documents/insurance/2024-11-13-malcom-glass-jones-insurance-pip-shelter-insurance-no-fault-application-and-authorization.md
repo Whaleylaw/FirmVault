@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Malcom
 source_hash: sha256:29c485074bce319f464354f4b3cc8bc52b229eef989d04fe56a0092bce8c5b19
 ---
 
+**Case:** [[cases/malcom-glass-jones/malcom-glass-jones|Malcom Glass Jones]]
+**Client:** [[cases/malcom-glass-jones/contacts/malcom-glass-jones|Malcom Glass Jones]]
+
 Emily Friedrich
 Sn SHELTER Medical Claims Adjuster
 pamuee” | INSURANCE Phone: [PHONE-1] wien COMPANIES Fax: [PHONE-2]

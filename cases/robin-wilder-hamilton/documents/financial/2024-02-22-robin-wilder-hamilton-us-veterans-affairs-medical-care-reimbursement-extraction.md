@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:8c657f9ee1d4e3b22e4a561e44529fdeb3469d44dbbe403c719398db0f3ab638
 ---
 
+**Case:** [[cases/robin-wilder-hamilton/robin-wilder-hamilton|Robin Wilder Hamilton]]
+**Client:** [[cases/robin-wilder-hamilton/contacts/robin-wilder-hamilton|Robin Wilder Hamilton]]
+
 extraction.classification.bucket: Medical Records
 extraction.classification.confidence: medium
 extraction.classification.document_type: medical_billing

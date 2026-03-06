@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:c29be1e60a79e717ee0707720fac217b33c50c3bf734cf5efa92821cde567bd0
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 0001
  1                JEFFERSON COUNTY CIRCUIT COURT
  2                       DIVISION ONE (1)

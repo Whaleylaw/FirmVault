@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:d141dc6d2b53873ac857742b7e933800c46e8a6b2a560929185547f91a35da1b
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 category: Medical Records
 description: Imaging records from Heartland Imaging for left clavicle fracture
 entities[0]: Alma Socorro Cristobal Avendaño

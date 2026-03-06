@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:6500f68c280a6f3d4a7df5354fe5863fe07d0730956caa9bf2c8c6c5e1dbf63c
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: insurance
 date: 2024-12-02
 description: Health insurance claim form submitted to Anthem Blue for auto accident-related medical treatment

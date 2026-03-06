@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:1caff3b7882d5a88924a3fd18b82bb72cc89e981a1957b47238ece001ea72ba1
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 COMMONWEALTH OF KENTUCKY
 JEFFERSON CIRCUIT COURT
 DIVISION 7

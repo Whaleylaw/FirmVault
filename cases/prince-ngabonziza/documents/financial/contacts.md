@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Prince
 source_hash: sha256:975ad49db90d0834215e0dca95363da8c14272c602ee0f5a5ec363798693eae4
 ---
 
+**Case:** [[cases/prince-ngabonziza/prince-ngabonziza|Prince Ngabonziza]]
+**Client:** [[cases/prince-ngabonziza/contacts/prince-ngabonziza|Prince Ngabonziza]]
+
 item_0.jsonb_agg[0].address: 3005 Frank lee Ave
 item_0.jsonb_agg[0].full_name: Prince Ngabonziza
 item_0.jsonb_agg[0].phone: [PHONE-2]

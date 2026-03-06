@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:1a6b4ce8fb5be3840bea57878a5dd8672d2db4198a466d618709ed40542621c5
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-Marshall-MVA-12-3-2022/Investigation/2022-12-03-Debra-Marshall-Investigation-Client-Injury-Photo-Lower-Leg-Stitches.jpg

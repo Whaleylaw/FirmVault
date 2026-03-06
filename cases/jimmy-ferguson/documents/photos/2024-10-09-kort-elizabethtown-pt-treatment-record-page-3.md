@@ -1,8 +1,8 @@
 ---
 case_slug: jimmy-ferguson
-created_at: 2026-02-16 23:57:47.188000+00:00
+created_at: {}
 document_category: photos
-document_date: 1974-09-16
+document_date: {}
 document_type: photo
 extraction_method: image_proxy
 legacy_case_id: 2024-05-30-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 70
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-Ferguson-MVA-5-30-2024/Medical/2024-10-09_KORT-Elizabethtown-PT_Treatment-Record-Page-3.jpg
 source_hash: sha256:93f8fd96702ae839ba78cf4ac0a768cc4ecee2db63d1f9a0735ef06585f9793b
+contact: "[[cases/2024-05-30-mva-001/contacts/kort-elizabethtown-pt]]"
 ---
+
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 
 # Image Document
 

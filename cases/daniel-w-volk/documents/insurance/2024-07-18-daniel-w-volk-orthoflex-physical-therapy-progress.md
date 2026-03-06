@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel
 source_hash: sha256:3730301d8b805f623287f1a9c4b72d03200404f59ffafa9917330698e76dccfd
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 *4000000 [PHONE-1] [PHONE-6]”
 
 “04s EEiEco |Insurance.

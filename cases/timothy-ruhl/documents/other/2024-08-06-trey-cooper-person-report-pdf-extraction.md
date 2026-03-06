@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:b33fe2ee9957fb1882990c91c248c8833574f51e1045e3779165aed06cfeb9a1
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 content_analysis.category: Investigation
 content_analysis.date: 2024-08-06
 content_analysis.description: Person location report

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:7d95ca4a54e4e740f00b0d4be747e1051b4692bade11056265b3c762d2952f70
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 PROGRESSIVE CLAIMS PROGRESSIVE ®
 PO BOX 94670
 CLEVELAND, OH 44101-9919

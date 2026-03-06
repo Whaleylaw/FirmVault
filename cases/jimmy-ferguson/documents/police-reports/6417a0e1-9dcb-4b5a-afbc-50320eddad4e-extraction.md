@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:57eede3eedae3303b07d8bb871f5e5c3eefd7a9afb7186d08569b3bd0e241021
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 date: 2024-05-30
 description: Photo showing the intersection where the accident occurred, including traffic signals and road markings on N Dixie Ave.
 original_path: Jimmy-Ferguson-MVA-5-30-2024/6417a0e1-9dcb-4b5a-afbc-50320eddad4e.jpg

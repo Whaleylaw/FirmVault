@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:fe837bdac13f35ffd1f56d8251a3bbf18b45acac19dc65262e12ff6c9e4be0c8
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 category: Insurance
 confidence: high
 description: Workers compensation insurance policy for employer

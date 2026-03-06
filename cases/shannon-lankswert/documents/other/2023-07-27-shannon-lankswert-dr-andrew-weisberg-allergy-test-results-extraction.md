@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:26ef1515e140b8ba7042436fc630a591451c20384f4a79c50235387e657011a6
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 extraction.category: Medical Records
 extraction.date: 2023-07-27
 extraction.description: Allergy test results - unrelated to current workers compensation claim

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Samuel
 source_hash: sha256:f224d80f87dd7aab378666aede8eb630dcf3454116f2a13f32c800e284fc2435
 ---
 
+**Case:** [[cases/samuel-clites/samuel-clites|Samuel Clites]]
+**Client:** [[cases/samuel-clites/contacts/samuel-clites|Samuel Clites]]
+
 extraction.classification.bucket: Medical Records
 extraction.classification.confidence: high
 extraction.classification.document_type: medical_bill

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:a77113675383d3b61bf2ab8dc3355c9fcf1b93755062d3dbcf89c3cbf13fcba9
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: client_document
 extraction.date: 2024-08-29
 extraction.description: HIPAA authorization form signed by Wayne Weber authorizing The Whaley Law Firm to obtain and review medical records on his behalf.

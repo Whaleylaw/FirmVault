@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:27ab076b25bf906db724ef1ba2746e0821878d2be7b1ab6426e66be87218abab
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: RE: Noble v Sewell - Discovery Responses - Overdue Notice
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com, [EMAIL-2]

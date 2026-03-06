@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-
 source_hash: sha256:face13666c6bacbba5fe2fc8c1e3229f6edc363e6a294fddce947250d981d9cf
 ---
 
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 
 Louisville, KY 40222 

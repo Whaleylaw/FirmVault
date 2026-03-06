@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie
 source_hash: sha256:52ead80f50d4b22208b95c0c707e2b9b1f5d8e6e95d2ae2d4bcac28ce946b684
 ---
 
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 vranet rein, OefareNOTER VTCLE RECORDS enaeaioepage1927aa
 . Bobbie Salolae
 Jerreeson Counry Cum

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:8e18e79470c5322164704074a3e921af65f34ecf1feaa39e1ca90face8c45dc0
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-Hall-WC-[DOB-1]/Photos/2025.01.08-Hall-CPD-MB-Bal-Billing-MCH-Ortho.jpg

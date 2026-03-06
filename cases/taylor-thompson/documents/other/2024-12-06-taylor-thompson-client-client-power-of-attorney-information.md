@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor
 source_hash: sha256:63a550479f17eb39d12dd3d34903e15369458557e9acac5e9cfae98d893be04d
 ---
 
+**Case:** [[cases/taylor-thompson/taylor-thompson|Taylor Thompson]]
+**Client:** [[cases/taylor-thompson/contacts/taylor-thompson|Taylor Thompson]]
+
 I
 Agent's Duties Wbr(1) not (2) Act in good (3)4) the (U(1) Ac
 (2) (3) A

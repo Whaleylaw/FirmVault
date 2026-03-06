@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:b3b036d813dc0720e032cb1f1ad257a31473fda1feb4b3644ba5c2bb7af73257
 ---
 
+**Case:** [[cases/shannon-colvin/shannon-colvin|Shannon Colvin]]
+**Client:** [[cases/shannon-colvin/contacts/shannon-colvin|Shannon Colvin]]
+
 item_0.certificate_of_service: 2024-09-10
 item_0.filing_party_name: Bryce Koon
 item_0.pleading_type: Complaint

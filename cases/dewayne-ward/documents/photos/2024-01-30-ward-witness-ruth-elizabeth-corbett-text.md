@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dewayn
 source_hash: sha256:3db524542657cb12a7cc77d0481e1ad3b3041d41a92b04e8e04a2c6815af9c55
 ---
 
+**Case:** [[cases/dewayne-ward/dewayne-ward|Dewayne Ward]]
+**Client:** [[cases/dewayne-ward/contacts/dewayne-ward|Dewayne Ward]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dewayne-Ward-MVA-8-29-2023/Audio-Video Evidence/2024.01.30-Ward-Witness-Ruth-Elizabeth-Corbett-Text.jpg

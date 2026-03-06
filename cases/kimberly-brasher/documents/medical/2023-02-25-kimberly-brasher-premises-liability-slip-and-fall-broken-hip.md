@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:3fdcd6ee36147a2aeef22361a06c3c0bc947e7013bb2720266c02576af42ea1e
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 Client Information
 Client Name: Kimberly Brasher
 Phone Number: [PHONE-1]

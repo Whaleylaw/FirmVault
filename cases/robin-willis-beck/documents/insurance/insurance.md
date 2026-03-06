@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:6294d9251cc47118f970b464d83f24f67f813128e9cbb538421c93e0676175da
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 item_0.claim_number: SF-USTT-26089723
 item_0.coverage_confirmation: Coverage Pending
 item_0.current_offer: 15000

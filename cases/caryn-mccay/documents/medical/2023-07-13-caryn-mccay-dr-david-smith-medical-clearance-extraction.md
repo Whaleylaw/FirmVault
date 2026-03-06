@@ -1,11 +1,10 @@
 ---
 case_slug: caryn-mccay
-created_at: 2026-02-16 22:17:46.100000+00:00
+created_at: {}
 document_category: medical
-document_date: 2023-07-13
+document_date: {}
 document_type: medical
-entities:
-- Dr. David Smith
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-07-30-MVA-001
 mime_type: application/json
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 90
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-McCay-MVA-7-30-2023/Reports/2026-02-01-file-organization/extractions_old_20260201_215100/2023-07-13-Caryn-McCay-Dr-David-Smith-Medical-Clearance_extraction.json
 source_hash: sha256:4cb05befe053ab4b954b185db03823da7b7c44639009c8cba29b1e7bbe599ff9
+contact: "[[cases/2023-07-30-mva-001/contacts/caryn-mccay]]"
 ---
+
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 
 extraction.classification.bucket: Medical Records
 extraction.classification.confidence: high

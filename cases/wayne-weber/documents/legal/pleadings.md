@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:9f93103daefa000734c75f9655690ac04fd0e113ce31f4ee6e062d48afdbbf7f
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 item_0.certificate_of_service: 2023-12-28
 item_0.filing_party_name: The Whaley Law Firm
 item_0.pleading_type: Complaint

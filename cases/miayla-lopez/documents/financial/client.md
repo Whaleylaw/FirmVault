@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Mi'Ayl
 source_hash: sha256:d9cb1b3d6153ea7eb476fe389999f5165d198759cf1a13d3d172b386beb6ccc2
 ---
 
+**Case:** [[cases/miayla-lopez/miayla-lopez|Mi'Ayla Lopez]]
+**Client:** [[cases/miayla-lopez/contacts/miayla-lopez|Mi'Ayla Lopez]]
+
 date_of_birth: [DOB-1]
 imported_at: 2026-02-16T21:09:42.778Z
 name: Mi'Ayla Lopez

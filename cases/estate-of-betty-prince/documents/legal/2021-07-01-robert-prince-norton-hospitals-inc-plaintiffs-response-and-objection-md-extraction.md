@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:5a02945fe9484a6b8e5469538e66ed22ec8b8ac4b07e4a2d0c9d8f37c5bdd1a5
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 extraction.classification.bucket: Litigation
 extraction.classification.confidence: high
 extraction.classification.document_type: litigation_pleading

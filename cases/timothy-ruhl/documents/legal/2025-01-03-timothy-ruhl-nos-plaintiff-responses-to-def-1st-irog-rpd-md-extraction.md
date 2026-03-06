@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:1e377d142b1799dce674f05919ab4c7ebf46762fda0a29e8e4d9e2bf50db369a
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 content_analysis.category: Litigation
 content_analysis.date: 2025-01-03
 content_analysis.description: Notice of service - Plaintiff's discovery responses

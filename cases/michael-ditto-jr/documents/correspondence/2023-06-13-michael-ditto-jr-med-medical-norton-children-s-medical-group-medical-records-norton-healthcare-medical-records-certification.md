@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:2e892bac48307fde8b0ff81edeb1913a8709abb5e262b2a5ff31111a5f888825
 ---
 
+**Case:** [[cases/michael-ditto-jr/michael-ditto-jr|Michael Ditto Jr]]
+**Client:** [[cases/michael-ditto-jr/contacts/michael-ditto-jr|Michael Ditto Jr]]
+
 IN NORTON’ | .
 HEALTHCARE MEDICAL RECORDS CERTIFICATION RID 198321237
 Patient Name: Micheal Ditto

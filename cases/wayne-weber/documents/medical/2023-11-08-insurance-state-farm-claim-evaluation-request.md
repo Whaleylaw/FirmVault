@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:8159968b4a4f4c47176790efc7ee94f02bf80d03797d5b3d48b082e058b44cb9
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 November 8, 2023
 Whaley Law Firm
 4141 Taylor Blvd

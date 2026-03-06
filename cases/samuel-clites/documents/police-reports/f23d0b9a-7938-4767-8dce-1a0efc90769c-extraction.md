@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Samuel
 source_hash: sha256:1d5e3400a5aee4cdb9b26de542b7c2f8f2caf43b4497b13e3ea8f1dcb3b5bac9
 ---
 
+**Case:** [[cases/samuel-clites/samuel-clites|Samuel Clites]]
+**Client:** [[cases/samuel-clites/contacts/samuel-clites|Samuel Clites]]
+
 category: vehicle_damage
 confidence: 0.85
 date: 2024-04-23

@@ -4,6 +4,9 @@ document_category: police-reports
 legacy_case_id: 2021-09-03-MVA-001
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda-Lang-MVA-[DOB-1]/Medical/2021-11-09-Brenda-D-Lang-Dr-Chen-post-op-notes.pdf"
 source_hash: "sha256:4e43600b490bbf4805861c16881ab8caf8ddc8a58e07ac14f027bf25bd17ca4d"

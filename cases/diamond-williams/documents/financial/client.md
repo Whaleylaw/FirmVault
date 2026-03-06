@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Diamon
 source_hash: sha256:48f0f72e19483d6dff24c4fbe01179b3e91509e20f942a013070f733332e1be8
 ---
 
+**Case:** [[cases/diamond-williams/diamond-williams|Diamond Williams]]
+**Client:** [[cases/diamond-williams/contacts/diamond-williams|Diamond Williams]]
+
 address: 2028 Macarthur Drive, New Albany, IN 47150
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

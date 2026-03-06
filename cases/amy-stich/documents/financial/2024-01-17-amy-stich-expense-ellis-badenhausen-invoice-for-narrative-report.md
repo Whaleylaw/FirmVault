@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:0993c94e5d9e2add79c5d7ca8cf3f46ac5f2272fa3bd2f0838df0ac3844458c7
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 Egsit Euuis &
 SATIS.
 Mystique Roux

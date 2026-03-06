@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Corey-
 source_hash: sha256:a9f900c93430c4cf9a1d7fbe3ebda1a9e9ce0b2a12a463dddeb1ff4598c2c036
 ---
 
+**Case:** [[cases/corey-todd/corey-todd|Corey Todd]]
+**Client:** [[cases/corey-todd/contacts/corey-todd|Corey Todd]]
+
 accident_date: 2025-08-02
 case_type: WC
 client_name: Corey-Todd-MVA

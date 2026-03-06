@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:98d6125aff0bc72b6e7e02e443e81246af06e6798b0f8a1eecb645b2ca497107
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 ================================================================================
 VALIDATION COMPLETE - SHANNON-LANKSWERT-WC-[DOB-6]
 ================================================================================

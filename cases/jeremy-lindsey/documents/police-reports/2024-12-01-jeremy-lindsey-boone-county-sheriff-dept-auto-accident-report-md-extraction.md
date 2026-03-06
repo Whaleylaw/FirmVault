@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:15b6f573f04def322de678d0cf6234fee68fa4810e65326be749ac8c00750fa6
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: investigation
 date: 2024-12-01
 description: Kentucky Uniform Police Traffic Collision Report from Boone County Sheriff Department via LexisNexis Police Records Retrieval

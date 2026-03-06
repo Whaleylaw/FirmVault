@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:00537f64c5d6671cc2d5e5445addc9a9c2f09357f8d8e7dae09f936c8cace17f
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 Subject: Secure Email from Harford Mutual Insurance Group - From [EMAIL-1] - Approval for 12 PT visits on Amy Stich
 From: [EMAIL-2]
 To: sarena@whaleylawfirm.com

@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2023-04-01-MVA-001
 ---
 
+**Case:** [[cases/cecelia-neltner/cecelia-neltner|Cecelia Neltner]]
+**Client:** [[cases/cecelia-neltner/contacts/cecelia-neltner|Cecelia Neltner]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecelia-Neltner-MVA-4-1-2023/Medical-Records/2015-04-20-Cecelia-Neltner-ST-ELIZABETH-HEALTHCARE-Well-Child-Visit.pdf"
 source_hash: "sha256:fa07087af038f93d36124dc610d0b80e738056bafe0fb463752f101caf96b2b0"

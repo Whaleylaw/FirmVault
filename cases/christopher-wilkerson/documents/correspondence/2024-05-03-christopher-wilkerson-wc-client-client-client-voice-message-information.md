@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:c74305d6848b2f878e3abdc5bd03284459bcab69e1a2bad29c4100a37039dbf6
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 Subject: New Voice Message from COLUMBIA     KY [PHONE-6] on [DOB-2] 9:46 AM
 From: [EMAIL-3]
 To: Sarena@whaleylawfirm.com

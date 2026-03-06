@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:4d5abca6e16f6a512a16027c9a3fcde1b6d65004e30bd08f24251296041a845f
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 item_0.certificate_of_service: 2023-09-08
 item_0.filing_party_name: The Whaley Law Firm
 item_0.pleading_type: Complaint

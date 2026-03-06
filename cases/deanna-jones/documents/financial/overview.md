@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Deanna
 source_hash: sha256:5d227a2c7a70ef42082493c64acf3a3f6de6a6b17b145bad017718325e71d20d
 ---
 
+**Case:** [[cases/deanna-jones/deanna-jones|Deanna Jones]]
+**Client:** [[cases/deanna-jones/contacts/deanna-jones|Deanna Jones]]
+
 item_0.jsonb_agg[0].accident_date: 2025-07-30
 item_0.jsonb_agg[0].case_create_date: 2025-12-26T19:49:38.501823
 item_0.jsonb_agg[0].case_type: MVA

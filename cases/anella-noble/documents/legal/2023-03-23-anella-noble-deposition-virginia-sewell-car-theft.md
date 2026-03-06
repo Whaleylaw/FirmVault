@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:f907c718a157ad428a241d05ac1203a7ba661f104df288f52ddb49a7216a2d3a
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 ·1· · · · · · · · JEFFERSON COUNTY CIRCUIT COURT
 ·2· · · · · · · · · · · ·DIVISION FIVE (5)
 ·3· · · · · · · · · · · · HON. MARY SHAW

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:5389daaba3d7f45f6d0f93c4533faca4fb8e5257a686e58f5e8424226eee154e
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 2/26/24, 9:54 AM Re_ Claim %23 237484.eml
 I have given all that I have including the urgent care address and name ofperson who saw me. I included the discharge
 information with my claims packet. Ifmore is needed, please let me know exactly what you need. I have only been to the

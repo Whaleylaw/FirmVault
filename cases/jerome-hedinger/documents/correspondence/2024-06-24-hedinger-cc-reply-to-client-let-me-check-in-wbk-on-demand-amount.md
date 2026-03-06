@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:8fb1bab150611f2bf40d3587e20efe7e00d39f2ddc173fbc08eaa04fa9fb891c
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 Subject: Re: [PHONE-1] Hedinger Aetna Bill
 From: sarena@whaleylawfirm.com
 To: [EMAIL-2]

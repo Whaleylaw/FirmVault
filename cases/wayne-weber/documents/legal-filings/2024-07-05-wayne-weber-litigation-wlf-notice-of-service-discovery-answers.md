@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:c735e1a0298964d944d1c3e35db380f492d6ee8cf8079a5f032ee6e6a9914be7
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 CASE NO. 23-CI-008019 JEFFERSON CIRCUIT COURT 
  DIVISION TWELVE (12) 
  JUDGE SUSAN GIBSON 

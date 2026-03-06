@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee
 source_hash: sha256:8cd543ed3f30493d6d16e55c1bd402f1a15dfb81856444b0780a46a919138ae0
 ---
 
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee-Williams-MVA-[DOB-1]/Investigation/2023-08-29-Ashlee-Williams-Investigation-Client-Photo-of-Swollen-Right-Hand.jpg

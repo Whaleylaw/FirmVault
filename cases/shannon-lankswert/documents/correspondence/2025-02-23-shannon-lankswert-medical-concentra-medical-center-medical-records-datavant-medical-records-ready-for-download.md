@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:2bf74007306ed3c9d2b718d3941b2744cdc76f047fee6ab1a7640284b66d66b7
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 Subject: Smart Request Status Notification
 From: [EMAIL-3]
 To: Sarena@whaleylawfirm.com

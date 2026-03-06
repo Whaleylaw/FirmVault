@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:411abb0ee1eee028ea2d14e86f15d066b190d1fe2ee93ae525598a9b381b9dab
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 712 Lyndon Lane ● Louisville, KY 40222 ● Phone: [PHONE-1] ● Fax: [PHONE-2]
 November 8, 2023
 Danny Wimmer Presents

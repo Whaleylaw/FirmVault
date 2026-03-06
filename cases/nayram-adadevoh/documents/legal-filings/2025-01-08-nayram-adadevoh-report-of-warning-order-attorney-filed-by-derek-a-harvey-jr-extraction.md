@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:11e0d45a1003547c26ede49479aa1a904b86aef0c924e4b6f622624c34d6b473
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: legal_document
 date: 2025-01-08
 description: Report of Warning Order Attorney filed by Derek A. Harvey Jr.

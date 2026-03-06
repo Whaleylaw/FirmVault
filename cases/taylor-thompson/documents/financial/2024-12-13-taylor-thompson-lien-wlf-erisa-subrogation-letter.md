@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor
 source_hash: sha256:15efc3cd858113f9a0bf69f065ae0cb26388281affb608a87e6a8ca9a418e8d4
 ---
 
+**Case:** [[cases/taylor-thompson/taylor-thompson|Taylor Thompson]]
+**Client:** [[cases/taylor-thompson/contacts/taylor-thompson|Taylor Thompson]]
+
 Aetna Insurance
 December 13, 2024
 Page 3

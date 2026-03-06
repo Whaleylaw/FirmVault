@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:bffb14daba9c3f5eef25223e773bed5c37313a53a0eb6919be83ebc339f88428
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 Subject: Re: Taxes/W2s
 From: [EMAIL-10]
 To: sarena@whaleylawfirm.com

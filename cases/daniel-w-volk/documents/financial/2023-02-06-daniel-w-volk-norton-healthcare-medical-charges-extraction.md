@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel
 source_hash: sha256:969b2ec2d924e712a144b1ea8fdd164b67df793be46c2f31241f33f9b6333198
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 extraction.classification.bucket: Medical Records
 extraction.classification.confidence: high
 extraction.classification.document_type: medical_bill

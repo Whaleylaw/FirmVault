@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:61be72d898aedf300e1aead8eb52c9569c8316a41b054e5289ee48a162853ebd
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 MILLS, AMY DOB: Dec 28, 1983 (39 yo F) Acc No. 24713959|Doc Name:2020 09 14 KNR Records
 ALEXANDER LANDFIELD PLLC 2201 REGENCY ROAD SUITE 701, Procedure Note
 LEXINGTON, KY 40503-3792

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:0da877244816ba83a1adb3a5a3f228353ceccd100825515aaeedf6d3bf46a8a7
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 category: medical_record
 confidence: high
 date: 2022-12-12

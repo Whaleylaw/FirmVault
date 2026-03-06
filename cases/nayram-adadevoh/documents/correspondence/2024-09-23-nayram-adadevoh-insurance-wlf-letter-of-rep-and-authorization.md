@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:93fe035158e7239ce1b198ebe9bdf23b7e84822d51fb65f38346746972ce52c2
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 © [DOB-1] 12:21 PM
 From: Fax Line Fax; 15023649363
 Aaron G. Whaley, Esq.

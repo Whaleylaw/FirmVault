@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:734d4f0dfc183614749ecac802d95c517a6398f6be4dae198055acefb18b5d71
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: property_damage
 extraction.date: 2022-09-21
 extraction.description: A Collision Center vehicle repair estimate for Wayne Weber dated September 21, 2022.

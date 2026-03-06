@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:6df8d5a1b36e1d8f9ec41afc12d1d37d600b42099c78a975ec38a292fad6eaa5
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 Certificate Of Completion
 Envelope Id: D7E09D8894654F86BE76F2C0C057BCAD Status: Completed
 Subject: The Whaley Law Firm has requested your signature.

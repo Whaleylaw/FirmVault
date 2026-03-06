@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:7ef99e24e7824e78d09ed4fcaa7e2051d1bc1d12c11e6b6f7ccadc479d90f8f7
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 item_0.author_name: Roscoe (AI Paralegal)
 item_0.episode_type: imported
 item_0.last_activity: 2025-12-01T00:00:00

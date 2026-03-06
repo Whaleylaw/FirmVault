@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2023-01-19-MVA-001
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Douglas-Livers-MVA-1-19-2023/Medical/2024-03-18-Douglas-Livers-Aptiva-Health-Left-Shoulder-Foot-Pain.pdf"
 source_hash: "sha256:d714eef2fc71033d95e9606c1aecc67cf7f73dbedac627459110f047d21dd641"

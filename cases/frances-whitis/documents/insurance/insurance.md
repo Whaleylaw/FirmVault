@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/France
 source_hash: sha256:f979a63949cb6091081cb445c436a7d4814f7053bca3a1ec192f425eec9222b6
 ---
 
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 item_0.adjuster_email: [EMAIL-1]
 item_0.adjuster_phone: [PHONE-2]
 item_0.claim_number: 24-727042794

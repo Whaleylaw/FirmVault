@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:7d32f1c66fc2acfb8adb743ed2d43aa595ef65522477d8e6d30436c0e8b54fbd
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: investigation
 date: 2024-12-01
 description: Traffic collision report from Boone County Sheriff Department for head-on collision on Mt Zion Road at Biltmore Blvd

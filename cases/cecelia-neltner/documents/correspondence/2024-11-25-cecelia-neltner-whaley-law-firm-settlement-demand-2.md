@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ceceli
 source_hash: sha256:3c7aa7525fbf1fc503d5a901e243ec21a74a4814ba852a35f0e68df2a57ba5f5
 ---
 
+**Case:** [[cases/cecelia-neltner/cecelia-neltner|Cecelia Neltner]]
+**Client:** [[cases/cecelia-neltner/contacts/cecelia-neltner|Cecelia Neltner]]
+
 712 Lyndon Lane ● Louisville, KY 40222 ● Phone: [PHONE-1] ● Fax: [PHONE-2] 
 November 25, 2024 
 Sent via email to: [EMAIL-3]

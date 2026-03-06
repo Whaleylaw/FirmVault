@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:378963b483441cbeadace90b4c89d2e5b94f6ed657b964d34bd043da79361956
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 10/2/2020 Gmail - Receipt from CIDC dba The Corbin Center
 https://mail.google.com/mail/u/0?ik=64eb400e15&view=pt&search=all&permthid=thread-f%3A1679441670947677893&simpl=msg-f%3A16794416709… 1/2
 Sherry Bradford <[EMAIL-1]>

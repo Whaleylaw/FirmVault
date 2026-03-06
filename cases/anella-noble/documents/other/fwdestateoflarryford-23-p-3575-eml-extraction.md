@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:4ee36762fe98b8e6bcdd9cc9baee8f9d19ed9b898a4912132be4d78444591cd2
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 category: Litigation
 confidence: medium
 description: Case-Correspondence

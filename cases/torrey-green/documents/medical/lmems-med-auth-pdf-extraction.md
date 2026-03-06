@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:296a95cf8055df2a7c7dbff3032a2bc5a9850a0df00ca42764f5d686f98cc476
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 extracted_data.category: medical
 extracted_data.date: 1998-11-05
 extracted_data.description: HIPAA compliant medical authorization form authorizing Louisville Metro EMS to release all medical records to The Whaley Law Firm. The form was signed on 11/5/1998 (likely a template date error) and authorizes release of comprehensive medical information related to injury from third party negligence.

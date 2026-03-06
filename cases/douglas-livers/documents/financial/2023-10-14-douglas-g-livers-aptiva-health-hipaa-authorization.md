@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:58fc68d9af9f1c49ef93c03547460e4fd79d7d4233a3371f8ccd475122efe307
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 —PSPAPTIVA HEALTH
 1, , do hereby authorize Aptiva Health, LLC (hereinafter
 “Aptiva), to fumish my legal representative, with afull report of my examination, diagnosis, treatment,

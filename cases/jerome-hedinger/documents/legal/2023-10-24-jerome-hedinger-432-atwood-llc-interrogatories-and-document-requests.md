@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:aaff33e3a7472982d95202b574c1e9c6f85c39d0b4e559c3115b32aaf2a006d9
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 CASE NO. 24-CI-006943 JEFFERSON CIRCUIT COURT 
 DIVISION ONE (1) 
 HON. ERIC HANER 

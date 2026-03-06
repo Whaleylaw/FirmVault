@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Malcom
 source_hash: sha256:3f4ee81ac95c5fc72ad9b2c4b96ceb80c07407b1c0f1b73ab9189b89277ee5f5
 ---
 
+**Case:** [[cases/malcom-glass-jones/malcom-glass-jones|Malcom Glass Jones]]
+**Client:** [[cases/malcom-glass-jones/contacts/malcom-glass-jones|Malcom Glass Jones]]
+
 address: 1442 Altawood Dr, Clarksville, IN 47129
 date_of_birth: [DOB-1]
 imported_at: 2026-02-16T21:09:42.773Z

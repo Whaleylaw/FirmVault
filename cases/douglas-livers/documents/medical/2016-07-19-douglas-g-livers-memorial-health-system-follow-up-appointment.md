@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:00363e68d28e81402f2fae9681e37d62dbfc4e5a2e09e1c5eedcee3654f94d08
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 20-Nov-2823) (17:55 Dixie Injury & Rehab 15826907866 p.i
 
 FUSIONPBX Fax

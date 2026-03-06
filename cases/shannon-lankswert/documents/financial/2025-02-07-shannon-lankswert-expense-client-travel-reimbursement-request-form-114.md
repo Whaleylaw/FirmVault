@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:ea4f2e9d31f1272ef81f150b452ca2acb66929e296d7cbaa6f38e3cb3a28e097
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 [DOB-1] 118 Cumberland Court, Bardstown, KY 40004
 [DOB-10] Travel Reinmbursement from Home to Flaget Memorial Hospital
 118 Cumberland Ct - 4305 New Shepherdsville Rd - 6.8 miles

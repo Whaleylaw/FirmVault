@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:1ca5d8ac5b27b569eb56d0be9aab0347d8a4fc8cc2564464fd21a91842410ef9
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 Subject: Re: Request 13380236 - Timothy Ruhl
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

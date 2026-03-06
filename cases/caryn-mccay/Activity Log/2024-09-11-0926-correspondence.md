@@ -1,0 +1,22 @@
+---
+schema_version: 2
+case_id: 9788bc1a-b760-4cf5-bf4f-8bc3e3c54698
+date: "2024-09-11"
+category: correspondence
+subcategory: outbound_call
+---
+
+# outbound call — 2024-09-11
+
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Category:** correspondence / outbound_call
+
+A call from aaron  whaley was logged at 2024-09-11 14:20:05.744000+00:00 . #outboundcall
+
+Caller Info: 6158746818 
+
+Caller ID: Main:615-874-6818 , Main:615-874-6818 
+
+Caller Name: Nick Burchette 
+
+Cal

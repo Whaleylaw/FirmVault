@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jasmin
 source_hash: sha256:2f4164cd737ff70a312c9d7e61db1aa0c44024b5fa72e93b9be8b4010a2637f2
 ---
 
+**Case:** [[cases/jasmine-wilson/jasmine-wilson|Jasmine Wilson]]
+**Client:** [[cases/jasmine-wilson/contacts/jasmine-wilson|Jasmine Wilson]]
+
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 
 Louisville, KY 40222 

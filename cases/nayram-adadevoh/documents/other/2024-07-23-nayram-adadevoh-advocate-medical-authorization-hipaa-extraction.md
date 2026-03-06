@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:f4c8c2ab9622322908e9ee468ab78e268e10d1306661335166a2e86af90b78ce
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: medical_authorization
 date: 2024-07-23
 description: HIPAA medical authorization form for Advocate Medical dated July 23, 2024.

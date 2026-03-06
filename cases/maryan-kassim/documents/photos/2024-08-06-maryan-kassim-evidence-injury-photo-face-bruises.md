@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:90fb1c1ffa5cb2c94c3cf0415436c66f389e8a8d2494bf3c8598d03e0be35cc3
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan-Kassim-MVA-[DOB-1]/Evidence/2024-08-06-Maryan-Kassim-Evidence-Injury-Photo-Face-Bruises.jpg

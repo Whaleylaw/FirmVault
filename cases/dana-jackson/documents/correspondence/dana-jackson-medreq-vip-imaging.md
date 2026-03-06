@@ -1,8 +1,8 @@
 ---
 case_slug: dana-jackson
-created_at: 2026-02-16 22:39:24.808000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1971-06-20
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2024-01-24-MVA-002
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dana-Jackson-MVA-1-24-2024/Dana-Jackson-MedReq-VIP-Imaging.doc
 source_hash: sha256:dfeac21b7cf7fea7dbfb28ef26a24f86523fde7e8220e1bdd34cc291831c692f
+contact: "[[cases/2024-01-24-mva-002/contacts/vip-imaging]]"
 ---
+
+**Case:** [[cases/dana-jackson/dana-jackson|Dana Jackson]]
+**Client:** [[cases/dana-jackson/contacts/dana-jackson|Dana Jackson]]
+
 
 July 8, 2024
 

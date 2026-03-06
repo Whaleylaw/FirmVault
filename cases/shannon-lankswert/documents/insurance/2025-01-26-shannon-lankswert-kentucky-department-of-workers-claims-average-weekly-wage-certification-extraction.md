@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:5b0a6f78c73dd8f8a1a8f841de252db4ac1aa05f95d59d33afc6c5e112b8ce7c
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 extraction.classification.bucket: Client
 extraction.classification.confidence: high
 extraction.classification.document_type: workers_compensation_form

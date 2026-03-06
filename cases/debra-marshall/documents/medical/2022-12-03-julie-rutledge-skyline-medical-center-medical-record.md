@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2022-12-03-MVA-001
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-Marshall-MVA-12-3-2022/Medical-Records/2022-12-03-Julie-Rutledge-Skyline-Medical-Center-Medical-Record.pdf"
 source_hash: "sha256:7f8bad3f924617a99fe88117a71c6813d60fb75be86d456139779ae4dfe3087a"

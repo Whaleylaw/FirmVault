@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:a68abf1bcf90a2c895f82e09c40e65b903308f9e96cd717cf5211631f80820e6
 ---
 
+**Case:** [[cases/charles-godsey/charles-godsey|Charles Godsey]]
+**Client:** [[cases/charles-godsey/contacts/charles-godsey|Charles Godsey]]
+
 Justin Chumbley
 Aaron G. Whaley, Esq.
 THE 712 Lyndon Lane

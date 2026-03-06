@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:f84d85450349a2a4936f92b7a103fadb0ce27d249b8d0f6c41467acbb068c819
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: Lien
 date: 2025-03-31
 description: Subrogation claim letter from Whaley Law Firm. Dated March 31, 2025.

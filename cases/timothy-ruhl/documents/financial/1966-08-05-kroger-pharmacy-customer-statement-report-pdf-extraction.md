@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:9ff217c105cc8d8c4e08ff87db0f38c45a8311724a3a2c623fd81b2d7728079e
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 content_analysis.category: Medical Records
 content_analysis.description: Pharmacy statement report
 content_analysis.entities[0]: Timothy Ruhl

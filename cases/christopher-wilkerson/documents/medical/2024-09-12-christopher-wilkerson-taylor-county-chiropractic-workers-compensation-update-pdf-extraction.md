@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:4e9b21704e51b73bb3419404184c52f5e14f4687c9ea748bd7c3659c7fb5cbc7
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 category: Medical
 confidence: high
 description: Chiropractic treatment update for workers compensation case

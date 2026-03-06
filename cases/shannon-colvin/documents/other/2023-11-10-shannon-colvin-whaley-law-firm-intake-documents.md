@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:f080ef9430c7ee2bdb4048f002bdde7552c32bbc525e6286934610900f996e45
 ---
 
+**Case:** [[cases/shannon-colvin/shannon-colvin|Shannon Colvin]]
+**Client:** [[cases/shannon-colvin/contacts/shannon-colvin|Shannon Colvin]]
+
 Verification Complete
 The document has been officially verified.
 Recipient1

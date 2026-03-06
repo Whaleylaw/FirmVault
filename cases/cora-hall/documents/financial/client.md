@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:af8ce23f5962ad3bbb43546dd06b2c2d954cefc49b0ef295087faddbf2c35aa6
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 address: 322 S. 7th Street, Scottsville, KY 42164
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

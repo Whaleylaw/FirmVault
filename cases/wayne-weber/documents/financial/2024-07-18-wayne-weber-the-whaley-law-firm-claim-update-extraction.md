@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:97c5b5817189b6be863de28d1db4f7d88c091844cd1871efaaa88339a1fde24c
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: client_communication
 extraction.date: 2024-07-18
 extraction.description: The Whaley Law Firm claim update for Wayne Weber dated July 18, 2024.

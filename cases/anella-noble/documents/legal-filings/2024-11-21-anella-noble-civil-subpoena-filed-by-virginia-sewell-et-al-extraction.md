@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:dc56496126bb7f7626c44ac1c98da6940304dc917a014ee6ba024ebdd07bc429
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 category: Litigation
 description: CIVIL-SUBPOENA
 entities[0]: Anella Noble

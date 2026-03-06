@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee
 source_hash: sha256:d1e7f575bd86e3d3a81e651e69b2eae2131330d2f1c323c726da9cedc59d31e6
 ---
 
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 Health Lift Pharmacy Services
 PO Box 520190
 Salt Lake City, UT 84152

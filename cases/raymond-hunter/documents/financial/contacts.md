@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Raymon
 source_hash: sha256:5d9ceed533da2fcb42c45716dfdf4b0dda6c1beceb43b41d8419586430ec6354
 ---
 
+**Case:** [[cases/raymond-hunter/raymond-hunter|Raymond Hunter]]
+**Client:** [[cases/raymond-hunter/contacts/raymond-hunter|Raymond Hunter]]
+
 item_0.jsonb_agg[0].address: 1726 S 2nd St, Apt 14, Louisville, KY 40208
 item_0.jsonb_agg[0].full_name: Raymond Hunter
 item_0.jsonb_agg[0].phone: [PHONE-1]

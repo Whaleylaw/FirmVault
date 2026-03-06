@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:8f71784ef0cacc73413527cac9f2fc866d18a3a575bd6fae786bc1864c67d49d
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: legal_document
 date: 2025-03-24
 description: Notice of service to defendants dated March 24, 2025.

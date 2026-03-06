@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:220cf95810f99ab58d02ba0b3dd4a61b8c3bfb53d345a4658bd9a8daa6f45790
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 category: Medical Records
 confidence: high
 description: Blood-Culture-Report

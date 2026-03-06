@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2019-04-26-PrL-001
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-[DOB-97]/Medical/Baptist Health Orthopedic and Sport Medicine/Medical Records/2019-11-05-Amy-Mills-Medical-Baptist Health Orthopedic and Sport Medicine-Medical-Records-Baptist-Health-Medical-Group-Office-Visit-Left-Shoulder-Pain.pdf"
 source_hash: "sha256:91765895cf46d26b92848f998b8f32e6287bc04ec55bae8e7e[PHONE-96]d86f"

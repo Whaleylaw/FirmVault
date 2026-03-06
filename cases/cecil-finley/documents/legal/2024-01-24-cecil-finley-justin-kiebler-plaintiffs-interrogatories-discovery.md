@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:96f56f254850315aa3422d401b747cb892ed48ff2a5bdffd5148d47eb44ec028
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 CASE NO. ______________ JEFFERSON CIRCUIT COURT 
  DIVISION ______ (__) 
  JUDGE ___________________ 

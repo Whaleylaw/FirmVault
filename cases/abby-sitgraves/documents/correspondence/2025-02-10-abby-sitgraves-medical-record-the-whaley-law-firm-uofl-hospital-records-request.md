@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Abby-S
 source_hash: sha256:a66fb24ec180d23e5769c5d59b9499369d57dcd2cf343fd68c8f927f891da1ec
 ---
 
+**Case:** [[cases/abby-sitgraves/abby-sitgraves|Abby Sitgraves]]
+**Client:** [[cases/abby-sitgraves/contacts/abby-sitgraves|Abby Sitgraves]]
+
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 
 Louisville, KY 40222 

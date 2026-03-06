@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:4d6d586f741273e8c0693229748810fc31e394f78d70658af1f81c688178cbe6
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 Subject: Re: 108134 : [PHONE-30] : Cristobal, Alma v. Crete Carrier Corpora  : Alma Cristobal v Crete Carrier & Roy Hamilton - Deposition Scheduling
 From: sarena@whaleylawfirm.com
 To: [EMAIL-2]

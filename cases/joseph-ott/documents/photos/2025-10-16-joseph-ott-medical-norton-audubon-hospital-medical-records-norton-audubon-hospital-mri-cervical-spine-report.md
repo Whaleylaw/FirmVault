@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Joseph
 source_hash: sha256:90cef320e32cfad99f3cfa8c4a39b93f5380a748cfd7f8cf7a8167227238205f
 ---
 
+**Case:** [[cases/joseph-ott/joseph-ott|Joseph Ott]]
+**Client:** [[cases/joseph-ott/contacts/joseph-ott|Joseph Ott]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Joseph-Ott-MVA-8-06-2025/Medical/Norton Audubon Hospital/Medical Records/2025-10-16-Joseph-Ott-Medical-Norton Audubon Hospital-Medical-Records-Norton-Audubon-Hospital-MRI-Cervical-Spine-Report.jpg

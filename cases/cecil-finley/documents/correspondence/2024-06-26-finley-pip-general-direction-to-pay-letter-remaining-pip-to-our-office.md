@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:924977c4f4d64b44bad92535ae7f235b5ade6118a3ec2591c51df175134fc75a
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 *Aaron G. Whaley, Esq.*
 *712 Lyndon Lane*
 *Louisville, KY 40222*

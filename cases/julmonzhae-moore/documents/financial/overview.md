@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmon
 source_hash: sha256:c60424e92a55a2176968355a995dfb137f316b9e91c9fd078e1cbc5386837608
 ---
 
+**Case:** [[cases/julmonzhae-moore/julmonzhae-moore|Julmonzhae Moore]]
+**Client:** [[cases/julmonzhae-moore/contacts/julmonzhae-moore|Julmonzhae Moore]]
+
 item_0.jsonb_agg[0].accident_date: 2023-08-29
 item_0.jsonb_agg[0].case_create_date: 2025-12-26T19:49:38.501823
 item_0.jsonb_agg[0].case_type: MVA

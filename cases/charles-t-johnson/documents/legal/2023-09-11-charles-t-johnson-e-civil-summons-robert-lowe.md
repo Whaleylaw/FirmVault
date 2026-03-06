@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:bc7c3bb07390e618c864cdfad5122fd1a520de56b50ef4a80d2d46d2d8c7053f
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 Criminal Division
 Civil Process Unit
 We have updated our Civil Process software and as a result, we have had to create a

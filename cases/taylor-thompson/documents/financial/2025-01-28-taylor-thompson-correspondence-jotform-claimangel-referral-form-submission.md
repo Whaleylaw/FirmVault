@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor
 source_hash: sha256:1a9c6558279e5f4d70dacd383c8b59ae2be4ef8a9b703b40ff3eee53722bba11
 ---
 
+**Case:** [[cases/taylor-thompson/taylor-thompson|Taylor Thompson]]
+**Client:** [[cases/taylor-thompson/contacts/taylor-thompson|Taylor Thompson]]
+
 Subject: *EXT*ClaimAngel Referral Form Submission For Taylor Thompson
 From: [EMAIL-1]
 To: [EMAIL-2]

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie
 source_hash: sha256:6a39d537e8e2ec34ba6e4c8313a81ef35e7041c5be0259b589c5a3e542aeac79
 ---
 
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 extraction.classification.bucket: Medical Records
 extraction.classification.confidence: high
 extraction.classification.document_type: medical_records_request

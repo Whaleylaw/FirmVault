@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:6c0a08538565a2689e456c162401c67c0427d72183876c6926eb2815edadab89
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 content_analysis.category: Medical Records
 content_analysis.date: 2024-07-22
 content_analysis.description: HIPAA Authorization

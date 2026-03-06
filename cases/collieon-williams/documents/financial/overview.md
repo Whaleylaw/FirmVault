@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Collie
 source_hash: sha256:1113efcdd3bda88e3cee5927eccfb01d40c7ed065f2723e1f1dc0bf9c3a8b15d
 ---
 
+**Case:** [[cases/collieon-williams/collieon-williams|Collieon Williams]]
+**Client:** [[cases/collieon-williams/contacts/collieon-williams|Collieon Williams]]
+
 item_0.jsonb_agg[0].case_create_date: 1769716099586
 item_0.jsonb_agg[0].client_address: 607 Compton St, Lousville, KY 40208
 item_0.jsonb_agg[0].client_name: Collieon Williams

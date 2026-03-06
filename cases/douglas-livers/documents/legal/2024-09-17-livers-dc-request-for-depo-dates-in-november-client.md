@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:2b5de1f72f60fffb1a5c1fede6662dc621a11814a19000c504776111ce8695bc
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 Subject: Fwd: Livers v Allstate
 From: [EMAIL-1]
 To: [EMAIL-2], sarena@whaleylawfirm.com

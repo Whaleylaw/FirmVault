@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel
 source_hash: sha256:2dd278872afc6b6ee78843f89b83c44371d7210083fb1e17662bd66343bf83df
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 Itemization of Charges
 Aptiva Health
 For Posting Date January 10, 2022

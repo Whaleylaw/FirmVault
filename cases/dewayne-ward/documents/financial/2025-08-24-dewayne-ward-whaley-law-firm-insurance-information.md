@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dewayn
 source_hash: sha256:c9622f0f8be0a107dbdd22454b46e043e28ce12c7e3d5ade2c14397bfa57e243
 ---
 
+**Case:** [[cases/dewayne-ward/dewayne-ward|Dewayne Ward]]
+**Client:** [[cases/dewayne-ward/contacts/dewayne-ward|Dewayne Ward]]
+
 1G1ZD5STEN
 P28REJ
 Dewayne Ward Unit 1

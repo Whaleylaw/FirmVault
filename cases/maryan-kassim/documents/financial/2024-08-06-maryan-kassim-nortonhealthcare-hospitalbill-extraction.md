@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:e4e374181b9c9e1919e3c32379ee20a2aadf28a9250a3a5bec6614b1f3b17cc3
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 category: Medical
 description: Professional charges billing statement from Norton Healthcare for emergency department visit (CPT code 99285) on August 6, 2024, totaling $561.00 with auto insurance coverage.
 entities[0]: Maryan Kassim

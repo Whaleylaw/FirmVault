@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:4fccca6f14677e3db1501176b1a32ffc820b0922ef72102b46915c0a5cb32f98
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 extraction.category: Investigation
 extraction.confidence: high
 extraction.date: 2024-08-06

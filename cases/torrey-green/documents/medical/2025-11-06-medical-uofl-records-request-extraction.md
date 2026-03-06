@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:7a6f4f08dd0d0ea1f116bad4512cf318d6437eab1d4a8abd5c737a54a13832c2
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 category: medical
 date: 2025-11-06
 description: Organized copy of medical records request letter dated November 6, 2025 to UofL Hospital requesting complete emergency department records from 9/3/2025 visit.

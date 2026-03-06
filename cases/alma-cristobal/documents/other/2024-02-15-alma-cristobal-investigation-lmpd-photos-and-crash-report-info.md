@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:2f56454814e6296cd7290461c746bd00aa0a575f62ddd96de6060284d820ccef
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 LexisNexis” BuyCrash
 
 Obtaining a copy of your crash report is easier than ever. No need to wait in line or return to the county where the

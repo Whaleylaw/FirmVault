@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor
 source_hash: sha256:a35cce185c00bf2bb4cbd25e5a584cacd8312fbc73ec4b75746aedf2a2a384a6
 ---
 
+**Case:** [[cases/taylor-thompson/taylor-thompson|Taylor Thompson]]
+**Client:** [[cases/taylor-thompson/contacts/taylor-thompson|Taylor Thompson]]
+
 Subject: 16945402 - Thompson, Taylor v Rita Beechler 30 day call
 From: [EMAIL-1]
 To: [EMAIL-2]

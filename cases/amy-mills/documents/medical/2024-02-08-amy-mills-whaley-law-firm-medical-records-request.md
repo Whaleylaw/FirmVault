@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:c7338cd1b938bcecd11bf6da397ed06b2b168e453fef44ddb4e6e6f4acec3d53
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 To: [PHONE-1] Page: 01 of 18 2024-02-08 18:25:49 GMT [PHONE-2]
 MediCopy
 From: 16193427715

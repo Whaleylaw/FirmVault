@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:3c54aecaf9dedae295022e0b7fd711173ee08a411df5d5dda60d728a00d3c167
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 extraction.category: Medical
 extraction.date: 2025-02-20
 extraction.description: Medical record from ER visit dated [DOB-1]. Note: OCR extraction failed - poor scan quality, no text detected on 3 pages

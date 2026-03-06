@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:c9724705cd57f603d5a4672e7396da741b39c166b40c9e6e5657d759a13a1737
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 [DOB-9] MON16:19 FAX
 COGHLAN LAW LLC
 FARRARA I.COOHLAY ATTORNEYS AT LAW MayenJ. CochLat ieM.dane 875 NORTH MICHIGAN AVENUE -SUITE3707

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmon
 source_hash: sha256:4682817fd7f823137fb5d9196ebe19371db42488d759febd36e48e33d5e1ebb5
 ---
 
+**Case:** [[cases/julmonzhae-moore/julmonzhae-moore|Julmonzhae Moore]]
+**Client:** [[cases/julmonzhae-moore/contacts/julmonzhae-moore|Julmonzhae Moore]]
+
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 
 Louisville, KY 40222 

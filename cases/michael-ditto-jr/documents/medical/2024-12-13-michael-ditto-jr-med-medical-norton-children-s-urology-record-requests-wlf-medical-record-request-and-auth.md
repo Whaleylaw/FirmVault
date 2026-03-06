@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:7f1e2cacc582a1d7158ab79c5d1289d3d21fe1418bfd1cccdcb6c689839a5420
 ---
 
+**Case:** [[cases/michael-ditto-jr/michael-ditto-jr|Michael Ditto Jr]]
+**Client:** [[cases/michael-ditto-jr/contacts/michael-ditto-jr|Michael Ditto Jr]]
+
 INN NORTON
 Real people. Remarkable care.
 1/6/25

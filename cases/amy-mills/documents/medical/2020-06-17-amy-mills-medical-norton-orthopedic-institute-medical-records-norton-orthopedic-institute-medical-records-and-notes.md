@@ -2,7 +2,12 @@
 case_slug: amy-mills
 document_category: medical
 legacy_case_id: 2019-04-26-PrL-001
+contact: "[[cases/2019-04-26-prl-001/contacts/norton-orthopedic-institute]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-[DOB-211]/Medical/Norton Orthopedic Institute/Medical Records/2020-06-17-Amy-Mills-Medical-Norton Orthopedic Institute-Medical-Records-Norton-Orthopedic-Institute-Medical-Records-And-Notes.pdf"

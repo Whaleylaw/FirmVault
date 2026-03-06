@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2024-09-06-MVA-001
 ---
 
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Frances-Whitis-WC-MVA-9-6-2024/2025-02-27-Frances-Whitis-Frankfort-Regional-Hospital-Medical-Records-Request-2.pdf"
 source_hash: "sha256:3398066e2ef8e6df0d6fa5093fc31305707ab1ce0ff3ccb0d3d9e849ae90d77b"

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:c0d6098b5b7aac8505335bc0a029887f462af1c1ff4ae0db9be318d4e26c8d25
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Fax Confirmation
 To: [PHONE-1] From: [PHONE-11]
 Doc:

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:262ebc937514ffe9c73d7df83c934025a5d755db342d854e6782336dcea64eb4
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 Subject: Re: The Defense Counsel's Discovery Requests
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

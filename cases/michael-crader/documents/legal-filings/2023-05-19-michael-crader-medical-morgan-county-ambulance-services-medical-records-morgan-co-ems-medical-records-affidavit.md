@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:32c58a6f79240b1b88365a965f571533bd74b3d6ab7e4562f191f576a1e1ed5f
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 ?-Jun-2824 17:89 [PHONE-2] [PHONE-2] ur
 CERTIFICATION OF MEDICAL RECORDS AFFIDAVIT
 Foch bnvoms .being first duly sworn on his/her oath, says that:

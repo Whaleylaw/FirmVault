@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:aea186af49b4a[POLICY-1]c88460c8d3448fdb8f596db9b6a8080bc9c099df3cd
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 category: Insurance
 description: Blank Progressive Personal Injury Protection application form template for Kentucky No-Fault benefits.
 entities[0]: Progressive Insurance

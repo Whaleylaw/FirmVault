@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:e98fdc914b12277b8f5e781791f442f60a16306d16908ae8bec76c16906e6d58
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 NO. 23-CI-005662 JEFFERSON CIRCUIT COURT
 DIVISION SEVEN (7)
 HON. MELISSA LOGAN BELLOWS

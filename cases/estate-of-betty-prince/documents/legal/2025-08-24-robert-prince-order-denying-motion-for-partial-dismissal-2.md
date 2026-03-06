@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:50d92cd61aea329e61e664d39ca1b4a4652596d87731a79c5b2acefaedcbdae3
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 NO. 21-CI-003798 JEFFERSON CIRCUIT COURT
  DIVISION ONE (1) 
  JUDGE ERIC HANER 

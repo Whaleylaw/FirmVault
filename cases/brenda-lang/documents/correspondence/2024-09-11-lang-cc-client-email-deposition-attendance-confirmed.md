@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:36334f846a3c8a2fbd1769e95fbb722c71243cad05cab880a48453303c37810a
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 Subject: Re: Your Deposition has been Scheduled - Oct 25, 2024 9a
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

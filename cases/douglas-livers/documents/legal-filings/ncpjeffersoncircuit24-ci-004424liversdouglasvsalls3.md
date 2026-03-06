@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:ada56049e58bf5d32faeeb008a5059acf379b0e2f0d60e142599a724d115e2e7
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 Subject: NCP JEFFERSON Circuit 24-CI-004424, LIVERS, DOUGLAS VS. ALLSTATE PROPERTY AND CASUALTY INSURANCE Envelope # 8430715
 From: [EMAIL-5]
 To: [EMAIL-4], Sarena@WhaleyLawFirm.com, [EMAIL-3]

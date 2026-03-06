@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Elizab
 source_hash: sha256:4e4692cffd04a0d204a9e9dd83def3bcce7070e4ad29dd4e9a4ad0e1c47034e9
 ---
 
+**Case:** [[cases/elizabeth-lindsey/elizabeth-lindsey|Elizabeth Lindsey]]
+**Client:** [[cases/elizabeth-lindsey/contacts/elizabeth-lindsey|Elizabeth Lindsey]]
+
 +18339448 728
 They. Rawlings Companyic
 Subrogation Dirvbas

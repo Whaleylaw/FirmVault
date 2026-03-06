@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jacob-
 source_hash: sha256:0d53461796de16a6fab27207d5c30eea60d99929545687de13e95b549d542330
 ---
 
+**Case:** [[cases/jacob-herrle/jacob-herrle|Jacob Herrle]]
+**Client:** [[cases/jacob-herrle/contacts/jacob-herrle|Jacob Herrle]]
+
 *Aaron G. Whaley, Esq.*
 *712 Lyndon Lane*
 *Louisville, KY 40222*

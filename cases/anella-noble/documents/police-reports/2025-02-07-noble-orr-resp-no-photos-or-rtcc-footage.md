@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:92b8c25730672a16d49c4071ab5f460e7b2037a67a8e0b9f8729bfdbd2cc9fa2
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: RE: Anella Noble v Virginia Sewell & Estate of Deshawn Ford - 21-CI-004985
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com, [EMAIL-2], [EMAIL-3]

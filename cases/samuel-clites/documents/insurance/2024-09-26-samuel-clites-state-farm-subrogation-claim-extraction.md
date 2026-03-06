@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Samuel
 source_hash: sha256:71efc4907efe87cadb7d2b9ee5e11af5f3096e7ad643d52e6b7aa1e207043cb9
 ---
 
+**Case:** [[cases/samuel-clites/samuel-clites|Samuel Clites]]
+**Client:** [[cases/samuel-clites/contacts/samuel-clites|Samuel Clites]]
+
 extraction.classification.bucket: Lien
 extraction.classification.confidence: high
 extraction.classification.document_type: subrogation_notice

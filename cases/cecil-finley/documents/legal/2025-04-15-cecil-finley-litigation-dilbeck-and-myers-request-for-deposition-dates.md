@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:c87cac790902f3417d860fc2a6774f240d65591e28e675dc2936b1ad6a87ae24
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 Subject: RE: Finley & Jackson v. Justin Kiebler (Jefferson 24-CI-005774)
 From: [EMAIL-11]
 To: [EMAIL-10], [EMAIL-3]

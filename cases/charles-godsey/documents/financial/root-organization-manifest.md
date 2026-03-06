@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:3ed5a9cf18e8c7e32003dba042188fd09d23e10d3b6620b4185f975d6a924dc1
 ---
 
+**Case:** [[cases/charles-godsey/charles-godsey|Charles Godsey]]
+**Client:** [[cases/charles-godsey/contacts/charles-godsey|Charles Godsey]]
+
 accident_date: 2025-06-30
 case_type: MVA
 client_name: Charles-Godsey

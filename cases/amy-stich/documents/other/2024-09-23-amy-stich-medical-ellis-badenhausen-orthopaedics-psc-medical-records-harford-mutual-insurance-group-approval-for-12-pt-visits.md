@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:d74b4adf2a6108b9b3e41830ee90cb69df57aaf9ccdc8deec1a531cd09c5b267
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 secure Email - Approval for 12 PT visits on Amy Stich
 To sarena@whaleylawfirm.com
 CC

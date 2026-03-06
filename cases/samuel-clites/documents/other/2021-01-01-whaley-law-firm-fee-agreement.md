@@ -12,4 +12,7 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Samuel
 source_hash: sha256:c6b9a2e864f84998c700fea4854a0a37ccfd8c690d559ae8bdef108e6d382a05
 ---
 
+**Case:** [[cases/samuel-clites/samuel-clites|Samuel Clites]]
+**Client:** [[cases/samuel-clites/contacts/samuel-clites|Samuel Clites]]
+
 Error: Parsing error: Invalid PDF: PdfiumLibraryInternalError: FormatError

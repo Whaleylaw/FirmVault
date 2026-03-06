@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2023-01-16-MVA-001
 ---
 
+**Case:** [[cases/hope-renee-padgett/hope-renee-padgett|Hope Renee Padgett]]
+**Client:** [[cases/hope-renee-padgett/contacts/hope-renee-padgett|Hope Renee Padgett]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Hope-Renee-Padgett-MVA-1-16-2023/Medical/2023-01-17-Hope-Renee-Padgett-CLARK-REGIONAL-MEDICAL-CTR-head-pain-injury.pdf"
 source_hash: "sha256:2c3357878854219dad12900514b5cf9338b6afaaa3fbe8ea1f085a044a4ea6e8"

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:5595ff66e7115f0487fe29ce05af7887949a1e64bd2332a4036aeb5e6525979c
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 content_analysis.category: Medical Records
 content_analysis.date: 2025-01-30
 content_analysis.description: Pharmacy receipt photo

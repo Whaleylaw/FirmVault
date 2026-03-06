@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:802889a20b8bdaed6136df33e92f683b48cd641c0e8556e2ceff620dad42f011
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 Subject: Re: Estate of Betty Prince v. Norton Hospitals (21-CI-003798)
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

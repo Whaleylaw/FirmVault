@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:3dc79bbfea83956ca56a68621068d6926e58a72e7287109d2960897471306a75
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 TE THIS SECTION
 ete items.1, 2, and 3.
 our name and address on the reverse

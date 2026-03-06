@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:f6bd30b59513bb4a8f7394967240ad0c801e9a1d2afeb7655ffbc00108bf2361
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 Certificate Of Completion
 Envelope Id: B90981C4DAB04DF08100C21BED7C4B38 Status: Delivered
 Subject: Thank you for Choosing The Whaley Law Firm

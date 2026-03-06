@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:9487de67a92542cf1befab56ca1c8f3cd07194867f82cffa34907c8f345a8b1c
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-Marshall-MVA-12-3-2022/Investigation/2023-04-25-Debra-Marshall-Investigation-Client-Photo-of-Right-Shoulder-Bruising.jpg

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:e58fb2a8d017952060bbe3dd3262de95ca57b6859ae1218ba08b539435d3891f
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 CASE NO. 24-CI-005774 JEFFERSON CIRCUIT COURT 
 DIVISION EIGHT (8) 
 JUDGE JENNIFER BRYANT WILCOX 

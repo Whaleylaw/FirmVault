@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:6a151bfdf51eaf9bf8b1f7e644c5663d6af83c5781a207b9fb80de0ff9e1b2ac
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 NO. 21-CI-004985 JEFFERSON COUNTY CIRCUIT COURT 
 DIVISION FIVE (5) 
 JUDGE MARY SHAW 

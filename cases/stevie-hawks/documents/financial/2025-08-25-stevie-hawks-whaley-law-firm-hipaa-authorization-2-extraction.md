@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie
 source_hash: sha256:59f751109fc3c117577a354ae0b45fef125c1274d2657e222242b4b01daf04ad
 ---
 
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 extraction.classification.bucket: Client
 extraction.classification.confidence: high
 extraction.classification.document_type: hipaa_authorization

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Samuel
 source_hash: sha256:2b77ab0595bdffe90df0f6cfc3d48beaa74e382d46433b4c2d6bad33b52fac75
 ---
 
+**Case:** [[cases/samuel-clites/samuel-clites|Samuel Clites]]
+**Client:** [[cases/samuel-clites/contacts/samuel-clites|Samuel Clites]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Samuel-Clites-MVA-4-23-2024/Accident_Scene/2024-04-23_Accident-Scene_Debris-on-Roadway.jpg

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:dd4f95aad06221b6c6bb0be4b5d696da8321a1d5d4cdec9a99b768ba6e72e071
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 CLAIM NUMBER 04943051
 
 POLICY NUMBER [PHONE-1]

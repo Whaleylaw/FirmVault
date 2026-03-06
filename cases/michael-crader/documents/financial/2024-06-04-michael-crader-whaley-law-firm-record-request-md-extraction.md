@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:2bb6c7de2082b53c4c9ce3069032f778f243b1fef85b52759e341918d85e1409
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 extraction.classification.bucket: Medical Records
 extraction.classification.confidence: high
 extraction.classification.document_type: medical_records_request

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Hope-R
 source_hash: sha256:a8d82746395ff237200ff114d91f1cfd19a10345277720932869117f571ca6ad
 ---
 
+**Case:** [[cases/hope-renee-padgett/hope-renee-padgett|Hope Renee Padgett]]
+**Client:** [[cases/hope-renee-padgett/contacts/hope-renee-padgett|Hope Renee Padgett]]
+
 FAX
 
 To: W. BRYCE KOON Company: WHALEY LAW FIRM PSC Fax: [PHONE-1]

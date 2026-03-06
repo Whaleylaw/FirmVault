@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-N
 source_hash: sha256:39e4bdff5848c2321d341fbee3c801484698ed3b01d4024ad63cff24e25fcf71
 ---
 
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 Subject: Verification Page for Execution
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

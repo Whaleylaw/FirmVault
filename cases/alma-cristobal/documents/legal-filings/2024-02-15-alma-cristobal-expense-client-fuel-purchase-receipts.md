@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:ef8e0fbefdaba5b31957a0ccc60dd990a793bac378a7306ec6d4b9df6a3a3419
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 of America we
 TA Jeffersonville #0139
 12403 USRt 35 NU

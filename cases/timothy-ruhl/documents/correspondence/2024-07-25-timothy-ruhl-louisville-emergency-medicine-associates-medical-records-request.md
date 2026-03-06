@@ -4,6 +4,9 @@ document_category: correspondence
 legacy_case_id: 2023-09-14-PrL-001
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timothy-Ruhl-Premise-[DOB-1]/Medical-Records/2024-07-25-Timothy-Ruhl-Louisville-Emergency-Medicine-Associates-Medical-Records-Request.pdf"
 source_hash: "sha256:196fc3a674bbf0cafd939593c110799ae66b0a095c9cf5888fd4373bb5836119"

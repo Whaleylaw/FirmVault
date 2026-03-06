@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:5568ae8e00e15d020ce5c2c3ed3b1091e93ce97416a69db2b524121d1e02190e
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 item_0.jsonb_agg[0].full_name: Muhammad Alif
 item_0.jsonb_agg[0].project_name: Muhammad-Alif-MVA-[DOB-34]
 item_0.jsonb_agg[0].roles[0]: client

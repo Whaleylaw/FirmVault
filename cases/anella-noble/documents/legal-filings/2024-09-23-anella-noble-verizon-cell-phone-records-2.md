@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:cd9b39334066ae6f7cffc618e910e2f8d45eb1a9bcf7366439fc995ded7cc7b1
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Fax Confirmation
 To: [PHONE-12] From: [PHONE-2]
 Doc:

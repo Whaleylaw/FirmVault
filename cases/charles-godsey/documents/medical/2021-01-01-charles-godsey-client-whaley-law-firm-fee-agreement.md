@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:fc5d24040963e331f5fd2794765bb0a439c7929c0d7ed0d4a601966c985b7505
 ---
 
+**Case:** [[cases/charles-godsey/charles-godsey|Charles Godsey]]
+**Client:** [[cases/charles-godsey/contacts/charles-godsey|Charles Godsey]]
+
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 
 Louisville, KY 40222 

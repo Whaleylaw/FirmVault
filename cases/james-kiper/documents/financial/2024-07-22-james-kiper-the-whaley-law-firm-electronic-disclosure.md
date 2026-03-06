@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:e5554f4279ca29f4ab28e8f6121e080716db01cfb43fa4f2b2e5342af4b34ef4
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 Certificate Of Completion
 Envelope Id: 80EC166760374C5E9FBBF107C9737DCB Status: Completed
 Subject: The Whaley Law Firm has requested your signature. Follow the prompts to execute the attached.

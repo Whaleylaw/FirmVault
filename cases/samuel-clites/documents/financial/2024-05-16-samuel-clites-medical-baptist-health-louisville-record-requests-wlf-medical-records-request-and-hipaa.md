@@ -4,6 +4,9 @@ document_category: financial
 legacy_case_id: 2024-04-23-MVA-001
 ---
 
+**Case:** [[cases/samuel-clites/samuel-clites|Samuel Clites]]
+**Client:** [[cases/samuel-clites/contacts/samuel-clites|Samuel Clites]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Samuel-Clites-MVA-4-23-2024/Medical/Baptist Health Louisville/Record Requests/2024-05-16-Samuel-Clites-Medical-Baptist Health Louisville-Record-Requests-WLF-Medical-Records-Request-And-HIPAA.pdf"
 source_hash: "sha256:72f89483d7e0ffc6dc30556417b2182cc6e3a222ff15961d343700ab70c53470"

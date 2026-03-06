@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:f728f60f0059cab5e1662cc30243e93e4f21c04c20742cf3778242fe896c9a53
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 Subject: Re: EBEPSC Stich, Amy
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

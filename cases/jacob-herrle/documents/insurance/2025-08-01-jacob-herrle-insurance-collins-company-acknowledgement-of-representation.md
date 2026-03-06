@@ -1,8 +1,8 @@
 ---
 case_slug: jacob-herrle
-created_at: 2026-02-16 23:49:04.680000+00:00
+created_at: {}
 document_category: insurance
-document_date: 2009-01-01
+document_date: {}
 document_type: insurance
 extraction_method: native_text
 legacy_case_id: 2025-06-17-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jacob-Herrle-MVA-6-17-2025/Insurance/2025-08-01-Jacob-Herrle-Insurance-Collins--Company-Acknowledgement-of-Representation.pdf
 source_hash: sha256:9a1e753586eac0d677d740dbd87e24ea73a0e43d64c078a24eff8ba7b1ed631a
+contact: "[[cases/2025-06-17-mva-001/contacts/collins-company]]"
 ---
+
+**Case:** [[cases/jacob-herrle/jacob-herrle|Jacob Herrle]]
+**Client:** [[cases/jacob-herrle/contacts/jacob-herrle|Jacob Herrle]]
+
 
 August 01, 2025
 Mr. Justin Chumbley

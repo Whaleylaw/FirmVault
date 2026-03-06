@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:00ed54f21bcb5881fa1dd3ee4d38cf964d189ff89bd5deef437cb55ef7b8836c
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: client
 extraction.date: 2024-07-18
 extraction.description: Claim status update from The Whaley Law Firm to Wayne Weber regarding case progress.

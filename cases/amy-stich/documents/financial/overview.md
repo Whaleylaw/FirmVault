@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:5a7aed5728920570d712b701d392bcb0ad81eeb1958632be98c4695de8d393e9
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 item_0.jsonb_agg[0].accident_date: 2024-01-17
 item_0.jsonb_agg[0].case_create_date: 2025-12-26T19:49:38.501823
 item_0.jsonb_agg[0].case_type: MVA

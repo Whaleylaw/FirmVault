@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2023-04-07-MVA-001
 ---
 
+**Case:** [[cases/james-sadler/james-sadler|James Sadler]]
+**Client:** [[cases/james-sadler/contacts/james-sadler|James Sadler]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Sadler-MVA-4-07-2023/Settlement-Negotiations/2024-09-17-James-Sadler-State-Farm-Insurance-Company-Settlement-demand-for-injuries.pdf"
 source_hash: "sha256:356a37c58ebbb344f82cf3a8b99c2599b8180ff004f3072aad9672520f1c8d00"

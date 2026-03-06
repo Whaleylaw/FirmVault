@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Connie
 source_hash: sha256:98063f6b6b10f5320fe844d13dc511a0ad673c6ca60e34424efc7094e4cb005b
 ---
 
+**Case:** [[cases/connie-goree/connie-goree|Connie Goree]]
+**Client:** [[cases/connie-goree/contacts/connie-goree|Connie Goree]]
+
 INVESTIGATOR BEAT OR POST #
 TOTAL LANES
 NO

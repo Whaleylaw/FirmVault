@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:7559cf665af3a594b71a8bbc54a90640f985abfccac03586d0be33c0c2577893
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: legal
 date: 2025-01-06
 description: Acknowledgement of legal representation letter from Auto-Owners Insurance to Whaley Law Firm for claim [PHONE-1]-2024, accident date 12/1/2024

@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:b055aba00e2242be22ce5aedd56895e59da0168425e6c752aa40089d5ff3b26d
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 Injury/Private Account History
 Memphis CBO
 Data Current as of 7:12 PM [DOB-25]

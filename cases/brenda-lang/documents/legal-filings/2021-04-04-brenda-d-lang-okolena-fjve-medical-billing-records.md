@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:d8c7e387de9ccffe361e977ced7555d719c489afa0dc1d4b3c2f0df53c86c01b
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 11/4/2024 14:27:24 CST
 $-NOU- LUC
 REF

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:289be8c3033341e66c5fc9ed38a6a72ac843a7a7e3bd5c7080a994eed40200b3
 ---
 
+**Case:** [[cases/robin-wilder-hamilton/robin-wilder-hamilton|Robin Wilder Hamilton]]
+**Client:** [[cases/robin-wilder-hamilton/contacts/robin-wilder-hamilton|Robin Wilder Hamilton]]
+
 Client Information
 Client Name: Robin Wilder Hamilton
 Phone Number: [PHONE-1]

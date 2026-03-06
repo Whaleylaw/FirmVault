@@ -1,6 +1,6 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:48:53.660000+00:00
+created_at: {}
 document_category: other
 document_type: other
 extraction_method: native_text
@@ -8,11 +8,14 @@ legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 60
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Norton
-  Neuroscience Institute Brownsboro/Record Requests/2022-02-16-Amy-Mills-Medical-Norton
-  Neuroscience Institute Brownsboro-Record-Requests-WLF-Medical-Record-Request.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Norton Neuroscience Institute Brownsboro/Record Requests/2022-02-16-Amy-Mills-Medical-Norton Neuroscience Institute Brownsboro-Record-Requests-WLF-Medical-Record-Request.pdf
 source_hash: sha256:e14a93aa3739a6082e5b1e0b35c24fe47cf6b3dc0c850fd60ac3f4a0de857dce
+contact: "[[cases/2019-04-26-prl-001/contacts/norton-neuroscience-institute-brownsboro]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 	
  	

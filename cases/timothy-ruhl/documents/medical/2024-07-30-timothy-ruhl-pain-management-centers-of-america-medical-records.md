@@ -1,15 +1,10 @@
 ---
 case_slug: timothy-ruhl
-created_at: 2026-02-17 00:35:54.893000+00:00
+created_at: {}
 document_category: medical
-document_date: 1966-08-05
+document_date: {}
 document_type: medical
-entities:
-- Xiaoli Wang
-- Aetna
-- Blue Cross
-- Humana
-- Anthem
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-09-14-PrL-001
 mime_type: application/pdf
@@ -17,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timothy-Ruhl-Premise-09-14-2023/Medical-Records/2024-07-30-timothy-ruhl-Pain-Management-Centers-of-America-MEDICAL-RECORDS.pdf
 source_hash: sha256:99eb40b999e31e559d38a7a6fa6e8e7f83572ef5aa91c77d0adf6ef134a12717
+contact: "[[cases/2023-09-14-prl-001/contacts/pain-management-centers-of-america]]"
 ---
+
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 
 To: The Whaley Law Firm Page: 001 of 135 2024-07-30 02:16:32 PDT 18778209112 From: Pinisetty, Naganjali
 To: The Whaley Law Firm From: Pinisetty, Naganjali

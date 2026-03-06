@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Abby-S
 source_hash: sha256:8b1e3cdca967b78ea3e95472db0d554ff765dfab7bbc1790c38b8e9784b25cbf
 ---
 
+**Case:** [[cases/abby-sitgraves/abby-sitgraves|Abby Sitgraves]]
+**Client:** [[cases/abby-sitgraves/contacts/abby-sitgraves|Abby Sitgraves]]
+
 item_0.certificate_of_service: 2025-03-24
 item_0.filing_party_name: Samuel T. LEffert
 item_0.pleading_type: Response to Interrogatories

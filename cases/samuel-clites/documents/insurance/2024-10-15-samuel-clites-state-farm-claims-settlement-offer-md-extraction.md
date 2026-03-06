@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Samuel
 source_hash: sha256:8b6c37a171cf54e3bdfe23a719c2929564cf38365c16c69d63ace06036b41e8c
 ---
 
+**Case:** [[cases/samuel-clites/samuel-clites|Samuel Clites]]
+**Client:** [[cases/samuel-clites/contacts/samuel-clites|Samuel Clites]]
+
 extraction.classification.bucket: Negotiation Settlement
 extraction.classification.confidence: high
 extraction.classification.document_type: settlement_offer

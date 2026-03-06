@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:3392662e9892b5b8a707a09bf7e5bc3d2f72000fa742d1d525b454c99c4a5e3c
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy-Lindsey-MVA-[DOB-1]/Investigation/2024-12-01-Jeremy-Lindsey-Investigation-Client-Photo-of-leg-injury.jpg

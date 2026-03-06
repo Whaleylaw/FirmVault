@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2022-08-19-DB-001
 ---
 
+**Case:** [[cases/sariya-mason/sariya-mason|Sariya Mason]]
+**Client:** [[cases/sariya-mason/contacts/sariya-mason|Sariya Mason]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya-Mason-DB-[DOB-1]/Medical/2023-03-01-Schrice-Thomas-Medical-Record-Orthopedics-Consult.pdf"
 source_hash: "sha256:fae37c8d099e7b014f8aca0ff7fc21163a74a6f3b4188b0c91e43b4a5a4a28e5"

@@ -1,10 +1,9 @@
 ---
 case_slug: shannon-colvin
-created_at: 2026-02-17 00:21:22.208000+00:00
+created_at: {}
 document_category: medical
 document_type: medical
-entities:
-- Baptist Health
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-10-01-MVA-002
 mime_type: application/pdf
@@ -12,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shannon-Colvin-MVA-10-1-2023/Medical/1994-05-17-Shannon-Colvin-Radiology-Associates-Inc-HIPAA-Authorization.pdf
 source_hash: sha256:415e04293e931d197905172bbd74dd6ef1c65db34b15c9d9d220a51f011815d3
+contact: "[[cases/2023-10-01-mva-002/contacts/radiology-associates-inc]]"
 ---
+
+**Case:** [[cases/shannon-colvin/shannon-colvin|Shannon Colvin]]
+**Client:** [[cases/shannon-colvin/contacts/shannon-colvin|Shannon Colvin]]
+
 
 Radiology Associates Inc. (AVRAI)
 Attention: Baptist Health Hardin

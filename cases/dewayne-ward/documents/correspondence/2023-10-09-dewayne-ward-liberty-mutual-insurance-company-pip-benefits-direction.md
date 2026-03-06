@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dewayn
 source_hash: sha256:69248c0455d8d6f452987023eb09e467ab7649b168fc8011c2fc790b583673a8
 ---
 
+**Case:** [[cases/dewayne-ward/dewayne-ward|Dewayne Ward]]
+**Client:** [[cases/dewayne-ward/contacts/dewayne-ward|Dewayne Ward]]
+
 Aaron G. Whaley, Esq.
 712 Lyndon Lane
 Louisville, KY 40222

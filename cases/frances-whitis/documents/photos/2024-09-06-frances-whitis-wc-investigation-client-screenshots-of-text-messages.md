@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/France
 source_hash: sha256:e1b46381921bc54ea2d62d86d2453b877a0db7a237b7be533cf5e3158cc98580
 ---
 
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Frances-Whitis-WC-MVA-9-6-2024/Investigation/2024-09-06-Frances-Whitis-WC-Investigation-Client-Screenshots-of-Text-Messages.jpg

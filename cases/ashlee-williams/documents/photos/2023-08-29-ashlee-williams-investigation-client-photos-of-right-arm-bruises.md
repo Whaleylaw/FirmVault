@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee
 source_hash: sha256:6ca337672f637a946afb91746cf2ec334d04b7738e6c4778d4851e37ffb8d233
 ---
 
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee-Williams-MVA-[DOB-1]/Investigation/2023-08-29-Ashlee-Williams-Investigation-Client-Photos-of-right-arm-bruises.jpg

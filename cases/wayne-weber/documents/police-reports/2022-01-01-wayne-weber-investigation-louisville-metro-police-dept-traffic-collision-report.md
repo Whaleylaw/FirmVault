@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:dafc3fa7bacadc788147e5cb1e2698236d8d2af20867172227bd6a756e418234
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 INVESTIGATOR BEAT OR POST #
 TOTAL LANES
 NO

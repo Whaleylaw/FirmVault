@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:2e3884ecdb11319e563f28c964c64012ac93fe829f77d37423949104fec25173
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 category: Medical
 description: Medical records request letter from Whaley Law Firm to ULP Radiological Associates requesting itemized billing and medical records for Maryan Kassim from August 6, 2024 to present.
 entities[0]: ULP Radiological Associates

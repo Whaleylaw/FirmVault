@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:d69ad636bb6f14564a99389dd8c93ac3b4b409165872e0a87ca70c9acfdc4bbc
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 Kentucky.gov
 Kentucky Secretary of State
 Michael G. Adams

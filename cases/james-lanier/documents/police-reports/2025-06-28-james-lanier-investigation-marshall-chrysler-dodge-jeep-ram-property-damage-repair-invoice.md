@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:d80a0f5de93c5ce4f3095009fdd4131084abc7bc131723d163e6d2a32abb7a62
 ---
 
+**Case:** [[cases/james-lanier/james-lanier|James Lanier]]
+**Client:** [[cases/james-lanier/contacts/james-lanier|James Lanier]]
+
 MARSHALL WWW.MARSHALLCDJR.COM
 CHRYSLER. DODGE-JEEP.RAM LAN
 VEHICLE ID MILES IN MILES OUT DATE/TIME IN DATE OUT INVOICE NO.

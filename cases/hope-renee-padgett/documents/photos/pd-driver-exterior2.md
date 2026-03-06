@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Hope-R
 source_hash: sha256:556bb08d5aa088acf1cfdb12a9d5d18b92dc353d061cbabbce4afb8b5f71f1ce
 ---
 
+**Case:** [[cases/hope-renee-padgett/hope-renee-padgett|Hope Renee Padgett]]
+**Client:** [[cases/hope-renee-padgett/contacts/hope-renee-padgett|Hope Renee Padgett]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Hope-Renee-Padgett-MVA-1-16-2023/Investigation/Photos/PD-driver-exterior2.jpg

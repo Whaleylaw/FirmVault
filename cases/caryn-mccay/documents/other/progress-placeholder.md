@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-
 source_hash: sha256:13f984a4ae04a1632a2560369a6ba2c93d64b497d2af58013aec28b389b5ad3d
 ---
 
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 case_folder: Caryn-McCay-MVA-7-30-2023
 job_id: placeholder
 phases.execution.completed_at: 2026-02-01T20:37:35.247379

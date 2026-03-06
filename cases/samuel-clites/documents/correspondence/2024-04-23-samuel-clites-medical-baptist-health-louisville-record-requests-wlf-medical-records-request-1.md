@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Samuel
 source_hash: sha256:982960dfd2fe3298f4c3c426019cd24a90f3e0fb688f1067f7b845b5a4876d1f
 ---
 
+**Case:** [[cases/samuel-clites/samuel-clites|Samuel Clites]]
+**Client:** [[cases/samuel-clites/contacts/samuel-clites|Samuel Clites]]
+
 Aaron G. Whaley, Esq.
 712 Lyndon Lane
 Louisville, KY 40222

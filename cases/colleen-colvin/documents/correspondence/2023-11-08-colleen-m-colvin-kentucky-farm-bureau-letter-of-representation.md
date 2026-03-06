@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Collee
 source_hash: sha256:7a9caf37d9444b8b552af29327087ce534d2926c44e5ecba14b3307d73b9e4a1
 ---
 
+**Case:** [[cases/colleen-colvin/colleen-colvin|Colleen Colvin]]
+**Client:** [[cases/colleen-colvin/contacts/colleen-colvin|Colleen Colvin]]
+
 Aaron G. Whaley, Esq.
 712 Lyndon Lane
 Louisville, KY 40222

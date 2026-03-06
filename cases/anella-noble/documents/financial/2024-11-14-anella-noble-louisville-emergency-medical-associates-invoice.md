@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:949de71ced332fe6084bf8fd1bbcc5dac393a6d26aa7a6a8a8ec61856d6d023b
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Louisville Emergency Medical Associates
 PSC
 Make check payable to:

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:ca4024170e48a1e34603f25f90b5eb1a2b016b982b27c095ba3f3f5f34038fd7
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 case_folder: Michael-Crader-MVA-5-19-2023
 job_id: file-org-81d55c4b
 phases.extraction.notes: Agent 1 complete: Extracted 41 files (indices 0-40). Saved 41 extraction JSONs.

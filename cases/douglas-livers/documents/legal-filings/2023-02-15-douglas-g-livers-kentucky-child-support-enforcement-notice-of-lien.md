@@ -1,11 +1,10 @@
 ---
 case_slug: douglas-livers
-created_at: 2026-02-16 23:29:38.600000+00:00
+created_at: {}
 document_category: court-filings
-document_date: 2015-12-07
+document_date: {}
 document_type: court_filing
-entities:
-- Allstate
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-01-19-MVA-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Douglas-Livers-MVA-1-19-2023/Liens/2023-02-15-Douglas-G-Livers-Kentucky-Child-Support-Enforcement-Notice-of-Lien.pdf
 source_hash: sha256:013aa80cf6f2a7339aead22b60a6c4dc324f6d0f8e8c87d2ccc6c7899903d32c
+contact: "[[cases/2023-01-19-mva-001/contacts/kentucky-child-support-enforcement]]"
 ---
+
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 
 Document Class
 Document Type

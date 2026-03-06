@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee
 source_hash: sha256:95c62b854469850126943e9a40302db1cf9886d7a597836e9b92d57811ee7484
 ---
 
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 accident_date: 2023-08-29
 case_type: MVA
 client_name: Ashlee-Williams

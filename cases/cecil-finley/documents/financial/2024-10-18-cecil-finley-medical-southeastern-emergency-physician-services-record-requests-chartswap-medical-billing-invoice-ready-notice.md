@@ -1,19 +1,22 @@
 ---
 case_slug: cecil-finley
-created_at: 2026-02-16 22:20:39.044000+00:00
+created_at: {}
 document_category: financial
-document_date: 2025-03-01
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2024-01-24-MVA-001
 mime_type: message/rfc822
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-Finley-MVA-1-24-2024/Medical/Southeastern
-  Emergency Physician Services/Record Requests/2024-10-18-Cecil-Finley-Medical-Southeastern
-  Emergency Physician Services-Record-Requests-ChartSwap-Medical-Billing-Invoice-Ready-Notice.eml
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-Finley-MVA-1-24-2024/Medical/Southeastern Emergency Physician Services/Record Requests/2024-10-18-Cecil-Finley-Medical-Southeastern Emergency Physician Services-Record-Requests-ChartSwap-Medical-Billing-Invoice-Ready-Notice.eml
 source_hash: sha256:8a50bfa059122c0bb77456ff9ff52a27f5dff80be2abc39082886afd2f686f0a
+contact: "[[cases/2024-01-24-mva-001/contacts/southeastern-emergency-physician-services]]"
 ---
+
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 
 Subject: Requests have been updated by Providers
 From: [EMAIL-1]

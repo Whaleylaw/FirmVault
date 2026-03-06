@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:10d149fc8c5fc75799886cbe6e345c64fda225285e7e340a7c9c5752f1dd11fb
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 To: [PHONE-2] Page: 05 of 23 2024-03-22 22:22:46 GMT [PHONE-2] From: 16193427715
 CERTIFICATION OF MEDICAL RECORDS AFFIDAVIT
 KATIE DOUET being first duly sworn on his/her oath, says that:

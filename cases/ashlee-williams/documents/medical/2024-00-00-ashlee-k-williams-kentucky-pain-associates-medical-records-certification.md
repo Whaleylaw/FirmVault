@@ -1,6 +1,6 @@
 ---
 case_slug: ashlee-williams
-created_at: 2026-02-16 22:08:17.303000+00:00
+created_at: {}
 document_category: medical
 document_type: medical
 extraction_method: native_text
@@ -10,7 +10,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee-Williams-MVA-08-29-2023/Medical-Records/2024-00-00-Ashlee-K-Williams-Kentucky-Pain-Associates-Medical-Records-Certification.pdf
 source_hash: sha256:9c0f1d3f13c02932b12e3208d68e9dfc4302245381c53d01caf4632412156e9d
+contact: "[[cases/2023-08-29-mva-001/contacts/kentucky-pain-associates]]"
 ---
+
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 
 OBJECTIVETESTING &TREATMENT
 + 38ORTHOPEDIC SURGERY

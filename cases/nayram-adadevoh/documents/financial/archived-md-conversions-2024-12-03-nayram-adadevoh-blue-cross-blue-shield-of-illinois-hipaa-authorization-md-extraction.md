@@ -1,11 +1,10 @@
 ---
 case_slug: nayram-adadevoh
-created_at: 2026-02-17 00:12:31.937000+00:00
+created_at: {}
 document_category: financial
-document_date: 1973-05-22
+document_date: {}
 document_type: financial
-entities:
-- Blue Cross
+entities: null
 extraction_method: native_text
 legacy_case_id: 2024-07-13-MVA-002
 mime_type: application/json
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 90
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram-Adadevoh-MVA-7-13-2024/Reports/extractions/_archived_md_conversions_2024-12-03-Nayram-Adadevoh-Blue-Cross-Blue-Shield-of-Illinois-HIPAA-Authorization.md_extraction.json
 source_hash: sha256:ac950e2cffbe0f37159f036ec0a1234e342b0298fc87e4d32a3b70dd11acbe2b
+contact: "[[cases/2024-07-13-mva-002/contacts/blue-cross-blue-shield-of-illinois]]"
 ---
+
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 
 extraction.classification.bucket: Client
 extraction.classification.confidence: high

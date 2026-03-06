@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:552ca520093a346533b0f2cb2892c9eef3588a729160a152e06e19b6872d6fd8
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 extraction.classification.bucket: Client
 extraction.classification.confidence: high
 extraction.classification.document_type: client_intake

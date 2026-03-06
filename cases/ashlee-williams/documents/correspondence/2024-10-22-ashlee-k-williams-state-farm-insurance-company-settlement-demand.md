@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee
 source_hash: sha256:4eed9e3e7134a2fc1b7ac860da57a66297f4df7a75ebb992b6393c0d830bcc17
 ---
 
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 712 Lyndon Lane ● Louisville, KY 40222 ● Phone: [PHONE-1] ● Fax: [PHONE-2] 
 October 22, 2024 
 Sent via email to: [EMAIL-3]

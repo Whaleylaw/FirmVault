@@ -1,29 +1,23 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:48:14.357000+00:00
+created_at: {}
 document_category: medical
-document_date: 1983-12-28
+document_date: {}
 document_type: medical
-entities:
-- Dr. William Daniel
-- Dr. Harold Reedy
-- Travis Daniel
-- Krista Nicole
-- Melissa Marie
-- Harold Reedy
-- Deborah Lynn
-- Brittany Erin
-- Baptist Health
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Baptist
-  Health Corbin SOuth Imaging/Medical Records/2018-11-05-Amy-Mills-Medical-Baptist
-  Health Corbin SOuth Imaging-Medical-Records-Baptist-Health-Medical-History-and-MRI-Records.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Baptist Health Corbin SOuth Imaging/Medical Records/2018-11-05-Amy-Mills-Medical-Baptist Health Corbin SOuth Imaging-Medical-Records-Baptist-Health-Medical-History-and-MRI-Records.pdf
 source_hash: sha256:1be95eedaa9c15493589e7cd6d61d9d8928a7a1077fd8b8946c3f0c0ef5f1596
+contact: "[[cases/2019-04-26-prl-001/contacts/baptist-health-corbin]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 BH CORPORATE EASTERN
 TIME ZONE

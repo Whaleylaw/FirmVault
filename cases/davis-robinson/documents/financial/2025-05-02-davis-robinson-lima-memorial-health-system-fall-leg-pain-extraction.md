@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-
 source_hash: sha256:47098699295906f1c5c4bfb602554d944016ae7c4ae1a23f3ba8188073e981d1
 ---
 
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 extraction.classification.bucket: Medical Records
 extraction.classification.confidence: high
 extraction.classification.document_type: medical_records

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya
 source_hash: sha256:616f549611720aa82dbc370565019f29dd164bad5e28d0170e8b7fafbb899a3d
 ---
 
+**Case:** [[cases/sariya-mason/sariya-mason|Sariya Mason]]
+**Client:** [[cases/sariya-mason/contacts/sariya-mason|Sariya Mason]]
+
 Subject: RE: Shrice Thomas (Saryia Mason) v. Castillo (Jefferson Circuit 23-CI-006039)
 From: [EMAIL-1]
 To: [EMAIL-2]

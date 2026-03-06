@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:05c5ac45fc45978bb8eedadcbb8a5fcf40f8ef3a4ecd483c20a2642fa70fd80c
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 case_folder: Jeremy-Lindsey-MVA-[DOB-1]
 job_id: file-org-1e48e23e
 phases.extraction.notes: Starting Phase 2a: Extraction. 48 PDF/text files to process. Spawning 2 extraction agents in parallel (24 files each).

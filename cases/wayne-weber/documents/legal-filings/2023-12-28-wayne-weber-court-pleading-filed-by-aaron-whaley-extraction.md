@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:b6bc9282e112c3f829085c2ca4f50c2a2e03a073cdc8d898c7884a34d17e364c
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: litigation
 extraction.date: 2023-12-28
 extraction.description: Court pleading filed by Aaron Whaley for Wayne Weber case dated December 28, 2023.

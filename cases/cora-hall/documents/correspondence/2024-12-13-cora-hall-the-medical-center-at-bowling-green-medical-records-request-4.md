@@ -1,11 +1,10 @@
 ---
 case_slug: cora-hall
-created_at: 2026-02-16 22:37:41.894000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1989-09-22
+document_date: {}
 document_type: correspondence
-entities:
-- The Medical Center
+entities: null
 extraction_method: native_text
 legacy_case_id: 2022-12-05-OTH-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-Hall-WC-12-05-2022/Medical/2024-12-13-Cora-Hall-The-Medical-Center-at-Bowling-Green-Medical-Records-Request-4.pdf
 source_hash: sha256:348c1d4d901b7872291c0eaca05d001f5d6bba6f88aaf9be4b2cef1da152ea4e
+contact: "[[cases/2022-12-05-oth-001/contacts/the-medical-center-at-bowling-green]]"
 ---
+
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 
 Fax Confirmation
 To: [PHONE-13] From: [PHONE-12]

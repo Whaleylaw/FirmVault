@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya
 source_hash: sha256:9be4cafeeb383b0b3d97f03ae2290feaa53bf2ca1082a8210a57b2505b8e812c
 ---
 
+**Case:** [[cases/sariya-mason/sariya-mason|Sariya Mason]]
+**Client:** [[cases/sariya-mason/contacts/sariya-mason|Sariya Mason]]
+
 Kentucky Farm Bureau
 Mutual Insurance Company
 August 12, 2023

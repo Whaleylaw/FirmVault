@@ -1,19 +1,22 @@
 ---
 case_slug: deanna-jones
-created_at: 2026-02-16 22:56:29.101000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 2025-07-30
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2025-07-30-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Deanna-Jones-MVA-7-30-2025/Medical/Primary
-  Express Care + Wellness/Record Requests/2025-07-30-Deanna-Jones-Medical-Primary
-  Express Care + Wellness-Record-Requests-WLF-Medical-Billing-Records-Request.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Deanna-Jones-MVA-7-30-2025/Medical/Primary Express Care + Wellness/Record Requests/2025-07-30-Deanna-Jones-Medical-Primary Express Care + Wellness-Record-Requests-WLF-Medical-Billing-Records-Request.pdf
 source_hash: sha256:f75ae8d40a4b4a634b1a92a1570430aa18fb2a5866457c5d243acc54413f472c
+contact: "[[cases/2025-07-30-mva-001/contacts/primary-express-care-wellness]]"
 ---
+
+**Case:** [[cases/deanna-jones/deanna-jones|Deanna Jones]]
+**Client:** [[cases/deanna-jones/contacts/deanna-jones|Deanna Jones]]
+
 
 Aaron G. Whaley, Esq.
 712 Lyndon Lane

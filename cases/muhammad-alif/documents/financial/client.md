@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:27b15ea56c28eaf2548fab9cb1137903ad0ae57e823e9c756ddd2d3dcce7384f
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 address: 2139 Lexington Rd #116, Louisville, KY 40206
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

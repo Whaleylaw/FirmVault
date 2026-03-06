@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ceceli
 source_hash: sha256:a9d85e0fe1701dd49d6511023552380de0cf13a0b2bc84d0264306b4b367915f
 ---
 
+**Case:** [[cases/cecelia-neltner/cecelia-neltner|Cecelia Neltner]]
+**Client:** [[cases/cecelia-neltner/contacts/cecelia-neltner|Cecelia Neltner]]
+
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 
 Louisville, KY 40222 

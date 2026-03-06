@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:f8dc643b2a7965357c7434fcb035fa1683c9b70a40f023eadc63d9f629d9bab3
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: evidence
 date: 2024-12-01
 description: Additional photo of injuries sustained by Jeremy Lindsey in the collision.

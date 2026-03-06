@@ -1,18 +1,22 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:47:55.099000+00:00
+created_at: {}
 document_category: medical
-document_date: 2016-11-17
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/20:20
-  Eye Center/Medical Records/2016-11-17-Amy-Mills-Medical-20:20 Eye Center-Medical-Records-2020-Eyecare-of-London-Examination-Record-Eye-Health-Vision.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/20:20 Eye Center/Medical Records/2016-11-17-Amy-Mills-Medical-20:20 Eye Center-Medical-Records-2020-Eyecare-of-London-Examination-Record-Eye-Health-Vision.pdf
 source_hash: sha256:81297c4c959b2664076758b8bd276de52f419becfe4f6cd9e5ad36b702a47408
+contact: "[[cases/2019-04-26-prl-001/contacts/20-20-eye-center]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 EXAMINATIONRECORD
 20/20 Ryecara of London, LG.

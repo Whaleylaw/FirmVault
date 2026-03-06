@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:9e0c93bba7f7a2ae14c17cbd1fe933a4c86effd6eb1d1bdf4b43b01df4f79f99
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 ## Sheet1
 
 | Owen Lindsey |  |  |  |  |  |  |  |

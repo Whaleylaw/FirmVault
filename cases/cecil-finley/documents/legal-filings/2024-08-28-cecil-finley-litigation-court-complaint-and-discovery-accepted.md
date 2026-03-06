@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:f04bed56dbd6f583c9d3be6c569de2125e524531cd1fc6b3f82f035c41091dd7
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 Subject: NCP (for eFiler) JEFFERSON Circuit 24-CI-005774, FINLEY, CECIL VS. KIEBLER, JUSTIN                            Envelope # 8697233
 From: [EMAIL-4]
 To: [EMAIL-3], Sarena@WhaleyLawFirm.com, [EMAIL-3]

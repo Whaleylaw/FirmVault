@@ -19,6 +19,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:05a3b8f1fd615a7266398d497fa6e574c0df8c23f6a629a15b573ef9125b944e
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 item_0.author_name: Roscoe (AI Paralegal)
 item_0.episode_type: imported
 item_0.last_activity: 2025-11-30T00:00:00

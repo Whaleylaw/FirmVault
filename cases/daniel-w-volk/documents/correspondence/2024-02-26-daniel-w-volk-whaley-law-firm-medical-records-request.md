@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel
 source_hash: sha256:819eea38f74d086cc5bf91dfeadb9bf7fcc48608a6b14ecd7bf9db1f798cf049
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 - LAW FIRM Aaron G. Whaley, ésa. 712 Lyndon Lane Louisville, KY 40222 Ph: [PHONE-2] Fax: [PHONE-2]
 
 February 26, 2024

@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Elizab
 source_hash: sha256:1799d63a77e1096d663a3b177af703eef94c2df3282100fb80338c332aec5614
 ---
 
+**Case:** [[cases/elizabeth-lindsey/elizabeth-lindsey|Elizabeth Lindsey]]
+**Client:** [[cases/elizabeth-lindsey/contacts/elizabeth-lindsey|Elizabeth Lindsey]]
+
 item_0.author_name: Aaron
 item_0.episode_type: imported
 item_0.last_activity: 2025-08-27T00:00:00

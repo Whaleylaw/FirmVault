@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2020-07-14-PrL-001
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate-of-Betty-Prince-Premise-7-14-2020/Medical/2019-01-17-Robert-Prince-Norton-Hospital-Organization-Functions-Manual.pdf"
 source_hash: "sha256:068ca05b6d234f11c436e5c4a44ea4c6222b1c38dd53f6707a7328ca84152eaa"

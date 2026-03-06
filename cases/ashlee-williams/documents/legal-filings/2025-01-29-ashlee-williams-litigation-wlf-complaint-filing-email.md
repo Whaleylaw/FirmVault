@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee
 source_hash: sha256:d1d002aeba1f05b7545cadc27dc16c9c8556e6edb4e446924537f1312515d648
 ---
 
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 Subject: Ashlee Williams, Dewayne Ward, Julmonzhae Moore (1455R002D)
 From: [EMAIL-1]
 To: [EMAIL-2]

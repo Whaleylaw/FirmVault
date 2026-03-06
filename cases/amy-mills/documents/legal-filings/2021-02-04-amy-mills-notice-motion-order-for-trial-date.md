@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:ae37bb62c2aea16269abcfb6734ce2f186a7ed86a371eb0e0b3aacd468474400
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 NO. 20-CI-00112 KNOX CIRCUIT COURT
 DIVISION TWO (2)
 JUDGE MICHAEL CAPERTON

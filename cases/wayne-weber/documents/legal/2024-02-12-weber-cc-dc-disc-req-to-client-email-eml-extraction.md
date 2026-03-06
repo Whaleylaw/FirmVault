@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:7aa7c458fc56522379f618e8bef8922ec3aca40749103d76bf376dd6ddce976c
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: client_communication
 extraction.date: 2024-02-12
 extraction.description: Email from Sarena Tuttle to client Wayne Weber transmitting Defendant James Fenwick's discovery requests (interrogatories and requests for production). Email explains these are normal litigation documents and offers assistance completing them.

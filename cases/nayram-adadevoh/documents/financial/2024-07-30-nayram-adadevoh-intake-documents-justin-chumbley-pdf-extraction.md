@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:d912ec88b97d9a71361f8330202a4b4ea2b93a1e69427c626ed5e7ba1fc196f9
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: Client
 date: 2024-07-30
 description: Client intake documents prepared by Justin Chumbley at Whaley Law Firm. Dated July 30, 2024.

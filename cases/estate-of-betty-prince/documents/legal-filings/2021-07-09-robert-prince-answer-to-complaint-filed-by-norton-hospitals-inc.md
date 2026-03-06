@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:3f39d340b5df29efba80d40bfd62c85da01c13ad5d413eee35532f961811977d
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 NO. 21-CI-003798 JEFFERSON CIRCUIT COURT
 DIVISION ONE (1)
 JUDGE BARRY WILLETT

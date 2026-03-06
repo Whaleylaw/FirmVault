@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:1a60880041360fe836310dbbcc32225751ac48f045f60816b97ea5111a37fec0
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 IN NORTON’
 HEALTHCARE MEDICAL RECORDS CERTIFICATION RID #155026047
 Patient Name: Willis Beck, Robin

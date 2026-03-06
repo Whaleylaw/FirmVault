@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:d9b41da69f349219bdfbc77080b1315676d15a48c5049ab7f5e42fc9d6fe5881
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Stich-WC-[DOB-1]/Medical/Ellis & Badenhausen Orthopaedics, PSC/Medical Records/2024-09-30-Amy-Stich-Medical-Ellis & Badenhausen Orthopaedics, PSC-Medical-Records-Ellis--Badenhausen-Orthopaedics-Physical-Therapy-Order-Elbow-Rehab.jpg

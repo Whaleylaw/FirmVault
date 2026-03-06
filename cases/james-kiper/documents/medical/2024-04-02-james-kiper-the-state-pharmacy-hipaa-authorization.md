@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:9c00ac479efedc6e029f0fc536f96d4ab6847f224738292e6a5aa81b2465eb9f
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 The State Pharmacy
 P.O. Box 847
 Louisville, KY 40201

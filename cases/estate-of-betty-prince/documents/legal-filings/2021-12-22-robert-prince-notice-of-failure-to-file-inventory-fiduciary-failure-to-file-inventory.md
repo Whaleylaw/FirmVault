@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:5d070dd5d6c2d871b9caec3da1ba7023e741398613d7f0c0cc5917a31e8e4aa5
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 i, sid Generated: [DOB-1]
 CaseNumber 21-P-00027
 Court DI

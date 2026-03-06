@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:29868ecdaaffa3f54bbac1eb13fd77f276b376a61263153e2566ea0e152d53ed
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 ENTERED
 GREG HELTON
 SEP 14 2021

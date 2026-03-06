@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:1fbaf5a0cdc90be3e5be5708cee6af08e9b3a2428c792930664057def82aeb74
 ---
 
+**Case:** [[cases/christopher-lanier/christopher-lanier|Christopher Lanier]]
+**Client:** [[cases/christopher-lanier/contacts/christopher-lanier|Christopher Lanier]]
+
 *Aaron G. Whaley, Esq.*
 *712 Lyndon Lane*
 *Louisville, KY 40222*

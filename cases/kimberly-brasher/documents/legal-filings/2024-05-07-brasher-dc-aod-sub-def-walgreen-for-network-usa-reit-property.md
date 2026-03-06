@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:7befedd08e9f70865c51079a472173f3c5a00c671896bf6cae1453902bc96155
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 COMMONWEALTH OF KENTUCKY
 
 MCLEAN CIRCUIT COURT

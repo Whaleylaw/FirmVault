@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:bf36d9a7a3e3a6f809cc735646b0f514d2a1014afb608b30b2078ee8ed2f2f68
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 *Aaron G. Whaley, Esq.*
 *712 Lyndon Lane*
 *Louisville, KY 40222*

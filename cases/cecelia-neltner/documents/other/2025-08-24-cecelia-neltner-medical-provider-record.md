@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ceceli
 source_hash: sha256:5858d4882ee4ddbf5f33daeea9f511b64a047a0480e83322fd1f8332de7da8c2
 ---
 
+**Case:** [[cases/cecelia-neltner/cecelia-neltner|Cecelia Neltner]]
+**Client:** [[cases/cecelia-neltner/contacts/cecelia-neltner|Cecelia Neltner]]
+
 Joseph T. Mordino
 
 Faulkner & Tepe, LLP 720 East Pete Rose Way Suite 300

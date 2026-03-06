@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:118af7afefdd8606f999dddd484ec0a37c7e47cecd999ffa71c224685dc8ec33
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 CCCS : 000001 of 000001 Presiding Judge: HON. BARRY WILLETT (630175) 000001 of 000001 1F474605-4CF1-4547-9C25-BE0A47890695 : 000001 of 000007
 Filed 21 L003798 [DOB-12] David L. Nicholson, Jefferson Circuit Clerk
 AOC-104 Doc. Code: CCCS

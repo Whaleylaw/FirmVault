@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:fc0ffdede278df65476dffb5c7b27fee4de00baa6d1061a71ee7ac46bd636864
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 Aaron G. Whaley, Esq.
 JHE 712 Lyndon Lane
 Al EY Louisville, KY 40222

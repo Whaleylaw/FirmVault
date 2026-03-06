@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:3ac9bfcce3b0b03462d586dd2e0978dfa08a27008b6d4771b151071c335993a8
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 Subject: New Voice Message from LOUISVILLE   KY [PHONE-5] on [DOB-2] 12:28 PM
 From: [EMAIL-3]
 To: Sarena@whaleylawfirm.com

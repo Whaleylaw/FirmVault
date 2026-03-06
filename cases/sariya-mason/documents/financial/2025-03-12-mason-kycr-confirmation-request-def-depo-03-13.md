@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya
 source_hash: sha256:aa1a9a2d95e8da2fb9714e7580e5b23889924c27ba03acec43ed9ad45e81b59b
 ---
 
+**Case:** [[cases/sariya-mason/sariya-mason|Sariya Mason]]
+**Client:** [[cases/sariya-mason/contacts/sariya-mason|Sariya Mason]]
+
 Subject: Confirmation for 3/13/2025 (111662)
 From: [EMAIL-1]
 To: Sarena@WhaleyLawFirm.com, [EMAIL-2]

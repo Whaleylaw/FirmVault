@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:c9b4d3972debd3698c2bb8631a7be22d45a55fc07c083d380ef30ef74ca102ab
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 Subject: Certified Medical Records & Billing Request - Chris Wilkerson
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

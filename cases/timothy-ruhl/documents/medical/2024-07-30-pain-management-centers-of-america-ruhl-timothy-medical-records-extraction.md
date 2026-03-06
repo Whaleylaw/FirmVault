@@ -1,8 +1,8 @@
 ---
 case_slug: timothy-ruhl
-created_at: 2026-02-17 00:36:22.091000+00:00
+created_at: {}
 document_category: medical
-document_date: 2024-07-30
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2023-09-14-PrL-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 90
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timothy-Ruhl-Premise-09-14-2023/Reports/extractions/2024-07-30-Pain-Management-Centers-of-America-RUHL-TIMOTHY-MEDICAL-RECORDS_extraction.json
 source_hash: sha256:d0aaff4a46550f5996d7250f280636f7dea201bd3b95e3ed5f029a8ba6e6502b
+contact: "[[cases/2023-09-14-prl-001/contacts/pain-management-centers-of-america]]"
 ---
+
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 
 content_analysis.category: Medical Records
 content_analysis.date: 2024-07-30

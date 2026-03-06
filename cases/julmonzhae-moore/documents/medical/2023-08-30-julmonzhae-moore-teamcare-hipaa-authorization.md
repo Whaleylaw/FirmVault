@@ -1,8 +1,8 @@
 ---
 case_slug: julmonzhae-moore
-created_at: 2026-02-16 23:59:31.859000+00:00
+created_at: {}
 document_category: medical
-document_date: 2004-05-28
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2023-08-29-MVA-003
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmonzhae-Moore-MVA-8-29-2023/Correspondence/2023-08-30-Julmonzhae-Moore-TeamCare-HIPAA-Authorization.pdf
 source_hash: sha256:24244d7c406959262eaca3c3a27ff3b933cbda9d6ca6c9921d9091a7c7c1e62a
+contact: "[[cases/2023-08-29-mva-003/contacts/teamcare]]"
 ---
+
+**Case:** [[cases/julmonzhae-moore/julmonzhae-moore|Julmonzhae Moore]]
+**Client:** [[cases/julmonzhae-moore/contacts/julmonzhae-moore|Julmonzhae Moore]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

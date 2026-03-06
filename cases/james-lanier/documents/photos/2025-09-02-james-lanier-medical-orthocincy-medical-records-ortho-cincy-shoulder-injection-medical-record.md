@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:b59cb9d8d07af7eab904732e548d0787305b327b08ed1e45564ee23aab713d63
 ---
 
+**Case:** [[cases/james-lanier/james-lanier|James Lanier]]
+**Client:** [[cases/james-lanier/contacts/james-lanier|James Lanier]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Lanier-MVA-6-28-2025/Medical/OrthoCincy/Medical Records/2025-09-02-James-Lanier-Medical-OrthoCincy-Medical-Records-Ortho-Cincy-Shoulder-Injection-Medical-Record.jpg

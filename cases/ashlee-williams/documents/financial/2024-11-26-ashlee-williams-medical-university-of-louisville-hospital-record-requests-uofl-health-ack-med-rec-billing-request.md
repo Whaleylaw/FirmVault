@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee
 source_hash: sha256:74ab0e9c6f3d1939811bc7d59ca9c84c18396183d73802d8683784ad204d0f36
 ---
 
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 Subject: RE: Certified Medical Records & Billing Request - Ashlee Williams [DOB-1]
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com, [EMAIL-2], [EMAIL-11], [EMAIL-10]

@@ -1,11 +1,10 @@
 ---
 case_slug: cora-hall
-created_at: 2026-02-16 22:37:41.234000+00:00
+created_at: {}
 document_category: medical
-document_date: 2024-12-13
+document_date: {}
 document_type: medical
-entities:
-- The Medical Center
+entities: null
 extraction_method: native_text
 legacy_case_id: 2022-12-05-OTH-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-Hall-WC-12-05-2022/Medical/2024-12-13-Cora-Hall-The-Medical-Center-at-Bowling-Green-HIPAA-Authorization.pdf
 source_hash: sha256:cd6553db653b737ac094395a9df609d72c7cd0f8e26a1c80dc80ded57d606a71
+contact: "[[cases/2022-12-05-oth-001/contacts/the-medical-center-at-bowling-green]]"
 ---
+
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 
 [DOB-1]
 The Medical Center at Bowling Green

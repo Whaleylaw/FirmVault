@@ -2,7 +2,12 @@
 case_slug: amy-mills
 document_category: medical
 legacy_case_id: 2019-04-26-PrL-001
+contact: "[[cases/2019-04-26-prl-001/contacts/baptist-health-corbin]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-[DOB-1]/Medical/Baptist Health Corbin/Medical Records/2012-05-18-Amy-Mills-Medical-Baptist Health Corbin-Medical-Records-Baptist-Health-Medical-Records.pdf"

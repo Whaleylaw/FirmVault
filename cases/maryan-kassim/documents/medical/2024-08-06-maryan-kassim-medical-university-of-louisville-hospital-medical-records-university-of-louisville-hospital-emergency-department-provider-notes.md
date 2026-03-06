@@ -34,6 +34,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:db4fc2adac4401c4371116d969724625cccdb1b7b874ede0a5ff17281e255509
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 ULH University of Louisville Hospital
 530 S. Jackson Street
 Louisville, KY 40202-1675

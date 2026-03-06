@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee
 source_hash: sha256:ed263ad5cfa34c8356d3af132374282cebd2f7e1ce0290ebe6719a32ad723aa6
 ---
 
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 item_0.holder_address: P.O. Box 105187, Atlanta, GA 30348
 item_0.holder_phone: [PHONE-1] Fax
 item_0.lien_holder_name: Anthem BCBS of Tennessee

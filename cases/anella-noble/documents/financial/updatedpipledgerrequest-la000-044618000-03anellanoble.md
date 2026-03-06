@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:96cc8470aed67752e1fafb6c9aeb3abdeaaf80bfa3be65ac9f29e4c4603c5d8f
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: Updated PIP Ledger Request - LA000-044618000-03 Anella Noble
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

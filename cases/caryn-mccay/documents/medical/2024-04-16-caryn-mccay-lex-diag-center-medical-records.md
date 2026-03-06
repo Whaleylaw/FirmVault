@@ -1,8 +1,8 @@
 ---
 case_slug: caryn-mccay
-created_at: 2026-02-16 22:17:15.417000+00:00
+created_at: {}
 document_category: medical
-document_date: 1972-01-30
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2023-07-30-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-McCay-MVA-7-30-2023/Medical/2024-04-16-Caryn-McCay-Lex-Diag-Center-Medical-Records.pdf
 source_hash: sha256:0d25319cd90f2d96c25fdbfbc60c43255503ea3fc86c4ed5f60d1fb6650c7f1a
+contact: "[[cases/2023-07-30-mva-001/contacts/caryn-mccay]]"
 ---
+
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 
 Apr. 16.2024 2:43PM Lex Diag Center No.7166 =P.1
 1725 Harrodsburg Road 7]LEXINGTON —Site:00

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Henrie
 source_hash: sha256:2addb4a6106093cebf84570bfae9be021aa6fe8b611f38df9c4be45c23f2bf7e
 ---
 
+**Case:** [[cases/henrietta-jenkins/henrietta-jenkins|Henrietta Jenkins]]
+**Client:** [[cases/henrietta-jenkins/contacts/henrietta-jenkins|Henrietta Jenkins]]
+
 Progressive Casualty Insurance Co
 Estimate ID
 25-[POLICY-1]-02

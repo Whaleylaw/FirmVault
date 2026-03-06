@@ -1,12 +1,10 @@
 ---
 case_slug: greg-neltner
-created_at: 2026-02-16 23:44:25.269000+00:00
+created_at: {}
 document_category: medical
-document_date: 1971-03-06
+document_date: {}
 document_type: medical
-entities:
-- Roger Jones
-- Progressive
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-04-01-MVA-002
 mime_type: application/pdf
@@ -14,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-Neltner-MVA-4-1-2023/Medical-Records/2023-10-03-Greg-Neltner-Southgate-Chiropractic-Treatment-Records.pdf
 source_hash: sha256:5a7629d5add9a02a5b26099365430537273c27fabfd80c6f382c890717cc6769
+contact: "[[cases/2023-04-01-mva-002/contacts/southgate-chiropractic]]"
 ---
+
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 
 Aaron G. Whaley, Esq.
 

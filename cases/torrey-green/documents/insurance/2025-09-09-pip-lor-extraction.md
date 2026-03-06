@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:4554a1d13e6c633d97b100803c51df0f91f3a565a57d17686d52911ed2d5f8be
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 category: insurance_letter
 date: 2025-09-09
 description: Letter of representation to Elco Insurance PIP adjuster dated 9/9/2025, claim 23016864, date of loss 9/3/2025, requesting to reserve $4,000 in benefits and use $6,000 to pay bills except hospital-related bills

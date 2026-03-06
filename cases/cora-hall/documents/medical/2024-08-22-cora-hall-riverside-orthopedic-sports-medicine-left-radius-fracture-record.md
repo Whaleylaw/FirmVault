@@ -23,6 +23,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:8cd8a65bebb782beb6b4ebeae9496ab707db78a889429507f2903347eaca33e6
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 27-Aug-2024 15:33 [PHONE-33] [PHONE-32] P.1
 E-»1
 *A*HALEY

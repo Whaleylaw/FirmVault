@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Destin
 source_hash: sha256:f06686506066dcec723131dad127936e60bdcd1940ca0fbf7bd069a6b4aad7a9
 ---
 
+**Case:** [[cases/destiny-adkins/destiny-adkins|Destiny Adkins]]
+**Client:** [[cases/destiny-adkins/contacts/destiny-adkins|Destiny Adkins]]
+
 Subject: Re: Adkins & Downs v. Turner, et al. (Jefferson Circuit 22-CI-002878)
 From: [EMAIL-1]
 To: [EMAIL-2], [EMAIL-8]

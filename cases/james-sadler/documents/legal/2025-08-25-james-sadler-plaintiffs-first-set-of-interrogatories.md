@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:24b98d233534e2ec613e94d114fecfad6a1954bb58289bde4b2f884b0d91a34a
 ---
 
+**Case:** [[cases/james-sadler/james-sadler|James Sadler]]
+**Client:** [[cases/james-sadler/contacts/james-sadler|James Sadler]]
+
 CASE NO. ______________ JEFFERSON CIRCUIT COURT 
  DIVISION ______ (__) 
  JUDGE ___________________ 

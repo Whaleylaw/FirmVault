@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:80da2b36b5277c06b09ff2dceb73ee5ae4b7e434f55716e1a354bbb8bb181899
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 April 5, 2021
 
 Louisville Metro EMS

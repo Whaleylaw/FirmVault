@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Destin
 source_hash: sha256:fd205f34fd8f45aaba835696f1eca4242562579531b6f342d604858c48304515
 ---
 
+**Case:** [[cases/destiny-adkins/destiny-adkins|Destiny Adkins]]
+**Client:** [[cases/destiny-adkins/contacts/destiny-adkins|Destiny Adkins]]
+
 NO. 22-CI-002878 JEFFERSON COUNTY CIRCUIT COURT 
 DIVISION: FIVE (5) 
 JUDGE: MARY SHAW

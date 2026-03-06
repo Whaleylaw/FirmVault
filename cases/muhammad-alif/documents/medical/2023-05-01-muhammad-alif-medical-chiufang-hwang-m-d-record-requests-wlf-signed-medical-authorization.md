@@ -1,6 +1,6 @@
 ---
 case_slug: muhammad-alif
-created_at: 2026-02-17 00:11:00.376000+00:00
+created_at: {}
 document_category: medical
 document_type: medical
 extraction_method: native_text
@@ -8,10 +8,14 @@ legacy_case_id: 2022-11-08-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Chiufang
-  Hwang M.D./Record Requests/2023-05-01-Muhammad-Alif-Medical-Chiufang Hwang M.D.-Record-Requests-WLF-Signed-Medical-Authorization.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Chiufang Hwang M.D./Record Requests/2023-05-01-Muhammad-Alif-Medical-Chiufang Hwang M.D.-Record-Requests-WLF-Signed-Medical-Authorization.pdf
 source_hash: sha256:b4a70c0026c8c0f8bab727a7f3f42929013a28fbe2294e0a4dd253cac638550b
+contact: "[[cases/2022-11-08-mva-001/contacts/chiufang-hwang-m-d]]"
 ---
+
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 
 Docusign Envelope ID: FF15F615-47C5-4CBB-BEE7-12AD71F4D275
 Aaron G. Whaley, Esq.

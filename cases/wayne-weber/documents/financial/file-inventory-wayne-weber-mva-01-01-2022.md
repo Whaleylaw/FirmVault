@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:c2acfa2c399714e6230a2007e8d799249c461b57133a8d5ab0e46d87ab7ac04d
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 item_0.extension: .pdf
 item_0.name: 2022-11-09-Wayne-Weber-BaptistHealth-Hospital-Services-Summary.pdf
 item_0.path: 2022-11-09-Wayne-Weber-BaptistHealth-Hospital-Services-Summary.pdf

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:68151bb7e85ca1a49c9e299090289b0a869c7f26d97231c6b3b0fc40ac6a0884
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 category: Client
 description: HIPAA-Authorization
 entities[0]: Anella Noble

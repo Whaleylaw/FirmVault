@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/France
 source_hash: sha256:b02ac4215e9a2f8d5a68feb5241aa04944d2652e9c307011eaae1e8555669cb5
 ---
 
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Frances-Whitis-WC-MVA-9-6-2024/Investigation/2024-09-06-Frances-Whitis-WC-Investigation-Frankfort-Police-Department-Police-Traffic-Collision-Report.jpg

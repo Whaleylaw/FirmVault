@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dewayn
 source_hash: sha256:ded834c402f28e9ef09629e2c656ec4ea05af0b9c9073e18d21ad5e9d53afc6e
 ---
 
+**Case:** [[cases/dewayne-ward/dewayne-ward|Dewayne Ward]]
+**Client:** [[cases/dewayne-ward/contacts/dewayne-ward|Dewayne Ward]]
+
 |
 
 [POLICY-1] GG03638 0071 001 CG

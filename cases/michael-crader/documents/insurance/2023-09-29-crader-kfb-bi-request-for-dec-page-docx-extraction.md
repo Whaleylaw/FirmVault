@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:3b20abc48a6d5e8affff085e51c82e1387a8c6fff22745a7fac0ed80f28efe76
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 extraction.classification.bucket: Insurance
 extraction.classification.confidence: high
 extraction.classification.document_type: insurance_correspondence

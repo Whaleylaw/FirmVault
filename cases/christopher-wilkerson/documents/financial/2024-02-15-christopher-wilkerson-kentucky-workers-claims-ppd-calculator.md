@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:5d8ef8d1265a71129b444f0e94a443140180f58c1cf01b8e2ce5b81bd9734102
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 3/17/25, 3:45 PM 992 Table Calculator
 Kentucky Department of Workers' Claims 992 Table Calculator
 Permanent Partial Disability Benefit Calculator - 1996

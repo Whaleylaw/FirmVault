@@ -1,8 +1,8 @@
 ---
 case_slug: daniel-w-volk
-created_at: 2026-02-16 22:55:28.807000+00:00
+created_at: {}
 document_category: medical
-document_date: 2021-12-27
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2021-09-24-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 90
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel-W-Volk-MVA-09-24-2021/Reports/extractions/2021-12-27-Daniel-W-Volk-Norton-Neuroscience-Institute-Neurosurgery-Telehealth-Visit_extraction.json
 source_hash: sha256:0552e8f809729c74c01ef421283dc065fc36ebe61ed7e45f168a734144cb5356
+contact: "[[cases/2021-09-24-mva-001/contacts/norton-neuroscience-institute]]"
 ---
+
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 
 extraction.classification.bucket: Medical Records
 extraction.classification.confidence: high

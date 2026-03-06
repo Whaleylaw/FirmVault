@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:9553d0ab64ba1886445092dc488f5117eb2a9bd531f6cbc7554185821e8638d7
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 date: 2024-05-30
 description: Photo from the accident scene showing the damage to the front bumper of the EMS ambulance and the final resting position of the vehicles.
 original_path: Jimmy-Ferguson-MVA-5-30-2024/ea94104a-c51e-404f-85bd-72d7bce5f95b.jpg

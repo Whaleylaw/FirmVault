@@ -1,19 +1,22 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:48:50.096000+00:00
+created_at: {}
 document_category: medical
-document_date: 1983-12-28
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Norton
-  Neuroscience Institute Brownsboro/Medical Records/2020-01-20-Amy-Mills-Medical-Norton
-  Neuroscience Institute Brownsboro-Medical-Records-Norton-Hospital-Physician-Discharge-Summary.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Norton Neuroscience Institute Brownsboro/Medical Records/2020-01-20-Amy-Mills-Medical-Norton Neuroscience Institute Brownsboro-Medical-Records-Norton-Hospital-Physician-Discharge-Summary.pdf
 source_hash: sha256:a4f20017a46ba7c4bb0a9b19e330a86c4b28d2c721b7ed7430b773698f42bfb2
+contact: "[[cases/2019-04-26-prl-001/contacts/norton-neuroscience-institute-brownsboro]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 1l2212020 MyChart - Hospital Admissions 
 Name: Amy Jo Mills I DOB: [DOB-1] I MRN: EP02256299 I PCP: Provider Not In System 

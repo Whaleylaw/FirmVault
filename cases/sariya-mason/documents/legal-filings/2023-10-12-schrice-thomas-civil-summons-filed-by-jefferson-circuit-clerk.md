@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya
 source_hash: sha256:1bf90206c71dea11e26f5fb13c95ebe1025d5f9619add149827423ad0b6dc2aa
 ---
 
+**Case:** [[cases/sariya-mason/sariya-mason|Sariya Mason]]
+**Client:** [[cases/sariya-mason/contacts/sariya-mason|Sariya Mason]]
+
 David L. Nicholson, Jefferson Circuit Clerk 23-CI-006039 [DOB-2] Filed
 David L. Nicholson, Jefferson Circuit Clerk 23-CI-006039 [DOB-2] Filed
 AOS : 000001 of 000001 B672D4AA-9A80-49DE-A78C-DFD4A41CF5E4 : 000001 of 000001

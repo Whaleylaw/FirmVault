@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maia-O
 source_hash: sha256:b2d7a2fa16231818ed81c427d577a0306a658f281ea85bb0323c8d5342aef1a8
 ---
 
+**Case:** [[cases/maia-ott/maia-ott|Maia Ott]]
+**Client:** [[cases/maia-ott/contacts/maia-ott|Maia Ott]]
+
 Nov.11.2025 02:59 PM Tri-State [PHONE-10] P 13/22
 Name mud OH Date of Visit: 09-15-25 Net # 8
 VISIE Typ Follow-Up [] Reservement

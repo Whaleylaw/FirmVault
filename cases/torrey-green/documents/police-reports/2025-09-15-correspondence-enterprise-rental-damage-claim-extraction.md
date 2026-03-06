@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:c35432ed51e108ddcd2baf620f5b0f436d8ee630659c7a82feae461703f46715
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 category: correspondence
 date: 2025-09-15
 description: Organized copy of Enterprise Rent-A-Car damage claim letter dated September 15, 2025 to Donnisha Brock regarding rental vehicle damage from 9/3/2025 collision. Damage protection denied, Claim #23016864.

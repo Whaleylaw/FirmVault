@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:1bdd2291513af161e51736f71b722783cecae8e663fcc2d346c94eaa69588c23
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 content_analysis.category: Litigation
 content_analysis.date: 2024-12-12
 content_analysis.description: Notice of Appearance

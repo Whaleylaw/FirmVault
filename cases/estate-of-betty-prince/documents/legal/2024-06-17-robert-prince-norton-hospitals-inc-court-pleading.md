@@ -4,6 +4,9 @@ document_category: legal
 legacy_case_id: 2020-07-14-PrL-001
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate-of-Betty-Prince-Premise-7-14-2020/Medical/2024-06-17-Robert-Prince-NORTON-HOSPITALS-INC-court-pleading.pdf"
 source_hash: "sha256:a533f1a30ee31470866facac4a90847221c0aa7dac982bf724edc2e687ac82b7"

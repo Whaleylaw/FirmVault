@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2024-01-17-OTH-001
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Stich-WC-[DOB-520]/Medical/Baptist Health Urgent Care/Medical Records/2021-03-05-Amy-Stich-Medical-Baptist Health Urgent Care-Medical-Records-Baptist-Health-Medical-Records-And-Consents.pdf"
 source_hash: "sha256:d744829a016596e71e574bd36b5996c5ec801f61973a69f1fd65942e853b5197"

@@ -1,6 +1,6 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:46:41.040000+00:00
+created_at: {}
 document_category: other
 document_type: other
 extraction_method: native_text
@@ -10,7 +10,12 @@ page_count: 1
 quality_score: 70
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Expenses/2019-04-26-Amy-Mills-Expense-Commonwealth-IME-Invoice-for-Medical-Addendum.pdf
 source_hash: sha256:6396c1f1e8af5f22fa70a1f54d4b49340ddc226ff4738924096dca117c945191
+contact: "[[cases/2019-04-26-prl-001/contacts/commonwealth-ime]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 	
 

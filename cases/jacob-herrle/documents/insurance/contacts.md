@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jacob-
 source_hash: sha256:9f7d13b442767e0b1e301f54d5bf02ad9e726e899be9719cfa84964653b57442
 ---
 
+**Case:** [[cases/jacob-herrle/jacob-herrle|Jacob Herrle]]
+**Client:** [[cases/jacob-herrle/contacts/jacob-herrle|Jacob Herrle]]
+
 item_0.jsonb_agg[0].full_name: Jacob Herrle
 item_0.jsonb_agg[0].project_name: Jacob-Herrle-MVA-6-17-2025
 item_0.jsonb_agg[0].roles[0]: client

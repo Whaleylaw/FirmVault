@@ -12,4 +12,7 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:e4bbe9a0ef8c5d6e35c4750068d821bf28cb8decb3a8f13e869000f9db369b04
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 Error: Parsing error: Invalid PDF: PdfiumLibraryInternalError: FormatError

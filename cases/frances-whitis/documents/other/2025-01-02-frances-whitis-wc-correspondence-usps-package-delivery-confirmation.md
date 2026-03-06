@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/France
 source_hash: sha256:85b6da0906ac4607afabc5555a23251cf702da97ad806ceef796f765614de914
 ---
 
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 ALERT: USPS WILL RESUME MAIL SERVICE TO CANADA ON MONDAY, JANUARY 6, 2025. READ M...
 FAQs > USPS Tracking’
 Track Packages Get the free Informed Delivery® feature toreceive

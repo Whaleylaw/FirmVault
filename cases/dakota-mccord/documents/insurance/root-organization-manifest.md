@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dakota
 source_hash: sha256:45a610e7c9f8fac3ecbc30df430d4b625e7b42a383e3c48abf3d2f16e67b1c09
 ---
 
+**Case:** [[cases/dakota-mccord/dakota-mccord|Dakota McCord]]
+**Client:** [[cases/dakota-mccord/contacts/dakota-mccord|Dakota McCord]]
+
 accident_date: 2025-10-12
 case_type: MVA
 client_name: Dakota-McCord

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:d9f558c762c9c898308b85d78a0ef8623b1b0a42de2fed102facfe35693baecb
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: medical_authorization
 date: 2019-08-05
 description: Medical authorization form from Whaley Law Firm dated August 5, 2019.

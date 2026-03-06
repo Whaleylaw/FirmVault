@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya
 source_hash: sha256:40107df5828e38f2c47e55019c8bad130a807577ead9b7c9a84b4b6e566fb0ad
 ---
 
+**Case:** [[cases/sariya-mason/sariya-mason|Sariya Mason]]
+**Client:** [[cases/sariya-mason/contacts/sariya-mason|Sariya Mason]]
+
 CASE NO.: 23-CI-00603       JEFFERSON CIRCUIT COURT
 
 DIVISION SEVEN (7)

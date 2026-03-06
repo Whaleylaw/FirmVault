@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:6b0a98d4be4480008f3b96d626da05e453e5f623fae8910e49622276fcd6bc77
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 ·1· · · · · · · · JEFFERSON COUNTY CIRCUIT COURT
 ·2· · · · · · · · · · · ·DIVISION ONE (1)
 ·3· · · · · · · · · ·JUDGE HON. ERIC J. HANER

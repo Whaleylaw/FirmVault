@@ -1,8 +1,8 @@
 ---
 case_slug: davis-robinson
-created_at: 2026-02-16 22:56:13.984000+00:00
+created_at: {}
 document_category: medical
-document_date: 2025-05-08
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2025-05-02-SF-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 90
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-Robinson-SF-05-02-2025/extractions/2025-05-08-Davis-Robinson-Emergency-Physicians-of-Northwest-Ohio-Inc-Medical-Authorization_extraction.json
 source_hash: sha256:f344fe7eca23b22a4f00e4c65bdf1ffea007599af0d697d0bfc3727fc0a33e78
+contact: "[[cases/2025-05-02-sf-001/contacts/emergency-physicians-of-northwest-ohio]]"
 ---
+
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 
 extraction.classification.bucket: Medical Records
 extraction.classification.confidence: high

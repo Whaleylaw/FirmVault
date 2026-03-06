@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:b43566422447931efc98160fbce87ea1ac360785f89f42d8aebc5be1e5b395d8
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 Subject: Re: Amy Stich
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

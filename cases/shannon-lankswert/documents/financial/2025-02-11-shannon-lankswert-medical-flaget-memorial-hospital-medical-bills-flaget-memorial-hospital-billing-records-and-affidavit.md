@@ -4,6 +4,9 @@ document_category: financial
 legacy_case_id: 2025-02-07-OTH-001
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shannon-Lankswert-WC-[DOB-34]/Medical/Flaget Memorial Hospital/Medical Bills/2025-02-11-Shannon-Lankswert-Medical-Flaget Memorial Hospital-Medical-Bills-Flaget-Memorial-Hospital-Billing-Records-and-Affidavit.pdf"
 source_hash: "sha256:2e6ee58e666bf3833bd2d93aedffe65b3a189406435d4afbad81f8b87c8d43dd"

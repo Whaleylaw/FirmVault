@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Elizab
 source_hash: sha256:54621321e72da8dac5fc9c2520911c152e8970d3b6bc0628d457ce9412106710
 ---
 
+**Case:** [[cases/elizabeth-lindsey/elizabeth-lindsey|Elizabeth Lindsey]]
+**Client:** [[cases/elizabeth-lindsey/contacts/elizabeth-lindsey|Elizabeth Lindsey]]
+
 Itemization of Charges
 Aptiva Health Imaging, LLC
 For Posting Date September 9, 2025

@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:50f1db52846193d3f934964d2ebd9ee5d0be5875839aa1412411bab54f614d86
 ---
 
+**Case:** [[cases/michae-guyton/michae-guyton|Michae Guyton]]
+**Client:** [[cases/michae-guyton/contacts/michae-guyton|Michae Guyton]]
+
 address: 5056 Minette Court, Apt 3, Louisville, Ky 40258
 date_of_birth: [DOB-1]
 imported_at: 2026-02-16T21:09:42.773Z

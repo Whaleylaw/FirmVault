@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:19f58e72d3957ce7af8ee5f76cabe3c692e212a04e399f9ff11e5a47d162b111
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 Name: Amy N Stich | DOB: 1/5/1976 | MRN: [PHONE-3] | PCP: Michael Eli Pendleton, MD | Legal Name: Amy N Stich
 MyChart® licensed from Epic Systems Corporation © 1999 - 2024
 BAPTIST HEALTH MEDICAL GROUP ORTHOPEDICS

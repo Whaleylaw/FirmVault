@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Malcom
 source_hash: sha256:a6df9a930444a0d21ef019a8d086ea2a1cc42f685c21178c1d2442cef46c9b90
 ---
 
+**Case:** [[cases/malcom-glass-jones/malcom-glass-jones|Malcom Glass Jones]]
+**Client:** [[cases/malcom-glass-jones/contacts/malcom-glass-jones|Malcom Glass Jones]]
+
 Cole Barnes
 Casualty Adjuster
 Phone: [PHONE-1]

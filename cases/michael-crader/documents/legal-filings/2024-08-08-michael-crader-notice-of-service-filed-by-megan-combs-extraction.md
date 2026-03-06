@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:08c1b1aabbfc3e8041c91daef2369e601575ad6157497cba0f6c22c817d82697
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 extraction.classification.bucket: Litigation
 extraction.classification.confidence: high
 extraction.classification.document_type: litigation_notice

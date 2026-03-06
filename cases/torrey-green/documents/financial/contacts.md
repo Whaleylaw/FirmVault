@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:eb8672b0616086f0f29219d1464e7ff7c4b26614ccede41737c83edc07998ff5
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 item_0.jsonb_agg[0].address: 4304 Pruitt Ct
 item_0.jsonb_agg[0].email: [EMAIL-1]
 item_0.jsonb_agg[0].full_name: Torrey Green

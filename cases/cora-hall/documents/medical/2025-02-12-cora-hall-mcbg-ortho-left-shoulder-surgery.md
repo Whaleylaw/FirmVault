@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:6fd60bcbf34db153a5b52e0672926349ea9876d3be5d698bdbedf24d0f028766
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 2025-03-05 09:20 MCBG Ortho [PHONE-4] >> P 1/2
 Medical Center Bowling Green
 0 Park Street

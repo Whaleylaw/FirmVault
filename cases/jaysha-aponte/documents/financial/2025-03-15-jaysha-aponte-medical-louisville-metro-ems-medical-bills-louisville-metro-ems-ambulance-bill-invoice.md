@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jaysha
 source_hash: sha256:923df7512073c8af742d06a5c024093f51c9ad87b2e151f63d23d4a7d108962f
 ---
 
+**Case:** [[cases/jaysha-aponte/jaysha-aponte|Jaysha Aponte]]
+**Client:** [[cases/jaysha-aponte/contacts/jaysha-aponte|Jaysha Aponte]]
+
 Louisville Metro EMS
 P.O. Box 34338
 Louisville, KY 40232-4338

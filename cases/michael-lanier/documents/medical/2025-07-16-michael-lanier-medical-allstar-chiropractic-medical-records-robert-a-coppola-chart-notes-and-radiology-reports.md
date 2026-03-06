@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:79fcaf6116f1fde6a11f4dc1e4946eb847dce041bdc35441a564b64cf2f9a9b9
 ---
 
+**Case:** [[cases/michael-lanier/michael-lanier|Michael Lanier]]
+**Client:** [[cases/michael-lanier/contacts/michael-lanier|Michael Lanier]]
+
 Patient: Lanier, Michael 
 Ins Co: State Farm Pol #: Insured ID: 17-87C9-86K
 Acct #: 224847 DOB: [DOB-154]

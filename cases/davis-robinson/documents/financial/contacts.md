@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-
 source_hash: sha256:51f2dd3106498584bb98246d6c5090ee06f7c379372e0538b153bc19db639ee2
 ---
 
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 item_0.jsonb_agg[0].address: 9861 Cherbourg Dr
 item_0.jsonb_agg[0].full_name: Davis Robinson
 item_0.jsonb_agg[0].phone: [PHONE-1]

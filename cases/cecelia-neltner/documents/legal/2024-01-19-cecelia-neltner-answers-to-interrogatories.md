@@ -4,6 +4,9 @@ document_category: legal
 legacy_case_id: 2023-04-01-MVA-001
 ---
 
+**Case:** [[cases/cecelia-neltner/cecelia-neltner|Cecelia Neltner]]
+**Client:** [[cases/cecelia-neltner/contacts/cecelia-neltner|Cecelia Neltner]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecelia-Neltner-MVA-4-1-2023/Legal-Documents/Discovery/2024-01-19-Cecelia-Neltner-Answers-to-Interrogatories.pdf"
 source_hash: "sha256:46958e1e337148b3cd876474c791702330d9058e679eac94d10a[PHONE-7]db"

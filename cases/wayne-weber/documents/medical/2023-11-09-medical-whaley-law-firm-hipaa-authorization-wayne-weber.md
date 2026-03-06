@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:b3b5cd15e5c913e12dc381c897cf47ce590dbc9264fae1869dbcda2370c3832a
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 AUTHORIZATION TO RELEASE PROTECTED HEALTH CARE INFOR.MATION 
 TO:
 Per my electronic signature below, and pursuant to the Health Insurance Portability and

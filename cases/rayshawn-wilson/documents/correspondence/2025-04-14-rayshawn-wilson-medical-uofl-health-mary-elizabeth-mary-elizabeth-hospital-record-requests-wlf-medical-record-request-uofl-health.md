@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Raysha
 source_hash: sha256:9a869eb5d71433efcb5c51101df6aaf5efaf2aa3f545a5854b090b7b15788177
 ---
 
+**Case:** [[cases/rayshawn-wilson/rayshawn-wilson|Rayshawn Wilson]]
+**Client:** [[cases/rayshawn-wilson/contacts/rayshawn-wilson|Rayshawn Wilson]]
+
 *Aaron G. Whaley, Esq.*
 *712 Lyndon Lane*
 *Louisville, KY 40222*

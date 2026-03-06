@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:a2e84fee0ab990799746ef07cbbbbd4b6221c8bdfc1835c40a6b602b8e274c86
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 INVESTIGATOR BEAT OR POST #
 TOTAL LANES
 NO

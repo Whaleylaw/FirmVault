@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:142154b081acd6f342cd0fd0be159f03e4c322618c3c67a67db7c825ca06012c
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: medical_billing
 extraction.date: 2023-12-28
 extraction.description: Baptist Health itemization of services for Wayne Weber dated December 28, 2023.

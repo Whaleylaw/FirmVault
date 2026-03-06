@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya
 source_hash: sha256:c93c4e284c5e4bf4af7ed3c0302ee9096452c9e41b625d05a51f9902e608bc38
 ---
 
+**Case:** [[cases/sariya-mason/sariya-mason|Sariya Mason]]
+**Client:** [[cases/sariya-mason/contacts/sariya-mason|Sariya Mason]]
+
 Activity Card
 A23-121026-1 OWNED/AGGRESSIVE Priority Level: 3 Total Animals: 1 Animal Type: DOG
 Activity Address:

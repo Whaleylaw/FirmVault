@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:555fb762534c73ab2e17122ea5da40895bab17188e5a07a235dc922ab5d91be0
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 a cas
 , BAPTIST HEALTH Bs
 PO BOX 87225

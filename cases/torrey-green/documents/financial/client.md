@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:4842f46c5cb815060570a994a9174d8b119ad6c87dd5a20e669f513ecb31fb79
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 address: 4304 Pruitt Ct, Louisville, KY 40218
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

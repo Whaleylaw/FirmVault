@@ -1,6 +1,6 @@
 ---
 case_slug: frances-whitis
-created_at: 2026-02-16 23:42:22.154000+00:00
+created_at: {}
 document_category: photos
 document_type: photo
 extraction_method: image_proxy
@@ -10,7 +10,12 @@ page_count: 1
 quality_score: 70
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Frances-Whitis-WC-MVA-9-6-2024/Liens/2024-09-06-Frances-Whitis-WC-Lien-CMS-BCRC-Medicare-Conditional-Payment-Rights-Notice.jpg
 source_hash: sha256:21d3c89be9aa37b7206cf57e81024a925d0203ca5152dbd9ddadedf25e74256f
+contact: "[[cases/2024-09-06-mva-001/contacts/medicare]]"
 ---
+
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 
 # Image Document
 

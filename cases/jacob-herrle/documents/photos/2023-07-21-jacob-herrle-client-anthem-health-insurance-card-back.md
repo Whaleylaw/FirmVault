@@ -1,11 +1,9 @@
 ---
 case_slug: jacob-herrle
-created_at: 2026-02-16 23:49:02.641000+00:00
+created_at: {}
 document_category: photos
 document_type: photo
-entities:
-- Blue Cross
-- Anthem
+entities: null
 extraction_method: image_proxy
 legacy_case_id: 2025-06-17-MVA-001
 mime_type: image/jpeg
@@ -13,7 +11,12 @@ page_count: 1
 quality_score: 70
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jacob-Herrle-MVA-6-17-2025/Client/2023-07-21-Jacob-Herrle-Client-Anthem-Health-Insurance-Card-Back.jpg
 source_hash: sha256:f14765ea76c6f0e5fd69a750b9da73fa82e968d0cdc35796657e2bdbbcb0b85a
+contact: "[[cases/2025-06-17-mva-001/contacts/anthem]]"
 ---
+
+**Case:** [[cases/jacob-herrle/jacob-herrle|Jacob Herrle]]
+**Client:** [[cases/jacob-herrle/contacts/jacob-herrle|Jacob Herrle]]
+
 
 # Image Document
 

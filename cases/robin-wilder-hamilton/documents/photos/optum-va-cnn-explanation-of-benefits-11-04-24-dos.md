@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:720385c72c9d36a1316523f6757ebf3449159339075207d00cf04f11757cb74e
 ---
 
+**Case:** [[cases/robin-wilder-hamilton/robin-wilder-hamilton|Robin Wilder Hamilton]]
+**Client:** [[cases/robin-wilder-hamilton/contacts/robin-wilder-hamilton|Robin Wilder Hamilton]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-Wilder-Hamilton-MVA-6-15-2023/Medical/Optum-VA-CNN-Explanation-of-Benefits-11.04.24-DOS.jpg

@@ -1,19 +1,22 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:48:44.736000+00:00
+created_at: {}
 document_category: court-filings
-document_date: 2022-05-09
+document_date: {}
 document_type: court_filing
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: message/rfc822
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Neurodiagnostic
-  Center of Louisville/Medical Records/2022-05-09-Amy-Mills-Medical-Neurodiagnostic
-  Center of Louisville-Medical-Records-Commonwealth-IME-FCE-Appointment-Reschedule-Notice.eml
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Neurodiagnostic Center of Louisville/Medical Records/2022-05-09-Amy-Mills-Medical-Neurodiagnostic Center of Louisville-Medical-Records-Commonwealth-IME-FCE-Appointment-Reschedule-Notice.eml
 source_hash: sha256:49f02574d49ee5b3313d958a0212c075424d909b5d4d515e7ecdba03161a042e
+contact: "[[cases/2019-04-26-prl-001/contacts/commonwealth-ime]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 Subject: Fwd: Appointment Rescheduled: The Whaley Law Firm Amy Mills [PHONE-11] now at Monday, July 25, 2022 11:00am EDT (was May 9, 2022 11:00am) with (Louisville, KY) Biokinetics
 From: [EMAIL-10]

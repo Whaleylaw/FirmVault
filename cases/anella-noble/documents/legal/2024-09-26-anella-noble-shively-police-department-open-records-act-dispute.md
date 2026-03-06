@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:b7aa0346384c8cc018a240faed2452e83dc88bedb7e95a7a740ae56a5cf22504
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 RENDERED: SEPTEMBER 26, 2024
 TO BE PUBLISHED
 Supreme Court of Kentucky

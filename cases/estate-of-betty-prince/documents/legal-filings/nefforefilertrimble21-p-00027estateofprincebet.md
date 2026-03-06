@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:53aedfcc42a5a548c65596c868638c3f21ae6bedfeab38acc762b9cd01ede4c8
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 Subject: NEF, (for eFiler) TRIMBLE 21-P-00027, ESTATE OF: PRINCE, BETTY Envelope # 6394128
 From: [EMAIL-4]
 To: [EMAIL-3], Sarena@WhaleyLawFirm.com, [EMAIL-3]

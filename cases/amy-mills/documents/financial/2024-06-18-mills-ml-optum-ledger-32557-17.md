@@ -1,11 +1,10 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:47:05.510000+00:00
+created_at: {}
 document_category: financial
-document_date: 2024-06-18
+document_date: {}
 document_type: financial
-entities:
-- Aetna
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Lien/2024.06.18-Mills-ML-Optum-Ledger-32557.17.pdf
 source_hash: sha256:0fd1ae3967be1c0d303dcdf36c4d0524b512d6a2880a298501feb2ec3f28f904
+contact: "[[cases/2019-04-26-prl-001/contacts/optum]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 © [DOB-1] 7:51 AM Fax Services >Aaron pg 1of 13
 FAX

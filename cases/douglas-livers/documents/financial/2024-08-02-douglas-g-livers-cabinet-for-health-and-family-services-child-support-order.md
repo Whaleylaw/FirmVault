@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:bc75e0612b071e386ed0a2d0071eb8687a3bc62c3f1011c6bb486b9c3d48a370
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 a
 CS-68 COMMONWEALTH OF KENTUCKY
 (R. 10/23) Cabinet for Health and Family Services

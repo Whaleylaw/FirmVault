@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:4d8cf5b4828ffd6684dd049ff41bebdecd9c2c1d039d8bf4848848365d082e70
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Claimant Anella Noble
 Insured Alela Llyod
 Claim 044618000

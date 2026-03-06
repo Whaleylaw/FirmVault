@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor
 source_hash: sha256:41e8310ed108a4b63571d55fd7871c28c581a92fd7890beb6a3d3caaa90e35d4
 ---
 
+**Case:** [[cases/taylor-thompson/taylor-thompson|Taylor Thompson]]
+**Client:** [[cases/taylor-thompson/contacts/taylor-thompson|Taylor Thompson]]
+
 Subject: FW: *EXT*Taylor Thompson MVA 12/6/24
 From: [EMAIL-25]
 To: [EMAIL-24]

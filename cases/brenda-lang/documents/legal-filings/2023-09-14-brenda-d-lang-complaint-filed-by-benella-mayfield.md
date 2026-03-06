@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:3cd316a8cba57ee8cd7c81d002c8b51f1a863023a9bcc2b616542634f229cdcd
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 COM : 000001 of 000003 Presiding Judge: HON. MELISSA LOGAN BELLOWS (630454)
 Filed 23-CI-005662 [DOB-1] David L. Nicholson, Jefferson Circuit Clerk
 Filed 23-CI-005662 [DOB-2] David L. Nicholson, Jefferson Circuit Clerk NOT ORIGINAL

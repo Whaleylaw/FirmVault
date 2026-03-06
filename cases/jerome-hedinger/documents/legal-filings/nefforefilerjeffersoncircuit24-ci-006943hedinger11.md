@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:90d407f96a1bd3ba0f50b1071e425403184abee4830fe4941948bb30a8e9208b
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 Subject: NEF, (for eFiler) JEFFERSON Circuit 24-CI-006943, HEDINGER, JEROME VS. BROWN, DAHLYN ET AL                     Envelope # 9908527
 From: [EMAIL-6]
 To: [EMAIL-5], Sarena@WhaleyLawFirm.com, [EMAIL-4]

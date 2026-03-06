@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:997d4ee21daf912b3ea67078929e14428f30ea65e6156639ab6002bba5ad8936
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 Subject: Certified Medical Records & Billing Request - Charles Johnson DOB [DOB-1]
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

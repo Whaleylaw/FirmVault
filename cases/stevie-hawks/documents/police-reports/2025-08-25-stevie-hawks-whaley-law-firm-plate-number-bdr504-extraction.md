@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie
 source_hash: sha256:d94d45499c8719c79bcf73ac60b80327743eca09dfbff7e9d794440689782f89
 ---
 
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 extraction.classification.bucket: Investigation
 extraction.classification.confidence: medium
 extraction.classification.document_type: insurance_information_request

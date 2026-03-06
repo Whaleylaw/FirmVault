@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:840a4738dff3329353bec69cecb11b9cbe14cd7b10e0579f3ba6ec2150364c08
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 Apr. 3.2023) 9:57AM No.1598 =P.3/50
 ‘sampeasig Od“auqy wanarg srepraory
 7 “RtRO /STenagey / SvOPEpuEMMOTY

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:2e8c38da4c4e49b96d4ed59c8537f0542bac6c65649935206809226f99029238
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 ULP Radiology Associates 
 530 S. Jackson Street C07
 Louisville, KY 40202

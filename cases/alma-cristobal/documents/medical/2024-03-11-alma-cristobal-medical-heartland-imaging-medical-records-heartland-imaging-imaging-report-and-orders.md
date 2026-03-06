@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:e93d894b7337c6a00d3b47dfa0874f801447a40dc2a2c038645630826e982a5d
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 To:
 
 5227 DIXIE HIGHWAY LOUISVILLE KY 40216 Phone: [PHONE-21]

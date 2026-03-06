@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:ef38d08163969cb33b3bfe93fd22eb9b120e781193df5a943ce37e8f000c58b3
 ---
 
+**Case:** [[cases/robin-wilder-hamilton/robin-wilder-hamilton|Robin Wilder Hamilton]]
+**Client:** [[cases/robin-wilder-hamilton/contacts/robin-wilder-hamilton|Robin Wilder Hamilton]]
+
 content_summary: Letter of representation from Whaley Law Firm requesting all medical records and billing from VA Medical Center Lexington for Robin Wilder-Hamilton for injuries from accident on 6/15/2023.
 document_date: 2023-12-22
 entities[0]: Robin Wilder-Hamilton

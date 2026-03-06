@@ -1,8 +1,8 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:49:58.117000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1983-12-28
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Review_Needed/2023-10-13-Amy-Mills-Grace-Health-medical-records-request.pdf
 source_hash: sha256:94d6771ce470a9c870a7fb4a93c219892838aeb3ce73d3476edeaf85868851e8
+contact: "[[cases/2019-04-26-prl-001/contacts/grace-health]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 Fax Confirmation
 To: [PHONE-1] From: [PHONE-11]

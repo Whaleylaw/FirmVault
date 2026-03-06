@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julian
 source_hash: sha256:a2c999b4c4d00c5daf3ffb687fbae97d30a8340f337b042f8112311f53dd03a8
 ---
 
+**Case:** [[cases/julian-wilson/julian-wilson|Julian Wilson]]
+**Client:** [[cases/julian-wilson/contacts/julian-wilson|Julian Wilson]]
+
 November 7, 2025
 Whaley Law Firm
 712 Linden Dr

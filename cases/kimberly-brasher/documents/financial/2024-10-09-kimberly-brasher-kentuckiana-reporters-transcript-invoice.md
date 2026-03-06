@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:4d7efa0f13a9226cb159353ec132b70a2d45ea6e82384c7e5e95c088d96f4c10
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 INVOICE lofi
 ; Invoice No. Invoice Date Job No.
 123849 10/9/2024 102225

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:f1f59fa879238d08b616298d105dc84e73a61d8ac355897e1dad82a7b3f416f6
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 PERSONAL & CONFIDENTIAL
 DOB: [DOB-1]
 SSN: [SSN-1]

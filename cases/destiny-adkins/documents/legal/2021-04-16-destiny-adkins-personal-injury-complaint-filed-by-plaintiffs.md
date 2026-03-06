@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Destin
 source_hash: sha256:e31a36ab4e53acaaeea71fdb5c3008eb04e784bd694988c4c45970b9cb7b6e56
 ---
 
+**Case:** [[cases/destiny-adkins/destiny-adkins|Destiny Adkins]]
+**Client:** [[cases/destiny-adkins/contacts/destiny-adkins|Destiny Adkins]]
+
 NO. 22-CI-__________ JEFFERSON COUNTY CIRCUIT COURT 
 DIVISION 
 JUDGE 

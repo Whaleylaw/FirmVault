@@ -23,6 +23,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cory-S
 source_hash: sha256:f25e9fa9b1eb229d6ed0a65af7266e3700cac389af80a1d57bf65f99e97f1916
 ---
 
+**Case:** [[cases/cory-stephenson/cory-stephenson|Cory Stephenson]]
+**Client:** [[cases/cory-stephenson/contacts/cory-stephenson|Cory Stephenson]]
+
 uUsef L DPhyototono 1a/30/8468R48 1295.45.40 DM rem pAaL BfOhoe Treaiar Coarrroir
 Heal
 Attestation Regarding a Requested Use or Disclosure of Protected Health Information

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:cd1537b10ff090cd5de70086f095fed19ba22486b57dbaadca80631eba897bf5
 ---
 
+**Case:** [[cases/james-sadler/james-sadler|James Sadler]]
+**Client:** [[cases/james-sadler/contacts/james-sadler|James Sadler]]
+
 December 11, 2024
 The Whaley Law Firm
 150 S 3rd St

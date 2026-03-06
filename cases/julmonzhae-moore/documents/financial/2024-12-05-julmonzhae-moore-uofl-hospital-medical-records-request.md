@@ -4,6 +4,9 @@ document_category: financial
 legacy_case_id: 2023-08-29-MVA-003
 ---
 
+**Case:** [[cases/julmonzhae-moore/julmonzhae-moore|Julmonzhae Moore]]
+**Client:** [[cases/julmonzhae-moore/contacts/julmonzhae-moore|Julmonzhae Moore]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmonzhae-Moore-MVA-8-29-2023/Correspondence/2024-12-05-Julmonzhae-Moore-UofL-Hospital-Medical-Records-Request.pdf"
 source_hash: "sha256:68254b3f78f88647edaf319a[PHONE-6]b6230dc48e4632c70e03ca8d0a8c93"

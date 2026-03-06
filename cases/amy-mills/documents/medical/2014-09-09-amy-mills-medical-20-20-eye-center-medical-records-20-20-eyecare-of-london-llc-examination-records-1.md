@@ -1,18 +1,22 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:47:53.918000+00:00
+created_at: {}
 document_category: medical
-document_date: 1983-12-28
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/20:20
-  Eye Center/Medical Records/2014-09-09-Amy-Mills-Medical-20:20 Eye Center-Medical-Records-20-20-Eyecare-of-London-LLC-Examination-Records-1.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/20:20 Eye Center/Medical Records/2014-09-09-Amy-Mills-Medical-20:20 Eye Center-Medical-Records-20-20-Eyecare-of-London-LLC-Examination-Records-1.pdf
 source_hash: sha256:3a9108e778188084e0c53cfbab2d3c65a2183018b04d0fc9712fbef817b21311
+contact: "[[cases/2019-04-26-prl-001/contacts/20-20-eye-center]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 20/20 Byaceea af Lotdon, LLC.
 168 Chareat ya bane

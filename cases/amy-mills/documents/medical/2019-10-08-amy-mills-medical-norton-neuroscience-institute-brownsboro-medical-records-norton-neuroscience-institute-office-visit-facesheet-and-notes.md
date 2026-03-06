@@ -1,25 +1,23 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:48:47.887000+00:00
+created_at: {}
 document_category: medical
-document_date: 1983-12-28
+document_date: {}
 document_type: medical
-entities:
-- Carolyn Smith
-- Christopher Shields
-- Provider Type Discipline
-- KORT Rehabilitation
-- Norton Healthcare
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Norton
-  Neuroscience Institute Brownsboro/Medical Records/2019-10-08-Amy-Mills-Medical-Norton
-  Neuroscience Institute Brownsboro-Medical-Records-Norton-Neuroscience-Institute-Office-Visit-Facesheet-and-Notes.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Norton Neuroscience Institute Brownsboro/Medical Records/2019-10-08-Amy-Mills-Medical-Norton Neuroscience Institute Brownsboro-Medical-Records-Norton-Neuroscience-Institute-Office-Visit-Facesheet-and-Notes.pdf
 source_hash: sha256:e36e4b9230bf5ff395e15f8b2d2eb9e062c1d2f60e1dc8ce21f6ece9e7fbca28
+contact: "[[cases/2019-04-26-prl-001/contacts/norton-neuroscience-institute-brownsboro]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 NORTON PHYSICIANS 
 SERVICES

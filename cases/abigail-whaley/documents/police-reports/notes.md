@@ -20,6 +20,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Abigai
 source_hash: sha256:1663b2c53b4687e016d1e1374ba013f9874467a88a89e626ff61a31d2bc20b54
 ---
 
+**Case:** [[cases/abigail-whaley/abigail-whaley|Abigail Whaley]]
+**Client:** [[cases/abigail-whaley/contacts/abigail-whaley|Abigail Whaley]]
+
 item_0.episode_type: treatment_milestone
 item_0.note: Client Abigail Whaley has finished treating with all treatment providers. Treatment period: [DOB-60] through approximately [DOB-59]. Providers included Norton Hospital ER, Norton Emergency Medicine, Diagnostic Imaging of Louisville, and Prorehab of Louisville (physical therapy). Case is now ready to move toward demand preparation phase. Need to ensure all final medical records and bills are obtained before proceeding with demand.
 item_0.note_summary: Treatment Complete - All Providers

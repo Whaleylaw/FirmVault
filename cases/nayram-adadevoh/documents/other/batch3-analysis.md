@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:c9314e02689fbbe37ba5ebda1b0865bb1653209985026511b5fc2986fe9b67ba
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 batch_info.assigned_indices: 82-122
 batch_info.batch_number: 3
 batch_info.total_files_in_batch: 41

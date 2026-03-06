@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:ea2d046abc7700b3858351203297e6cd5bedae659dfe40a16c379178be53ba5d
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Subject: RE: Amy Mills v Forcht Bank
 From: [EMAIL-1]
 To: [EMAIL-2]

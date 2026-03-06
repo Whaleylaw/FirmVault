@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:66869a47e9d538bc5e458dd08dbd67c7378f529f1e753ae9a2f5cad3e2df4618
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 KENTUCKIANA COURT REPORTERS
 [PHONE-1]
 INVOICE _...

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Elizab
 source_hash: sha256:e930b4d0bd1f26992d58aa928f5ec87b1c106536f5c8d2098ba4ab9ab10d9cf6
 ---
 
+**Case:** [[cases/elizabeth-lindsey/elizabeth-lindsey|Elizabeth Lindsey]]
+**Client:** [[cases/elizabeth-lindsey/contacts/elizabeth-lindsey|Elizabeth Lindsey]]
+
 o >
 3a PAT. CHILDRENS HOS MED CTR-CH [CHILD HOS MED CTR COM art#| [PHONE-2] ae
 3333 BURNET AVENUE 3337 SOLUTIONS CTR Rees (11772261 @131

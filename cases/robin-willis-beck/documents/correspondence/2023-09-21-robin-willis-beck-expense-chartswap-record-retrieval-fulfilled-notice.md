@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:2038492b99b9d9030f649cd91b167481f7d63fdd8fc0eedfa7ee843babd278ee
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 Subject: Your Record Request Has Been Fulfilled
 From: [EMAIL-2]
 To: sarena@whaleylawfirm.com

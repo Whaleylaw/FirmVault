@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Hope-R
 source_hash: sha256:49987dd3f29860f5bbf01639e9777c7adc08840a612af3aadc9dfaa1ef0511db
 ---
 
+**Case:** [[cases/hope-renee-padgett/hope-renee-padgett|Hope Renee Padgett]]
+**Client:** [[cases/hope-renee-padgett/contacts/hope-renee-padgett|Hope Renee Padgett]]
+
 PRB/13/2024/TUE 02:55 PM PAX Mo, P,003
 Linton Spine & Joint Center, LLC (TIN#: xx-xx28583)
 107 Brandon Way

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:da53c5f12d42be1541f4b1ca4b776806f189470bf10962774d3b3c036817fdbc
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 Subject: Automatic reply: 3rd Party Liability Lien Request - Cora Payne WC DOI [DOB-1]
 From: [EMAIL-4]
 To: sarena@whaleylawfirm.com

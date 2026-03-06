@@ -35,6 +35,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:edb694c0e34b36be38aeb3e3c555e2a69c232e0752089b9f98d606b4aceebff6
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 item_0.author_name: Aaron
 item_0.episode_type: imported
 item_0.last_activity: 2025-10-23T00:00:00

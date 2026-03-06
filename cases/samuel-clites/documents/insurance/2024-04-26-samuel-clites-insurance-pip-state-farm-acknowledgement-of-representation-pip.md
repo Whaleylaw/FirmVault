@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Samuel
 source_hash: sha256:62d5a734da13b3e2155d2b32cbb57d7f51e485dbc9d18ad65656cb5fad80e91d
 ---
 
+**Case:** [[cases/samuel-clites/samuel-clites|Samuel Clites]]
+**Client:** [[cases/samuel-clites/contacts/samuel-clites|Samuel Clites]]
+
 DUE TO PROTECTION OF PRIVACY OBLIGATIONS AND INTERNAL SYSTEM INTEGRITY, STATE FARM MUTUAL 
 AUTOMOBILE INSURANCE COMPANY DOES NOT ACCEPT TIME-SENSITIVE OR ACTION-ORIENTED MESSAGES DELIVERED 
 VIA EMAIL THAT INVOLVE ACCESSING A CYBERLINK, APPLICATION, DIGITAL DROPBOX OR OTHER THIRD-PARTY 

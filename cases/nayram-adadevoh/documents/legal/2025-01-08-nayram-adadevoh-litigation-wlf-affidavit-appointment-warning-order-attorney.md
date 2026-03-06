@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:751efda706ec4b66b16250cfbccfd7e7a9501bb6e92a99e488b5e66257f76304
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 CASE NO. JEFFERSON CIRCUIT COURT
 DIVISION (_)
 JUDGE

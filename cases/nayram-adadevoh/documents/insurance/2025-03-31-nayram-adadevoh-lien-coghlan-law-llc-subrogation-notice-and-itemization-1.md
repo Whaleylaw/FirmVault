@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:7ccda3b4f7854e26c29f053aba3e22e9bebb61530938ef1a434e853e284562ab
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 COGHLAN LAW LLC
 BARBARA J. COGHLAN ATTORNEYS AT LAW Mark J. COGHLAN
 JULIE M, JANOTA 875 NORTH MICHIGAN AVENUE +SUITE 3707 DaviD W. GROUNDWATER

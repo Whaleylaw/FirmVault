@@ -1,18 +1,22 @@
 ---
 case_slug: michael-johnston
-created_at: 2026-02-17 00:07:06.615000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1978-04-21
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2023-05-03-OTH-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michael-Johnston-WC-05-03-2023/Medical/OasisSpace/Record
-  Requests/2024-04-02-Michael-Johnston-Medical-OasisSpace-Record-Requests-WLF-Medical-Records-Request.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michael-Johnston-WC-05-03-2023/Medical/OasisSpace/Record Requests/2024-04-02-Michael-Johnston-Medical-OasisSpace-Record-Requests-WLF-Medical-Records-Request.pdf
 source_hash: sha256:b662c72af21bbf03ac5062e5d01c4dba9f6ec6ac504fc6715a85aba73aa045fc
+contact: "[[cases/2023-05-03-oth-001/contacts/oasisspace]]"
 ---
+
+**Case:** [[cases/michael-johnston/michael-johnston|Michael Johnston]]
+**Client:** [[cases/michael-johnston/contacts/michael-johnston|Michael Johnston]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:4c0d8b8f4ee0d492e8f2b1d7ec07ac1a361b48c3b091304eccb8ec3b7cb5cf05
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 T-Mobile Cost Reimbursement Program
 ***PLEASE TAKE NOTICE***
 Attached is a new list of reimbursement rates for services. We continue to look for ways to simplify the 

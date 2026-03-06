@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:a5f00f97aed8434e16e950c1d21fb27ba9e14097d85997086bcae72afd49e1c2
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 . Fy . = t 4 fox a : \ s _ = ied ‘ f : fA H tu af > e 2 . fee i iH Fi Aaron Whales Psu. 450 South Th street, sure Jul Pesupec allo EY det} lina Su a54102 PAN S02 3h49363
 
 NON SOLICITATION AFFIDAVIT

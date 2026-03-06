@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2022-12-05-OTH-001
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-Hall-WC-[DOB-440]/Medical/2025-01-31-Cora-Hall-Whaley-Law-Firm-Request-for-Records.pdf"
 source_hash: "sha256:dc47c3501ccb98fcde30df5c13d0eb94298ff14d0add236564de04d748874ec2"

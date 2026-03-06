@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Mi'Ayl
 source_hash: sha256:f3c534f3f982327850de0bffb38064e90c314ee0826a096154f7e598b3738b35
 ---
 
+**Case:** [[cases/miayla-lopez/miayla-lopez|Mi'Ayla Lopez]]
+**Client:** [[cases/miayla-lopez/contacts/miayla-lopez|Mi'Ayla Lopez]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Mi'Ayla-Lopez-MVA-[DOB-1]/Investigation/2025-11-14-Mi'Ayla-Lopez-Investigation-Antonio-Lopez-Civilian-Traffic-Collision-Report.png

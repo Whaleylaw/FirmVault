@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:da03af31fa473c8a0db9c1e43d11325f09047781406e80471bf445b2d1ff598b
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 Subject: NCP (for eFiler) BARREN 23-CI-00659, MARSHALL, DEBRA VS. REED, JASMINE Envelope # 9684744
 From: [EMAIL-5]
 To: [EMAIL-4], Sarena@WhaleyLawFirm.com, [EMAIL-3]

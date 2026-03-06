@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:d195a73933f20a36132f895646f0e73928a53851c29260a376f948b9fb2385d9
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: insurance
 date: 2024-11-12
 description: Progressive Auto Insurance Renewal policy declarations page for policy period Nov 12, 2024 - May 12, 2025

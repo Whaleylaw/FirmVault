@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:e96beb1a18f99864aa434be1832b49e751b9f8c6a22f022fba49293de6c04e9d
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 Subject: Re: F/U with ortho
 From: sarena@whaleylawfirm.com
 To: [EMAIL-4]

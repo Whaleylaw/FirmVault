@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brigid
 source_hash: sha256:91325b9a404a0e367c086faad2a05b6dfb27e5ef7d7cc8274be8f30cd85d8665
 ---
 
+**Case:** [[cases/brigido-gonzalez-martinez/brigido-gonzalez-martinez|Brigido Gonzalez Martinez]]
+**Client:** [[cases/brigido-gonzalez-martinez/contacts/brigido-gonzalez-martinez|Brigido Gonzalez Martinez]]
+
 item_0.episode_type: correspondence
 item_0.note: Letter of Representation sent to Trexis Insurance Corporation for BI claim #906237. Requested acknowledgment within 3 business days (due 2026-01-08) and sworn statement with policy details within 30 days (due 2026-02-04). Requested information includes: policy effective date, PD/BI liability limits, UM limits, other available coverage, copy of insurance policy, coverage defenses, claim numbers, and medical payment coverage amounts.
 item_0.note_summary: Letter of Representation Sent to Trexis Insurance

@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:6d73e62a3d67b4aaf238953ba8e2841cca2214847cf3048071a5d12fcc14ebef
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 item_0.action: MOVE
 item_0.confidence: medium
 item_0.extraction_source: BOI ADJUSTER-DANIELLE PARKER STATEMENT_extraction.json

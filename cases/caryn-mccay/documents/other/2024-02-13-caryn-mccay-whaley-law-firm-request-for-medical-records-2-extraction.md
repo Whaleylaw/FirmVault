@@ -1,8 +1,8 @@
 ---
 case_slug: caryn-mccay
-created_at: 2026-02-16 22:18:28.864000+00:00
+created_at: {}
 document_category: other
-document_date: 2024-02-13
+document_date: {}
 document_type: other
 extraction_method: native_text
 legacy_case_id: 2023-07-30-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 85
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-McCay-MVA-7-30-2023/extractions/2024-02-13-Caryn-McCay-Whaley-Law-Firm-Request-for-Medical-Records-2_extraction.json
 source_hash: sha256:2697951626bf7e4ad7c2518b9b9e4e1b4e8b297ea8950d170a8164f8be0c7c18
+contact: "[[cases/2023-07-30-mva-001/contacts/caryn-mccay]]"
 ---
+
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 
 category: legal_documents
 description: Request for medical records from Whaley Law Firm

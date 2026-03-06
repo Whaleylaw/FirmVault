@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:e7d0659ec8b63e0a20b8948d42e8a453a81d7bb776fb9231971c6908ddba79a4
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 item_0.adjuster_email: [EMAIL-1]
 item_0.adjuster_phone: [PHONE-5] Main
 item_0.claim_number: 24-711062492

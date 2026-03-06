@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ceceli
 source_hash: sha256:2c19380a08eab018d174dc52b00d6169409b312bafe546360d2058d3afe062e2
 ---
 
+**Case:** [[cases/cecelia-neltner/cecelia-neltner|Cecelia Neltner]]
+**Client:** [[cases/cecelia-neltner/contacts/cecelia-neltner|Cecelia Neltner]]
+
 Subject: Claim 17-47Q-474T Cecelia Neltner
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

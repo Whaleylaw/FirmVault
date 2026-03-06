@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:bde7024b51ac225a4d62785aaf299245cd3005725f39aa5dd3668c7e14890c48
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 Criminal Division
 Civil Process Unit
 We have updated our Civil Process software and as a result, we have had to create a

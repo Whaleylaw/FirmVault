@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Abby-S
 source_hash: sha256:9adf35ce1e09fb22fa1793937100353a2a2cdec48826c4f5fdaec8a005d17c8c
 ---
 
+**Case:** [[cases/abby-sitgraves/abby-sitgraves|Abby Sitgraves]]
+**Client:** [[cases/abby-sitgraves/contacts/abby-sitgraves|Abby Sitgraves]]
+
 712 Lyndon Lane ● Louisville, KY 40222 ● Phone: [PHONE-1] ● Fax: [PHONE-2] 
 May 9, 2025 
 Sent via email to: [EMAIL-3]

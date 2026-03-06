@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Connie
 source_hash: sha256:48ff11404c019ba8571d66610a0af8793da472712aa08ee84020b3db08a27d8f
 ---
 
+**Case:** [[cases/connie-goree/connie-goree|Connie Goree]]
+**Client:** [[cases/connie-goree/contacts/connie-goree|Connie Goree]]
+
 Aaron G. Whaley, Esq.
 712 Lyndon Lane
 Louisville, KY 40222

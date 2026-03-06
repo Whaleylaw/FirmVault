@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:c548b22d7561d7c9544b38b064549f4f30c66a852a4c92f2a69e117e4a483078
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 content_length_chars: 15949
 document_metadata.cc_emails[0]: [EMAIL-7]
 document_metadata.cc_emails[1]: [EMAIL-6]

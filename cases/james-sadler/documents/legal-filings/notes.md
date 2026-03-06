@@ -23,6 +23,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:8297d13c95474882c5617a3d8e94011fa5f3a4db7bbe60ce89f012bf89a5c7a6
 ---
 
+**Case:** [[cases/james-sadler/james-sadler|James Sadler]]
+**Client:** [[cases/james-sadler/contacts/james-sadler|James Sadler]]
+
 item_0.author_name: Roscoe (AI Paralegal)
 item_0.episode_type: imported
 item_0.last_activity: 2025-12-01T00:00:00

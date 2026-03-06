@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:adae0fe9101ed896984614110cb2de37e9ba485aba2705fba45cf132b2e1acaa
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 category: medical
 date: 2025-11-06
 description: Organized copy of attestation document dated November 6, 2025 certifying that UofL Hospital records provided are true and accurate copies for emergency department treatment on 9/3/2025.

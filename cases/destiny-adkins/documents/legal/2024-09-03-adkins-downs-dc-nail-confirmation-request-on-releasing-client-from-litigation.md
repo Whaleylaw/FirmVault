@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Destin
 source_hash: sha256:a8b80f1ff37dd3d58fb27138f9bbaeaf19f6f382dd0a82d769bee2dfe225677c
 ---
 
+**Case:** [[cases/destiny-adkins/destiny-adkins|Destiny Adkins]]
+**Client:** [[cases/destiny-adkins/contacts/destiny-adkins|Destiny Adkins]]
+
 Subject: RE: Destiny Adkins, et al. v. Stephanie Nail, et al. (Jefferson Circuit 22-CI-002878)
 From: [EMAIL-1]
 To: [EMAIL-2], [EMAIL-21]

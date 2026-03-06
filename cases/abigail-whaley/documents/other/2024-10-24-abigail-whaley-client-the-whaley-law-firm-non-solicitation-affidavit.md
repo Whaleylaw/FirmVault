@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Abigai
 source_hash: sha256:f50c920a3fa52e465ec7444e2d8240820c6182c80b66609c476eb025ac969de6
 ---
 
+**Case:** [[cases/abigail-whaley/abigail-whaley|Abigail Whaley]]
+**Client:** [[cases/abigail-whaley/contacts/abigail-whaley|Abigail Whaley]]
+
 Verification Complete
 The document has been officially verified.
 Recipient1

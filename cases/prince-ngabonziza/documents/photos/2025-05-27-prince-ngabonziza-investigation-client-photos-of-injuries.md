@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Prince
 source_hash: sha256:be87c07633f36d5bc1cfa0e86be20a73dc8ad8265e5c133af1c61d3700027324
 ---
 
+**Case:** [[cases/prince-ngabonziza/prince-ngabonziza|Prince Ngabonziza]]
+**Client:** [[cases/prince-ngabonziza/contacts/prince-ngabonziza|Prince Ngabonziza]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Prince-Ngabonziza-MVA-5-27-2025/Investigation/2025-05-27-Prince-Ngabonziza-Investigation-Client-Photos-of-Injuries.jpg

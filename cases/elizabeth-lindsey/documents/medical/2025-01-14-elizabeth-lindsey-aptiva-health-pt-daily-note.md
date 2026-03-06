@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Elizab
 source_hash: sha256:7d16dee0ad7494892de323133e6cdc1b7f4163f502c4781c7992c5d7b15e6de5
 ---
 
+**Case:** [[cases/elizabeth-lindsey/elizabeth-lindsey|Elizabeth Lindsey]]
+**Client:** [[cases/elizabeth-lindsey/contacts/elizabeth-lindsey|Elizabeth Lindsey]]
+
 Aptiva Health
 12300 Plantside Drive, Louisville, KY 40299-6345
 PT Daily Note Note

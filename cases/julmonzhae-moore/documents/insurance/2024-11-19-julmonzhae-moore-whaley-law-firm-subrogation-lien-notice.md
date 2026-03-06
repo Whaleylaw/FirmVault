@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmon
 source_hash: sha256:82f7406a4afe38d1f4f2b00d553ac17cd86e257ad011009c4c77385245a17158
 ---
 
+**Case:** [[cases/julmonzhae-moore/julmonzhae-moore|Julmonzhae Moore]]
+**Client:** [[cases/julmonzhae-moore/contacts/julmonzhae-moore|Julmonzhae Moore]]
+
 @ [DOB-1] 2:16 PM CT Fax Services >[PHONE-2] pg lof8
 TEAMCARE’
 A CENTRAL STATES HEALTH PLAN Central States Health & Welfare Fund

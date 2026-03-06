@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:3a7b6193014365102f63144b05ec01ad84de6c8bfa7c90f04b192095ff67b7dc
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 Subject: Completed: The Whaley Law Firm has requested your verification & signature.
 From: [EMAIL-2]
 To: [EMAIL-2]

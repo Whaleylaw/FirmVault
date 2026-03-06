@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:8fb3a98dbd875da6936913bb005b0bc30ca5b28e62ec3a52cce5276e6b54625e
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: Re: Noble v. Sewell, et al.
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

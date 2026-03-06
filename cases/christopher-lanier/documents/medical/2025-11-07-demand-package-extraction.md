@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:b90b7234f9e7c0f56cf2b559978547c28dc1d4d0c1247b5cdd8b060ad093809c
 ---
 
+**Case:** [[cases/christopher-lanier/christopher-lanier|Christopher Lanier]]
+**Client:** [[cases/christopher-lanier/contacts/christopher-lanier|Christopher Lanier]]
+
 extraction.classification.bucket: Negotiation Settlement
 extraction.classification.confidence: high
 extraction.classification.document_type: settlement_demand

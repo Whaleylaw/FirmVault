@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:60536f47336a78dde606ef60118886be96c578c8d09d7b4dd8a0e5f67daec7d4
 ---
 
+**Case:** [[cases/robin-wilder-hamilton/robin-wilder-hamilton|Robin Wilder Hamilton]]
+**Client:** [[cases/robin-wilder-hamilton/contacts/robin-wilder-hamilton|Robin Wilder Hamilton]]
+
 address: 9062 KY 344, Vanceburg, KY 41179
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

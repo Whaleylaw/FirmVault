@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:4335dec6adf892354dcf0d00663338e860ca23b6e147d30e9ca93f057a9db130
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: evidence
 date: 2024-12-01
 description: Photo showing injuries sustained by Jeremy Lindsey in the accident on [DOB-1]. Report indicates a broken collar bone and wrist pain.

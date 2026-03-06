@@ -1,11 +1,10 @@
 ---
 case_slug: sariya-mason
-created_at: 2026-02-17 00:20:32.113000+00:00
+created_at: {}
 document_category: legal
-document_date: 2022-08-19
+document_date: {}
 document_type: legal
-entities:
-- Kentucky Farm Bureau
+entities: null
 extraction_method: native_text
 legacy_case_id: 2022-08-19-DB-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya-Mason-DB-08-19-2022/Litigation/2024-10-14-Sariya-Mason-Litigation-Barnes-Maloney-PLLC-Response-to-Interrogatories-and-RFP.pdf
 source_hash: sha256:00758d83a87b2c72a551806db32bc0505b3c942d84f242dd3b1defb7ec0e70c5
+contact: "[[cases/2022-08-19-db-001/contacts/barnes-maloney-pllc]]"
 ---
+
+**Case:** [[cases/sariya-mason/sariya-mason|Sariya Mason]]
+**Client:** [[cases/sariya-mason/contacts/sariya-mason|Sariya Mason]]
+
 
 CIVIL ACTION NO. 23-CI-006039 JEFFERSON CIRCUIT COURT 
 DIVISION SEVEN (7)

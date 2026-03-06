@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:f09cdbef78f631e6eb0a17c92368af00eb046a0a339c16eb3928b5b8ced95769
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 content_analysis.category: Medical Records
 content_analysis.date: 2024-07-25
 content_analysis.description: Medical records request

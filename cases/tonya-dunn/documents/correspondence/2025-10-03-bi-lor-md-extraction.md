@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Tonya-
 source_hash: sha256:3c8fd5f3c7e6414caaf2702cd1864aba61c86c4603fd7968fd2911258d0fc517
 ---
 
+**Case:** [[cases/tonya-dunn/tonya-dunn|Tonya Dunn]]
+**Client:** [[cases/tonya-dunn/contacts/tonya-dunn|Tonya Dunn]]
+
 category: Insurance
 description: BI letter markdown
 document_type: legal_correspondence

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel
 source_hash: sha256:11c588574584281870c7ecae645e2c23770d25a276a67663a1e5b39caa71d00f
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 *4002000 [PHONE-1] [PHONE-13]"
 
 003531" SFiieco |Insurance..,

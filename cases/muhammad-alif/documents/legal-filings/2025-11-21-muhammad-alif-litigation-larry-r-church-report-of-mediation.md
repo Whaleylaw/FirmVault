@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:c65e31cee3f7eb2d002ae0811e5bc53cfd7583b268b755b87b47efa7184735be
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 NO. 23-CI-005509 IN THE JEFFERSON CIRCUIT 
 COURT
 SEVEN (7)

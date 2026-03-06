@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Tonya-
 source_hash: sha256:8aeba9320ed1a200b22d74bb942642c10f35d865f3425d8f87c9b909ee192daf
 ---
 
+**Case:** [[cases/tonya-dunn/tonya-dunn|Tonya Dunn]]
+**Client:** [[cases/tonya-dunn/contacts/tonya-dunn|Tonya Dunn]]
+
 case_folder: Tonya-Dunn-MVA-9-24-2025
 job_id: file-org-fbf756fc
 phases.execution.notes: Starting execution phase - generating execution plan

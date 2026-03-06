@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:be1d23db0fac82e58a6b59e26e64093ee546294118eaa2c012f6d47f5b332b97
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 Doverside Emergency Physicians PLLC
 3441 Dickerson Pike
 Nashville, TN 37207

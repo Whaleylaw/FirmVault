@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya
 source_hash: sha256:921584fee502e1ac48f7d2da62cd018356ead2456508ca713df5d5402b83e2ab
 ---
 
+**Case:** [[cases/sariya-mason/sariya-mason|Sariya Mason]]
+**Client:** [[cases/sariya-mason/contacts/sariya-mason|Sariya Mason]]
+
 CIVIL ACTION NO. 23-CI-006039 JEFFERSON CIRCUIT COURT
 DIVISION SEVEN (7)
 SCHRICE THOMAS as next of kin

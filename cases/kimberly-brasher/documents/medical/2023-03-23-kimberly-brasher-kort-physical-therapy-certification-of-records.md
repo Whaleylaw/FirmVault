@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:a4c1b04d6bd0b2a65a212c4a175f213ca6173c64894b53d2cf4b262b80fa8629
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 CERTIFICATION OF MEDICAL RECORDS AFFIDAVIT
 Mariel Sosa , being first duly sworn on his/her oath, says that:
 (Name of records custodian/clerk)

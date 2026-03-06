@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:b9b60e65fc8f41586e4f093e1a0ac06a253d47d54f8d0aa7790ec3834728ddea
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 extraction.classification.bucket: Negotiation Settlement
 extraction.classification.confidence: high
 extraction.classification.document_type: settlement_demand

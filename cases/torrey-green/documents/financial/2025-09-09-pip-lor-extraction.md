@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:d545b0750fea38db81f9b5585b03d946f224674b99bb5d2016ceb3e7767a7405
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 category: insurance
 date: 2025-09-09
 description: Letter of Representation to Elco Insurance for PIP claim dated September 9, 2025. Notifies insurer that Whaley Law Firm represents Cory Stepheson and Torrey Green for 9/3/2025 accident. Instructs to hold $4,000 reserve and use $6,000 to pay bills except hospital-related.

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:c4217b81f1476d557239f9dcf100cd262385312c04aec6dcfb48a4b22f1a3194
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 extraction.classification.bucket: Investigation
 extraction.classification.confidence: high
 extraction.classification.document_type: first_report_of_injury

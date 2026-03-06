@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:ae15ff61283e4334a4c783be13ea9c1f6755d844f57b11f455d856234ce73319
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Subject: Amy Jo Mills viewed Please DocuSign: 2021 Whaley Medical Authorization (HIPAA).pdf
 From: [EMAIL-2]
 To: [EMAIL-2]

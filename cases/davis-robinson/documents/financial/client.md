@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-
 source_hash: sha256:3c83550351a7f9049146f792d4d3aaf8eca11760cbe800b98057a63844ddf530
 ---
 
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 address: 9861 Cherbourg Dr, Union, KY 41091
 date_of_birth: [DOB-1]
 imported_at: 2026-02-16T21:09:42.781Z

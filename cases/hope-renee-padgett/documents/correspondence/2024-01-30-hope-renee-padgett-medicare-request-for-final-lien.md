@@ -1,11 +1,10 @@
 ---
 case_slug: hope-renee-padgett
-created_at: 2026-02-16 23:48:37.739000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 2023-01-16
+document_date: {}
 document_type: correspondence
-entities:
-- Progressive
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-01-16-MVA-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Hope-Renee-Padgett-MVA-1-16-2023/Liens/2024-01-30-Hope-Renee-Padgett-Medicare-REQUEST-FOR-FINAL-LIEN.pdf
 source_hash: sha256:d72870b24e5bc0d37a571e283c48bc97e418210b08cbc3ec7dacf7f4b8e463ae
+contact: "[[cases/2023-01-16-mva-001/contacts/medicare]]"
 ---
+
+**Case:** [[cases/hope-renee-padgett/hope-renee-padgett|Hope Renee Padgett]]
+**Client:** [[cases/hope-renee-padgett/contacts/hope-renee-padgett|Hope Renee Padgett]]
+
 
 Aaron G. Whaley, Esq.
 712 Lyndon Lane

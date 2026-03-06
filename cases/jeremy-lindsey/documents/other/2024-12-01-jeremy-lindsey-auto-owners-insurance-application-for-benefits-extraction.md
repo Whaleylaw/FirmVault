@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:dcfa09b6344786858034f52b071a5d415678c9dcdf58656ed8fc76b84c441b3a
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: insurance
 date: 2024-12-01
 description: Kentucky No-Fault Personal Injury Protection (PIP) Application for Benefits, claim [PHONE-1]-2024, accident 12/1/2024, chest and abdominal pain

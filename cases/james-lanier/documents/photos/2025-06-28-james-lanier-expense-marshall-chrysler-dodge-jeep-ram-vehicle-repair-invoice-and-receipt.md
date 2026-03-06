@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:dacc747754f11de2baa6457018f4b6d9cd67af36b9843da1905288da245640cf
 ---
 
+**Case:** [[cases/james-lanier/james-lanier|James Lanier]]
+**Client:** [[cases/james-lanier/contacts/james-lanier|James Lanier]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Lanier-MVA-6-28-2025/Expenses/2025-06-28-James-Lanier-Expense-Marshall-Chrysler-Dodge-Jeep-Ram-Vehicle-Repair-Invoice-and-Receipt.jpg

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:f2387618e1fef3548a4f233c349edbdb3c1288d646f30d186b8aa251ffb2c377
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 Subject: Your Deposition has been scheduled for February 5th, 2025 10am via Zoom
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

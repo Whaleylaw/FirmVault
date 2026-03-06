@@ -1,11 +1,10 @@
 ---
 case_slug: caryn-mccay
-created_at: 2026-02-16 22:16:58.075000+00:00
+created_at: {}
 document_category: medical
-document_date: 1972-11-30
+document_date: {}
 document_type: medical
-entities:
-- UK Good Samaritan Hospital
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-07-30-MVA-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-McCay-MVA-7-30-2023/Medical/2023-09-21-Caryn-McCay-UK-Good-Samaritan-Hospital-HIPAA-Authorization.pdf
 source_hash: sha256:ecce68ca65a9c08f83af24580dd06198eb6d5fd3508aa651f38e1312616c2cd7
+contact: "[[cases/2023-07-30-mva-001/contacts/caryn-mccay]]"
 ---
+
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 
 AUTHORIZATION TO RELEASE PROTECTED HEALTH CARE INFOR.MATION 
 TO:

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dana-J
 source_hash: sha256:ffdd6d05374aa8267af9632e1a6a604a573a340bb31234da899036e724e43b0d
 ---
 
+**Case:** [[cases/dana-jackson/dana-jackson|Dana Jackson]]
+**Client:** [[cases/dana-jackson/contacts/dana-jackson|Dana Jackson]]
+
 *Aaron G. Whaley, Esq.*
 *712 Lyndon Lane*
 *Louisville, KY 40222*

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:e293d3217ca0cafd0a83b1cccc0b6784c771f00e9ac96f6f512ad3c49cbb7b5f
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 Date Produced: [DOB-16]
 ConnectSuite Inc.:
 The following is the delivery information for Certified Mail™/RRE/RD item number 9236 0901 9403 8367

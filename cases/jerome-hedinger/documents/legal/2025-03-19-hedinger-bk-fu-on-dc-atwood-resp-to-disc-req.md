@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:eb361774b1cc1e83aa3973ef02a4862ff41704beff37ff8cec9d52c6b623d289
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 Subject: Re: Jerome Hedinger v. 432 Atwood, LLC, et al. (Jefferson 24-CI-006943)
 From: [EMAIL-1]
 To: [EMAIL-2], [EMAIL-15]

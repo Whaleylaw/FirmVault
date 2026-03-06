@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Abby-S
 source_hash: sha256:a00c35bb4f1a46e9a920b80df0099459e0cd0b383ac62065fb384aedead910ae
 ---
 
+**Case:** [[cases/abby-sitgraves/abby-sitgraves|Abby Sitgraves]]
+**Client:** [[cases/abby-sitgraves/contacts/abby-sitgraves|Abby Sitgraves]]
+
 DATE CLAIM PAYMENT PROVIDER NAME ICD9 LINE ITEM DIAG DESCRIPTION CHARGE INEL+SAVINGS COPAY PPODISC TOTAL PAID
 20240713 [PHONE-17] JEWISH HOSPITAL M25561 Pain in right knee $1.00 $1.00 $0.00 $1.00 $0.[PHONE-16] [PHONE-15] JEWISH HOSPITAL M25561 Pain in right knee $436.00 $436.00 $0.00 $436.00 $0.[PHONE-14] [PHONE-13] JEWISH HOSPITAL M25561 Pain in right knee $404.00 $404.00 $0.00 $404.00 $0.[PHONE-12] [PHONE-11] JEWISH HOSPITAL M25561 Pain in right knee $1,053.00 $1,053.00 $0.00 $1,053.00 $0.[PHONE-10] [PHONE-9] JEWISH HOSPITAL M25561 Pain in right knee $1,329.00 $1,004.25 $324.75 $1,004.25 $0.00
 20240713 [PHONE-10] ULP EMERGENCY MEDICINE S93401A Sprain of unspecified 

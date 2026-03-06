@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:02a4fb95f6e386ba6aeeb9adb85e9c6b2024f708a56d99c9679c3becfee4295b
 ---
 
+**Case:** [[cases/michael-johnston/michael-johnston|Michael Johnston]]
+**Client:** [[cases/michael-johnston/contacts/michael-johnston|Michael Johnston]]
+
 item_0.jsonb_agg[0].accident_date: 2023-05-03
 item_0.jsonb_agg[0].case_create_date: 2025-12-26T19:49:38.501823
 item_0.jsonb_agg[0].case_type: MVA

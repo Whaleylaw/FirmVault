@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:02bdf412bb3226b86ccbea10d2bed846c1f9d576634ca4ed3112977f67c7979c
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 CERTIFICATION OF MEDICAL BILLING RECORDS AFFIDAVIT
 ,being first duly sworn onhis/her oath, says that;
 (Name of records custodian/elerk)

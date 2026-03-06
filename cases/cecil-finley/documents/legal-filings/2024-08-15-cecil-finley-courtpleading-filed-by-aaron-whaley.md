@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:6e62360211e4b00869458d87e178bedb27439be608ed8390ce7a99687bc22dfe
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 Commonwealth of Kentucky
 David L. Nicholson, Jefferson Circuit Clerk
 Received From: AARON WHALEY Account Of: AARON WHALEY

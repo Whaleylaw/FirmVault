@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Henrie
 source_hash: sha256:7400cb4fc0e3776fa2d7f5f5f7ad52306edaeb3d2fce71c6a5834138baf34cca
 ---
 
+**Case:** [[cases/henrietta-jenkins/henrietta-jenkins|Henrietta Jenkins]]
+**Client:** [[cases/henrietta-jenkins/contacts/henrietta-jenkins|Henrietta Jenkins]]
+
 *Aaron G. Whaley, Esq.*
 *712 Lyndon Lane*
 *Louisville, KY 40222*

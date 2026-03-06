@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cory-S
 source_hash: sha256:8dddf46461b4728f8612a7d7ed61823d604eb5a110968c00dee6a72aab568ac0
 ---
 
+**Case:** [[cases/cory-stephenson/cory-stephenson|Cory Stephenson]]
+**Client:** [[cases/cory-stephenson/contacts/cory-stephenson|Cory Stephenson]]
+
 accident_date: 2025-09-03
 case_type: MVA
 client_name: Cory-Stephenson

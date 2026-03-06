@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2024-01-17-OTH-001
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Stich-WC-[DOB-1]/Correspondence/Email/2024-05-13-Amy-Stich-Correspondence-WLF-Email-Update-Regarding-Medical-Approval.eml"
 source_hash: "sha256:a7bfa49df2ccd0e591498fe8248e0e7c6d49221c8930ac25306693c89f73d4d8"

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:71b8885116ffb75ce2f091f1e5d6a0c3960f5a07dc9998aace26fc4d0de330f9
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 item_0.adjuster_email: [EMAIL-1]
 item_0.adjuster_phone: [PHONE-2]
 item_0.claim_number: WC80D-H07503

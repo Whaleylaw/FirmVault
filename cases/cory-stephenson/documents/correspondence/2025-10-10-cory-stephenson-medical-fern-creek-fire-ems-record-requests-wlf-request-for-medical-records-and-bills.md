@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cory-S
 source_hash: sha256:88a3a3cdd1f552c3fe930cc2e914a212aaa1010efc6a41e349be83637db97487
 ---
 
+**Case:** [[cases/cory-stephenson/cory-stephenson|Cory Stephenson]]
+**Client:** [[cases/cory-stephenson/contacts/cory-stephenson|Cory Stephenson]]
+
 *Aaron G. Whaley, Esq.*
 *712 Lyndon Lane*
 *Louisville, KY 40222*

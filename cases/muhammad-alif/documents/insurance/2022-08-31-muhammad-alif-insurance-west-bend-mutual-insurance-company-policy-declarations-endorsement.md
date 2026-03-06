@@ -1,8 +1,8 @@
 ---
 case_slug: muhammad-alif
-created_at: 2026-02-17 00:09:52.832000+00:00
+created_at: {}
 document_category: insurance
-document_date: 2022-03-01
+document_date: {}
 document_type: insurance
 extraction_method: native_text
 legacy_case_id: 2022-11-08-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Insurance/2022-08-31-Muhammad-Alif-Insurance-West-Bend-Mutual-Insurance-Company-Policy-Declarations-Endorsement.pdf
 source_hash: sha256:488977159802c6df816e5d110276627bf45cd905d6263a592fdb1c36d68f98be
+contact: "[[cases/2022-11-08-mva-001/contacts/west-bend-mutual-insurance]]"
 ---
+
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 
 Endorsement
 Policy Change Summary Declarations

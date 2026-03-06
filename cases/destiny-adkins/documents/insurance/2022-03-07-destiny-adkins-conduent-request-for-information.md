@@ -1,11 +1,10 @@
 ---
 case_slug: destiny-adkins
-created_at: 2026-02-16 23:26:09.401000+00:00
+created_at: {}
 document_category: insurance
-document_date: 2021-04-16
+document_date: {}
 document_type: insurance
-entities:
-- Allstate
+entities: null
 extraction_method: native_text
 legacy_case_id: 2021-04-16-MVA-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Destiny-Adkins-MVA-04-16-2021/Insurance/2022-03-07-Destiny-Adkins-Conduent-Request-for-Information.pdf
 source_hash: sha256:8bccd1b23a4e595387601ca4c72276abff73f84bc7eb7d6f97c8510f5b0b8dbc
+contact: "[[cases/2021-04-16-mva-001/contacts/conduent]]"
 ---
+
+**Case:** [[cases/destiny-adkins/destiny-adkins|Destiny Adkins]]
+**Client:** [[cases/destiny-adkins/contacts/destiny-adkins|Destiny Adkins]]
+
 
 e�U30 008149 008141 2 
 CONDUENT 

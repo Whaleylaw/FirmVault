@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brigid
 source_hash: sha256:ed8759772a9c80e7cc1fd15276888890632c636bdc05cd8f1d8142259e42ef2c
 ---
 
+**Case:** [[cases/brigido-gonzalez-martinez/brigido-gonzalez-martinez|Brigido Gonzalez Martinez]]
+**Client:** [[cases/brigido-gonzalez-martinez/contacts/brigido-gonzalez-martinez|Brigido Gonzalez Martinez]]
+
 item_0.adjuster_phone: [PHONE-1]
 item_0.claim_number: 906237
 item_0.insurance_adjuster_name: Carla Hoyle

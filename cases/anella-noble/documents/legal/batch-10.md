@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:d098aa4f95a5edcb9ac06a30ca856999ab816ad79423467cc4eb0aefb45dc98b
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 batch_number: 10
 count: 20
 files[0]: 2024-11-04-Anella-Noble-Baptist-Health-Louisville-Medical-Records-Request-2.pdf

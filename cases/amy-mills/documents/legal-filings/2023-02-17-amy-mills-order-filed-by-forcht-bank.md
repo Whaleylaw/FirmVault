@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:e9c488ef55f6301ccb5f5d7f99a21cb3f02abe388c5655782e1f9d247ab9acb7
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 7 ER TEREE
 COMMONWEALTH OF KENTUCKY GREG HELT
 KNOX CIRCUIT COURT

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:5b58afde9bb5e76d4ae844c78e3ac59b38f4784ab22e5d97bb7e307694b3d2bd
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: client
 date: 2025-01-10
 description: HIPAA compliant medical authorization form signed by Jeremy Lindsey authorizing release of medical records to Whaley Law Firm

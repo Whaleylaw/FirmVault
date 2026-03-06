@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:beb511f0d0aa6b43fd43fb3f54cb83cd754273541acb5cc3be0bb7ce95ef100c
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 Kentucky Farm Bureau
 Mutual Insurance Company
 CLAIM NUMBER

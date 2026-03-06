@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:4735c2b39b1716910f5a3769d748f798a01a03c4429a537665dbc51dacf44066
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 Subject: Re: Kimberly Brasher v Walgreens CO. - McLean Co - 24-CI-00012 - Mediation Scheduling
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

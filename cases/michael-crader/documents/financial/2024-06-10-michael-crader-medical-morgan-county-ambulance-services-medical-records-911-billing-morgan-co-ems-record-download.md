@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:2299ed08b691db039b49b5263251b5713debb7b933563bcc01a9a1aa885a91bf
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 Subject: Records- Crader
 From: [EMAIL-2]
 To: sarena@whaleylawfirm.com

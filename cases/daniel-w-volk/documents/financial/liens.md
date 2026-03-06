@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel
 source_hash: sha256:c826c95d02ca0764b71425111c1d859baa0df9c02973f261d9b63e977e5a178a
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 item_0.amount_owed_from_settlement: 2452.3
 item_0.date_notice_received: 2022-05-27
 item_0.final_lien_amount: 2452.3

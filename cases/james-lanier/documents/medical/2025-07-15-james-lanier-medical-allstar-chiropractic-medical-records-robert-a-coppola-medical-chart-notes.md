@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:b9738fced1cd64aa132953d7cb944a32793f7bddb5e2d04740dd0d9aedb02506
 ---
 
+**Case:** [[cases/james-lanier/james-lanier|James Lanier]]
+**Client:** [[cases/james-lanier/contacts/james-lanier|James Lanier]]
+
 Patient: Lanier, James"Jim" 
 Ins Co: State Farm Pol #: Insured ID: 17-87C9-86K
 Acct #: 224846 DOB: [DOB-417]

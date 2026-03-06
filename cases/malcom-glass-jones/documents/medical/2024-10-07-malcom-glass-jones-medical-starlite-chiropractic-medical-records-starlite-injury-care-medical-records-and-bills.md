@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Malcom
 source_hash: sha256:8287f6f7619391690210c131af502236671007f2ab442599ea45ef67265f6f89
 ---
 
+**Case:** [[cases/malcom-glass-jones/malcom-glass-jones|Malcom Glass Jones]]
+**Client:** [[cases/malcom-glass-jones/contacts/malcom-glass-jones|Malcom Glass Jones]]
+
 Jun.27.2025 02:11 PMTri-State [PHONE-16] PB1/20
 .sabee bo
 tdn-moyjo) Joy saquNU auoyg

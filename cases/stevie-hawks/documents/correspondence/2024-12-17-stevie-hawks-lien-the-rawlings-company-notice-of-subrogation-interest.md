@@ -1,8 +1,8 @@
 ---
 case_slug: stevie-hawks
-created_at: 2026-02-17 00:23:51.266000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 2024-03-08
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2024-03-08-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie-Hawks-MVA-3-8-2024/Liens/2024-12-17-Stevie-Hawks-Lien-The-Rawlings-Company-Notice-of-Subrogation-Interest.pdf
 source_hash: sha256:44e0f28256252e90f358168c1627a4f59a033750187559ecadc435b8939e2331
+contact: "[[cases/2024-03-08-mva-001/contacts/rawlings-company]]"
 ---
+
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 
 THE Post Office Box2000
 » RAWLINGS LaGrange, Kentucky40091-2000

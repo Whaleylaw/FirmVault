@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:5c6f690f593f451a03a566ac2416f2ff3c83de8eb0ea14817260012c8341dc10
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 February 8, 2021
 Safeco
 ATTN: Ronald Gauntt

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:e31730784cd419dcf3aacbbb2e184e5e7679eeedf197fae5d08d66885e759932
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 extraction.classification.bucket: Investigation
 extraction.classification.confidence: high
 extraction.classification.document_type: investigation_evidence

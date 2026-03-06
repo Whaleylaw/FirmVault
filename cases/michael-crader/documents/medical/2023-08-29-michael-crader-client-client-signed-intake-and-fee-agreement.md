@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:ea547c0a9a489ef4f042b83ce283d9844c64ad60eba3bffedbc4661bb63e3056
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 Aaron G. Whaley, Esq.
 SHE <x - 712 Lyndon Lane
 \ A y H A j - Y Louisville, KY 40222 Y VV Au Ay Ph: [PHONE-12]

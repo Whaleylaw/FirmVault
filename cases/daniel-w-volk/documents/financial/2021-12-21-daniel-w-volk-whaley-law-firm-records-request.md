@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel
 source_hash: sha256:a75638d5dd0db7fcf850f5cf03bce84d4490c85f6545f6dd8ec0ee89d6436c83
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 wee"AUTO*MIXED ADC 300
 1016 3 MB 1.291 001016
 WHALEY LAW FIRM

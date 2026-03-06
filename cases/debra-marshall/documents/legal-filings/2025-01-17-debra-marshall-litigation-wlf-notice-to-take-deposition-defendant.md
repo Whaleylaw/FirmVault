@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:0dad9766bef533d68b3371c33b46aea59b0f6ceea04a0e6b78e1b2dfe9f1997b
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 NO. 23-CI-00659                  BARREN COUNTY CIRCUIT COURT
 
 DIVISION ONE (1)

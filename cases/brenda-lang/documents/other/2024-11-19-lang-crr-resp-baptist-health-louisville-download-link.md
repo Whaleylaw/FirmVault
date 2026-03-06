@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:c16f0886059b8f7df7b0ffccdc69a94cb9e207e531f39b3f4207300d91b0264f
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 Subject: You've been added to a workspace
 From: [EMAIL-1]
 To: Sarena@WhaleyLawFirm.com

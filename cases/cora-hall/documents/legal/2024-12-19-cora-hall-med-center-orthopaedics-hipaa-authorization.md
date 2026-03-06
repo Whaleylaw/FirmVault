@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:8fb77f52dd99ce63adb3fcc625b86f1613b9b5a5bfd0f6465c6e0d430584f58b
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 datavant.com
 Protect.
 Connect.

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor
 source_hash: sha256:7d935e3f73475eaaa6d899a839a1d7450ca968f8e7a5e358fb9dd17403fc337f
 ---
 
+**Case:** [[cases/taylor-thompson/taylor-thompson|Taylor Thompson]]
+**Client:** [[cases/taylor-thompson/contacts/taylor-thompson|Taylor Thompson]]
+
 ** INBOUND NOTIFICATION : FAX RECEIVED SUCCESSFULLY **
 TIME RECEIVED REMOTE CSID DURATION PAGES STATUS
 January 7, 2025 at 1:43:39 PM EST FSP45709 189 7 Received

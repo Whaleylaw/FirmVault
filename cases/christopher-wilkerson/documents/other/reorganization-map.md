@@ -12,4 +12,7 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:ea7e04c2ead8d34cf0f78a959aa416c8c9b96ef934e70c35cde17e05ab9fff4f
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 Error: Parsing error: Failed to parse JSON: trailing characters at line 919 column 1

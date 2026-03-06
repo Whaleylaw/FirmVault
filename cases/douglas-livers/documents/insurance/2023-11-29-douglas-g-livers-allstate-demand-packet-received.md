@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:410f72cef9866e1d1ab18cbfc64571f763e2b556a0e30f5b4c1c36a58e883019
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 Allstate Property and Casualty Insurance Company Allstate." ®DALLAS TX 75266
 You're ingood hands.
 ele ele ypetl ee ee

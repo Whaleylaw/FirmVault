@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/France
 source_hash: sha256:0641ca66f1d654ba89303669ec826da0b91c886b0f09958e8a931ae9f0415395
 ---
 
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 Application for Resolution of a Claim – Injury
 February 2020 Edition
 Filed:

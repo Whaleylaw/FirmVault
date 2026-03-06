@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ceceli
 source_hash: sha256:8ac3dc7ea58473756e86603d2d82b2d6523b9da8e40e8bfbb0acf50089819df3
 ---
 
+**Case:** [[cases/cecelia-neltner/cecelia-neltner|Cecelia Neltner]]
+**Client:** [[cases/cecelia-neltner/contacts/cecelia-neltner|Cecelia Neltner]]
+
 NO. 24 -CI-00452 BOONE COUNTY CIRCUIT COURT 
 DIVISION THREE (3) 
 JUDGE HON. JAMES R. SCHRAND 

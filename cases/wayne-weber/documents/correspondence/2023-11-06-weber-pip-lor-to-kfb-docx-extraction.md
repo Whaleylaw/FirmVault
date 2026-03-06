@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:51bf4f74fa42228e41bce15c6efc8dcef23638c5d65f3ca5dd69ad3e1648edf1
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: insurance_correspondence
 extraction.date: 2023-11-06
 extraction.description: PIP letter of representation to Kentucky Farm Bureau (KFB) regarding Wayne Weber's case dated November 6, 2023.

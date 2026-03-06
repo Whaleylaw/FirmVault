@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sean-M
 source_hash: sha256:c95cafd9e5f7e7ade2dff6046fd85af1c7f187f7fad7b315d62da45a0244db93
 ---
 
+**Case:** [[cases/sean-may/sean-may|Sean May]]
+**Client:** [[cases/sean-may/contacts/sean-may|Sean May]]
+
 *Aaron G. Whaley, Esq.*
 *712 Lyndon Lane*
 *Louisville, KY 40222*

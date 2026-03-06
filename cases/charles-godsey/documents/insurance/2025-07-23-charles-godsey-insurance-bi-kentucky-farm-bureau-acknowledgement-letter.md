@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:933649f4c52d1cca1355ca119786fcecbef3cb9a4222cfa9f5f99cc3baa3efb1
 ---
 
+**Case:** [[cases/charles-godsey/charles-godsey|Charles Godsey]]
+**Client:** [[cases/charles-godsey/contacts/charles-godsey|Charles Godsey]]
+
 CLAIM NUMBER 05117901
 
 POLICY NUMBER [PHONE-4]

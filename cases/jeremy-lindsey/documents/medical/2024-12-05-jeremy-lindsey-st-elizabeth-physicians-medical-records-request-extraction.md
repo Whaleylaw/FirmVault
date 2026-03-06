@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:c9bb5f072a9829b9e608d25dd644cf58cd310ba4b0a13f1105f40b8f8dcb45b7
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: legal
 date: 2024-12-05
 description: Medical records request letter and HIPAA authorization for Jeremy Lindsey's medical records from St. Elizabeth Physicians - Burlington for dates December 1, 2024 to Present

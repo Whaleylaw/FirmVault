@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:71f657c5ddca6465ef616d3b75998590e916fa7e61c74758c0b125aafa2dbeb9
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 category: insurance_policy
 confidence: high
 date: 2022-08-03

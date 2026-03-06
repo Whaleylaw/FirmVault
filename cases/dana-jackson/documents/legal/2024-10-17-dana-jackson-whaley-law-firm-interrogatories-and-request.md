@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dana-J
 source_hash: sha256:774a62772778d50bf96c0ec46a9cdcb3a4ef02faa274e0fc40709ed2491cc4bb
 ---
 
+**Case:** [[cases/dana-jackson/dana-jackson|Dana Jackson]]
+**Client:** [[cases/dana-jackson/contacts/dana-jackson|Dana Jackson]]
+
 NO. 24-CI-005774 JEFFERSON CIRCUIT COURT 
  DIVISION EIGHT (8) 
  JUDGE JENNIFER BRYANT WILCOX 

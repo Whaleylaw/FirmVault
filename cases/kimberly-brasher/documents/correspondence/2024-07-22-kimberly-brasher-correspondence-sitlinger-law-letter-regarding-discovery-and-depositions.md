@@ -1,8 +1,8 @@
 ---
 case_slug: kimberly-brasher
-created_at: 2026-02-17 00:01:46.027000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 2024-07-22
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2023-02-25-PrL-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimberly-Brasher-Premise-2-25-2023/Correspondence/2024-07-22-Kimberly-Brasher-Correspondence-Sitlinger-Law-Letter-Regarding-Discovery-And-Depositions.pdf
 source_hash: sha256:af964a20d2a85dd92847ae5752e055dad56a666f6ed9acd0281bba757e588565
+contact: "[[cases/2023-02-25-prl-001/contacts/sitlinger-law]]"
 ---
+
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 
 SITLINGER LAW 
 320 WHITTINGTON PARKWAY SUITE 304

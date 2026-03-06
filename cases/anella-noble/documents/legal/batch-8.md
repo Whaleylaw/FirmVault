@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:d8d32e614a49d81e94148d2e5f1d92952f53616a5e21b676998bacb542fd16ed
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 batch_number: 8
 count: 20
 files[0]: 2021-09-23-Anella-Noble-Motion-to-Dismiss-Virginia-Sewell.pdf

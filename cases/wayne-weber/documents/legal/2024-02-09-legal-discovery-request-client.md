@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:e1efb94ebcd58cb77ed11f0ede5c246eba7a5f7cadb9f0676a495126a38cfbd6
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 NO.    23-CI-8019JEFFERSON CIRCUIT COURT
 
 DIVISION TWELVE (12)

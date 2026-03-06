@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Connie
 source_hash: sha256:0067dce9cbdd11082b2a5d6ccba3f9619f6bf72909892f79cc89c9220d3f622f
 ---
 
+**Case:** [[cases/connie-goree/connie-goree|Connie Goree]]
+**Client:** [[cases/connie-goree/contacts/connie-goree|Connie Goree]]
+
 extraction.classification.bucket: Insurance
 extraction.classification.confidence: high
 extraction.classification.document_type: letter_of_representation

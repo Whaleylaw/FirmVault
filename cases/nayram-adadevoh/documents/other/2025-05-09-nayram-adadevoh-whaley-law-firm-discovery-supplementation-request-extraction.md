@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:306447f2b81f1b1635c91d6bd120fd0086803b40fec86a9595920683e4be6d96
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: legal_correspondence
 date: 2025-05-09
 description: Discovery supplementation request from Whaley Law Firm dated May 9, 2025.

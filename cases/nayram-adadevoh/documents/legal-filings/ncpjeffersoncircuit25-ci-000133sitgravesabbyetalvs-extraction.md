@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:552b05165e95f53a96dc1e7c46cb51fd7c716ccd7977d228e4606a0f99c55aee
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: court_filing_notification
 date: 2025-01-29
 description: Court notification (NCP) from Kentucky Court of Justice confirming acceptance of eFiling in case 25-CI-000133 (SITGRAVES, ABBY ET AL VS. CAAL WORLDWIDE, INC. ET AL). Date and Time Processed: January 29, 2025 at 12:40PM Eastern. Envelope #9762842.

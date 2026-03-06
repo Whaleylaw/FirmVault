@@ -1,13 +1,10 @@
 ---
 case_slug: caryn-mccay
-created_at: 2026-02-16 22:16:53.300000+00:00
+created_at: {}
 document_category: medical
-document_date: 1972-11-30
+document_date: {}
 document_type: medical
-entities:
-- Van Wyk
-- David Turner
-- Glenn Irby
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-07-30-MVA-001
 mime_type: application/pdf
@@ -15,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-McCay-MVA-7-30-2023/Medical/2023-07-30-Caryn-McCay-HealthCare-CT-Angio-Head-Neck.pdf
 source_hash: sha256:2fa663b7853448b91171c6902641207ba4958e9db842f2b61ea68aaee79e9e9e
+contact: "[[cases/2023-07-30-mva-001/contacts/caryn-mccay]]"
 ---
+
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 
 0000010
 800 Rose Si McCay, Caryn Leigh

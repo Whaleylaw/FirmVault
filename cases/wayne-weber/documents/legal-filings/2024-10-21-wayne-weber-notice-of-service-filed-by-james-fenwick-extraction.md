@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:13321c97fdabba2e21fa447ad3e446202b510bbb2b0817a32c0cd02d13168b81
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: litigation
 extraction.date: 2024-10-21
 extraction.description: Notice of service filed by James Fenwick for Wayne Weber case dated October 21, 2024.

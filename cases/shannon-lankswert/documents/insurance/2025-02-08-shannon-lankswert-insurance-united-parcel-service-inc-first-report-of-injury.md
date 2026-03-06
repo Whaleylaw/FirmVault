@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:4d7c93c87c0a8590531dc251cae3818bf01294e374ff0f1e0c95bc3cff616998
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 WORKERS COMPENSATION - FIRST REPORT OF INJURY OR ILLNESS
 EMPLOYER (NAME & ADDRESS INCL ZIP) CARRIER/ADMINISTRATOR CLAIM NUMBER OSHA LOG NUMBER REPORT PURPOSE CODE
 JURISDICTION JURISDICTION CLAIM NUMBER

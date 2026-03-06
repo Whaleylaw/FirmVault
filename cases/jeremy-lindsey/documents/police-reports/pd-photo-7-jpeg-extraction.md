@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:7f6206cf973f808b82122635c7b9f3d03de7be3aa88efd3bbfdcb97442d53b48
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: evidence
 date: 2024-12-01
 description: Photo showing severe front-end damage to a vehicle involved in the head-on collision.

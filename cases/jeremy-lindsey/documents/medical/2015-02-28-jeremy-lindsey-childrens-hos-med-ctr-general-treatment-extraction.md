@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:820c8f09a1483a982b4f7f284bd6da375a14a069c3e72c34716b7bbdd0f3fd84
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: medical
 date: 2015-02-28
 description: Hospital billing claim form for Owen Lindsey, service dates 12/01/24-12/02/24, room & board, pharmacy, laboratory, radiology, CT scan services

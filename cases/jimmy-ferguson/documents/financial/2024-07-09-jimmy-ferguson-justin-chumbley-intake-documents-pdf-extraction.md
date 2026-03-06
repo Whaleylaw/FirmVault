@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:fac8eed7b1be8039ec47efeb93070113e93ac46fa7b972a76de633fd14a0bf78
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 category: Client
 date: 2024-07-09
 description: DocuSign verification certificate for intake documents signed by Jimmy Ferguson on 7/9/2024, sent by Justin Chumbley, showing complete document history and verification.

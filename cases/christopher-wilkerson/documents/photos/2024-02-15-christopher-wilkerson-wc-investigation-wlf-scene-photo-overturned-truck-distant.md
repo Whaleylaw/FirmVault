@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:aae8c0d3b02b20428aaccff600c76607c26d24729c04dc23bf1a2cc90d28e649
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christopher-Wilkerson-WC-MVA-[DOB-1]/Investigation/2024-02-15-Christopher-Wilkerson-WC-Investigation-WLF-Scene-Photo-Overturned-Truck-Distant.jpg

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:1ebbdd974ea8a7eaa9d14f5c143e7c1d8c2f91e031588d5b9dacfa21efbe18ae
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 © [DOB-1] 3:45 PM
 FAX
 To:

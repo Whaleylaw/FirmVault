@@ -1,21 +1,23 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:49:06.062000+00:00
+created_at: {}
 document_category: financial
-document_date: 1983-12-28
+document_date: {}
 document_type: financial
-entities:
-- Norton Healthcare
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Norton
-  Orthopedic Institute/Record Requests/2019-04-26-Amy-Mills-Medical-Norton Orthopedic
-  Institute-Record-Requests-WLF-Medical-Record-Request-and-Authorization.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Norton Orthopedic Institute/Record Requests/2019-04-26-Amy-Mills-Medical-Norton Orthopedic Institute-Record-Requests-WLF-Medical-Record-Request-and-Authorization.pdf
 source_hash: sha256:494e0a70c60da37f20e0c2802808075ad3cd675ab740b8be63c5ad4091301bcf
+contact: "[[cases/2019-04-26-prl-001/contacts/norton-orthopedic-institute]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 WHALEY
 

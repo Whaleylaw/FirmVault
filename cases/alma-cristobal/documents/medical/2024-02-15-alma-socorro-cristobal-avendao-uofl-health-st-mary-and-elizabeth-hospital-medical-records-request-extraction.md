@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:4d8184fc824279fa959212acf2a80a555fc8b82702067aff54b6041ce6876e82
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 category: Medical Requests
 description: Medical records request to UofL Health St Mary and Elizabeth Hospital
 entities[0]: Alma Socorro Cristobal Avendaño

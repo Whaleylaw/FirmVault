@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-N
 source_hash: sha256:399772ced65e38a6c1f9fc24fa8a52b7d1ab48e019f77db77d43e5062bdf766e
 ---
 
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 COMMONWEALTH OF KENTUCKY 
 BOONE CIRCUIT COURT 
 DIVISION III 

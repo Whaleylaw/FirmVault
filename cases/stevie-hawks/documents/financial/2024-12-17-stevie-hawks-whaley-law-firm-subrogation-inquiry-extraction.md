@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie
 source_hash: sha256:afb1a9471fa63606d7bcb843499d058b10a89acf81ead88e92729393bd1468f4
 ---
 
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 category: Lien
 date: 2024-12-17
 description: Letter from The Rawlings Company representing WellCare Health Plan inquiring about subrogation rights for benefits paid to Stevie Hawks related to 3/8/2024 incident

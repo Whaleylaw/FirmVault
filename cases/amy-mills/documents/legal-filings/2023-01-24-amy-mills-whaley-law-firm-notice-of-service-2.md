@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:c7c9d5de49c131b3964de858f2948dc4a288e5ca126b7beb36e54c4387508575
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 NO. 20-CI-00112 KNOX COUNTY CIRCUIT COURT 
 DIVISION TWO (2) 
 AMY MILLS PLAINTIFF 

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:505a7b3255eb61a60910b0bf67d964393745084a240bf92fc8b9d844a5e35d4b
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 category: Insurance
 date: 2024-07-08
 description: Letter to Kentucky Farm Bureau dated 7/8/2024 notifying of representation for motor vehicle collision on 6/30/2024, directing PIP benefits distribution ($6,000 for non-hospital bills, $4,000 reserved), and reserving UM/UIM rights.

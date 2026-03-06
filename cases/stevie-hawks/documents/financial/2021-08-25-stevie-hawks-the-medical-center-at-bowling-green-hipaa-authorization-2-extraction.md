@@ -1,12 +1,10 @@
 ---
 case_slug: stevie-hawks
-created_at: 2026-02-17 00:23:57.881000+00:00
+created_at: {}
 document_category: financial
-document_date: 2021-08-25
+document_date: {}
 document_type: financial
-entities:
-- Authorizes The Medical Center
-- The Medical Center
+entities: null
 extraction_method: native_text
 legacy_case_id: 2024-03-08-MVA-001
 mime_type: application/json
@@ -14,7 +12,12 @@ page_count: 1
 quality_score: 90
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie-Hawks-MVA-3-8-2024/Reports/extractions/2021-08-25-Stevie-Hawks-The-Medical-Center-at-Bowling-Green-HIPAA-Authorization-2_extraction.json
 source_hash: sha256:655218ecd751f1308f9023f9f98dda9e08b80d8bee6a3e044a2e3e16990c3366
+contact: "[[cases/2024-03-08-mva-001/contacts/the-medical-center-at-bowling-green]]"
 ---
+
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 
 extraction.classification.bucket: Medical Records
 extraction.classification.confidence: high

@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Hope-R
 source_hash: sha256:2452042d1adf3d2e3f0221d1eef49e942268bfa8902cedfd37b679a78e7a3c96
 ---
 
+**Case:** [[cases/hope-renee-padgett/hope-renee-padgett|Hope Renee Padgett]]
+**Client:** [[cases/hope-renee-padgett/contacts/hope-renee-padgett|Hope Renee Padgett]]
+
 item_0.adjuster_email: [EMAIL-1]
 item_0.adjuster_phone: [PHONE-2]
 item_0.claim_number: 23-4004861

@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel
 source_hash: sha256:fcbae552098dd2159a514af87503ee594015a3cfae9241d60f0aaca0cd71073d
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 1-[PHONE-1]
 aptivahealth.com
 12300 Plantside Drive,

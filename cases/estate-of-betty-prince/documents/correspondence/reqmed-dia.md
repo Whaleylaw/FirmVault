@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:33a7776c7b9d0f163c7163fb2f6c2d0ed6ffe5869ca770f10554367c25c3aa92
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 October 22, 2020
 
 Southern Emergency Medical Specialists (Norton)

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:5c0b2f0b4b6b8a4b40e42f0844bb73efb89ca73f86d11e289acbb8ad926d36b0
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: legal
 date: 2025-04-21
 description: Consent to Settle letter per KRS 304.39-320 notifying Auto Owners of Progressive's $50,000 policy limits settlement offer, claim 300-[PHONE-1], UIM claim notification

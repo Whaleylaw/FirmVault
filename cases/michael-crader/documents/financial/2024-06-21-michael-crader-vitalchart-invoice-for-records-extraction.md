@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:b24988bbd21b2aed41c307fa1ba9ad9638ff1122e7999744f4e078334e94b8ed
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 extraction.classification.bucket: Expenses
 extraction.classification.confidence: high
 extraction.classification.document_type: expense_invoice

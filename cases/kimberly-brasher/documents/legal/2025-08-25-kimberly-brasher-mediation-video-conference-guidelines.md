@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:c3cbc590124411efb7ef487de460ad8785feb162b61989a04016663e310b70ad
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 GUIDELINES FOR VIDEO CONFERENCING
 Mediations are confidential, involving only the intended participants, so be sure to be alone
 in a secure room (no third parties present and make sure the conversation cannot be overheard by

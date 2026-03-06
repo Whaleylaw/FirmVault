@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:d42f1db82938b88398a1590eb171f5b7547cef76090c0644f944cbaf37f1447f
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 Case Memo 23-T-008188
 Parties 23-T-008188
 Charges 23-T-008188

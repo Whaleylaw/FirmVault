@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:f7cd158f33be8b719522b5722603efb8e45785ffec5802ef19e81a55b0a55d63
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 712 Lyndon Lane ● Louisville, KY 40222 ● Phone: [PHONE-1] ● Fax: [PHONE-2] 
 June 26, 2024 
 Sent via email to: [EMAIL-3]

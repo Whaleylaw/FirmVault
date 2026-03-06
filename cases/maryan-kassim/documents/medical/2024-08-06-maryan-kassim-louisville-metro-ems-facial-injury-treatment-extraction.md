@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:d3409bcb2e17cf086deb236cef47382515c825c53968ec17ac2bd0ffc4dea789
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 category: Medical
 description: EMS patient care record documenting treatment of facial injury from motor vehicle accident on August 6, 2024, including vital signs, bleeding control, and suction procedures.
 entities[0]: Louisville Metro EMS

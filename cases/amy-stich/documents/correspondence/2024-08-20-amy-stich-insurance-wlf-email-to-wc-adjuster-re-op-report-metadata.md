@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:b9f69eb255d3b680e3b75267a97db37c08e1b0198812b79bafd02d3dd63c03c4
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 content_length_chars: 914
 document_metadata.attachments[0]: 2024.08.20 Stich E&B Operative Report Notes.pdf
 document_metadata.cc_emails[0]: [EMAIL-9]

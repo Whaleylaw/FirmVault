@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:cebabf0f0c2349b6e61fb434caf38b5532506f08c5dae1fe23458de2a26da07c
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 [DOB-1]
 Interventional Pain Specialists 
 825 Second Ave #C6

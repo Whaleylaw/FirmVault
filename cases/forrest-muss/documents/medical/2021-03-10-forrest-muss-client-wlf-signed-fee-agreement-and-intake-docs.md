@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Forres
 source_hash: sha256:5ab1c0f83deda5fe010072d80e14f5e05fadbe0adf53ccc7ab1d802107e4a823
 ---
 
+**Case:** [[cases/forrest-muss/forrest-muss|Forrest Muss]]
+**Client:** [[cases/forrest-muss/contacts/forrest-muss|Forrest Muss]]
+
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 
 Louisville, KY 40222 

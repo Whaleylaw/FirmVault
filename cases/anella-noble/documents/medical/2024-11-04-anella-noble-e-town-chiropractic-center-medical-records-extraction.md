@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:9a258b9ce7a20469cae64a87e186f840993667b4080e6d09c46f3a79e7f086c5
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 category: Medical Records
 description: visit
 entities[0]: Anella Noble

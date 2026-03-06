@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:e38aa094378306417fa3460ed71c73af98ee23c989005e5294a824d0eb7cc36d
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: legal_document
 date: 2025-05-09
 description: Responses to interrogatories and production of documents dated May 9, 2025.

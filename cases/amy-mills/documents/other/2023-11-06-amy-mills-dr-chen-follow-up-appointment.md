@@ -11,3 +11,6 @@ quality_score: 0
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/2023-11-06-Amy-Mills-Dr-Chen-Follow-up-appointment.pdf
 source_hash: sha256:3611df2927f9e3b3a63ddd6b87c0f039021999a035da2f98d07700fed698ad1f
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]

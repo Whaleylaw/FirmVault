@@ -1,11 +1,10 @@
 ---
 case_slug: shannon-colvin
-created_at: 2026-02-17 00:21:32.652000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1994-05-17
+document_date: {}
 document_type: correspondence
-entities:
-- Baptist Health
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-10-01-MVA-002
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shannon-Colvin-MVA-10-1-2023/Medical/2024-11-15-Shannon-Colvin-Radiology-Associates-Inc-Medical-Records-Request.pdf
 source_hash: sha256:31476609973995599d08aaa6ed2d305822751fddc8ce35168a2776715f45f967
+contact: "[[cases/2023-10-01-mva-002/contacts/radiology-associates-inc]]"
 ---
+
+**Case:** [[cases/shannon-colvin/shannon-colvin|Shannon Colvin]]
+**Client:** [[cases/shannon-colvin/contacts/shannon-colvin|Shannon Colvin]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

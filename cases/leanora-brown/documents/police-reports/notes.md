@@ -19,6 +19,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Leanor
 source_hash: sha256:2788388659bc9473b330e7ad05adf51216669c9fe8d14cbca0d8e789039abc73
 ---
 
+**Case:** [[cases/leanora-brown/leanora-brown|Leanora Brown]]
+**Client:** [[cases/leanora-brown/contacts/leanora-brown|Leanora Brown]]
+
 item_0.author_name: Roscoe (AI Paralegal)
 item_0.episode_type: imported
 item_0.last_activity: 2025-12-01T00:00:00

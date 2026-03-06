@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:daad79856b97c2f7779648bd67df7718090471a5301429b4f6e1c634a311b15d
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 Subject: RE: James Kiper v. Travelers, et al. (Jefferson 23-CI-005758)
 From: [EMAIL-1]
 To: [EMAIL-2], [EMAIL-65]

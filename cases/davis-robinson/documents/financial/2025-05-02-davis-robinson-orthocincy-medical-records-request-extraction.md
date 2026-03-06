@@ -1,8 +1,8 @@
 ---
 case_slug: davis-robinson
-created_at: 2026-02-16 22:56:11.504000+00:00
+created_at: {}
 document_category: financial
-document_date: 2025-05-02
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2025-05-02-SF-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 90
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-Robinson-SF-05-02-2025/extractions/2025-05-02-Davis-Robinson-OrthoCincy-Medical-Records-Request_extraction.json
 source_hash: sha256:9eac1c51d49681bafb58a9713cc1be1b65f9d96f628abef2d6548d4364d20f3c
+contact: "[[cases/2025-05-02-sf-001/contacts/orthocincy]]"
 ---
+
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 
 extraction.classification.bucket: Medical Records
 extraction.classification.confidence: high

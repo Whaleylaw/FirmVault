@@ -1,12 +1,10 @@
 ---
 case_slug: stevie-hawks
-created_at: 2026-02-17 00:23:59.055000+00:00
+created_at: {}
 document_category: medical
-document_date: 1958-01-26
+document_date: {}
 document_type: medical
-entities:
-- Dr. Andrew Brendan Harrison
-- TriStar Skyline Medical Center
+entities: null
 extraction_method: native_text
 legacy_case_id: 2024-03-08-MVA-001
 mime_type: application/json
@@ -14,7 +12,12 @@ page_count: 1
 quality_score: 90
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie-Hawks-MVA-3-8-2024/Reports/extractions/2023-06-19-Stevie-Hawks-TRISTAR-SKYLINE-MEDICAL-CENTER-chest-xray-pain_extraction.json
 source_hash: sha256:d0e48b0564d48b6a8121ee87f85923c7ec0784095d2f6ad1bab86a35c2b2ad6b
+contact: "[[cases/2024-03-08-mva-001/contacts/tristar-skyline-medical-center]]"
 ---
+
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 
 extraction.classification.bucket: Medical Records
 extraction.classification.confidence: high

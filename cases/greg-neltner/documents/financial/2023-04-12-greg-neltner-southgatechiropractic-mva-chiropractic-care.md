@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-N
 source_hash: sha256:3e0f9dd5118dd61d8531131b38254410a4187a3cc4208b87d0597a5c7d6bae27
 ---
 
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 Southgate Chiropractic, Inc.
 2306 Alexandria Pike
 Southgate, KY410713234

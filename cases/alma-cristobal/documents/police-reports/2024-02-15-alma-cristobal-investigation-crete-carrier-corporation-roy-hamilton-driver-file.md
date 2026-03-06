@@ -4,6 +4,9 @@ document_category: police-reports
 legacy_case_id: 2024-02-15-MVA-001
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-Cristobal-MVA-2-15-2024/Investigation/2024-02-15-Alma-Cristobal-Investigation-Crete-Carrier-Corporation-Roy-Hamilton-Driver-File.pdf"
 source_hash: "sha256:bf15ada53cbd151215eb3b5c3110f1a0b90c127f387b75bea8cfac0e43aaa321"

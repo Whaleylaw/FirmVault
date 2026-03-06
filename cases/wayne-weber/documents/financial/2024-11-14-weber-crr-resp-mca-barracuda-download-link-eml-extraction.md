@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:1af2128f7d33fe67b711facdefc81d8b41448e902adaafd1dd847341962eef63
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: medical_records_request_response
 extraction.date: 2024-11-14
 extraction.description: Email notification from MCA Billing via Barracuda encrypted message service containing a secure download link for medical records. The encrypted message expires in 30 days.

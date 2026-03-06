@@ -1,21 +1,23 @@
 ---
 case_slug: frances-whitis
-created_at: 2026-02-16 23:42:35.359000+00:00
+created_at: {}
 document_category: photos
-document_date: 2024-09-23
+document_date: {}
 document_type: photo
-entities:
-- Frank Farley Ill
+entities: null
 extraction_method: image_proxy
 legacy_case_id: 2024-09-06-MVA-001
 mime_type: image/jpeg
 page_count: 1
 quality_score: 70
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Frances-Whitis-WC-MVA-9-6-2024/Medical/Family
-  Care Of The Bluegrass - East/Medical Records/2024-09-23-Frances-Whitis-WC-Medical-Family
-  Care Of The Bluegrass - East-Medical-Records-Family-Care-of-the-Bluegrass-Work-or-School-Excuse-1.jpg
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Frances-Whitis-WC-MVA-9-6-2024/Medical/Family Care Of The Bluegrass - East/Medical Records/2024-09-23-Frances-Whitis-WC-Medical-Family Care Of The Bluegrass - East-Medical-Records-Family-Care-of-the-Bluegrass-Work-or-School-Excuse-1.jpg
 source_hash: sha256:3211399d6e3f2a560e7eae409aa678ed9e7fe531b31575b85a9b7cb4ac251d84
+contact: "[[cases/2024-09-06-mva-001/contacts/family-care-of-the-bluegrass-east]]"
 ---
+
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 
 # Image Document
 

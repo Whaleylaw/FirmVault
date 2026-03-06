@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:98a4dde2c51665abb238aa45608a095125547a5b5f1b70684778b70bd6e56e33
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 [DOB-1]
 Norton Immediate Care Center
 7926 Preston Hwy

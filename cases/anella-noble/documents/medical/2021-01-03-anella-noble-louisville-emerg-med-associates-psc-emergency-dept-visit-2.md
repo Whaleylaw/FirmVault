@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2021-01-03-MVA-001
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella-Noble-MVA-[DOB-11]/Medical-Records/2021-01-03-Anella-Noble-Louisville-Emerg-Med-Associates-PSC-Emergency-Dept-Visit-2.pdf"
 source_hash: "sha256:3ecc8aaf72d06dbd8fa8d988e6562e7f582eb19a935c8759e7a6c5c381cb6dd8"

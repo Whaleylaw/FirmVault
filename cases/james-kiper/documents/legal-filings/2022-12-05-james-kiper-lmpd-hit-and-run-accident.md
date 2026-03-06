@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:b328afd162eb932cc3f4115125504008537eeaf39c1f16b7c381cdd77213f33c
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 ALL
 EVENT REMARK -
 EVENT CREATED

@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:10b78ff09d787650f29ae9d5bfe546abb032dfc5563cf59c285948f835eb492c
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 Uofl Health Him 
 225 Abraham Flexner Way Suite 650 Louisville, KY 40202 
 Phone: [PHONE-6]

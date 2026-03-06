@@ -1,20 +1,23 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:48:24.450000+00:00
+created_at: {}
 document_category: medical
-document_date: 1983-12-28
+document_date: {}
 document_type: medical
-entities:
-- Wallace Huff
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Blugrass
-  Orthopedics/Medical Records/2023-06-22-Amy-Mills-Medical-Blugrass Orthopedics-Medical-Records-Bluegrass-Orthopaedics-Patient-Visit-Note.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Blugrass Orthopedics/Medical Records/2023-06-22-Amy-Mills-Medical-Blugrass Orthopedics-Medical-Records-Bluegrass-Orthopaedics-Patient-Visit-Note.pdf
 source_hash: sha256:7f81899862e06843ebe5a3a96afed8934be58a290b6a1a20e3add4783bd82f5a
+contact: "[[cases/2019-04-26-prl-001/contacts/bluegrass-orthopaedics]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 BLUEGRASS
 ORTHOPAEDICS

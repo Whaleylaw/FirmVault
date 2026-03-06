@@ -4,6 +4,9 @@ document_category: police-reports
 legacy_case_id: 2023-05-19-MVA-001
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michael-Crader-MVA-5-19-2023/Investigation/2023-05-19-Michael-Crader-Investigation-Morgan-County-Sheriff-Dept-Police-Traffic-Collision-Report.pdf"
 source_hash: "sha256:87c30a2601a7a1621cb22a693b4cdd0e0f8df98e6d6fb71a78e6f8ff1a1cd187"

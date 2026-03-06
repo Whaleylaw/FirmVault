@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:81ff4ecfe28d141ee9a0d7aa210365b74dbf38f05eed6458bc97f34d92b63bad
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: legal_document
 date: 2025-02-07
 description: Court pleading for Sitgraves, Abby et al vs. CAAL Worldwide Inc dated February 7, 2025.

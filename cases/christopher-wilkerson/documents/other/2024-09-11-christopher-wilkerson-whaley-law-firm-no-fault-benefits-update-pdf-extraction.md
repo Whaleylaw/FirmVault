@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:568daf1f81cc96fc2c9d71b1970617097f7f9e2d885b457956d6df5a18a8e8ac
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 category: Correspondence
 confidence: high
 description: No-fault insurance benefits status update from law firm

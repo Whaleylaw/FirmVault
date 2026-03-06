@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:c2551824884459f1e01770b9b03abb646debb5f567fb164c36a2961ca8268fe9
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 Eze KENTUCKY FARM BUREAU
 ‘ PO BOX 20600 100125913904
 [)8e2¢4 =Lovrsvinue, Ky 40250

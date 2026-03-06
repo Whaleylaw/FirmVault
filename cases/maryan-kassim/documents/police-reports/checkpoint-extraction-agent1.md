@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:dd3be3658ac9cbf698dcb4521f2e94272bf54e9ead7d5cd1cb32706b6cc397b3
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 agent: agent1
 case_folder: Maryan-Kassim-MVA-[DOB-1]
 completed_files[0]: 2024-08-06-Maryan-Kassim-Diagnostic-X-Ray-Physicians-PSC-Medical-Record.pdf

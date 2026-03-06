@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-N
 source_hash: sha256:3e4f777cc1cddf73f431dadd58a1441eb1657ecb58d0b8f845316d467e8483d1
 ---
 
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 Client Information
 Client Name: Greg Neltner
 Phone Number: [PHONE-1]

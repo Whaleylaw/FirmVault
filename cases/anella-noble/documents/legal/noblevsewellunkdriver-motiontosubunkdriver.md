@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:5f07915607e57632e11ba5833195f4b67fb4e1407a75aeb3950226238969b6fd
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: Noble v Sewell & Unk Driver - Motion to Sub Unk Driver
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1], [EMAIL-2]

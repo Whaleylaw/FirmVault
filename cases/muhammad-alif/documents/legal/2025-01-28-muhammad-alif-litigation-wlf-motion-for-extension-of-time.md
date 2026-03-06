@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:d7d981c06e8f51fa443117a873590998f30af6e7d9a50d3044a937b19434baba
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 Subject: NEF, (for eFiler) JEFFERSON Circuit 23-CI-005509, ALIF, MUHAMMAD VS. WICKCLIFFE, JACQUELYN B. ET AL Envelope # 9758943
 From: [EMAIL-6]
 To: [EMAIL-5], Sarena@WhaleyLawFirm.com, [EMAIL-4]

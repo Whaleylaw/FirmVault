@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:29a152ce12e41a89e0232bd730c170e7149f0de8f6f89292630c15511784af72
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Subject: RE: Appt Request: Sarena Tuttle, Louisville for Thu, Jul 14 2022
 From: [EMAIL-13]
 To: Sarena@WhaleyLawFirm.com

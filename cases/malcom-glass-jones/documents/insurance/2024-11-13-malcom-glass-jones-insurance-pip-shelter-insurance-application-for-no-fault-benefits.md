@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Malcom
 source_hash: sha256:69c3eb086019425a641ec85bf0458a8e1961a389bcbd33b636ebfc910e02f20c
 ---
 
+**Case:** [[cases/malcom-glass-jones/malcom-glass-jones|Malcom Glass Jones]]
+**Client:** [[cases/malcom-glass-jones/contacts/malcom-glass-jones|Malcom Glass Jones]]
+
 Emily Friedrich
 ypa SHELTER Medical Claims Adjuster pei) =INSURANCE Phone: [PHONE-1]
 — COMPANIES Fax: [PHONE-2]

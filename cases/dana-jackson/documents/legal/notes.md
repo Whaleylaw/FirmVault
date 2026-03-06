@@ -19,6 +19,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dana-J
 source_hash: sha256:7fe30d0e0ada7b40146c8e8e2689a8d1c43ba5af501fee424fa11f1ea510aca2
 ---
 
+**Case:** [[cases/dana-jackson/dana-jackson|Dana Jackson]]
+**Client:** [[cases/dana-jackson/contacts/dana-jackson|Dana Jackson]]
+
 item_0.author_name: Filevine Integration
 item_0.episode_type: imported
 item_0.last_activity: 2025-10-22T00:00:00

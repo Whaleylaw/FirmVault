@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:0374bed0397f1baec284730bae6a1e78055d5baddea59d920199e85f05ebb085
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 Subject: Re: Cora Hall depo
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2019-04-26-PrL-001
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-[DOB-2252]/Review_Needed/2023-09-19-Amy-Mills-Kasper-Neck-and-Shoulder-Pain-Visit.pdf"
 source_hash: "sha256:fb65bc83175db86cf5351de76861c8a1cdd1e622ae7ff31f0630dfb11711c78e"

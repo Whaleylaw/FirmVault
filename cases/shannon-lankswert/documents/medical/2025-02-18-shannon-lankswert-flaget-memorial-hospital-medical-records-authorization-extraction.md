@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:b986d3e524a51c0c1f243f5713b3e3a50c41c2a79d0bb00a04d4e4e1606b1157
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 extraction.category: Client
 extraction.date: 2025-02-18
 extraction.description: HIPAA authorization form for Flaget Memorial Hospital

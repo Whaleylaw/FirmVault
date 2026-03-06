@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:e84cedce51b0f0659bf4803890e15dffb366d14db715826a802ecc7a5ea973dc
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 Notice of Claim Denial or Acceptance
 Form 111
 October 2016 Edition

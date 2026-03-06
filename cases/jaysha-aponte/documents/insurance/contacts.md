@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jaysha
 source_hash: sha256:c6d8fe38fb3b65e2ab0b9b52709a8f854e75abdf5d44db5438845d32e18dc274
 ---
 
+**Case:** [[cases/jaysha-aponte/jaysha-aponte|Jaysha Aponte]]
+**Client:** [[cases/jaysha-aponte/contacts/jaysha-aponte|Jaysha Aponte]]
+
 item_0.jsonb_agg[0].full_name: Jaysha Aponte
 item_0.jsonb_agg[0].project_name: Jaysha-Aponte-MVA-3-15-2025
 item_0.jsonb_agg[0].roles[0]: client

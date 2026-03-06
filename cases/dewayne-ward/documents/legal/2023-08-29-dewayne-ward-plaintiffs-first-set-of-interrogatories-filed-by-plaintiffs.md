@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dewayn
 source_hash: sha256:a7cfeba1cf29052acec43bdede6d78c10e647fb884cfcb3f1cd7a1e6e427e8e4
 ---
 
+**Case:** [[cases/dewayne-ward/dewayne-ward|Dewayne Ward]]
+**Client:** [[cases/dewayne-ward/contacts/dewayne-ward|Dewayne Ward]]
+
 STATE OF INDIANA ) IN THE FLOYD COUNTY SUPERIOR COURT 
  )SS: 
 COUNTY OF FLOYD ) CAUSE NO. 22D03-2501-CT-000157 

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:f4c946c490cf65a85d0f24292ad6e91939e72913f1cc51a888e5e0e4753b3285
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 case_folder: Wayne-Weber-MVA-[DOB-1]
 job_id: file-org-f1d14fe7
 phases.extraction.notes: Batch 2 complete: Processed files 34-66 (33 files). Created 33 extraction JSONs.

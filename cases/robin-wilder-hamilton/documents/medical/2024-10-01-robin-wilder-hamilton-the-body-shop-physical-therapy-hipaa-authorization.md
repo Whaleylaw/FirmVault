@@ -1,8 +1,8 @@
 ---
 case_slug: robin-wilder-hamilton
-created_at: 2026-02-17 00:15:36.617000+00:00
+created_at: {}
 document_category: medical
-document_date: 2024-10-01
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2023-06-15-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-Wilder-Hamilton-MVA-6-15-2023/Client/2024-10-01-Robin-Wilder-Hamilton-The-Body-Shop-Physical-Therapy-HIPAA-Authorization.pdf
 source_hash: sha256:6173c13f2ddc56cc0976b21d67bcdd7a945acfb1a3be2826f9308cf60bd0dd74
+contact: "[[cases/2023-06-15-mva-001/contacts/the-body-shop-physical-therapy]]"
 ---
+
+**Case:** [[cases/robin-wilder-hamilton/robin-wilder-hamilton|Robin Wilder Hamilton]]
+**Client:** [[cases/robin-wilder-hamilton/contacts/robin-wilder-hamilton|Robin Wilder Hamilton]]
+
 
 AUTHORIZATION TO RELEASE PROTECTED HEALTH CARE INFORMATION
 TO:

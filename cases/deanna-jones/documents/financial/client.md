@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Deanna
 source_hash: sha256:31c2bae55b8896374b8341193e4f5929ced7adbe9c50cd38a61dd196b6e6b1af
 ---
 
+**Case:** [[cases/deanna-jones/deanna-jones|Deanna Jones]]
+**Client:** [[cases/deanna-jones/contacts/deanna-jones|Deanna Jones]]
+
 address: 4304 Rondean Dr, , Louisville, KY 40216
 date_of_birth: [DOB-1]
 imported_at: 2026-02-16T21:09:42.775Z

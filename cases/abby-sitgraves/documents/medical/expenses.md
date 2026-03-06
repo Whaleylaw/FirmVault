@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Abby-S
 source_hash: sha256:fe83181fc5eec30840353fd9c54513f965352830b927465c88df5d90c76cb314
 ---
 
+**Case:** [[cases/abby-sitgraves/abby-sitgraves|Abby Sitgraves]]
+**Client:** [[cases/abby-sitgraves/contacts/abby-sitgraves|Abby Sitgraves]]
+
 item_0.description: Emergency Room visit - Knee and ankle injury
 item_0.payable_to: Jewish Hospital
 item_0.project_name: Abby-Sitgraves-MVA-7-13-2024

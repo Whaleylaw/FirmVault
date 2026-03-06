@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor
 source_hash: sha256:8793b99151647da7adfdb019fea604c8120603f77d873fcdade44cc3f8766ddb
 ---
 
+**Case:** [[cases/taylor-thompson/taylor-thompson|Taylor Thompson]]
+**Client:** [[cases/taylor-thompson/contacts/taylor-thompson|Taylor Thompson]]
+
 FACTS:
 
 12-05-24 – Thursday 5:20pm on 10th Street at Wall Street – Jeffersonville

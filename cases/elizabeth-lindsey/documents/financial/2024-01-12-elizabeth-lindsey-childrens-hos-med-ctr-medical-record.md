@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Elizab
 source_hash: sha256:dfcfa29c4ff4264b972f2db421cad0aa9d456de02863ad8a857177c6ebc91b67
 ---
 
+**Case:** [[cases/elizabeth-lindsey/elizabeth-lindsey|Elizabeth Lindsey]]
+**Client:** [[cases/elizabeth-lindsey/contacts/elizabeth-lindsey|Elizabeth Lindsey]]
+
 CHILDRENS HOS MED CTR-CH /|€HIL 3a PAT. D HOS MED CTR COM 34573797080 4 TYPE OF
 CNTL # BILL
 3333 BURNET AVENUE 3337 SOLUTIONS CTR ree? (11528967 @111

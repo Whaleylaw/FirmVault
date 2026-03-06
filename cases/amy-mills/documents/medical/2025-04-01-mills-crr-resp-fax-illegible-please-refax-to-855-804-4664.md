@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:b2124bf50ec9f165f829fe87d3e5fe9cabf9a38b1232df54463d67f44c4aadc1
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 To: [PHONE-19]
 Rte tye
 Page: 1 of7 2025-04-01 14:55:53 GMT [PHONE-18] From: 16075972631

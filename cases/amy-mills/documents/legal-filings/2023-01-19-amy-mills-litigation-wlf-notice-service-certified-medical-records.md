@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:c3a6993924ecd13520ed9e23fa475eb24235f5b0800640814f4c6263bbaa2340
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Subject: Amy Mills v Forcht Bank - NOS - Certified Medical Records - Norton Spine Specialist
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

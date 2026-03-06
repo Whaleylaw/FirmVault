@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:fd35adf3cb[POLICY-1]ca352ba4805b612230d5835983fe46dcee81546fccd227
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: settlement
 date: 2024-12-01
 description: Settlement payment advice from Progressive for bodily injury claims totaling $16,000

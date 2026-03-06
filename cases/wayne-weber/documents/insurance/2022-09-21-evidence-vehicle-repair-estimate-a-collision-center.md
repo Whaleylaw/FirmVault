@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:2387206349557a8757baea492c96cc4f290ad42ecc2ff3ba2c9d894a7facb8e8
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 D-Patrick A+ Collision Center Workfile ID: 9f6d6d7
 PartsShare: 6zNTgZ
 Nationally i Ranked TOP SHOP!| Federal ID: 351541040

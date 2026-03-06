@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:5854e9555bc3601f76a84f507e0e4293d036939f8da7df78976c7d4f0c1539e2
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 Subject: Re: New submission from 20 Second Scheduler
 From: [EMAIL-8]
 To: sarena@whaleylawfirm.com

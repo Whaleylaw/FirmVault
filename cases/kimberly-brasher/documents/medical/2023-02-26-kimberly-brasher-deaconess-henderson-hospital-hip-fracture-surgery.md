@@ -1,11 +1,10 @@
 ---
 case_slug: kimberly-brasher
-created_at: 2026-02-17 00:02:13.337000+00:00
+created_at: {}
 document_category: medical
-document_date: 1973-03-25
+document_date: {}
 document_type: medical
-entities:
-- Douglas Lowery
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-02-25-PrL-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimberly-Brasher-Premise-2-25-2023/Medical/2023-02-26-Kimberly-Brasher-Deaconess-Henderson-Hospital-Hip-Fracture-Surgery.pdf
 source_hash: sha256:cdd8f2c8508e490de8302e91859a976ff94010fb716cd736055e7194516791fc
+contact: "[[cases/2023-02-25-prl-001/contacts/deaconess-henderson-hospital]]"
 ---
+
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 
 i DEACONESS HENDERSON Brasher, Kimberly K
 HOSPITAL MRN: 469590, DOB: 3/25/1973, Sex: F

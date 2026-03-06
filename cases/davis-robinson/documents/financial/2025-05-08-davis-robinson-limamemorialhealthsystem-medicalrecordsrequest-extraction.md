@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-
 source_hash: sha256:9c4bca35e126a66e168bc83ab638e22f56be1b803d900753e1def8623a1a4612
 ---
 
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 category: medical_request
 date: 2025-05-08
 description: Medical records request letter sent May 8, 2025 to Lima Memorial Health System. Requests medical records and itemized billing for dates May 2, 2025 to Present. Includes HIPAA authorization.

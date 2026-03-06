@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:8335a49073301a33950eda2a044886e6c20c91b5910568bff4b70fe637b58dfb
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 ## List of Contacts
 
 |  Full Name |  Email 1 |  Phone 1 |  Address 1 |

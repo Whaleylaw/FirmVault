@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel
 source_hash: sha256:99b98d54098343d0e0d6e46af28a915b26f8d10c749ee2895174ecf4988ba2f5
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 address: 7612 Willow Bend Dr, , Crestwood, ky 40014
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

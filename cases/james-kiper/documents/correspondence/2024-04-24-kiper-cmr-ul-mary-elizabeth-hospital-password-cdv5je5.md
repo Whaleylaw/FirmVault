@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:28c83df57bd9d9c56da608096c74abc73a1cd0ac2ee090e6c338fca2a99d1055
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 Subject: Package Credentials Notification
 From: [EMAIL-1]
 To: SARENA@WHALEYLAWFIRM.COM

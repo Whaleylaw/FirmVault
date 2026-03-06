@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:f4aaa9b69537f109a281d09764c28aac837955d1dee70cec9da6782ab85f3ae8
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: litigation_discovery
 date: 2025-05-09
 description: Plaintiff Nayram Adadevoh's responses to interrogatories and requests for production of documents in litigation against Caal Worldwide.

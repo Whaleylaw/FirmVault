@@ -1,0 +1,17 @@
+---
+schema_version: 2
+case_id: 95bc5b24-e276-446d-b2a5-507cf9641e9a
+date: "2024-05-10"
+category: correspondence
+subcategory: email
+---
+
+# email — 2024-05-10
+
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Category:** correspondence / email
+
+__RE: Michal Crader__
+From:  [justin@whaleylawfirm.com](mailto:justin@whaleylawfirm.com)
+To: [agwhaley@whaleylawfirm.com](mailto:agwhaley@whaleylawfirm.com) 'Aaron Whaley'
+Cc: [bryce@whaleylawfirm.com

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ceceli
 source_hash: sha256:4b31b0f9ac336759b753bf86a6ba7f252be56bdbc355f455cec6b9c8384feb5f
 ---
 
+**Case:** [[cases/cecelia-neltner/cecelia-neltner|Cecelia Neltner]]
+**Client:** [[cases/cecelia-neltner/contacts/cecelia-neltner|Cecelia Neltner]]
+
 [DOB-1]
 ***-**-1112 [DOB-1]
 Cincinnati Children’s Hospital

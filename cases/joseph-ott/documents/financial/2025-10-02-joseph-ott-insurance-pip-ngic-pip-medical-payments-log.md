@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Joseph
 source_hash: sha256:7f2f290f3788de9008836f9b538f3a84bfb1ceccfc3b8f297fbdc86db502333b
 ---
 
+**Case:** [[cases/joseph-ott/joseph-ott|Joseph Ott]]
+**Client:** [[cases/joseph-ott/contacts/joseph-ott|Joseph Ott]]
+
 10/2/25, 1:54 PM
 PIP & 
 Claim

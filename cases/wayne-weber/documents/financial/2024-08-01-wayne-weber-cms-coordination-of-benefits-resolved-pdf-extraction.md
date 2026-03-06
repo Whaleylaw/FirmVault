@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:b5ec8f70dcf9bca5908b08a958252781cc1f0fe24f742db661354598167e2783
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: lien
 extraction.date: 2024-08-01
 extraction.description: CMS coordination of benefits resolution document indicating Medicare lien matters have been resolved as of August 1, 2024.

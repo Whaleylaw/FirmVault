@@ -1,21 +1,23 @@
 ---
 case_slug: wayne-weber
-created_at: 2026-02-17 00:40:17.161000+00:00
+created_at: {}
 document_category: medical
-document_date: 1947-07-13
+document_date: {}
 document_type: medical
-entities:
-- Norton Brownsboro Hospital
-- Norton Healthcare
+entities: null
 extraction_method: native_text
 legacy_case_id: 2022-01-01-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-Weber-MVA-01-01-2022/Medical/2023-11-06
-  - Medical - Norton Brownsboro Hospital - Medical Records Request - Wayne Weber.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-Weber-MVA-01-01-2022/Medical/2023-11-06 - Medical - Norton Brownsboro Hospital - Medical Records Request - Wayne Weber.pdf
 source_hash: sha256:d96a470dadb27eaa3b0e2a3217e67b8636dc678be05b9ab7a3129f9ce9e4a028
+contact: "[[cases/2022-01-01-mva-001/contacts/norton-brownsboro-hospital]]"
 ---
+
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 
 AUTHORIZATION TO RELEASE PROTECTED HEALTH CARE INFOR.MATION 
 TO:

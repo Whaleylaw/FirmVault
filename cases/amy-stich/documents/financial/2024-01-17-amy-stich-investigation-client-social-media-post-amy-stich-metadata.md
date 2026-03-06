@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:074f62a5aacf018ee695cb65f4f3a29d2ffb7c1a2099fa3bcac8596353e0eebd
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 content_length_chars: 357
 document_metadata.authors[0]: Sarena Tuttle
 document_metadata.created_at: 2025-02-17T10:46:21Z

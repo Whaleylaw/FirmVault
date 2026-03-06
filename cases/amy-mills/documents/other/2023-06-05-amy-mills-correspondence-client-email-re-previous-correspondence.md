@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:0e13199f652870d790bd78a35eaf017cd5c3c33417706588e68998d5726e6493
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Subject: Good Morning
 From: [EMAIL-2]
 To: [EMAIL-2], Sarena@whaleylawfirm.com

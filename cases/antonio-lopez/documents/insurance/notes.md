@@ -19,6 +19,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Antoni
 source_hash: sha256:aa1e068a32cb6939161ae9661413d54885a5d49752bbf7280a64412a5de24595
 ---
 
+**Case:** [[cases/antonio-lopez/antonio-lopez|Antonio Lopez]]
+**Client:** [[cases/antonio-lopez/contacts/antonio-lopez|Antonio Lopez]]
+
 item_0.episode_type: communication
 item_0.note: Sent email to Justin Chumbley ([EMAIL-1]) requesting status updates on four items: (1) Current treatment status for client, (2) Whether records requests have been sent to UofL Hospital and Starlight Chiropractic, (3) Confirmation of BI coverage limits with Auto Owners Insurance (Claim #[PHONE-2]-2025), (4) Status of accident/police report from [DOB-33] incident. Email sent to complete File Setup phase requirements.
 item_0.note_summary: Email Sent to Attorney Justin - Status Update Request

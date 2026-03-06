@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/France
 source_hash: sha256:2cf368f298226943c2f15157060d6e1ea9983303563f641a0e9f1cfec246a573
 ---
 
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 Certificate Of Completion
 Envelope Id: 59E865741E9D4FD9B814B110327BB023 Status: Completed
 Subject: Thank you for Choosing The Whaley Law Firm

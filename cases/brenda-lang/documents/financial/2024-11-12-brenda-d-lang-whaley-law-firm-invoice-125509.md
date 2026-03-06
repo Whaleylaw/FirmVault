@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:de1a373d86c309cd0c3496d969b306119115b620fe3a4396ee77fd568ed31bc1
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 W. Bryce Koon
 The Whaley Law Firm
 712 Lyndon Lane

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:6f009f5cbcb1a2911e4d48ec282ae1bc1d28821b8cb2a3c7a76de35b74e39c83
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 category: Litigation
 confidence: high
 description: Petition-for-Probate

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:344273ca58211cef40ee9af257bee3df840b53f433b58399083b8b243f76fb30
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 Subject: Re: Hedinger v. Atwood
 From: [EMAIL-11]
 To: [EMAIL-2]

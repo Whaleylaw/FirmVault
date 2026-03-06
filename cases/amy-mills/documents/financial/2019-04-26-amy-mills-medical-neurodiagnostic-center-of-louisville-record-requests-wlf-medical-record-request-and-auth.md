@@ -1,19 +1,22 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:48:45.934000+00:00
+created_at: {}
 document_category: financial
-document_date: 1983-12-28
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Neurodiagnostic
-  Center of Louisville/Record Requests/2019-04-26-Amy-Mills-Medical-Neurodiagnostic
-  Center of Louisville-Record-Requests-WLF-Medical-Record-Request-and-Auth.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Neurodiagnostic Center of Louisville/Record Requests/2019-04-26-Amy-Mills-Medical-Neurodiagnostic Center of Louisville-Record-Requests-WLF-Medical-Record-Request-and-Auth.pdf
 source_hash: sha256:e0b5fec0d3fd8969c7f01b55ead62e605db13e4ab01ca7d4de595f6c04d61d6e
+contact: "[[cases/2019-04-26-prl-001/contacts/neurodiagnostic-center-of-louisville]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 WHALEY
 

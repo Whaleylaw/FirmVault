@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Connie
 source_hash: sha256:920381601bed50e01235ceb88dc4ef3ecee8826c85e60deeea9a586d5e5417af
 ---
 
+**Case:** [[cases/connie-goree/connie-goree|Connie Goree]]
+**Client:** [[cases/connie-goree/contacts/connie-goree|Connie Goree]]
+
 item_0.jsonb_agg[0].accident_date: 2024-09-03
 item_0.jsonb_agg[0].case_create_date: 2025-12-26T19:49:38.501823
 item_0.jsonb_agg[0].case_type: MVA

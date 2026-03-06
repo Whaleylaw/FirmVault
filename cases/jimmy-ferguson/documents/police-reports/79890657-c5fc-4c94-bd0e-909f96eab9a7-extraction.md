@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:106010a71c457b3a51b2b41c33b4313ad0c1e80491c47457de8e989ccbc5259e
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 date: 2024-05-30
 description: Photo from the scene showing the position of the ambulance and the red Camry relative to the Towne Ctr Entrance.
 original_path: Jimmy-Ferguson-MVA-5-30-2024/79890657-c5fc-4c94-bd0e-909f96eab9a7.jpg

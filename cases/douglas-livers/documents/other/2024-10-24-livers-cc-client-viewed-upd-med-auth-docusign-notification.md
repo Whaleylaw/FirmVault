@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:146ed1acc307e8e1e3ff859a67bea15a9fc135b8272dbda4d2eb4faec17341be
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 Subject: Douglas Livers viewed The Whaley Law Firm has requested your signature. Follow the prompts to execute the attached.
 From: [EMAIL-1]
 To: [EMAIL-2]

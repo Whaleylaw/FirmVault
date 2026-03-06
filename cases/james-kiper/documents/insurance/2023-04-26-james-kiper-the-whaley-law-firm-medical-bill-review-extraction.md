@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:ac69d86c6c2030633f0e184ac2ecbb3c6260d34a247373d506fd0eb227e23f0f
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 category: Insurance Document
 document_date: 2023-04-26
 entities.adjuster: Emma Schumaker

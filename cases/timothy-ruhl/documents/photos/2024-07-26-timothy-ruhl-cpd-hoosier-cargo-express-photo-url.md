@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:a3860d2fc768c92acc5cd2ed9196697c7918f6588eb1d3b81c0ffd729ebe30e6
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timothy-Ruhl-Premise-[DOB-1]/Photos/2024-07-26-timothy-ruhl-CPD-Hoosier-Cargo-Express-Photo-URL.jpg

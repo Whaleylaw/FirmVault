@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:8bd321b829d4c24e727a0a66c57f23897f6ae82c8428dd29f025456f43e5d4ab
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 Subject: NCP JEFFERSON Circuit 24-CI-006943, HEDINGER, JEROME VS. BROWN, DAHLYN ET AL                     Envelope # 9211363
 From: [EMAIL-6]
 To: [EMAIL-5], Sarena@WhaleyLawFirm.com, [EMAIL-4]

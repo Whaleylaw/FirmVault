@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:7cabea062fff004f0210b67949e3fcd1a1d033c1b08bbbff9863553781296f18
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 Kentucky Farm Bureau
 Mutual Insurance Company
 THE WHALEY LAW FIRM November 22, 2023

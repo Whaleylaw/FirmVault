@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:0d0142e06a816b000c5583c8f64bc89f6f68661a56e374139410cff095c44458
 ---
 
+**Case:** [[cases/michael-deshields/michael-deshields|Michael Deshields]]
+**Client:** [[cases/michael-deshields/contacts/michael-deshields|Michael Deshields]]
+
 *Aaron G. Whaley, Esq.*
 *712 Lyndon Lane*
 *Louisville, KY 40222*

@@ -1,11 +1,10 @@
 ---
 case_slug: brenda-lang
-created_at: 2026-02-16 22:09:34.779000+00:00
+created_at: {}
 document_category: medical
-document_date: 2020-01-14
+document_date: {}
 document_type: medical
-entities:
-- Humana
+entities: null
 extraction_method: native_text
 legacy_case_id: 2021-09-03-MVA-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 95
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda-Lang-MVA-09-03-2021/Liens/2020-01-14-Brenda-D-Lang-Humana-Medicare-Prescription-Drug-Card.pdf
 source_hash: sha256:6fc53b5451aa92b110cc4f3b1e14dff885866187c2409e212d805c74f5123a11
+contact: "[[cases/2021-09-03-mva-001/contacts/humana]]"
 ---
+
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 
 CARD
 ISSUED:

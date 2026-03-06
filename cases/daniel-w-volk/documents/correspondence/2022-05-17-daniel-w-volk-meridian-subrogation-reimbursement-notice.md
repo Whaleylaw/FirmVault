@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel
 source_hash: sha256:349bc5663ccfaca789d30ebef06188d24885c220c325ca3204de7eb0f9dcf57e
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 © [DOB-71] 2:29 PM Fax Services >AARON WHALEY pg 1of 6
 BlueCross
 " BlueShield

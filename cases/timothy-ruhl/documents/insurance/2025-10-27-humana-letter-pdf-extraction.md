@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:6fb3e981399cbdd15c743ab6792e28887b5d1bb3e00f98fb1ccb9cbff46cf65c
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 content_analysis.category: Insurance
 content_analysis.date: 2025-10-27
 content_analysis.description: Insurance correspondence

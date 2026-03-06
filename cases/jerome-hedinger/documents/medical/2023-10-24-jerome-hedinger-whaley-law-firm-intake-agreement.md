@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2023-10-24-PrL-001
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome-Hedinger-Premise-DB-[DOB-1]/Legal-Documents/2023-10-24-Jerome-Hedinger-Whaley-Law-Firm-Intake-Agreement.pdf"
 source_hash: "sha256:b081ecfcc195447a5dc56b6f4ca209f9f4aedac5a461198fab235258e2dbe9a9"

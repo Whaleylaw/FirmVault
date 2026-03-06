@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:29fef5469412af0dd594b2ec14275e6c6fcd8eb8369726ce52af10d0117fb851
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 Cecil Finley
 [DOB-1]
 ***-**-5749 [DOB-1]

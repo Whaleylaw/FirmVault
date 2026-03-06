@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:dda9c8c96f407b75b6d9d6d6008bb881aa561cb43715cd1f4f89be9d13e25f2f
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: medical_records_request
 extraction.date: 2024-11-14
 extraction.description: Medical records request sent to Baptist Health Sports Medicine for Wayne Weber's treatment records related to the motor vehicle accident.

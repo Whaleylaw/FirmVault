@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmon
 source_hash: sha256:65cd733a24387f8b2a0d4f54067ccaab1ceb7b16a1d51f434798a89aebd39d08
 ---
 
+**Case:** [[cases/julmonzhae-moore/julmonzhae-moore|Julmonzhae Moore]]
+**Client:** [[cases/julmonzhae-moore/contacts/julmonzhae-moore|Julmonzhae Moore]]
+
 IN THE ________ COURT OF FLOYD COUNTY 
 STATE OF INDIANA 
 CASE NO. _____________________ 

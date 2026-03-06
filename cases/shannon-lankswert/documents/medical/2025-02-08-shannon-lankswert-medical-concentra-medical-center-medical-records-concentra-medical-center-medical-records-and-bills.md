@@ -25,6 +25,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:0d8ddcc0a2479cbc1c71044c986216998fe76c83ffa0dc677ec5b9cd4df7e93f
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 © [DOB-111] 7:09 AM CT
 
 Concentra Hlth Svcs > Datavant pg 1 of 7

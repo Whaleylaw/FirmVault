@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:9815e94b65ed6fb8f61b9d785c34da74b85644114e5f715961d62f8131619d37
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 Fax Confirmation
 To: [PHONE-15] From: [PHONE-2]
 Doc:

@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:b78c0fad78a7eda4fd31fb8c188e54644a338ef71e156fb3216e812cf2707919
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 batch_info.batch_name: Batch 2
 batch_info.batch_range: files 24-45
 batch_info.case_name: James-Kiper-MVA-12-5-2022

@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:04b39cb5e7dc775d930f0725030a503d4c9171574bfcc059189c23e4060b8836
 ---
 
+**Case:** [[cases/robin-wilder-hamilton/robin-wilder-hamilton|Robin Wilder Hamilton]]
+**Client:** [[cases/robin-wilder-hamilton/contacts/robin-wilder-hamilton|Robin Wilder Hamilton]]
+
 content_summary: VA Medical Center anesthesiology note from [DOB-1] documenting telephone call with Robin Wilder-Hamilton regarding Pre-IPRP (Interdisciplinary Pain Rehabilitation Program) assessment scheduled for 10/15/24, including pain management team evaluation details.
 document_date: 2024-04-25
 entities[0]: Robin Wilder-Hamilton

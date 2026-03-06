@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:c0f055dc7941929c317874412394958c9e077ad87d8b4ee9d2354cf9ee6c33f8
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 Subject: CHARLES TIMOTHY JOHNSON - [PHONE-10]-2023
 From: [EMAIL-9]
 To: sarena@whaleylawfirm.com, [EMAIL-8]

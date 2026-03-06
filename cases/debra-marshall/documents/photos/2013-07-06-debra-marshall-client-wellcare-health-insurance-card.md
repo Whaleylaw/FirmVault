@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:385d2404acd2dad90cb2d191957a402ba12e6aebf7545db12ac4f98100f14509
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-Marshall-MVA-12-3-2022/Client/2013-07-06-Debra-Marshall-Client-WellCare-Health-Insurance-Card.jpg

@@ -1,26 +1,23 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:48:16.411000+00:00
+created_at: {}
 document_category: medical
-document_date: 1983-12-28
+document_date: {}
 document_type: medical
-entities:
-- Dr. Harold Reedy
-- Travis Daniel
-- Melissa Marie
-- Harold Reedy
-- This Hospital
-- Baptist Health
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Baptist
-  Health Corbin SOuth Imaging/Medical Records/2019-08-23-Amy-Mills-Medical-Baptist
-  Health Corbin SOuth Imaging-Medical-Records-Baptist-Health-Corbin-MRI-Shoulder-Radiology-Report.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Baptist Health Corbin SOuth Imaging/Medical Records/2019-08-23-Amy-Mills-Medical-Baptist Health Corbin SOuth Imaging-Medical-Records-Baptist-Health-Corbin-MRI-Shoulder-Radiology-Report.pdf
 source_hash: sha256:22cfb2a1345fd5c5ef00d3a91561c686e81b6d6d451af6e33364f1aedf3e3f03
+contact: "[[cases/2019-04-26-prl-001/contacts/baptist-health-corbin]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 Baptist Health Corbin
 1 Trillium Way

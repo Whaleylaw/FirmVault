@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Malcom
 source_hash: sha256:b84f6983b94b715f2dd33159c699e37d68c710c4afdef50401ec5418b8b2e96e
 ---
 
+**Case:** [[cases/malcom-glass-jones/malcom-glass-jones|Malcom Glass Jones]]
+**Client:** [[cases/malcom-glass-jones/contacts/malcom-glass-jones|Malcom Glass Jones]]
+
 item_0.adjuster_email: [EMAIL-1]
 item_0.adjuster_phone: [PHONE-2]
 item_0.claim_number: 8055562

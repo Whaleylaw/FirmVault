@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:1a37e86a5b83a6a33b1aa3367853696fc39837454060d23b761ce679b01f6d3b
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 Subject: Re: #secure#
 From: sarena@whaleylawfirm.com
 To: [EMAIL-5]

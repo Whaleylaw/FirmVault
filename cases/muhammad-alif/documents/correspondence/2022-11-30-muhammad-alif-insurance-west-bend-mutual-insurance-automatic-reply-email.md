@@ -1,6 +1,6 @@
 ---
 case_slug: muhammad-alif
-created_at: 2026-02-17 00:09:55.847000+00:00
+created_at: {}
 document_category: correspondence
 document_type: correspondence
 extraction_method: native_text
@@ -10,7 +10,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Insurance/2022-11-30-Muhammad-Alif-Insurance-West-Bend-Mutual-Insurance-Automatic-Reply-Email.eml
 source_hash: sha256:4444cbceda63222bea760a8e4f1916edda64bbd71e77b635a991ed9f43b037d1
+contact: "[[cases/2022-11-08-mva-001/contacts/west-bend-mutual-insurance]]"
 ---
+
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 
 Subject: Automatic reply: [External]Claim: AP92071 - Muhammad Alif
 From: [EMAIL-5]

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jaysha
 source_hash: sha256:1b88dc8fe9e9b49944e523492b5c4bb1ecd8fdcd9262da28064b87060cad0902
 ---
 
+**Case:** [[cases/jaysha-aponte/jaysha-aponte|Jaysha Aponte]]
+**Client:** [[cases/jaysha-aponte/contacts/jaysha-aponte|Jaysha Aponte]]
+
 Medical Payments / PIP Summary
 Named Insured: JAYSHA M APONTE
 Injured Party: APONTE, JAYSHA M

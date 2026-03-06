@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:5905b735f19c48337949c24faf079c57729f1012fe9d8944cacdf6d84f743ea7
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 EO LOUISVILLE KY 40g. * wee [DOB-1] 5 setassB ty Mk gs eS Feat this Brg (SSEXF IGHGT 5-07" sSE¥ES GRN wren Sea aees, 3 90 [PHONE-11]+[PHONE-10] as [DOB-4]
 
 Pa

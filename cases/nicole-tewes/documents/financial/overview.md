@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nicole
 source_hash: sha256:069697b2e6b92c80cd985adf3f78470359e08ba763b5c874dc35148304415fcd
 ---
 
+**Case:** [[cases/nicole-tewes/nicole-tewes|Nicole Tewes]]
+**Client:** [[cases/nicole-tewes/contacts/nicole-tewes|Nicole Tewes]]
+
 item_0.jsonb_agg[0].accident_date: 2025-07-05
 item_0.jsonb_agg[0].case_create_date: 2025-12-26T19:49:38.501823
 item_0.jsonb_agg[0].case_type: MVA

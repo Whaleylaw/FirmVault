@@ -1,8 +1,8 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:47:06.463000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 2024-09-07
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Lien/2024.09.07-Mills-ML-Optum-Status-Request-Form.pdf
 source_hash: sha256:46e54dc1dbfe64e8d68b9ef4ea0cd7ba17f54ea4cc5455d9e77660c3b55d9726
+contact: "[[cases/2019-04-26-prl-001/contacts/optum]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 © [DOB-1] 4:57 PM Fax Services >Aaron pg lof 3
 FAX

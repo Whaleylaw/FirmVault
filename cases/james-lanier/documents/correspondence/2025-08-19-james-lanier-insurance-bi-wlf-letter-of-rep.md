@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:f63dc31a3b9b093838f5004d80b9c6b7bd1d1c0a1fb6f274e7a55fe8179e50ab
 ---
 
+**Case:** [[cases/james-lanier/james-lanier|James Lanier]]
+**Client:** [[cases/james-lanier/contacts/james-lanier|James Lanier]]
+
 Aaron G. Whaley, Esq. 712 Lyndon Lane
 
 IHALEY A L E ¥ Louisville, KY 40222 Ph: [PHONE-3]

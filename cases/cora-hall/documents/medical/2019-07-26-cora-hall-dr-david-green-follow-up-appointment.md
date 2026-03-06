@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:d50818c7412e2757f87319d5aeb6e46deab037348e83baf8790dfe5661c90004
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 ed2e-12-07 11:04 Riverside - Ortho 12707451388 »> Faxfinder.cloud P 12/16
 
 Page 4 of 5

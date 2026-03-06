@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:c623f40baeacc73c63e8a6332d8506891f30a2685c7b4e9bdea67f18db525881
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 Louisville Metro Emergency Medical Services
 P.O. Box 34338
 Louisville, KY 40232

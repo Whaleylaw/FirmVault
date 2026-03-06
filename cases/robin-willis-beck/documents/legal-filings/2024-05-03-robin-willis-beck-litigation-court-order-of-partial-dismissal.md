@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:53a5781c1e1decd22399d82c3bdde46a53f3831270e704953326632b3a51dd9a
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 Subject: NOTICE OF ENTRY  JEFFERSON Circuit 24-CI-000532, BECK, ROBIN WILLIS VS. DANNY WIMMER PRESENTS, LLC ET AL Envelope # 7876288
 From: [EMAIL-5]
 To: [EMAIL-4], Sarena@WhaleyLawFirm.com, [EMAIL-3]

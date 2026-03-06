@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:e734a06b91ffa8a94496870925aeca308afbe08bd02d16fd6b723505cf85e9d4
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 LOUISVILLE LEXINGTON LONDON FLORENCE CINCINNATI INDIANAPOLIS ORLANDO JACKSONVILLE TAMPA
 
 GD

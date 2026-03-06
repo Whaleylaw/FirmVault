@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:ba488839004baba7358ab1a092975d474c9a43e73e5dfcbe5fe92904c0e93185
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 accident_date: 2023-04-18
 case_type: MVA
 client_name: Charles-T-Johnson

@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jaysha
 source_hash: sha256:3f65f1e79dd1f065a00c86c0ea03fa50fc37b49c50c2eedb28e8c431d7835bdd
 ---
 
+**Case:** [[cases/jaysha-aponte/jaysha-aponte|Jaysha Aponte]]
+**Client:** [[cases/jaysha-aponte/contacts/jaysha-aponte|Jaysha Aponte]]
+
 Nov. 12.2025 12:53 PM Tri-State [PHONE-55] P 1/17
 X
 To: Wholey

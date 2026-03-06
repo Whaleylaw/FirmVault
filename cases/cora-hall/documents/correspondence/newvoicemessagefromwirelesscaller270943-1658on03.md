@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:1f99dc05469e76118ddae0061938f5b44d1a5bc05d6903258383b95bb52655f7
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 Subject: New Voice Message from WIRELESS CALLER [PHONE-5] on [DOB-2] 10:37 AM
 From: [EMAIL-3]
 To: Sarena@whaleylawfirm.com

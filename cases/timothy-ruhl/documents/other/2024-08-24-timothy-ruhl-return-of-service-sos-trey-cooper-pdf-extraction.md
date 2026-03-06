@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:9a3dfd255ac06ce68affb998f2e10605b98a671aebc8dea9daa2586ce52671ef
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 content_analysis.category: Litigation
 content_analysis.date: 2024-08-24
 content_analysis.description: Return of Service

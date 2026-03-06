@@ -1,0 +1,16 @@
+---
+schema_version: 2
+case_id: 95bc5b24-e276-446d-b2a5-507cf9641e9a
+date: "2024-12-23"
+category: correspondence
+subcategory: email
+---
+
+# email — 2024-12-23
+
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Category:** correspondence / email
+
+__Re: The Whaley Law Firm has requested your signature. Follow the prompts to execute the attached.__
+From: Michael Crader  [michaelcrader67@gmail.com](mailto:michaelcrader67@gmail.com)
+To: Aaron Whal

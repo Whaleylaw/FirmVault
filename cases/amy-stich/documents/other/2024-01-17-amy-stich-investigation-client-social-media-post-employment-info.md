@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:6bc382cfdacc458efe14e4bc603f248a572e5ee9667746d71e85d236a9b03a25
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 DP what's your occupation?
 4d Like Reply 10
 0 Amy Stich

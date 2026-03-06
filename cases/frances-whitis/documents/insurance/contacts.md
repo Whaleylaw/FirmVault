@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/France
 source_hash: sha256:9158f48bdadd8096d248dc82edea383593f8e1dbc90064104894a5efe9ec1476
 ---
 
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 item_0.jsonb_agg[0].address: 117 Redbud Lane
 item_0.jsonb_agg[0].email: [EMAIL-1]
 item_0.jsonb_agg[0].full_name: Frances Whitis

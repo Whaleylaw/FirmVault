@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:24be18b8f45023bd70976124fca518d6bb0eefb16ff4008b08787f756b5bfee5
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: insurance
 date: 2024-12-01
 description: PIP application for benefits for Chase Lindsey's emergency treatment for neck and chest pain at Cincinnati Children's Hospital

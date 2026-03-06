@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:77fed6b972d0578f7897012dc5cc1ff64380292453d5b634c957a96b3fd8b826
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: lien_correspondence
 extraction.date: 2023-12-28
 extraction.description: Medicare lien correspondence from The Whaley Law Firm regarding Wayne Weber's case dated December 28, 2023.

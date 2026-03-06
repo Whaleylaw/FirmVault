@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:903e5eac0efac6892821b41b9560c91b77427bbf36633e08a2e4335c26cd387d
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: medical
 date: 2025-01-09
 description: Medical records from St. Elizabeth Edgewood transmitted to Whaley Law Firm

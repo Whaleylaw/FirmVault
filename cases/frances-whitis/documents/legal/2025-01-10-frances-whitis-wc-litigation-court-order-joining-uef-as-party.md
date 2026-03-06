@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/France
 source_hash: sha256:25fafb65df3e58c6188d87e7f04fbf494456aa143003076a237f6cbc42d0b344
 ---
 
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 EDUCATION AND LABOR CABINET
 DEPARTMENT OF WORKERS’ CLAIMS
 AN DY BE SHEAR SC O TT WILHOIT JA M I E LINK

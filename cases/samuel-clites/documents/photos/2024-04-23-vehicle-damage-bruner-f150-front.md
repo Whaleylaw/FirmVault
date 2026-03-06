@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Samuel
 source_hash: sha256:1d6ca34ac25f7dd4e88ada7cdcd57678f052a0be2d0b64bdc496ded6fc358031
 ---
 
+**Case:** [[cases/samuel-clites/samuel-clites|Samuel Clites]]
+**Client:** [[cases/samuel-clites/contacts/samuel-clites|Samuel Clites]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Samuel-Clites-MVA-4-23-2024/Evidence/2024-04-23_Vehicle_Damage_Bruner-F150-Front.jpg

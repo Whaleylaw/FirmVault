@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dewayn
 source_hash: sha256:0c9bea5d3ca8960da58b2262adee6aa1ae347a468617ded9badc48667137f6b6
 ---
 
+**Case:** [[cases/dewayne-ward/dewayne-ward|Dewayne Ward]]
+**Client:** [[cases/dewayne-ward/contacts/dewayne-ward|Dewayne Ward]]
+
 [DOB-1]
 University of Louisville Hospital
 530 S. Jackson Street

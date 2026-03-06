@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:764ad7fc3ace5ebfa16a87de0e894b75bf6ded574f4d1221e6a94ab9d0cc1acc
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 content_analysis.category: Litigation
 content_analysis.date: 2025-05-15
 content_analysis.description: Plaintiff first interrogatories and RFP responses

@@ -1,22 +1,23 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:48:26.173000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 2025-03-21
+document_date: {}
 document_type: correspondence
-entities:
-- Dr. Kevin Magone
-- Kevin Magone
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: message/rfc822
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/CHI
-  St. Joseph Medical Group- Orthopedics/Medical Records/2025-03-21-Amy-Mills-Medical-CHI
-  St. Joseph Medical Group- Orthopedics-Medical-Records-WLF-Email-Sharing-Imaging-CD.eml
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/CHI St. Joseph Medical Group- Orthopedics/Medical Records/2025-03-21-Amy-Mills-Medical-CHI St. Joseph Medical Group- Orthopedics-Medical-Records-WLF-Email-Sharing-Imaging-CD.eml
 source_hash: sha256:5222f5bdad21fba9ddbbf75cb919030d16272365914529f426853e5cba4a313a
+contact: "[[cases/2019-04-26-prl-001/contacts/chi-st-joseph-medical-group-orthopedic]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 Subject: RE: Sarena Tuttle shared "2023.03.21 Mills Imaging CD to DC" with you
 From: [EMAIL-6]

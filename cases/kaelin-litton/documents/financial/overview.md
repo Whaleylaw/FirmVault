@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kaelin
 source_hash: sha256:fe8b0d51b375360469036847213326ef1415c2010f4665fe29d20b516742e957
 ---
 
+**Case:** [[cases/kaelin-litton/kaelin-litton|Kaelin Litton]]
+**Client:** [[cases/kaelin-litton/contacts/kaelin-litton|Kaelin Litton]]
+
 item_0.jsonb_agg[0].case_create_date: 1769714459261
 item_0.jsonb_agg[0].client_address: 2016 Cypress St, Louisville, KY 40210
 item_0.jsonb_agg[0].client_name: Kaelin Litton

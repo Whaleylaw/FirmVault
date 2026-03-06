@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jonah-
 source_hash: sha256:e2e1940b[POLICY-1]cde8e8eac47dd4ab451d1c0583e055289223433efd9309bc
 ---
 
+**Case:** [[cases/jonah-price/jonah-price|Jonah Price]]
+**Client:** [[cases/jonah-price/contacts/jonah-price|Jonah Price]]
+
 PROGRESSIVE
 COMMERCIAL
 PROGRESSIVE

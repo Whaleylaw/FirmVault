@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2021-09-03-MVA-001
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda-Lang-MVA-[DOB-1]/Medical/2021-09-03-Brenda-D-Lang-Louisville-Emergency-Dept-Visit-Neck-Pain.pdf"
 source_hash: "sha256:a871ed724dcc4539d4c1055a1e648bbc6bdda16be77288097d4980d3403e6004"

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brando
 source_hash: sha256:52d649168399b4a19fa22a3dc9c2925699b399acb22e25c9f09953b3cc5d32bf
 ---
 
+**Case:** [[cases/brandon-robinson-jr/brandon-robinson-jr|Brandon Robinson Jr]]
+**Client:** [[cases/brandon-robinson-jr/contacts/brandon-robinson-jr|Brandon Robinson Jr]]
+
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 
 Louisville, KY 40222 

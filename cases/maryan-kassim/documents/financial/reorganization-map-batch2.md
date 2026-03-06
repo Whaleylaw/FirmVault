@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:24b7c3e6c02e8756148870f993373b347e0f5fb201cf9a1ee30b3b14eb50680c
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 item_0.action: MOVE
 item_0.category: Medical
 item_0.confidence: high

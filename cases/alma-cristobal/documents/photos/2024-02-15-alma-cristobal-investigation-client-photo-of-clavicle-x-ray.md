@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:70ffa4152494fe82842861b5d92b69b50a4bb204c7e1eece318110c1d391e9ce
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-Cristobal-MVA-2-15-2024/Investigation/2024-02-15-Alma-Cristobal-Investigation-Client-Photo-of-Clavicle-X-ray.jpg

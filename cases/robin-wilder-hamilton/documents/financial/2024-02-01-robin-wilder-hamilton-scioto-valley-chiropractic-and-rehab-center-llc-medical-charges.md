@@ -1,8 +1,8 @@
 ---
 case_slug: robin-wilder-hamilton
-created_at: 2026-02-17 00:15:50.675000+00:00
+created_at: {}
 document_category: financial
-document_date: 1981-05-30
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2023-06-15-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-Wilder-Hamilton-MVA-6-15-2023/Medical/2024-02-01-Robin-Wilder-Hamilton-Scioto-Valley-Chiropractic-and-Rehab-Center-LLC-medical-charges.pdf
 source_hash: sha256:25b7c3ef793a8ba630eb95cb7f9406bcd344d66e15a01ac5b905391335ef77c0
+contact: "[[cases/2023-06-15-mva-001/contacts/scioto-valley-chiropractic-and-rehab-center-llc]]"
 ---
+
+**Case:** [[cases/robin-wilder-hamilton/robin-wilder-hamilton|Robin Wilder Hamilton]]
+**Client:** [[cases/robin-wilder-hamilton/contacts/robin-wilder-hamilton|Robin Wilder Hamilton]]
+
 
 Claim # Service Date Code Charge Amt Ins Applied Ins Adj Take Back Patient 
 Applied

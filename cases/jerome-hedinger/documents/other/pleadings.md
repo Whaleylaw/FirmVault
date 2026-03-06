@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:a7422421bc7f3dfd31b4206833d74516edcf87595c8611673cd315e0c55f32ed
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 item_0.certificate_of_service: 2024-09-27
 item_0.filing_party_name: Bryce Koon
 item_0.pleading_type: Complaint

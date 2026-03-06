@@ -1,19 +1,22 @@
 ---
 case_slug: jaysha-aponte
-created_at: 2026-02-16 23:55:47.677000+00:00
+created_at: {}
 document_category: medical
-document_date: 1992-08-04
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2025-03-15-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jaysha-Aponte-MVA-3-15-2025/Medical/East
-  Broadway Family Health Center/Record Requests/2025-03-21-Jaysha-Aponte-Medical-East
-  Broadway Family Health Center-Record-Requests-WLF-Medical-Records-Authorization.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jaysha-Aponte-MVA-3-15-2025/Medical/East Broadway Family Health Center/Record Requests/2025-03-21-Jaysha-Aponte-Medical-East Broadway Family Health Center-Record-Requests-WLF-Medical-Records-Authorization.pdf
 source_hash: sha256:d07cd974c81ceef37916130120e3c8a79f860bbb17b33247d7e489a35280c678
+contact: "[[cases/2025-03-15-mva-001/contacts/east-broadway-family-health-center]]"
 ---
+
+**Case:** [[cases/jaysha-aponte/jaysha-aponte|Jaysha Aponte]]
+**Client:** [[cases/jaysha-aponte/contacts/jaysha-aponte|Jaysha Aponte]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

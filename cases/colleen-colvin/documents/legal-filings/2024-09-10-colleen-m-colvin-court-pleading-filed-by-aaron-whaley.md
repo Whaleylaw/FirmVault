@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Collee
 source_hash: sha256:e5ce1723e50545c6cde82522dd7e90b431833123028587fe5f7773e047cc8726
 ---
 
+**Case:** [[cases/colleen-colvin/colleen-colvin|Colleen Colvin]]
+**Client:** [[cases/colleen-colvin/contacts/colleen-colvin|Colleen Colvin]]
+
 Commonwealth of Kentucky
 Deanna Simcoe, Hardin Circuit Clerk
 Case #: 24-Cl-01568 Envelope #: 8781676

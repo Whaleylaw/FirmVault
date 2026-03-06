@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:dd7d2da3b466e71f828d62f902ad7a2f28e8dbc61b2a52aed9dd12adc1da2888
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 extraction.category: Insurance
 extraction.date: 2025-02-24
 extraction.description: Claim acknowledgment letter from Liberty Mutual dated [DOB-2]. Claim Number: WC80D-H07503, State Claim: 202587490. Accepted conditions: Right elbow and lower back for injury dated [DOB-2]

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Raysha
 source_hash: sha256:b259f25200f029fda1ee1493463cac32ca3a6366eea639f04bea9040ef75c154
 ---
 
+**Case:** [[cases/rayshawn-wilson/rayshawn-wilson|Rayshawn Wilson]]
+**Client:** [[cases/rayshawn-wilson/contacts/rayshawn-wilson|Rayshawn Wilson]]
+
 Verification Complete
 The document has been officially verified.
 Recipient1

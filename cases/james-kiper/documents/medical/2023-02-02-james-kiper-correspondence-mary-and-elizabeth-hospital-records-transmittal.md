@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2022-12-05-MVA-001
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Kiper-MVA-12-5-2022/Correspondence/2023-02-02-James-Kiper-Correspondence-Mary-and-Elizabeth-Hospital-Records-Transmittal.pdf"
 source_hash: "sha256:180f72b38fc970ba659690a9e8ed29d92e65e30bdb8691b318fbd8ad7b0f167e"

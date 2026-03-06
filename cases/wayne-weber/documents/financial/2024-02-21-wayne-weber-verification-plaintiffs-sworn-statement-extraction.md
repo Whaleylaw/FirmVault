@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:64abb9bfccb646f12d63928f75e0c0481c5c600bcab6e7fd968f2c8632168e0a
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: litigation
 extraction.date: 2024-02-21
 extraction.description: Verification of plaintiff's sworn statement for Wayne Weber dated February 21, 2024.

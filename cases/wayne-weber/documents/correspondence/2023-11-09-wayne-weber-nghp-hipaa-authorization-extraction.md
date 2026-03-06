@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:d98118facc83cab5abe36e79e69d757d580c80d62fc69142603828ff6cc40a19
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: medical_requests
 extraction.date: 2023-11-09
 extraction.description: NGHP HIPAA Authorization for Wayne Weber dated November 9, 2023.

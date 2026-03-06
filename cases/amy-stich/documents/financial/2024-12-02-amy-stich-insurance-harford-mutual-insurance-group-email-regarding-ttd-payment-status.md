@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:f3acc75e1cd6cc18b1ba68d84482dfac6ee45af4bb8ac74da1283ba41c9a0733
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 Subject: RE: Claim: 237484CS - TTD Status
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com, [EMAIL-2]

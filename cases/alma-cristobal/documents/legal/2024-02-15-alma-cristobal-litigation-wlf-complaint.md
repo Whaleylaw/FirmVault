@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:3dfadaf1683f65a9bb2379735c27048cb56a2bf703011bcc6f1d9ed0511a1d2c
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 CASE NO. ______________ JEFFERSON CIRCUIT COURT 
  DIVISION ______ (__) 
  JUDGE ___________________ 

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:552fbdf21dd6557d7049be3f314956edfa3e4286bd2507fcf561a56ad535f225
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-Cristobal-MVA-2-15-2024/Medical Records/CPD/Medical Records/2024-03-14-Alma-Cristobal-Medical-CPD-Medical-Records-CPD-X-Ray-Clavicle-Fracture.jpg

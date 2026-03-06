@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:82e530d30934d7f0ffba3058b75a2dcd456cd3b869152a90bb47b37597bd7311
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 Subject: Your Record Request Has Been Fulfilled
 From: [EMAIL-2]
 To: sarena@whaleylawfirm.com

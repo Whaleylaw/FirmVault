@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie
 source_hash: sha256:43e6ad74064a57d3548b79d1cd613d15d425a595451c3e36d7efd274fa9b86f9
 ---
 
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 category: Insurance
 date: 2024-12-16
 description: Letter from State Farm Claims to Whaley Law Firm requesting recorded statement and police report for Kentucky Assigned Claims Plan benefits investigation

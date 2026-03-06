@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:80eaa397946b55da310cc78c4f53079974e4a35d65aa5b7df97b59636850cc23
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 Aaron G. Whaley, Esq. 712 
 Lyndon Lane 
 Louisville, KY 40222 

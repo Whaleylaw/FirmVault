@@ -1,22 +1,23 @@
 ---
 case_slug: muhammad-alif
-created_at: 2026-02-17 00:11:33.437000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1961-04-16
+document_date: {}
 document_type: correspondence
-entities:
-- Records Custodian
-- Norton Healthcare
+entities: null
 extraction_method: native_text
 legacy_case_id: 2022-11-08-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Norton
-  Neurosciences Spine And Rehabilitation Center/Record Requests/2022-12-08-Muhammad-Alif-Medical-Norton
-  Neurosciences Spine And Rehabilitation Center-Record-Requests-Norton-Healthcare-Medical-Records-Certification-and-Request.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Norton Neurosciences Spine And Rehabilitation Center/Record Requests/2022-12-08-Muhammad-Alif-Medical-Norton Neurosciences Spine And Rehabilitation Center-Record-Requests-Norton-Healthcare-Medical-Records-Certification-and-Request.pdf
 source_hash: sha256:525aba03046312524ad4e6aa2bb5fcf7016b29afdb7781960610c398019c675a
+contact: "[[cases/2022-11-08-mva-001/contacts/norton-neurosciences-spine-and-rehabilitation-center]]"
 ---
+
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 
 ANN NORTON
 Real people. Remarkable care,

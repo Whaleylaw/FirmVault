@@ -30,6 +30,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:ad51eb7be689c9f25802fb6a5ad07350a29022c56098276eb76323a1d2c98181
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 Application for Resolution of a Claim — Injury February 2020 Edition
 
 Filed: via LMS -

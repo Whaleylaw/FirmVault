@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:3659ecd6ecc67516f9280cd6dc31749929c1e18556cde352a1bd2d2bfbac73a6
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 Kentucky Farm Bureau
 Mutual Insurance Company
 THE WHALEY LAW FIRM PSC March 6, 2024

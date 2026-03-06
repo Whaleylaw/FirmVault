@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:e4f57745a28389e0251e6eefe97633bc68249608990b011359cd19cec34bd717
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 category: Litigation
 description: ORDER-GRANTING-AMENDED-COMPLAINT
 entities[0]: Anella Noble

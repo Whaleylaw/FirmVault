@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:83a9960642247497e1c5e603d926ae7a6b6a6fbb2864ef63cd020dde5ce38796
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 content_length_chars: 1553
 document_metadata.attachments[0]: MyChart - Letters.PDF
 document_metadata.created_at: 2024-04-26T16:55:34Z

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:57ab18ab3cce53f20ec9b58ea02e2d745c086c7e36e7ce151ce96e0810959e1c
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: Litigation
 date: 2025-08-25
 description: Court pleading related to CAAL Worldwide Inc case. Filed August 25, 2025.

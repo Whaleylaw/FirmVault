@@ -1,11 +1,10 @@
 ---
 case_slug: caryn-mccay
-created_at: 2026-02-16 22:18:10.842000+00:00
+created_at: {}
 document_category: other
-document_date: 2023-09-21
+document_date: {}
 document_type: other
-entities:
-- UK Albert Chandler Hospital
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-07-30-MVA-001
 mime_type: application/json
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 85
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-McCay-MVA-7-30-2023/extractions/2023-09-21-Caryn-McCay-UK-Albert-Chandler-Hospital-HIPAA-Authorization-8_extraction.json
 source_hash: sha256:2ac61c3f5e0e650fce2d4924ed2cee518530561758533c153ea8faff35ebe731
+contact: "[[cases/2023-07-30-mva-001/contacts/caryn-mccay]]"
 ---
+
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 
 category: medical_records_request
 description: HIPAA authorization for UK Albert Chandler Hospital

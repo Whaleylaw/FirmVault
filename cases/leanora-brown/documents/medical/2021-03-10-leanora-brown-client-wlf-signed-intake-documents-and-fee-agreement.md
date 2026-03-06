@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Leanor
 source_hash: sha256:5825029800717ad377235c9c4afd3b925e72ca84cb9696459532a5ef7166b75e
 ---
 
+**Case:** [[cases/leanora-brown/leanora-brown|Leanora Brown]]
+**Client:** [[cases/leanora-brown/contacts/leanora-brown|Leanora Brown]]
+
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 
 Louisville, KY 40222 

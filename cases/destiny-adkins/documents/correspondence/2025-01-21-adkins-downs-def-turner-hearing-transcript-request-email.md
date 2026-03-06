@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Destin
 source_hash: sha256:aae575b92c08aab0a22b5a8005c7c9ecd2a3f3e8cae8a3c8a26e07aa921b22c3
 ---
 
+**Case:** [[cases/destiny-adkins/destiny-adkins|Destiny Adkins]]
+**Client:** [[cases/destiny-adkins/contacts/destiny-adkins|Destiny Adkins]]
+
 Subject: Hearing CD Request - 21-T-007313 - Demetrius E. Turner
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

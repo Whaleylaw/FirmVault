@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:1710bd482af76cbd797c5d0ef7c90269ccb8f16f09dde7a9a65941b448aba25c
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 Subject: Fwd: Secure File Transfer from Louisville Metro Government
 From: [EMAIL-1]
 To: [EMAIL-6], sarena@whaleylawfirm.com, [EMAIL-5]

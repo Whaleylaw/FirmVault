@@ -1,11 +1,10 @@
 ---
 case_slug: robin-wilder-hamilton
-created_at: 2026-02-17 00:15:48.831000+00:00
+created_at: {}
 document_category: financial
-document_date: 1981-05-30
+document_date: {}
 document_type: financial
-entities:
-- VA Medical Center
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-06-15-MVA-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-Wilder-Hamilton-MVA-6-15-2023/Medical/2023-11-06-Robin-Wilder-Hamilton-VA-Medical-Center-Lexington-medical-records-request.pdf
 source_hash: sha256:0bcdb6a56211bc96bcc1341a65b4ffcd5b482acf81a10ebb3f4eee0af3d1a160
+contact: "[[cases/2023-06-15-mva-001/contacts/va-medical-center-lexington]]"
 ---
+
+**Case:** [[cases/robin-wilder-hamilton/robin-wilder-hamilton|Robin Wilder Hamilton]]
+**Client:** [[cases/robin-wilder-hamilton/contacts/robin-wilder-hamilton|Robin Wilder Hamilton]]
+
 
 2023-11-09 10:20 [PHONE-7] [PHONE-6] >> P 1/2
 Aaron G.Whaley, Esq.

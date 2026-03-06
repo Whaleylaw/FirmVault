@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Destin
 source_hash: sha256:0727600d0951d309ac16fa2382deb07fc5b8303de1f23f3c266fd14cbf2a0aec
 ---
 
+**Case:** [[cases/destiny-adkins/destiny-adkins|Destiny Adkins]]
+**Client:** [[cases/destiny-adkins/contacts/destiny-adkins|Destiny Adkins]]
+
 address: 11322 Hayes Landing Road #204, , Louisville, KY 40299
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

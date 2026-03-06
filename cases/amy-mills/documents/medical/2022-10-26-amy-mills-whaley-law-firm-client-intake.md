@@ -19,6 +19,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:acb6dfcb3a2f6e38c4fd59bbea9275f43bdda51a20c842b43aeaacc0d34f0ba9
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 BAPTIST HEALTH
 
 WME

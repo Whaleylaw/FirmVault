@@ -1,8 +1,8 @@
 ---
 case_slug: kimberly-brasher
-created_at: 2026-02-17 00:01:38.743000+00:00
+created_at: {}
 document_category: financial
-document_date: 2023-03-23
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2023-02-25-PrL-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimberly-Brasher-Premise-2-25-2023/Bills/2023-03-23-Kimberly-Brasher-UHP-ADMINISTRATORS-INC-patient-statement.pdf
 source_hash: sha256:a7d845d37b3a7367d4dbb6b86d96befb83608a86ffbf6ff29dfd8c4c24ab348f
+contact: "[[cases/2023-02-25-prl-001/contacts/uhp-administrators]]"
 ---
+
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 
 Patient
 Statement

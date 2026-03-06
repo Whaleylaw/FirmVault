@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:6c9b2fda8a0450886884cd2514d1f2e9d91c968b3ef68f0d684c7799a19bc21c
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Stich-WC-[DOB-1]/Medical/Ellis & Badenhausen Orthopaedics, PSC/Medical Records/2024-11-15-Amy-Stich-Medical-Ellis & Badenhausen Orthopaedics, PSC-Medical-Records-Ellis--Badenhausen-Orthopaedics-Work-Status-Restrictions-Form.jpg

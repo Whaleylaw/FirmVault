@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:eb19b1d7624b6a673f357023d0b65af8a7bba21f0de24593d4dcb3eb068697ad
 ---
 
+**Case:** [[cases/james-sadler/james-sadler|James Sadler]]
+**Client:** [[cases/james-sadler/contacts/james-sadler|James Sadler]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Sadler-MVA-4-07-2023/Settlement-Negotiations/IC-1-asking-for-updated-demand-revised-to-76681.jpeg

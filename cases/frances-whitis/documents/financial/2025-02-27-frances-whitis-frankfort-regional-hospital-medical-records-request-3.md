@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/France
 source_hash: sha256:868ca49d1a5176ea51b182ff5da6df3c5b2855a01213b5d1e83453b9140a1aa4
 ---
 
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 28-Feb-2025 16:03 [PHONE-286] [PHONE-2] p.1
 Aaron G. Whaley, Esq.
 712 Lyndon Lane

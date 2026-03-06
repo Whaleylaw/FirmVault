@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Abby-S
 source_hash: sha256:21e7fc41a855e303bd4079840f9a5851373c2799e9fc4e537d0579cb9373cca6
 ---
 
+**Case:** [[cases/abby-sitgraves/abby-sitgraves|Abby Sitgraves]]
+**Client:** [[cases/abby-sitgraves/contacts/abby-sitgraves|Abby Sitgraves]]
+
 Subject: NEF, JEFFERSON Circuit 25-CI-000133, SITGRAVES, ABBY ET AL VS. CAAL WORLDWIDE, INC. ET AL Envelope # 9911247
 From: [EMAIL-6]
 To: [EMAIL-5], SARENA@WHALEYLAWFIRM.COM, [EMAIL-4]

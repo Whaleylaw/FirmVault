@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:80cfe89bd25b183ae007b00f59a461cc6f318a58102b4d7a65dfa8fec09373ba
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 Subject: Re: Doc visit today.
 From: [EMAIL-14]
 To: [EMAIL-13], sarena@whaleylawfirm.com

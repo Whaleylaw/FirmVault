@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dewayn
 source_hash: sha256:8fc9ac1e67558c80545f0a2484e87bb330f71db01726255d47c54522afaded75
 ---
 
+**Case:** [[cases/dewayne-ward/dewayne-ward|Dewayne Ward]]
+**Client:** [[cases/dewayne-ward/contacts/dewayne-ward|Dewayne Ward]]
+
 Mesos Sep. 2023 4:05PM MOTOR VEHICLE RECORDS No.975 P. 1
 gaaeme,| pecamenmee 8 Fax: [PHONE-3] pages ot9 ouaoh aeLae
 eo

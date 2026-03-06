@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:1dd9691d51dcf7c250df5c938d8d5c5224ec8ea76c53adbb8d53971b96539fd1
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 ChartSwap RECEIPT
 2951 Marina Bay Drive
 Suite 130-132 Invoice#: INV-006217029

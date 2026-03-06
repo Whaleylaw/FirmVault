@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2019-04-26-PrL-001
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-[DOB-6556]/2023-07-18-Amy-Mills-MayoClinic-New-Patient-Visit.pdf"
 source_hash: "sha256:c8fd78d29fc6c41b1f61ab34fad1a13bf646b7d88c39cd1c0d235942520b4393"

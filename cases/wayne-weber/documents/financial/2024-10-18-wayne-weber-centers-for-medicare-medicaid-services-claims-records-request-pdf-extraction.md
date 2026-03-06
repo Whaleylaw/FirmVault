@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:f604bf13588c36b743a4d511895005356deaaa3b50ceb37644a43db805591ea5
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: lien_correspondence
 extraction.date: 2024-10-18
 extraction.description: Claims records request sent to Centers for Medicare and Medicaid Services (CMS) for Wayne Weber dated October 18, 2024.

@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:e6e993a3bd598e6bd8acda99a3bb6d85396ef96d3587f8629b2711c09f8bf554
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Insurance,,
 
 A Liberty Mutual Company

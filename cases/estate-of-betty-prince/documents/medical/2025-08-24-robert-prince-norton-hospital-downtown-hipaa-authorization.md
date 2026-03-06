@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:76174b1b22e3c53f6e5201b3744fe8ac9c258c534ba5f1058fec06f83b453178
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 Norton Hospital Downtown 
 AUTHORIZATION TO RELEASE PROTECTED HEALTH CARE INFORMATION
 TO:

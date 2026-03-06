@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Samuel
 source_hash: sha256:04c8fa7112f9b022f9ebefbdbd5a616d806e1d0accc88e8fbd49e6d784f7c768
 ---
 
+**Case:** [[cases/samuel-clites/samuel-clites|Samuel Clites]]
+**Client:** [[cases/samuel-clites/contacts/samuel-clites|Samuel Clites]]
+
 Policy Number: 693 8329-E14-17D
 Date of Loss: 2024-04-23
 Policy Information

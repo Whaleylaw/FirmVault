@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:8b0147b6d6167d01db5b30ea148fe51bd71de7c4e337165a0281732a6c0bae13
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 Subject: New Voice Message from WIRELESS CALLER [PHONE-5] on [DOB-2] 10:50 AM
 From: [EMAIL-3]
 To: Sarena@whaleylawfirm.com

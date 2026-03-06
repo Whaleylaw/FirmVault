@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Destin
 source_hash: sha256:d566750ddca57399f181ba1b991633c3506f5c864f5723a09a6f55f6444ad3b8
 ---
 
+**Case:** [[cases/destiny-adkins/destiny-adkins|Destiny Adkins]]
+**Client:** [[cases/destiny-adkins/contacts/destiny-adkins|Destiny Adkins]]
+
 Subject: Destiny Adkins & Juanita Downs MFL Amended Complaint
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

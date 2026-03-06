@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:ec1379fbd296fc9b99738062d5d10ba0f882018fc883d81da1942a84d6999e84
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 Subject: [External Message Added] Louisville Metro Government public records request #25-2254
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel
 source_hash: sha256:7fe3596d289ead6f9c5517b549e47d4af6f2736c8d24020016bf0fa9a76882f8
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 case_folder: Daniel-W-Volk-MVA-[DOB-1]
 job_id: file-org-a3a2cac2
 phases.extraction.completed_at: 2026-02-02T10:50:23.900503

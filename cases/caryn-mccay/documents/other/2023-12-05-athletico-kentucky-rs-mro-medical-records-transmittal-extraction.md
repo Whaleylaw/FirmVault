@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-
 source_hash: sha256:2253526297dc0c094fe6d019412a8c9ebd8be98bf2564a11d4c8b8a80f145689
 ---
 
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 category: medical_records
 description: Medical records transmittal from Athletico Kentucky
 entities.organizations[0]: Athletico Kentucky

@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:c783501a8f57714ee3361169ba19abb1b20f564dbe68407e77b2adee2e0abc75
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 category: Client
 description: HIPAA Authorization form for University of Louisville Hospital
 entities[0]: Alma Socorro Cristobal Avendaño

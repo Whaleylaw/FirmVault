@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:d3c3c17be632b09bee3c5cc9cce2b03fda752242fe41b1153a70554f95377e45
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: You've been added to a workspace
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

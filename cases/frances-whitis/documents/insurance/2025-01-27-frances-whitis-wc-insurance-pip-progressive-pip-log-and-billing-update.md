@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/France
 source_hash: sha256:377050b288cf1b9f867e3424f71146bfc2138d8a2595fd2dd6244c2a46394e4a
 ---
 
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 Subject: RE: [EXTERNAL] Re: FW: Progressive claim 24-[POLICY-1] Frances Whitis
 From: [EMAIL-11]
 To: sarena@whaleylawfirm.com

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:5d7cd9f93cbba1f3025b117823bf5c33ac8137f928308ef0587d31445ee547b8
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 6 Febuary 25 Vanessa Farris
 6 Febuary q25 Cora Hall 9/22/1989 84
 RECORDS CERTIFICATION

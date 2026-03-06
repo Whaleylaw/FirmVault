@@ -4,6 +4,9 @@ document_category: legal
 legacy_case_id: 2023-02-25-PrL-001
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimberly-Brasher-Premise-2-25-2023/Insurance/2024-07-03-Kimberly-Brasher-Insurance-BI-WLF-Settlement-Demand.pdf"
 source_hash: "sha256:d4ceebd083dfb18c842c5f2127d776f6e7dec3ce03c0b8b59548075a6db5c750"

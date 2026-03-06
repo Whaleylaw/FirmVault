@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:3c7ac20485187fa6adf6655528cc18c347fe41493502556b827f9abcc0d46658
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 Subject: RE: Brenda Lang v. Marcus Hamlet
 From: [EMAIL-63]
 To: sarena@whaleylawfirm.com

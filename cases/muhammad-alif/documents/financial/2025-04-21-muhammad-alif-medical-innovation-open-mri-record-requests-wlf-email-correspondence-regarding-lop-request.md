@@ -1,18 +1,22 @@
 ---
 case_slug: muhammad-alif
-created_at: 2026-02-17 00:11:15.277000+00:00
+created_at: {}
 document_category: financial
-document_date: 1961-04-16
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2022-11-08-MVA-001
 mime_type: message/rfc822
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Innovation
-  Open MRI/Record Requests/2025-04-21-Muhammad-Alif-Medical-Innovation Open MRI-Record-Requests-WLF-Email-Correspondence-Regarding-LOP-Request.eml
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Innovation Open MRI/Record Requests/2025-04-21-Muhammad-Alif-Medical-Innovation Open MRI-Record-Requests-WLF-Email-Correspondence-Regarding-LOP-Request.eml
 source_hash: sha256:2fea6231d969a681169ee91678da48d581f28966b3b97447287f43326eb76a9e
+contact: "[[cases/2022-11-08-mva-001/contacts/innovation-open-mri]]"
 ---
+
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 
 Subject: Fwd: [EXTERNAL MAIL] muhammad alif [DOB-1] PDI[PHONE-23]
 From: [EMAIL-2]

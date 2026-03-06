@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cynthi
 source_hash: sha256:604866d650bf365c97f11eaa14e66587a0a3d5083bfee21a252e6cdd0283fdda
 ---
 
+**Case:** [[cases/cynthia-gibson/cynthia-gibson|Cynthia Gibson]]
+**Client:** [[cases/cynthia-gibson/contacts/cynthia-gibson|Cynthia Gibson]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cynthia-Gibson-MVA-7-9-2025/Client/2025-07-09-Cynthia-Gibson-Client-Passport-Health-Plan-Medical-Insurance-Card-Back.jpg

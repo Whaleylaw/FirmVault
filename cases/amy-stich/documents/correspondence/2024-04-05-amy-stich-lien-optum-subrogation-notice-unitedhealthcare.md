@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:692ec48f2e29de6f5d4f17ef025da4818cf9151a0d19f6724c73db156917d940
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 © [DOB-1] 7:58 PM Fax Services >SARENA
 FAX
 To: SARENA TUTTLE

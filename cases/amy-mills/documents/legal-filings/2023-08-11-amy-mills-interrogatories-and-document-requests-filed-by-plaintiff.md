@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:7593975ce66abc371bc3bfc3ca8ad9337d799d7786e3a934cdfcfd6bba58fa5b
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 COMMONWEALTH OF KENTUCKY 
 KNOX CIRCUIT COURT 
 DIVISION TWO (2) 

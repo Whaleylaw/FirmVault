@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:50a0cb7e819757dd8356e7a12540847889ef0317b4b23ceff4079c7ff45a521a
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 © [DOB-23] 2:32 AM
 FAX
 To:

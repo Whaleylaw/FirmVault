@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2023-08-29-MVA-003
 ---
 
+**Case:** [[cases/julmonzhae-moore/julmonzhae-moore|Julmonzhae Moore]]
+**Client:** [[cases/julmonzhae-moore/contacts/julmonzhae-moore|Julmonzhae Moore]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmonzhae-Moore-MVA-8-29-2023/Insurance/2023-12-15-Julmonzhae-Moore-Liberty-Mutual-Insurance-Settlement-Demand-Letter.pdf"
 source_hash: "sha256:e7b1779146db46148e4b5d4c19ad3ff4fd14d8cbd9b00538f89538d3f7299aca"

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:2a4429630d5594f8290fe73fc6e8aff59e5ef11964cf9e8112799812b9b3b638
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 category: Medical
 date: 2025-03-18
 description: Medical records request letter dated 3/18/2025 from Whaley Law Firm to facility at 2618 Ring Road Suite 110 Elizabethtown for Jimmy Ferguson's records from 5/30/2024 through 3/18/2075 per KRS 422.317.

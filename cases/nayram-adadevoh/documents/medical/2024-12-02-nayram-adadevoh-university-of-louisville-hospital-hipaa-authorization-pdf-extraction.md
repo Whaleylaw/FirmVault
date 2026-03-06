@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:da1bf93600dc2ad96dd68b3e24fa4940a7d02fc11987d2028e4e9c6977569988
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: Medical Records
 date: 2024-12-02
 description: HIPAA Authorization form for University of Louisville Hospital to release medical records. Dated December 2, 2024.

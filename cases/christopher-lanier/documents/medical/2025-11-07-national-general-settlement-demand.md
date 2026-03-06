@@ -2,7 +2,12 @@
 case_slug: christopher-lanier
 document_category: medical
 legacy_case_id: 2025-06-28-MVA-001
+contact: "[[cases/2025-06-28-mva-001/contacts/national-general]]"
 ---
+
+**Case:** [[cases/christopher-lanier/christopher-lanier|Christopher Lanier]]
+**Client:** [[cases/christopher-lanier/contacts/christopher-lanier|Christopher Lanier]]
+
 
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christopher-Lanier-MVA-6-28-2025/Negotiation-Settlement/2025-11-07_National-General_Settlement-Demand.pdf"

@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2019-04-26-PrL-001
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-[DOB-4]/Review_Needed/2019-09-23-Amy-Mills-KNR-EEG-normal.pdf"
 source_hash: "sha256:6c8a09d5222f5b5b38b0487d76b5c[PHONE-2]b27b509c42034298ce9faf14e"

@@ -4,6 +4,9 @@ document_category: correspondence
 legacy_case_id: 2025-02-07-OTH-001
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shannon-Lankswert-WC-[DOB-1]/Insurance/2025-03-17-Shannon-Lankswert-Insurance-Lucas-and-Dietz-First-Report-of-Injury-Email.pdf"
 source_hash: "sha256:dfbd7d3e95080a10a7926ee1c5258feb1137d87eb6402dcb7b6485deb74c0cb1"

@@ -1,8 +1,8 @@
 ---
 case_slug: cora-hall
-created_at: 2026-02-16 22:37:24.207000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1989-09-22
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2022-12-05-OTH-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-Hall-WC-12-05-2022/Medical/2023-01-20-Cora-Hall-Medical-Center-of-Scottsville-Any-All-Records.pdf
 source_hash: sha256:32b42dbc80ca8b9ca313794db84dc2e2518f3e90f3fa89581f6b8a23b706c717
+contact: "[[cases/2022-12-05-oth-001/contacts/medical-center-of-scottsville]]"
 ---
+
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 
 Fax Confirmation
 To: [PHONE-1] From: [PHONE-2]

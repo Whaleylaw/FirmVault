@@ -1,11 +1,10 @@
 ---
 case_slug: caryn-mccay
-created_at: 2026-02-16 22:18:06.177000+00:00
+created_at: {}
 document_category: financial
-document_date: 2023-07-30
+document_date: {}
 document_type: financial
-entities:
-- UK Chandler Hospital
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-07-30-MVA-001
 mime_type: application/json
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 85
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-McCay-MVA-7-30-2023/extractions/2023-07-30-Caryn-McCay-UK-Chandler-Hospital-Medical-Claim_extraction.json
 source_hash: sha256:7ce248a5dea9d60a8e61845c9aa8ad38ac8e2169b473eceda945e120a99d30c5
+contact: "[[cases/2023-07-30-mva-001/contacts/caryn-mccay]]"
 ---
+
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 
 category: billing
 description: Medical claim from UK Chandler Hospital

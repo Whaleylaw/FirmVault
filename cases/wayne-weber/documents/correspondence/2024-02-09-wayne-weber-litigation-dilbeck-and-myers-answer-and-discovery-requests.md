@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:7eceb492b4bfad9fb3b784993c81f6dd43a75909415cca96b24452b5a83607a9
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 DILBECK & MYERS, PLLC 
 Attorneys at Law 
 8005 Lyndon Centre Way, Suite 201 

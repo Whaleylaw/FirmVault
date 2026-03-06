@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:f12ea161f86208abb5e09af2333274944dd96f36e4879ace316f04fa51db4697
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-Willis-Beck-Premise-[DOB-1]/Investigation/2023-09-21-Robin-Willis-Beck-Investigation-Client-Surveillance-Footage-Screenshot.jpeg

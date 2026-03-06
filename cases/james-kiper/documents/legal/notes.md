@@ -22,6 +22,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:dd36faa95b12945b94a5ba1dbff552ebd13d85d59f1df713123092bb3eeb37e7
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 item_0.author_name: Roscoe (AI Paralegal)
 item_0.episode_type: imported
 item_0.last_activity: 2025-12-01T00:00:00

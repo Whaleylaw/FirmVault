@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:c70ad7511a786d5ff329ee2ab88936215354d75f73230544d0fd2080701b39e9
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 Subject: Your Legal Lending Check - VV632
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

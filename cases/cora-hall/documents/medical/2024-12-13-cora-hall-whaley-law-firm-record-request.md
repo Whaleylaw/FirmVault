@@ -20,6 +20,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:779e635bca5bcb7093c2f07f37f552a1d541e9d4f4bb6b85ceef0abbd7982d00
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 13-Dec-2024 17:58 [PHONE-35] [PHONE-34] p.1
 Aaron G. Whaley, Esq.
 712 Lyndon Lane

@@ -1,11 +1,10 @@
 ---
 case_slug: shannon-colvin
-created_at: 2026-02-17 00:21:11.126000+00:00
+created_at: {}
 document_category: insurance
-document_date: 2023-10-01
+document_date: {}
 document_type: insurance
-entities:
-- State Farm
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-10-01-MVA-002
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shannon-Colvin-MVA-10-1-2023/Correspondence/2023-11-17-Shannon-Colvin-State-Farm-PIP-Team-Notice-of-Representation.pdf
 source_hash: sha256:fd3551d783ac98adef71c1f0fb290cea103647959fe33d748e42de81016e840e
+contact: "[[cases/2023-10-01-mva-002/contacts/state-farm-pip-team]]"
 ---
+
+**Case:** [[cases/shannon-colvin/shannon-colvin|Shannon Colvin]]
+**Client:** [[cases/shannon-colvin/contacts/shannon-colvin|Shannon Colvin]]
+
 
 Aaron G. Whaley, Esq.
 712 Lyndon Lane

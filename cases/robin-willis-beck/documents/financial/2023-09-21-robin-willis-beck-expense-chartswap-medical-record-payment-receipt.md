@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:b653770fb4eb4bf3414215052cfaa20aa14c59c5776c316a75d0fc3c4ec02c82
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 Subject: ChartSwap Payment Confirmation
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

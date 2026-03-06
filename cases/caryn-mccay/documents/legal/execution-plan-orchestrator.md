@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-
 source_hash: sha256:098bf128c06c06692fbb5387fc8b40318681843d62604b9d72e7a17e892193c7
 ---
 
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 case_name: Caryn-McCay-MVA-7-30-2023
 execution_date: 2026-02-01
 steps[0].action: create_directory

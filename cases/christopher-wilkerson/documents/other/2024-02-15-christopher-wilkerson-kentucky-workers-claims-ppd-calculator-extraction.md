@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:d8f2ecc07b0773ba646d9d08483ed3a341e99915ceece7b3835db9d3a69f87c6
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 category: Legal
 confidence: high
 description: Kentucky Department of Workers' Claims 992 Table PPD (Permanent Partial Disability) Benefit Calculator showing calculations for Christopher Wilkerson's claim. Date of injury [DOB-1]. Shows weekly benefit calculations and lump sum values for different scenarios. Employee AWW $1051.35. Calculated March 17, 2025.

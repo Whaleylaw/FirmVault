@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:252dd991224105e531fc651bbc403212a4e78f72d234baaccc7a215ec0833a19
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 Subject: Tina Fuqua - ROI Quality Analyst sent you a file "ROBIN BECK (LOUIS).pdf"
  on Box
 From: [EMAIL-1]

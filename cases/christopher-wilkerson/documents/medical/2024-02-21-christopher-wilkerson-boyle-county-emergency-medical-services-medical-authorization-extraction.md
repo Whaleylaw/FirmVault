@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:bc04e2888f538b3c7c1396b6d2285eb62c6baf49a5ad3fa1ba99f42e2a315fad
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 category: Medical
 confidence: high
 description: HIPAA authorization for Boyle County EMS to release medical records to The Whaley Law Firm. Signed [DOB-1].

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya
 source_hash: sha256:16679ec5d8c1181b43ec65987003518cc3ad3bfe262251272bceb9c5ed3a3a8d
 ---
 
+**Case:** [[cases/sariya-mason/sariya-mason|Sariya Mason]]
+**Client:** [[cases/sariya-mason/contacts/sariya-mason|Sariya Mason]]
+
 Subject: Fwd: Check out this video my Vivint 24-hour Playback captured for me.
 From: [EMAIL-4]
 To: Sarena@whaleylawfirm.com

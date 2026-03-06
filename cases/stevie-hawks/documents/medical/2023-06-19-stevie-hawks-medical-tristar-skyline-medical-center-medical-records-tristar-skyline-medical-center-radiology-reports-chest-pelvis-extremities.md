@@ -1,19 +1,22 @@
 ---
 case_slug: stevie-hawks
-created_at: 2026-02-17 00:23:56.255000+00:00
+created_at: {}
 document_category: medical
-document_date: 1958-01-26
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2024-03-08-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie-Hawks-MVA-3-8-2024/Medical/TriStar
-  Skyline Medical Center/Medical Records/2023-06-19-Stevie-Hawks-Medical-TriStar Skyline
-  Medical Center-Medical-Records-TriStar-Skyline-Medical-Center-Radiology-Reports-Chest-Pelvis-Extremities.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie-Hawks-MVA-3-8-2024/Medical/TriStar Skyline Medical Center/Medical Records/2023-06-19-Stevie-Hawks-Medical-TriStar Skyline Medical Center-Medical-Records-TriStar-Skyline-Medical-Center-Radiology-Reports-Chest-Pelvis-Extremities.pdf
 source_hash: sha256:853a4719329eed83484c364ef9cf40e28fe396c14485a933bd1dbfa251e9b3e3
+contact: "[[cases/2024-03-08-mva-001/contacts/tristar-skyline-medical-center]]"
 ---
+
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 
 DataSet: RAPCA Location Code: 51 Reading Location Name: JOS Reading Location State: TN Location Name: TRISTAR SKYLINE Patient Name: HAWKS, STEVIE Birth Date: [DOB-1] Referring Doctor: HARRISON, ANDR Visit No.: G00632535312
 

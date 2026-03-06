@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor
 source_hash: sha256:797b409b58e83f29242f7646f9ff3b94a36edf8f6d670d2b3bf957d984ed224d
 ---
 
+**Case:** [[cases/taylor-thompson/taylor-thompson|Taylor Thompson]]
+**Client:** [[cases/taylor-thompson/contacts/taylor-thompson|Taylor Thompson]]
+
 Subject: Claim #01-008-378108 Counter Demand
 From: [EMAIL-1]
 To: [EMAIL-2]

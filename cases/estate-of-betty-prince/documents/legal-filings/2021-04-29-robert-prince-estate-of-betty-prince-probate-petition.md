@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:891b13f87148486bf6b790283f39759fca526e9f445516daafe28d732a9bfa66
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 Stacy Bruner, Trimble Circuit Clerk
 AARON GREGORY WHALEY 
 THE WHALEY LAW FIRM, PSC

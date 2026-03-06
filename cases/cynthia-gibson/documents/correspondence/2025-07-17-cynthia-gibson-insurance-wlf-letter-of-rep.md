@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cynthi
 source_hash: sha256:ea5dba91108b862bb3479372027de366f970df78a166daac924f41fcc1befef0
 ---
 
+**Case:** [[cases/cynthia-gibson/cynthia-gibson|Cynthia Gibson]]
+**Client:** [[cases/cynthia-gibson/contacts/cynthia-gibson|Cynthia Gibson]]
+
 *Aaron G. Whaley, Esq.*
 *712 Lyndon Lane*
 *Louisville, KY 40222*

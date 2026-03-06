@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee
 source_hash: sha256:79057788ac82ba13e5415e9ea04149038fda4623b87f3ca919fdbb995b7b0a63
 ---
 
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee-Williams-MVA-[DOB-1]/Client/2023-08-29-Ashlee-Williams-Client-Client-Medical-Insurance-Cards-Back.jpg

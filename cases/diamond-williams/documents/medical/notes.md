@@ -20,6 +20,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Diamon
 source_hash: sha256:342e8b73a79eef0a346ff9684aecc7af6cd9a6d10cbbafb2590965fcd6ef937f
 ---
 
+**Case:** [[cases/diamond-williams/diamond-williams|Diamond Williams]]
+**Client:** [[cases/diamond-williams/contacts/diamond-williams|Diamond Williams]]
+
 item_0.note: Diamond Williams was treated at Norton Hospital Downtown (200 E Chestnut St, Louisville, KY 40202) following the motor vehicle accident on December 23, 2025.
 item_0.note_summary: Diamond Williams Treated at Norton Hospital Downtown
 item_0.project_name: Diamond-Williams-MVA-[DOB-8]

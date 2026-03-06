@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:d54030fc2789bc456204d07bf2e279ae938f5e195bc5a908121876fdd342eb6e
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: medical
 date: 2024-12-01
 description: Hospital admission billing statement for Elizabeth Lindsey, admission [DOB-2] to [DOB-2], emergency department and inpatient services, total charges $27,131.07, balance $4,080.00

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:67d4c6ba4cdfec399b2013fc68ac173573c5341c3396fbb3e769a333484e9a4d
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 content_length_chars: 2945
 document_metadata.attachments[0]: 2024.08.28 Stich WC PT Approval Email - 12 Visits.pdf
 document_metadata.cc_emails[0]: [EMAIL-5]

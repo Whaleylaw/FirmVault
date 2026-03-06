@@ -1,6 +1,6 @@
 ---
 case_slug: jimmy-ferguson
-created_at: 2026-02-16 23:57:31.076000+00:00
+created_at: {}
 document_category: medical
 document_type: medical
 extraction_method: native_text
@@ -8,10 +8,14 @@ legacy_case_id: 2024-05-30-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-Ferguson-MVA-5-30-2024/Client
-  Documents/2021-01-01_KORT-Elizabethtown-PT_HIPAA-Authorization.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-Ferguson-MVA-5-30-2024/Client Documents/2021-01-01_KORT-Elizabethtown-PT_HIPAA-Authorization.pdf
 source_hash: sha256:89db4e50a4d011b406f559688e9eea35ed85ca615e3f1ed4aa636986afda7d24
+contact: "[[cases/2024-05-30-mva-001/contacts/kort-elizabethtown-pt]]"
 ---
+
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

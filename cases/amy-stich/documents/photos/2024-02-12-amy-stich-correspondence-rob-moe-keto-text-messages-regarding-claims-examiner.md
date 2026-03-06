@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:c7fdea2137994d76305a0363ccebddbc803534b4a15f5727885e49084bb39d49
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Stich-WC-[DOB-1]/Correspondence/2024-02-12-Amy-Stich-Correspondence-Rob-Moe-Keto-Text-Messages-Regarding-Claims-Examiner.jpg

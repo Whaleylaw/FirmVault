@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:8e8d50938bdfbda373c69d07c5b415029c8d807042f52acd3578c8eaa002a6b1
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 Subject: Douglas Livers
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

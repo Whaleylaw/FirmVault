@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Tonya-
 source_hash: sha256:75ceb0974f013ebb041f532f913d1cd5cddfc610439dbc22f562b901fb861f08
 ---
 
+**Case:** [[cases/tonya-dunn/tonya-dunn|Tonya Dunn]]
+**Client:** [[cases/tonya-dunn/contacts/tonya-dunn|Tonya Dunn]]
+
 category: Medical Records
 description: ER bill
 document_type: medical_bill

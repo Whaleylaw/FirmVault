@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:9b3cb3b9ede2feaf76fed6a49198ca70eb8de19a5b9fbee7f07911478159a37c
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Subject: NOTICE OF ENTRY  BOYD 22-CI-00747, CORDLE, CHARLES VS. WALTER, CASEY ET AL Envelope # 9796923
 From: [EMAIL-7]
 To: [EMAIL-6], Sarena@WhaleyLawFirm.com, [EMAIL-5]

@@ -1,21 +1,23 @@
 ---
 case_slug: muhammad-alif
-created_at: 2026-02-17 00:11:00.591000+00:00
+created_at: {}
 document_category: financial
-document_date: 2024-08-02
+document_date: {}
 document_type: financial
-entities:
-- Dr. Chiufang Hwang
-- Chiufang Hwang
+entities: null
 extraction_method: native_text
 legacy_case_id: 2022-11-08-MVA-001
 mime_type: message/rfc822
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Chiufang
-  Hwang M.D./Record Requests/2024-08-02-Muhammad-Alif-Medical-Chiufang Hwang M.D.-Record-Requests-Chiufang-Hwang-MD-Response-to-Record-Request.eml
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Chiufang Hwang M.D./Record Requests/2024-08-02-Muhammad-Alif-Medical-Chiufang Hwang M.D.-Record-Requests-Chiufang-Hwang-MD-Response-to-Record-Request.eml
 source_hash: sha256:9606dcd86b84ffa73637c3ff460022ee5bb3dc91066ae05103aa2654e024f497
+contact: "[[cases/2022-11-08-mva-001/contacts/chiufang-hwang-m-d]]"
 ---
+
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 
 Subject: Re: Certified Medical Records & Billing Request - Muhammad Alif
 From: [EMAIL-1]

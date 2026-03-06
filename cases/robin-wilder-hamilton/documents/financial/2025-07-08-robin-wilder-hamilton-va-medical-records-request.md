@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:dddf615c0f51941e3fb4be4854403d180dc744595cf92c7a3ccde9e0028106ac
 ---
 
+**Case:** [[cases/robin-wilder-hamilton/robin-wilder-hamilton|Robin Wilder Hamilton]]
+**Client:** [[cases/robin-wilder-hamilton/contacts/robin-wilder-hamilton|Robin Wilder Hamilton]]
+
 2025-07-08 14:14 Lexington VAMC [PHONE-1] >> P1/4
 Mailing Address:
 VA |© Sez. AYA errer erg

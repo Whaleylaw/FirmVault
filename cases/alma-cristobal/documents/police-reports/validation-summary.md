@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:aaff5f2d48062423638c5bc3d207e73586d32acc95794a4e23c646d98014314f
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 case_folder: Alma-Cristobal-MVA-2-15-2024
 category_distribution.Accident: 1
 category_distribution.Case Information: 1

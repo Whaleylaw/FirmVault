@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie
 source_hash: sha256:189086eb724b18b67285bf35359d3e36dab685481830ca67c57794d3703f50dd
 ---
 
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 item_0.jsonb_agg[0].address: 3139 Scottsville Rd, Rm 313
 item_0.jsonb_agg[0].email: [EMAIL-1]
 item_0.jsonb_agg[0].full_name: Stevie Hawks

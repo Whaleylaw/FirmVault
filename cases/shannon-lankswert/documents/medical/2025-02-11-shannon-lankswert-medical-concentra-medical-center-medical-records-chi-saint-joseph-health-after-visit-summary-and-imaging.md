@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:55daf734440a1ca9f49cd0ab4dbec1e0a123fb70e38180281e6596c6c58157de
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 MMARY Af TER V
 Shannon Matt ngey aes res
 Take over-the-counter

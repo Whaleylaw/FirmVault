@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:ca09eb9f2c0e868def9e955afa93ffce3b67001c19610031dada523b840de4be
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 Subject: Robin Willis Beck viewed The Whaley Law Firm has requested your signature. Follow the prompts to execute the attached.
 From: [EMAIL-2]
 To: [EMAIL-2]

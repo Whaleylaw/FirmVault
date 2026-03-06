@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie
 source_hash: sha256:6899c064eb70328f7de2717a6937cbb346caa67259e2de5b566ba8128fd7e94a
 ---
 
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 category: Medical
 date: 2024-10-07
 description: HIPAA compliant medical authorization from Stevie Hawks to Med Center Health Primary Care authorizing release of medical records to The Whaley Law Firm

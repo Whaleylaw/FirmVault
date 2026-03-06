@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:e0024d52f365272645fec1076a4cc889ec8805ef8322890c53dc931d48b0f9bc
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 @®)Allstate.
 ALLSTATE PROPERTY AND CASUALTY INSURANCE COMPANY.
 PO BOX 2874 Information as of July 23, 2024

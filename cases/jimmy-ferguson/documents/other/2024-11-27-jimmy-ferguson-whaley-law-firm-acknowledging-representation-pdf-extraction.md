@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:854329a9c1a38b05d7acbea0ea25f3d81fb8fcfeb73dca41d111a243e74ad50d
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 category: Correspondence
 date: 2024-11-27
 description: Acknowledgement letter from Charles Taylor TPA (claims administrator for KACo) acknowledging Whaley Law Firm's representation of Jimmy Ferguson in claim against Hardin County Fiscal Court.

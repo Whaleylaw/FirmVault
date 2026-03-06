@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Destin
 source_hash: sha256:c86410d03c2f30c905867ad77a0e67f41707cf5f6dfa22d291bc65c2db7ad30b
 ---
 
+**Case:** [[cases/destiny-adkins/destiny-adkins|Destiny Adkins]]
+**Client:** [[cases/destiny-adkins/contacts/destiny-adkins|Destiny Adkins]]
+
 KENTUCKY UNIFORM POLICE
 TRAFFIC COLLISION REPORT MASTER FILE #
 72614665

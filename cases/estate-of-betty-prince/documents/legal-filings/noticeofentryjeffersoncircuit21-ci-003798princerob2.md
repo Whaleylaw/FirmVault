@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:223f001116b22ffdd0187d98db8cc5bf660252f1290e62433c483338882dd390
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 Subject: NOTICE OF ENTRY  JEFFERSON Circuit 21-CI-003798, PRINCE, ROBERT VS. NORTON HOSPITALS, INC. Envelope # 7981535
 From: [EMAIL-8]
 To: [EMAIL-7], Sarena@WhaleyLawFirm.com, [EMAIL-6]

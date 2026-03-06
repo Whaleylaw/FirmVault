@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:2c0902ab87fc2763def74b5dccbbe9009fd7ddf979d98d6d5ea385f238a1f591
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 mappings[0].action: MOVE
 mappings[0].new_path: Wayne-Weber-MVA-[DOB-39]/Legal/2024-08-14 - Legal - Conditional Payment Letter - Centers for Medicare and Medicaid Services.pdf
 mappings[0].original_path: Wayne-Weber-MVA-[DOB-38]/2024-08-14-Wayne-Weber-CENTERSFORMEDICAREandMEDICAIDSERVICES-Conditional-Payment-Letter.pdf

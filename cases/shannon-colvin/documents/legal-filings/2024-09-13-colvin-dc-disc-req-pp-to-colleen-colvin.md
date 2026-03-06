@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:dd390f9545db19142c333821ef31dd112aeaa2e311dd5e07ae12e9419a4ef218
 ---
 
+**Case:** [[cases/shannon-colvin/shannon-colvin|Shannon Colvin]]
+**Client:** [[cases/shannon-colvin/contacts/shannon-colvin|Shannon Colvin]]
+
 COMMONWEALTH OF KENTUCKY
 
 HARDIN CIRCUIT COURT

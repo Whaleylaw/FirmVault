@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:535bfc8135f3f3bda080229586d32a0ba10ba5cc6bb5f4f9641889acbc6c8154
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Norton Hospital - Downtown
 200 E. Chestnut Street
 Louisville, KY 40202

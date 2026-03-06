@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:fb1b129a247f25d60ec0994cfc5e9b4b57731ba60ef3942ca75eb8ea2e4e61ab
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 case_name: Shannon-Lankswert-WC-[DOB-2]
 companion_file_check.details: All PDF files have corresponding .md extraction files with matching basenames
 companion_file_check.has_md_companions: 49

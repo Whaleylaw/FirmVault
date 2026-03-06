@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-
 source_hash: sha256:e1f15483916cdc5a55f2b0b732f5f44e885c346b7b12b6848c7a1ef66702c5da
 ---
 
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 category: accident_scene
 date: 2025-05-02
 description: Photo of the accident scene showing the crevice or pavement defect in the Texas Roadhouse parking lot where the client fell.

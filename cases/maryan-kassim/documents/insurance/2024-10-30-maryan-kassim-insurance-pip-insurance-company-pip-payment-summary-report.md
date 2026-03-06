@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:caa9c2ce8ed81a31bce7b9425ded9660eb10ddfb86f2cb90d3160d3634fe1c49
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 Payments Print Summary
 Named Insured: Abdullahi Kassim
 Injured Party: Abdullahi Kassim Coverage Policy Limit Total Paid Deductible Offsets Remaining

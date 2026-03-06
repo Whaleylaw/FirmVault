@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:56a6c3b85e3eb47a428ce26394f96fb2a35322846df56449d70e510b07ff7184
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Important message regarding your neuro-concussion IME client.
 Your client will undergo significant neurocognitive and behavioral testing. The end results contain very 
 objective measures that help us confirm the diagnosis of concussion. However, it should be noted that 

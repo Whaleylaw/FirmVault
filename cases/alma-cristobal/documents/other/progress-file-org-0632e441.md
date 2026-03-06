@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:153f33069c7a3036447dac76f800c5580331af6cc2ae561756a27fa928318e91
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 case_folder: Alma-Cristobal-MVA-2-15-2024
 job_id: file-org-0632e441
 phases.extraction.notes: Starting Phase 2a: Extraction. 142 PDFs to process. Spawning 4 parallel extraction agents (batches of ~36 files each).

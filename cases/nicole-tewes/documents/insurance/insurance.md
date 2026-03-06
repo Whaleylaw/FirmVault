@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nicole
 source_hash: sha256:187fd58ee131e4b1e2f1d8033208ce41d4fbac2e66fe91824de7a76cea411329
 ---
 
+**Case:** [[cases/nicole-tewes/nicole-tewes|Nicole Tewes]]
+**Client:** [[cases/nicole-tewes/contacts/nicole-tewes|Nicole Tewes]]
+
 item_0.adjuster_phone: [PHONE-3]
 item_0.claim_number: 25-[POLICY-1]
 item_0.coverage_confirmation: Coverage Pending

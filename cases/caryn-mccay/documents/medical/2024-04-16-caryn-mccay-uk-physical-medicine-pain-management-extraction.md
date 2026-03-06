@@ -1,8 +1,8 @@
 ---
 case_slug: caryn-mccay
-created_at: 2026-02-16 22:17:54.844000+00:00
+created_at: {}
 document_category: medical
-document_date: 2024-04-16
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2023-07-30-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 90
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-McCay-MVA-7-30-2023/Reports/2026-02-01-file-organization/extractions_old_20260201_215100/2024-04-16-Caryn-McCay-UK-Physical-Medicine-Pain-Management_extraction.json
 source_hash: sha256:3678bb3c0a6eb2f559ba697de24e2b58836cd53a1b3fbaa6f1275a28b87b4eda
+contact: "[[cases/2023-07-30-mva-001/contacts/caryn-mccay]]"
 ---
+
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 
 extraction.classification.bucket: Medical Records
 extraction.classification.confidence: high

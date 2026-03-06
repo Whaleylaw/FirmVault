@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:fbeba16c7f4cfa7798d7108fe1d67ed0e300c7e8ccf59a124dd0a17d4413e70d
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 éénok Wo} LLEL HIE JESY | |[IM USM }! ejyelossdde | O1g ayy
 
 £é¢,010 Apea J BO-E L S| JED By} J] 8aS 0} doys INA 0} 06 0} aw Hurjjay n aJe noA juas | abessow OU} Ul JEU} PIES }! Woy} JED 02 N payueMm Ady]

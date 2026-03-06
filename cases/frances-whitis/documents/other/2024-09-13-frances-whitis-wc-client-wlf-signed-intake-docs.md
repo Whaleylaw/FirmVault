@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/France
 source_hash: sha256:4eeb7c7846bf3950b4ce8af8e72e1c08800523f4481ea40b3d94e6539f332298
 ---
 
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 Verification Complete
 The document has been officially verified.
 Recipient1

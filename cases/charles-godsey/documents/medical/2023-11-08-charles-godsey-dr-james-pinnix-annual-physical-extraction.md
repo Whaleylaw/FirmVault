@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:70327f2646cf8f4c2c0ffb7668613c6ace13a6edac3c2586f273ff0e98296130
 ---
 
+**Case:** [[cases/charles-godsey/charles-godsey|Charles Godsey]]
+**Client:** [[cases/charles-godsey/contacts/charles-godsey|Charles Godsey]]
+
 extraction.classification.bucket: Medical Records
 extraction.classification.confidence: medium
 extraction.classification.document_type: medical_records

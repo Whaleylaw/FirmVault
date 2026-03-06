@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:7044e2965d9a3a478a24738a7ce4483d712374bf55eb1dfea7fdabc61e288cc6
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 Subject: Re: Subject: Request for Update on Case Status MUHAMMAD ALIF
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

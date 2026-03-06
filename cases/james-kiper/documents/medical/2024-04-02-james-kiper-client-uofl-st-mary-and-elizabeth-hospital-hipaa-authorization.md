@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:0fa7af89839978debaa53ebf33f483c3ee76af7990d1f63af41281033f89cf7d
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 James Kiper
 [DOB-1]
 ***-**-9315 [DOB-1]

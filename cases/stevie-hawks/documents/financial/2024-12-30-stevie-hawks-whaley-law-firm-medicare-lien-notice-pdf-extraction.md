@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie
 source_hash: sha256:efec0d05867fdec4a34a4b7940319223dcc8b1ac3550b18306d809e6eceb55c2
 ---
 
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 category: Lien
 date: 2024-12-30
 description: Notice of Medicare Advantage policy lien from Rawlings Company on behalf of WellCare HealthPlan regarding Stevie Hawks' injury dated [DOB-1]

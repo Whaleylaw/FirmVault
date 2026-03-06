@@ -1,19 +1,22 @@
 ---
 case_slug: jaysha-aponte
-created_at: 2026-02-16 23:55:49.456000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1992-08-04
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2025-03-15-MVA-001
 mime_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jaysha-Aponte-MVA-3-15-2025/Medical/Family
-  Health Centers-Portland/Record Requests/2025-05-16-Jaysha-Aponte-Medical-Family
-  Health Centers-Portland-Record-Requests-WLF-Medical-Record-and-Billing-Request.docx
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jaysha-Aponte-MVA-3-15-2025/Medical/Family Health Centers-Portland/Record Requests/2025-05-16-Jaysha-Aponte-Medical-Family Health Centers-Portland-Record-Requests-WLF-Medical-Record-and-Billing-Request.docx
 source_hash: sha256:090689b5c96005f9ad260bdb6ce616db9ca5f68388c475db87496658d11fab09
+contact: "[[cases/2025-03-15-mva-001/contacts/family-health-centers-portland]]"
 ---
+
+**Case:** [[cases/jaysha-aponte/jaysha-aponte|Jaysha Aponte]]
+**Client:** [[cases/jaysha-aponte/contacts/jaysha-aponte|Jaysha Aponte]]
+
 
 *Aaron G. Whaley, Esq.*
 *712 Lyndon Lane*

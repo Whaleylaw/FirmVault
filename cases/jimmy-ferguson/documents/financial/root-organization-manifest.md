@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:8068520180b8cc2567492f51c292025e708d0e6e747c1e9edb03c7cbc994aa0f
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 accident_date: 2024-05-30
 case_type: MVA
 client_name: Jimmy-Ferguson

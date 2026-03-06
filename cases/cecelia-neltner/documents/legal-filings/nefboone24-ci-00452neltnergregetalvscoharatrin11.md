@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ceceli
 source_hash: sha256:1d68ab8ed687d8a6d2bbdee0f1067a6752256ab419227b0d98e7f6ef0273b3a6
 ---
 
+**Case:** [[cases/cecelia-neltner/cecelia-neltner|Cecelia Neltner]]
+**Client:** [[cases/cecelia-neltner/contacts/cecelia-neltner|Cecelia Neltner]]
+
 Subject: NEF, BOONE 24-CI-00452, NELTNER, GREG ET AL VS. COHARA, TRINITY Envelope # 8669369
 From: [EMAIL-6]
 To: [EMAIL-5], SARENA@WHALEYLAWFIRM.COM, [EMAIL-4]

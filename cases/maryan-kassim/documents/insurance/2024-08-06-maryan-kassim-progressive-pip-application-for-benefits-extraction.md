@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:059d0ad2f5056d41d3683eb3121e568b72dce0697d23258081243e140720ac49
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 category: Insurance
 description: Application for Personal Injury Protection (PIP) benefits under Kentucky No-Fault filed by Abdullahi Kassim (policyholder) with Progressive for MVA on August 6, 2024 on I-264 WB Louisville, KY (claim 24-[POLICY-1]).
 entities[0]: Abdullahi Kassim

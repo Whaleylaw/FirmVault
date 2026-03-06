@@ -4,6 +4,9 @@ document_category: court-filings
 legacy_case_id: 2020-07-14-PrL-001
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate-of-Betty-Prince-Premise-7-14-2020/Medical/2021-10-08-Robert-Prince-Kings-Daughters-Health-Medical-Records-Request.pdf"
 source_hash: "sha256:7a3da3e0ba1ed7499d1233f[PHONE-550]e202023553a1e3c8ec40bdb81d629ca"

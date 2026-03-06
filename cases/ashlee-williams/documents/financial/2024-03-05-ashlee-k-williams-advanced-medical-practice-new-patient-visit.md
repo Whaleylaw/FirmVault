@@ -4,6 +4,9 @@ document_category: financial
 legacy_case_id: 2023-08-29-MVA-001
 ---
 
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee-Williams-MVA-[DOB-23]/Medical-Records/2024-03-05-Ashlee-K-Williams-Advanced-Medical-Practice-New-Patient-Visit.pdf"
 source_hash: "sha256:29836d0f3783f01026f08c6e8a2a52b8aba3ee06b310fc2468033fb458f546cc"

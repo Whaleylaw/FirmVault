@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maia-O
 source_hash: sha256:facfdc2c405a5cd6711eda89a1fef59f6010e5df193428be93286b148db7f02c
 ---
 
+**Case:** [[cases/maia-ott/maia-ott|Maia Ott]]
+**Client:** [[cases/maia-ott/contacts/maia-ott|Maia Ott]]
+
 item_0.jsonb_agg[0].full_name: Maia Ott
 item_0.jsonb_agg[0].phone: [PHONE-1]
 item_0.jsonb_agg[0].project_name: Maia-Ott-MVA-8-06-2025

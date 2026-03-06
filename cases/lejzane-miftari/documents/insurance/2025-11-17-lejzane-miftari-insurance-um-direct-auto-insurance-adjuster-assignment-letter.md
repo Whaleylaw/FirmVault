@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Lejzan
 source_hash: sha256:8b14f80b0f34ee60e0862a71a823d8f96bd4edc8f3e817a3c635899f3d860efb
 ---
 
+**Case:** [[cases/lejzane-miftari/lejzane-miftari|Lejzane Miftari]]
+**Client:** [[cases/lejzane-miftari/contacts/lejzane-miftari|Lejzane Miftari]]
+
 PO Box 1623 • Winston-Salem, NC 27102-1623
 BRANDING_CC1872_SIMPLEX_BEGIN
 November 17, 2025

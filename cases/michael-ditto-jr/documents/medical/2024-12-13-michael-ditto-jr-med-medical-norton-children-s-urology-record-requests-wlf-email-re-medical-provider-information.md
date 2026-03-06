@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:bb86ed22927bf2b278c626fc65b137c1bae377a73ddd36cad89ee0541b7f8ea0
 ---
 
+**Case:** [[cases/michael-ditto-jr/michael-ditto-jr|Michael Ditto Jr]]
+**Client:** [[cases/michael-ditto-jr/contacts/michael-ditto-jr|Michael Ditto Jr]]
+
 Subject: Re: Michael Ditto Jr - Medical Malpractice [DOB-1]
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

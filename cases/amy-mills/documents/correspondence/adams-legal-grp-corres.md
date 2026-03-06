@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:2f746927987f5be7e85868c0161cf95675f248a65da7129135ba77a2c76fee59
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 For Justice Call
 
 ADAMS LEGAL GROUP JUST-175

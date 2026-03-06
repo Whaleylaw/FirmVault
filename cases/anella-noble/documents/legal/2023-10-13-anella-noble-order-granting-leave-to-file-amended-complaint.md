@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:f7285899349a1b10023808ba4d795005d9f80934e37dd643e3f476137070887b
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 13/2023 David L. Nicholson, Jef
 CASE NO. 21-C1-004985 JEFFERSON CIRCUIT COURT
 DIVISION FIVE (5)

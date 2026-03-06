@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:e0ff0989a6db016b5f3a627f727e345f8955b90c35f689ef49b08605d75bf6ca
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 Baptist Health Louisville
 2600 Stanley Gault Parkway #101
 Louisville, KY 40223

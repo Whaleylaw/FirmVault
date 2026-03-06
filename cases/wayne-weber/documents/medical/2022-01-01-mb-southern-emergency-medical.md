@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:6709feeb74f7346e838553d497f3dd5cf54932cd2618b9a0a839d98ae372cc6e
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 Jan. 24, 2022 Eel
 as
 6:30AM southern emergency medical

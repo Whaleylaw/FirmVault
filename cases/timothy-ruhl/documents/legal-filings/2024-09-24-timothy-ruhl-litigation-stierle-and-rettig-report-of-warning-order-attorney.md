@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:2d3185071d0c1751b9d44bd292fb810393dcccf64b50b3d0fb2c0c89cea08162
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 RWOA : 000001 of 000007
 Filed 24-CI-005896 [DOB-21] David L. Nicholson, Jefferson Circuit Clerk
 Filed 24-CI-005896 [DOB-20] David L. Nicholson, Jefferson Circuit Clerk NOT ORIGINAL

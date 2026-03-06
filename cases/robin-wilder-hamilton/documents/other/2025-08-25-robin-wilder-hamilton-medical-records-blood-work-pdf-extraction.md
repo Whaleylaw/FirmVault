@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:5a258454d9f5658aef97f0fe445a1d9e811482abb6c0f8215f70132e9d7a5c10
 ---
 
+**Case:** [[cases/robin-wilder-hamilton/robin-wilder-hamilton|Robin Wilder Hamilton]]
+**Client:** [[cases/robin-wilder-hamilton/contacts/robin-wilder-hamilton|Robin Wilder Hamilton]]
+
 content_summary: Laboratory blood work results for Robin Wilder-Hamilton dated [DOB-1], contains test results in tabular format (OCR quality poor with garbled text).
 document_date: 2025-08-25
 entities[0]: Robin Wilder-Hamilton

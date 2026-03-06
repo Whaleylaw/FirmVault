@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-
 source_hash: sha256:5e87056d93aada407f3e201d2a14e049d5509de67aacb7d3071f2d147b868431
 ---
 
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 extraction.classification.bucket: Expenses
 extraction.classification.confidence: high
 extraction.classification.document_type: expense_receipt

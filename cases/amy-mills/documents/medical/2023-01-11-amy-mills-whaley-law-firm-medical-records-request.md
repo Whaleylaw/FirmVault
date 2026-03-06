@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:e0096993218c3a811e1bd0ddee8c39bb817a558cbe3c0ed646ce3759b5e74985
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 @ BAPTIST HEALTH a
 This letter supplies the password to the radiology CD that was requested.
 PT: Amy Mills

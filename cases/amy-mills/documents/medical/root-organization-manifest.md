@@ -19,6 +19,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:fc1dc6b1cc483dbf20e5fea82aa12c2a7cc4fa23c027f82bdc983341f06e42d3
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 accident_date: 2019-04-26
 case_type: Premise
 client_name: Amy-Mills

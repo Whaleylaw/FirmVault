@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2023-10-01-MVA-002
 ---
 
+**Case:** [[cases/shannon-colvin/shannon-colvin|Shannon Colvin]]
+**Client:** [[cases/shannon-colvin/contacts/shannon-colvin|Shannon Colvin]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shannon-Colvin-MVA-10-1-2023/Medical/2024-08-28-Shannon-Colvin-Baptist-Health-Hardin-Medical-Records-Request.pdf"
 source_hash: "sha256:9957cc8679913196621bf75a8881962daae408b1fd508c440058a9fa5448ea40"

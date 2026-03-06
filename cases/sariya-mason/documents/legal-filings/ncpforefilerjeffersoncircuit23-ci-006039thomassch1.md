@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya
 source_hash: sha256:72a165b04692485854d569f7c139d656389ee006edbfe8002bf4cb41246de6c9
 ---
 
+**Case:** [[cases/sariya-mason/sariya-mason|Sariya Mason]]
+**Client:** [[cases/sariya-mason/contacts/sariya-mason|Sariya Mason]]
+
 Subject: NCP (for eFiler) JEFFERSON Circuit 23-CI-006039, THOMAS, SCHRICE ET AL VS. CASTILLO, YANELYS ET AL Envelope # 9808777
 From: [EMAIL-1]
 To: [EMAIL-6], Sarena@WhaleyLawFirm.com, [EMAIL-5]

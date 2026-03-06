@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:1c10aa27b3326a78dee3a70325f4f6a02b37bfb1f2a9575ac4f469dfa0daa172
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 PN TRAVELERS) 996
 
 The Phoenix Insurance Company Po Box 650293 Dallas, TX 75265-0293

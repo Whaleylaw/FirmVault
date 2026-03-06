@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:04549642978fdb10c1f9457e9626d7c088db4ac0ee780f29ca92bf70c762a804
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Subject: RE: Amy Mills v Forcht Bank - PL Resp to DC Disc Req 3rd & 4th
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com, [EMAIL-2]

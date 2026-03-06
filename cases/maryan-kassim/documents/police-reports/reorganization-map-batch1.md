@@ -19,6 +19,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:845cc3989d2aaefd0ca5ecf93d8e7a1f07c0f5673d6b197648b24725f6e68a73
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 item_0.action: MOVE
 item_0.confidence: high
 item_0.extraction_source: extractions/2000-03-03-Maryan-Kassim-Diagnostic-X-Ray-Physicians-HIPAA-Authorization_extraction.json

@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2023-04-07-MVA-001
 ---
 
+**Case:** [[cases/james-sadler/james-sadler|James Sadler]]
+**Client:** [[cases/james-sadler/contacts/james-sadler|James Sadler]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Sadler-MVA-4-07-2023/Correspondence/2023-07-19-James-Sadler-Whaley-Law-Firm-Client-Meeting.pdf"
 source_hash: "sha256:d3d4e7fdeb6408d640480c5016d12beca4395b8d87f830847ba54b0d950ab3f6"

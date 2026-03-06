@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:1591accbedee1be6ab1e54519fa97829c3eadc067abae2553377e73fdbe50096
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: insurance_correspondence
 extraction.date: 2023-11-06
 extraction.description: Letter of representation sent to State Farm Insurance Company regarding Wayne Weber's case dated November 6, 2023.

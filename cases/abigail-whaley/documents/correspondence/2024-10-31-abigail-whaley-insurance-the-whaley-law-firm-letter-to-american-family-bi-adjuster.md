@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Abigai
 source_hash: sha256:dcc0308b29369963eb44cdaae1e83e24c1f33d213f71a752bd1fc49030206e63
 ---
 
+**Case:** [[cases/abigail-whaley/abigail-whaley|Abigail Whaley]]
+**Client:** [[cases/abigail-whaley/contacts/abigail-whaley|Abigail Whaley]]
+
 Justin Chumbley
 Aaron G. Whaley, Esq.
 THE 712 Lyndon Lane

@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julian
 source_hash: sha256:c8e866a6a8450872838db85a511f30174027e39fbd7199cf1c2c940ee8ce0eed
 ---
 
+**Case:** [[cases/julian-wilson/julian-wilson|Julian Wilson]]
+**Client:** [[cases/julian-wilson/contacts/julian-wilson|Julian Wilson]]
+
 From:WT14a pts 4N 2385700 [DOB-36] 15:48 #572 P.002/023
 NORTON AUDUBON HOSPITAL NORTON AUDUBON HOSPITAL 3a PAT
 CNTL . 26148289600 E TYPE OF BILL

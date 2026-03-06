@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:a13fcc41281c723f3e948b7f6c3bf33c8182e3318ca65241cbe9f997a5c4892f
 ---
 
+**Case:** [[cases/michael-ditto-jr/michael-ditto-jr|Michael Ditto Jr]]
+**Client:** [[cases/michael-ditto-jr/contacts/michael-ditto-jr|Michael Ditto Jr]]
+
 ***-**-3148
 Norton Children’s Urology
 3999 Dutchmans Lane #6F

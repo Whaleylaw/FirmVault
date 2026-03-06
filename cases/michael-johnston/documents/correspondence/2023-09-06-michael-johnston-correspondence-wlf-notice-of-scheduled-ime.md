@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:188e0cf3d5471a19428d2422f648663fd0efa7cea11b0260b55d1b3d160696ed
 ---
 
+**Case:** [[cases/michael-johnston/michael-johnston|Michael Johnston]]
+**Client:** [[cases/michael-johnston/contacts/michael-johnston|Michael Johnston]]
+
 2021
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane

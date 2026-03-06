@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:aceec66953b16030fe560652b8a63c08c18516f7d4f414f4ba6e977abaaf1758
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 January 26, 2023
 
 Mary & Elizabeth Hospital

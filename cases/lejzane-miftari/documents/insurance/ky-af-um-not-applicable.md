@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Lejzan
 source_hash: sha256:bda02c252c0d8f08229bbb28abc516d3455cc346905bb0a280e80d36fd19ff48
 ---
 
+**Case:** [[cases/lejzane-miftari/lejzane-miftari|Lejzane Miftari]]
+**Client:** [[cases/lejzane-miftari/contacts/lejzane-miftari|Lejzane Miftari]]
+
 November 17, 2025
 
 The Whaley Law Firm

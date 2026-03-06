@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:7ec54dd9ce9753dbf18f96dd3166b82e561e4eb73d903fdaa40950c44c6914f5
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 URHC-CTE Fax berver
 KY
 Cinie

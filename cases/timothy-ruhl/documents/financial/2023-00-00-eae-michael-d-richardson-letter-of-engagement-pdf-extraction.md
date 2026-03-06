@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:ac75bfa6c7110368dbee9fcea6a1afbcbf0aa57761e2601d8476e92d52b25338
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 content_analysis.category: Client
 content_analysis.description: Letter of engagement
 content_analysis.entities[0]: Timothy Ruhl

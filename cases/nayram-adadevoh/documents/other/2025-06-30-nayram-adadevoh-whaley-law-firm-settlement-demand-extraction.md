@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:92e22f02ad814b200ae045dedaa884221e0b720d193b066b731abdb2b650f89c
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: settlement_document
 date: 2025-06-30
 description: Settlement demand letter from Whaley Law Firm dated June 30, 2025.

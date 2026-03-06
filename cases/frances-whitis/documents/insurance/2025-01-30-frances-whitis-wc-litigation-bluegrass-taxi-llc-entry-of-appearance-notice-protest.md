@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/France
 source_hash: sha256:fb5581782d7af96eb533fb74519c1c26bdfdc61cc9e7f832e00eb6d4ab134698
 ---
 
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 COMMONWEALTH OF KENTUCKY
 DEPARTMENT OF WORKERS’ CLAIM
 BEFORE UNASSIGNED, ALJ

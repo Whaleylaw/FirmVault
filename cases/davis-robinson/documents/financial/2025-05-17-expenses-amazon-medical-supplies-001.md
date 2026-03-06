@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-
 source_hash: sha256:3f59163d59e31e3ff962167c86c8c7ced3bb1ab76fbbc2e458a0a441670a0ef7
 ---
 
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 Visa ending in 2441
 Payment Method:
 Billing address

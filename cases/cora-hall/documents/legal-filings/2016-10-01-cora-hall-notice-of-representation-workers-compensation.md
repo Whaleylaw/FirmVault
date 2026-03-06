@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:f0c1f3abe799fb72b8a12563c37e6f17f41b6ff2d75b891a660ff613bacae31a
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 October 2016 Edition
 
 COMMONWEALTH OF KENTUCKY DEPARTMENT OF WORKERS’ CLAIMS

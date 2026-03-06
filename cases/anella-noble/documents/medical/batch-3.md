@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:0b6d55b0a081ccac497d70f99d942993455796f736d2911694b8a7a62e630119
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 batch_number: 3
 count: 20
 files[0]: 2021-01-06-Anella-Noble-State-Farm-Insurance-Company-Property-Damage-Claim.pdf

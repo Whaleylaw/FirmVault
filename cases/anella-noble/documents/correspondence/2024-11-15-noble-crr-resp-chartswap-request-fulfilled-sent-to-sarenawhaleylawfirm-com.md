@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:f4e8451ec1f16982ad48d0d680d6591ab6ec6e807887590519a07dca2ff73c01
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: ChartSwap: Issue Addressed by Louisville Emergency Medical Associates PSC
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

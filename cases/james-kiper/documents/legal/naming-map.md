@@ -19,6 +19,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:3350d7885d4b5cd3e990ca0f89153d9b7c20f34bea7525fdcf85237adcba3e9f
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 case_folder: James-Kiper-MVA-12-5-2022
 case_name: James Kiper MVA
 category_distribution.Accident-Investigation: 18

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:1675427756de55765026aaf880cd0167697f2b3e437f150f958dbcea88623772
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: settlement_demand
 extraction.date: 2025-09-23
 extraction.description: Settlement demand letter prepared by The Whaley Law Firm on behalf of Wayne Weber, outlining damages and settlement proposal for the motor vehicle accident case.

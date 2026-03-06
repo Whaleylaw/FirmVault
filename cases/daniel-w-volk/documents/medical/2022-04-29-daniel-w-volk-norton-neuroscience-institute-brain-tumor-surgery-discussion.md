@@ -1,12 +1,10 @@
 ---
 case_slug: daniel-w-volk
-created_at: 2026-02-16 22:55:03.178000+00:00
+created_at: {}
 document_category: medical
-document_date: 1964-02-22
+document_date: {}
 document_type: medical
-entities:
-- Durrett Craddock
-- Norton Healthcare
+entities: null
 extraction_method: native_text
 legacy_case_id: 2021-09-24-MVA-001
 mime_type: application/pdf
@@ -14,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel-W-Volk-MVA-09-24-2021/Medical/2022-04-29-Daniel-W-Volk-Norton-Neuroscience-Institute-Brain-tumor-surgery-discussion.pdf
 source_hash: sha256:927ffa15aae796504123000c259ea6466e54551a7e0c9b972bbad67ab2c9241c
+contact: "[[cases/2021-09-24-mva-001/contacts/norton-neuroscience-institute]]"
 ---
+
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 
 NORTON PHYSICIANS 
 SERVICES

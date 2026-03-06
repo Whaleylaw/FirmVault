@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:efbb9a0843143bb51024724b2286cf7ce39f73a4211d6d30e470658b5db5e9d0
 ---
 
+**Case:** [[cases/michael-ditto-jr/michael-ditto-jr|Michael Ditto Jr]]
+**Client:** [[cases/michael-ditto-jr/contacts/michael-ditto-jr|Michael Ditto Jr]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michael-Ditto-Jr-Med-Mal-[DOB-1]/Medical/Norton Women's & Children's Hospital/Medical Records/2023-04-11-Michael-Ditto-Jr-Med-Medical-Norton Women's & Children's Hospital-Medical-Records-Norton-Childrens-Neonatology-Circumcision-Procedure-Note.png

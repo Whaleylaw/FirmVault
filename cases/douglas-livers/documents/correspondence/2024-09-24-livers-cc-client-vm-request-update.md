@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:7241ad75efeed3f2dc8b9f422d28e7f2f604e768c4ff7ab010858d50978d246d
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 Subject: New Voice Message from PAYNE,MICHELLE [PHONE-5] on [DOB-2] 2:07 PM
 From: [EMAIL-3]
 To: Sarena@whaleylawfirm.com

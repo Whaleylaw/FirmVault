@@ -1,11 +1,10 @@
 ---
 case_slug: james-kiper
-created_at: 2026-02-16 23:52:36.724000+00:00
+created_at: {}
 document_category: other
-document_date: 2022-12-08
+document_date: {}
 document_type: other
-entities:
-- Travelers
+entities: null
 extraction_method: native_text
 legacy_case_id: 2022-12-05-MVA-001
 mime_type: application/json
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Kiper-MVA-12-5-2022/extractions/2022-12-08-James-Kiper-Travelers-Insurance-Notice-of-Representation_extraction.json
 source_hash: sha256:0a78743e82b234081a06159453c8fef1ca79137a23da6a66bab5b4264d6bcde6
+contact: "[[cases/2022-12-05-mva-001/contacts/travelers-insurance]]"
 ---
+
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 
 category: insurance_correspondence
 confidence: high

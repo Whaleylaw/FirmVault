@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:8fe5f2f75a04e60ff7bb24ccf574f800af1e44ec39939a71aa3fb0cec1901810
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 Aaron G. Whaley, Esq.
 712 Lyndon Lane
 oye + - Louisville, KY 40222

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:0c8250b62eea3f8bb288e33cf8b8f0871209f21b5e393f0a48ef8ac44d934dc8
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 category: Medical
 date: 2024-05-30
 description: Medical records from Baptist Health Hardin including spine x-ray results and past medical history for Jimmy Ferguson, admission 5/30/2024, discharge 5/31/2024.

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Destin
 source_hash: sha256:35c70b023ec0e7f114f7687c8f711b0851a23feca70a7418a6aa0c51823a458e
 ---
 
+**Case:** [[cases/destiny-adkins/destiny-adkins|Destiny Adkins]]
+**Client:** [[cases/destiny-adkins/contacts/destiny-adkins|Destiny Adkins]]
+
 AUTHORJZA TION TO RELEASE PROTECTED HEAL TH CARE INFORM.A. TION 
 TO: 
 Pursuam to the Hea!,h insurance Port2bi!ity and Accounrnbility Act (HIP AA) Privacy Reguiations, 

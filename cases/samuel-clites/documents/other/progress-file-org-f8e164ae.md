@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Samuel
 source_hash: sha256:3d01932735d99b4d770b41cf92d61553cd8c359915b0c6adeb2d5b99878a016f
 ---
 
+**Case:** [[cases/samuel-clites/samuel-clites|Samuel Clites]]
+**Client:** [[cases/samuel-clites/contacts/samuel-clites|Samuel Clites]]
+
 case_folder: Samuel-Clites-MVA-4-23-2024
 job_id: file-org-f8e164ae
 phases.extraction.notes: Starting Phase 2a: Extraction. Processing 85 PDFs/text files. Parallelizing with multiple extraction agents (batches of 4).

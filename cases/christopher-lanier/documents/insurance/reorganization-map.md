@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:c4158b5b82392acdf61d53bb24297624804492894c16a69ff6c8db442facfacf
 ---
 
+**Case:** [[cases/christopher-lanier/christopher-lanier|Christopher Lanier]]
+**Client:** [[cases/christopher-lanier/contacts/christopher-lanier|Christopher Lanier]]
+
 case_name: Christopher-Lanier-MVA-6-28-2025
 generated_at: 2026-02-04T12:00:00Z
 mappings[0].action: MOVE

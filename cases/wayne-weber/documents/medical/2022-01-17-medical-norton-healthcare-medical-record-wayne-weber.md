@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:ac274c66e98af2325d79329e6fe28fd5b1ef50c817c8ddea40c3e042be541542
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 Pam Tomblin MCAHuntingtonWV (2/8) [DOB-1] 10:08:54 AM -0500
 1500DSICD10F
 Elen) Payer Fax: [PHONE-2]

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:e6d21a0071b82a75944d7b18ff97f0de9122220905395ed8f237ea63770c710c
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 flash drive info for C. Johnson
 Shannon McCowan <[EMAIL-1]>
 Mon 9/16/2024 11:52AM

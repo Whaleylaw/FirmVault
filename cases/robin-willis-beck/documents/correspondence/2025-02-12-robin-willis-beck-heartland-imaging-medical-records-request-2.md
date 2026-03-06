@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:0a51be5d26b663c1a14ff37000ebb42bd362a55a845bd2971aaa1b1346af196c
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 82/12/25 11:16:59 Outpatient Imaging A —> Qutpatient Imaging A Page HAL
 FAX Heartland
 IMAGING

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:0abfa198ffdfb3dd45b482c482f101ed1ab4424519123a9dbedbfd3dfae9921f
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: medical_records
 extraction.date: 2023-06-20
 extraction.description: St Jude Childrens Research Hospital medical record for Wayne Weber dated June 20, 2023.

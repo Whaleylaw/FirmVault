@@ -1,6 +1,6 @@
 ---
 case_slug: muhammad-alif
-created_at: 2026-02-17 00:11:04.640000+00:00
+created_at: {}
 document_category: financial
 document_type: financial
 extraction_method: native_text
@@ -8,10 +8,14 @@ legacy_case_id: 2022-11-08-MVA-001
 mime_type: message/rfc822
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Cutting
-  Edge Orthopedics/Medical Bills/2023-01-13-Muhammad-Alif-Medical-Cutting Edge Orthopedics-Medical-Bills-WLF-Cutting-Edge-Medical-Billing.eml
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Cutting Edge Orthopedics/Medical Bills/2023-01-13-Muhammad-Alif-Medical-Cutting Edge Orthopedics-Medical-Bills-WLF-Cutting-Edge-Medical-Billing.eml
 source_hash: sha256:86248d1fe80ecaaf6c5696d54dea8aa1c74b433cdc6e5c421668c21ed1fc952c
+contact: "[[cases/2022-11-08-mva-001/contacts/cutting-edge-orthopedics]]"
 ---
+
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 
 Subject: Cutting Edge Medical Billing
 From: sarena@whaleylawfirm.com

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ceceli
 source_hash: sha256:70b87324e8058d4a8ca245ae631151507dcb15168b038bb4d965db28a9193b15
 ---
 
+**Case:** [[cases/cecelia-neltner/cecelia-neltner|Cecelia Neltner]]
+**Client:** [[cases/cecelia-neltner/contacts/cecelia-neltner|Cecelia Neltner]]
+
 Docusign Envelope ID: 38030CA5-1BBB-41CD-8437-50F8CFOF325C
 Authorization for Disclosure ofProtected Health Information
 PATIENT: Cecelia Neltner

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:82981224961a424dfb36ceb5cfc20f7bc7e41e0ff5445f8a410409d58e3b025a
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: investigation
 date: 2024-12-01
 description: Kentucky Uniform Police Traffic Collision Report, accident on Mt Zion Rd at Biltmore Blvd, Florence KY on [DOB-1] at 19:04, head-on collision, report #24016614

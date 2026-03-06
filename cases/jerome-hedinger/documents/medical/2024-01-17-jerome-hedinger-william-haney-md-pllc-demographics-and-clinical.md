@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2023-10-24-PrL-001
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome-Hedinger-Premise-DB-[DOB-499]/Medical-Records/2024-01-17-Jerome-Hedinger-William-Haney-MD-PLLC-Demographics-and-clinical.pdf"
 source_hash: "sha256:51b945fec0adf0207f96bd909992b264016fa826a234ce028319d482a80cdc8f"

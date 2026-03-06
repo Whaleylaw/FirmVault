@@ -1,8 +1,8 @@
 ---
 case_slug: kimberly-brasher
-created_at: 2026-02-17 00:01:51.817000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1973-03-25
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2023-02-25-PrL-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimberly-Brasher-Premise-2-25-2023/Insurance/2024-03-18-Kimberly-Brasher-UHP-Administrators-Subrogation-Interest-Claim.pdf
 source_hash: sha256:e97e638d995bae5d088535d73d56581d2cbd7f68f656a822649844832dc956b9
+contact: "[[cases/2023-02-25-prl-001/contacts/uhp-administrators]]"
 ---
+
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

@@ -1,11 +1,10 @@
 ---
 case_slug: destiny-adkins
-created_at: 2026-02-16 23:26:21.521000+00:00
+created_at: {}
 document_category: court-filings
-document_date: 2021-04-16
+document_date: {}
 document_type: court_filing
-entities:
-- Allstate
+entities: null
 extraction_method: native_text
 legacy_case_id: 2021-04-16-MVA-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Destiny-Adkins-MVA-04-16-2021/Legal-Documents/Pleadings/2022-09-16-Destiny-Adkins-Allstate-Insurance-Company-Motion-to-Bifurcate.pdf
 source_hash: sha256:a444ccac6a22f51edb4ff453e83b4daf574a40c164a58515b8d5bc7c7c4d3a70
+contact: "[[cases/2021-04-16-mva-001/contacts/allstate-insurance]]"
 ---
+
+**Case:** [[cases/destiny-adkins/destiny-adkins|Destiny Adkins]]
+**Client:** [[cases/destiny-adkins/contacts/destiny-adkins|Destiny Adkins]]
+
 
 Filed
 NO. 22-CI-002878

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:50622d03b83bbbe16373f290c2718173b81e1e5444d9656ef51030bb25370e79
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: medical_records_request
 date: 2025-02-10
 description: Medical records request letter from Whaley Law Firm to University of Louisville Physicians for Nayram Adadevoh dated February 10, 2025. Requests certified records from [DOB-1] through 2/10/2025.

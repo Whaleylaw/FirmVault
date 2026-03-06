@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jensen
 source_hash: sha256:4dc6ac0e5f9e6be79a4ec901c52a83a4bd28678e5653458430e6a43b4bb6310b
 ---
 
+**Case:** [[cases/jensen-ott/jensen-ott|Jensen Ott]]
+**Client:** [[cases/jensen-ott/contacts/jensen-ott|Jensen Ott]]
+
 10/2/25, 1:53 PM
 PIP & 
 Claim

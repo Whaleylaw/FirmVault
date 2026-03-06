@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Destin
 source_hash: sha256:0e1fb49f45a3667e624d6a70ed1dd93c0970e826e27a726fb6d61de22e2ff575
 ---
 
+**Case:** [[cases/destiny-adkins/destiny-adkins|Destiny Adkins]]
+**Client:** [[cases/destiny-adkins/contacts/destiny-adkins|Destiny Adkins]]
+
 AOC-E-105 Sum Code: Cl
 Rev. 9-14 Case #: 22-CI-002878
 Court: CIRCUIT

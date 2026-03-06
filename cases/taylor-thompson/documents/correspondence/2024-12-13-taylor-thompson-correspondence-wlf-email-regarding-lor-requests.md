@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor
 source_hash: sha256:6d7810cc39fc11e928aa7dfae97f0dc1addd8ae17f082334565989fe7014f7ae
 ---
 
+**Case:** [[cases/taylor-thompson/taylor-thompson|Taylor Thompson]]
+**Client:** [[cases/taylor-thompson/contacts/taylor-thompson|Taylor Thompson]]
+
 Subject: Re: 16945402 - Thompson, Taylor LORs
 From: [EMAIL-1]
 To: [EMAIL-2]

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:fa4809beb9a9fc570a6692acc4f13248c75791469ddc66a0b7b36a03c2442dda
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 am, Amy Stich was§ looking for oes
 I + recommendations.
 4d:3

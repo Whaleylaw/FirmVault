@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/France
 source_hash: sha256:4c32a0289b68de1ad36f33534c397ca6d29a9974835f79e476637355b5adfc25
 ---
 
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 1/2/25, 11:06 AM rptClaimsReviewRoutingToCoverage
 BCA\C ROUTING TO CLAIM WITH
 NO INSURANCE COVERAGE

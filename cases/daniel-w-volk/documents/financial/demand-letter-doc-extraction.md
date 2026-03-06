@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel
 source_hash: sha256:3bc4a336a7696cb7f917bd0bda180fd6da687a9f8ef2e1ae2206952c424e1ee2
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 extraction.classification.bucket: Negotiation Settlement
 extraction.classification.confidence: medium
 extraction.classification.document_type: settlement_demand

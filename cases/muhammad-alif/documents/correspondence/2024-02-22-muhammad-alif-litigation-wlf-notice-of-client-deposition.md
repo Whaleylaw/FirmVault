@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:566d0c5ed1d7d125c4725c269445d2a6943924d8ce6be4eb1b5d64c4c95c6066
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 Subject: Your Deposition has been scheduled for May 23, 2024 at 10:00a
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

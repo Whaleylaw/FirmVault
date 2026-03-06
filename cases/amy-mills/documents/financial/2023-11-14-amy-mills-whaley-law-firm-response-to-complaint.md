@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:d5ba747bc26cd059a23652903c8d7e9acb2022f4b8b83c549531b9c01a9f8bfc
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 HALEY W LAW FIRM Aaron G. Whaley, Esq.
 
 712 Lyndon Lane

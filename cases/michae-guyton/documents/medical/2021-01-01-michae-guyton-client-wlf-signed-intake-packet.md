@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:31f58c28e952837fc3c87a9e950ed305e3046093d20ec96f68d5302de8d26e93
 ---
 
+**Case:** [[cases/michae-guyton/michae-guyton|Michae Guyton]]
+**Client:** [[cases/michae-guyton/contacts/michae-guyton|Michae Guyton]]
+
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 
 Louisville, KY 40222 

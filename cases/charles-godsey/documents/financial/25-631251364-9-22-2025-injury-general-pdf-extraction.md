@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:8a90d05b7208b3a9c8e55e827c961722c13e0297fa9cf5cf2f4cc2c492de55cc
 ---
 
+**Case:** [[cases/charles-godsey/charles-godsey|Charles Godsey]]
+**Client:** [[cases/charles-godsey/contacts/charles-godsey|Charles Godsey]]
+
 extraction.classification.bucket: Lien
 extraction.classification.confidence: high
 extraction.classification.document_type: lien_notice

@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2023-05-19-MVA-001
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michael-Crader-MVA-5-19-2023/Medical/UK Albert Chandler Hospital/Record Requests/2023-05-19-Michael-Crader-Medical-UK Albert Chandler Hospital-Record-Requests-UK-HealthCare-Medical-Records.pdf"
 source_hash: "sha256:df4864e637f28b6603e40c9c9dc7596733d48139f42b70654c6bd1e8d110ac5e"

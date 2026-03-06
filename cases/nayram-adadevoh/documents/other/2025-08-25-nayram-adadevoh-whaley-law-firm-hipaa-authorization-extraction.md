@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:a0490c3e7e23e34575cd4aaad61626d88012c74c99fb7a56a0e32bf2a16adfa6
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: medical_authorization
 date: 2025-08-25
 description: HIPAA authorization form from Whaley Law Firm dated August 25, 2025.

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:06a3ba325ea60b69f77eb6c6b53678d913055d229528679ad32c8a313c629b14
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 category: Medical Records
 description: Medical records from Mary and Elizabeth Hospital regarding MVC chest pain and fracture
 entities[0]: Alma Socorro Cristobal Avendaño

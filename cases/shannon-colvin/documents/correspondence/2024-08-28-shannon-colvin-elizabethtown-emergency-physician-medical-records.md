@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:9d9589b7e03dbbc2837895e4f23d8b109c3d8698f33cbcf77fccf76e22d08f19
 ---
 
+**Case:** [[cases/shannon-colvin/shannon-colvin|Shannon Colvin]]
+**Client:** [[cases/shannon-colvin/contacts/shannon-colvin|Shannon Colvin]]
+
 Fax Confirmation
 To: [PHONE-12] From: [PHONE-11]
 Doc:

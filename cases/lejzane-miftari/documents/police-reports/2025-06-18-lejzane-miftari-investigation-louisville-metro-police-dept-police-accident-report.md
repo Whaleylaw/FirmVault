@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Lejzan
 source_hash: sha256:2e468768f0d111ea3880bcea7f6e3c8b200ed4755e8da60c6a829453bbd41eca
 ---
 
+**Case:** [[cases/lejzane-miftari/lejzane-miftari|Lejzane Miftari]]
+**Client:** [[cases/lejzane-miftari/contacts/lejzane-miftari|Lejzane Miftari]]
+
 For Customer Support refer to the LexisNexis® appropriate platform below:
 Police Records Retrieval RISK SOLUTIONS [PHONE-12]
 [EMAIL-2]

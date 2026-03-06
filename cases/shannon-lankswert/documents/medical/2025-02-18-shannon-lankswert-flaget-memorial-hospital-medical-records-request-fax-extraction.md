@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:3258bebd364b8b9fbc791cc4c941c4a347891550739de6f090d67d583d790f39
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 extraction.category: Medical
 extraction.date: 2025-02-18
 extraction.description: Certified Medical Records Request faxed to Flaget Memorial Hospital on [DOB-3]. Includes HIPAA authorization requesting all medical records from [DOB-2] through [DOB-3]. Fax confirmation included

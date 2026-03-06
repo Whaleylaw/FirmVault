@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jensen
 source_hash: sha256:14ba858de45ce451db0430f6244f0b5b7366bebead1eb6b4beb612df7741ee0b
 ---
 
+**Case:** [[cases/jensen-ott/jensen-ott|Jensen Ott]]
+**Client:** [[cases/jensen-ott/contacts/jensen-ott|Jensen Ott]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jensen-Ott-MVA-8-06-2025/Insurance/2025-08-28-Jensen-Ott-Insurance-MetLife-Claim-Status-Details.jpg

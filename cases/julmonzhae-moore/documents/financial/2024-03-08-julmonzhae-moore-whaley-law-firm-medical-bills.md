@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmon
 source_hash: sha256:39063703c0669f71c921ea663324f6b17f94c6ada976b4a8337d7f29d2ea4e20
 ---
 
+**Case:** [[cases/julmonzhae-moore/julmonzhae-moore|Julmonzhae Moore]]
+**Client:** [[cases/julmonzhae-moore/contacts/julmonzhae-moore|Julmonzhae Moore]]
+
 Claim Letter 054658453-03 Page 1 of 2 
 March 08, 2024
 Insured: DEWAYNE WARD

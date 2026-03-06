@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Malcom
 source_hash: sha256:254800b02b3513ca266e4497aa4a2c9ac5dfa946a704f79304bc82a59e38f99a
 ---
 
+**Case:** [[cases/malcom-glass-jones/malcom-glass-jones|Malcom Glass Jones]]
+**Client:** [[cases/malcom-glass-jones/contacts/malcom-glass-jones|Malcom Glass Jones]]
+
 This Message Is From an External Sender
 This message came from outside your organization. Report Suspicious
 From: Aries Penaflor <[EMAIL-1]>

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:eae43b61cf5f103960d311728b0388621399ac3af6667cf8a2cfbf3aeab7d1e1
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: litigation
 extraction.date: 2025-08-28
 extraction.description: Defendant Fenwick's answers to plaintiff's interrogatories in the Wayne Weber case, dated August 28, 2025.

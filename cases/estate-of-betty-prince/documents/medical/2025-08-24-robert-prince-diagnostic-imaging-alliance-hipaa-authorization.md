@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:31a74e4e41a4a63aee2a09667275691c166d8e1a5bbdacf3f57317a6c07a0216
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 Change Healthcare TES as billing custodian for Diagnostic Imaging Alliance of Louisville
 AUTHORIZATION TO RELEASE PROTECTED HEALTH CARE INFORMATION
 TO:

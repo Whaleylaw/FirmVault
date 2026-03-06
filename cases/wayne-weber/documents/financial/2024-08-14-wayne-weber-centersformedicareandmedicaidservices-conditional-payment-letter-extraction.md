@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:e491bf5675239df7e9c75e8f62842c1f21533458dbd9cfba3ab152a1b6d8b55b
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: lien_correspondence
 extraction.date: 2024-08-14
 extraction.description: Conditional payment letter from CMS regarding Medicare payments made for Wayne Weber's accident-related treatment, establishing potential Medicare lien.

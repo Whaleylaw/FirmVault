@@ -12,4 +12,7 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:97424b3436e19be514f2711e41a4fc5f2551de0643f5f7c1c985ef62c0e189a9
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 Error: Parsing error: Invalid PDF: PdfiumLibraryInternalError: FormatError

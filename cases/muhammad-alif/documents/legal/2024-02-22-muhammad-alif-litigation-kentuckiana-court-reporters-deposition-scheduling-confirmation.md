@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:e3fc672ee00a5ba063be886e37a1b0a303f9ffbed099f94a3541e9e42f45261b
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 Subject: Re: New submission from 20 Second Scheduler
 From: [EMAIL-10]
 To: sarena@whaleylawfirm.com

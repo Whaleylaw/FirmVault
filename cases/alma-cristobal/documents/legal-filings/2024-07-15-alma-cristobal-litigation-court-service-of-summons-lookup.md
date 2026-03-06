@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:ecb1c801f6f9afdd8561395404e2bc42809e92733baa31e504adf1a8407457c5
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 Kentucky.gov
 Kentucky Secretary of State
 Michael G. Adams

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:019afbcf8194e9b1a431e5b1a10a33d2e208dd65d708bd99c1fcb9282118c5a8
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: medical_request
 extraction.date: 2024-11-14
 extraction.description: Medical records request for MRI radiology records from Baptist Health, dated November 14, 2024.

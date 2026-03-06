@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:e579b4cb7b13b4a20c474dfe492fe700a062c923802a89544e5f30c2a7bfacc0
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 KRS § 411.167
  Current through Ch.128 of the 2020 Regular Session. 
 Michie’s™ Kentucky Revised Statutes > TITLE XXXVI Statutory Actions and Limitations (Chs. 

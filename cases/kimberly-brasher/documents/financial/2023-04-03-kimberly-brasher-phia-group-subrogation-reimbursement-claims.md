@@ -4,6 +4,9 @@ document_category: financial
 legacy_case_id: 2023-02-25-PrL-001
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimberly-Brasher-Premise-2-25-2023/Insurance/2023-04-03-Kimberly-Brasher-Phia-Group-Subrogation-reimbursement-claims.pdf"
 source_hash: "sha256:ddb1203314d38bd476f431e38a91a5eed7a0c293bb8176ae0eb4eda73c1d5b9a"

@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:158f17fc32853eb7cebc9b6b223a7ac5c7e3a282b31c75ea4f4724d70d8f8bef
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 Subject: Re: Claim: 237484CS Amy Stich - Operative Report
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1], [EMAIL-2]

@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2022-12-05-OTH-001
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-Hall-WC-[DOB-1]/Medical/2022-12-08-Cora-Hall-The-Medical-Center-at-Scottsville-Wrist-fracture-X-ray.pdf"
 source_hash: "sha256:82238549751061d0ea34537726b7d3d92cd27a1dc52f0203172d83dc99746afc"

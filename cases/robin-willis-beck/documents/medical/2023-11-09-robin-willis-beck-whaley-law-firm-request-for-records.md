@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2023-09-21-PrL-001
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-Willis-Beck-Premise-[DOB-96]/Records-Requests/2023-11-09-Robin-Willis-Beck-Whaley-Law-Firm-Request-for-Records.pdf"
 source_hash: "sha256:a383125d9f7be80e2f5ecfc00aa5df74c0389cc126c72ceab3e5cb9c2cbec266"

@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:2bf1b55b42d79cace7dd14ebd4fb132cbcb45fbb92b2aa8e2e6b20a991079b34
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 2025.05.09 01:43 PM SECRKaren Bailey [PHONE-1] #294 Poa a
 SEE Bq,etDue" Court Reporting
 London, Kentucky 40741 \ zZ ‘ited States

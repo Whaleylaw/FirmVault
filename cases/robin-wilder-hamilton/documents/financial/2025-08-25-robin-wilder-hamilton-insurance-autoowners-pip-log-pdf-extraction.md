@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:171f2b443334713cda9f50870bd6253d6ed8f3c2dfd681cc088dee36e55ff13a
 ---
 
+**Case:** [[cases/robin-wilder-hamilton/robin-wilder-hamilton|Robin Wilder Hamilton]]
+**Client:** [[cases/robin-wilder-hamilton/contacts/robin-wilder-hamilton|Robin Wilder Hamilton]]
+
 content_summary: Personal Injury Protection (PIP) payment log from Auto Owners Insurance for Robin Wilder-Hamilton, documenting insurance payments and claims activity (no .md file available for detailed extraction).
 document_date: 2025-08-25
 entities[0]: Robin Wilder-Hamilton

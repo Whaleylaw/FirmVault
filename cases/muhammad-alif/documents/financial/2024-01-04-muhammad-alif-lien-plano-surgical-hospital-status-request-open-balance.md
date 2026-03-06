@@ -4,6 +4,9 @@ document_category: financial
 legacy_case_id: 2022-11-08-MVA-001
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-[DOB-1]/Liens/2024-01-04-Muhammad-Alif-Lien-Plano-Surgical-Hospital-Status-Request-Open-Balance.eml"
 source_hash: "sha256:dc9632bf555f77d2426d7390ec29947e7c34100c7816b21f86cdc381184e13e4"

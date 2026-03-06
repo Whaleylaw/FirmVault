@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Lindse
 source_hash: sha256:8119a6f0fd0615f2a73467c65314011189448eeee0f4832f64e4b269808e6679
 ---
 
+**Case:** [[cases/lindsey-dunn/lindsey-dunn|Lindsey Dunn]]
+**Client:** [[cases/lindsey-dunn/contacts/lindsey-dunn|Lindsey Dunn]]
+
 November 7, 2025
 Valerie Marlatt
 Root Auto Insurance

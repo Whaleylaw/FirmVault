@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:d8bf82d35bec76419a6c6f102d70a862f481dfb23c46ab8c7c035710a38f01c3
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: lien
 date: 2025-02-13
 description: Subrogation claim notice from Blue Cross Blue Shield (via Rawlings Company) regarding health plan's ERISA subrogation rights for medical benefits paid

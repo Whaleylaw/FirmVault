@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cynthi
 source_hash: sha256:4a9918ca9afc9f82cf3f79438cc29f4d25b40d94b8b65201b51bf98337e67a85
 ---
 
+**Case:** [[cases/cynthia-gibson/cynthia-gibson|Cynthia Gibson]]
+**Client:** [[cases/cynthia-gibson/contacts/cynthia-gibson|Cynthia Gibson]]
+
 SLZEv ‘HO ‘snquinjod ‘Q0¢ eins eens Yyrry 3 Og ‘deg swe|D :uNY - sue:nsuy JOOY
 
 al SPL000-00LEbEE

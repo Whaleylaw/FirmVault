@@ -1,8 +1,8 @@
 ---
 case_slug: davis-robinson
-created_at: 2026-02-16 22:55:53.160000+00:00
+created_at: {}
 document_category: financial
-document_date: 2025-05-02
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2025-05-02-SF-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-Robinson-SF-05-02-2025/Investigation-Materials/2025-05-09_Investigation_Texas-Roadhouse-Acknowledgement-Letter_001.pdf
 source_hash: sha256:d5f370515b9cea4ff081f31a841beec1e1c8cd437599ced9d91ad72bd0a3f9a2
+contact: "[[cases/2025-05-02-sf-001/contacts/texas-roadhouse]]"
 ---
+
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 
 May 09, 2025
 Aaron G. Whaley, Esq. *Sent Via Email [EMAIL-4] & US Mail

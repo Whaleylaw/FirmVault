@@ -1,11 +1,10 @@
 ---
 case_slug: davis-robinson
-created_at: 2026-02-16 22:55:59.331000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1967-08-09
+document_date: {}
 document_type: correspondence
-entities:
-- Orthopaedic Surgery Center
+entities: null
 extraction_method: native_text
 legacy_case_id: 2025-05-02-SF-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-Robinson-SF-05-02-2025/Medical-Records/2025-05-21_Medical_Orthopaedic-Surgery-Center-Records-Request_001.pdf
 source_hash: sha256:060a4237e053222728c1ae4f0d5304f704f202473975dae56e134f750daf83b4
+contact: "[[cases/2025-05-02-sf-001/contacts/orthopaedic-surgery-center]]"
 ---
+
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 
 Justin Chumbley
 Aaron G. Whaley, Esq.

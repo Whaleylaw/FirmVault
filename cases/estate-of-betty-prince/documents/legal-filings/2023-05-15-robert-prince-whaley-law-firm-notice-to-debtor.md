@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:68f682d8c861ed1ee8f02df71046dd37cae5441ab20521f3de3e68897c42607d
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 12/01/21 09:32AM CST '[PHONE-31]' -> [PHONE-30] Pg 1/8
 
 Should you have any further questions or concerns, please do not hesitate to contact me, Thanks & have a great day!

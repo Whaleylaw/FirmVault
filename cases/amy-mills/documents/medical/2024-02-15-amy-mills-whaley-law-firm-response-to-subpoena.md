@@ -23,6 +23,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:403558597ccca09010995d46b01d7dbaa09902e386483f405ebe1311b80d9af6
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 BF 8 pTIST HEALTH’ Baptist Health Corbin Mills, Amy . au 1 Trillium Way MRN: [PHONE-85], DOB: [DOB-1], Sex: F Corbin KY 40701-8727 Adm: 5/30/2019, D/C: 5/30/2019
 
 ———————-—-_—_—_ oem qe Hospital Account SN a re

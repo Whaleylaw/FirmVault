@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:9a92aa30d712546d7f5c89fdd6ac89170b3d16eebf04a8ff8eb1354dfeb40fe1
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: case_information
 extraction.date: 2022-01-01
 extraction.description: Brief synopsis of motor vehicle accident involving Wayne Weber dated January 1, 2022.

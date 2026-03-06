@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/France
 source_hash: sha256:07b5ad964b4ab1ecb479e691c9ad52cbbf38be79ab9b02d2b665c7ea83638958
 ---
 
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 Subject: Re: Open Records Request - Frankfort PD Report #124026789
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

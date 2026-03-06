@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:6350f14d277e3e94822dae4a642c7da969a5b163acdf630cb72990d702bb2690
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 Aaron G. Whaley, Esg. 712 Lyndon Lane Louisville, KY 40222 Ph. [PHONE-1] Fax, [PHONE-7]
 
 June 4, 2024 ; ; CERTIFIED RECORD REQUEST — Air Methods Corporation Attached Certification (or Air Ambulance Service — Rocky Mountain Holdings similar form) MUST he P.O. Box 713375 completed.

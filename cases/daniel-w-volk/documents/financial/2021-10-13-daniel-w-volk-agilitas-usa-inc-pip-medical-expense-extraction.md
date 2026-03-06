@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel
 source_hash: sha256:75cb378ba47b6b8d4de3166fb3f8bfa0f876b265f34f2d82f5f69d3a1a7e2150
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 extraction.classification.bucket: Insurance-PIP
 extraction.classification.confidence: high
 extraction.classification.document_type: insurance_correspondence

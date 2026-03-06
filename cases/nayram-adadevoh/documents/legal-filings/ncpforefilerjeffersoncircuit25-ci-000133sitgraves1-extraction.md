@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:a8e0313e63460d65b16363c49fd18eb91cfcf91c8fd7c0d630ab742f8b5250ff
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: court_filing_notice
 date: 2025-02-07
 description: Notice of Court Paper (for eFiler) email from Kentucky Courts for Jefferson Circuit case 25-CI-000133 (SITGRAVES, ABBY ET AL VS. CAAL WORLDWIDE, INC. ET AL), dated February 7, 2025. Envelope # 9847423.

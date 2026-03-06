@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:7ce1886806ba0712c36f0b7f8a1b1a5361181372d226c5d1ed3edbfd49a22f57
 ---
 
+**Case:** [[cases/james-sadler/james-sadler|James Sadler]]
+**Client:** [[cases/james-sadler/contacts/james-sadler|James Sadler]]
+
 Verification Complete
 The document has been officially verified.
 Recipient1

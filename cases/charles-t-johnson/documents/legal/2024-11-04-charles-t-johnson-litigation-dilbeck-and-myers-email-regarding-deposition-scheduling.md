@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:3f4c983afce3d139b58628156dad95bab2db7550fcb99cbbfeb9a6d4242a6365
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 Subject: RE: Charles Johnson v Robert Lowe - Jeff Cir 24-CI-002475
 From: [EMAIL-1]
 To: [EMAIL-2], [EMAIL-3]

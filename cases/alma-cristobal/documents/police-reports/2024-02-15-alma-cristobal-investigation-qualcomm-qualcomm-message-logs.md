@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:e70e1d9b790edbdda80762ffdb7ef39d2c91eb0c87f82ccb4cc711c97f2a8b5f
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 MC0101CR 4/01/24 QUALCOMM MESSAGES LISTING Page: 41 
  From: 02/08/24 To: 02/15/24 
 FROM TO DATE/TIME STATUS MESSAGE TEXT 

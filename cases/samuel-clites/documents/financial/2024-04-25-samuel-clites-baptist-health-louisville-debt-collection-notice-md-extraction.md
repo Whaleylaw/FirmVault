@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Samuel
 source_hash: sha256:9d60003ac9be92806280133b2ab7e790894e6aaf99e6d6b99591a7b38e912ecb
 ---
 
+**Case:** [[cases/samuel-clites/samuel-clites|Samuel Clites]]
+**Client:** [[cases/samuel-clites/contacts/samuel-clites|Samuel Clites]]
+
 extraction.classification.bucket: Lien
 extraction.classification.confidence: high
 extraction.classification.document_type: lien_notice

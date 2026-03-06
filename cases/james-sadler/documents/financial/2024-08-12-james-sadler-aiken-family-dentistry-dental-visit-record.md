@@ -1,8 +1,8 @@
 ---
 case_slug: james-sadler
-created_at: 2026-02-16 23:55:19.506000+00:00
+created_at: {}
 document_category: financial
-document_date: 2002-02-06
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2023-04-07-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Sadler-MVA-4-07-2023/Medical/2024-08-12-James-Sadler-Aiken-Family-Dentistry-Dental-Visit-Record.pdf
 source_hash: sha256:c604d88d55bf31034d168fc3253d29cb2f3ec2d749bd457ef11a70a7652b68bf
+contact: "[[cases/2023-04-07-mva-001/contacts/aiken-family-dentistry]]"
 ---
+
+**Case:** [[cases/james-sadler/james-sadler|James Sadler]]
+**Client:** [[cases/james-sadler/contacts/james-sadler|James Sadler]]
+
 
 Aiken Family Dentistry PSC
 139 Saint Matthews Avenue

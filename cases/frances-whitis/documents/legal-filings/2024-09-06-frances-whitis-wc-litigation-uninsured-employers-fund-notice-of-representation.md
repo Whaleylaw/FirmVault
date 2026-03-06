@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/France
 source_hash: sha256:6de47be2314f1144ebeb575b50896580c40d82792fdb387a389eacf844cf8c99
 ---
 
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 October 2016 Edition
 
 COMMONWEALTH OF KENTUCKY DEPARTMENT OF WORKERS’ CLAIMS

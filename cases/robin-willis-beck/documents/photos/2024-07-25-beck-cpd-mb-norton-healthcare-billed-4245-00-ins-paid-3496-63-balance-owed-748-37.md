@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:0b34639a8b4f6cad3ca568625a438830e17cd0bb8f61c18d9a3d262ba96f90cc
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-Willis-Beck-Premise-[DOB-1]/Photos/2024.07.25-Beck-CPD-MB-Norton-Healthcare-Billed-4245.00-Ins-Paid-3496.63-Balance-Owed-748.37.jpg

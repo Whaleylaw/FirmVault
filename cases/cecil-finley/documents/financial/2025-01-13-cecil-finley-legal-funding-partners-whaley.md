@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:e129c8d5f4ee11d786153e35ea41ed56faade4129f5f05b915f55527113ca465
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 leo t46OQ000027 awGSOO0E BOa al? £9000!
 Ayuaa/ui09"S¥998Y99//:8d)1U J yoayo AJA,
 s4p||od OOT/00 Pue paspuny ary ‘puesnou} au0)

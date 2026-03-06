@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:3cbee82c552f8506036d9ebd96a18f973b5bed2c41260d630edf296e53b96107
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 Apr. 3.2023 10:08AM No.1598 PL30/50
 Famaees 2d “tuaUaAag “repinoig
 URI euREes] usm enunUo;aK ouroyidwo> nowy - ayy paresa[oy awouneary,if

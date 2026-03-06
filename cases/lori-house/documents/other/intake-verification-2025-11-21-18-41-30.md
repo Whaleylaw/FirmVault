@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Lori-H
 source_hash: sha256:85b4e10b00180272ab54720f1c5dc9ecd80aac92a2be3374752167f59e8c62bb
 ---
 
+**Case:** [[cases/lori-house/lori-house|Lori House]]
+**Client:** [[cases/lori-house/contacts/lori-house|Lori House]]
+
 Verification Complete
 The document has been officially verified.
 Recipient1

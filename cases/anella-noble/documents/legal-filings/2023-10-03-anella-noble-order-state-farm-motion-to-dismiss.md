@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:d8cab328563501bbbd1f044e4d633a13af6f943eca5fb6f750587e5570acaa41
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 |
 Yendered * ©24-C1-0049F [DOB-1] | David L. Nichols Jefferson Circuit Clerk
 x

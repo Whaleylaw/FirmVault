@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Elizab
 source_hash: sha256:2530dc8cc6766f1a9fa6929157258d5954bc1b4137e67a593ce47ed0cb6d0f1f
 ---
 
+**Case:** [[cases/elizabeth-lindsey/elizabeth-lindsey|Elizabeth Lindsey]]
+**Client:** [[cases/elizabeth-lindsey/contacts/elizabeth-lindsey|Elizabeth Lindsey]]
+
 item_0.date_notice_received: 2025-01-15
 item_0.holder_address: PO Box 2000, , LaGrange, KY 40031
 item_0.holder_phone: [PHONE-1]

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:b982cc1077f0db09d4190c1a87927548815de80e8ce8b5c66a91ff61bf7755d8
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 To: Page: 22 of 23 2023-10-20 15:38:11 PDT 18007133438 From: MedicalRecords [PHONE-1]
 Date of Payment
 Branch: Goulds - Dutchmans Customer ID: 2331595

@@ -12,4 +12,7 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:17f2ab53d9b555bf1714264c77b7575fb55bf479a6f87aab18c702cc701c7a97
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 Error: Parsing error: Failed to parse JSON: trailing characters at line 151 column 5

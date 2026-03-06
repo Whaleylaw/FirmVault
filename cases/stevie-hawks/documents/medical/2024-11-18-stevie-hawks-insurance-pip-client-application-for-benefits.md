@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2024-03-08-MVA-001
 ---
 
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie-Hawks-MVA-3-8-2024/Insurance/2024-11-18-Stevie-Hawks-Insurance-PIP-Client-Application-For-Benefits.pdf"
 source_hash: "sha256:0793b508dcb21d1f456a186b75c453f6daf0d5d8be634756d61ac8d818c87423"

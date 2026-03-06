@@ -1,8 +1,8 @@
 ---
 case_slug: cecil-finley
-created_at: 2026-02-16 22:20:47.183000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1985-07-03
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2024-01-24-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-Finley-MVA-1-24-2024/Medical-Records/2024-08-30-Cecil-Finley-Foundation-Radiology-Medical-Records.pdf
 source_hash: sha256:1b117c1055fe1f5dd9345d24609cc9e2c098f383f2e53551c60595c705162dc7
+contact: "[[cases/2024-01-24-mva-001/contacts/foundation-radiology]]"
 ---
+
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 
 Fax Confirmation
 To: [PHONE-12] From: [PHONE-11]

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:96aa7f624d45a8bd7b1fb7ecad7c310ae088875c27f152bb177923c1df182f13
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 verizon
 VERIZON SECURITY SUBPOENA COMPLIANCE
 > 180 WASHINGTON VALLEY ROAD.

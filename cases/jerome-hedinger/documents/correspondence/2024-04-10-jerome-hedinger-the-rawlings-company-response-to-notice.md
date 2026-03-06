@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:a8c78dbef5f5ccf410939f3fe343c8878cf2ec5ce71ca602b0ac1287eebac85e
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 +18339448 730
 They. Rawlings Companyic
 Subrogation Dirvbas

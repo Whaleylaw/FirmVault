@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:20ae977800c3dd5566de4229bb2eb1c12d1575f16b6e40b2ebf4ff7ce607f6d5
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 batch_number: 2
 count: 20
 files[0]: 2025-08-24-Anella-Noble-T-Mobile-Subscriber-Information.pdf

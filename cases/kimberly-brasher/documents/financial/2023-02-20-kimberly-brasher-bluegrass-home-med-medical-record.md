@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:78c3423dbd1dde2bb777d5ff6cbbd8b6ef33a3c821272222cd93b967c3d17538
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 02-157 24 14:26 FROM- Bluegrass Home Med, [PHONE-10] T-102 PQ082/0035 F-238
 1128 North Main Street Ca Wann
 Delivery Ticket for BRASHER, KIMBERLY K

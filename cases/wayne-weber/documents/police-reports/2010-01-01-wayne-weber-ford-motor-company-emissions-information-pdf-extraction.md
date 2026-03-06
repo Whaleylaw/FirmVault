@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:b06dbd682df083f38e393fe84190f1f1f5827cc77fa9185d54c3dbf438dd7785
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: investigation
 extraction.date: 2010-01-01
 extraction.description: Vehicle emissions information documentation from Ford Motor Company, dated January 1, 2010.

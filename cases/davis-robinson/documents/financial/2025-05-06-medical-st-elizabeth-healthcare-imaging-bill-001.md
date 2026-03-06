@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-
 source_hash: sha256:bedf83ff059a3f5aae3c55e76c948dc6cda22f35f8e1c29ffc715173f76ff700
 ---
 
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 An SEH EMPLOYEE DISCOUNT has been applied to one or more of your above accounts under the PAT ADJ column.
 To see if you may qualify for financial assistance through federal, state or St. Elizabeth's Financial Assistance Program, see reverse side to complete a financial assistance application or go to www.stelizabeth.com/patients-visitors/financial-assistance-programs To ensure proper credit, detach bottom portion and return this portion in the enclosed envelope.
 PO BOX 1259 Dept. #158692 Oaks, PA 19456 PLEASE DO NOT REMIT PAYMENT OR SEND ANY CORRESPONDENCE TO THIS ADDRESS

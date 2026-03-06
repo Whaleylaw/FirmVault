@@ -19,6 +19,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:b9d68b6ea13a578b7ceaf8d06ee12f7d27cd0b4e6391f81bf2565def58f806fe
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 [DOB-37] [PHONE-2] XRAY ASSOC OFLOU PAGE 41/16
 14-Nov-2024 15:28 «15028949544 [PHONE-35]
 AaronWhey Et. inane 1RYAO222 " wonstoale

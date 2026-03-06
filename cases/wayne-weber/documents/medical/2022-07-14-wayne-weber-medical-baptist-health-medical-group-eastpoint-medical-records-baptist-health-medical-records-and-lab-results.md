@@ -1,22 +1,23 @@
 ---
 case_slug: wayne-weber
-created_at: 2026-02-17 00:40:21.460000+00:00
+created_at: {}
 document_category: medical
-document_date: 1947-07-13
+document_date: {}
 document_type: medical
-entities:
-- Robert Zaring
-- Baptist Health
+entities: null
 extraction_method: native_text
 legacy_case_id: 2022-01-01-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-Weber-MVA-01-01-2022/Medical/Baptist
-  Health Medical Group - Eastpoint/Medical Records/2022-07-14-Wayne-Weber-Medical-Baptist
-  Health Medical Group - Eastpoint-Medical-Records-Baptist-Health-Medical-Records-and-Lab-Results.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-Weber-MVA-01-01-2022/Medical/Baptist Health Medical Group - Eastpoint/Medical Records/2022-07-14-Wayne-Weber-Medical-Baptist Health Medical Group - Eastpoint-Medical-Records-Baptist-Health-Medical-Records-and-Lab-Results.pdf
 source_hash: sha256:90858a1f96764217774c45c71ab4d72daf513fcb1bf699f49f104c68a17afe12
+contact: "[[cases/2022-01-01-mva-001/contacts/baptist-health-medical-group-eastpoint]]"
 ---
+
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 
 or GROUP INTERNAL MEDICINE MRN: [PHONE-1], DOB: 7/13/1947, Sex: M 2400 Eastpoint Parkway Visit date: 11/4/2022 Suite 450 Louisville KY 40223-4154
 

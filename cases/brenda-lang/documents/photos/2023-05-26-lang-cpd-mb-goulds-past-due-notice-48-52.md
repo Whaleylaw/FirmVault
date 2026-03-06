@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:d89febdbed42f0d38e097823cb7af925d8b1975044b90d21802fc56935571ac1
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda-Lang-MVA-[DOB-1]/Investigation/Photos/2023.05.26-Lang-CPD-MB-Goulds-Past-Due-Notice-48.52.jpg

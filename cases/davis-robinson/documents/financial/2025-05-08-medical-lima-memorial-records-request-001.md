@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-
 source_hash: sha256:03879bc0a39125a8ae3cc9b4b8d4c11bb1806452a76a8a75e939801375e11fc6
 ---
 
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 LMHS 9/13/2025 12:04:32 PM EDT PAGE 1/004 Fax server
 From: Fax Line Fax: [PHONE-10] Ta: Fax: 414192265061 Page: 1 of 3 05/08/2625 12:66 PM
 FAX

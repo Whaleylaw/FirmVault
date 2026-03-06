@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:175993212bb33046e10d342688b930aa3fbab6ddfd03f582b52db3852d197fd8
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 BAPTIST HEALTH WC1 4/20/2021 8:22:52 AM PAGE 1/001 Fax server
 
 Fax Transmission/Information Sheet

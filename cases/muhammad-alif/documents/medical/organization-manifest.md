@@ -24,6 +24,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:1abf0adc7d548957be3d7792d5ff1755402fed3f5e411258173437f0a3417548
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 accident_date: 2022-11-08
 case_type: MVA
 client_name: Muhammad-Alif

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:202f0ced47bfd5f50fd893a3b123a317b93a34b44a1150dc2070479f7e2e9bb7
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 extracted_data.category: vehicle
 extracted_data.date: 2025-09-15
 extracted_data.description: Letter dated [DOB-2] from Enterprise Rent-A-Car damage claims department to Donnisha Brock regarding damage to rental vehicle (Rental Agreement #9F7KDM, Claim #23016864, Date of Loss [DOB-2]). Letter notifies that damage protection product cannot be honored due to actions that invalidate protection and requests cooperation in resolving damage claim.

@@ -1,18 +1,22 @@
 ---
 case_slug: michael-johnston
-created_at: 2026-02-17 00:07:06.393000+00:00
+created_at: {}
 document_category: medical
-document_date: 1978-04-21
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2023-05-03-OTH-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michael-Johnston-WC-05-03-2023/Medical/OasisSpace/Record
-  Requests/2023-10-21-Michael-Johnston-Medical-OasisSpace-Record-Requests-WLF-Medical-Records-Authorization.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michael-Johnston-WC-05-03-2023/Medical/OasisSpace/Record Requests/2023-10-21-Michael-Johnston-Medical-OasisSpace-Record-Requests-WLF-Medical-Records-Authorization.pdf
 source_hash: sha256:57161de565c5aa95b81679a2ff6c5834515008b962f928224b6b5bd9f5c2e2c7
+contact: "[[cases/2023-05-03-oth-001/contacts/oasisspace]]"
 ---
+
+**Case:** [[cases/michael-johnston/michael-johnston|Michael Johnston]]
+**Client:** [[cases/michael-johnston/contacts/michael-johnston|Michael Johnston]]
+
 
 [DOB-1]
 ***-**-1727 [DOB-1]

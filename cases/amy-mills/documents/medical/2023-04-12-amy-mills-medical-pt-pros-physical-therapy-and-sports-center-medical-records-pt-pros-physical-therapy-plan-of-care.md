@@ -1,21 +1,23 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:49:13.136000+00:00
+created_at: {}
 document_category: medical
-document_date: 2023-04-21
+document_date: {}
 document_type: medical
-entities:
-- Christopher Fuson
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/PT
-  Pros Physical Therapy and Sports Center/Medical Records/2023-04-12-Amy-Mills-Medical-PT
-  Pros Physical Therapy and Sports Center-Medical-Records-PT-Pros-Physical-Therapy-Plan-of-Care.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/PT Pros Physical Therapy and Sports Center/Medical Records/2023-04-12-Amy-Mills-Medical-PT Pros Physical Therapy and Sports Center-Medical-Records-PT-Pros-Physical-Therapy-Plan-of-Care.pdf
 source_hash: sha256:acdc23d657b88fec66fbc4abdebd302791452b8176555c29402d00c8eeaa7a24
+contact: "[[cases/2019-04-26-prl-001/contacts/pt-pros-physical-therapy-and-sports-center]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 ©[DOB-1] 8:04 AM 16062194252 ~? 185926035141 Pg 9 of 7
 TEP ROS

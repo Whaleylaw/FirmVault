@@ -23,6 +23,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:48ac299b963a6603f799ee780472927372c018b2ee0469a6112f2effcd769d1d
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 ea BAPTIST HEALTH’ BAPTIST HEALTH MEDICAL Mills, Amy
 
 2a GROUP ORTHOPEDICS MRN: [PHONE-15], DOB: [DOB-1], Sex: F AND SPORTS MEDICINE Visit date: 11/5/2019 1760 NIGHOLASVILLE RD STE 101

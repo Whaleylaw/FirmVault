@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:61421f2eb5f21c9375638eab1012970bc8869a1963da1f04a6c238a3354e407f
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 Subject: Dog Bite Suit?
 From: [EMAIL-1]
 To: Sarena@whaleylawfirm.com, [EMAIL-2]

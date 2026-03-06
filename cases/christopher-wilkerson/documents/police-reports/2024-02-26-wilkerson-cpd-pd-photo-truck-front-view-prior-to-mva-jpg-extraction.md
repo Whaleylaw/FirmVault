@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:7fe9e744388ff76bb2a9143bbbcf6089e75ed6fb354cc108ba37b7732c926a42
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 category: Investigation
 confidence: high
 description: Front view of the client's dump truck in undamaged condition before the accident on US-127.

@@ -1,24 +1,23 @@
 ---
 case_slug: frances-whitis
-created_at: 2026-02-16 23:42:34.441000+00:00
+created_at: {}
 document_category: medical
-document_date: 1970-04-18
+document_date: {}
 document_type: medical
-entities:
-- Frank Farley Ill
-- Cumberland Family Medical Center
-- Frankfort Regional Medical Center
-- Aetna
+entities: null
 extraction_method: native_text
 legacy_case_id: 2024-09-06-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Frances-Whitis-WC-MVA-9-6-2024/Medical/Family
-  Care Of The Bluegrass - East/Medical Records/2023-09-08-Frances-Whitis-WC-Medical-Family
-  Care Of The Bluegrass - East-Medical-Records-Cumberland-Family-Medical-Center-Medical-Records-and-Bills.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Frances-Whitis-WC-MVA-9-6-2024/Medical/Family Care Of The Bluegrass - East/Medical Records/2023-09-08-Frances-Whitis-WC-Medical-Family Care Of The Bluegrass - East-Medical-Records-Cumberland-Family-Medical-Center-Medical-Records-and-Bills.pdf
 source_hash: sha256:4b2ca51e8d6e5612f092cfacb0a4b37503161536b23f551b315e000067a91cae
+contact: "[[cases/2024-09-06-mva-001/contacts/family-care-of-the-bluegrass-east]]"
 ---
+
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 
 From MADISONM 18444752310 3/5/2025 08:11:43 PST Page 01 of 80
 @ se Cumberland Family Medical Center, inc.

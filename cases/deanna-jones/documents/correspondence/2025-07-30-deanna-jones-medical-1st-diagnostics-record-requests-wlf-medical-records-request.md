@@ -1,18 +1,22 @@
 ---
 case_slug: deanna-jones
-created_at: 2026-02-16 22:56:28.662000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 2025-07-30
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2025-07-30-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Deanna-Jones-MVA-7-30-2025/Medical/1st
-  Diagnostics/Record Requests/2025-07-30-Deanna-Jones-Medical-1st Diagnostics-Record-Requests-WLF-Medical-Records-Request.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Deanna-Jones-MVA-7-30-2025/Medical/1st Diagnostics/Record Requests/2025-07-30-Deanna-Jones-Medical-1st Diagnostics-Record-Requests-WLF-Medical-Records-Request.pdf
 source_hash: sha256:5271ec9bb45d5b82c976ff885cc0fb4e151f0026fe3a5b1e8c360cea96dca534
+contact: "[[cases/2025-07-30-mva-001/contacts/1st-diagnostics]]"
 ---
+
+**Case:** [[cases/deanna-jones/deanna-jones|Deanna Jones]]
+**Client:** [[cases/deanna-jones/contacts/deanna-jones|Deanna Jones]]
+
 
 Aaron G. Whaley, Esq.
 712 Lyndon Lane

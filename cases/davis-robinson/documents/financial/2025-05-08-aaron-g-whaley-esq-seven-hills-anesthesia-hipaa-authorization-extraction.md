@@ -1,8 +1,8 @@
 ---
 case_slug: davis-robinson
-created_at: 2026-02-16 22:56:04.219000+00:00
+created_at: {}
 document_category: financial
-document_date: 2025-05-08
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2025-05-02-SF-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 90
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-Robinson-SF-05-02-2025/Reports/extractions/2025-05-08-Aaron-G-Whaley-Esq-Seven-HIlls-Anesthesia-HIPAA-Authorization_extraction.json
 source_hash: sha256:b75d5da833276206cb97fc72a9676e06196a645aeeeca243a8f018adf73b8704
+contact: "[[cases/2025-05-02-sf-001/contacts/seven-hills-anesthesia]]"
 ---
+
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 
 extraction.classification.bucket: Medical Records
 extraction.classification.confidence: high

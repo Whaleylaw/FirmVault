@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:54b09b142b22c0c6c9d5afb45a93eaebf59584a136c5cbb15f8bd005e4ef9a5a
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: medical_record
 extraction.date: 2023-11-02
 extraction.description: Medical visit records from Dr. Roberts for Wayne Weber's follow-up treatment on November 2, 2023 related to the motor vehicle accident injuries.

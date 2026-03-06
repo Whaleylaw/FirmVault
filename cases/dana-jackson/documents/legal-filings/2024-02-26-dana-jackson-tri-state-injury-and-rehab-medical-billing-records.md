@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dana-J
 source_hash: sha256:09c32103b6fab5d2eeeb8ca64c848c3de09c8e8c084b74eda20280f1e420d040
 ---
 
+**Case:** [[cases/dana-jackson/dana-jackson|Dana Jackson]]
+**Client:** [[cases/dana-jackson/contacts/dana-jackson|Dana Jackson]]
+
 Dec.18.2624 11:05AM Tri State Injury and Rehab No.0081 PL1
 CERTIFICATION OF MEDICAL BILLING RECORDS AFFIDAVIT
 Elissa } EOS being first duly sworn onhis/her oath, saysthat:

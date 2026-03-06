@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-
 source_hash: sha256:1b7b78d8fad078c58d9819ef80c6ad33e11acbd0553c5258434fd47eb1fdf11e
 ---
 
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 item_0.parent_facility: Ephraim McDowell Health
 item_0.phone: [PHONE-10]
 item_0.project_name: Caryn-McCay-MVA-7-30-2023

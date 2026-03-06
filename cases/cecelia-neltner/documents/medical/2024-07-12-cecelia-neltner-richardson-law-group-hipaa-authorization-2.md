@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ceceli
 source_hash: sha256:233294c73c5e53a13368f8a05bc5a33cd2805447c4b94c1129a0a1098071bf9b
 ---
 
+**Case:** [[cases/cecelia-neltner/cecelia-neltner|Cecelia Neltner]]
+**Client:** [[cases/cecelia-neltner/contacts/cecelia-neltner|Cecelia Neltner]]
+
 1 
 Authorization for Disclosure of Protected Health Information 
 PATIENT: Cecelia Neltner 

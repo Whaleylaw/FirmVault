@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:1d4d82fcce21b20491fbb92488e32e576d4cb685aedf6fc10c342c16219df5c4
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 369515
 [DOB-1] Louisville, KY 40217
 530 Lilly Ave

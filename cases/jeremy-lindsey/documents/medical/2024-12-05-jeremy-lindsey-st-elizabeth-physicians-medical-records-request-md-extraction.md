@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:b0b4e42a47d3af34627a6db35a8ca5a830bcd18cff1be0f83ed6d5c2e7acfaca
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: medical_request
 date: 2024-12-05
 description: Medical records request letter from Whaley Law Firm to St. Elizabeth Physicians for records from December 1, 2024 forward

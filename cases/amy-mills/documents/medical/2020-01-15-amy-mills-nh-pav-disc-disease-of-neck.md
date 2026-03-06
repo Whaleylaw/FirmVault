@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:3972fa901c95c9c6c7e47bdcde0d703be8fb25bc7ad1dd644c6176c28f6f47eb
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 9/20/23, 4:30 PM MyChart - Visit Summary
 https://mychart.nortonhealthcare.org/MyChart/inside.asp?mode=visitsummary&csn=WP-24rEDgmgjAAds6QEbIqUHUGg-3D-3D-24d5IyeHqzsOR248… 1/3
 Amy Mills DoB: [DOB-1]

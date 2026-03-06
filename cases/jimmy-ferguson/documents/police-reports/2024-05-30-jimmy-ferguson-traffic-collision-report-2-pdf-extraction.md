@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:ebb86d901fe84b106504eb2f99384aaee9cfd3dca0fbc8133503c248931e0099
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 category: Investigation
 date: 2024-05-30
 description: Kentucky Uniform Police Traffic Collision Report for accident on 5/30/2024 at 21:17 on N Dixie Ave at Towne Ctr Entrance, angle collision with 1 injured, transported to Baptist Health Hardin.

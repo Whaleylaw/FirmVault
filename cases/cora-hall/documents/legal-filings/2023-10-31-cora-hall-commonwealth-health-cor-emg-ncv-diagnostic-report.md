@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:9416ea2b369d27b2dc01b6f02a423207c7218abac14fa6bc908494ce39676a05
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 COMMONWEALTH OF KENTUCKY
 DEPARTMENT OF WORKERS’ CLAIMS
 BEFORE HON. W. GREG HARVEY, ALJ

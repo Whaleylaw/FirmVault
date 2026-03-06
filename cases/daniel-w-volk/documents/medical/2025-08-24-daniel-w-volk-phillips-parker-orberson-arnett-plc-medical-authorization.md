@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel
 source_hash: sha256:274adcba368200180ab699772f0363ef93372ee9ba98254535bb5edb1e2d0c4c
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 AUTHORIZATION TO RELEASE PROTECTED HEALTH CARE INFORMATION
  TO: _______________________________________________________________________ 
 Pursuant to the Health Information Portability and Accountability Act (HIPAA) Privacy 

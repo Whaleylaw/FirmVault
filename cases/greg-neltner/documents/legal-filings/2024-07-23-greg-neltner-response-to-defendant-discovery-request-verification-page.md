@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-N
 source_hash: sha256:19ffa32b282e54b9c21dbaced6c29946942f48d2797d4bab1ef2d94deb9aa1b7
 ---
 
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 KENTUCKY
 JEFFERSON
 23rd July 4

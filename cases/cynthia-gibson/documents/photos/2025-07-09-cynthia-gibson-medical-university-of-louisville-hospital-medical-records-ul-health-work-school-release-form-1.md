@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cynthi
 source_hash: sha256:b02dbfc18bed8d3e56e347e55e870e2a874493d47f068b98982e9f60ee7bceaf
 ---
 
+**Case:** [[cases/cynthia-gibson/cynthia-gibson|Cynthia Gibson]]
+**Client:** [[cases/cynthia-gibson/contacts/cynthia-gibson|Cynthia Gibson]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cynthia-Gibson-MVA-7-9-2025/Medical/University of Louisville Hospital/Medical Records/2025-07-09-Cynthia-Gibson-Medical-University of Louisville Hospital-Medical-Records-UL-Health-Work-School-Release-Form-1.jpg

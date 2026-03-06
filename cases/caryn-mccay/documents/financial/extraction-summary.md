@@ -22,6 +22,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-
 source_hash: sha256:392c914cd0a6a1f20b3e509b4d51f0815c1f77f9389200eca8046530954357a7
 ---
 
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 category_breakdown.correspondence: 12
 category_breakdown.expenses: 4
 category_breakdown.insurance: 24

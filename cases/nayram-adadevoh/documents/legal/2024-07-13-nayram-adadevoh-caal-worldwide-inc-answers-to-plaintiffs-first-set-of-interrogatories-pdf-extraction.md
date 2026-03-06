@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:2d04ab4ac51be834854d06e305bd241fbb1b7357570850aaf2ad71c3e3ca2912
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: Litigation
 date: 2024-07-13
 description: Defendant CAAL Worldwide Inc's answers to plaintiffs' first set of interrogatories. Discovery response dated July 13, 2024.

@@ -12,3 +12,6 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
   Injury Centers/Medical Records/2025-02-21-Shannon-Lankswert-Medical-The Injury Centers-Medical-Records-Metro-Pain-Relief-Center-MRI-Appointment-Notice.pdf
 source_hash: sha256:fb8ea8f30019b03715155dfe02923dcc0c0527703ba4120e0815fe902d2f9920
 ---
+
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]

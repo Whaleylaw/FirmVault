@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Lejzan
 source_hash: sha256:8b5b3df3a9c3cd227d68c1cc439a770d5cfe1f691ba3b210ae504336b64c6616
 ---
 
+**Case:** [[cases/lejzane-miftari/lejzane-miftari|Lejzane Miftari]]
+**Client:** [[cases/lejzane-miftari/contacts/lejzane-miftari|Lejzane Miftari]]
+
 *Aaron G. Whaley, Esq.*
 *712 Lyndon Lane*
 *Louisville, KY 40222*

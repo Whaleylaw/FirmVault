@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel
 source_hash: sha256:90192ffc41b0ced83d35f6bca013a20298ca633192f18e6ac3c29f45a03ebe71
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 �������
 ������������
 ������������������ ����������� ��� ������������������������������������������������������������������������������������������������� �� ��������������������������������������������������

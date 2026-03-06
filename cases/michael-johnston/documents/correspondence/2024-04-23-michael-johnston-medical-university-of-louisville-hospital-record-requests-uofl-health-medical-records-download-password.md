@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:da4e0775af2b7fc5c855607cff1e7ca8d13c3ecb494562bdeaa85a10ca13c3b9
 ---
 
+**Case:** [[cases/michael-johnston/michael-johnston|Michael Johnston]]
+**Client:** [[cases/michael-johnston/contacts/michael-johnston|Michael Johnston]]
+
 Subject: Package Credentials Notification
 From: [EMAIL-1]
 To: SARENA@WHALEYLAWFIRM.COM

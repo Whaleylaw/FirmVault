@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:c083f744ab7a7730496a952fa15558147baa0c56be8849cf61d7c1401764cd9d
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 [DOB-1]
 [DOB-1]
 Orthopedic Associates – East Newburgh

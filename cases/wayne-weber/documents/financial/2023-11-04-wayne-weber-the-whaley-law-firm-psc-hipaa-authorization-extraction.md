@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:fa0506b7816951770d0aeb8dca06f70b35494f561e982217324cbc5a6b732634
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: client_intake
 extraction.date: 2023-11-04
 extraction.description: The Whaley Law Firm PSC HIPAA Authorization for Wayne Weber dated November 4, 2023.

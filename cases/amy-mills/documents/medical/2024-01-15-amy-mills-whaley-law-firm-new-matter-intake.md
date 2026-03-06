@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:ea9fe301f606794e75e0703005a48088561e2ed8cff53425156acc35e78b7423
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 aa
 
 7 BAPTIST HEALTH Mills, Amy a MRN: [PHONE-1], DOB: [DOB-37], Sex: F

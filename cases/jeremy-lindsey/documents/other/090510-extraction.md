@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:000ff0743c8a221f3202e7938b0ba8d377d2e1e266c4d18325b8cb910c97a872
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: evidence
 date: 2024-12-01
 description: Photo from the accident scene on Mt Zion Rd.

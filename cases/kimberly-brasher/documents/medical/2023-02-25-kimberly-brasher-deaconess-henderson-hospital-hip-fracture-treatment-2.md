@@ -2,7 +2,12 @@
 case_slug: kimberly-brasher
 document_category: medical
 legacy_case_id: 2023-02-25-PrL-001
+contact: "[[cases/2023-02-25-prl-001/contacts/deaconess-henderson-hospital]]"
 ---
+
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimberly-Brasher-Premise-2-25-2023/Medical/2023-02-25-Kimberly-Brasher-DEACONESS-HENDERSON-HOSPITAL-hip-fracture-treatment-2.pdf"

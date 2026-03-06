@@ -1,8 +1,8 @@
 ---
 case_slug: cora-hall
-created_at: 2026-02-16 22:37:30.245000+00:00
+created_at: {}
 document_category: medical
-document_date: 1989-09-22
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2022-12-05-OTH-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-Hall-WC-12-05-2022/Medical/2023-10-19-Cora-Hall-Orthopedic-Plus-Physical-Therapy-medical-records.pdf
 source_hash: sha256:8b7cdee997a48893bf28afe1bf90bbf45a95fa78a833c412e0492d6e34d92d2b
+contact: "[[cases/2022-12-05-oth-001/contacts/orthopedic-plus-physical-therapy]]"
 ---
+
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

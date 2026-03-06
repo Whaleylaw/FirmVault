@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Collee
 source_hash: sha256:5b10945207ed32b93c84abb1c80da796441dc159475fdd8c08ef56ab53180576
 ---
 
+**Case:** [[cases/colleen-colvin/colleen-colvin|Colleen Colvin]]
+**Client:** [[cases/colleen-colvin/contacts/colleen-colvin|Colleen Colvin]]
+
 COMMONWEALTH OF KENTUCKY
 HARDIN CIRCUIT COURT
 CIVIL ACTION NO. 24-CI-01568

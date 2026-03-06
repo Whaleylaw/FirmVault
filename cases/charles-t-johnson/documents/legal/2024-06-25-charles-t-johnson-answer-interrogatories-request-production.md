@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:032127535a62482662fdeaad5ffc55c69a909653a5fad6369dcd2e6a18c2dbca
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 DILBECK & MYERS, PLLC
 Attorneys at Law
 8005 Lyndon Centre Way, Suite 201

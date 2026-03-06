@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:00df3dd6fb868b507afb58730eeafdbacaf3121dae4cccc42d90becfe6715868
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 mappings[0].bucket: Medical Records
 mappings[0].extraction_source: Reports/extractions/2006-01-17-Anella-Noble-Dr-Smith-New-Patient-Visit_extraction.json
 mappings[0].new_filename: 2006-01-17-Anella-Noble-Dr-Smith-New-Patient-Visit.pdf

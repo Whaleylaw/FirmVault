@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:b52e704bbd50d800b68c37664c4a4a78fd94dc7bd67158569ef7df463dcf4105
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 =y UNITED STATES
 Ba POSTAL SERVICE.
 Date Produced: [DOB-11]

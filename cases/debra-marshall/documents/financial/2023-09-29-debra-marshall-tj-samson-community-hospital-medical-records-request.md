@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:1236dfe6db7b2809b562472bf2db88ef6e0bb478fdc9481ac7a77d4056fafee3
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 From: Fax Line Fax: 15023649363 To:
 Aaron G. Whaley, Esq.
 712 Lyndon Lane

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:2142616141c31972ef1a631bac879e10ca6e9d895c25794c88ff76216da4eb34
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: Noble 'Unknown Driver' Facebook
 From: [EMAIL-1]
 To: Sarena@WhaleyLawFirm.com

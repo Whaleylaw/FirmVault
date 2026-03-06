@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:de72829e0582ebdf30776c48d9864342b319ca50d719c3cf52ad7c6445993af6
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 Subject: Re: Merry Christmas and WCINS
 From: [EMAIL-8]
 To: sarena@whaleylawfirm.com

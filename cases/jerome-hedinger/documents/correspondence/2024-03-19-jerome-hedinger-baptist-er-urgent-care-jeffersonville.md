@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:121d1472a8880ca1e191307cde2ee69a0114a3faf6cadf1c869b250baf8694f3
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 Fax Confirmation
 To: [PHONE-11] From: [PHONE-2]
 Doc:

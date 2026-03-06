@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:f20135105a066e046889e3cd93e3572495e2db614a5d666bd7b70f1f3a5c5857
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 April 7, 2021
 
 Anthem Blue Cross Blue Shield

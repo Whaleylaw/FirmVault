@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:bf364ea3ebccc5517d48e0baa06f54df2dcec5ab97a2be75842e5f4af091f10c
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 Subject: NCP (for eFiler) JEFFERSON Circuit 24-CI-002475, JOHNSON, CHARLES VS. LOWE, ROBERT Envelope # 8992786
 From: [EMAIL-1]
 To: [EMAIL-5], Sarena@WhaleyLawFirm.com, [EMAIL-4]

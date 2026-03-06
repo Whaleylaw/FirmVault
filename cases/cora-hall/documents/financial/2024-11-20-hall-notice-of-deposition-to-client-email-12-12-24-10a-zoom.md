@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:a31c20c10183b0f8fa9c30eb96bcd6df1cc6ddd174478214a7f821b3592cf5d2
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 Subject: Your Deposition has been scheduled for December 12, 2024 10am EST via Zoom
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

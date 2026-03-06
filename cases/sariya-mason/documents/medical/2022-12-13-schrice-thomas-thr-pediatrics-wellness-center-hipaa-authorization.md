@@ -1,8 +1,8 @@
 ---
 case_slug: sariya-mason
-created_at: 2026-02-17 00:20:39.718000+00:00
+created_at: {}
 document_category: medical
-document_date: 2010-04-18
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2022-08-19-DB-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya-Mason-DB-08-19-2022/Medical/2022-12-13-Schrice-Thomas-THR-PEDIATRICS-WELLNESS-CENTER-HIPAA-Authorization.pdf
 source_hash: sha256:e760a2fc2ea6b19398046822098954911410d1060f2099fd2a09612eb2a52a1d
+contact: "[[cases/2022-08-19-db-001/contacts/thr-pediatrics-wellness-center]]"
 ---
+
+**Case:** [[cases/sariya-mason/sariya-mason|Sariya Mason]]
+**Client:** [[cases/sariya-mason/contacts/sariya-mason|Sariya Mason]]
+
 
 Fax Confirmation
 To: [PHONE-10] From: [PHONE-9]

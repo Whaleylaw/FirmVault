@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:4834405c841a038961b4e9ef788bce94ebeeb97dea3e6130fb8381c305b347c6
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 Client Information
 Client Name: Douglas G Livers
 Phone Number: [PHONE-1]

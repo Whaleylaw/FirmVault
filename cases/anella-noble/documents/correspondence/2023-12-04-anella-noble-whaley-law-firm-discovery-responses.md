@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:d8dcc7b5fc83ffddd92981c224ff7ee7082747ee72595f783d40bf88d5bc96c2
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 SITLINGER LAW 
 320 WHITTINGTON PARKWAY SUITE 304
 LOUISVILLE, KENTUCKY 40222

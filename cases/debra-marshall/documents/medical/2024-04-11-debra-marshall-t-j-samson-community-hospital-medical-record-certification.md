@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2022-12-03-MVA-001
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-Marshall-MVA-12-3-2022/Medical-Records/2024-04-11-Debra-Marshall-T-J-Samson-Community-Hospital-Medical-Record-Certification.pdf"
 source_hash: "sha256:747f03988a1439eab[PHONE-3]a53fa79e0c[PHONE-2]b1bbddfda50efffe7"

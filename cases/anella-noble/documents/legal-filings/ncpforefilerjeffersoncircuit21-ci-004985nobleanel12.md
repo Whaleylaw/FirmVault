@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:6f0498322bf0ea559d99be28fc8f8a5f8fea0bb54f925b63fd175d835c09c43f
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: NCP (for eFiler) JEFFERSON Circuit 21-CI-004985, NOBLE, ANELLA VS. SEWELL, VIRGINA P. ET AL                   Envelope # 6576117
 From: [EMAIL-1]
 To: [EMAIL-6], Sarena@WhaleyLawFirm.com, [EMAIL-5]

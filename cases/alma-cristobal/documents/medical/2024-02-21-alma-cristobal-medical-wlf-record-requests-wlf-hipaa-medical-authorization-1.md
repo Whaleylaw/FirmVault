@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:329d96f756397e1e361e54b7e3a81e2f4b4e76210a5c2b7f7e813c930fd87bc7
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 UL Mary & Elizabeth Hospital
 1850 Bluegrass Ave
 Louisville, KY 40215

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dana-J
 source_hash: sha256:420b6de3698a046aff121957d96421a4faaf9d6def998367751258d2920229b2
 ---
 
+**Case:** [[cases/dana-jackson/dana-jackson|Dana Jackson]]
+**Client:** [[cases/dana-jackson/contacts/dana-jackson|Dana Jackson]]
+
 \ N WHALEY Sarena Tuttle <sarena@whaleylawfirm.com>
 The Defense Counsel's Discovery Request - Due back by January 10, 2025
 Gerold Reynolds <[EMAIL-1]> Mon, Jan 13, 2025 at 3:29 PM

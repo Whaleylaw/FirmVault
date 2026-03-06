@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:2b7c2a7e0765ad48d644db42e825def1def9ec8609de1d8539d66c5cd576153a
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 UL Health
 AFFIDAVIT OF CUSTODIAN OF RECORDS
 Patient’s Legal Name: JAMES KIPER Date of Birth: 4-29-1976

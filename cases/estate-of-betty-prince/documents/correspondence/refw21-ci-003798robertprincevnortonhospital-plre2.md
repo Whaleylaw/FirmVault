@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:a9b65368c56b3667854ced4589193ac56e17efff2d75aa1298e4a02102300deb
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 Subject: Re: FW: 21-CI-003798 Robert Prince v Norton Hospital - PL Resp to Disc Req
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

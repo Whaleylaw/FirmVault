@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie
 source_hash: sha256:6699d4d43da5e5dabf6474c0cde03a76cb49d5b932b98895f1a82f06da882509
 ---
 
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 case_folder: Stevie-Hawks-MVA-3-8-2024
 job_id: file-org-4b5e585f
 phases.extraction.completed_at: 2026-02-04T04:26:12.238167

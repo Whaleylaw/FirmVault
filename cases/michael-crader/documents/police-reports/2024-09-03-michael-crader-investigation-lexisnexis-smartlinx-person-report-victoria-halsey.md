@@ -4,6 +4,9 @@ document_category: police-reports
 legacy_case_id: 2023-05-19-MVA-001
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michael-Crader-MVA-5-19-2023/Investigation/2024-09-03-Michael-Crader-Investigation-LexisNexis-SmartLinx-Person-Report-Victoria-Halsey.pdf"
 source_hash: "sha256:f9a6baa774df67f2f43ef64ea8a4d679d7241bc081c0bdb43243467c366a7baf"

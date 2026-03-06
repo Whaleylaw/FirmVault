@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:aeffee5f6adbb4f7aba5da85ee9cac83e128ccc9dfef93a72ad024d471806b1a
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: litigation_pleading
 date: 2025-08-25
 description: Court pleading filed in litigation between Sitgraves/Adadevoh and Caal Worldwide Inc.

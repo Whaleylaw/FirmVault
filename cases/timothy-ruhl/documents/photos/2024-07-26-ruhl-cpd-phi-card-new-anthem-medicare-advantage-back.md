@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:6d3baab00d7563f185b52faca98c0ef14597f5bca5c96da411473b1a27b22133
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timothy-Ruhl-Premise-[DOB-1]/Photos/2024.07.26-Ruhl-CPD-PHI-Card-New-Anthem-Medicare-Advantage-Back.jpg

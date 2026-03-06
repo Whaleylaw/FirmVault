@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Destin
 source_hash: sha256:27b5b8c4140d8fa4948794b2429b03ecbd69e3b936cabc8c73e913c80fb03122
 ---
 
+**Case:** [[cases/destiny-adkins/destiny-adkins|Destiny Adkins]]
+**Client:** [[cases/destiny-adkins/contacts/destiny-adkins|Destiny Adkins]]
+
 Subject: Juanita Downs & Destiny Adkins v Stephanie Nail et. al. - Mediation Scheduling
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1], [EMAIL-2]

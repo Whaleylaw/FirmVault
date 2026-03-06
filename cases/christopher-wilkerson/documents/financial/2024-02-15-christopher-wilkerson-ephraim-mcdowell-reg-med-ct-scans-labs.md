@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:568b53704748acca1e976cf44d9ba16ace6886f8d24b92e52cc1982b13f1129e
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 DATE: 04/09/24 @ 0940 Ephraim McDowell Reg Med BAR **LIVE** PAGE 1
 USER: DAVKIM Bill Transaction Detail for Bill 1
 Acct. M00006961255 : Guar. [SSN-1]

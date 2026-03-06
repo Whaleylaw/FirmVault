@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee
 source_hash: sha256:fe2a85bc30b8dee612972f88ec11b6ee6b0e9a1b8e0b5293e6aa4f64813867e6
 ---
 
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 Oct.19.2023 12:29 AM [PHONE-1]
 
 starlite —

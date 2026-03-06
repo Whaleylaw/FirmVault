@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Raysha
 source_hash: sha256:11e35fbf3dc820164270e9df3d8d6ca2935c0ea9883bef84c143bfb46f4ad8bd
 ---
 
+**Case:** [[cases/rayshawn-wilson/rayshawn-wilson|Rayshawn Wilson]]
+**Client:** [[cases/rayshawn-wilson/contacts/rayshawn-wilson|Rayshawn Wilson]]
+
 accident_date: 2025-04-10
 case_type: MVA
 client_name: Rayshawn-Wilson

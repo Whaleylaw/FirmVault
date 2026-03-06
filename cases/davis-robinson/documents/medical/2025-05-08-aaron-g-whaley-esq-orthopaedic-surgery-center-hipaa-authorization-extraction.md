@@ -1,11 +1,10 @@
 ---
 case_slug: davis-robinson
-created_at: 2026-02-16 22:56:13.319000+00:00
+created_at: {}
 document_category: medical
-document_date: 2025-05-08
+document_date: {}
 document_type: medical
-entities:
-- Orthopaedic Surgery Center
+entities: null
 extraction_method: native_text
 legacy_case_id: 2025-05-02-SF-001
 mime_type: application/json
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 90
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-Robinson-SF-05-02-2025/extractions/2025-05-08-Aaron-G-Whaley-Esq-Orthopaedic-Surgery-Center-HIPAA-Authorization_extraction.json
 source_hash: sha256:65ed355d006072db0380ba1ea7c6db81b90f29cfcad813a7896278884a697fa9
+contact: "[[cases/2025-05-02-sf-001/contacts/orthopaedic-surgery-center]]"
 ---
+
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 
 extraction.classification.bucket: Medical Records
 extraction.classification.confidence: high

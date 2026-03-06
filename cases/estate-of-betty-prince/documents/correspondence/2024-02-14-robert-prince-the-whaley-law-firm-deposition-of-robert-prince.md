@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:5f4049935444d1160aa40088de85d091da134dbdc489a9152b3f71ab613f3da7
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 NCRA Member MELISSA A. ENGLEMAN, R.P.R. Phone [PHONE-1]
 KyCRA Member 2260 Corydon New Middletown Road Fax [PHONE-2]
 Corydon, IN 47112

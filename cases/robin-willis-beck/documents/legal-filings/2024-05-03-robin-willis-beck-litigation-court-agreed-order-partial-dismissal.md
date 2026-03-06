@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:43cc531d6176d4353869f6870c4e87d2336bf9b92e31d520f1da45952074aef6
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 Subject: NEF, JEFFERSON Circuit 24-CI-000532, BECK, ROBIN WILLIS VS. DANNY WIMMER PRESENTS, LLC ET AL Envelope # 7873280
 From: [EMAIL-5]
 To: [EMAIL-4], SARENA@WHALEYLAWFIRM.COM, [EMAIL-3]

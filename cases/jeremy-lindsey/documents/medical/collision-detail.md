@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:073e8eaae642eab8fa2460416fbd03b3b721fdfd3747b2f27a91618da9656bd6
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 ===============================================================================
 NAMING COLLISION DETAIL REPORT
 ===============================================================================

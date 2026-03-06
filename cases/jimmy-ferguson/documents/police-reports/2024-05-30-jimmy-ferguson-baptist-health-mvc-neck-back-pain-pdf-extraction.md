@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:d170522c5842f09c9bed5a8cfbd2363509db619ec39c12fc41e0ea0cd9751c50
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 category: Medical
 date: 2024-05-30
 description: Emergency department medical records from Baptist Health Hardin for Jimmy Ferguson, 5/30/2024 visit following motor vehicle collision with neck and lumbar spine pain complaints.

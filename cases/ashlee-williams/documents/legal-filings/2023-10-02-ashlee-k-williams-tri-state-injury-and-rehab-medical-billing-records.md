@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee
 source_hash: sha256:991e6ad066885153b52d2a995c6c7013c9f4281be24980e9d4c640f0534701a6
 ---
 
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 Dec.18.2624 11:05AM Tri State Injury and Rehab No.0081 PF.2
 CERTIFICATION AENONOFOF MEDICAL MEDICALBILLING BILLINGRECORDS RECORDSAFFIDAVIT AFFIDAVIT
 -liSsp being first duly sworn onhis/her oath,saysthat:

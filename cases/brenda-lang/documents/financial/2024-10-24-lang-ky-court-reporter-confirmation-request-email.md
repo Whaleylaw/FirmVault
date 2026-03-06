@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:47ece3c5b76330e4e971e56e4798e9f15927ce217bb66811bfdf7d30ea6c7b30
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 Subject: Confirmation for [DOB-4] (104200)
 From: [EMAIL-3]
 To: Sarena@WhaleyLawFirm.com, [EMAIL-3]

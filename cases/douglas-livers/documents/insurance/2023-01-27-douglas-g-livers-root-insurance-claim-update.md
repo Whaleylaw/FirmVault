@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:7f15bba374b3762954f7cfcecb5cf91ad8e9c22f73cf15d30ba86a99dad41e16
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 January 27, 2023
 Maury D Kommor & Associates PLLC
 617 Baxter Ave

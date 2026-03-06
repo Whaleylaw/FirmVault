@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:ff6e5ad1a5db140a9ce47980eb124d0cde4c4b7043b2ea025c8e78a866a714dd
 ---
 
+**Case:** [[cases/michael-johnston/michael-johnston|Michael Johnston]]
+**Client:** [[cases/michael-johnston/contacts/michael-johnston|Michael Johnston]]
+
 Subject: Vinesign: All Signatures Received for document: 2023.08.22 Johnston WC Intake Packet (2967292)
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-
 source_hash: sha256:4bdb664396fd67687ed61db7c3779083a6b728b35ed7e3a22465e9b34b3a8533
 ---
 
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 case_folder: Davis-Robinson-SF-[DOB-1]
 job_id: file-org-8d0327e3
 phases.extraction.completed_at: 2026-02-04T04:26:19.951338

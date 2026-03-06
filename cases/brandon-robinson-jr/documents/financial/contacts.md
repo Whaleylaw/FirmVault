@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brando
 source_hash: sha256:8c9f1408214cf78e254c042cc6c498c2bed25f76adebbd2865261f5eb625faf4
 ---
 
+**Case:** [[cases/brandon-robinson-jr/brandon-robinson-jr|Brandon Robinson Jr]]
+**Client:** [[cases/brandon-robinson-jr/contacts/brandon-robinson-jr|Brandon Robinson Jr]]
+
 item_0.jsonb_agg[0].address: 2028 Macarthur Drive, New Albany, IN 47150
 item_0.jsonb_agg[0].email: [EMAIL-1]
 item_0.jsonb_agg[0].full_name: Brandon Robinson Jr

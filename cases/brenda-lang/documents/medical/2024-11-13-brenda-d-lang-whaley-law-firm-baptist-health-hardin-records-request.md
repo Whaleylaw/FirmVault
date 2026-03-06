@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:025eb2d6e918a5d6887ffac01957b8aba7b9fbb248ed76c4996b30ecb2af8a90
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 To: [PHONE-22] Page: 1 of 8 2024-11-13 05:28:23 EST 18582441606 From: [PHONE-21]
 Sharecare - HDS
 Fax Cover Sheet

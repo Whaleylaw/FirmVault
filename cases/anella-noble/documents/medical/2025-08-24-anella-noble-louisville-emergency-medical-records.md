@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:304050fd19c267e31ad5b038b30a91c70943e4e35cb77f169a340b37b1300e17
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 CERTIFICATION OF MEDICAL RECORDS AFFIDAVIT
 ______________________________________, being first duly sworn on his/her oath, says that: 
 (Name of records custodian/clerk) 

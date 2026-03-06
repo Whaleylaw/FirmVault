@@ -4,6 +4,9 @@ document_category: financial
 legacy_case_id: 2024-07-13-MVA-001
 ---
 
+**Case:** [[cases/abby-sitgraves/abby-sitgraves|Abby Sitgraves]]
+**Client:** [[cases/abby-sitgraves/contacts/abby-sitgraves|Abby Sitgraves]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Abby-Sitgraves-MVA-7-13-2024/Medical/UofL Orthopedics/Medical Bills/2024.08.06 MB UofL Orthopedics.pdf"
 source_hash: "sha256:19c081f0deda8ca845c9ee7bf1ac3cdb08147115519d060a8f6e71e8a815ceed"

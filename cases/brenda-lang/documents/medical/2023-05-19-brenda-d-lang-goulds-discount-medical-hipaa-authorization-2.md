@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:369714c96cd3d04428141f3f53797efa0aa4e45c4d1410a32d75632b2c098fc2
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 Gould’s Discount Medical
 3901 Dutchmans Lane #100
 Louisville, KY 40207

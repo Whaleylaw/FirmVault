@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:108068fcf051466e244f4f7618779c2f7fa309ad692e8c6e2c22ebca79f69a30
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
 ║           VALIDATION COMPLETE - REORGANIZATION MAP VALIDATION REPORT          ║

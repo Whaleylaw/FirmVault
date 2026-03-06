@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Hope-R
 source_hash: sha256:e3d0b7d64db0c8143e68862d12e353ad3c0b7ce8217428504e216123c05a66a7
 ---
 
+**Case:** [[cases/hope-renee-padgett/hope-renee-padgett|Hope Renee Padgett]]
+**Client:** [[cases/hope-renee-padgett/contacts/hope-renee-padgett|Hope Renee Padgett]]
+
 item_0.date_notice_received: 2024-01-30
 item_0.holder_address: NGHP P.O. Box 138832, , Oklahoma City, OK 73113
 item_0.holder_phone: 1-[PHONE-2] (BCRC) Main

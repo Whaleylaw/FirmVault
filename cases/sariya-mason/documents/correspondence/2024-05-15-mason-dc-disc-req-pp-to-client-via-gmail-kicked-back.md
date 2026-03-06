@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya
 source_hash: sha256:438cc0a297b6caa363505d926d2c7695a11cb3332c5cd366eb98216e093aa429
 ---
 
+**Case:** [[cases/sariya-mason/sariya-mason|Sariya Mason]]
+**Client:** [[cases/sariya-mason/contacts/sariya-mason|Sariya Mason]]
+
 Subject: Delivery Status Notification (Failure)
 From: [EMAIL-2]
 To: sarena@whaleylawfirm.com

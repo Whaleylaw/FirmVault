@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:4f976bf8d8cc6ac06ee7270743c942379a07b8aba842eb0507539e7cb9b67116
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 11/4/2024 14:27:24 CST To: 15023649363
 OKOLONA FIRE PROTECTION DIST
 PO BOX 589

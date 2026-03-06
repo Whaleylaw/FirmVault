@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:fb92732ca45e26a156c63b307fceeca39a7fdc74ecd1c5b36a2bf3e017183586
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 Commonwealth of Kentucky
 Geannie H. Wright, Morgan Circuit Clerk
 Case #: 24-Cl-00065 Envelope #: 7998093

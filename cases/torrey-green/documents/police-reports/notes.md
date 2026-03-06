@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:ab0a1f2c396b83fd2ebcaf6a4281d44b40a4f14b84d8ca1a384632b03149dd01
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 item_0.author_name: Filevine Integration
 item_0.episode_type: imported
 item_0.last_activity: 2025-11-12T00:00:00

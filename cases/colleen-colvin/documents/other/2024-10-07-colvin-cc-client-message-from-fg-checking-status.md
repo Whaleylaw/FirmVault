@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Collee
 source_hash: sha256:d837358566ac8bdd39ce221f637d79d7cf477ab43af0e75e298069a3f06a9c7f
 ---
 
+**Case:** [[cases/colleen-colvin/colleen-colvin|Colleen Colvin]]
+**Client:** [[cases/colleen-colvin/contacts/colleen-colvin|Colleen Colvin]]
+
 Subject: Colleen Colvin update
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:cd2c69944b5b935ffa4581e0b5ef8cde47020b7b0b3fb7d3c97d5d0d85b8ddee
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 content_analysis.category: Case Information
 content_analysis.date: 2024-07-25
 content_analysis.description: Order details

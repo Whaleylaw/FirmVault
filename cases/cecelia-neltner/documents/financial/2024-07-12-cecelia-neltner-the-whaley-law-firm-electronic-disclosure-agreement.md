@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ceceli
 source_hash: sha256:81c09ce66ec1b5eeca806423da7f75f539bd9ee930627f6d04fc86580f95435a
 ---
 
+**Case:** [[cases/cecelia-neltner/cecelia-neltner|Cecelia Neltner]]
+**Client:** [[cases/cecelia-neltner/contacts/cecelia-neltner|Cecelia Neltner]]
+
 Certificate Of Completion
 Envelope Id: 38030CA51BBB41CD843750F8CF0F325C Status: Completed
 Subject: The Whaley Law Firm has requested your signature. Please Follow the prompts to executed the attached

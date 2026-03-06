@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Forres
 source_hash: sha256:577595d70c92ac39b234424910faa98f93fd66aeeb46dfb96cfe0aef80078d9f
 ---
 
+**Case:** [[cases/forrest-muss/forrest-muss|Forrest Muss]]
+**Client:** [[cases/forrest-muss/contacts/forrest-muss|Forrest Muss]]
+
 item_0.claim_number: 136751083
 item_0.coverage_confirmation: Coverage Pending
 item_0.insurance_company_name: North American Risk Services

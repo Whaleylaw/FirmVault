@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:9c9720bd2c6bc9e79405125bd928e2cf94b708841a4edcea0061395c8a4ca95c
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome-Hedinger-Premise-DB-[DOB-1]/Photos-Evidence/2024.05.30-Hedinger-CPD-Scene-Photo-Front-Gate.jpeg

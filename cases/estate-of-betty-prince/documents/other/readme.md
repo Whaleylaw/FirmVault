@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:dabd8b1e5aac5ce9a456f7c2b06c95af9be5dafc115bf3571faf1ea95262fba3
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 CPHub Records Directory
 
 The Records directory contains all files related to a case that you wish to store.

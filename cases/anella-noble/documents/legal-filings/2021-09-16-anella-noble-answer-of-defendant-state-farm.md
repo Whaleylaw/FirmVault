@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:c608e081b126bd5dca2b21fa9b63a16473de3c315b07a88e125d8ce955f97ea1
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 COMMONWEALTH OF KENTUCKY 
 ELECTRONICALLY FILED 
 NO. 21-CI-004985 JEFFERSON CIRCUIT COURT 

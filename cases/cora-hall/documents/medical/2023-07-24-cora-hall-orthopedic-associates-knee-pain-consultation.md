@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:5997e5b4eda04c55cd86c682a04203d0df01e1922e107d66a41ac0c10ec2b27f
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 Medical Garter Bowling Greer
 
 250 Park Street Howling Green, Ky 42104 Operative Note Signed

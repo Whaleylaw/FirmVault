@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Hope-R
 source_hash: sha256:ee8c1fa2666d460d29c957a0a81270d052204cd4befea2f8890fc7d288f502e6
 ---
 
+**Case:** [[cases/hope-renee-padgett/hope-renee-padgett|Hope Renee Padgett]]
+**Client:** [[cases/hope-renee-padgett/contacts/hope-renee-padgett|Hope Renee Padgett]]
+
 64/14/25 14:26:48 8HH-776-4737 > +158223732H? BHB-776-4737 Page 441
 Named Insured: HOPE PADGETT
 injured Party:

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor
 source_hash: sha256:52a1b3ea6cf4cffed43013ca5506adc260a8e5a46c9782e0ed522b44a8c0e7fa
 ---
 
+**Case:** [[cases/taylor-thompson/taylor-thompson|Taylor Thompson]]
+**Client:** [[cases/taylor-thompson/contacts/taylor-thompson|Taylor Thompson]]
+
 Rev. 134D6FB
 K
 ATTORNEY IMPORTAN

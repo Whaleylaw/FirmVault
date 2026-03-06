@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:c92501ba4f152c2ff1a120505d818848561c3b4d2460440ac8cd1b254ef1809b
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 VERIFICATION
 
 L Robert C. Cobb, on behalf of Hoosier Cargo Express, LLC, state that the foregoing Answers to Plaintiff's first set of Interrogatories and Requests for Production of Documents are true and correct to the best of my knowledge, information, and belief.

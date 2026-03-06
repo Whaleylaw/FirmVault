@@ -2,7 +2,12 @@
 case_slug: charles-t-johnson
 document_category: financial
 legacy_case_id: 2023-04-18-MVA-001
+contact: "[[cases/2023-04-18-mva-001/contacts/jewish-hospital]]"
 ---
+
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charles-T-Johnson-MVA-4-18-2023/Medical/Jewish Hospital/Record Requests/2023-04-18-Charles-T-Johnson-Medical-Jewish Hospital-Record-Requests-WLF-Email-Request-for-Certified-Records.eml"

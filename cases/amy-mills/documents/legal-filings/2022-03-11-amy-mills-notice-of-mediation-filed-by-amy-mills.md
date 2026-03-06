@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:e6faee4a655f10690ffa22589c0a1f8fa27b4f5736b2619a0669685ede2f9876
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 NO. 20-CI-00112 COMMONWEALTH OF KENTUCKY 
  KNOX COUNTY CIRCUIT COURT 
 DIVISION TWO (2) 

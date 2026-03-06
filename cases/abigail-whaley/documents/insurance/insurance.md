@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Abigai
 source_hash: sha256:acdb05414573114786e9ac3f52d383d9b629797bf16e68021e7fc146cd9ec3b1
 ---
 
+**Case:** [[cases/abigail-whaley/abigail-whaley|Abigail Whaley]]
+**Client:** [[cases/abigail-whaley/contacts/abigail-whaley|Abigail Whaley]]
+
 item_0.adjuster_email: [EMAIL-1]
 item_0.adjuster_phone: [PHONE-6]
 item_0.claim_number: [PHONE-3]

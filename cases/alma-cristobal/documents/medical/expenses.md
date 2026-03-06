@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:95eda2d31d3c33ece2ad3c74bb5cb607107870897df3286f70177640cbe7bc99
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 item_0.created_date: 2024-02-15
 item_0.description: Ambulance transport - BLSE and ground mileage
 item_0.expense_amount: 721.0

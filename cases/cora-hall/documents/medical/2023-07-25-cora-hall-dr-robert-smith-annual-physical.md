@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:68767ab7e91f893f7fa6ec6dca3941665a45de9c06293650673a624f8904067b
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 Oct 20 2023 02:59PM Salameh [PHONE-1] page 1
 
 13-Oct-2423 19:58

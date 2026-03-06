@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:5be02ed5fec13bf045c878321613cc980e8191a95d93247f0b4a6ca5bab17353
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: medical_requests
 extraction.date: 2023-11-07
 extraction.description: Medical records request sent to Louisville Metro EMS for Wayne Weber's emergency services.

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:944ec9ad84fa3bd853c2e3d49e1b784cd92a35f4d82de80b084fe0f89102ac77
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy-Lindsey-MVA-[DOB-1]/Client/2024-12-01-Jeremy-Lindsey-Client-BCBS-North-Carolina-Insurance-Card-Back.jpg

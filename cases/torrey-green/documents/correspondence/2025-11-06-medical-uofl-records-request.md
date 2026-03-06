@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:79c7f1232fa64d4e9da947c9cb9f73b0b1d14c9623e2a260fc432dbb0e5c665d
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 Aaron G. Whaley, Esq.
 THE 712 Lyndon Lane HALEY Louisville, KY 40222
 Ph: [PHONE-1]

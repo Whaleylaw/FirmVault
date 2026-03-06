@@ -19,6 +19,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:96be70c572d35c61234a3cc2384b824ae051d84cedc5e146d8e9dc80598bb453
 ---
 
+**Case:** [[cases/michael-ditto-jr/michael-ditto-jr|Michael Ditto Jr]]
+**Client:** [[cases/michael-ditto-jr/contacts/michael-ditto-jr|Michael Ditto Jr]]
+
 NORTON HEALTHCARE
 200 E Chestnut St
 LOUISVILLE KY 40202

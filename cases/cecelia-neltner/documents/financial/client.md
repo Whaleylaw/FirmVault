@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ceceli
 source_hash: sha256:ad9301ed2432ec8491895175b7641619d8c46a3180f35c9a90ce8921ce998204
 ---
 
+**Case:** [[cases/cecelia-neltner/cecelia-neltner|Cecelia Neltner]]
+**Client:** [[cases/cecelia-neltner/contacts/cecelia-neltner|Cecelia Neltner]]
+
 address: 317 W 13th St, Newport, KY 41071
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

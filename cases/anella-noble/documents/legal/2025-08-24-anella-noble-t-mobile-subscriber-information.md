@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:67e429312a6987134f39ca5b7e356984c80a8a1ad23ca45a282e3c76c3e156db
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 INTERPRETING RECORDS
 TABLE OF CONTENTS (SELECT BELOW)
 • InterpretingRealTimeLocation

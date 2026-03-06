@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:2cee8ee7af87d3298cbbffef06a5e343243ea3bd7a6790d6604c18729835ecac
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 April 5, 2021
 
 Xray Associates of Louisville

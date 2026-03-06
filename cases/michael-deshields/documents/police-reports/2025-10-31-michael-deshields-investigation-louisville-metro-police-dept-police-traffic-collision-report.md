@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:909ddec6385f5f6e0aed0ce702da28eaa0bb753fae347409cfe1aabb901105ec
 ---
 
+**Case:** [[cases/michael-deshields/michael-deshields|Michael Deshields]]
+**Client:** [[cases/michael-deshields/contacts/michael-deshields|Michael Deshields]]
+
 INVESTIGATOR BEAT OR POST #
 TOTAL LANES
 NO

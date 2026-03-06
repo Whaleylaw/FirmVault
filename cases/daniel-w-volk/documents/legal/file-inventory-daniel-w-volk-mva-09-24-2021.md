@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel
 source_hash: sha256:4d076e124ded1f9e6c1389b88d62ffcde2f7500b370b94b806b146dd935f4e55
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 item_0.extension: .md
 item_0.name: 2025-02-25-Daniel-W-Volk-Safeco-Insurance-Discovery-Requests.md
 item_0.path: 2025-02-25-Daniel-W-Volk-Safeco-Insurance-Discovery-Requests.md

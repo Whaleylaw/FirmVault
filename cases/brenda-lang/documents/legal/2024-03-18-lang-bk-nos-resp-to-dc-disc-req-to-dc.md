@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:aa50f8f9ec794efa383eb5c1523488160e501903eb9ff44f5fd4c5401dbab7eb
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 Subject: Brenda Lang v. Marcus Hamlet (Jefferson Circuit 23-CI-005931)
 From: [EMAIL-1]
 To: [EMAIL-2], sarena@whaleylawfirm.com

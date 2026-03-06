@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:3397fabee834130f98f8bc43b5548fd81e4caed4c50c99e1ed28be92e91cd658
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: Re: Anella Nobel
 From: sarena@whaleylawfirm.com
 To: [EMAIL-21]

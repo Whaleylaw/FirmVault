@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel
 source_hash: sha256:82f099837f464e7b0f2e896c2eb4136810977a570c19277a95600b3a9d4315da
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 awiel Vo kk
 ResultIts PhosPacopy
 PT Toh.ff 2no

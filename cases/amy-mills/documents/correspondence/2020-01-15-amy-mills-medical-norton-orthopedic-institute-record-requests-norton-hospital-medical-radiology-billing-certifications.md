@@ -1,21 +1,23 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:49:06.795000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1983-12-28
+document_date: {}
 document_type: correspondence
-entities:
-- Norton Hospital
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Norton
-  Orthopedic Institute/Record Requests/2020-01-15-Amy-Mills-Medical-Norton Orthopedic
-  Institute-Record-Requests-Norton-Hospital-Medical-Radiology-Billing-Certifications.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Norton Orthopedic Institute/Record Requests/2020-01-15-Amy-Mills-Medical-Norton Orthopedic Institute-Record-Requests-Norton-Hospital-Medical-Radiology-Billing-Certifications.pdf
 source_hash: sha256:2c622ed2e3cb53afdd05d7f2f2d2af0603e94c458ff017eda80007502eea3e18
+contact: "[[cases/2019-04-26-prl-001/contacts/norton-orthopedic-institute]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 Aaron G. Whaley, Esq.
 712 Lyndon Lane

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:90467702a8b64f0e0811fb333870565f1834a72e40259fbe433ed5935ecb5d6e
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: medical_requests
 extraction.date: 2025-01-10
 extraction.description: Baptist Health Radiology medical authorization for Wayne Weber dated January 10, 2025.

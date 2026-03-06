@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya
 source_hash: sha256:7a98ebe5367d9d9818a3fc39c137a8dae56a9961268838ad91c29284df60404d
 ---
 
+**Case:** [[cases/sariya-mason/sariya-mason|Sariya Mason]]
+**Client:** [[cases/sariya-mason/contacts/sariya-mason|Sariya Mason]]
+
 CASE NO.: 23-CI-006039 JEFFERSON CIRCUIT COURT 
  DIVISION SEVEN (7) 
  JUDGE MELISSA LOGAN BELLOWS 

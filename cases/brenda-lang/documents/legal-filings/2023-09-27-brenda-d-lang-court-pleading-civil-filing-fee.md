@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:058cf8aa96d8f58f6cc7cbebddec1c0d3db5e54742d3cd3bd0bbd9031942722b
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 Commonwealth of Kentucky
 David L. Nicholson, Jefferson Circuit Clerk
 Received From: AARON WHALEY Account Of: AARON WHALEY

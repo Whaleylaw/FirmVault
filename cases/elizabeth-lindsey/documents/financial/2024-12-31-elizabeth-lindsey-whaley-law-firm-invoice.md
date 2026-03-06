@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Elizab
 source_hash: sha256:f4eef2cdd76a24fa88261eb3e1de9c89f1e3e895276369b2b6488ab129ea2ea6
 ---
 
+**Case:** [[cases/elizabeth-lindsey/elizabeth-lindsey|Elizabeth Lindsey]]
+**Client:** [[cases/elizabeth-lindsey/contacts/elizabeth-lindsey|Elizabeth Lindsey]]
+
 MRO Corporation [DOB-1] 6:03:12 pm EST
 mro
 FAX

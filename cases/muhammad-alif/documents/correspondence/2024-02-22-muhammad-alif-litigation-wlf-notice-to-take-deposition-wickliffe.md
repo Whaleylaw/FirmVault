@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:0697911f782abf99bf241796beec9ee61c0a21a22de2d97314704c50f4e2afad
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 Subject: Re: Muhammad Alif v. Jacquelyn Wickliffe, et al.
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

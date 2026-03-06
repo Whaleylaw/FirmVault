@@ -1,8 +1,8 @@
 ---
 case_slug: davis-robinson
-created_at: 2026-02-16 22:56:16.129000+00:00
+created_at: {}
 document_category: insurance
-document_date: 2025-05-02
+document_date: {}
 document_type: insurance
 extraction_method: native_text
 legacy_case_id: 2025-05-02-SF-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 95
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-Robinson-SF-05-02-2025/extractions/2025-05-08-Justin-Chumbley-Texas-Roadhouse-Notice-of-Representation_extraction.json
 source_hash: sha256:dfeff7b02d58c56cbd9b1b8cd87abb5ce65a8411dcd174f99f0d2052cdf34876
+contact: "[[cases/2025-05-02-sf-001/contacts/texas-roadhouse]]"
 ---
+
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 
 category: investigation
 date: 2025-05-08

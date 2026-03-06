@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:90880705d7bead30ad53a755eabcaac84be6df918259b018bd8760d8077c34f7
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 analysis_timestamp: 2025-11-24T13:31:24.792744
 case_information.analysis_date: 2025-11-24 13:31:24
 case_information.case_name: Amy Mills v. Forcht Bank

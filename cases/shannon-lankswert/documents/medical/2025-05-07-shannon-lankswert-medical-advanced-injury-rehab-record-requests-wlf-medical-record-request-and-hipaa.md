@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:d7717e05df4d5a918ea8107e11693babbda6a3df097ccb00649cbd563daaa548
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 712 Lyndon Lane ● Louisville, KY 40222 ● Phone: [PHONE-6] ● Fax: [PHONE-5] 
 May 7, 2025 
 Sent via fax to: [PHONE-3] 

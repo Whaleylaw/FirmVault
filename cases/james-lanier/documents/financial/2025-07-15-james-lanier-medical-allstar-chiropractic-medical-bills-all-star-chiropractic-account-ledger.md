@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:ada09c236522e5bec2715df1777390b96ad5c09634b27d049224dc2842aa36ef
 ---
 
+**Case:** [[cases/james-lanier/james-lanier|James Lanier]]
+**Client:** [[cases/james-lanier/contacts/james-lanier|James Lanier]]
+
 Date Type Description Code Debit Credit Balance Mod Units Tax Adjust
 CSV New Patient Examination
 (Detailed) 99203

@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2025-05-20-MVA-001
 ---
 
+**Case:** [[cases/henrietta-jenkins/henrietta-jenkins|Henrietta Jenkins]]
+**Client:** [[cases/henrietta-jenkins/contacts/henrietta-jenkins|Henrietta Jenkins]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Henrietta-Jenkins-MVA-5-20-2025/Medical/Henrietta Jenkins - Synergy - Records & Bills (1).pdf"
 source_hash: "sha256:06193850d101f2f4d5b994b144d0eff56e775c9be74eb9903e72962f3cf68d76"

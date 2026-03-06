@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:07ca53a05da43baf2072436151653a38c83c51f53aa9891c533c6cb13b53b909
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 J.KIPER-M-000001
 KR Fax server O1 11/5/2024 10:15:49 AM UNK PAGE 13/013 KROGER
 CERTIFICATION

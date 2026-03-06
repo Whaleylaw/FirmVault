@@ -4,6 +4,9 @@ document_category: correspondence
 legacy_case_id: 2023-09-21-PrL-001
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-Willis-Beck-Premise-[DOB-1]/Insurance/2023-11-23-Robin-Willis-Beck-Aetna-injury-claim-letter.pdf"
 source_hash: "sha256:42b919a45b513a91beabda29d1fe104567f234ce98bfa45b67306f5c65b3eac7"

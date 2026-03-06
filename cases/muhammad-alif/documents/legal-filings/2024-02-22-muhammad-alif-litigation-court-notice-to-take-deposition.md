@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:64291184856d5399eb0051608ee1dba723c8c95937e27835866878c9ed5dcc09
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 Subject: NCP JEFFERSON Circuit 23-CI-005509, ALIF, MUHAMMAD VS. WICKCLIFFE, JACQUELYN B. ET AL Envelope # 7395123
 From: [EMAIL-6]
 To: [EMAIL-5], Sarena@WhaleyLawFirm.com, [EMAIL-4]

@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:841187209b88d83d6c4f62bc254507f6090b1a149f551f9a0ad12ae6c4ba25ec
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 CASE NO. 23-CI-005758 JEFFERSON CIRCUIT COURT 
  DIVISION EIGHT (8) 
 HON. JENNIFER BRYANT WILCOX 

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-N
 source_hash: sha256:a7f4ee21f1bf5716497b10b17c64831acd8b52fb617850c4377c2bf3ab8d3512
 ---
 
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 Subject: NCP BOONE 24-CI-00452, NELTNER, GREG ET AL VS. COHARA, TRINITY Envelope # 10063939
 From: [EMAIL-6]
 To: [EMAIL-5], Sarena@WhaleyLawFirm.com, [EMAIL-4]

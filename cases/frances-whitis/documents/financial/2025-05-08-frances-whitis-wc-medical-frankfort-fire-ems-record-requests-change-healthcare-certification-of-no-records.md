@@ -1,6 +1,6 @@
 ---
 case_slug: frances-whitis
-created_at: 2026-02-16 23:42:39.192000+00:00
+created_at: {}
 document_category: financial
 document_type: financial
 extraction_method: native_text
@@ -8,11 +8,14 @@ legacy_case_id: 2024-09-06-MVA-001
 mime_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Frances-Whitis-WC-MVA-9-6-2024/Medical/Frankfort
-  Fire & EMS/Record Requests/2025-05-08-Frances-Whitis-WC-Medical-Frankfort Fire &
-  EMS-Record-Requests-Change-Healthcare-Certification-of-No-Records.docx
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Frances-Whitis-WC-MVA-9-6-2024/Medical/Frankfort Fire & EMS/Record Requests/2025-05-08-Frances-Whitis-WC-Medical-Frankfort Fire & EMS-Record-Requests-Change-Healthcare-Certification-of-No-Records.docx
 source_hash: sha256:310199a0ca636250bf1c2e9bbdc81a0456d30a04d0f16c36281ec49b9fed236d
+contact: "[[cases/2024-09-06-mva-001/contacts/frankfort-fire-ems]]"
 ---
+
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 
 CHANGE HEALTHCARE
 

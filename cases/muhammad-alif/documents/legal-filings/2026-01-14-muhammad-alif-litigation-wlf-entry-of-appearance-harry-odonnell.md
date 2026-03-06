@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:4275992462a1d24f56d5208e58d2de8dae6c6faae6be4b7d83a2c7ccb1577378
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 NO. 23-CI-005509 JEFFERSON CIRCUIT COURT
 DIVISION SEVEN (7)
 JUDGE MELISSA LOGAN BELLOWS

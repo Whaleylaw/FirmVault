@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Abby-S
 source_hash: sha256:a5895fc6526c02de6c6b4ba99603381a267e594e6f5e19f6aba3fbdaa39674cf
 ---
 
+**Case:** [[cases/abby-sitgraves/abby-sitgraves|Abby Sitgraves]]
+**Client:** [[cases/abby-sitgraves/contacts/abby-sitgraves|Abby Sitgraves]]
+
 Visit Summary - SITGRAVES,ABBY RENEE [679136]
 7/13/2024 - 7/14/2024: Visit 197 - Andrew E Bingham, MD in AMG EMER MED JEWISH
 Balance: 0.00

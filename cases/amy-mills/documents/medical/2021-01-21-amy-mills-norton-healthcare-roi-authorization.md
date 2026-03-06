@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2019-04-26-PrL-001
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-[DOB-212]/Client/2021-01-21-Amy-Mills-NORTON-HEALTHCARE-ROI-Authorization.pdf"
 source_hash: "sha256:[PHONE-2]e6da1e337f3952c53cf835473e990f3a51d0b7d7f3da833cd296f7"

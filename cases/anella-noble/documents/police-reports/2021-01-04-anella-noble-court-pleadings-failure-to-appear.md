@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:ab9808587cdae887d73b46ce211609364e503dc54080c7d0ff05f4fc16b848aa
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Case Memo 21-M000051
 Parties 21-M000051
 Charges 21-M000051

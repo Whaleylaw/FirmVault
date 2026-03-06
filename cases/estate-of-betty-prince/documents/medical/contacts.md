@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:55dd1034bc35db8f1cc6125de794551553af77600451dfcb52f12bd52b64d5e2
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 item_0.jsonb_agg[0].full_name: Robert Prince
 item_0.jsonb_agg[0].project_name: Estate-of-Betty-Prince-Premise-7-14-2020
 item_0.jsonb_agg[0].roles[0]: client

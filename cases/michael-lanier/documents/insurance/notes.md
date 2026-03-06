@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:99055d4d7305c424f3f56309afc567c3b96354812b0884d0e20e282a8c19c547
 ---
 
+**Case:** [[cases/michael-lanier/michael-lanier|Michael Lanier]]
+**Client:** [[cases/michael-lanier/contacts/michael-lanier|Michael Lanier]]
+
 item_0.author_name: Roscoe (AI Paralegal)
 item_0.episode_type: imported
 item_0.last_activity: 2025-12-01T00:00:00

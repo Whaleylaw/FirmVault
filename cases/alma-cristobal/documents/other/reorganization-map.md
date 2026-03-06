@@ -12,4 +12,7 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:7629c63149d09e927bbc37de7c2271c1fa2513bb4e81b406c5a600ab4d044f2a
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 Error: Parsing error: Failed to parse JSON: expected value at line 1 column 1

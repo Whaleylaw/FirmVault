@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:3cd9f649a8c35e363bb04bd7d3c2cedb38d93fe951ddde72142c5601ee834438
 ---
 
+**Case:** [[cases/james-lanier/james-lanier|James Lanier]]
+**Client:** [[cases/james-lanier/contacts/james-lanier|James Lanier]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Lanier-MVA-6-28-2025/Client/2025-08-22-James-Lanier-Client-Client-Loss-of-Enjoyment-Form-1.jpg

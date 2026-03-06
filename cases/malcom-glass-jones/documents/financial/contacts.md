@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Malcom
 source_hash: sha256:a12385449bb762792be07546c29b9b489e0c3782ade25d92d9230fdae7993a84
 ---
 
+**Case:** [[cases/malcom-glass-jones/malcom-glass-jones|Malcom Glass Jones]]
+**Client:** [[cases/malcom-glass-jones/contacts/malcom-glass-jones|Malcom Glass Jones]]
+
 item_0.jsonb_agg[0].address: 1442 Altawood Dr
 item_0.jsonb_agg[0].full_name: Malcom Glass-Jones
 item_0.jsonb_agg[0].phone: [PHONE-10]

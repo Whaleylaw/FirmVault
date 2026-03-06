@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:c23aca08607b77a2943e5baba54b0a3bf4bab9c3784c03ea3ad73c32fcd0bcad
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 SMITH & HOSKINS ttc
 
 GREGORY L. SMITH 6010 BROWNSBORO PARK BLVD DONALD J. HAAS RENEE G. HOSKINS SUITE B - LOUISVILLE, KY 40207 SARAH J. (SALLY) GRAY ANNA S. RUEFF T: [PHONE-1] | F: [PHONE-2] JARED K. HOSKINS

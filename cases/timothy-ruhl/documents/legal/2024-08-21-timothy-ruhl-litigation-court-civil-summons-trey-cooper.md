@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:4c01bae3ca099cd22b40ec729dd18d70e8ae045d0b287de7a2f89365d09fb648
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 CIVIL SUMMONS
 AOC-E-105           Sum Code: CI
 Rev. 9-14

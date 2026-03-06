@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:cfca32f1488215108c551b83729f9569e8741b0e4335ccc460e4bd927367165d
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 CASE NO. 25-CI-000133 JEFFERSON CIRCUIT COURT 
  DIVISION TWO (2) 
  JUDGE ANNIE O’CONNELL 

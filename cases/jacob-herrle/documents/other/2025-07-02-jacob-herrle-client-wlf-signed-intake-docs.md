@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jacob-
 source_hash: sha256:75f71b200b7cec939539a7048e9fe3c02e4ace5fe60786a901e4ca22f0754536
 ---
 
+**Case:** [[cases/jacob-herrle/jacob-herrle|Jacob Herrle]]
+**Client:** [[cases/jacob-herrle/contacts/jacob-herrle|Jacob Herrle]]
+
 Verification Complete
 The document has been officially verified.
 Recipient1

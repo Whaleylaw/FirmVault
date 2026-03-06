@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:e2b076815e81b14f6f5dd8613dadd7c5d69054abf0d6370953045d6f286be0ff
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 2/20/2020 Circuit Court Clerks - Kentucky Court of Justice
 https://kycourts.gov/courts/clerks/Pages/default.aspx?county=Knox 1/2
 Menu

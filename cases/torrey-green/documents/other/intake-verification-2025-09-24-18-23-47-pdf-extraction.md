@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:0e699f000b3db19845123ca74d2cd5ce089d5e461190e241662397227576e772
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 extracted_data.category: legal
 extracted_data.date: 2025-09-24
 extracted_data.description: Vinesign electronic document verification certificate confirming that an intake document was created by Justin Chumbley on [DOB-2] at 18:21 UTC, sent to Torrey Green via email and SMS, viewed and signed by Torrey Green on [DOB-2] at 18:23 UTC. Document key: DED5F5D3-0DA3-4100-9302-532D7C4652AD.

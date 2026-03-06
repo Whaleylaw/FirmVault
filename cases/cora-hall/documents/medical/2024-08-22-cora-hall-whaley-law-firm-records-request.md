@@ -21,6 +21,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:a26bd8703a1fa1bddf0ea220261fdfb0ed1ccc9a4b706af9f874d301e2f906f9
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 22-Aug-2024 16:08 [PHONE-31] [PHONE-30] p.1
 r«,1 LAW FIRM
 Aaron O. Whalep. Eve.

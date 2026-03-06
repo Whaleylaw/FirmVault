@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2023-04-11-MM-001
 ---
 
+**Case:** [[cases/michael-ditto-jr/michael-ditto-jr|Michael Ditto Jr]]
+**Client:** [[cases/michael-ditto-jr/contacts/michael-ditto-jr|Michael Ditto Jr]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michael-Ditto-Jr-Med-Mal-[DOB-1]/Medical/Norton Women's & Children's Hospital/Medical Records/2023-04-07-Michael-Ditto-Jr-Med-Medical-Norton Women's & Children's Hospital-Medical-Records-Norton-Healthcare-Hospital-Admission-Discharge-Summary-Records.pdf"
 source_hash: "sha256:cf77977cd96629371e4305fedd0702ad87d17b04afbcdc53349727d971f2bc57"

@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2023-08-29-MVA-003
 ---
 
+**Case:** [[cases/julmonzhae-moore/julmonzhae-moore|Julmonzhae Moore]]
+**Client:** [[cases/julmonzhae-moore/contacts/julmonzhae-moore|Julmonzhae Moore]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmonzhae-Moore-MVA-8-29-2023/Insurance/2024-08-29-Julmonzhae-Moore-State-Farm-Insurance-Company-settlement-demand-bodily-injury.pdf"
 source_hash: "sha256:84e571f39afe1c891ff153bc08aab73bc4196e9c30f889acdecb1c4d991dc6b2"

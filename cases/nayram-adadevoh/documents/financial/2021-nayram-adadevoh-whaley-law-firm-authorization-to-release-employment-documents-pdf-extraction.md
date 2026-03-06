@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:2f8eb9491a744b06839c8b776c37be338542b6e008d6216c0a99b56cae733ea8
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: Client
 date: 2021
 description: Authorization form from Whaley Law Firm to release employment documents for Nayram Adadevoh. Dated 2021.

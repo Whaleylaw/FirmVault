@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:cd626bc281699134d15597de1e9cb26c5453808c7b66c24558abe93e9193df97
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 item_0.action: MOVE
 item_0.category: medical_authorization
 item_0.confidence: 0.92

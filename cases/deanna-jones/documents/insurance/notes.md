@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Deanna
 source_hash: sha256:f466b9e26529f78a92cbd44009a17ea3838057fd25218ed0245d0759967e04f1
 ---
 
+**Case:** [[cases/deanna-jones/deanna-jones|Deanna Jones]]
+**Client:** [[cases/deanna-jones/contacts/deanna-jones|Deanna Jones]]
+
 item_0.episode_type: medical_record
 item_0.note: MRI of lumbar spine performed at 1st Diagnostics on 8/19/2025, referred by Dr. Richard McPherson, D.C. FINDINGS: 1) L5-S1: Broad-based 3mm disc herniation with bilateral facet arthropathy and bilateral neuroforaminal narrowing. 2) L4-L5: Broad-based 3mm disc herniation with bilateral facet arthropathy, central canal stenosis, and bilateral neuroforaminal narrowing. 3) L3-L4: Diffuse 2mm disc bulge with bilateral facet arthropathy and bilateral neuroforaminal narrowing. Chief complaint: Low back pain following MVA 7/30/2025. Records received and filed to Medical Records folder.
 item_0.note_summary: MRI Lumbar Spine Results - Multiple Disc Herniations Found

@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:e934b7c4205184c1e71db48e42c6c008ca8c2633e9e7eb96a92af648d7afe2dc
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 accident_date: 2022-01-01
 case_type: MVA
 client_name: Wayne-Weber

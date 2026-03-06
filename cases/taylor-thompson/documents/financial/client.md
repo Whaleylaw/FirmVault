@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor
 source_hash: sha256:b3473b5b7d8358a0fee8c8bc818d37f665c8dbc525f69e1f868818b005ce9280
 ---
 
+**Case:** [[cases/taylor-thompson/taylor-thompson|Taylor Thompson]]
+**Client:** [[cases/taylor-thompson/contacts/taylor-thompson|Taylor Thompson]]
+
 date_of_birth: [DOB-1]
 imported_at: 2026-02-16T21:09:42.783Z
 name: Taylor Thompson

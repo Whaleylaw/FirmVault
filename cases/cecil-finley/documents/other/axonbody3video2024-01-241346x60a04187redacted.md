@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:973ec17c18ab134cd5c8aa8de48ffe671bf6323fa8fa7163b5df5f9a9a99f9e3
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 # Video Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-Finley-MVA-1-24-2024/AxonBody3Video2024-01-241346X60A04187redacted.mp4

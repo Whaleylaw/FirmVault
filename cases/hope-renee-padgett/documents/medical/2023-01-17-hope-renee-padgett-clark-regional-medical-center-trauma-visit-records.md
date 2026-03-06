@@ -2,7 +2,12 @@
 case_slug: hope-renee-padgett
 document_category: medical
 legacy_case_id: 2023-01-16-MVA-001
+contact: "[[cases/2023-01-16-mva-001/contacts/clark-regional-medical-center]]"
 ---
+
+**Case:** [[cases/hope-renee-padgett/hope-renee-padgett|Hope Renee Padgett]]
+**Client:** [[cases/hope-renee-padgett/contacts/hope-renee-padgett|Hope Renee Padgett]]
+
 
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Hope-Renee-Padgett-MVA-1-16-2023/Medical/2023-01-17-Hope-Renee-Padgett-Clark-Regional-Medical-Center-Trauma-Visit-Records.pdf"

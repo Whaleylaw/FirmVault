@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:ae55e9eac3fb71da392b67fa744b9e4dbd79e441d97cdc6fd8ac55b6536b5a6d
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 R. JOHN ELLIS, JR., M.D.
 MARK G. SMITH, M.D.
 G. JEFFREY POPHAM, M.D.

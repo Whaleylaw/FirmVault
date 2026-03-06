@@ -12,4 +12,7 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Forres
 source_hash: sha256:be470c1b03d4a4ea8fcc8932598a6192f3ad8507cc4f661f8cd12b66032a059f
 ---
 
+**Case:** [[cases/forrest-muss/forrest-muss|Forrest Muss]]
+**Client:** [[cases/forrest-muss/contacts/forrest-muss|Forrest Muss]]
+
 Sent from my iPhone

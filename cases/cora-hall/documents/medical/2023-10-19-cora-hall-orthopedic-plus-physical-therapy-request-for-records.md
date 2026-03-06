@@ -2,7 +2,12 @@
 case_slug: cora-hall
 document_category: medical
 legacy_case_id: 2022-12-05-OTH-001
+contact: "[[cases/2022-12-05-oth-001/contacts/orthopedic-plus-physical-therapy]]"
 ---
+
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-Hall-WC-[DOB-50]/Medical/2023-10-19-Cora-Hall-Orthopedic-Plus-Physical-Therapy-Request-for-records.pdf"

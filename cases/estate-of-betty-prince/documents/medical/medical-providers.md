@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:3309a67b585a80e8e8238dd1b9e1b0b73c067791106ac90f062d3d0c2a27712d
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 item_0.phone: [PHONE-8] Main
 item_0.project_name: Estate-of-Betty-Prince-Premise-7-14-2020
 item_0.provider_full_name: Southern Emergency Medical Specialists

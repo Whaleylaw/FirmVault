@@ -1,8 +1,8 @@
 ---
 case_slug: daniel-w-volk
-created_at: 2026-02-16 22:55:18.265000+00:00
+created_at: {}
 document_category: court-filings
-document_date: 2025-03-18
+document_date: {}
 document_type: court_filing
 extraction_method: native_text
 legacy_case_id: 2021-09-24-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel-W-Volk-MVA-09-24-2021/Medical/2025-03-18-Daniel-W-Volk-NOTICE-OF-SERVICE-filed-by-SAFECO-INSURANCE-COMPANY-OF-ILLINOIS.pdf
 source_hash: sha256:2404e86ed34bec03c986d185118daf105112f05931bf86e7802a0714dcd09275
+contact: "[[cases/2021-09-24-mva-001/contacts/safeco-insurance-company]]"
 ---
+
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 
 COMMONWEALTH OF KENTUCKY
 OLDHAM CIRCUIT COURT

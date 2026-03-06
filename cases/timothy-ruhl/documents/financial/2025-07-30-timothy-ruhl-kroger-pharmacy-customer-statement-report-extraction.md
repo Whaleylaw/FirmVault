@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:cfec7faad8d93113b90924a13985ff39d6641eff99a3ef33fbd353cf7abbcb6a
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 content_analysis.category: Expenses
 content_analysis.date: 2025-07-30
 content_analysis.description: Pharmacy bill

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:b5fbaa82c5fb6afb392ce5cd8e506fab0a92a2fbf4fb497da5bf68f4449dbf6c
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 @ Department of Workers' Claims Homepage (https://labor.ky.gov/comp/Pages/default.aspx)
 @ Insurance Coverage Lookup & Notifications (/CoverageLookup)
 @ Litigation Management System (LMS) (/Account/Login)

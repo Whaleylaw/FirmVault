@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:fdb06c49e1af66a2c94665a02f2e89d7e067fdd97423dfe8ce5802745f045ef3
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 APPLICATION FOR BENEFITS - PERSONAL INJURY PROTECTION
 KENTUCKY 'NO-FAULT'
 IMPORTANT:

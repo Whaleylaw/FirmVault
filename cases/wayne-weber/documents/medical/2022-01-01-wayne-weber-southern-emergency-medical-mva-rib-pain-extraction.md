@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:74a2c6580e1711feb82cc8ef28bee6642c3a0035e22e2052bf5075501a0f1237
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: medical_records
 extraction.date: 2022-01-01
 extraction.description: Southern Emergency Medical record for MVA-related rib pain for Wayne Weber dated January 1, 2022.

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-N
 source_hash: sha256:42faa4c6152f25c03433794c5694b02b7d6323ba044dac466d659de1aecabe29
 ---
 
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 Confirmation Kentuckiana Reporters
 P.O. Box 3983
 Louisville, KY 40201

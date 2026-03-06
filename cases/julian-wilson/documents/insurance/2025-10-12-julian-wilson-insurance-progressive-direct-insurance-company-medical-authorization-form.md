@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julian
 source_hash: sha256:80a629a746e6ca91ce94dc4697c8c914bc4576f35a619a68f24df18b4faf6ae3
 ---
 
+**Case:** [[cases/julian-wilson/julian-wilson|Julian Wilson]]
+**Client:** [[cases/julian-wilson/contacts/julian-wilson|Julian Wilson]]
+
 Underwritten by: Progressive Direct Insurance Company
 Claim Number: 25-[POLICY-1]
 Loss Date: October 12, 2025

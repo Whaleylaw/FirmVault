@@ -1,20 +1,23 @@
 ---
 case_slug: james-kiper
-created_at: 2026-02-16 23:51:54.625000+00:00
+created_at: {}
 document_category: insurance
-document_date: 2022-12-05
+document_date: {}
 document_type: insurance
-entities:
-- Travelers
+entities: null
 extraction_method: native_text
 legacy_case_id: 2022-12-05-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Kiper-MVA-12-5-2022/Old
-  Files/2022-12-08-James-Kiper-Travelers-Insurance-Notice-of-Representation.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Kiper-MVA-12-5-2022/Old Files/2022-12-08-James-Kiper-Travelers-Insurance-Notice-of-Representation.pdf
 source_hash: sha256:094d4586a063f5b6d421725f95cde64b0ddbe72144705ef1c9c8beadd9ae1d60
+contact: "[[cases/2022-12-05-mva-001/contacts/travelers-insurance]]"
 ---
+
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 
 Aaron G. Whaley, Esq.
 THE 712 Lyndon Lane

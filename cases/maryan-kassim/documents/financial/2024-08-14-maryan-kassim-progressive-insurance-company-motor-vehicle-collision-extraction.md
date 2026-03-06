@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:d9fdd63948efd90c2c8bb3624b1b62d8da28a488f59fa826eb3a1c0cf5ab7c86
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 category: Insurance
 description: Letter to Progressive Insurance from Whaley Law Firm regarding representation for MVA on 8/6/2024, with specific PIP payment instructions to use $6,000 for bills (excluding hospital-related) and reserve $4,000, plus UM/UIM claim reservation.
 entities[0]: Aaron G. Whaley

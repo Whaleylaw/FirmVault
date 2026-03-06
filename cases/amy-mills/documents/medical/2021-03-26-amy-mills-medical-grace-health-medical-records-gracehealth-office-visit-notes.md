@@ -1,20 +1,23 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:48:35.780000+00:00
+created_at: {}
 document_category: medical
-document_date: 1983-12-28
+document_date: {}
 document_type: medical
-entities:
-- Grace Community Health Center
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Grace
-  Health/Medical Records/2021-03-26-Amy-Mills-Medical-Grace Health-Medical-Records-GraceHealth-Office-Visit-Notes.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Grace Health/Medical Records/2021-03-26-Amy-Mills-Medical-Grace Health-Medical-Records-GraceHealth-Office-Visit-Notes.pdf
 source_hash: sha256:a4f44f37304ffdf809c8129a138a66f0eb8df82622ec9d06b0e87834a5159fcf
+contact: "[[cases/2019-04-26-prl-001/contacts/grace-health]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 Mills, Amy 000000023359 [DOB-55] [DOB-55] 10:45 AM 1/8
 Patient: Amy Mills 

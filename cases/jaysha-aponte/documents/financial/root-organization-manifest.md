@@ -19,6 +19,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jaysha
 source_hash: sha256:844924a8917fbb56f804553838d0a0f56b7956209263b9734603f105e39e3fb8
 ---
 
+**Case:** [[cases/jaysha-aponte/jaysha-aponte|Jaysha Aponte]]
+**Client:** [[cases/jaysha-aponte/contacts/jaysha-aponte|Jaysha Aponte]]
+
 accident_date: 2025-03-15
 case_type: MVA
 client_name: Jaysha-Aponte

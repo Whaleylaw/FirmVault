@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:e02dfcf283bb3d1a70ac5ba78d3b5497a67bc089ed54754d8b4ba2892b12ce13
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 category: Litigation
 description: Interrogatories and requests for production of documents
 entities[0]: Alma Socorro Cristobal Avendaño

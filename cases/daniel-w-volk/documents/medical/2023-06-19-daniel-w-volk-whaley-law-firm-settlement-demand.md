@@ -19,6 +19,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel
 source_hash: sha256:c54c4847818f5666c0b58c1aa527cc6570d19af5b95ff43d79dfe140e9e3c7ac
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 June 19, 2023
 Ebon Moore
 SafeCo Insurance Company

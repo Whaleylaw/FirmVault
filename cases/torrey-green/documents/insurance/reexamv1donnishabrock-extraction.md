@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:b031c139efd507ba689c1c9312165cbd5f76eddad86aef209b864f662ea18fb1
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 category: rental_vehicle_damage
 date: 2025-09-15
 description: Enterprise Rent-A-Car damage claim letter dated 9/15/2025 regarding damage to rental vehicle, claim number 23016864, rental agreement 9F7KDM, damage protection invalidated

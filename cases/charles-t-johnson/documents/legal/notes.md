@@ -20,6 +20,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:09820e120f389bf77097c6861d5311bde662c3210c49db2b578d8842d4b444d7
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 item_0.author_name: Filevine Integration
 item_0.episode_type: imported
 item_0.last_activity: 2025-07-21T00:00:00

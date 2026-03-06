@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:7bbdd6adf7d00f0a397661561b2830d4525936173f17b693d043b3fc9e371458
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 Subject: Certified Medical Records & Billing Request - Timothy Ruhl DOB [DOB-1]
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1], [EMAIL-2], [EMAIL-3]

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:578086b9e8b5e7c479a8934d833aaa705dcb221e0d9d9ba4f291408b0dba4d93
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 EDUCATION AND LABOR CABINET
 DEPARTMENT OF WORKERS’ CLAIMS
 AN DY BE SHEAR SC O TT WILHOIT JA M I E LINK

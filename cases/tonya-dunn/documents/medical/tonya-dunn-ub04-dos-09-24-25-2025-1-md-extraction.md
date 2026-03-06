@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Tonya-
 source_hash: sha256:4aa97cf5685b6779b35d7a92225bc2ac46fdde670ef285dbcf2d507f1a21a5a4
 ---
 
+**Case:** [[cases/tonya-dunn/tonya-dunn|Tonya Dunn]]
+**Client:** [[cases/tonya-dunn/contacts/tonya-dunn|Tonya Dunn]]
+
 category: Medical Records
 description: Hospital bill markdown
 document_type: hospital_bill

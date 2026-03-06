@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:d96a386fa1b517693b7c3e9ef4c88c036c68a4b85b5d2b84c3c276588a51fc14
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 Kentucky Farm Bureau
 Mutual Insurance Company
 CLAIM NUMBER

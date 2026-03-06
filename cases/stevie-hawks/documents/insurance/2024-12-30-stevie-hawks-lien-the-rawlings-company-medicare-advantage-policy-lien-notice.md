@@ -1,8 +1,8 @@
 ---
 case_slug: stevie-hawks
-created_at: 2026-02-17 00:23:51.506000+00:00
+created_at: {}
 document_category: insurance
-document_date: 2024-03-08
+document_date: {}
 document_type: insurance
 extraction_method: native_text
 legacy_case_id: 2024-03-08-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie-Hawks-MVA-3-8-2024/Liens/2024-12-30-Stevie-Hawks-Lien-The-Rawlings-Company-Medicare-Advantage-Policy-Lien-Notice.pdf
 source_hash: sha256:0dc727c397f3ef49c6aeab50c04b9244e94114c3edf835f95af8c3f406d14f37
+contact: "[[cases/2024-03-08-mva-001/contacts/rawlings-company]]"
 ---
+
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 
 +18339448 738
 They. Rawlings Companyic

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:3249268a9ccbe9a93522840d4f7074c781dc1389512011bd7895ae1373a9dc4b
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 Baptist Health Hardin
 913 Dixie Highway
 Elizabethtown, KY 42701

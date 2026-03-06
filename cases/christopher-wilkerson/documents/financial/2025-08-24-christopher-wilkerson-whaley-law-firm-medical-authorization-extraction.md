@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:081aaa8956e0643454e3e445806adf9daf6073402f56243ab695176fdb6d4dd9
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 category: Client
 confidence: medium
 description: Blank HIPAA medical authorization form from Whaley Law Firm. No provider name filled in, no signature or date visible. Template form dated August 24, 2025.

@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2019-04-26-PrL-001
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-[DOB-1]/Review_Needed/2025.01.21-Mills-CMR-CHI-St-Joseph-Ortho-Dr.Kevin-Magone-EMR.pdf"
 source_hash: "sha256:953a6299cbdf9051ecf970946a2d6b8b35f970b7942c32cb888f1102c9557ed8"

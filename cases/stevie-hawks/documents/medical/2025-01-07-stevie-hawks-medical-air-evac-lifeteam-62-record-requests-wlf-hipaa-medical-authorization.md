@@ -1,6 +1,6 @@
 ---
 case_slug: stevie-hawks
-created_at: 2026-02-17 00:23:52.457000+00:00
+created_at: {}
 document_category: medical
 document_type: medical
 extraction_method: native_text
@@ -8,11 +8,14 @@ legacy_case_id: 2024-03-08-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie-Hawks-MVA-3-8-2024/Medical/Air
-  Evac Lifeteam 62/Record Requests/2025-01-07-Stevie-Hawks-Medical-Air Evac Lifeteam
-  62-Record-Requests-WLF-HIPAA-Medical-Authorization.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie-Hawks-MVA-3-8-2024/Medical/Air Evac Lifeteam 62/Record Requests/2025-01-07-Stevie-Hawks-Medical-Air Evac Lifeteam 62-Record-Requests-WLF-HIPAA-Medical-Authorization.pdf
 source_hash: sha256:fb60327f7c6361e5f387ad40c60828d05254050987cef41abfd638ee8fd5f9d9
+contact: "[[cases/2024-03-08-mva-001/contacts/air-evac-lifeteam-62]]"
 ---
+
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 
 AUTHORIZATION TO RELEASE PROTECTED HEALTH CARE INFORMATION
 TO:

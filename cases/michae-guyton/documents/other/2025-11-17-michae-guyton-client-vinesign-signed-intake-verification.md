@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:1d96d03fac743f452ff45dd520be20cc99c2d199289538428b156d467824ec00
 ---
 
+**Case:** [[cases/michae-guyton/michae-guyton|Michae Guyton]]
+**Client:** [[cases/michae-guyton/contacts/michae-guyton|Michae Guyton]]
+
 Verification Complete
 The document has been officially verified.
 Recipient1

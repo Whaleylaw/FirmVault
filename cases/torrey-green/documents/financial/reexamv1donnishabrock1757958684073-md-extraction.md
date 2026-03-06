@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:f548a692a69d43b5dca792ccd7eb9a81cea13b2c289ba3332da9784c9c478e8c
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 extraction.classification.bucket: Expenses
 extraction.classification.confidence: high
 extraction.classification.document_type: expense_documentation

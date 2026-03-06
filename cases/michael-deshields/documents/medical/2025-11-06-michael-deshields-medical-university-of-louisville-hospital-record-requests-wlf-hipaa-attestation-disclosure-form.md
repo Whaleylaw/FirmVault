@@ -23,6 +23,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:dc35678646531dc0d0a78e4859223390078116272f79ed8adfbf689eaf653fa0
 ---
 
+**Case:** [[cases/michael-deshields/michael-deshields|Michael Deshields]]
+**Client:** [[cases/michael-deshields/contacts/michael-deshields|Michael Deshields]]
+
 uUsef L DPhyototono 1a/30/8468R48 1295.45.40 DM rem pAaL BfOhoe Treaiar Coarrroir
 Heal
 Attestation Regarding a Requested Use or Disclosure of Protected Health Information

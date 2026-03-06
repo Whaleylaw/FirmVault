@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:60930d195d46c3168e868c0fb5eee3309bcdc20a6694835c82404ced66ca33a6
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 WARES Bw GN SB
 WINKS <SS YIN SISNAN
 UBIENIAZS NIE REENS SSH

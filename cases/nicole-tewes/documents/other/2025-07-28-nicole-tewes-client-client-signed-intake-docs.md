@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nicole
 source_hash: sha256:7f0b92151097bf3672a041716d077a946d61764d0cf2210f7e2970865576ae02
 ---
 
+**Case:** [[cases/nicole-tewes/nicole-tewes|Nicole Tewes]]
+**Client:** [[cases/nicole-tewes/contacts/nicole-tewes|Nicole Tewes]]
+
 Verification Complete
 The document has been officially verified.
 Recipient1

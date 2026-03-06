@@ -1,11 +1,10 @@
 ---
 case_slug: caryn-mccay
-created_at: 2026-02-16 22:16:40.900000+00:00
+created_at: {}
 document_category: financial
-document_date: 2021-07-27
+document_date: {}
 document_type: financial
-entities:
-- Good Samaritan Hospital
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-07-30-MVA-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-McCay-MVA-7-30-2023/Client/2024-07-02-Caryn-McCay-Whaley-Law-Firm-ROI-Request-Status.pdf
 source_hash: sha256:9a5c6c5b7b1426ec4771f0c8cf52dd4dea1cb74cef089f1f4d7e7fd27c431f72
+contact: "[[cases/2023-07-30-mva-001/contacts/caryn-mccay]]"
 ---
+
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 
 Br-G3-2024 13:21 [PHONE-1] ROI+ Fax Reject Notification ows
 VRC ROI Plus

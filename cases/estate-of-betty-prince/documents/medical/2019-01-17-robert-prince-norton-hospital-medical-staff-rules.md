@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:aaa1bb3221ec3cc3d570f7b464890d9eca6d0a0da807b86aa0d4952d6fb86389
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 GENERAL RULES AND REGULATIONS
 OF
 THE NORTON HOSPITAL

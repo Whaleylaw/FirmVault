@@ -1,8 +1,8 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:46:30.648000+00:00
+created_at: {}
 document_category: financial
-document_date: 2022-08-19
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Client/Amy-Mills-Linda-Jones-retainer-agreement-3200.pdf
 source_hash: sha256:ec0fafd1dcb2e1f5615327957c0974029df4429e533d6254b86df3a59ce927ab
+contact: "[[cases/2019-04-26-prl-001/contacts/linda-jones]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 Prepared for Attorney Aaron Whaley on Friday, August 19, 2022, by Linda Jones 
 From: Linda Jones, MRC, MBA, MPA, CRC 

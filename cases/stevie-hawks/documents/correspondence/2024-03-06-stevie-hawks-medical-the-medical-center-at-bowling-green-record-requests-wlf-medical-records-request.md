@@ -1,21 +1,23 @@
 ---
 case_slug: stevie-hawks
-created_at: 2026-02-17 00:23:54.849000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1958-01-26
+document_date: {}
 document_type: correspondence
-entities:
-- The Medical Center
+entities: null
 extraction_method: native_text
 legacy_case_id: 2024-03-08-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie-Hawks-MVA-3-8-2024/Medical/The
-  Medical Center At Bowling Green/Record Requests/2024-03-06-Stevie-Hawks-Medical-The
-  Medical Center At Bowling Green-Record-Requests-WLF-Medical-Records-Request.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie-Hawks-MVA-3-8-2024/Medical/The Medical Center At Bowling Green/Record Requests/2024-03-06-Stevie-Hawks-Medical-The Medical Center At Bowling Green-Record-Requests-WLF-Medical-Records-Request.pdf
 source_hash: sha256:8602047fe65641167e5f319b1164826861c4f5aa3cdaef5dee4062a1eb3cb7a8
+contact: "[[cases/2024-03-08-mva-001/contacts/the-medical-center-at-bowling-green]]"
 ---
+
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 
 Aaron G. Whaley, Esq.
 712 Lyndon Lane

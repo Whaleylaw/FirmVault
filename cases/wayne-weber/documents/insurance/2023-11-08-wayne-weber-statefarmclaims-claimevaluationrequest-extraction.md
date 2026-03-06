@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:f2f34c4bc530fadc72d2cd780cc583921abc6362e0c60fac5546b8eace5cfbee
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: insurance_correspondence
 extraction.date: 2023-11-08
 extraction.description: State Farm Claims claim evaluation request for Wayne Weber dated November 8, 2023.

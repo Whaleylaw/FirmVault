@@ -4,6 +4,9 @@ document_category: court-filings
 legacy_case_id: 2020-07-14-PrL-001
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate-of-Betty-Prince-Premise-7-14-2020/Insurance/2021-10-08-Robert-Prince-Caretenders-Subpoena-Duces-Tecum-2.pdf"
 source_hash: "sha256:30ee3a1bb3d44a64ccb42f55e9f8980ef60a3e788513fd19ebb6988347b4ac36"

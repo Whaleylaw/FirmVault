@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:32ba06762a7d5fe711e00c37ce801b46cacf32d1157f8d66031b2d7db28c0638
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: medical_billing
 extraction.date: 2022-01-20
 extraction.description: Southern Emergency Medical health insurance claim for Wayne Weber dated January 20, 2022.

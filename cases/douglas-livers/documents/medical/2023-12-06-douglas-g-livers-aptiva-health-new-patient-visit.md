@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2023-01-19-MVA-001
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Douglas-Livers-MVA-1-19-2023/Medical/2023-12-06-Douglas-G-Livers-Aptiva-Health-New-Patient-Visit.pdf"
 source_hash: "sha256:2ae3a0581221d90dbde5732b935b8e495372c1f3cb9be3e8a2ca6d2ffebf334c"

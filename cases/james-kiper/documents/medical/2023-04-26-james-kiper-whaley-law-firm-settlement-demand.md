@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2022-12-05-MVA-001
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Kiper-MVA-12-5-2022/Old Files/2023-04-26-James-Kiper-Whaley-Law-Firm-Settlement-Demand.pdf"
 source_hash: "sha256:e8bf2505e4252a425160679b61aad9c513047aa3bbcfc5eadacfa76a89c51425"

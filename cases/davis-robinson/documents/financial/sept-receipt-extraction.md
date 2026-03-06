@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-
 source_hash: sha256:e52c2942e37598af6b4f26dd8ccad3bf4565b43cf2fda37a3a05e6107c2d8da5
 ---
 
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 category: medical_bill
 date: 2025-09-11
 description: OrthoCincy receipt for past professional services. Payment of $14.48 made via Visa on 9/11/25. Receipt #15450254

@@ -33,6 +33,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-
 source_hash: sha256:33715f605282d43610ff26102dd9daf69ee0a6911a14216dab4c7ec8982443b1
 ---
 
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 date_range.earliest: 2010-10-30
 date_range.latest: 2025-04-09
 total_visits: 181

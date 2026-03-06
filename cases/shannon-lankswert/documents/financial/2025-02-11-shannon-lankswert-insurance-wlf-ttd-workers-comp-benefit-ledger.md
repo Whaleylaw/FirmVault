@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:bd8e0a43af3cdcab8f5ed4509e7dcd22da4ff64d4f2604ac587c552d72dd3577
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 AWW 1st Quarter 2nd Quarter 3rd Quarter 4th Quarter State Maximum Allowed
 $1,475.39 $1,511.77 $1,439.66 $1,370.28 $1,231.22
 Start End Wkly Charge Paid Client Recvd Notes

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:d078e58836bd509960eb84b8b7420e7360f37e21646033dec38866746d3e4bcf
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 category: Insurance
 description: Kentucky auto insurance policy contract document showing coverage terms and conditions for policy period, form 9611D KY.
 entities[0]: Abdullahi Kassim

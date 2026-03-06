@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maia-O
 source_hash: sha256:3c78ca34aa4ee0e49ec8374c544593d085c13c2c98a9502978fad3e3753183c8
 ---
 
+**Case:** [[cases/maia-ott/maia-ott|Maia Ott]]
+**Client:** [[cases/maia-ott/contacts/maia-ott|Maia Ott]]
+
 10/2/25, 1:55 PM
 PIP & 
 Claim

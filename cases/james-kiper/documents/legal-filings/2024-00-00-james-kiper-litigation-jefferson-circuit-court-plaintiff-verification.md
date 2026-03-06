@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:848b690a2ed95c653ea2784a3e95c2203a584cdb8e99ba9129191cc9f0fdbd19
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 VERIFICATION 
 I hereby certify that the information contained in the foregoing answers and responses are 
 true and correct to the best of my knowledge. 

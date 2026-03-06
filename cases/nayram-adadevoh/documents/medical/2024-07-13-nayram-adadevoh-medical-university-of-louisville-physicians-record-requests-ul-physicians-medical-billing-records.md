@@ -19,6 +19,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:8c5da26d2dd7923372825b6c99a467d9834ee4240933a1fcb126a7d5af5ee3e1
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 UL Physicians
 HIPAA FAX COVER LETTER
 pate. [DOB-1]

@@ -1,12 +1,10 @@
 ---
 case_slug: daniel-w-volk
-created_at: 2026-02-16 22:55:14.904000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1964-02-22
+document_date: {}
 document_type: correspondence
-entities:
-- Baptist Health Medical Group
-- Baptist Health
+entities: null
 extraction_method: native_text
 legacy_case_id: 2021-09-24-MVA-001
 mime_type: application/pdf
@@ -14,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel-W-Volk-MVA-09-24-2021/Medical/2023-12-11-Daniel-W-Volk-Baptist-Health-Medical-Group-Sports-Medicine-medical-records-request.pdf
 source_hash: sha256:1c43516ff704997a0b71b81cc7cf2c9ec6afe42283520ca96956accd60a38ac1
+contact: "[[cases/2021-09-24-mva-001/contacts/baptist-health-medical-group-sports-medicine]]"
 ---
+
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 
 - LAW FIRM Aaron G. Whaley, és. 712 Lyndon Lane Louisville, KY 40222 Ph: [PHONE-2] Fax: [PHONE-2]
 

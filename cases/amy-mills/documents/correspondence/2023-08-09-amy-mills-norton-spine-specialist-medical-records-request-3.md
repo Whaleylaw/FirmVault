@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:e1a7a57d54be153d08504fffc8cecbbb652c0ad2e6392c37a892f9fda9551dd1
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 BN ORTON
 Real people. Remarkable care.
 8/29/23

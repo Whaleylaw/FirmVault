@@ -1,11 +1,10 @@
 ---
 case_slug: hope-renee-padgett
-created_at: 2026-02-16 23:48:54.505000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 2023-01-16
+document_date: {}
 document_type: correspondence
-entities:
-- Progressive
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-01-16-MVA-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Hope-Renee-Padgett-MVA-1-16-2023/Settlement/2023-12-07-Hope-Renee-Padgett-Progressive-Insurance-Company-Consent-To-Settle.pdf
 source_hash: sha256:88eba30e284380f0c65977f6c67a66a2759de2e630e64f26a34049b0c02d9bb3
+contact: "[[cases/2023-01-16-mva-001/contacts/progressive-insurance-company]]"
 ---
+
+**Case:** [[cases/hope-renee-padgett/hope-renee-padgett|Hope Renee Padgett]]
+**Client:** [[cases/hope-renee-padgett/contacts/hope-renee-padgett|Hope Renee Padgett]]
+
 
 Justin Chumbley
 Aaron G. Whaley, Esq.

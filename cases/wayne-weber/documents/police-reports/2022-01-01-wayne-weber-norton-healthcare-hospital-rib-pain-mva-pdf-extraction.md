@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:3879130c5bdfc9faefdfeab03544800a77b7bd29acd645f9d6064a32b5ef2a03
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: medical_records
 extraction.date: 2022-01-01
 extraction.description: Hospital visit for rib pain from motor vehicle accident at Norton Healthcare for Wayne Weber.

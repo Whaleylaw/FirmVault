@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:142f15384a0eaa8f1d238a2369ca5dcf45cd90191df9b771eeafb2a7b0122726
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 Wayne-Weber-MVA-[DOB-34]/extractions/2023-11-06-Wayne-Weber-Norton-Brownsboro-Hospital-HIPAA-Authorization.pdf_extraction.json
 Wayne-Weber-MVA-[DOB-33]/extractions/2023-11-06-Wayne-Weber-State-Farm-Insurance-Company-Representation-Letter.pdf_extraction.json
 Wayne-Weber-MVA-[DOB-32]/extractions/2023-11-07-Wayne-Weber-BaptistHealth-MedicalRecordsRequest.pdf_extraction.json

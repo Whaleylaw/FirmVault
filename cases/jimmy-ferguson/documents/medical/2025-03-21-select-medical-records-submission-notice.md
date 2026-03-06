@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:e537c5794e72bb132beaae3c9c34ed5d0118f2aa1ebbc43d729a8ea72d33f810
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 43/21/25 12:42:43 Select Medical > Select Medical Page HA1
 Select
 i MEDICAL

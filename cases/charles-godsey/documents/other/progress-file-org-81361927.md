@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:4b8f91724fbd0ff4f82e2da104c8e76a5c95951f61e6fe40b800a193cbb4be69
 ---
 
+**Case:** [[cases/charles-godsey/charles-godsey|Charles Godsey]]
+**Client:** [[cases/charles-godsey/contacts/charles-godsey|Charles Godsey]]
+
 case_folder: Charles-Godsey-MVA-6-30-2025
 job_id: file-org-81361927
 phases.execution.completed_at: 2026-02-04T00:55:17.730840

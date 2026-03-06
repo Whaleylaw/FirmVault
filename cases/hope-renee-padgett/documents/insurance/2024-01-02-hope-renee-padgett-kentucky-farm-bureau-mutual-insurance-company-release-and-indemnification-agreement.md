@@ -1,11 +1,10 @@
 ---
 case_slug: hope-renee-padgett
-created_at: 2026-02-16 23:48:55.432000+00:00
+created_at: {}
 document_category: insurance
-document_date: 2023-01-16
+document_date: {}
 document_type: insurance
-entities:
-- Kentucky Farm Bureau
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-01-16-MVA-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Hope-Renee-Padgett-MVA-1-16-2023/Settlement/2024-01-02-Hope-Renee-Padgett-Kentucky-Farm-Bureau-Mutual-Insurance-Company-Release-and-Indemnification-Agreement.pdf
 source_hash: sha256:0302cb45a5fdde57f0be358f08b63b7e16133227e6f17dcae85619a03b8626f9
+contact: "[[cases/2023-01-16-mva-001/contacts/kentucky-farm-bureau]]"
 ---
+
+**Case:** [[cases/hope-renee-padgett/hope-renee-padgett|Hope Renee Padgett]]
+**Client:** [[cases/hope-renee-padgett/contacts/hope-renee-padgett|Hope Renee Padgett]]
+
 
 Kentucky Farm Bureau
 Mutual Insurance Company

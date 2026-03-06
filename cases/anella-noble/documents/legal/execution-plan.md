@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:9ce0e65ee0d547487fb2c73147fac0bbaf07f32ad07ae2b9a65d1f58b31d02a8
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 directories_to_create[0]: /Volumes/X10 Pro/projects/Anella-Noble-MVA-[DOB-311]/Client
 directories_to_create[1]: /Volumes/X10 Pro/projects/Anella-Noble-MVA-[DOB-310]/Evidence
 directories_to_create[2]: /Volumes/X10 Pro/projects/Anella-Noble-MVA-[DOB-309]/Expenses

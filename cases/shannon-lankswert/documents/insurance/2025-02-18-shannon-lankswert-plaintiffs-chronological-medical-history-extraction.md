@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:292f9be3e99bdbe0e3fba16f9d9d506c6823bf09c342c262ef48e16b6466492a
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 extraction.category: Client
 extraction.date: 2025-02-18
 extraction.description: Plaintiff's Chronological Medical History form (blank template for workers compensation claim)

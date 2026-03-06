@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:404b3ada8664345947fbe0b55f1c339da9b1b26fb0882fe4811882ca7fabcd7a
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 CIVIL ACTION NO. 24-C14728 JEFFERSON CIRCUIT COURT
 DIVISION THREE (3)
 HON. MITCH PERRY

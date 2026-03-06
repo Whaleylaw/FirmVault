@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee
 source_hash: sha256:eb926155436c36beb752cdd66961750d202527b4bdf7b9e0d193b2f8aa2a4c53
 ---
 
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 Explanation of Benefits
 The following explains benefits available to you.
 Your Coverage Personal Injury Protection Coverage is intended to cover medical expenses 

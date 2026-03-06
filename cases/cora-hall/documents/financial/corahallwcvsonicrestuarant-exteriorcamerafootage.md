@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:c4aebacd28197b5db86caef4a1b3e910c1c0cfe88748a8d8059ec4d0fcbf14b6
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 Subject: Cora Hall WC v Sonic Restuarant - Exterior Camera Footage
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

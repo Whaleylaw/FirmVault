@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Raysha
 source_hash: sha256:6aa6be21aa554f67aeca1bb4b4ea65fbff3f60476fd8d0abc49890c36d06f584
 ---
 
+**Case:** [[cases/rayshawn-wilson/rayshawn-wilson|Rayshawn Wilson]]
+**Client:** [[cases/rayshawn-wilson/contacts/rayshawn-wilson|Rayshawn Wilson]]
+
 INVESTIGATOR BEAT OR POST #
 TOTAL LANES
 NO

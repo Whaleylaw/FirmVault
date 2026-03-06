@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Abby-S
 source_hash: sha256:c9eb0c9b87c968c392a8d1ed2c973b363ca497479d7d9fef191ab45dd3bbf6a2
 ---
 
+**Case:** [[cases/abby-sitgraves/abby-sitgraves|Abby Sitgraves]]
+**Client:** [[cases/abby-sitgraves/contacts/abby-sitgraves|Abby Sitgraves]]
+
 25-0194 EB
 CASE NO. 25-CI-000133 JEFFERSON CIRCUIT COURT
 DIVISION TWO (2)

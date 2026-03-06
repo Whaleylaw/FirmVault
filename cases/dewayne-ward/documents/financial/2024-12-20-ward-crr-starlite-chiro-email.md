@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dewayn
 source_hash: sha256:e258ff61a78aec71a1d693bdb95e384310adf94594333345d35cc7d1f14b54a7
 ---
 
+**Case:** [[cases/dewayne-ward/dewayne-ward|Dewayne Ward]]
+**Client:** [[cases/dewayne-ward/contacts/dewayne-ward|Dewayne Ward]]
+
 Subject: Certified Medical Records & Billing Request - Dewayne Ward [DOB-1]
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

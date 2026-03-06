@@ -1,11 +1,10 @@
 ---
 case_slug: destiny-adkins
-created_at: 2026-02-16 23:26:09.845000+00:00
+created_at: {}
 document_category: court-filings
-document_date: 2022-06-28
+document_date: {}
 document_type: court_filing
-entities:
-- Allstate
+entities: null
 extraction_method: native_text
 legacy_case_id: 2021-04-16-MVA-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Destiny-Adkins-MVA-04-16-2021/Insurance/2022-06-28-Destiny-Adkins-Whaley-Law-Firm-Allstate-Insurance-Defense.pdf
 source_hash: sha256:badecf58d[POLICY-1]ebdf3282dd6cfc2a97107ff23e7b13a09387153a658c0a
+contact: "[[cases/2021-04-16-mva-001/contacts/allstate-insurance]]"
 ---
+
+**Case:** [[cases/destiny-adkins/destiny-adkins|Destiny Adkins]]
+**Client:** [[cases/destiny-adkins/contacts/destiny-adkins|Destiny Adkins]]
+
 
 WM. CLIFTON TRAVIS TRAVIS HERBERT & STEMPIEN
 VALERIE W. HERBERT Of Counsel:

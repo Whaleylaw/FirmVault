@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Mi'Ayl
 source_hash: sha256:63aa25ff2ad225da94df94904a57952050e8cfce2ebd3e1a3b2407993988daa4
 ---
 
+**Case:** [[cases/miayla-lopez/miayla-lopez|Mi'Ayla Lopez]]
+**Client:** [[cases/miayla-lopez/contacts/miayla-lopez|Mi'Ayla Lopez]]
+
 item_0.adjuster_email: [EMAIL-1]
 item_0.adjuster_phone: [PHONE-9]
 item_0.claim_number: [POLICY-1]9

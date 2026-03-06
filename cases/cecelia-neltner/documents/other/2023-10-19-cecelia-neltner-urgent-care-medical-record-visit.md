@@ -11,3 +11,6 @@ quality_score: 0
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecelia-Neltner-MVA-4-1-2023/Medical-Records/2023-10-19-Cecelia-Neltner-Urgent-Care-Medical-Record-Visit.pdf
 source_hash: sha256:f1edfba5a236d9ffa68e150925c58d12390be30358abdae31ade4ca12ce4b9ff
 ---
+
+**Case:** [[cases/cecelia-neltner/cecelia-neltner|Cecelia Neltner]]
+**Client:** [[cases/cecelia-neltner/contacts/cecelia-neltner|Cecelia Neltner]]

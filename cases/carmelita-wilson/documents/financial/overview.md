@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Carmel
 source_hash: sha256:e25953303b6e429db0930fffc09dfa05ab205ee51bf182ed1732ebd7889eb6e0
 ---
 
+**Case:** [[cases/carmelita-wilson/carmelita-wilson|Carmelita Wilson]]
+**Client:** [[cases/carmelita-wilson/contacts/carmelita-wilson|Carmelita Wilson]]
+
 item_0.jsonb_agg[0].case_create_date: 1769716099570
 item_0.jsonb_agg[0].client_address: 3306 Riverchase Ct, #H, Louisville, KY 40218
 item_0.jsonb_agg[0].client_email: [EMAIL-1]

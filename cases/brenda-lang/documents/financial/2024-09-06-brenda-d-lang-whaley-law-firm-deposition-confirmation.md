@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:0588eee9f74edb2fdc0014ea9a3d31b7fc2c2d48808ee2a06f22be02bff90d67
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 Confirmation Kentuckiana Reporters
 P.O. Box 3983
 Louisville, KY 40201

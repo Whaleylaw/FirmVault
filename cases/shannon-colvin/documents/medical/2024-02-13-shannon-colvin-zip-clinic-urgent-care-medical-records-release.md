@@ -2,7 +2,12 @@
 case_slug: shannon-colvin
 document_category: medical
 legacy_case_id: 2023-10-01-MVA-002
+contact: "[[cases/2023-10-01-mva-002/contacts/zip-clinic-urgent-care]]"
 ---
+
+**Case:** [[cases/shannon-colvin/shannon-colvin|Shannon Colvin]]
+**Client:** [[cases/shannon-colvin/contacts/shannon-colvin|Shannon Colvin]]
+
 
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shannon-Colvin-MVA-10-1-2023/Medical/2024-02-13-Shannon-Colvin-Zip-Clinic-Urgent-Care-Medical-Records-Release.pdf"

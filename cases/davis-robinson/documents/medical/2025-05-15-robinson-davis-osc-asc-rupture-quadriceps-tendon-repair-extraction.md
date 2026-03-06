@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-
 source_hash: sha256:639c141f50c9e008be2ba075b53727ec5043a33a196003452e54d9c55b3cd69f
 ---
 
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 category: medical_records
 date: 2025-05-15
 description: Medical records from Orthopaedic Surgery Center for rupture of left quadriceps tendon. Surgery on 5/15/2025. 15-page faxed medical record sent 9/29/2025.

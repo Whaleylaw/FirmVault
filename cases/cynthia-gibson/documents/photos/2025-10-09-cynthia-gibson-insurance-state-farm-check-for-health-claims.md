@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cynthi
 source_hash: sha256:dc5f278d1231494fd2510ac30eb3df8e884433f3d649f1e69fa3ae32de586fcd
 ---
 
+**Case:** [[cases/cynthia-gibson/cynthia-gibson|Cynthia Gibson]]
+**Client:** [[cases/cynthia-gibson/contacts/cynthia-gibson|Cynthia Gibson]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cynthia-Gibson-MVA-7-9-2025/Insurance/2025-10-09-Cynthia-Gibson-Insurance-State-Farm-Check-for-Health-Claims.jpg

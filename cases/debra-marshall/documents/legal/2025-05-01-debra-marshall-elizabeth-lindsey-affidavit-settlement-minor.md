@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:4888a889c8256865c34093d6430074508106f90a1c68ec6b5f9d7486b628842e
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 vinesign Document ID: 3hbU90/8Y /-YUUb6-49U5-3 1T8U-UY8SU40CAFBOU
 Affidavit
 Before me, the undersigned this day appeared Elizabeth Lindsey (“Affiant”) who being by me first duly sworn,

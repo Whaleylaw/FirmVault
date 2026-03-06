@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-N
 source_hash: sha256:9e97cb4662322a79cfdb010ccd1c3c5429e9c336a8a2ca546569307adbdfd63d
 ---
 
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 Subject: New Voice Message from WIRELESS CALLER [PHONE-6] on [DOB-2] 3:18 PM
 From: [EMAIL-3]
 To: Sarena@whaleylawfirm.com

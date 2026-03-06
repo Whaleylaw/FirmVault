@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:c3b2507cbb73967bae0d6e903455772e80717eaafcbd7e0c7305690dc44fcf43
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Pursuant to SCR 1.050(8), this is to give notice that the above-styled civil matter was submitted to Judge 
  on , 2 . Explain nature of case and type of submission: 
 .

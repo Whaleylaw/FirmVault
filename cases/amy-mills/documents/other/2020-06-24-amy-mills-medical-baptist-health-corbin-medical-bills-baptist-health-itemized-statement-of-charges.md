@@ -1,6 +1,6 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:47:59.956000+00:00
+created_at: {}
 document_category: other
 document_type: other
 extraction_method: native_text
@@ -8,10 +8,14 @@ legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 85
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Baptist
-  Health Corbin/Medical Bills/2020-06-24-Amy-Mills-Medical-Baptist Health Corbin-Medical-Bills-Baptist-Health-Itemized-Statement-of-Charges.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Baptist Health Corbin/Medical Bills/2020-06-24-Amy-Mills-Medical-Baptist Health Corbin-Medical-Bills-Baptist-Health-Itemized-Statement-of-Charges.pdf
 source_hash: sha256:2a8ed6869c64c718873596bab48c70a72661e32711c372ac7899a952902f64bd
+contact: "[[cases/2019-04-26-prl-001/contacts/baptist-health-corbin]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 	
 

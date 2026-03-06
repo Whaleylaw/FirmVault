@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Connie
 source_hash: sha256:8246ce7c740b8f0248815cf319175e24d4c6dc3f9f4f49c3b206498cd7110830
 ---
 
+**Case:** [[cases/connie-goree/connie-goree|Connie Goree]]
+**Client:** [[cases/connie-goree/contacts/connie-goree|Connie Goree]]
+
 address: 1204 Moon Rise Way, Lexington, KY 40509
 date_of_birth: [DOB-1]
 imported_at: 2026-02-16T21:09:42.773Z

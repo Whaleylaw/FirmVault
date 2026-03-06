@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:d6be31ff569a9f67a0e85ae98f5548305832f05df758d084db1ce02e3e406eae
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Tendered 21-CEL A 108s [DOB-5] David L. Nichole*., Jefferson Circuit Clerk
 
 NO. 21-CI-004985 JEFFERSON CIRCUIT COURT THE HON. MARY SHAW DIVISION FIVE (5) ANELLA NOBLE PLAINTIFF V. ORDER ELECTRONICALLY FILED VIRGINIA P. SEWELL and

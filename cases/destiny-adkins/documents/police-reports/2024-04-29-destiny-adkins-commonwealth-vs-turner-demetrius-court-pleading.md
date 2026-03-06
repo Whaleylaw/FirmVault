@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Destin
 source_hash: sha256:feb9ec6664d349eb88c1d7365c12e1ef829e235f2f6e49f7aa8de2d2915e7472
 ---
 
+**Case:** [[cases/destiny-adkins/destiny-adkins|Destiny Adkins]]
+**Client:** [[cases/destiny-adkins/contacts/destiny-adkins|Destiny Adkins]]
+
 Case Memo 24-M002999
 Parties 24-M002999
 Charges 24-M002999

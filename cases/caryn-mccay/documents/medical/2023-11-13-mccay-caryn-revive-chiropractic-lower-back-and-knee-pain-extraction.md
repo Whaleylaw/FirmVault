@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-
 source_hash: sha256:688b34c39ca4f43d15f6525317312317b68a6a33ffc99426ab02403962c55037
 ---
 
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 category: medical_records
 description: Treatment for lower back and knee pain at Revive Chiropractic
 entities.organizations[0]: Revive Chiropractic

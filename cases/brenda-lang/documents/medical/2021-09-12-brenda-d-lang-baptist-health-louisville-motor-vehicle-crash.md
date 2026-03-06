@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2021-09-03-MVA-001
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda-Lang-MVA-[DOB-320]/Medical/2021-09-12-Brenda-D-Lang-Baptist-Health-Louisville-Motor-Vehicle-Crash.pdf"
 source_hash: "sha256:3d5f5252a48245bbc135afdc67e5b82aadf4a0c5dded6c0973aed69ec64baff6"

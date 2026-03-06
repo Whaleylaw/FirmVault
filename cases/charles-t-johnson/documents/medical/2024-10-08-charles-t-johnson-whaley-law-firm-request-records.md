@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:4aa8cb9abeb1e45de49edb91392c833a2e35ac53f01db59de0a0725110e6b35a
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 Treat T Mhirreantane
 FAX
 To: [EMAIL-1]

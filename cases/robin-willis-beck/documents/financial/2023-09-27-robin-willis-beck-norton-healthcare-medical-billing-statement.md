@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:d56f0cbbb279d11be29442ae5d84477bc1030713b328c103a8a7c574e675a520
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 Patient: Willis Beck,Robin
 Account ID: 233258051
 Norton Healthcare

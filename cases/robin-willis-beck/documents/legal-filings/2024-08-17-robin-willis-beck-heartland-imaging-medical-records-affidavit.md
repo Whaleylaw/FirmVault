@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:b132ffa28e6469499d3269e63ef7e0e6da5359c83657029a8d47a9e18b6198c2
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 CERTIFICATION OF MEDICAL RECORDS AFFIDAVIT
 ______________________________________, being first duly sworn on his/her oath, says that: 
 (Name of records custodian/clerk) 

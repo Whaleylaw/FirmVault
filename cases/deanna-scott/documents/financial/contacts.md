@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Deanna
 source_hash: sha256:50f46a48687292bbdca83856cde6752ec2a4783069425d0df5ec46112cca55ef
 ---
 
+**Case:** [[cases/deanna-scott/deanna-scott|Deanna Scott]]
+**Client:** [[cases/deanna-scott/contacts/deanna-scott|Deanna Scott]]
+
 item_0.jsonb_agg[0].address: 4213 Vermont Ave, Louisville, KY 40211
 item_0.jsonb_agg[0].email: [EMAIL-1]
 item_0.jsonb_agg[0].full_name: Deanna Scott

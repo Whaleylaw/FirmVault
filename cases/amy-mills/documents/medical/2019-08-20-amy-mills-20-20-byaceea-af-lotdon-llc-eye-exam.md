@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:8739c2f5544769657e215bed2279e9f5c7955030150d871b5f5affb9d0ef457e
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 20/20 Byaceea af Lotdon, LLC.
 168 Chareat ya bane
 London, RY 407db-3242 REARNEHK: GOS-O7R-ROOS

@@ -1,0 +1,19 @@
+---
+schema_version: 2
+directory_id: d3e8ac3b-9261-4929-b023-0d9e95ddfe3b
+master_card: "[[Contacts/Medical/orthopaedic-surgery-center]]"
+case_number: 2025-05-02-SF-001
+case_link: "[[cases/davis-robinson/davis-robinson]]"
+role: treating_provider
+tags: [contact/medical-provider/doctor]
+---
+
+# Orthopaedic Surgery Center
+
+**Role:** treating_provider
+**Master card:** [[Contacts/Medical/orthopaedic-surgery-center|Orthopaedic Surgery Center]]
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+
+## Treatment
+- outpatient: 2025-05-21 → ongoing
+  Status: discharged; Billed: $8850.54; records requested: 2025-05-21; records received: 2025-05-29; bills requested: 2025-05-21; bills received: 2025-06-24

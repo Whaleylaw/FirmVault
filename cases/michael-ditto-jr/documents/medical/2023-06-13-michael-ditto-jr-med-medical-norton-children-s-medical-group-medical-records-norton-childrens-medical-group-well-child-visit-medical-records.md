@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2023-04-11-MM-001
 ---
 
+**Case:** [[cases/michael-ditto-jr/michael-ditto-jr|Michael Ditto Jr]]
+**Client:** [[cases/michael-ditto-jr/contacts/michael-ditto-jr|Michael Ditto Jr]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michael-Ditto-Jr-Med-Mal-[DOB-1]/Medical/Norton Children's Medical Group/Medical Records/2023-06-13-Michael-Ditto-Jr-Med-Medical-Norton Children's Medical Group-Medical-Records-Norton-Childrens-Medical-Group-Well-Child-Visit-Medical-Records.pdf"
 source_hash: "sha256:83e5b8117305ea4b440b9209134e5fe346c100b71175f15589a37bda410a4143"

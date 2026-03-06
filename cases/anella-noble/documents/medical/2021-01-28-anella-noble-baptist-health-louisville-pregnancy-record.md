@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2021-01-03-MVA-001
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella-Noble-MVA-[DOB-1393]/Medical-Records/2021-01-28-Anella-Noble-Baptist-Health-Louisville-Pregnancy-Record.pdf"
 source_hash: "sha256:53dba384c85b758a54ebb82f447b08aab2cc492c35f9a93df173cb00c739896e"

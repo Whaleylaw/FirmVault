@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cynthi
 source_hash: sha256:c85e504e1df6c15d911c2960b5652a82fee1f5fb06f69e17a0cf36e32a5a50c4
 ---
 
+**Case:** [[cases/cynthia-gibson/cynthia-gibson|Cynthia Gibson]]
+**Client:** [[cases/cynthia-gibson/contacts/cynthia-gibson|Cynthia Gibson]]
+
 INVESTIGATOR BEAT OR POST #
 TOTAL LANES
 NO

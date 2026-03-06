@@ -1,18 +1,22 @@
 ---
 case_slug: daniel-w-volk
-created_at: 2026-02-16 22:54:48.117000+00:00
+created_at: {}
 document_category: medical
-document_date: 1964-02-22
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2021-09-24-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel-W-Volk-MVA-09-24-2021/Legal
-  Documents/2021-10-11-Daniel-W-Volk-OSF-PromptCare-HIPAA-Authorization.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel-W-Volk-MVA-09-24-2021/Legal Documents/2021-10-11-Daniel-W-Volk-OSF-PromptCare-HIPAA-Authorization.pdf
 source_hash: sha256:c62f56337cedc112a8045424fabb676f4804b6bb26bd8ac8b8b9a8b0fd79cf00
+contact: "[[cases/2021-09-24-mva-001/contacts/osf-promptcare]]"
 ---
+
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:ebbd5e71e1db9e358d77d073138b8fcaf33a85f90a8ebf326b06910c6e8164b8
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 CASE NO. __________ JEFFERSON CIRCUIT COURT 
  DIVISION ________ (_) 
  JUDGE ______________________ 

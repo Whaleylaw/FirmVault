@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:4afabc2546a828c6e0fdbaf9cf9e454b16bff5dde98558909a4958b406aab375
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 CERTIFICATION OF MEDICAL BILLING RECORDS AFFIDAVIT
 Peter John , being first duly sworn on his/her oath, says that:
 (Name ofrecords custodian/clerk)

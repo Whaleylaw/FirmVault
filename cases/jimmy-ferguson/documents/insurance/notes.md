@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:3629b1b72e5f9d0879a304c1c9de5e391b0748ec8a195d9910c0b3b5a49836e9
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 item_0.author_name: Fuel Digital RingCentral Integration Service Account
 item_0.episode_type: imported
 item_0.last_activity: 2025-10-28T00:00:00

@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:12f734fcd51ea372df5bb95ea80488121a9a2223a9efa14036a9b5d53edf630b
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 ## Sheet1
 
 | FIRST PARTY MEDICAL BENEFIT PAYMENT LEDGER |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |

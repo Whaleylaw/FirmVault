@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Deanna
 source_hash: sha256:fc6ef7b3b51334be6c49c6d58ea77326f3554befa7620975b5682433bf2a7e5a
 ---
 
+**Case:** [[cases/deanna-jones/deanna-jones|Deanna Jones]]
+**Client:** [[cases/deanna-jones/contacts/deanna-jones|Deanna Jones]]
+
 Fax: [PHONE-1] Sep 16. 2025 3:35PM Page: No 3788 09/11 P
 NAME Luv
 COUNTY TAX UN

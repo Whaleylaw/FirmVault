@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:06947679d1ab933653eae0061a40139cc4275205d845030b83143e38c1ed9019
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 [DOB-1] 14:15 5@28949544 XRAY ASSOC OFLOU PAGE@1/12
 ASSOCIATES
 OF LOUISVILLE

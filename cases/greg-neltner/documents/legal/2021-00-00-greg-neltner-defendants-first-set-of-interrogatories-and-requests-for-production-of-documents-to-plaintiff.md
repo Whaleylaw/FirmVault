@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-N
 source_hash: sha256:7b6f4dd978c2abf08ec5afb3a673e4caba7323552e3159414bb5b58ae425fc0d
 ---
 
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 Aaron G.
 Whaley, Esq.
 712 Lyndon

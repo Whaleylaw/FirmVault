@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jaysha
 source_hash: sha256:bb3b4be9a130dc99f80308820f83e983d7957d51ff9f4d7822be00db001df433
 ---
 
+**Case:** [[cases/jaysha-aponte/jaysha-aponte|Jaysha Aponte]]
+**Client:** [[cases/jaysha-aponte/contacts/jaysha-aponte|Jaysha Aponte]]
+
 address: 315 W. Hill St., Unit B1, Louisville, KY 40208
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

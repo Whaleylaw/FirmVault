@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:5ad0fca587e3986e0ad4a41360f4fd7ebdd658cee4241a639bf6385ff0c22f9c
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 category: Insurance
 description: Personal Injury Protection (PIP) questionnaire form from Progressive requesting information about accident circumstances, injuries, emergency room treatment, and medical providers.
 entities[0]: Progressive Insurance

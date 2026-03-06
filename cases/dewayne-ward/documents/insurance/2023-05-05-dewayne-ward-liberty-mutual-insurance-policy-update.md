@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dewayn
 source_hash: sha256:2f3ffdde989f958127c4781556967c384122e73967a3873febe2b486a6a542fb
 ---
 
+**Case:** [[cases/dewayne-ward/dewayne-ward|Dewayne Ward]]
+**Client:** [[cases/dewayne-ward/contacts/dewayne-ward|Dewayne Ward]]
+
 CONTINUE TO THE NEXT PAGE
 FOR A GUIDE TO YOUR
 AUTO ENDORSEMENT

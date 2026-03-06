@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:bfde8fcb14042e94e802a56adddb48743453a52143ad0c09b6d397e98dee3d3b
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: lien_correspondence
 extraction.date: 2023-11-09
 extraction.description: Medicare motor vehicle accident claim notification for Wayne Weber dated November 9, 2023.

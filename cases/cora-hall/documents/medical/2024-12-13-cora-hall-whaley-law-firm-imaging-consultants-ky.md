@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:31a74f5dcabc0c7ca55f4e52a39197adff631203657d2a6964b6d0a76fd310f5
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 1/31/25, 1:24PM To: [PHONE-27] From: [PHONE-26] - Cora Hall Page 1/6
 Afi Management
 FACSIMILE TRANSMITTAL SHEET

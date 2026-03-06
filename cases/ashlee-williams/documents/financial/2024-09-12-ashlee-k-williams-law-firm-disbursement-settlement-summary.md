@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee
 source_hash: sha256:1bec7830586154b1bcb9e31adfdd68595e0767d68041ed9165f4ac44055280cf
 ---
 
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 Vinesign Document ID: E2DDEAB3-D935-4101-B373-390C90CAOEBF
 
 THE Aaron G. Whaley, Esq. | / l. F 712 Lyndon Lane VV LALE Y_ Louisville, KY 40222

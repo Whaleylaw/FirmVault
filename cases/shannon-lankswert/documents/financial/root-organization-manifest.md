@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:4f117552e2ce82ec6399cf791c34d0509f1404162256938f68690c9dcb7ca538
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 accident_date: 2025-02-07
 case_type: WC
 client_name: Shannon-Lankswert

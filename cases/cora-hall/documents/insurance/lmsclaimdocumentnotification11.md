@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:0f7681bc8fa04665774516750cbcdaf73285056a2a629d658f813923ceb38454
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 Subject: LMS Claim Document Notification
 From: [EMAIL-1]
 To: Sarena@WhaleyLawFirm.com

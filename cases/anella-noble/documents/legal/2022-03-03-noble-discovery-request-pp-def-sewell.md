@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:fb1465f52ef4a85ccd12d88e38c8f0559c91c2550fd148d3118569140893a27c
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 NO.  21-CI-004985JEFFERSON COUNTY CIRCUIT COURT
 
 DIVISION FIVE (5) 

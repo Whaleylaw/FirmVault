@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:8c1d00180015d7c8b5594d1ffcb389530f61aa59db5e9de36366f626bc022104
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 Subject: Cora Payne (Formerly Hall) viewed The Whaley Law Firm has requested your signature. Follow the prompts to execute the attached.
 From: [EMAIL-1]
 To: [EMAIL-2]

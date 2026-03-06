@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:ccbe25c914f600655be364746c69a4b4b6f254bd9825cbda7ed6b9ca798e4312
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: insurance_pip
 extraction.date: 2024-01-22
 extraction.description: Whaley Law Firm PIP update for Wayne Weber dated January 22, 2024.

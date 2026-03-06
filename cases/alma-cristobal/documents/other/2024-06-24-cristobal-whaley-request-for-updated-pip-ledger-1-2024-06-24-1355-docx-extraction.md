@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:9f79c96ad353b879440488de801b86e5a56ec2f64bdb143197000c866c1aa153
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 category: Insurance
 description: Request for updated PIP ledger from Whaley Law Firm
 entities[0]: Alma Cristobal

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:205f6e414a2da71b80ab4c2db843a68f73bcd5b35ab8fcee5401f0f8eface135
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 Subject: Kimberly Brasher v. Walgreens (McLean 24-CI-00012)
 From: [EMAIL-1]
 To: [EMAIL-2]

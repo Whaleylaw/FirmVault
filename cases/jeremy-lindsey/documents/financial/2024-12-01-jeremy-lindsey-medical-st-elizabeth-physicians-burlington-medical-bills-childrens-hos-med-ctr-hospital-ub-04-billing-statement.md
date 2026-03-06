@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:988ccde62b38c07433902eb67b7d99ec3cfa052b959ff1be51065b2f1963c094
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 CHILDRENS HOS MED CTR-CH /|€HIL 3a PAT. D HOS MED CTR COM 34573797080 4 TYPE OF
 CNTL # BILL
 3333 BURNET AVENUE 3337 SOLUTIONS CTR ree? (11528967 @111

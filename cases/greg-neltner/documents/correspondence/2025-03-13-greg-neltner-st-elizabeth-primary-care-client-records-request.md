@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-N
 source_hash: sha256:0a0219d379bc33a1731ba7e21a5c4a6534682e9a1a93e1413c76d14337a6bc3b
 ---
 
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 Fax Confirmation
 To: [PHONE-14] From: [PHONE-13]
 Doc:

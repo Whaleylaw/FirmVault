@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Elizab
 source_hash: sha256:fe145c36b54594c2f789c5b4a19038e5ff3c4b70c0e3bda956d5a80dafb230d5
 ---
 
+**Case:** [[cases/elizabeth-lindsey/elizabeth-lindsey|Elizabeth Lindsey]]
+**Client:** [[cases/elizabeth-lindsey/contacts/elizabeth-lindsey|Elizabeth Lindsey]]
+
 Guarantor Name: ELIZABETH M LINDSEY
 Guarantor Number: 2425455
 $939.10

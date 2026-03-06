@@ -1,8 +1,8 @@
 ---
 case_slug: caryn-mccay
-created_at: 2026-02-16 22:16:40.483000+00:00
+created_at: {}
 document_category: legal
-document_date: 2009-01-01
+document_date: {}
 document_type: legal
 extraction_method: native_text
 legacy_case_id: 2023-07-30-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-McCay-MVA-7-30-2023/Client/2023-09-20-Caryn-McCay-The-Whaley-Law-Firm-HIPAA-Authorization.pdf
 source_hash: sha256:54483610b5db989c25cff118fa1c9e8aebe7abf05974b6e0be0bf9778dd438ef
+contact: "[[cases/2023-07-30-mva-001/contacts/caryn-mccay]]"
 ---
+
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 
 CONTRACT FOR LEGAL SERVICES
 

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:fc47c233310a679a9600fd526aa53a354130cb82cf33fdd970d36db2bbc31000
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 Subject: Claim: 1724-J-054-B - Brenda Lang - [DOB-1]
 From: sarena@whaleylawfirm.com
 To: [EMAIL-2]

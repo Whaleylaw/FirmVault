@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2024-02-15-MVA-001
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-Cristobal-MVA-2-15-2024/Medical Records/UofL-Health-Mary-and-Elizabeth-Hospital/2024-02-15-Alma-Cristobal-Medical-Mary--Elizabeth-Hospital-Medical-Records-Mary--Elizabeth-Hospital-ER-Medical-Records.pdf"
 source_hash: "sha256:da16d18a35c384a3c477373d2e62ed7458b210cd7b83a6895efacafa0a43dff9"

@@ -4,6 +4,9 @@ document_category: correspondence
 legacy_case_id: 2023-10-24-PrL-001
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome-Hedinger-Premise-DB-[DOB-1]/Medical-Records/2024-03-19-Jerome-Hedinger-Jefferson-Animal-Hospital-Canine-Rory-Records-2.pdf"
 source_hash: "sha256:ecadef422a2e822217ef3a097ae8ffe109dccfef59dc5ed28df0c2b19af45147"

@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:56fb09979c72ab5d859138198cc4ffeb77e33494d535850e56d612feca003adb
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 STATE OF GEORGIA 
 COUNTY OF GLYNN 
 AFFIDAVIT OF DONNA JONES, RN 

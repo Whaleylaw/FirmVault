@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:4d9b193f5ca746759d216651fee4bf56e8b6bb5bb97041812037b1675e29b2cb
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 category: Insurance
 description: Progressive auto insurance policy declarations page showing coverage summary for policy period June 28, 2024 to December 28, 2024, including liability limits and premium information.
 entities[0]: Abdullahi Kassim

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya
 source_hash: sha256:0fcf4d5100af90880ceb0df1fae626addaf48e667ed38d01f3f57e2a160e2a04
 ---
 
+**Case:** [[cases/sariya-mason/sariya-mason|Sariya Mason]]
+**Client:** [[cases/sariya-mason/contacts/sariya-mason|Sariya Mason]]
+
 CIVIL SUMMONS
 AOC-E-105           Sum Code: CI
 Rev. 9-14

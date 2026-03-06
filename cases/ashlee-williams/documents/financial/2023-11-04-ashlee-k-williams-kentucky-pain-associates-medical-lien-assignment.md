@@ -1,6 +1,6 @@
 ---
 case_slug: ashlee-williams
-created_at: 2026-02-16 22:08:17.108000+00:00
+created_at: {}
 document_category: financial
 document_type: financial
 extraction_method: native_text
@@ -10,7 +10,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee-Williams-MVA-08-29-2023/Medical-Records/2023-11-04-Ashlee-K-Williams-Kentucky-Pain-Associates-Medical-Lien-Assignment.pdf
 source_hash: sha256:877e7c3cbe8ca9e72c6c41dd4da053231efcce67b60069ea5c93c6a91f8a2f83
+contact: "[[cases/2023-08-29-mva-001/contacts/kentucky-pain-associates]]"
 ---
+
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 
 Agreement Creating Lien and Assignment by Patient of Proceeds of Recovery
 1, ASn\ee Will GQWS (“Patient”), understand and acknowledge thatI am

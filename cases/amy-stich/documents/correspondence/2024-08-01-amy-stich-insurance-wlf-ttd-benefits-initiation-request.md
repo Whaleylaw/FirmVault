@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:aa8553a60ed05393e4a9760fcc61866888379f9c59348600aa387788052766b7
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 Subject: Re: Claim 237484CS Amy Stich Surgery Approval Request
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1], [EMAIL-2]

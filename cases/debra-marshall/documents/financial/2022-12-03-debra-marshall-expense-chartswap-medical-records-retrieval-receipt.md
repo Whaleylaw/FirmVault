@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:3ca6e8bfbc54604b0002402a8176246565b4781e586ea2a512aa2083fb9aedbe
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 Subject: ChartSwap Payment Confirmation
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

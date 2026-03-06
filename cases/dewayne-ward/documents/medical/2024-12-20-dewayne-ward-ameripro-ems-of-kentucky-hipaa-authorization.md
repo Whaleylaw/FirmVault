@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dewayn
 source_hash: sha256:8184481d8cbc8643e2a04694dd97aae482de6e66184fb462adc7b30738ade8c5
 ---
 
+**Case:** [[cases/dewayne-ward/dewayne-ward|Dewayne Ward]]
+**Client:** [[cases/dewayne-ward/contacts/dewayne-ward|Dewayne Ward]]
+
 [DOB-1]
 AmeriPro EMS of Kentucky & Indiana
 421 Gernert Court

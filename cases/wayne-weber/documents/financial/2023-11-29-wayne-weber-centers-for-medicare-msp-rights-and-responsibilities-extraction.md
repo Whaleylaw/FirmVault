@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:3012d3b48f3bbaea4e693d05ae78f4ef3fbbc203465a8a95f11bd9208e001448
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: lien
 extraction.date: 2023-11-29
 extraction.description: Centers for Medicare MSP Rights and Responsibilities document for Wayne Weber dated November 29, 2023.

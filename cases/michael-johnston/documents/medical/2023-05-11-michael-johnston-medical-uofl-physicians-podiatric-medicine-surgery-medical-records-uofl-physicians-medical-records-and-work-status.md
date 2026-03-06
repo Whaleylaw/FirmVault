@@ -2,7 +2,12 @@
 case_slug: michael-johnston
 document_category: medical
 legacy_case_id: 2023-05-03-OTH-001
+contact: "[[cases/2023-05-03-oth-001/contacts/uofl-physicians-podiatric-medicine-surgery]]"
 ---
+
+**Case:** [[cases/michael-johnston/michael-johnston|Michael Johnston]]
+**Client:** [[cases/michael-johnston/contacts/michael-johnston|Michael Johnston]]
+
 
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michael-Johnston-WC-[DOB-1]/Medical/UofL Physicians - Podiatric Medicine & Surgery/Medical Records/2023-05-11-Michael-Johnston-Medical-UofL Physicians - Podiatric Medicine & Surgery-Medical-Records-UofL-Physicians-Medical-Records-and-Work-Status.pdf"

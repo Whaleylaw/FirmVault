@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:74bcf2495c7d2cc6bbaf48befa2ba6a7f4a1b663d35184ce13fa5ce88d474d1a
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 address: 1205 Carriage Way Ct., Fairdale, KY 40118
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

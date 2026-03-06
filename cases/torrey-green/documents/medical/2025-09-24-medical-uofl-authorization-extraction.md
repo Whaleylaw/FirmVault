@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:6c7cd74b36b1f340dd43c375d22eb497c811ee7bf63751db4d61d4c9b11b322d
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 category: medical
 date: 2025-09-24
 description: Organized copy of HIPAA medical authorization form signed by Torrey Green on 9/24/2025 authorizing UofL Hospital to release all medical records to Whaley Law Firm.

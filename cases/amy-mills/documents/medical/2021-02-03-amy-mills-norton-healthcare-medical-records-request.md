@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2019-04-26-PrL-001
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-[DOB-261]/Review_Needed/2021-02-03-Amy-Mills-Norton-Healthcare-Medical-Records-Request.pdf"
 source_hash: "sha256:745fd07ba2331a99fd0c79466ed8f3c0310de86ecbd595af70fc9e44eddc17b6"

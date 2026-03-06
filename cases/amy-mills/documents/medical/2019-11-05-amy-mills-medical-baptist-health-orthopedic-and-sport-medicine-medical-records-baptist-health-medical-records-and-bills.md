@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2019-04-26-PrL-001
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-[DOB-1]/Medical/Baptist Health Orthopedic and Sport Medicine/Medical Records/2019-11-05-Amy-Mills-Medical-Baptist Health Orthopedic and Sport Medicine-Medical-Records-Baptist-Health-Medical-Records-and-Bills.pdf"
 source_hash: "sha256:02b1320bab19915281d0e01c5be98341919dc3b995acede0a3b95be0eb57b8e4"

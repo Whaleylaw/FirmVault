@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:6b7dc72eaf2805cdb54a72677c60d6f88906879cac3de191ee376d56b8dbb071
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: Litigation
 date: 2025-01-08
 description: Court pleading filed by Attorney Aaron Whaley. Filed January 8, 2025.

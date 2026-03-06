@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:9b3f677f451885c97c84fc2981fecda2385ed346bb23a3a544375246d15ebf64
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 © LexisNexis
 No. Full Name
 COMBS, MEGAN

@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:9efccc87b9fce55a761f9924fe8bfde7775a5bd7051b14bfca38f9e8151fef4b
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 item_0.address: 530 South Jackson Street, Louisville, KY 40202
 item_0.parent_facility: UofL Health – UofL Hospital Emergency Room
 item_0.phone: [PHONE-9]

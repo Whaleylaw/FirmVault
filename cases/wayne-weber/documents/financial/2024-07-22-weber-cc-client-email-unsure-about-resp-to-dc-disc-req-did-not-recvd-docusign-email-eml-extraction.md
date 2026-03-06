@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:a3e439c6c22a2f440ed19e1f0da8d3990ddbdf8ce995d6b45e6a93eb78708a99
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: client_communication
 extraction.date: 2024-07-20
 extraction.description: Email from client Wayne Weber expressing confusion about completing the 11-page accident investigation discovery request (asking for 15 years of history) and reporting inability to find the DocuSign email for medical authorization. Client authorizes continued representation.

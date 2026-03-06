@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:71f8e79fcbf94eaa22fb037274128d04afa35a3f20f7d2fd68749abd23fd93bc
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: lien
 extraction.date: 2024-07-03
 extraction.description: CMS NGHP notice of representation for Wayne Weber dated July 3, 2024.

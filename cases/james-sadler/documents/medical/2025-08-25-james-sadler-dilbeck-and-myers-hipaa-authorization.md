@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:4f82ae72e275a19b425419373695bbba506e8b9dce19913900caccbe3d6e3fa7
 ---
 
+**Case:** [[cases/james-sadler/james-sadler|James Sadler]]
+**Client:** [[cases/james-sadler/contacts/james-sadler|James Sadler]]
+
 14 
 AUTHORIZATION TO RELEASE PROTECTED HEALTH CARE INFORMATION
 TO: 

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:8a7423b97494c430a49543e6f9fc013a008bd4140f096c3ee500997996803e19
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 Electronic Signature, Participant acknowledges and agrees that by signing that they our giving
 The Whaley Law Firm permission to electronically sign their name to documents related strictly
 to case with our office, [t will act as the Participant's electronic signature to this Agreement and

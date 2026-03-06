@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:b73259ab935c234c2f157a277bc1e7912066ed228913734b7fe60027315f7b9d
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 January 25, 2021
 
 Kentucky Automobile Assigned Claims Bureau

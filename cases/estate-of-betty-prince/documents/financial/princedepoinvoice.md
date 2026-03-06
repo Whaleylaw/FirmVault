@@ -4,6 +4,9 @@ document_category: financial
 legacy_case_id: 2020-07-14-PrL-001
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate-of-Betty-Prince-Premise-7-14-2020/Bills/princedepoinvoice.eml"
 source_hash: "sha256:aa46e852b66b9f8b276c88aa18328b80e368489f734804331d93e8839727eb98"

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie
 source_hash: sha256:5bef1d7362cce1bb2afc4ad5dd7560fabb6809013255b5f81a9f03bc918eae9e
 ---
 
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 03 08 2024 Kentucky
 MVA/PC was walking\ across the highway, no cars were in sight, a car turned the corner, hit PC and kept driving.C
 chest pain

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:22bd7e6d8d3aa94a36cc99919907f0f3e025b1a5108cc324b35d968c0512c429
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 Subject: Your Mediation has been scheduled - February 25th, 2025 1:30pm
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

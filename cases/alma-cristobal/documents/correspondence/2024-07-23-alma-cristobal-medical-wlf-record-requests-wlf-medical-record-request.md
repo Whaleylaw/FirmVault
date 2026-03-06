@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:77c1a8c3602e33c319182c1846db7a183005022af3c1f3c4bd40e00417f3330f
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 = FILEVINE
 
 To: [PHONE-14] From: [PHONE-13]

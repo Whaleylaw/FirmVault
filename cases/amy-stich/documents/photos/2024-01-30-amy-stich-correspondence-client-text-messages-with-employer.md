@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:656eb4c4db2c6332c2e06b5b4b05ab497cf3c9944a9a6d1dcdd90c6b04f7023f
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Stich-WC-[DOB-1]/Correspondence/2024-01-30-Amy-Stich-Correspondence-Client-Text-Messages-With-Employer.jpg

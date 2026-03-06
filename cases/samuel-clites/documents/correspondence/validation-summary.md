@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Samuel
 source_hash: sha256:7b47018d366a012635c8a296b9ee634e6b6982fe764d787520ce0537303ae19a
 ---
 
+**Case:** [[cases/samuel-clites/samuel-clites|Samuel Clites]]
+**Client:** [[cases/samuel-clites/contacts/samuel-clites|Samuel Clites]]
+
 next_steps[0]: User review of 4 low-confidence mappings (optional but recommended)
 next_steps[1]: Verify content of [NO-DATE] files matches assigned categories if desired
 next_steps[2]: Proceed to Phase 4: Execution

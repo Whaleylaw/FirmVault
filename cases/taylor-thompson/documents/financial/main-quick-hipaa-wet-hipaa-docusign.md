@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor
 source_hash: sha256:855c972ce8292ca2de08ce77867fd6e29f20c27d106cac4f93b8213604d5c159
 ---
 
+**Case:** [[cases/taylor-thompson/taylor-thompson|Taylor Thompson]]
+**Client:** [[cases/taylor-thompson/contacts/taylor-thompson|Taylor Thompson]]
+
 ** Records Requested in Electronic Format per 45 CFR 164.524(c)(2)(ii)
 The records include, but are not limited to, the following items:
 Most Recent History and Physical All From to 

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:cc32129f8dbae5672783230b6f2a04bc5758c4b5b0fc37562287244dad94f73e
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 CASE NO. 21-CI-003798       JEFFERSON CIRCUIT COURT
 
 DIVISION ONE (1)

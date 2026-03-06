@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:d241982d8c3c99558c5e472e3ac7d0013d51d8944f3c09f440beca70845cb336
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: insurance_correspondence
 extraction.date: 2023-11-07
 extraction.description: Updated PIP ledger request sent to Kentucky Farm Bureau (KFB) regarding Wayne Weber's case on November 7, 2023.

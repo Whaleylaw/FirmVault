@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:3829c589bb2c07197a9b46a6fcc909bdbcf2c389f6de1a7c19152b48fff55a68
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 Subject: Your upcoming Deposition has been scheduled, February 12, 2025 10:00a
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

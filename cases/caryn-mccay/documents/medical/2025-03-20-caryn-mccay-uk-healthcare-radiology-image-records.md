@@ -1,11 +1,10 @@
 ---
 case_slug: caryn-mccay
-created_at: 2026-02-16 22:17:19.526000+00:00
+created_at: {}
 document_category: medical
-document_date: 2022-01-17
+document_date: {}
 document_type: medical
-entities:
-- UK HealthCare
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-07-30-MVA-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-McCay-MVA-7-30-2023/Medical/2025-03-20-Caryn-McCay-UK-HealthCare-Radiology-Image-Records.pdf
 source_hash: sha256:8aa92f63d583c8a065cfd4523e20c17ea654dca9997453d5cfedd2b701c665c7
+contact: "[[cases/2023-07-30-mva-001/contacts/caryn-mccay]]"
 ---
+
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 
 Mar.20.2025 7:07AM No.1695 PF.1
 UK HealthCare

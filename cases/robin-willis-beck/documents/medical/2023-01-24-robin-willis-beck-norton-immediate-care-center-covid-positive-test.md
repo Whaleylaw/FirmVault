@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:4aa6b8083df0c93d3746ca864293c556fed807987b9f6c51a24cfda98bb929e5
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 NORTON HEALTHCARE
 200 E Chestnut St
 LOUISVILLE KY 40202

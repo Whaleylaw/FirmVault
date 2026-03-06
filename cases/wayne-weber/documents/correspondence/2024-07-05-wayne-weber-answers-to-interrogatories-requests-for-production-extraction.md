@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:8565531a8c3a2504aca889e535eb8032b7bfba941c439382ba2a7c63f6466d76
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: litigation
 extraction.date: 2024-07-05
 extraction.description: Answers to interrogatories and requests for production for Wayne Weber dated July 5, 2024.

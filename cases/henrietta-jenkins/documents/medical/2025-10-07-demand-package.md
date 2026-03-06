@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2025-05-20-MVA-001
 ---
 
+**Case:** [[cases/henrietta-jenkins/henrietta-jenkins|Henrietta Jenkins]]
+**Client:** [[cases/henrietta-jenkins/contacts/henrietta-jenkins|Henrietta Jenkins]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Henrietta-Jenkins-MVA-5-20-2025/Negotiation Settlement/2025.10.07 Demand Package.pdf"
 source_hash: "sha256:ec4155e303a1d9e44d9840d60898c3e98fb451f7e62c78b979a0f75060e220bb"

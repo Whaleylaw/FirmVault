@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:2dc4318b5c8bbdd92aaf50aec560abed0ed2c6844d62b44552bb2d41364ed696
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 3/26/2024 11:18:23 CDT.
 LIN-VET
 4.

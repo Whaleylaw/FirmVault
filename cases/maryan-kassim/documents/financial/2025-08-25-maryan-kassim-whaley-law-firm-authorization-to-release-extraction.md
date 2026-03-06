@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:cd235fcb1a754f03878cd6ab405a5733bf149fae3298dbfee174cd252798d49d
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 category: Client
 description: Authorization form for Whaley Law Firm to release employment documents including wage and salary verification for Kentucky No-Fault benefits determination.
 entities[0]: Maryan Kassim

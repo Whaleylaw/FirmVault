@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Deanna
 source_hash: sha256:87c5ee58ca4f9180d19cc240eac258a8da0c924032b4d4dadf91b8b75ece00dd
 ---
 
+**Case:** [[cases/deanna-jones/deanna-jones|Deanna Jones]]
+**Client:** [[cases/deanna-jones/contacts/deanna-jones|Deanna Jones]]
+
 item_0.address: 4107 Taylor Blvd, Louisville, KY 40215
 item_0.fax: [PHONE-5]
 item_0.phone: [PHONE-4]

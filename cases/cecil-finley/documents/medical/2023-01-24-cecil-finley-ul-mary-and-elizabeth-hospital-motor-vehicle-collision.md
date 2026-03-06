@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2024-01-24-MVA-001
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-Finley-MVA-1-24-2024/Medical-Records/2023-01-24-Cecil-Finley-UL-Mary-and-Elizabeth-Hospital-Motor-Vehicle-Collision.pdf"
 source_hash: "sha256:4bc03b0df397f740dbbaa093c806e024019cd31b84a64adcdf9c82f8b2d40bab"

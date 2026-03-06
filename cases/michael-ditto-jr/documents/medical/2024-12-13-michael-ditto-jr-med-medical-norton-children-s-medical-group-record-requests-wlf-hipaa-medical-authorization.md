@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:60d73dde651f1ef7f54bc4675865151267909a7d85dc65c1cc29d4abcdaf44c5
 ---
 
+**Case:** [[cases/michael-ditto-jr/michael-ditto-jr|Michael Ditto Jr]]
+**Client:** [[cases/michael-ditto-jr/contacts/michael-ditto-jr|Michael Ditto Jr]]
+
 ***-**-3148
 Norton Children’s Medical Group
 9702 Stonestreet Road #100

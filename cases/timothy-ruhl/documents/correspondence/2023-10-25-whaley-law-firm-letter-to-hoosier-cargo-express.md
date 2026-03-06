@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:b674bb7d78fc945e6555dc71ae477af64b0fb167b84d5bcde65c6f3dcebffb31
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 wll. 4 enc
 “LAW GROUN,
 October. 25, 2023

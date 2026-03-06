@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:3c8feef0ed72b4babb167c7eb5d8bb219e7c639bdd2dfdfbc64902426c52009b
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 CERTIFICATION OF MEDICAL RECORDS AFFIDAVIT
 .being first duly swom onhis/her oath, says that:
 (Name of Yecords custodian/clerk)

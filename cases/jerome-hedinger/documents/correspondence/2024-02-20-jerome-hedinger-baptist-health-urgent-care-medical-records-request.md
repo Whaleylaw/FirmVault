@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:038d4d57eb0c469031c58b4f2b25218ca3aeddbbb4018014f85d67ae2330ee93
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 3rd Request - Please Expedite
 Aaron G. Whaley, Esq.
 712 Lyndon Lane

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:48b87e2bef2ba658b266ddb50fd1e5a0637647a0a57730ed3140ed5a96cb89a9
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: Re: Evidence.com - Evidence Download Link
 From: sarena@whaleylawfirm.com
 To: [EMAIL-19]

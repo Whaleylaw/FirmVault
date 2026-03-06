@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:559b2931ad1e1767d6a0a75812b61b6f23853aa0c1fc287c8cea2e2cedec662c
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 Subject: Delivery Status Notification (Failure)
 From: [EMAIL-2]
 To: sarena@whaleylawfirm.com

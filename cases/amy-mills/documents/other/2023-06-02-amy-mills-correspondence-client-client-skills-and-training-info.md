@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:5c20524afb820f6f45b4ecfe7c21e1fd942df2a303f6760d16f99d5155d2cf1c
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Subject: Fwd: Skills and training for WLF to send in a emial
 From: sarena@whaleylawfirm.com
 To: [EMAIL-6]

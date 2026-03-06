@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:2d40f02291b7c320824f6b37d91d77170c115b9804b5e07b3adf7e3af5623b1b
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 Subject: Cora Hall viewed Thank you for Choosing The Whaley Law Firm
 From: [EMAIL-2]
 To: [EMAIL-2]

@@ -1,8 +1,8 @@
 ---
 case_slug: julmonzhae-moore
-created_at: 2026-02-16 23:59:37.360000+00:00
+created_at: {}
 document_category: medical
-document_date: 2004-05-28
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2023-08-29-MVA-003
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmonzhae-Moore-MVA-8-29-2023/Correspondence/2024-11-26-Julmonzhae-Moore-Virtual-Radiologic-Professionals-Medical-Records-Release.pdf
 source_hash: sha256:80aa0bd63cf132bcbddef57b8c9a947dd7c57251ffacee39eb6cb43389a12310
+contact: "[[cases/2023-08-29-mva-003/contacts/virtual-radiologic-professionals]]"
 ---
+
+**Case:** [[cases/julmonzhae-moore/julmonzhae-moore|Julmonzhae Moore]]
+**Client:** [[cases/julmonzhae-moore/contacts/julmonzhae-moore|Julmonzhae Moore]]
+
 
 Julmonzhae Moore
 [DOB-1]

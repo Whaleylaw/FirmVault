@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/France
 source_hash: sha256:f1bee4c4eb155bff185eb7e2128d7b3246486c0d837f37fa5e09a29c4d5040c2
 ---
 
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 Subject: Fwd: Progressive claim 24-[POLICY-1] Direction of Benefits
 From: [EMAIL-8]
 To: Sarena@whaleylawfirm.com

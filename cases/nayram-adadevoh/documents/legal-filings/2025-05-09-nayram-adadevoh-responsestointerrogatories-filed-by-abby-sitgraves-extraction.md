@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:38f96dc7af6c3989025950eabe7a4d4eec3bf336a47fd6cb3c0b60d84575db83
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: legal_document
 date: 2025-05-09
 description: Responses to interrogatories filed by Abby Sitgraves dated May 9, 2025.

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nicole
 source_hash: sha256:4d267bf68bd21fca5aaf4b4690a319ef76d94733daba53713d6edcc0e558f3a1
 ---
 
+**Case:** [[cases/nicole-tewes/nicole-tewes|Nicole Tewes]]
+**Client:** [[cases/nicole-tewes/contacts/nicole-tewes|Nicole Tewes]]
+
 Aaron G. Whaley, Esq.
 
 712 Lyndon Lane

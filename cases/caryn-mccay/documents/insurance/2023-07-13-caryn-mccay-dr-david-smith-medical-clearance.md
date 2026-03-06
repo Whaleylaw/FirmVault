@@ -1,6 +1,6 @@
 ---
 case_slug: caryn-mccay
-created_at: 2026-02-16 22:16:52.854000+00:00
+created_at: {}
 document_category: insurance
 document_type: insurance
 extraction_method: native_text
@@ -10,7 +10,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-McCay-MVA-7-30-2023/Medical/2023-07-13-Caryn-McCay-Dr-David-Smith-Medical-Clearance.pdf
 source_hash: sha256:0cb9f63ca0960624892fecd8d33356e40f908d6660fb4f4347268a4a772c5caa
+contact: "[[cases/2023-07-30-mva-001/contacts/caryn-mccay]]"
 ---
+
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 
 el 0000010
 

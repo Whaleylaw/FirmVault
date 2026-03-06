@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:dcb48e6330898c51c7791c3e999cc39858cae8621744df8cc11d4546b148d24c
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: legal_document
 date: 2024-01-08
 description: Affidavit for Warning Order Attorney filed by Plaintiffs dated January 8, 2024.

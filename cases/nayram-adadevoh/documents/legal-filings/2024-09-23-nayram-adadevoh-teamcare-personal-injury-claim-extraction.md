@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:d6b42f63b0d3b29d3cc18b0ee1548d05f799ad803da40405047ad15a34516b04
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: insurance_claim
 date: 2024-09-23
 description: Personal injury claim filed with TeamCare dated September 23, 2024.

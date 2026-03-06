@@ -1,8 +1,8 @@
 ---
 case_slug: estate-of-betty-prince
-created_at: 2026-02-16 23:40:39.736000+00:00
+created_at: {}
 document_category: financial
-document_date: 2020-07-16
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2020-07-14-PrL-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate-of-Betty-Prince-Premise-7-14-2020/Pleadings/2020-07-23-Robert-Prince-Kindred-at-Home-Home-Health-Services.pdf
 source_hash: sha256:aabfee94949f0d72f2138656f1d647355c3cd435fa2564b09cbce1973171adc5
+contact: "[[cases/2020-07-14-prl-001/contacts/kindred-at-home]]"
 ---
+
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 
 ' KINDREDATHOME ’KINDRED AT HOME - dine | 1696757
 140 STONECREST ROAD, 203 P.O.BOX 99767 recs | B3600047293201 - | 329

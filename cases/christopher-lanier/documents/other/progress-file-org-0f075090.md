@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:ae56e6e6ded716d90a953bf2a46cf0565227593280fb6c265a54eb029b3d8de2
 ---
 
+**Case:** [[cases/christopher-lanier/christopher-lanier|Christopher Lanier]]
+**Client:** [[cases/christopher-lanier/contacts/christopher-lanier|Christopher Lanier]]
+
 case_folder: Christopher-Lanier-MVA-6-28-2025
 job_id: file-org-0f075090
 phases.execution.completed_at: 2026-02-04T02:13:43.028476

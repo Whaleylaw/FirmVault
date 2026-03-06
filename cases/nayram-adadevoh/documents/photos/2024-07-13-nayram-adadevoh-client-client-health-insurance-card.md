@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:d172e70b6a7d13536b251be473c52f27c032e5c91212ce0639eb4d2e63a4c1d9
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram-Adadevoh-MVA-7-13-2024/Client/2024-07-13-Nayram-Adadevoh-Client-Client-Health-Insurance-Card.jpg

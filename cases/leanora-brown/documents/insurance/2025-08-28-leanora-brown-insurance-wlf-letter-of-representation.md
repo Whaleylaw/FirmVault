@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Leanor
 source_hash: sha256:33b5a453b8aae9fe75506992d673a6c2fa5d9b9d43d51517dd696a7d011d3e32
 ---
 
+**Case:** [[cases/leanora-brown/leanora-brown|Leanora Brown]]
+**Client:** [[cases/leanora-brown/contacts/leanora-brown|Leanora Brown]]
+
 Justin Chumbley 
 Justin Chumbley
 NN Aaron G. Whaley, Esq.

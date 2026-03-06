@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Connie
 source_hash: sha256:6e92192475556b72894a374eb900abb8ae246e3c2dc326f0a7abe41362117dc6
 ---
 
+**Case:** [[cases/connie-goree/connie-goree|Connie Goree]]
+**Client:** [[cases/connie-goree/contacts/connie-goree|Connie Goree]]
+
 Table of Contents
 
 CCC-DigitalImage-09162024-000768865107D01-

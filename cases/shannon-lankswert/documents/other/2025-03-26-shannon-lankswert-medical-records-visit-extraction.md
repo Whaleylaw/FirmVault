@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:24ef654ca5e7f6bf95d87547f64b89a868505cb3da84748c10940646136a956f
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 extraction.category: Medical
 extraction.date: 2025-03-26
 extraction.description: Medical records visit documentation dated [DOB-1]. Document appears to be a form with medical information

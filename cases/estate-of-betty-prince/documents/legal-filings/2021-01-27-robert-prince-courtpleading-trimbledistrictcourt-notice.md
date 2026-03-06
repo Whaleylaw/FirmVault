@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:f0f68f49b0060b1c33c0cf627997b74a4247eebd7704cbff4cd7cd8baed63fc3
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 FILED
 STACY M. BRUNER, CIRCUIT CLERK’ COURT NOTICE
 Case No.: 21-P-00027_ | ESTATE - BETTY PRINCE

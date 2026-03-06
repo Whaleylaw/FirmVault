@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:213bf68783831bcdcb06cc93b41181bedb7542c8a5942d95747ec29126cedb99
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 9960 Corporate Campus Drive  Suite 1400  Louisville, KY 40223 [PHONE-33]  Fax [PHONE-32]  1.[PHONE-31] clearpathmutual.com
 March 06, 2024
 The Whaley Law Firm

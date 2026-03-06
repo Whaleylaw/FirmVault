@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:65c44c4ed121b4fafa916ac1b96242b19dcff11bf23a726c248937c50985c246
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 [PHONE-110]
 Rawlings Company LLC POST OFFICE BOX 2000
 Subrogation Division LAGRANGE, KENTUCKY 40031-2000

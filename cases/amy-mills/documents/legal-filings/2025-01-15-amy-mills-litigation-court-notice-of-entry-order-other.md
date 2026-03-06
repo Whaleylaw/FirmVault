@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:be6fc7f8b33120854e59a437f43e904efea700300c78b15ba2041799ae8771b1
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Subject: NOTICE OF ENTRY  KNOX 20-CI-00112, MILLS , AMY VS. FORCHT BANK Envelope # 9652448
 From: [EMAIL-7]
 To: [EMAIL-6], Sarena@WhaleyLawFirm.com, [EMAIL-5]

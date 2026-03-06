@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:758994f8f62a3701d007e23b0cae9dfa18b1f2ef223db4d331707d8d7eb3e110
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 NI] ;
 AFTER VISIT SUMMARY Zr BAPTIST HEALTH
 Timothy Ruhl "TIM" men: [PHONE-17]

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/France
 source_hash: sha256:b5a9230f6e5831e07f3453635179be6ba0ea86cf1f483c7bfc85bff9f3b6a55f
 ---
 
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 COMMONWEALTH OF KENTUCKY
 OFFICE OF WORKERS’ CLAIMS
 CLAIM NO. 2024-01285

@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:17435b2bcf6e4f158b462ac97436fb3054dea50660858e82af79342c8c2f8113
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 Subject: Certified Medical Records & Billing Request - Shannon Lankswert - DOB [DOB-1]
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:670618717c9a8962018564c054e22524a591014011d8ce9d9bc9a4ff8e34a6dd
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 content_length_chars: 4400
 document_metadata.quality_score: 1.0
 document_metadata.title: Case Organization Index

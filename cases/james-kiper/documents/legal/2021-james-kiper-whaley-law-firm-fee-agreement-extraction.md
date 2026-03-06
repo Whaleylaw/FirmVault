@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:697ab5ea17796b06c5b13cd2324c98a70e56890ed70f0d872ed70490376c02fb
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 category: Fee Agreement
 document_date: 2021
 entities.attorney: Aaron G. Whaley, Esq.

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:b5533083b7732920aeb681486791f4a28508446f74566b3716cf1409268aa84b
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 category: Expert Report
 document_date: 2023-06-08
 entities.case_numbers[0]: IZX7996000

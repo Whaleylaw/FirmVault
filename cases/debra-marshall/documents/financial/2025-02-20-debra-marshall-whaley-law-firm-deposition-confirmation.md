@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:25a476bdc999aacbd312f77ea38c5984cce2e3af246b72734ec2475c00e53c9a
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 Confirmation Kentuckiana Reporters
 P.O. Box 3983
 Louisville, KY 40201

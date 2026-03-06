@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:d79806cbe677e2ad7115c4b216fa648b4998f61885ccccf94e81fd7802a22779
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 From: Jessa Galosmo Fax: 15023579939 To: Fax: [PHONE-1] Page: 1 of 2 [DOB-2] 9:51 AM
 Aaron G. Whaley, Esq.
 712 Lyndon Lane

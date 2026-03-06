@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:1e60c83fc9b1617c4e9817d4bd584cc25435424faa80165f979fb9057bc56955
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 8
 Kentucky Farm Bureau Insurance Company
 9201 Bunsen Parkway

@@ -1,8 +1,8 @@
 ---
 case_slug: robin-willis-beck
-created_at: 2026-02-17 00:17:11.666000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1977-07-27
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2023-09-21-PrL-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-Willis-Beck-Premise-09-21-2023/Medical-Records/2024-04-03-Robin-Willis-Beck-Diagnostic-X-Ray-Physicians-Medical-Records-Request.pdf
 source_hash: sha256:3ac9b6334e7425c5373341ed3a5b59fe3e6a4fd9c92325e37e7c47b7e22d724f
+contact: "[[cases/2023-09-21-prl-001/contacts/diagnostic-x-ray-physicians]]"
 ---
+
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Collee
 source_hash: sha256:644669b2b971c2e23fe2a3a6007a8de5066737c62ee1f875568aa84f769a069e
 ---
 
+**Case:** [[cases/colleen-colvin/colleen-colvin|Colleen Colvin]]
+**Client:** [[cases/colleen-colvin/contacts/colleen-colvin|Colleen Colvin]]
+
 January 31, 2024
 Whaley Law Firm
 712 Lyndon Ln

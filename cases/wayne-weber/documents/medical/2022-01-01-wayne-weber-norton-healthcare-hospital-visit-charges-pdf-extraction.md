@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:e17c341e41ab88756f5b8753af23c5aee028bb66324c15dbf9e22c44786d4fb5
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: medical_billing
 extraction.date: 2022-01-01
 extraction.description: Hospital visit charges from Norton Healthcare for patient Wayne Weber dated January 1, 2022.

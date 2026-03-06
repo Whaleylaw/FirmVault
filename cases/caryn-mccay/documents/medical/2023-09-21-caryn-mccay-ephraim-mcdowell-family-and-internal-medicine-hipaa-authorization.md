@@ -1,8 +1,8 @@
 ---
 case_slug: caryn-mccay
-created_at: 2026-02-16 22:16:55.756000+00:00
+created_at: {}
 document_category: medical
-document_date: 1972-11-30
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2023-07-30-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-McCay-MVA-7-30-2023/Medical/2023-09-21-Caryn-McCay-Ephraim-McDowell-Family-and-Internal-Medicine-HIPAA-Authorization.pdf
 source_hash: sha256:1fcda5754109f04f78304a8838e2f3002c76ef0f5927ae86c05fb2e0f214f813
+contact: "[[cases/2023-07-30-mva-001/contacts/caryn-mccay]]"
 ---
+
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 
 AUTHORIZATION TO RELEASE PROTECTED HEALTH CARE INFOR.MATION 
 TO:

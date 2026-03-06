@@ -1,21 +1,23 @@
 ---
 case_slug: muhammad-alif
-created_at: 2026-02-17 00:11:34.590000+00:00
+created_at: {}
 document_category: financial
-document_date: 1961-04-16
+document_date: {}
 document_type: financial
-entities:
-- Parkridge Medical Center
+entities: null
 extraction_method: native_text
 legacy_case_id: 2022-11-08-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Parkridge
-  Medical Center/Medical Bills/2022-11-22-Muhammad-Alif-Medical-Parkridge Medical
-  Center-Medical-Bills-Parkridge-Medical-Center-Medical-Bills-and-Records-Request.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Parkridge Medical Center/Medical Bills/2022-11-22-Muhammad-Alif-Medical-Parkridge Medical Center-Medical-Bills-Parkridge-Medical-Center-Medical-Bills-and-Records-Request.pdf
 source_hash: sha256:87afb52de06e1ca1b964162c874b6bd41065a01492b6c3b44b5e62d296b3e1e9
+contact: "[[cases/2022-11-08-mva-001/contacts/parkridge-medical-center]]"
 ---
+
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 
 datavant I
 TA/HAUY LAW FIRM

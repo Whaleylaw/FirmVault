@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:d80221926f541a8e675c4c50514670415729ed50764403f23ce35723b3bbc836
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: litigation
 extraction.date: 2023-12-28
 extraction.description: Discovery requests from plaintiff to defendant Fenwick in the Wayne Weber case, dated December 28, 2023.

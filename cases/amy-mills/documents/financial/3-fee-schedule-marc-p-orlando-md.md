@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:1b8cc58748effbdd035661680f6c4def9aae0a14543edff76b9dfea3c96c4b09
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 ![A picture containing text, clipart&#xA;&#xA;Description automatically generated](image_0)
 
 <u>**Fee Schedule**</u>

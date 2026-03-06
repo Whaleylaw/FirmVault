@@ -1,11 +1,10 @@
 ---
 case_slug: colleen-colvin
-created_at: 2026-02-16 22:28:32.177000+00:00
+created_at: {}
 document_category: insurance
-document_date: 2023-10-01
+document_date: {}
 document_type: insurance
-entities:
-- State Farm
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-10-01-MVA-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Colleen-Colvin-MVA-10-01-2023/Insurance/2023-11-08-Colleen-M-Colvin-State-Farm-PIP-Team-Notice-of-Representation.pdf
 source_hash: sha256:c717b4dec7610f08d7bf7fe133e1bb8bf4b405c2a18099466b875b84f71ee534
+contact: "[[cases/2023-10-01-mva-001/contacts/state-farm-pip-team]]"
 ---
+
+**Case:** [[cases/colleen-colvin/colleen-colvin|Colleen Colvin]]
+**Client:** [[cases/colleen-colvin/contacts/colleen-colvin|Colleen Colvin]]
+
 
 Aaron G. Whaley, Esq.
 712 Lyndon Lane

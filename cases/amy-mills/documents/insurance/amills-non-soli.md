@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:9e9e2f54eca1a93b00f58bf7bec0e0a4999865b20d3320996b9f4de38b4dd42b
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 VASA, | Y 4 ‘ Be ae am |
 
 Naron Gy. Whales. Psy.

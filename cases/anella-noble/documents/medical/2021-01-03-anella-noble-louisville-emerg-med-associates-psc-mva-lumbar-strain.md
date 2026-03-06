@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2021-01-03-MVA-001
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella-Noble-MVA-[DOB-1]/Medical-Records/2021-01-03-Anella-Noble-Louisville-Emerg-Med-Associates-PSC-MVA-Lumbar-Strain.pdf"
 source_hash: "sha256:f44ac6856daae2fd76228d984b728ecc22257d3bf4d6fcac46abc2200267c033"

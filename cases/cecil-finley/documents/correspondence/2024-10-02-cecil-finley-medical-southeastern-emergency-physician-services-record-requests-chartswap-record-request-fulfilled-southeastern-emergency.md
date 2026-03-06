@@ -1,6 +1,6 @@
 ---
 case_slug: cecil-finley
-created_at: 2026-02-16 22:20:38.833000+00:00
+created_at: {}
 document_category: correspondence
 document_type: correspondence
 extraction_method: native_text
@@ -8,11 +8,14 @@ legacy_case_id: 2024-01-24-MVA-001
 mime_type: message/rfc822
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-Finley-MVA-1-24-2024/Medical/Southeastern
-  Emergency Physician Services/Record Requests/2024-10-02-Cecil-Finley-Medical-Southeastern
-  Emergency Physician Services-Record-Requests-Chartswap-Record-Request-Fulfilled-Southeastern-Emergency.eml
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-Finley-MVA-1-24-2024/Medical/Southeastern Emergency Physician Services/Record Requests/2024-10-02-Cecil-Finley-Medical-Southeastern Emergency Physician Services-Record-Requests-Chartswap-Record-Request-Fulfilled-Southeastern-Emergency.eml
 source_hash: sha256:ccef87c4553474468b9f67eef240e0361b1c4e24ac1629e1016d21d14957f3bc
+contact: "[[cases/2024-01-24-mva-001/contacts/southeastern-emergency-physician-services]]"
 ---
+
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 
 Subject: Your Record Request Has Been Fulfilled
 From: [EMAIL-2]

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cynthi
 source_hash: sha256:1e4014b31d38262b716f149d3e8ed9fe53d7996c615930f5260d6e2b255a6b28
 ---
 
+**Case:** [[cases/cynthia-gibson/cynthia-gibson|Cynthia Gibson]]
+**Client:** [[cases/cynthia-gibson/contacts/cynthia-gibson|Cynthia Gibson]]
+
 State Farm Mutual Automobile Insurance Company
 
 PO Box 2358 Bloomington IL 61702-2358

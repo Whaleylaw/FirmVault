@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cynthi
 source_hash: sha256:b469b2ef8214882d0d259f07f76d55e1943b7e99b87f601af9f5e4bea7d18639
 ---
 
+**Case:** [[cases/cynthia-gibson/cynthia-gibson|Cynthia Gibson]]
+**Client:** [[cases/cynthia-gibson/contacts/cynthia-gibson|Cynthia Gibson]]
+
 *** ELECTRONIC MEDICAL BILL ***
 Bill Received Date: 20250811163206 
 Page: 1 of 11 

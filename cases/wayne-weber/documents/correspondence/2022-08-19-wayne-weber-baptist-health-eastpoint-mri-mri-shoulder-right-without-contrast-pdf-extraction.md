@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:71537798bdf551a38cd45249940fe16107aca46b2e3c0cc080ce95be68412092
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: medical_records
 extraction.date: 2022-08-19
 extraction.description: MRI imaging of right shoulder without contrast performed at Baptist Health Eastpoint for Wayne Weber.

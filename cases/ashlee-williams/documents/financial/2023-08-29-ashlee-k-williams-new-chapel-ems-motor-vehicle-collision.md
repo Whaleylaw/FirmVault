@@ -2,7 +2,12 @@
 case_slug: ashlee-williams
 document_category: financial
 legacy_case_id: 2023-08-29-MVA-001
+contact: "[[cases/2023-08-29-mva-001/contacts/new-chapel-ems]]"
 ---
+
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee-Williams-MVA-[DOB-1]/Medical-Records/2023-08-29-Ashlee-K-Williams-New-Chapel-EMS-Motor-Vehicle-Collision.pdf"

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:584ebb56173d14c74ae07951a265ea08d6c0b8fdfb7be96b42e0de1e259f027f
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 batch_number: 5
 count: 20
 files[0]: 2021-12-01-Anella-Noble-Whaley-Law-Firm-Revised-Direction-Pay.pdf

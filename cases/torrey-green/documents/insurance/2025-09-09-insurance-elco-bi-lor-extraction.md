@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:7b7caf1dda07d226f20f0df517b51c604f17873628223945d91cbceb1bcc6a45
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 category: insurance
 date: 2025-09-09
 description: Organized copy of BI Letter of Representation to Elco Insurance dated September 9, 2025. Requests policy information and coverage details.

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Lejzan
 source_hash: sha256:e158fbda206c80955d2d41af7f67cee3e0e31796b444988359af75d8a15525dc
 ---
 
+**Case:** [[cases/lejzane-miftari/lejzane-miftari|Lejzane Miftari]]
+**Client:** [[cases/lejzane-miftari/contacts/lejzane-miftari|Lejzane Miftari]]
+
 accident_date: 2025-06-18
 case_type: MVA
 client_name: Lejzane-Miftari

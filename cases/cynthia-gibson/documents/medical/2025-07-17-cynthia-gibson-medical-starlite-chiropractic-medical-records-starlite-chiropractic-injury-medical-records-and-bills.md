@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cynthi
 source_hash: sha256:25e23d0b365018ca815deb68ac903e64771d45d5960ba6d86ddbddd19e941dcc
 ---
 
+**Case:** [[cases/cynthia-gibson/cynthia-gibson|Cynthia Gibson]]
+**Client:** [[cases/cynthia-gibson/contacts/cynthia-gibson|Cynthia Gibson]]
+
 Nov. 05.2025 12:35 PM Tri-State [PHONE-128] P 1/32
 AX To: Wholey
 Fax number: [PHONE-127]

@@ -1,20 +1,23 @@
 ---
 case_slug: abigail-whaley
-created_at: 2026-02-16 19:48:11.656000+00:00
+created_at: {}
 document_category: insurance
-document_date: 2024-10-24
+document_date: {}
 document_type: insurance
-entities:
-- American Family
+entities: null
 extraction_method: native_text
 legacy_case_id: 2024-10-24-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Abigail-Whaley-MVA-10-24-2024/Insurance/2024-10-24
-  - Abigail Whaley - Insurance - American Family Insurance - Defendant Policy Declaration.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Abigail-Whaley-MVA-10-24-2024/Insurance/2024-10-24 - Abigail Whaley - Insurance - American Family Insurance - Defendant Policy Declaration.pdf
 source_hash: sha256:fc21b1525d77a4de210c88cb90ad4e66baa102394076504b2ebc214d440198ac
+contact: "[[cases/2024-10-24-mva-001/contacts/american-family-insurance]]"
 ---
+
+**Case:** [[cases/abigail-whaley/abigail-whaley|Abigail Whaley]]
+**Client:** [[cases/abigail-whaley/contacts/abigail-whaley|Abigail Whaley]]
+
 
 AFFIDAVIT
 

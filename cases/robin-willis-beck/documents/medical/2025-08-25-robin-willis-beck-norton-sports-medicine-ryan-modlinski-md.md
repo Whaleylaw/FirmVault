@@ -22,6 +22,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:90924520419e4ed0e6b1b14cefd3461c87f27f387049dc4555c7c0dccc8b9400
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 Rosenburg Reyes MD
 Family Physician
 320West Woodlawn Ave

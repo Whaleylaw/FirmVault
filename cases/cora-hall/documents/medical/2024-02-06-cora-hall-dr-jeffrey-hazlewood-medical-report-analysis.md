@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2022-12-05-OTH-001
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-Hall-WC-[DOB-1]/Medical/2024-02-06-Cora-Hall-Dr-Jeffrey-Hazlewood-Medical-Report-Analysis.pdf"
 source_hash: "sha256:05c53afb2ff26c94dc30b38ba39542b62008f07512ae6838a26ebd6f2e21bb17"

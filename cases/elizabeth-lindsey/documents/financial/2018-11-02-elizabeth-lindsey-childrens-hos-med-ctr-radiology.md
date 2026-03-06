@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Elizab
 source_hash: sha256:8fe9334ea6ac831756adbf5b904ebf0a2838e909d6a9f07aa08bad5aa8872f4f
 ---
 
+**Case:** [[cases/elizabeth-lindsey/elizabeth-lindsey|Elizabeth Lindsey]]
+**Client:** [[cases/elizabeth-lindsey/contacts/elizabeth-lindsey|Elizabeth Lindsey]]
+
 o > CHILDRENS HOS MED CTR-CH [CHILD HOS MED CTR COM am! [PHONE-2] ae
 3333 BURNET AVENUE 3337 SOLUTIONS CTR Rees (11772261 @131
 CINCINNATI OH 452293039 |CHICAGO IL 60677303 _|5FED.TAXNO. SIO AMENT COVERS PERIOD 7

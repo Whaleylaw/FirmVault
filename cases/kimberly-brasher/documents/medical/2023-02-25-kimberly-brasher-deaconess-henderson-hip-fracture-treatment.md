@@ -19,6 +19,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:5cc91a3e2f12a906f388decc3c9d36e13a1fd073f671f0b1943115f9be464af4
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 DOS Provider Notes Referred Billing 
 2/25/2023 Deaconess Henderson
 ***In-Patient Until [DOB-12]*** Hx of Iron Deficiency Anemia (Gastric Sleeve Sx) & Migraines 

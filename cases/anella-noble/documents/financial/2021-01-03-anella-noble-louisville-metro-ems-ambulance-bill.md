@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:4663147be11dab4567243958cdd64f5e4d9f6b078ef06f1cd857f40b76afc019
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Louisville Metro EMS
 P.O. Box 34338
 Louisville, KY 40232-4338

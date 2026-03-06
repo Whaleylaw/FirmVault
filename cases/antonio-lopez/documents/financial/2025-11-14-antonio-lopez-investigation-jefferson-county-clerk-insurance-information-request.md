@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Antoni
 source_hash: sha256:d3af414a72d5a4c684f0d1cc4f74dc3cbc9bea81b995dbb2b238db55e17040f0
 ---
 
+**Case:** [[cases/antonio-lopez/antonio-lopez|Antonio Lopez]]
+**Client:** [[cases/antonio-lopez/contacts/antonio-lopez|Antonio Lopez]]
+
 57.7 WEST J,-,11,BR!K)N 9TRE&'l 
 LOU!!iVli,LE, Ka�TUCI(Y 40202 
 11r1 I l. I II\.• 

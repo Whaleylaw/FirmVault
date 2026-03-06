@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-
 source_hash: sha256:4502d27e1f0a8e88a571256b826ff41416bd5ec0979d15199c13faf898402552
 ---
 
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 case_folder: Caryn-McCay-MVA-7-30-2023
 job_id: extraction-agent-4
 phases.extraction.notes: Extracted 10/40 files successfully. Processing settlement and insurance correspondence files.

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Connie
 source_hash: sha256:c97628151f85a26b6acae3a6c3d271841eed37b6602a26552e234e5fa69afec0
 ---
 
+**Case:** [[cases/connie-goree/connie-goree|Connie Goree]]
+**Client:** [[cases/connie-goree/contacts/connie-goree|Connie Goree]]
+
 item_0.jsonb_agg[0].address: 1204 Moon Rise Way
 item_0.jsonb_agg[0].full_name: Connie Goree
 item_0.jsonb_agg[0].phone: [PHONE-1]

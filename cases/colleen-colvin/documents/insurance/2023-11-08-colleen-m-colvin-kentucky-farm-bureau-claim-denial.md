@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Collee
 source_hash: sha256:5e722ba3746dcca417c862dd9dc5e1b28ce8e2daf96ba2266aba535bd73c7aec
 ---
 
+**Case:** [[cases/colleen-colvin/colleen-colvin|Colleen Colvin]]
+**Client:** [[cases/colleen-colvin/contacts/colleen-colvin|Colleen Colvin]]
+
 Kentucky Farm Bureau
 Mutual Insurance Company
 November 8, 2023

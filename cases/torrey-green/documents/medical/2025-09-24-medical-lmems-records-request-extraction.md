@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:efb7a6ea00f893f6de2baf0190e448cffc46b4b39268321e6614bbb0dec04388
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 category: medical
 date: 2025-09-24
 description: Organized copy of medical records request to Louisville Metro EMS dated September 24, 2025 for all EMS records from emergency transport on 9/3/2025.

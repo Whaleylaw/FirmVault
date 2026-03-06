@@ -4,6 +4,9 @@ document_category: correspondence
 legacy_case_id: 2020-07-14-PrL-001
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate-of-Betty-Prince-Premise-7-14-2020/Medical/2025.03.27-Prince-Nurse-Jones-Request-for-Confirmation-of-Depo-Dates-Has-other-commitments-waiting.eml"
 source_hash: "sha256:1794606f989eb3b953e8b56c2a0dd182aeaeb182d8f00e96470f60fb0cbf6ed9"

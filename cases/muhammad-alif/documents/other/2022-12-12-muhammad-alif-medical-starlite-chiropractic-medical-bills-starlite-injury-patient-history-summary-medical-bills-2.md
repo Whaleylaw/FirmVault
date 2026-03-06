@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:520fae41785c949d713530f6b282252817a13452d104c3b0b121b65cf0e8f7cd
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 O2/07/2023 10:124M [PHONE-16] STARLITE PAGE 02
 gegf c “ow wo fw wow ww ww ow BB Be o F 3 45 29 27a #888388888828338 ly 8 Bee E Ee
 a cc £EFESRE SES SR SR RES SE » &§ 2 23 a 8 8 BS B a 3 B gon 2 3 a

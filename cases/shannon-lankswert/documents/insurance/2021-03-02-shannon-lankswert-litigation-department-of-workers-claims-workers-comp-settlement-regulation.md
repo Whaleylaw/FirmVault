@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:af404aa0eb44e0e1c64d1722965a2b46bf0f9df3278f3450e3770bffa1c61b34
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 Title 803 | Chapter 025 | Regulation 240
 803 KAR 25:240. Workers’ compensation unfair claims settlement practices.
 RELATES TO: KRS 304.12-230, 342.267, 342.610(7)

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:1f433fd46e9e7d207b41a3aa37a9e1978b326d9e0d1749ad65156b32c0232dc2
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 Subject: RE: Cora Hall - MRI C-Spine
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

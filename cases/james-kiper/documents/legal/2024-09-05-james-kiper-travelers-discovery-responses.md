@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:60b9baf67aa586ecf816772dc5e9a88f22a17410743a89bf0f30cd9afa744e5d
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 VERIFICATION
 The information provided in the foregoing Answers and Responses of Travelers to 
 discovery requests propounded by Plaintiff are true and correct to the best of my knowledge and 

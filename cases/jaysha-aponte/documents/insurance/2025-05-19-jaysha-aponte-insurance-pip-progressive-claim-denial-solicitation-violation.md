@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jaysha
 source_hash: sha256:dfabaa67ae034872f74d5195c4b89d40387ae7f15ffb411883fa1d2f48d22e7a
 ---
 
+**Case:** [[cases/jaysha-aponte/jaysha-aponte|Jaysha Aponte]]
+**Client:** [[cases/jaysha-aponte/contacts/jaysha-aponte|Jaysha Aponte]]
+
 PROGRESSIVE CLAIMS
 P.O. BOX 2930
 CLINTON, IA 52733-9934

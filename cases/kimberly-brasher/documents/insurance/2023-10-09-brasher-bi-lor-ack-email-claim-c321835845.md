@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:953d9e641a6e8a257fec550f0807b8f0d7f695d192e0e61f80d6d55831faacdf
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 Subject: CLAIM C321835845 - KIMBERLY BRASHER - DOL 2/25/23
 From: [EMAIL-8]
 To: sarena@whaleylawfirm.com

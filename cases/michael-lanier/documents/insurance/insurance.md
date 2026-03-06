@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:453785cc3244ee3ac913e68924070f7a2a1ee311e4e8de15f147998edb3495a1
 ---
 
+**Case:** [[cases/michael-lanier/michael-lanier|Michael Lanier]]
+**Client:** [[cases/michael-lanier/contacts/michael-lanier|Michael Lanier]]
+
 item_0.insurance_company_name: State Farm
 item_0.insurance_type: Personal Injury Protection (PIP)
 item_0.is_active_negotiation: false

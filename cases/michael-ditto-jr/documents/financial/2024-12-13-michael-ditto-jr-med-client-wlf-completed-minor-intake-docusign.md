@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:7a543fe459212e389c03f33369134ecc13274b3debf4b2496cf04ac12fac69b2
 ---
 
+**Case:** [[cases/michael-ditto-jr/michael-ditto-jr|Michael Ditto Jr]]
+**Client:** [[cases/michael-ditto-jr/contacts/michael-ditto-jr|Michael Ditto Jr]]
+
 Subject: Completed: Thank you for choosing The Whaley Law Firm!
 From: [EMAIL-2]
 To: [EMAIL-2]

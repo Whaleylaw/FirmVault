@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2019-04-26-PrL-001
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-[DOB-1]/Review_Needed/2025.02.03-Mills-CMR-CHI-St.Joseph-Ortho-Certification-Pages-Correct.pdf"
 source_hash: "sha256:eb17a7c3b9716d6205b722c5215f2dfce935e1dc393a72af0430e89dfead12d9"

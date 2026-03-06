@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:79f9b574b6460f34febd47b018d37f5c32ff85249973b422860f4a65c0e8ef80
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 Form_SCTNID_CTGRY.KY[POLICY-1]_DECPAGE
 [POLICY-2] R IC94606 INS DECPAGE E POLWHITEFONT UUKXNVCLZO2OE2CJBYLXMM7DZB0001 RPUID TRACWHITEFONT BDF_AA
 Policy Number: [POLICY-2]

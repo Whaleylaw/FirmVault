@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie
 source_hash: sha256:e42f12d9f902db82f1a8ed364afa496797281c82aa237891f0c74b89bd39941a
 ---
 
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 address: 3139 Scottsville Rd, Rm 313, Bowling Green, KY 42104
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:76f1a52fd37a7744db42c4cbb7a4dbb24579ae1efc1f447796b0c8a3ee9fa21a
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 712 Lyndon Lane ● Louisville, KY 40222 ● Phone: [PHONE-6] ● Fax: [PHONE-5] 
 May 20, 2025 
 Sent via fax to: [PHONE-3] 

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:2057629b7db2e3348cf110ae0bfe6f0c259ac3b6beee1b0e8cd4c0ffca70aa89
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 Subject: RE: Estate of Betty Prince v Norton Healthcare - Deposition Scheduling
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com, [EMAIL-2], [EMAIL-42]

@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:db4374566569195848fd76a141ac3d3adcb72af59e6698412e467a40366d1740
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 item_0.amount_owed_from_settlement: 877.61
 item_0.date_notice_received: 2025-03-31
 item_0.final_lien_amount: 877.61

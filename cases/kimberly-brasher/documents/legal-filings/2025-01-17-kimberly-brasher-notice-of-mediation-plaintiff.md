@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:1c0302a90842a5e1a5dfd993016fca794a041d446e004e2b334bd4e8836e727d
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 NO. 24-CI-00012 McLEAN COUNTY CIRCUIT COURT 
 DIVISION ONE (1) 
 HON. BRIAN WIGGINS 

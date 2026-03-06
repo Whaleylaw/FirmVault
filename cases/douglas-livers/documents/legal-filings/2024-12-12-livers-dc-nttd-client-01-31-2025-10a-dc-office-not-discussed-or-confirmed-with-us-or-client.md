@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:561e105d07c299f90a7e1111365d174908cd5b9272839395f4a8ee49138be651
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 CASE NO. 24-CI-04424 JEFFERSON CIRCUIT COURT
 
   DIVISION FIVE (5) 

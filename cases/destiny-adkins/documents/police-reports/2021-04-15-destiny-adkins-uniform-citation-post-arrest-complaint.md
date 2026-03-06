@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Destin
 source_hash: sha256:6ff13fbe9c14b19369a47fb7028be08991b2618786982aa0d61a1864752947e5
 ---
 
+**Case:** [[cases/destiny-adkins/destiny-adkins|Destiny Adkins]]
+**Client:** [[cases/destiny-adkins/contacts/destiny-adkins|Destiny Adkins]]
+
 Page 1 of 1 COMMONWEALTH OFKENTUCKY NOT ORIGINAL DOC UMENT \CHARGES AND POST-ARRESTCOMPLAINT
 harge 2; NO RE
 fficer observed listed subject operating listed vehicle N/B.on S|

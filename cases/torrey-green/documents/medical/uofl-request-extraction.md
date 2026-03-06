@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:aa666aa8fb86718e174b6eb6f9b5a233213e606428faa1b0bc9a40c5623a3b41
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 category: medical
 date: 2025-11-06
 description: Medical records request letter dated November 6, 2025 to University of Louisville Hospital requesting all medical records and itemized billing for Torrey Green for dates 9/3/2025 through 11/6/2025 following accident injury.

@@ -20,6 +20,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:6a8ab1d64797989d679c815ed041c77983803c3c78a9eb9f0093d394fd824185
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Va BAPTIST HEALTH’ . Baptist Health Corbin Mills, Amy | 1 Trillium Way MRN: [PHONE-68], DOB: [DOB-1], Sex: F Corbin KY 40701-8727 Adm: 6/21/2019, D/C: 6/21/2019
 
 I ee Hospital Account Saar pa ENEE REE SRERDRRSERERIRRRUDURRTRRERIasSbanamimiamtmmimmmmae amar aaoepesammemeesen es cesarean ease

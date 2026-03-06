@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya
 source_hash: sha256:6e0c4c3565172d44aab622316d02e2a8cdd8f9da09f636f8e2547c7b8d2ed346
 ---
 
+**Case:** [[cases/sariya-mason/sariya-mason|Sariya Mason]]
+**Client:** [[cases/sariya-mason/contacts/sariya-mason|Sariya Mason]]
+
 Subject: RE: Sariya Mason v. Surelis Castillo, et al. (Jefferson Circuit 23-CI-006039)
 From: [EMAIL-1]
 To: [EMAIL-2]

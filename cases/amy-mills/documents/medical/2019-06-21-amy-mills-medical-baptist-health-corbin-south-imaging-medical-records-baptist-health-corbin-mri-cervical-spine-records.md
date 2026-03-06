@@ -1,26 +1,23 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:48:16.133000+00:00
+created_at: {}
 document_category: medical
-document_date: 1983-12-28
+document_date: {}
 document_type: medical
-entities:
-- Travis Daniel
-- Melissa Marie
-- Charles Lee
-- Physician Or Clinic
-- This Hospital
-- Baptist Health
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Baptist
-  Health Corbin SOuth Imaging/Medical Records/2019-06-21-Amy-Mills-Medical-Baptist
-  Health Corbin SOuth Imaging-Medical-Records-Baptist-Health-Corbin-MRI-Cervical-Spine-Records.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Baptist Health Corbin SOuth Imaging/Medical Records/2019-06-21-Amy-Mills-Medical-Baptist Health Corbin SOuth Imaging-Medical-Records-Baptist-Health-Corbin-MRI-Cervical-Spine-Records.pdf
 source_hash: sha256:6a8ab1d64797989d679c815ed041c77983803c3c78a9eb9f0093d394fd824185
+contact: "[[cases/2019-04-26-prl-001/contacts/baptist-health-corbin]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 Va BAPTIST HEALTH’ . Baptist Health Corbin Mills, Amy | 1 Trillium Way MRN: [PHONE-68], DOB: [DOB-1], Sex: F Corbin KY 40701-8727 Adm: 6/21/2019, D/C: 6/21/2019
 

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:db2d79d28d2fabdb5ef7d358d50730a479cd6e02c489002b1b824f8f2fc4b084
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 =FILEVINE
 Fax Confirmation
 To: [PHONE-8] From: [PHONE-7]

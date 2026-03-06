@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jonah-
 source_hash: sha256:deaa80d6d6f965468e138ff7ee950cd575818a9c19dabfd56b6f3a0a5a44a0e6
 ---
 
+**Case:** [[cases/jonah-price/jonah-price|Jonah Price]]
+**Client:** [[cases/jonah-price/contacts/jonah-price|Jonah Price]]
+
 PROGRESSIVE CLAIMS P.O. BOX 2930 CLINTON, IA 52733-9934
 
 The Whaley Law Firm Aaron G Whaley

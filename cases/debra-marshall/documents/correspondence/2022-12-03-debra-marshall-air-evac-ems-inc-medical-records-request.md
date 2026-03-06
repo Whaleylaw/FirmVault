@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:334359f3048ac43aecad1cabc02a30fe285fd84abaee39ea63c5f99b073fba7b
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 UUMALAI EVA
 CERTIFICATION OF MEDICAL RECORDS AFFIDAVIT
 SHERMAN STRAWN , being first duly sworn on his/her oath, says that:

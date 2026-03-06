@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:58b3f8a444a3b2c9018e364332b6b46741afa88d991f23a953a2fdef6684e1c1
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Kiper-MVA-12-5-2022/Accident-Investigation/2022-12-08-James-Kiper-Accident-Investigation-LMPD-Instruction-Sheet.jpg

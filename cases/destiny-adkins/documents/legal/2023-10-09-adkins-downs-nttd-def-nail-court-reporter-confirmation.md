@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Destin
 source_hash: sha256:34ac4e3bf741c010b59d5415e784cfecbb3b4b5837dc3902d180093e7a84024b
 ---
 
+**Case:** [[cases/destiny-adkins/destiny-adkins|Destiny Adkins]]
+**Client:** [[cases/destiny-adkins/contacts/destiny-adkins|Destiny Adkins]]
+
 Subject: Re: New submission from 20 Second Scheduler
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

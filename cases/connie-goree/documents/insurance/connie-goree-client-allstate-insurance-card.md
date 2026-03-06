@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Connie
 source_hash: sha256:e749a90f86c3116a38713e446e0b90eaa44883f21bc9a329516cd80359a27829
 ---
 
+**Case:** [[cases/connie-goree/connie-goree|Connie Goree]]
+**Client:** [[cases/connie-goree/contacts/connie-goree|Connie Goree]]
+
 Page 1 of 2
 Goosehead Insurance
 3755 S Capital of Tx

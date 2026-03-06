@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cory-S
 source_hash: sha256:8d2a221420217e593aaaab1be3d1d7da193b06e9eb5a3961b3c339e560954a24
 ---
 
+**Case:** [[cases/cory-stephenson/cory-stephenson|Cory Stephenson]]
+**Client:** [[cases/cory-stephenson/contacts/cory-stephenson|Cory Stephenson]]
+
 item_0.jsonb_agg[0].address: 5017 Yaupon Lane, Louisville, KY 40213
 item_0.jsonb_agg[0].email: [EMAIL-1]
 item_0.jsonb_agg[0].full_name: Cory Stepheson

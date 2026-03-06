@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:81b22e2fc5e64852605a022c2c6558a628d2f14667c1277c6ecab78e1d9c36b9
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 EDUCATION AND LABOR CABINET
 Andy Beshear
 Governor

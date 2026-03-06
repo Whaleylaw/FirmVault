@@ -1,6 +1,6 @@
 ---
 case_slug: davis-robinson
-created_at: 2026-02-16 22:56:01.323000+00:00
+created_at: {}
 document_category: financial
 document_type: financial
 extraction_method: native_text
@@ -10,7 +10,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-Robinson-SF-05-02-2025/Medical-Records/2025-09-11_Medical_OrthoCincy-Professional-Services_003.pdf
 source_hash: sha256:878eb1e3b713b66e380bbed102c5f9b1e5574d30439e2b8cd425ce1ee71c1198
+contact: "[[cases/2025-05-02-sf-001/contacts/orthocincy]]"
 ---
+
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 
 Guarantor Patient
 Davis Robinson #470223072 Davis Robinson

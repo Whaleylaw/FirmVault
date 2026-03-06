@@ -1,8 +1,8 @@
 ---
 case_slug: wayne-weber
-created_at: 2026-02-17 00:40:41.993000+00:00
+created_at: {}
 document_category: financial
-document_date: 2024-04-17
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2022-01-01-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 95
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-Weber-MVA-01-01-2022/Reports/extractions/2024-04-17-Wayne-Weber-EvenUp-Inc-invoice_extraction.json
 source_hash: sha256:31fad16c7bec7458eb18115ce822a3db1a474c3d1c0365d6b5c3bce7bbde77da
+contact: "[[cases/2022-01-01-mva-001/contacts/evenup]]"
 ---
+
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 
 extraction.category: expenses
 extraction.date: 2024-04-17

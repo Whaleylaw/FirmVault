@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-N
 source_hash: sha256:57170f4e9a66415d891dbfb362809b8e4ee388836a604f6f2c0a77c2062a795c
 ---
 
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 Subject: Completed: The Whaley Law Firm has requested your signature.
 From: [EMAIL-2]
 To: [EMAIL-2]

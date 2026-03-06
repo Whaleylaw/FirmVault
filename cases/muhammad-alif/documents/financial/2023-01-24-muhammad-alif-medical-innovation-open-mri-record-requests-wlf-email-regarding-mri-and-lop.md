@@ -1,18 +1,22 @@
 ---
 case_slug: muhammad-alif
-created_at: 2026-02-17 00:11:14.797000+00:00
+created_at: {}
 document_category: financial
-document_date: 2023-01-24
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2022-11-08-MVA-001
 mime_type: message/rfc822
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Innovation
-  Open MRI/Record Requests/2023-01-24-Muhammad-Alif-Medical-Innovation Open MRI-Record-Requests-WLF-Email-Regarding-MRI-and-LOP.eml
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Innovation Open MRI/Record Requests/2023-01-24-Muhammad-Alif-Medical-Innovation Open MRI-Record-Requests-WLF-Email-Regarding-MRI-and-LOP.eml
 source_hash: sha256:c28f3921a074ff959e027c57a022c1a79e416a79e08cacf537c0814dfb223f52
+contact: "[[cases/2022-11-08-mva-001/contacts/innovation-open-mri]]"
 ---
+
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 
 Subject: Fwd: New Voice Message from ENVISION IMG [PHONE-12] on [DOB-2] 2:13 PM
 From: sarena@whaleylawfirm.com

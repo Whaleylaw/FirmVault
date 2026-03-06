@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:570f222ce44627925802f265f68ad2028550d1765e78ecdb8c97449115553128
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 _________________________________________ PLAINTIFF
  VS _________________________________________ DEFENDANT
 The Commonwealth of Kentucky to:

@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:468512f981bbdc21d6c3f73d95704c02f2da16fc802415b9263129d4604b4b3a
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 item_0.action: MOVE
 item_0.category: vehicle_damage
 item_0.confidence: high

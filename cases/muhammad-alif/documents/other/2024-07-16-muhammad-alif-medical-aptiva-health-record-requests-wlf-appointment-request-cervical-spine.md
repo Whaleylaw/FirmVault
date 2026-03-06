@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:e069f3b74ce1f7d7d6c34a92007e3792460fdffbb7dddcd207694f9b53f7e0db
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 Subject: New Appointment Request for Muhammad Alif DOB [DOB-1]
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

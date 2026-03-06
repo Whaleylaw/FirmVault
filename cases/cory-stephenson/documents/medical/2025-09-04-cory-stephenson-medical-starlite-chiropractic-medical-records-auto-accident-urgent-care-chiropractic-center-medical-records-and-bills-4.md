@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cory-S
 source_hash: sha256:1158fea7353d6ab40933e826ccf34ea1649eee8598985204d5e7cf821e976651
 ---
 
+**Case:** [[cases/cory-stephenson/cory-stephenson|Cory Stephenson]]
+**Client:** [[cases/cory-stephenson/contacts/cory-stephenson|Cory Stephenson]]
+
 Oct.06.2025 02:07 PM Tri-State [PHONE-73] P 1/20
 X
 To: Wholey

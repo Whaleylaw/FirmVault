@@ -1,19 +1,22 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:48:01.424000+00:00
+created_at: {}
 document_category: medical
 document_type: medical
-entities:
-- This Hospital
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Baptist
-  Health Corbin/Medical Records/2009-06-26-Amy-Mills-Medical-Baptist Health Corbin-Medical-Records-Baptist-Regional-Medical-Center-Medical-Records-And-Mammogram-Report.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Baptist Health Corbin/Medical Records/2009-06-26-Amy-Mills-Medical-Baptist Health Corbin-Medical-Records-Baptist-Regional-Medical-Center-Medical-Records-And-Mammogram-Report.pdf
 source_hash: sha256:cde44c022a208251a7272a7f2239091060e1becb32372fa14454930f40caee5e
+contact: "[[cases/2019-04-26-prl-001/contacts/baptist-health-corbin]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 MILLS , AMY 728945043 ReERKAS 856 of 862
 

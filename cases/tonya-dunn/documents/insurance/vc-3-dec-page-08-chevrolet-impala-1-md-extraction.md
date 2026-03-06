@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Tonya-
 source_hash: sha256:210ca9d21823a4d20b12b4d7835daaeab5b3afd599dc0352d23be5394fe2a28a
 ---
 
+**Case:** [[cases/tonya-dunn/tonya-dunn|Tonya Dunn]]
+**Client:** [[cases/tonya-dunn/contacts/tonya-dunn|Tonya Dunn]]
+
 category: Insurance
 description: Declarations page markdown
 document_type: insurance_declaration_page

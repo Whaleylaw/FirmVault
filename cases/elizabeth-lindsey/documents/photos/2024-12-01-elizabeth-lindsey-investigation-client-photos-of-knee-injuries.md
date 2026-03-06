@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Elizab
 source_hash: sha256:75bf365dae604c66f6dc2b137e20130fe98339632243676c8e81b0f18f0bf225
 ---
 
+**Case:** [[cases/elizabeth-lindsey/elizabeth-lindsey|Elizabeth Lindsey]]
+**Client:** [[cases/elizabeth-lindsey/contacts/elizabeth-lindsey|Elizabeth Lindsey]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Elizabeth-Lindsey-MVA-[DOB-1]/Investigation/2024-12-01-Elizabeth-Lindsey-Investigation-Client-Photos-of-Knee-Injuries.jpg

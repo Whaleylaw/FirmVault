@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:81297c4c959b2664076758b8bd276de52f419becfe4f6cd9e5ad36b702a47408
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 EXAMINATIONRECORD
 20/20 Ryecara of London, LG.
 AGA CharaRitae

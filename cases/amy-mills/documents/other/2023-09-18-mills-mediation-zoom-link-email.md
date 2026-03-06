@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:1f37d7dac473e7b3f3485c95aaa4b047a81775a2cb2c173c3525de8d2e287212
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Subject: Thursday mediation
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:ecfa1d426ab1bf687de0977603603231ec0eb9a3ec8a69bf15b821ab644b64f0
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 bucket: Investigation
 content_summary: Redacted audio recording of police dispatch or 911 call regarding incident LMPD240051184 on I-65N on 2024-02-15. Position 12.
 date: 2024-02-15

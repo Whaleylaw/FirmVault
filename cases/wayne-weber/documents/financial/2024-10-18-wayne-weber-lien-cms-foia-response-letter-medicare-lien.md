@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:4fe67ddb1262f2c7c439fdd072544885e7bafb1cd03afc2b20bac49ffaf99f92
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 Subject: Fwd: KY - File No. 101620247030
 From: [EMAIL-6]
 To: sarena@whaleylawfirm.com

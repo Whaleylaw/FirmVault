@@ -1,11 +1,10 @@
 ---
 case_slug: muhammad-alif
-created_at: 2026-02-17 00:09:58.392000+00:00
+created_at: {}
 document_category: financial
-document_date: 2022-11-08
+document_date: {}
 document_type: financial
-entities:
-- Farmers Insurance
+entities: null
 extraction_method: native_text
 legacy_case_id: 2022-11-08-MVA-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Insurance/2023-03-03-Muhammad-Alif-Insurance-PIP-Farmers-Insurance-Benefits-Exhausted-And-Payment-Log.pdf
 source_hash: sha256:3be369b3b51b93f0b17e6d068178edb9e85be2c60ed72d0ed5c6be8c0ff76bb7
+contact: "[[cases/2022-11-08-mva-001/contacts/farmers-insurance]]"
 ---
+
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 
 Toll Free: [PHONE-1]
 . Fax: [PHONE-2] FARMERS Email: myclaim @farmersinsurance.com

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:ca7b60e917f3007f65048bcef2ee5f5b2dfce6c1e1781fbc8255295207b6579c
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 Subject: Re: Debra Marshall v. Jasmine Reed (Barren Circuit 23-CI-00659)
 From: [EMAIL-1]
 To: [EMAIL-2]

@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:7bf88b313e4253804dfef9605ef059c1ea719c90557a65469a2f7fd1d68c1f63
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 BAPTIST HEALTH WC2 9/16/2024 7:46:59 AM PAGE 1/005 Fax server
 Nd BAPTIST HEALTH’ BA
 Fax Transmission/Information Sheet

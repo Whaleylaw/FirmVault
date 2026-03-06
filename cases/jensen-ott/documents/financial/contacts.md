@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jensen
 source_hash: sha256:1669f567122bfb23c1212059cad82e0a3128ba56b167be784f5a8a33a9321e90
 ---
 
+**Case:** [[cases/jensen-ott/jensen-ott|Jensen Ott]]
+**Client:** [[cases/jensen-ott/contacts/jensen-ott|Jensen Ott]]
+
 item_0.jsonb_agg[0].full_name: Jensen Ott
 item_0.jsonb_agg[0].project_name: Jensen-Ott-MVA-8-06-2025
 item_0.jsonb_agg[0].roles[0]: client

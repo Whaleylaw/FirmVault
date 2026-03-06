@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:ffcacfbece23079ab05d798b033fed159bbd44053e7c0d8a81f3752ca6dc1c19
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 Subject: Fwd: New Voicemail from Answering Servi 12063314444
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

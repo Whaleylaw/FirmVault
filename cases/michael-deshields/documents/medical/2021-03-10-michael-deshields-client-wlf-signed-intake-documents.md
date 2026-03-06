@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2025-10-31-MVA-001
 ---
 
+**Case:** [[cases/michael-deshields/michael-deshields|Michael Deshields]]
+**Client:** [[cases/michael-deshields/contacts/michael-deshields|Michael Deshields]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michael-Deshields-MVA-[DOB-1]/Client/2021-03-10-Michael-Deshields-Client-WLF-Signed-Intake-Documents.pdf"
 source_hash: "sha256:9c54b7473db554e5fb536e97435ff7d12a9da56d3cc5fa05ea89c6adafa99ea2"

@@ -1,19 +1,22 @@
 ---
 case_slug: muhammad-alif
-created_at: 2026-02-17 00:11:34.136000+00:00
+created_at: {}
 document_category: financial
-document_date: 2022-11-22
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2022-11-08-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Parkridge
-  Medical Center/Medical Bills/2022-11-22-Muhammad-Alif-Medical-Parkridge Medical
-  Center-Medical-Bills-Parkridge-Medical-Center-Medical-Bill-And-Charges.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Parkridge Medical Center/Medical Bills/2022-11-22-Muhammad-Alif-Medical-Parkridge Medical Center-Medical-Bills-Parkridge-Medical-Center-Medical-Bill-And-Charges.pdf
 source_hash: sha256:63b7a1fbb23e6f6105da37263875348668ced54efa19744e29c81938efff3ce4
+contact: "[[cases/2022-11-08-mva-001/contacts/parkridge-medical-center]]"
 ---
+
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 
 From: API DEV RevClaims Fax: 18773296699 To: Aaron Whaley Fax: [PHONE-20] Page: 1 of 4 [DOB-2] 1:51 PM
 To: Aaron Whaley, WHALEY LAW FIRM

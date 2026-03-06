@@ -1,12 +1,10 @@
 ---
 case_slug: cora-hall
-created_at: 2026-02-16 22:36:46.405000+00:00
+created_at: {}
 document_category: medical
-document_date: 1989-09-22
+document_date: {}
 document_type: medical
-entities:
-- Dr. Chaitu Malempati
-- Chaitu Malempati
+entities: null
 extraction_method: native_text
 legacy_case_id: 2022-12-05-OTH-001
 mime_type: application/pdf
@@ -14,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-Hall-WC-12-05-2022/Client/2023-01-06-Cora-Hall-Riverside-Orthopedics-Sports-Medicine-HIPAA-Authorization.pdf
 source_hash: sha256:1e3ac60c3e6cb5fe2dd0b21da187242ca03ac0da314e5bba813182b530163f22
+contact: "[[cases/2022-12-05-oth-001/contacts/riverside-orthopedics-sports-medicine]]"
 ---
+
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 
 Fax Confirmation
 To: [PHONE-11] From: [PHONE-10]

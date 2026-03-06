@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:b48a4bc2d349e3d117b7d0077eea02552950ae66e285231c07bdfc05175fb80c
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 CASE NO. ______________ JEFFERSON CIRCUIT COURT 
  DIVISION ______ (__) 
  JUDGE ___________________ 

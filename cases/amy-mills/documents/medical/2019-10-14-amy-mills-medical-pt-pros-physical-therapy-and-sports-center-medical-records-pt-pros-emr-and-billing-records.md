@@ -2,7 +2,12 @@
 case_slug: amy-mills
 document_category: medical
 legacy_case_id: 2019-04-26-PrL-001
+contact: "[[cases/2019-04-26-prl-001/contacts/pt-pros-physical-therapy-and-sports-center]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-[DOB-156]/Medical/PT Pros Physical Therapy and Sports Center/Medical Records/2019-10-14-Amy-Mills-Medical-PT Pros Physical Therapy and Sports Center-Medical-Records-PT-Pros-EMR-And-Billing-Records.pdf"

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:c321b679839bbaf7ce82f26118ffc5dcd31bbbc3d880a588a238046b7d71b4ad
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 Datavant Release of Information
 Date of Birth: 6-20-1975
 Medical Record #: 295290570

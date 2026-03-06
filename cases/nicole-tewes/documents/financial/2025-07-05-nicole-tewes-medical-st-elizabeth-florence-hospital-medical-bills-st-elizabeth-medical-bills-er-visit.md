@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nicole
 source_hash: sha256:2851e9e80ef8342f94798b16103ada70bb097382124e115297f041ac89647c0a
 ---
 
+**Case:** [[cases/nicole-tewes/nicole-tewes|Nicole Tewes]]
+**Client:** [[cases/nicole-tewes/contacts/nicole-tewes|Nicole Tewes]]
+
 Guarantor #196418, Page 1 of 2
 BANNER PAGE - DETAIL BILL BEGINS ON PAGE 2
 Guarantor #196418, Page 1 of 2

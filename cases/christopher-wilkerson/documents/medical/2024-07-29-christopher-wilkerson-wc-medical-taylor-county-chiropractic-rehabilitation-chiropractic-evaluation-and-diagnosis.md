@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:e59e30794496c5ccb42aa22ffe8d5afc61fd4dd3253a6ed83fc092bdfce1e57a
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 Jan 07 25, 06:33p p.2
 Taylor County Chiropractic & Rehabilitation, LLC
 Dr. Jessica Leonard, D.C.

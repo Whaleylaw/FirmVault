@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-
 source_hash: sha256:0cbe1d40ae6c41220624cdfbf94fc6abc5352363e88a6f70cb8d5942ffc84871
 ---
 
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 category: Client
 date: 2025-05-02
 description: Back of Davis Robinson's health insurance card showing provider contact information and pharmacy benefits.

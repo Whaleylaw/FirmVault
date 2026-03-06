@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Lindse
 source_hash: sha256:b4bc383a2cd1bb1be1549427b9a3aceca30a01f238a82117e2a0b18a2def6420
 ---
 
+**Case:** [[cases/lindsey-dunn/lindsey-dunn|Lindsey Dunn]]
+**Client:** [[cases/lindsey-dunn/contacts/lindsey-dunn|Lindsey Dunn]]
+
 October 23, 2025
 Whaley Law Firm
 712 Lyndon Lane

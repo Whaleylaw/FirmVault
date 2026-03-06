@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:9f087c0f77d029cd86be9cd901343c2c711780576ae016e9f5f47ef450fff866
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 NO. 21-CI-004985 JEFFERSON CIRCUIT COURT DIVISION FIVE (5) HON. MARY SHAW
 
 ANELLA NOBLE PLAINTIFF

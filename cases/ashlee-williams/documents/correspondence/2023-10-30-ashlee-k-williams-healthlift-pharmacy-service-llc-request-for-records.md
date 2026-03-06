@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee
 source_hash: sha256:621436d6c281f5ee61bca49e98b151ba53f3863d651a81616f70d3ff7e22e8e8
 ---
 
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 Jessica Bottorff
 Aaron G. Whaley, Esq.
 THE 712 Lyndon Lane

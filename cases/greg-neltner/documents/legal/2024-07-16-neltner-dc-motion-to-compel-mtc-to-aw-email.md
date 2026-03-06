@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-N
 source_hash: sha256:d272f2ed4df3da4da92681b52766d59db382bc3ea7c93337e60bf0404246eee3
 ---
 
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 Subject: Fwd: Neltner v. Cohara
 From: [EMAIL-1]
 To: [EMAIL-11], [EMAIL-10], sarena@whaleylawfirm.com

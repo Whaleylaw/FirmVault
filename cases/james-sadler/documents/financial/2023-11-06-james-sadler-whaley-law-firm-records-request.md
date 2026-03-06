@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:1704bdc5af2fa25fc9cae549bcffd7c6660d46ec1bcf66dbc380388af5d72a81
 ---
 
+**Case:** [[cases/james-sadler/james-sadler|James Sadler]]
+**Client:** [[cases/james-sadler/contacts/james-sadler|James Sadler]]
+
 \
 Aaron G. Whaley, Esq.
 712Lyndon Lane

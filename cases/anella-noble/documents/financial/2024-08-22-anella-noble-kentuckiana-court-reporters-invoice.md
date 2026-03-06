@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:1f99c2ea8eb5f794c121d96671c02f64253a104ac745673a541f3a54d202f4e2
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 KENTUCKIANA COURT REPORTERS
 [PHONE-1]
 INVOICE _...

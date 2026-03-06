@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:4475fd27d2d92f7d0d1887ef6cb62eef39e92360fbfebc12aee0edc626ce4ac6
 ---
 
+**Case:** [[cases/james-sadler/james-sadler|James Sadler]]
+**Client:** [[cases/james-sadler/contacts/james-sadler|James Sadler]]
+
 DUE TO PROTECTION OF PRIVACY OBLIGATIONS AND INTERNAL SYSTEM INTEGRITY, STATE FARM MUTUAL 
 AUTOMOBILE INSURANCE COMPANY DOES NOT ACCEPT TIME-SENSITIVE OR ACTION-ORIENTED MESSAGES DELIVERED 
 VIA EMAIL THAT INVOLVE ACCESSING A CYBERLINK, APPLICATION, DIGITAL DROPBOX OR OTHER THIRD-PARTY 

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ceceli
 source_hash: sha256:21795d2e0388b0fe40d8eced2e646590b69f9e870369598b412caa0350eae98e
 ---
 
+**Case:** [[cases/cecelia-neltner/cecelia-neltner|Cecelia Neltner]]
+**Client:** [[cases/cecelia-neltner/contacts/cecelia-neltner|Cecelia Neltner]]
+
 Subject: RE: Neltner v. Cohara
 From: [EMAIL-1]
 To: [EMAIL-122], [EMAIL-121]

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:c99a1979a2f22586ce15be9072c0a17bf28d79f3074e78b103aa5cd5be7185e3
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 Timothy Ruhl
 [DOB-1]
 ***-**-4388 [DOB-1]

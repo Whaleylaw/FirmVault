@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:180901c7d58c73546f553da0edbabbe9b13bf1ef2d4ddc4958eb19b47aacb433
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 item_0.certificate_of_service: 2023-12-07
 item_0.filing_party_name: The Whaley Law Firm
 item_0.pleading_type: Complaint

@@ -1,11 +1,10 @@
 ---
 case_slug: nayram-adadevoh
-created_at: 2026-02-17 00:12:56.342000+00:00
+created_at: {}
 document_category: medical
-document_date: 2023-07-13
+document_date: {}
 document_type: medical
-entities:
-- Advocate Medical Group
+entities: null
 extraction_method: native_text
 legacy_case_id: 2024-07-13-MVA-002
 mime_type: application/json
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram-Adadevoh-MVA-7-13-2024/extractions/2025-02-10-Nayram-Adadevoh-Advocate-Medical-Group-Outpatient-Center-medical-records-request_extraction.json
 source_hash: sha256:37c057cfea4dc0e1b3e7780b9e9c80f3294b2b8b2c21f26e6b09978c78024bdf
+contact: "[[cases/2024-07-13-mva-002/contacts/advocate-medical-group-outpatient-center]]"
 ---
+
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 
 category: medical_records_request
 date: 2025-02-10

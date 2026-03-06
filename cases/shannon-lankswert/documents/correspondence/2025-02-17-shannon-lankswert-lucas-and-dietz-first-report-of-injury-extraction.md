@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:b70c999218998789009ae3f80c62aeee3019ce633cc21ef915b31b4acb568154
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 extraction.category: Insurance
 extraction.date: 2025-03-17
 extraction.description: Email correspondence with attached First Report of Injury from defense counsel

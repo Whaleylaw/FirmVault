@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:1e5464b7df62422c85dbdd3e82087d792b3b6bddec361596f88ed1f1d06ad951
 ---
 
+**Case:** [[cases/james-lanier/james-lanier|James Lanier]]
+**Client:** [[cases/james-lanier/contacts/james-lanier|James Lanier]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Lanier-MVA-6-28-2025/Investigation/2025-06-28-James-Lanier-Investigation-Client-Social-Media-Investigation-Photo.jpg

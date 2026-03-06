@@ -1,8 +1,8 @@
 ---
 case_slug: nayram-adadevoh
-created_at: 2026-02-17 00:12:04.206000+00:00
+created_at: {}
 document_category: insurance
-document_date: 2023-01-26
+document_date: {}
 document_type: insurance
 extraction_method: native_text
 legacy_case_id: 2024-07-13-MVA-002
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram-Adadevoh-MVA-7-13-2024/Insurance/2024-02-07-Nayram-Adadevoh-Insurance-National-Indemnity-Company-Business-Auto-Coverage-Declarations.pdf
 source_hash: sha256:c02b428890e2926c65b7ac3eb73484463c0577918454af8c4bd1451c51c0318f
+contact: "[[cases/2024-07-13-mva-002/contacts/national-indemnity-company]]"
 ---
+
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 
 NATIONAL INDEMNITY COMPANY
 OMAHA, NEBRASKA

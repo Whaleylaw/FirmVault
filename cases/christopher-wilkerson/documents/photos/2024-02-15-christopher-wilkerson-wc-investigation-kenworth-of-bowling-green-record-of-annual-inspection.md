@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:58673967a93946cdec4e5ce1f7a14dd5e0dc5917a1177cf889bf72925cb518e8
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christopher-Wilkerson-WC-MVA-[DOB-1]/Investigation/2024-02-15-Christopher-Wilkerson-WC-Investigation-Kenworth-of-Bowling-Green-Record-of-Annual-Inspection.jpg

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Destin
 source_hash: sha256:b163c24b34f1e644dac5d0fff9894e205733376853084c5655fcc798c28b2ad6
 ---
 
+**Case:** [[cases/destiny-adkins/destiny-adkins|Destiny Adkins]]
+**Client:** [[cases/destiny-adkins/contacts/destiny-adkins|Destiny Adkins]]
+
 A wovsentatos tc Invoice
 Vee (@
 Metro Investigations, LLC

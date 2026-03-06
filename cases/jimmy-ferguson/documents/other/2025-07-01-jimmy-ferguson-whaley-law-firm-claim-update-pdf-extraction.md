@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:42dd843c6eab8d7bbf041e574cd56a8ef3d388ff1556d9b2ef5804bff2091619
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 category: Insurance
 date: 2025-07-01
 description: Claim status update letter dated 7/1/2025 from Kentucky Farm Bureau to Whaley Law Firm requesting update on Jimmy Ferguson's claim 04979889, noting time limitations under Kentucky law.

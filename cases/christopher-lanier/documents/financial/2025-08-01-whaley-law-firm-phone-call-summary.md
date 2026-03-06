@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:a89c7c909e146d409dbb024dd7c2a93b4aeee416777c51641e0f13a203c2f7f7
 ---
 
+**Case:** [[cases/christopher-lanier/christopher-lanier|Christopher Lanier]]
+**Client:** [[cases/christopher-lanier/contacts/christopher-lanier|Christopher Lanier]]
+
 08-01 Phone Call: Automobile Accident,
 Insurance Claims, and Legal
 Representation

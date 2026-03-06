@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:cc3203d872b1da3618658bb466cad968ffd18816de5e98e4d4c96bbe5983f3fc
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 category: Medical Bills
 description: Physician services bill from St Mary Elizabeth Hospital
 entities[0]: Alma Socorro Cristobal Avendaño

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:bb1144d01e91f12678eebfcdca7379f8ec717d1f4b57dc9f65417fddaadb1fb2
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Certificate Of Completion
 Envelope Id: 9F93EB1C0B1D4CA69BED0F2C94FA8F7A Status: Completed
 Subject: The Whaley Law Firm has requested your signature. Follow the prompts to execute the attached.

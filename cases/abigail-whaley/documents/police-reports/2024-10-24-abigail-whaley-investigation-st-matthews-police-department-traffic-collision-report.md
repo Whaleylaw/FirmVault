@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Abigai
 source_hash: sha256:57f9e2378ad1a19442db85b3f87727e37c051d8ae424b9866bc8828976f66b45
 ---
 
+**Case:** [[cases/abigail-whaley/abigail-whaley|Abigail Whaley]]
+**Client:** [[cases/abigail-whaley/contacts/abigail-whaley|Abigail Whaley]]
+
 INVESTIGATOR BEAT OR POST #
 TOTAL LANES
 NO

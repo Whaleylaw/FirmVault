@@ -1,21 +1,23 @@
 ---
 case_slug: frances-whitis
-created_at: 2026-02-16 23:42:41.615000+00:00
+created_at: {}
 document_category: legal
-document_date: 2024-09-19
+document_date: {}
 document_type: legal
-entities:
-- Frankfort Regional Medical Center
+entities: null
 extraction_method: native_text
 legacy_case_id: 2024-09-06-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Frances-Whitis-WC-MVA-9-6-2024/Medical/Frankfort
-  Regional Medical Center/Medical Records/2024-06-24-Frances-Whitis-WC-Medical-Frankfort
-  Regional Medical Center-Medical-Records-Frankfort-Regional-Medical-Center-Medical-Record-Certification.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Frances-Whitis-WC-MVA-9-6-2024/Medical/Frankfort Regional Medical Center/Medical Records/2024-06-24-Frances-Whitis-WC-Medical-Frankfort Regional Medical Center-Medical-Records-Frankfort-Regional-Medical-Center-Medical-Record-Certification.pdf
 source_hash: sha256:30c7743f1a9ba523f218cca6f5d5424755538e584c0963bf357e29e613dd6c9d
+contact: "[[cases/2024-09-06-mva-001/contacts/frankfort-regional-medical-center]]"
 ---
+
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 
 Patient: WHITIS, FRANCES A Medical Record Number:(000044386
 Facility: Frankfort Regional Medical Center Phone Number: [PHONE-1]

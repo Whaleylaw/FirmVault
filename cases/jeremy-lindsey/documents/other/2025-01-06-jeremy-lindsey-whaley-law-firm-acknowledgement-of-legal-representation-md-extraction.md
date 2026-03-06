@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:e1ac86d8c742cd2e99cffadfa58d7a285daaeb369b3981949ab4fc2c86516c5c
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: insurance
 date: 2025-01-06
 description: Acknowledgement letter from Auto Owners Insurance confirming receipt of legal representation and requesting completion of PIP application forms

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie
 source_hash: sha256:5f4f7ac0cb28dfd35f107b8a12ca42a5202df4a8ccc8c968edd07461eda7efe2
 ---
 
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 category: Insurance
 date: 2023-12-20
 description: Fax cover sheet requesting insurance information for vehicle with plate number BDR504, VIN 226G1WC5E[PHONE-1]

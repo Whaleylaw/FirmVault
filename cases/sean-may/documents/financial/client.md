@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sean-M
 source_hash: sha256:49ed2fa30fcb72975a8223017e40008326c4684d87a8047f21774291d9870a70
 ---
 
+**Case:** [[cases/sean-may/sean-may|Sean May]]
+**Client:** [[cases/sean-may/contacts/sean-may|Sean May]]
+
 address: 48311 Hale Ave, Louisville, KY 40211
 date_of_birth: [DOB-1]
 imported_at: 2026-02-16T21:09:42.778Z

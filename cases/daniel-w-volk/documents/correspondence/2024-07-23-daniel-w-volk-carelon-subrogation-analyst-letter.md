@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel
 source_hash: sha256:6ec78d7cc427682a59f4323cce69b19f14515b2e65254fc71972afb681f91feb
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 © [DOB-67] 2:09 PM Fax Services -» Justin Chumbley
 FACSIMILE COVER LETTER
 Date & Time: [DOB-66] 2:04 PM

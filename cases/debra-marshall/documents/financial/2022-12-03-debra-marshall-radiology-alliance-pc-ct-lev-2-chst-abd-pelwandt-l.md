@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:2f605aa3acda2f64761ddf131634a3039ec0c88fc3257e1fad6b672381872e4d
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 369.107 Legal recognition of electronic records, electronic signatures, and
 
 (1) (2)

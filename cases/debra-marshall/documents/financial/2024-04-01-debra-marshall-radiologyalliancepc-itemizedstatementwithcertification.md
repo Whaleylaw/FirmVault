@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:8e4a50a17d223ae1fdb46bda57649c901350483fa3c31325472a79de68a6d2b9
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 {ChartSwap
 Requestor: Provider:
 Whaley Law Firm Radiology Alliance, PC

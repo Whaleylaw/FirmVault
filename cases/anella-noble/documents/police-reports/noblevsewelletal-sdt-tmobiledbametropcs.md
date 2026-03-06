@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:40a1a0d3616beca310561b3317f956cd4320684d3d00497583d4b53c23a86237
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: Noble v Sewell et al - SDT - TMobile dba Metro PCS
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1], [EMAIL-2]

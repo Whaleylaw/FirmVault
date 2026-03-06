@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:9185a86d3e085535d40aca0286d0199d2233468e3c88fa825833417f2624f7ce
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: medical
 date: 2024-12-01
 description: Emergency department visit and medical billing statement from Cincinnati Children's Hospital for emergency room services, x-rays, and follow-up care

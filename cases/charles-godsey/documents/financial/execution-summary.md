@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:751884e09da7ad6188e7c05b82220be83bf78d5e98240bd266dcc131f22259d8
 ---
 
+**Case:** [[cases/charles-godsey/charles-godsey|Charles Godsey]]
+**Client:** [[cases/charles-godsey/contacts/charles-godsey|Charles Godsey]]
+
 ================================================================================
 FILE REORGANIZATION EXECUTION - CHARLES-GODSEY-MVA-6-30-2025
 Job ID: file-org-81361927

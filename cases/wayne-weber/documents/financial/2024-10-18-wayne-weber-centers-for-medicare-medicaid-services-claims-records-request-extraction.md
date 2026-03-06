@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:9f806a1daae5cb639bdc2990af4b4526c42a91c92f16e5675d8163f67de54c54
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: lien_correspondence
 extraction.date: 2024-10-18
 extraction.description: Claims records request sent to CMS for Wayne Weber's Medicare payment history to determine conditional payment amounts and lien resolution.

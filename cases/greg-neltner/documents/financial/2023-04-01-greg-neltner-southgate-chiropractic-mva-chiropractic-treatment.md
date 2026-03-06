@@ -1,8 +1,8 @@
 ---
 case_slug: greg-neltner
-created_at: 2026-02-16 23:44:22.681000+00:00
+created_at: {}
 document_category: financial
-document_date: 2023-04-12
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2023-04-01-MVA-002
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-Neltner-MVA-4-1-2023/Medical-Records/2023-04-01-Greg-Neltner-Southgate-Chiropractic-MVA-Chiropractic-Treatment.pdf
 source_hash: sha256:0f30e2d2864120f5247efd4ead8cbc1ea8597e06816c83b2a2fd7811d3afe90d
+contact: "[[cases/2023-04-01-mva-002/contacts/southgate-chiropractic]]"
 ---
+
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 
 Southgate Chiropractic, Inc.
 2306 Alexandria Pike Selcenabeey Page

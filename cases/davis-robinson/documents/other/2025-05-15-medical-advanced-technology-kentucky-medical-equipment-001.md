@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-
 source_hash: sha256:fbb4fab8207196429e26fd9e75b4746eeee823f0f9b57a1c535f7656ffcf395d
 ---
 
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 scammed Be Sf So Stata arrange A TILT ead] Leek RU GLY LET | ee ee :0} JUoWAe |1eW
 
 G8E906 :(s)ed10Au| EEOOPz :# JUNODOY

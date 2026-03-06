@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:616be69d25fb2d3c0c3ceb555e0e7185d71470e145a0658a1759654fc50bf040
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 4540 7276 1010 BI SIN 1125 NNNNNNNN 006838 T:0021 986256 (10f2)
 CONDUENT
 PO Box 30114 Salt Lake City, UT 84130-9993

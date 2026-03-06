@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:23f6801a914982e3c84bd15353e115bd35084b67a1dfdf1b0e174fa11e6c8eb6
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 Subject: RE: 105885 : IZX7996 : Kiper, James v. Amani, Misimbi  : Nichole M. Priddy shared the folder "EXTERNAL USE ONLY - James Kiper Medical Records" with you
 From: [EMAIL-20]
 To: sarena@whaleylawfirm.com

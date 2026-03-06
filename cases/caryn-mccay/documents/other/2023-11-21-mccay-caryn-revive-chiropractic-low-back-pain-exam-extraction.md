@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-
 source_hash: sha256:c0d72c6621c712b343c586ea9dfad8b6a239dddeebcef9c167e7c2baf59bebc3
 ---
 
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 category: medical_records
 description: Low back pain examination at Revive Chiropractic
 entities.organizations[0]: Revive Chiropractic

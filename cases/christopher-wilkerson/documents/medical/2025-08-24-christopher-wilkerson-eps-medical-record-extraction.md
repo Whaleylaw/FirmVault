@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:1020cb8a8c6e209d53fe6fa7625f97ed4aaea52aead6ed2651e3f7f67915e8ff
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 category: Medical
 confidence: low
 description: Medical record from EPS (Emergency Physician Services or similar). Poor scan quality with minimal text detected. 5 pages. Dated August 24, 2025.

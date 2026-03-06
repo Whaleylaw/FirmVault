@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:49de71d7cd65afad234ab9f85e400d319ac26d4a8f4f5127f88b77fe4ed791ee
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-Marshall-MVA-12-3-2022/Client/2024-04-18-Debra-Marshall-Client-Kentucky-Transportation-Cabinet-Temporary-Drivers-License-Receipt.jpeg

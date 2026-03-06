@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:28e9352fbc8e5e94e0290abdb113cf132003df9a662bda5345fceaaff21535c1
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 MEDICAL RELEASE AUTHORIZATION
 H.1.P.A.A. COMPLIANT
 Name Social Security No.

@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-N
 source_hash: sha256:0c9d40fff3cb430631c4da0a905977b6958002ea7a4cdfa2ff3ce76db0d759cf
 ---
 
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 item_0.adjuster_email: [EMAIL-1], [EMAIL-5]
 item_0.adjuster_phone: [PHONE-4] Main, [PHONE-4] Fax
 item_0.claim_number: 23-6275504

@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:ab66f6eb8f452cf0f6626b7c4233ed697622137783e97bce414b81a803f21868
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 Subject: NCP (for eFiler) JEFFERSON Circuit 23-CI-005758, KIPER, JAMES VS. AMANI, MUSIMBI Envelope # 7578453
 From: [EMAIL-1]
 To: [EMAIL-4], Sarena@WhaleyLawFirm.com, [EMAIL-3]

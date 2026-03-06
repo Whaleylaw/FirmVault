@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cynthi
 source_hash: sha256:3eed72e55262b23f737e4fbda7969c2c0f2dfee381eb0f21d2cc677dd9c96571
 ---
 
+**Case:** [[cases/cynthia-gibson/cynthia-gibson|Cynthia Gibson]]
+**Client:** [[cases/cynthia-gibson/contacts/cynthia-gibson|Cynthia Gibson]]
+
 155-3866.2 04-2005 (o1a025hd)
 POLICY NUMBER
 POLICY PERIOD

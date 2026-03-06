@@ -1,6 +1,6 @@
 ---
 case_slug: debra-marshall
-created_at: 2026-02-16 23:05:00.911000+00:00
+created_at: {}
 document_category: medical
 document_type: medical
 extraction_method: native_text
@@ -10,7 +10,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-Marshall-MVA-12-3-2022/Records-Requests/2025-05-01-Debra-Marshall-Ambulance-Service-Corp-HIPAA-Authorization.pdf
 source_hash: sha256:3938c8326658b0a7950a9657ce444e00509e281b9968ba7618794232c72c235d
+contact: "[[cases/2022-12-03-mva-001/contacts/ambulance-service-corp]]"
 ---
+
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 
 Ambulance Service Corp
 Barren-Metcalf EMS

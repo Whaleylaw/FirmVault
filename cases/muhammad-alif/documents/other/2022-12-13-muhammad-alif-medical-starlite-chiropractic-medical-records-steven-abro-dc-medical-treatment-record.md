@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:e93398dc57be22c6f2461447f5879f926dc7e1fcd4e2db564eafd7cede9f8fbd
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 Apr. 3.2023 10:09AM No.1598 =P.32/50
 Dd ‘Rgy tenaig raplaoryg
 “BIRO / Seutesey / stogepuatwooey,

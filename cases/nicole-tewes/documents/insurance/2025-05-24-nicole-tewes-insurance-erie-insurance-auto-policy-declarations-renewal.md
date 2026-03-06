@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nicole
 source_hash: sha256:3d3066cc491e33b76a050fb05284b65267883415aec858ed2d77d5336ff8969d
 ---
 
+**Case:** [[cases/nicole-tewes/nicole-tewes|Nicole Tewes]]
+**Client:** [[cases/nicole-tewes/contacts/nicole-tewes|Nicole Tewes]]
+
 Coverage provided by:
 Erie Insurance Exchange
 100 Erie Insurance Place Erie, PA 16530

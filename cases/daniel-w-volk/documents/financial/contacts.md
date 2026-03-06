@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel
 source_hash: sha256:9de00603ee901193a2be60b3827a4850c70510090d20a421bbd7eb834fa33bb7
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 item_0.jsonb_agg[0].full_name: Daniel W. Volk
 item_0.jsonb_agg[0].project_name: Daniel-W-Volk-MVA-[DOB-35]
 item_0.jsonb_agg[0].roles[0]: client

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:69f7db5cb44dcd053c2ac343b8a673e555b3639d104a693f6b763bdcb0d2a6fe
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 category: Insurance
 confidence: high
 description: Request for records to workers compensation insurance carrier

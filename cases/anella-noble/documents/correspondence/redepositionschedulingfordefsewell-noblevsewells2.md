@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:4f63c51fca66e0beba41fdb1954eb9db0f65ad37a33fe4d0703ecf6f0b032c03
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: Re: Deposition Scheduling for Def Sewell- Noble v Sewell & State Farm
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

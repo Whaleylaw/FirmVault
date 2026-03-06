@@ -1,8 +1,8 @@
 ---
 case_slug: hope-renee-padgett
-created_at: 2026-02-16 23:48:46.764000+00:00
+created_at: {}
 document_category: medical
-document_date: 1966-07-24
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2023-01-16-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Hope-Renee-Padgett-MVA-1-16-2023/Medical/2024-02-14-Hope-Renee-Padgett-Sterling-Health-Care-Medicare-Wellness-Visit.pdf
 source_hash: sha256:288b6217b1d7bb33450877e3413788e0ef8a57c97f4a2be64b08d3b15e64a920
+contact: "[[cases/2023-01-16-mva-001/contacts/medicare]]"
 ---
+
+**Case:** [[cases/hope-renee-padgett/hope-renee-padgett|Hope Renee Padgett]]
+**Client:** [[cases/hope-renee-padgett/contacts/hope-renee-padgett|Hope Renee Padgett]]
+
 
 atnena 148/ZU24 11:22:29 am EVI €1D149/ 2-011a-4034-813b-1VedspasoIps Page: 13/9/ ©
 Fax transmission job no. a1b14572-b1fa-4634-8 13b-10ed3b586fb3 from athena was interrupted at 7/8/2024

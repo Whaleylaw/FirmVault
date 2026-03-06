@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie
 source_hash: sha256:01c038a9d43cc561f699c240c033c1e2364e2f14abb8d6b63cccf5064523cab2
 ---
 
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 category: Medical
 date: 2023-06-19
 description: Emergency department visit billing statement for Stevie Hawks dated 06/19/23, account number 100040417834

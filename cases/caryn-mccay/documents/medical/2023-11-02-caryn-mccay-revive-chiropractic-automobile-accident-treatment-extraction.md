@@ -1,8 +1,8 @@
 ---
 case_slug: caryn-mccay
-created_at: 2026-02-16 22:18:15.339000+00:00
+created_at: {}
 document_category: medical
-document_date: 2023-11-02
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2023-07-30-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 85
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-McCay-MVA-7-30-2023/extractions/2023-11-02-Caryn-McCay-Revive-Chiropractic-automobile-accident-treatment_extraction.json
 source_hash: sha256:de39260d8927cfef9427853c2823d7a86be7d1a1f7c288759023c42e464f80c1
+contact: "[[cases/2023-07-30-mva-001/contacts/caryn-mccay]]"
 ---
+
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 
 category: medical_records
 description: Automobile accident treatment at Revive Chiropractic

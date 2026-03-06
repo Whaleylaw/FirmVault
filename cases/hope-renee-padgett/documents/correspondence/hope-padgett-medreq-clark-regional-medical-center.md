@@ -1,11 +1,10 @@
 ---
 case_slug: hope-renee-padgett
-created_at: 2026-02-16 23:48:50.347000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1966-07-24
+document_date: {}
 document_type: correspondence
-entities:
-- Clark Regional Medical Center
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-01-16-MVA-001
 mime_type: application/msword
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Hope-Renee-Padgett-MVA-1-16-2023/Medical/Hope-Padgett-MedReq-Clark-Regional-Medical-Center.doc
 source_hash: sha256:60cfa86a1b011fb85fd7765e498b12a1f892fae14407ba6d6cf91303e1c647f7
+contact: "[[cases/2023-01-16-mva-001/contacts/clark-regional-medical-center]]"
 ---
+
+**Case:** [[cases/hope-renee-padgett/hope-renee-padgett|Hope Renee Padgett]]
+**Client:** [[cases/hope-renee-padgett/contacts/hope-renee-padgett|Hope Renee Padgett]]
+
 
 January 25, 2023
 

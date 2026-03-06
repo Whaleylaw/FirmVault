@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:1bdb08293df2efc137ad7865fa567613e88afb5f0da0960fd92efc5579abb5a0
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 address: 18016 chantilly LN, Hazel crest, IL 60429
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

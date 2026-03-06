@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:1e3439216f11df0e0415e5d56a1ef54ef97744417db6a27af1bace2a09a4e8ce
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 Subject: New Voice Message from FORK         MD [PHONE-5] on [DOB-2] 1:31 PM
 From: [EMAIL-3]
 To: Sarena@whaleylawfirm.com

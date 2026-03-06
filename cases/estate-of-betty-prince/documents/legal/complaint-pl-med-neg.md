@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:08875d48a0591bf6a0227d028b801d23d2cba8e4e8b4c6168b1d3ae236b09126
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 CASE NO.:____________________                                          JEFFERSON CIRCUIT COURT
 
 DIVISION:_________________

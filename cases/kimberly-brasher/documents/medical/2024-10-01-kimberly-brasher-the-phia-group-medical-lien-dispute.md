@@ -1,15 +1,10 @@
 ---
 case_slug: kimberly-brasher
-created_at: 2026-02-17 00:02:24.993000+00:00
+created_at: {}
 document_category: medical
-document_date: 2023-02-25
+document_date: {}
 document_type: medical
-entities:
-- Dr. Brad Gish
-- Orthpaedic Associates
-- Ashley Gamblin
-- Deaconess Henderson Hospital
-- Progressive
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-02-25-PrL-001
 mime_type: application/pdf
@@ -17,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimberly-Brasher-Premise-2-25-2023/Medical/2024-10-01-Kimberly-Brasher-The-PHIA-Group-Medical-Lien-Dispute.pdf
 source_hash: sha256:f3ae64d0edcba4995cd24919d2491b8c437b5985a65b4b5691db77865a44ee4a
+contact: "[[cases/2023-02-25-prl-001/contacts/the-phia-group]]"
 ---
+
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2023-09-21-PrL-001
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-Willis-Beck-Premise-[DOB-125]/Medical-Records/2023-09-22-Robin-Willis-Beck-NORTON-WOMENS-AND-CHILDRENS-HOSPITAL-Ankle-Pain-2.pdf"
 source_hash: "sha256:d769bf5c4d3ffa46b7189ba77eebfbd10f5ce6b95130fe66930bab4d396115ef"

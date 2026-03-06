@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:b62de45b59b648b36b6b7b68e10890a1ab7095610a064e1fafb59d5516e3b9a4
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 Subject: Your Louisville Metro Government public records request #25-2254 has been closed.
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

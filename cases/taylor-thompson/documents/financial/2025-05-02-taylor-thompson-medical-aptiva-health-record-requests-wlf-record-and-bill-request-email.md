@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor
 source_hash: sha256:25dce3792d4621977d2307d4d3a5dd1614587a20518c8e2cf2c7d28beee1793f
 ---
 
+**Case:** [[cases/taylor-thompson/taylor-thompson|Taylor Thompson]]
+**Client:** [[cases/taylor-thompson/contacts/taylor-thompson|Taylor Thompson]]
+
 Subject: 16945402 - Thompson, Taylor v Rita Beechler RECS & BILLS
 From: [EMAIL-2]
 To: [EMAIL-2]

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:d73246519a8aaec2ece2dae5a56ceda3975f54b7fc6bea05b77c59d4576133a0
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 24-Cl-004424 [DOB-9] David L. Nicholson, Jefferson Circuit Clerk
 CASE NO. 24-CI-04424 JEFFERSON CIRCUIT COURT
 DIVISION FIVE (5)

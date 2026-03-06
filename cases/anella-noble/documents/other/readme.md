@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:2fc50e5b2718db85f3c2a2e5d11e36165037ff7353d2f403e95f1e7753818d55
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 CPHub Records Directory
 
 The Records directory contains all files related to a case that you wish to store.

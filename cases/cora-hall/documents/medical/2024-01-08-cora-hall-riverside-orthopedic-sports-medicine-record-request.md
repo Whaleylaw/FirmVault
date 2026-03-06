@@ -20,6 +20,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:55c62438c1a8dc3147eb64c5b62ac2dc56c195d2caac055b2bfd2324b51f0109
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 9-Jan-2024 18:09 [PHONE-22] [PHONE-21] P.1
 3 E 3*Ht ~HALEY L LAW FIRM
 Aaron G. »71/4, Esq.

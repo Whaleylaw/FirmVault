@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Destin
 source_hash: sha256:206161498e1a99949ecb2ff820289afc95be8b773b737a356f065ac508406b6c
 ---
 
+**Case:** [[cases/destiny-adkins/destiny-adkins|Destiny Adkins]]
+**Client:** [[cases/destiny-adkins/contacts/destiny-adkins|Destiny Adkins]]
+
 Subject: Adkins & Downs v Stephanie Nail & Allstate
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

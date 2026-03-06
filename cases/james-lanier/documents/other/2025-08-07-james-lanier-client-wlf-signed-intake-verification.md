@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:bf53ee40d7e3ee88c4c36eea4bc46c31cbb41cee0c81a14e058eaab7bca873ac
 ---
 
+**Case:** [[cases/james-lanier/james-lanier|James Lanier]]
+**Client:** [[cases/james-lanier/contacts/james-lanier|James Lanier]]
+
 Verification Complete
 The document has been officially verified.
 Recipient1

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:4214cabe9afdb27c0980211c22e4329a6223612c54d3962a16ba90618ae8561f
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 content_length_chars: 350
 document_metadata.attachments[0]: Amy's Pay.pdf
 document_metadata.created_at: 2025-02-18T16:53:24Z

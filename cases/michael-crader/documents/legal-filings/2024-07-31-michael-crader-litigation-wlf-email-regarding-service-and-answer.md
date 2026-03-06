@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:49989b816594f9c4af10afd35a5fef28026445943d03529abb3aab813ce4f811
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 Subject: Fwd: Claim: 04863358 Michael Crader v Megan Combs
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

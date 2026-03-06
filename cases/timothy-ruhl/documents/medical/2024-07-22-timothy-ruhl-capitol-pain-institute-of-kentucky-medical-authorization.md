@@ -1,8 +1,8 @@
 ---
 case_slug: timothy-ruhl
-created_at: 2026-02-17 00:35:39.085000+00:00
+created_at: {}
 document_category: medical
-document_date: 1966-08-05
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2023-09-14-PrL-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timothy-Ruhl-Premise-09-14-2023/HIPAA-Authorizations/2024-07-22-timothy-ruhl-Capitol-Pain-Institute-of-Kentucky-Medical-Authorization.pdf
 source_hash: sha256:aef0bc9047087fe57edcc77911256829918d41bf7a0f082c61acf64296c6f879
+contact: "[[cases/2023-09-14-prl-001/contacts/capitol-pain-institute-of-kentucky]]"
 ---
+
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 
 Timothy Ruhl
 [DOB-1]

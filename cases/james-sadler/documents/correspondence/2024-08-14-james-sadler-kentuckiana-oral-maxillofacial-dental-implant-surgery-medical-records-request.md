@@ -1,8 +1,8 @@
 ---
 case_slug: james-sadler
-created_at: 2026-02-16 23:55:23.009000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1949-06-14
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2023-04-07-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Sadler-MVA-4-07-2023/Medical-Records-Requests/2024-08-14-James-Sadler-Kentuckiana-Oral-Maxillofacial-Dental-Implant-Surgery-medical-records-request.pdf
 source_hash: sha256:eba1d70b7fd3ea0cfd47bc36aee77b32bdbb301d23ffed301aae0fd03f98b213
+contact: "[[cases/2023-04-07-mva-001/contacts/kentuckiana-oral-maxillofacial-dental-implant-surgery]]"
 ---
+
+**Case:** [[cases/james-sadler/james-sadler|James Sadler]]
+**Client:** [[cases/james-sadler/contacts/james-sadler|James Sadler]]
+
 
 Aaron G. Whaley, Esq.
 712 Lyndon Lane 

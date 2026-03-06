@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:8f35ee58481bb4f27f54f4ef38bfcf614f757cd90df73ed2d6be46b7f96cc598
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: legal
 date: 2025-01-10
 description: HIPAA Compliant Medical Authorization signed by Jeremy Lindsey authorizing Rawlings Company to release medical records to The Whaley Law Firm

@@ -1,6 +1,6 @@
 ---
 case_slug: kimberly-brasher
-created_at: 2026-02-17 00:01:56.998000+00:00
+created_at: {}
 document_category: financial
 document_type: financial
 extraction_method: native_text
@@ -10,7 +10,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimberly-Brasher-Premise-2-25-2023/Liens/2024-11-26-Kimberly-Brasher-Lien-The-Phia-Group-Lien-Correction-Acknowledgement.eml
 source_hash: sha256:95210a1de089f56fe1bfda210a74de33a9c976ac3974821607e98837f3042fe3
+contact: "[[cases/2023-02-25-prl-001/contacts/the-phia-group]]"
 ---
+
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 
 Subject: Kimberly Brasher (20240514-001078)
 From: [EMAIL-1]

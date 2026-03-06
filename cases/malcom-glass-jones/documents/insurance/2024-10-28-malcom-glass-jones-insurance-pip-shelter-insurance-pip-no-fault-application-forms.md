@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Malcom
 source_hash: sha256:b6b543b783029128000e350b2a17cef552353d7fa54764f6ad27af1e5166c8eb
 ---
 
+**Case:** [[cases/malcom-glass-jones/malcom-glass-jones|Malcom Glass Jones]]
+**Client:** [[cases/malcom-glass-jones/contacts/malcom-glass-jones|Malcom Glass Jones]]
+
 To: Page: 1 of 7 2024-10-28 11:47:41 CDT [POLICY-1]6 From: Caitlin Ploudre
 FACSIMILE TRANSMITTAL COVER LETTER
 pareeres SHELTER INSURANCE COMPANIES

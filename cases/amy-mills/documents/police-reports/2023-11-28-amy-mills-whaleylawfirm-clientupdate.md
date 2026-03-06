@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:6c087927e62043ac7d7848caec571a4ddfd3c3a152542c69107a1f2aebb41461
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Usky aetna AETNA BETTER HEALTH® OF KENTUC KY
 
 Name AMY MILLS Date of Birth [DOB-1] Member 1D/State Medicaid px [PHONE-10]

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:9f656399e7db2a78687b48a3f92885f7d974d81d6920544612c33522f3221544
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 Subject: RE: EXTERNAL MESSAGE Charles Johnson v. Robert Lowe (24-CI-002475)
 From: [EMAIL-1]
 To: [EMAIL-2], [EMAIL-26]

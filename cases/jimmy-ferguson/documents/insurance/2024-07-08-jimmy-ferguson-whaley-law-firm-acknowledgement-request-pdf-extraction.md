@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:b441257764ffc576a5211491316bd8ddc17c92a360df1ebfc31e3735fa6013bc
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 category: Correspondence
 date: 2024-07-17
 description: Letter dated 7/17/2024 from Kentucky Farm Bureau Claims Department to Whaley Law Firm requesting additional claim information (policy [PHONE-1], claim 04979889) to route to proper adjuster Monica Mouser.

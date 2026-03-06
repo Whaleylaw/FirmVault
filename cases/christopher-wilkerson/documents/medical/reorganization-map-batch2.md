@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:8499268d251a010ab3231c048e1b4001818ae6b236a833512a1e0a5b1b93e228
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 batch_id: batch_2_of_2
 batch_range: files_43_to_84
 case_name: Christopher-Wilkerson-WC-MVA-[DOB-20]

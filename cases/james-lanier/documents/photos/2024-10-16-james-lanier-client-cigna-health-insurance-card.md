@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:c1024642ef820d1c5603f299c70a9c5501d7e90b02266e6716ff25f73eaef434
 ---
 
+**Case:** [[cases/james-lanier/james-lanier|James Lanier]]
+**Client:** [[cases/james-lanier/contacts/james-lanier|James Lanier]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Lanier-MVA-6-28-2025/Client/2024-10-16-James-Lanier-Client-Cigna-Health-Insurance-Card.jpg

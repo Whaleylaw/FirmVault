@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:1af17aa84730d0055337b20e30fbb36432e30df8b00ecc1569bdd1641404fafa
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 case_folder: Jimmy-Ferguson-MVA-5-30-2024
 job_id: file-org-6012a00a
 phases.Phase 5: Verification.completed_at: 2026-02-03T22:48:22.832849

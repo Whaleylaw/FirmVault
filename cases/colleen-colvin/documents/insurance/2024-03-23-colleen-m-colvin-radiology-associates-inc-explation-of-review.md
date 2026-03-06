@@ -1,10 +1,9 @@
 ---
 case_slug: colleen-colvin
-created_at: 2026-02-16 22:28:37.522000+00:00
+created_at: {}
 document_category: insurance
 document_type: insurance
-entities:
-- State Farm
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-10-01-MVA-001
 mime_type: application/pdf
@@ -12,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Colleen-Colvin-MVA-10-01-2023/Medical-Records/2024-03-23-Colleen-M-Colvin-Radiology-Associates-Inc-Explation-of-Review.pdf
 source_hash: sha256:54545b959d54d50d8b08556b3d37b190d7b58132c75f1e1fa4d4a01b42ba9968
+contact: "[[cases/2023-10-01-mva-001/contacts/radiology-associates]]"
 ---
+
+**Case:** [[cases/colleen-colvin/colleen-colvin|Colleen Colvin]]
+**Client:** [[cases/colleen-colvin/contacts/colleen-colvin|Colleen Colvin]]
+
 
 S& State Farm’ EXPLANATION OF REVIEW
 This is not a bill

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:60bb8d596bb10488a8e8ff512b0a89d9ccaf517c553176010f2d72e5f8455848
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 category: Medical Records
 description: Emergency Room Level 3 visit documentation
 entities[0]: Alma Socorro Cristobal Avendaño

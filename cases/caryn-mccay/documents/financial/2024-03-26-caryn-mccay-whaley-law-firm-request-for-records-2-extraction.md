@@ -1,8 +1,8 @@
 ---
 case_slug: caryn-mccay
-created_at: 2026-02-16 22:17:54.427000+00:00
+created_at: {}
 document_category: financial
-document_date: 2024-03-26
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2023-07-30-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 90
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-McCay-MVA-7-30-2023/Reports/2026-02-01-file-organization/extractions_old_20260201_215100/2024-03-26-Caryn-McCay-Whaley-Law-Firm-Request-for-Records-2_extraction.json
 source_hash: sha256:294242e79f087fc8198472114594574a10ab701fa9bf4eab8bee6bfc47ce9049
+contact: "[[cases/2023-07-30-mva-001/contacts/caryn-mccay]]"
 ---
+
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 
 extraction.classification.bucket: Medical Records
 extraction.classification.confidence: high

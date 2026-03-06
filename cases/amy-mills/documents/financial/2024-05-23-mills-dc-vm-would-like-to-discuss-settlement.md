@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:ad0e0f0a6e3286e7aa5e4a31364df7145cd4cf4088add86cf615722d4b34f5d9
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Subject: New Voice Message from Faye Gaither 103 on [DOB-1] 2:02 PM
 From: [EMAIL-2]
 To: Sarena@whaleylawfirm.com

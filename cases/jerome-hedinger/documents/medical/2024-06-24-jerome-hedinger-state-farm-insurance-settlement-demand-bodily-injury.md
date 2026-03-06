@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2023-10-24-PrL-001
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome-Hedinger-Premise-DB-[DOB-1]/Insurance/2024-06-24-Jerome-Hedinger-State-Farm-Insurance-Settlement-Demand-Bodily-Injury.pdf"
 source_hash: "sha256:1ba9f28fc7d1eda8e7726d82fc586a305472d26adf3da943854ecf21d7dac3a2"

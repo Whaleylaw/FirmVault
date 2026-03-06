@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Collee
 source_hash: sha256:3dc4fc1daf081fca2dae0baeadd3aee78ee6944e84a4a83ca59efe922eca3867
 ---
 
+**Case:** [[cases/colleen-colvin/colleen-colvin|Colleen Colvin]]
+**Client:** [[cases/colleen-colvin/contacts/colleen-colvin|Colleen Colvin]]
+
 Fax Confirmation
 To: [PHONE-12] From: [PHONE-11]
 Doc:

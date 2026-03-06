@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:54a3b9bcc07c5f3903d173e41ccd78a7cf06fcb418da17af45c250e85d985997
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 DCN: AU223542600454001 Claim: IZX7996-002 Received Date: [DOB-1] BCN: [PHONE-22]
 Brel
 il

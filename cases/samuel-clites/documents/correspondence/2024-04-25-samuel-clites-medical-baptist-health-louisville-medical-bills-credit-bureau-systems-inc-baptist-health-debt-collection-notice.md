@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Samuel
 source_hash: sha256:ed09f723a3250b7cb90404a8e21e646d865586883f7d52edfd29f46a985f1b11
 ---
 
+**Case:** [[cases/samuel-clites/samuel-clites|Samuel Clites]]
+**Client:** [[cases/samuel-clites/contacts/samuel-clites|Samuel Clites]]
+
 Credit Bureau Systems, Inc.
 P.O. Box 8249
 Paducah, KY 42002-8249

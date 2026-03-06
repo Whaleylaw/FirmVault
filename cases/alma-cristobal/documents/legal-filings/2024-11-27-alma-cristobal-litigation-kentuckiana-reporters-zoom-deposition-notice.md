@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:bac926fa02c80d66eec770a489dd0c97ce65fb4aabdac7afac296490e76c056d
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 Subject: 2-5 Deposition of Alma Cristobal; Roy Hamilton | Zoom Details
 From: [EMAIL-7]
 To: [EMAIL-2], [EMAIL-3], [EMAIL-4], sarena@whaleylawfirm.com

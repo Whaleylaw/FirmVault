@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:c86114345d0b02636d12254fe4ad534a1ea65c7869d97aa6883072c4ccdc83c9
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Stich-WC-[DOB-1]/Insurance/2024-08-28-Amy-Stich-Insurance-Harford-Mutual-Insurance-Group-Payment-Confirmation-Screenshot.jpg

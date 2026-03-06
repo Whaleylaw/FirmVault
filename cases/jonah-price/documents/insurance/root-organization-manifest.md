@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jonah-
 source_hash: sha256:c12b0ff53ec95e6dd5895de2b15bb9b6e927783c39dac71b4e4eb42e8c8ca928
 ---
 
+**Case:** [[cases/jonah-price/jonah-price|Jonah Price]]
+**Client:** [[cases/jonah-price/contacts/jonah-price|Jonah Price]]
+
 accident_date: 2025-08-25
 case_type: MVA
 client_name: Jonah-Price

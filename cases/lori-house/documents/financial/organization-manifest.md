@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Lori-H
 source_hash: sha256:b7e48e508a131b5f0ba8bfb08a8b167e58dd7e93c99a22a0819a2b6b85e3d10f
 ---
 
+**Case:** [[cases/lori-house/lori-house|Lori House]]
+**Client:** [[cases/lori-house/contacts/lori-house|Lori House]]
+
 accident_date: 2025-11-19
 case_type: MVA
 client_name: Lori-House

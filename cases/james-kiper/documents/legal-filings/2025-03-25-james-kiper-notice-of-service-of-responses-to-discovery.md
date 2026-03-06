@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:db6fd5c22c51b2bc593f3f56ea69d476a30f989e2799002939d6ee166835e65e
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 ELECTRONICALLY FILED
 CASE NO. 23-CI-005758 JEFFERSON CIRCUIT COURT
 DIVISION EIGHT (8)

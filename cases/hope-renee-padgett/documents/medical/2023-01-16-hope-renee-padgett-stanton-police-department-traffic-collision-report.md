@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2023-01-16-MVA-001
 ---
 
+**Case:** [[cases/hope-renee-padgett/hope-renee-padgett|Hope Renee Padgett]]
+**Client:** [[cases/hope-renee-padgett/contacts/hope-renee-padgett|Hope Renee Padgett]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Hope-Renee-Padgett-MVA-1-16-2023/Investigation/2023-01-16-Hope-Renee-Padgett-Stanton-Police-Department-Traffic-Collision-Report.pdf"
 source_hash: "sha256:bdc9b2b8c2a06b419be44d7deaf5ff0ea642098f0b2aa1bdcabbd06b898d9ca4"

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:195e0896a89032743abeeb4c8a96d160a0514be9abcbc1e1828f6aebebe64584
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Amy Mills
 200 Meadow Lark Circle
 Corbin, KY  40701

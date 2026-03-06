@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:dc82d4ad1eb3a5150d4a3d806444f15c5b87a2c2469ad2d30323c839a42ee500
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 Treat T Mhirreantane Tfib/OAOR ALT. AT? TM bem narte 1f/Ans? Paw Gawrar
 Fax Transmission
 ¥ W

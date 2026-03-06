@@ -1,8 +1,8 @@
 ---
 case_slug: davis-robinson
-created_at: 2026-02-16 22:55:59.107000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1967-08-09
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2025-05-02-SF-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-Robinson-SF-05-02-2025/Medical-Records/2025-05-21_Medical_OrthoCincy-Records-Request_001.pdf
 source_hash: sha256:dfff105645d894f596d33904ae7c89b696fffc509267ae465fb10ac02c29792a
+contact: "[[cases/2025-05-02-sf-001/contacts/orthocincy]]"
 ---
+
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 
 Justin Chumbley
 Aaron G. Whaley, Esq.

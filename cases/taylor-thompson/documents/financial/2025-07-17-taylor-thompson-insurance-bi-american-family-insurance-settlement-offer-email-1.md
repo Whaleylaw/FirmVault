@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor
 source_hash: sha256:cba2a80eb4daac9e507ac2d63f8b85081722d4a8aaa498438b396fb619f8d4a3
 ---
 
+**Case:** [[cases/taylor-thompson/taylor-thompson|Taylor Thompson]]
+**Client:** [[cases/taylor-thompson/contacts/taylor-thompson|Taylor Thompson]]
+
 Subject: FW: *EXT*Your Client:  Taylor Thompson; Claim #01008378108
 From: [EMAIL-1]
 To: [EMAIL-6]

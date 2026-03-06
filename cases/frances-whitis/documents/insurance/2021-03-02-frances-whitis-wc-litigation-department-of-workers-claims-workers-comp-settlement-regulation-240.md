@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/France
 source_hash: sha256:b91f8727ccebce89c615e1ab347850781a87b19a68db84373d3e6a8159d9a035
 ---
 
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 Title 803 | Chapter 025 |Regulation 240
 803 KAR 25:240. Workers' compensation unfair claims settlement practices.
 RELATES TO: KRS 304.12-230, 342.267, 342.610(7)

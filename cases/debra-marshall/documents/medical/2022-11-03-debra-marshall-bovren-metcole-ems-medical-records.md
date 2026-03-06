@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:c15f7dff42eae98f88198cb3b1312fd06df608ae3ba830dad06302b2ce43bf5a
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 | CERTIFICATION OF MEDICAL RECORDS AFFIDAVIT
 bead GQ woons ,being first duly sworn on his/her oath, says thet:
 (Name ofrecords custodtar/elerk)

@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2020-07-14-PrL-001
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate-of-Betty-Prince-Premise-7-14-2020/Medical/2022-03-09-Robert-Prince-Kindred-Healthcare-Medical-Records-Request.pdf"
 source_hash: "sha256:05b04364d5f9d31e78225a33ca28c98e337a727a27b825a864cd06380f481418"

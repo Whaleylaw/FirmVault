@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:8bd4409f44f19988ab8ee959e240efa2e010f3bbcc33b831f50630a2e9a7c6a7
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: litigation_correspondence
 date: 2025-03-28
 description: Email from Bryce Koon to defense counsel regarding upcoming plaintiff discovery responses and request for vehicle photographs and inspection availability in the Sitgraves/Adadevoh v. Caal Worldwide case.

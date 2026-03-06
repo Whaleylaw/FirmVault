@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya
 source_hash: sha256:9d0ad89dd41cfaabe1e973ed2f4d893607858a31ad714bb2fe878c882c7eaec7
 ---
 
+**Case:** [[cases/sariya-mason/sariya-mason|Sariya Mason]]
+**Client:** [[cases/sariya-mason/contacts/sariya-mason|Sariya Mason]]
+
 # Video Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya-Mason-DB-[DOB-1]/Investigation/2022.08.25-Mason-CPD-Neighbor-Video-Footage-Unprovoked-Attack.mp4

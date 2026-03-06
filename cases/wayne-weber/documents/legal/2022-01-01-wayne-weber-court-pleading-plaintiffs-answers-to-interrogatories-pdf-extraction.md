@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:a946ec5ed3b45fb0fca7040ceeb3f061c15e0c5bb593c29faabc3a8cb94ea6b2
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: legal_filing
 extraction.date: 2022-01-01
 extraction.description: Court pleading containing plaintiff's answers to interrogatories in Wayne Weber's case dated January 1, 2022.

@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-N
 source_hash: sha256:ac313f5c8015900c0ee78617b69d32f3913eb328ab88a98f3d894e6be224b64e
 ---
 
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 Fax server 3/17/2025 9:54:44 AM EDT PAGE 1/045 Fax server
 ST. ELIZABETH HEALTHCARE
 pi ~ i 1Medical Village Drive,

@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:fcc2453c42298c6e7645452b834dda9264fa8c2bf057abc40b4a51d5c00dc78c
 ---
 
+**Case:** [[cases/michael-ditto-jr/michael-ditto-jr|Michael Ditto Jr]]
+**Client:** [[cases/michael-ditto-jr/contacts/michael-ditto-jr|Michael Ditto Jr]]
+
 BN NORTON’
 HEALTHCARE MEDICAL RECORDS CERTIFICATION
 Patient Name: Ditto, Michael Vincent Jr.

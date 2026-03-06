@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:74dc2a6323413f10311202958e1b48ac65fbd902919ff37ef09a48761590ec89
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 Subject: Shannon Lankswert v UPS
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

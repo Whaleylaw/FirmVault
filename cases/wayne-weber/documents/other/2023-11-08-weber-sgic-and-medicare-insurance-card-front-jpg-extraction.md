@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:ac83d3ef5957f59ea9466e26e57d3ee36f9ffe5d215947574aa69a5b1d279f26
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 category: Insurance
 date: 2023-11-08
 description: Front of Wayne Weber's Southern Guaranty Insurance Company (SGIC) Medicare Supplement and Medicare insurance cards.

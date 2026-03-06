@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nicole
 source_hash: sha256:54cf286579ef55bf537fcd50efbbad116ce42c26f3d04a31ff29edbf590576e6
 ---
 
+**Case:** [[cases/nicole-tewes/nicole-tewes|Nicole Tewes]]
+**Client:** [[cases/nicole-tewes/contacts/nicole-tewes|Nicole Tewes]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nicole-Tewes-MVA-7-5-2025/Client/2025-07-05-Nicole-Tewes-Client-Client-Health-Insurance-Card.jpeg

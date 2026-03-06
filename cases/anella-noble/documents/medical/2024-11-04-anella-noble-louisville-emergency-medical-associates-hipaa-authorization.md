@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:865c23d0166ca1186ac6ca1d516ebe67419e495b8e965ae4206f1df9caff7685
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 [DOB-1]
 ***-**-7737 [DOB-1]
 Louisville Emergency Medical Associates

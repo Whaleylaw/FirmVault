@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dewayn
 source_hash: sha256:4047b2765f6d611cf61767eed2471fc09f4a9a666e2d12a7b94b8e3a48c457c9
 ---
 
+**Case:** [[cases/dewayne-ward/dewayne-ward|Dewayne Ward]]
+**Client:** [[cases/dewayne-ward/contacts/dewayne-ward|Dewayne Ward]]
+
 [DOB-1]
 Starlite Chiropractic
 1169 Eastern Parkway

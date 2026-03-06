@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:33182afd9584aaab129584d29bde5efc3fac8a9c7c95f9b2e4eeb2a702e142f3
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 category: Court Filing
 document_date: 2024-05-15
 entities.case_numbers[0]: 23-CI-005758

@@ -20,6 +20,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:5eaf76d33ed32d36d07e517f2385263e88c50f770efe96a32577365e84684a24
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 RECORDS CERTIFICATION
 
 PROVIDER: Ayurian i Anew Cendur FACILITY

@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2019-04-26-PrL-001
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-[DOB-43]/Client/2022-10-31-Amy-Mills-UK-NeuroSurgery-MedicalRecordsAuthorization.pdf"
 source_hash: "sha256:e5f6d7cdd3f407df988c026fc3dc8ea73251a551bf3b16e94f980ed41150d91f"

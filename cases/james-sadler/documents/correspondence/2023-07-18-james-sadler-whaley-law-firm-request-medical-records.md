@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:216377232ad040bdaf8e00cadd948e1e02e118aa96246244e4bd600c5c27a9cf
 ---
 
+**Case:** [[cases/james-sadler/james-sadler|James Sadler]]
+**Client:** [[cases/james-sadler/contacts/james-sadler|James Sadler]]
+
 Jessica Bottorff
 Aaron G. Whaley, Esq.
 THE 712 Lyndon Lane

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julian
 source_hash: sha256:fc405a17a32d54d023cdd43f22ea269cf8cb562292475334726fedd98a1ccfbe
 ---
 
+**Case:** [[cases/julian-wilson/julian-wilson|Julian Wilson]]
+**Client:** [[cases/julian-wilson/contacts/julian-wilson|Julian Wilson]]
+
 item_0.jsonb_agg[0].case_create_date: 1769714789592
 item_0.jsonb_agg[0].client_address: 9406 Doral Ct, Apt 4, Louisville, KY 40220
 item_0.jsonb_agg[0].client_name: Julian Wilson

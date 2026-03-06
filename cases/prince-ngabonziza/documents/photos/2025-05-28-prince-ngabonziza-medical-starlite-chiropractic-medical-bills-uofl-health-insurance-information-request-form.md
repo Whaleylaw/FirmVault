@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Prince
 source_hash: sha256:7a2d8fd8799fb4125d4b3b7a0fed9632b5f0c066e813647e62247e10eb0d13c1
 ---
 
+**Case:** [[cases/prince-ngabonziza/prince-ngabonziza|Prince Ngabonziza]]
+**Client:** [[cases/prince-ngabonziza/contacts/prince-ngabonziza|Prince Ngabonziza]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Prince-Ngabonziza-MVA-5-27-2025/Medical/Starlite Chiropractic/Medical Bills/2025-05-28-Prince-Ngabonziza-Medical-Starlite Chiropractic-Medical-Bills-UofL-Health-Insurance-Information-Request-Form.jpg

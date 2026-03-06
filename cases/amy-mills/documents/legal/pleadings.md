@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:90820a43b90b2e0745240a36ea2c05c00b4b1096267c9c7d776211ad333e8ffe
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 item_0.certificate_of_service: 2020-03-04
 item_0.filing_party_name: The Whaley Law Firm
 item_0.pleading_type: Complaint

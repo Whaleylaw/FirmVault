@@ -19,6 +19,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:a6061a71c5ec2301e5bce4d94f240a5407eaff9af9f678acd272bfb03abbbe68
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 WG HealthCare
 Certification of Medical Records
 Full Name of Patient: mM‘C he é f ca der

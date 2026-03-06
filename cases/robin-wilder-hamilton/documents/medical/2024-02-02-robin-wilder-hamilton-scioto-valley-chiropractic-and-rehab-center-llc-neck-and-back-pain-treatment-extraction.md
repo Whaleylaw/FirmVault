@@ -1,8 +1,8 @@
 ---
 case_slug: robin-wilder-hamilton
-created_at: 2026-02-17 00:16:14.057000+00:00
+created_at: {}
 document_category: medical
-document_date: 2024-02-02
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2023-06-15-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 90
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-Wilder-Hamilton-MVA-6-15-2023/reports/extractions/2024-02-02-Robin-Wilder-Hamilton-Scioto-Valley-Chiropractic-and-Rehab-Center-LLC-Neck-and-Back-Pain-Treatment_extraction.json
 source_hash: sha256:cb17987dd0460fba8b288d197f6c2177167d14d7e8dee8660050aa9f102bf964
+contact: "[[cases/2023-06-15-mva-001/contacts/scioto-valley-chiropractic-and-rehab-center-llc]]"
 ---
+
+**Case:** [[cases/robin-wilder-hamilton/robin-wilder-hamilton|Robin Wilder Hamilton]]
+**Client:** [[cases/robin-wilder-hamilton/contacts/robin-wilder-hamilton|Robin Wilder Hamilton]]
+
 
 extraction.classification.bucket: Medical Records
 extraction.classification.confidence: high

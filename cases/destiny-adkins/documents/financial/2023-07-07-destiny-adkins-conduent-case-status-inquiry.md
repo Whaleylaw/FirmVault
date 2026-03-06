@@ -1,8 +1,8 @@
 ---
 case_slug: destiny-adkins
-created_at: 2026-02-16 23:26:10.550000+00:00
+created_at: {}
 document_category: financial
-document_date: 2021-04-16
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2021-04-16-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Destiny-Adkins-MVA-04-16-2021/Insurance/2023-07-07-Destiny-Adkins-Conduent-Case-Status-Inquiry.pdf
 source_hash: sha256:92c0eec918b1965cbbc230879feb0dc428c3218ecf866e4f90f449e3e4e59e03
+contact: "[[cases/2021-04-16-mva-001/contacts/conduent]]"
 ---
+
+**Case:** [[cases/destiny-adkins/destiny-adkins|Destiny Adkins]]
+**Client:** [[cases/destiny-adkins/contacts/destiny-adkins|Destiny Adkins]]
+
 
 CONDUENT @ |.
 PO Box 30114 Salt Lake City, UT 84130-9993

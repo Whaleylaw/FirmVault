@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:fff1d265b3eb33ac55318af89714d96d7daa72914f6702e1237291a2d81310fe
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 Male a left hand qurn. No hand signals |
 FILED
 ORGAN CO CIRIDIST COURTS

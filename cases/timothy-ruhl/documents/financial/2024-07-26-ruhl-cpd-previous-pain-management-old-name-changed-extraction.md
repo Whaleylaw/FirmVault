@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:827977518f0f77a891f48f87a901cf9d02686d9c302871379e0914baeffecdcc
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 content_analysis.category: Investigation
 content_analysis.date: 2024-07-26
 content_analysis.description: Client photo documentation

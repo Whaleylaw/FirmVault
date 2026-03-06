@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:2763f5591a917e0b4cfe90bc56b99b490085ed170b342a201a4d4cb45c937f6b
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: ChartSwap Payment Confirmation
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

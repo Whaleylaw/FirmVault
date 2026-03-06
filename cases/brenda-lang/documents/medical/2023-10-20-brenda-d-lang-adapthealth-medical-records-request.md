@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2021-09-03-MVA-001
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda-Lang-MVA-[DOB-88]/Medical/2023-10-20-Brenda-D-Lang-AdaptHealth-Medical-Records-Request.pdf"
 source_hash: "sha256:805244d4741e97459f612b3f6aa0adde967cf4cb131937d8f10606f4c1409685"

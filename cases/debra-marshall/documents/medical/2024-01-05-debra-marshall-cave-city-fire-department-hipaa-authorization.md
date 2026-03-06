@@ -1,6 +1,6 @@
 ---
 case_slug: debra-marshall
-created_at: 2026-02-16 23:04:56.163000+00:00
+created_at: {}
 document_category: medical
 document_type: medical
 extraction_method: native_text
@@ -10,7 +10,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-Marshall-MVA-12-3-2022/Records-Requests/2024-01-05-Debra-Marshall-Cave-City-Fire-Department-HIPAA-Authorization.pdf
 source_hash: sha256:0b4494d109f85a74072e2e733046a2b6fe2b8a1eefd6b1c7861c35b44b10f00b
+contact: "[[cases/2022-12-03-mva-001/contacts/cave-city-fire-department]]"
 ---
+
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 
 Cave City Fire Department
 Attn: EMS Services

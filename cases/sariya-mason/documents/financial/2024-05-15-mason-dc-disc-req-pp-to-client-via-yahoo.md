@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya
 source_hash: sha256:97af67dc4b032c4f319164655d371a5bae405bae69ea0c793efa04132f879a0a
 ---
 
+**Case:** [[cases/sariya-mason/sariya-mason|Sariya Mason]]
+**Client:** [[cases/sariya-mason/contacts/sariya-mason|Sariya Mason]]
+
 Subject: Here is the Discovery Request related to Sariya Mason's Claims
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

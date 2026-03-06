@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor
 source_hash: sha256:99ae3125f8244c6c313a9485d6e37e49a4a7bf130ff8bccdb4a295d8f507bbf1
 ---
 
+**Case:** [[cases/taylor-thompson/taylor-thompson|Taylor Thompson]]
+**Client:** [[cases/taylor-thompson/contacts/taylor-thompson|Taylor Thompson]]
+
 GRANT My authority listed (sthe [C]
 [M]and [
 Create 

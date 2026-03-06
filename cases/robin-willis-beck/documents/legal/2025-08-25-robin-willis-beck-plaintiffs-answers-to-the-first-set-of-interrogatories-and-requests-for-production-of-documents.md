@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:c8111a7ba07a2591ecd5fdd7b758a177171607327b06fb20619b34d92073189f
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 1 
 CIVIL ACTION NO. 24-CI-000532 JEFFERSON CIRCUIT COURT 
  DIVISION FOUR (4) 

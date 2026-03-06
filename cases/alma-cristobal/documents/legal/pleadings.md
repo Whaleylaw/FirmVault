@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:72a6aaa4e61cb19e8dde0685e53bdb0e838d8cc2709892ccf1e2354d30ae066a
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 item_0.certificate_of_service: 2024-07-09
 item_0.filing_party_name: Bryce Koon
 item_0.pleading_type: Complaint

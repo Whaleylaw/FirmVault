@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ceceli
 source_hash: sha256:8124ae5dc16f791c3950381019af57c40cadfe90978d5cd76e1f17f93bd90326
 ---
 
+**Case:** [[cases/cecelia-neltner/cecelia-neltner|Cecelia Neltner]]
+**Client:** [[cases/cecelia-neltner/contacts/cecelia-neltner|Cecelia Neltner]]
+
 Subject: Completed: The Whaley Law Firm has requested your signature.
 From: [EMAIL-2]
 To: [EMAIL-2]

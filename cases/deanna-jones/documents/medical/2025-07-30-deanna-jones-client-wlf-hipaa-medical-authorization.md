@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Deanna
 source_hash: sha256:476940c3355541927c862a8943935ee617908e256b5e49219ae1e682916e25c9
 ---
 
+**Case:** [[cases/deanna-jones/deanna-jones|Deanna Jones]]
+**Client:** [[cases/deanna-jones/contacts/deanna-jones|Deanna Jones]]
+
 HIPAA PRIVACY AUTHORIZATION For Disclosure of Protected Health Information Relevant to Litigation or Pending Claims (Pursuant to HIPAA, CFR 164.508)
 
 Name: Address: Date of Birth: Social Security No: 1. I make this authorization for the purpose of copying records in connection with a lawsuit or

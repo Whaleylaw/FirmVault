@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:4b37c1cea811f9003522b0957d6f1857a67a1795b484ea5b93662b04402f3a6e
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: insurance
 date: 2024-12-05
 description: Letter to Auto Owners Insurance acknowledging claim, requesting written acknowledgment, and instructing to reserve $4,000 in PIP benefits and use $6,000 for non-hospital bills

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:73d1a7aa58eb5c6c4cce62605d5f777b35eb81b1b513c757f37fe75cdeca0767
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 category: Medical
 description: Patient history summary showing chiropractic treatment visits from August through October 2024 with itemized charges for services including adjustments, therapy, and examinations.
 entities[0]: Starlite Injury

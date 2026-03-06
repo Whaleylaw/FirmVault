@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nicole
 source_hash: sha256:279b6e8aed244aa4fbd4dcdb621cd357c54d7f7d51f12a3829147dc5a514a29e
 ---
 
+**Case:** [[cases/nicole-tewes/nicole-tewes|Nicole Tewes]]
+**Client:** [[cases/nicole-tewes/contacts/nicole-tewes|Nicole Tewes]]
+
 RADIOLOGY
 ASSOCIATES RADIOLOGY ASSOCIATES OF NORTHERN KENTUCKY
 2 MERIDIAN BLVD

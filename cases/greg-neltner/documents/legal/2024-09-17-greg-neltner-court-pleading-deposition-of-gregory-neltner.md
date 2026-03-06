@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-N
 source_hash: sha256:593ef7806094931dbbbf20a2977486cb823e5c028d2775e535748439244c15bf
 ---
 
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 LOUISVILLE LEXINGTON LONDON FLORENCE CINCINNATI INDIANAPOLIS ORLANDO JACKSONVILLE TAMPA.
 KENTUCKIANA —— COURT REPORTERS
 CIVIL ACTION NO. 24-CI-00452

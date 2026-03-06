@@ -1,8 +1,8 @@
 ---
 case_slug: shannon-colvin
-created_at: 2026-02-17 00:21:07.806000+00:00
+created_at: {}
 document_category: financial
-document_date: 2023-03-02
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2023-10-01-MVA-002
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shannon-Colvin-MVA-10-1-2023/Billing-Invoices/2023-03-02-Shannon-Colvin-Radiology-Associates-Inc-Billing-Records.pdf
 source_hash: sha256:874dfcc18a5daa9ed5c423408755d8224064498fb3249731cee692b59dbb8b7e
+contact: "[[cases/2023-10-01-mva-002/contacts/radiology-associates-inc]]"
 ---
+
+**Case:** [[cases/shannon-colvin/shannon-colvin|Shannon Colvin]]
+**Client:** [[cases/shannon-colvin/contacts/shannon-colvin|Shannon Colvin]]
+
 
 CERTIFICATION OF MEDICAL BILLING RECORDS AFFIDAVIT
 Laura Rogers , being first duly sworn on his/her oath, says that:

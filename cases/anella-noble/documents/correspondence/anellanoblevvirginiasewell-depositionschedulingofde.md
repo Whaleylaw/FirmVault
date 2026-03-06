@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:4631bb4913a1bfcf275944425e8bb0ad4d4efe3c7f26f1a628eba116eb0b206d
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: Anella Noble v Virginia Sewell - Deposition Scheduling of Def Sewell
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1], [EMAIL-2]

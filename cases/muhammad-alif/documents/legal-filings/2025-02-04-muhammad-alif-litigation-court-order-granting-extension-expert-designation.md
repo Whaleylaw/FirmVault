@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:129a9e89f3cf3dfcf8eee3774b2e671961e9cce72ea1c64f9ac7ae368e4a7913
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 OET : 000001 of 000001
 Entered 23-CI-005509 [DOB-3] David L. Nicholson, Jefferson Circuit Clerk
 Entered 23-CI-005509 [DOB-2] David L. Nicholson, Jefferson Circuit Clerk NOT ORIGINAL

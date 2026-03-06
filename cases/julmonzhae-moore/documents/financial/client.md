@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmon
 source_hash: sha256:46a991e93fbfb92df0833b2f69ca910126cc7cb499517dc07f85ea5de76fc620
 ---
 
+**Case:** [[cases/julmonzhae-moore/julmonzhae-moore|Julmonzhae Moore]]
+**Client:** [[cases/julmonzhae-moore/contacts/julmonzhae-moore|Julmonzhae Moore]]
+
 address: 1600 Brick Kiln Ln, Louisville, KY 40216
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

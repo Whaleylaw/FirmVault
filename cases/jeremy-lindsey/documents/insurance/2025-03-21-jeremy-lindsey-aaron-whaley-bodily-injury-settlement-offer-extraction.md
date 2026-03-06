@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:e2bcb192d0f0572385f68fa2ccabe8d0b2d81ee8b67ebd51163f482fda77896a
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: insurance
 date: 2025-03-21
 description: Settlement offer letter from Progressive presenting full $50,000 bodily injury coverage limit to be distributed among all injured parties from December 1, 2024 accident

@@ -1,8 +1,8 @@
 ---
 case_slug: caryn-mccay
-created_at: 2026-02-16 22:18:21.015000+00:00
+created_at: {}
 document_category: other
-document_date: 2023-11-21
+document_date: {}
 document_type: other
 extraction_method: native_text
 legacy_case_id: 2023-07-30-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 85
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-McCay-MVA-7-30-2023/extractions/2023-11-21-Caryn-McCay-Whaley-Law-Firm-Initial-Consultation_extraction.json
 source_hash: sha256:8792cfc05c20f1865ef04d7df2b105dccb4d59639578137aa90eab4b7dd8d166
+contact: "[[cases/2023-07-30-mva-001/contacts/caryn-mccay]]"
 ---
+
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 
 category: legal_documents
 description: Initial consultation with Whaley Law Firm

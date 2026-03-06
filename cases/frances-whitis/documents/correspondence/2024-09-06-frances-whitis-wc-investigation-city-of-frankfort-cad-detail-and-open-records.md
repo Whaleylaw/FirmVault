@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/France
 source_hash: sha256:9c834035a7569d9284d1ac157b1aae31747a1026025f641edd241e1cf2692260
 ---
 
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 CAPITAL OF KENTUCKY
 3 Cas taclvded.
 October 3, 2024

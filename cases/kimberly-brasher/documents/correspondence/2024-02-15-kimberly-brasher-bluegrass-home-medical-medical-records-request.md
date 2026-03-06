@@ -1,8 +1,8 @@
 ---
 case_slug: kimberly-brasher
-created_at: 2026-02-17 00:02:20.556000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1973-03-25
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2023-02-25-PrL-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimberly-Brasher-Premise-2-25-2023/Medical/2024-02-15-Kimberly-Brasher-Bluegrass-Home-Medical-Medical-Records-Request.pdf
 source_hash: sha256:fac18734e63dfb7e6433cef5663d9b233baaffa36d17b6daafd8bea4c7def5c8
+contact: "[[cases/2023-02-25-prl-001/contacts/bluegrass-home-medical]]"
 ---
+
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

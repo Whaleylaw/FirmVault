@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:d759edf8fc5c4b0bf9268fbfcba984bbc346d075cadb283674c84c0d4d41cf84
 ---
 
+**Case:** [[cases/michael-deshields/michael-deshields|Michael Deshields]]
+**Client:** [[cases/michael-deshields/contacts/michael-deshields|Michael Deshields]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michael-Deshields-MVA-[DOB-1]/Investigation/2025-10-31-Michael-Deshields-Investigation-Client-Photo-of-Injury-1.jpg

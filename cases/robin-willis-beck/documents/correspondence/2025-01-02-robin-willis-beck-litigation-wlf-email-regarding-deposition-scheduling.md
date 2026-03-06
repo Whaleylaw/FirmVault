@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:3e1c254e86d653c9cf32de7a48af2a8bb79f3f1786349bbf8971f04be031c38e
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 Subject: Re: Robin Willis Beck v Danny Wimmer Presents - Jeff Cir Crt 24-CI-000532
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

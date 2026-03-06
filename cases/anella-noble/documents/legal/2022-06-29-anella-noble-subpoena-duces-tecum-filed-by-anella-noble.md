@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:fe8f33c07f68dc6aaef47e2358fd75da890b6d8a7fecbba25e571fd2123208cf
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 AOC-025.1 Doc. Code: RS
 Rev. 3-09 CaseNo.21-Cl-004985_
 page| BP Circuit

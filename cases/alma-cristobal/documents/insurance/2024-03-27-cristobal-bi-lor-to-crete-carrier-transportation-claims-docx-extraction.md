@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:c264aaaabe81859d60851830cdf9fa0ca7f67e897c5aa6b05767457e66cb4843
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 category: Insurance
 description: Bodily Injury Letter of Representation to Crete Carrier Transportation Claims
 entities[0]: Alma Cristobal

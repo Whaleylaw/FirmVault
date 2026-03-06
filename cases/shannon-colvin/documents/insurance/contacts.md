@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:03e0b1a324b1e086ccb74c37ec1ad7efdffac38f11b0c834dbc8c57b72544956
 ---
 
+**Case:** [[cases/shannon-colvin/shannon-colvin|Shannon Colvin]]
+**Client:** [[cases/shannon-colvin/contacts/shannon-colvin|Shannon Colvin]]
+
 item_0.jsonb_agg[0].address: 128 South St
 item_0.jsonb_agg[0].full_name: Shannon Colvin
 item_0.jsonb_agg[0].phone: [PHONE-9]

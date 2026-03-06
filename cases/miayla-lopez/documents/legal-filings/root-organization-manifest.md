@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Mi'Ayl
 source_hash: sha256:c220503adfbd9bb77fc924aa1cc79e33e122e6bfa72860814d3fceeeaa029a5c
 ---
 
+**Case:** [[cases/miayla-lopez/miayla-lopez|Mi'Ayla Lopez]]
+**Client:** [[cases/miayla-lopez/contacts/miayla-lopez|Mi'Ayla Lopez]]
+
 accident_date: 2025-11-14
 case_type: MVA
 client_name: Mi'Ayla-Lopez

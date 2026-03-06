@@ -1,11 +1,10 @@
 ---
 case_slug: jimmy-ferguson
-created_at: 2026-02-16 23:58:00.578000+00:00
+created_at: {}
 document_category: financial
-document_date: 2023-01-19
+document_date: {}
 document_type: financial
-entities:
-- Dr. Barry Scott Stevens
+entities: null
 extraction_method: native_text
 legacy_case_id: 2024-05-30-MVA-001
 mime_type: application/json
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-Ferguson-MVA-5-30-2024/extractions/2023-01-19-Jimmy-Ferguson-Radiology-Associates-Inc-Shoulder-Spine-Exam.pdf_extraction.json
 source_hash: sha256:e8ecd594de03d15c422c3434b787ad0fb0f7c7a31596d9b58aa3599b8ce39eb2
+contact: "[[cases/2024-05-30-mva-001/contacts/radiology-associates]]"
 ---
+
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 
 category: Medical
 date: 2023-01-19

@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Antoni
 source_hash: sha256:d23bc2df2f20d04c9af01427043bd7370cd55772a3cfac31a5e4359c49141be3
 ---
 
+**Case:** [[cases/antonio-lopez/antonio-lopez|Antonio Lopez]]
+**Client:** [[cases/antonio-lopez/contacts/antonio-lopez|Antonio Lopez]]
+
 item_0.project_name: Antonio-Lopez-MVA-[DOB-2]
 item_0.provider_full_name: Starlite Chiropractic
 item_1.parent_facility: UofL Health

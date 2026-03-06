@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:a39db3e68e5b35a20346752ab6cd9a0cd1f9e67918bd65b74d8ecd47b4850f0e
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 WARD, HOCKER & THORNTON, PLLC
 Vine Center · 333 West Vine Street, Suite 1100 · Lexington, Kentucky 40507 · P [PHONE-1] · F [PHONE-4]
 Hurstbourne Place · 9300 Shelbyville Road, Suite 700 · Louisville, Kentucky 40222 · P [PHONE-3] · F [PHONE-4]

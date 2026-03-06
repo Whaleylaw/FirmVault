@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2019-04-26-PrL-001
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-[DOB-4120]/Expenses/Amy-Mills-Updated-Chronology-and-Billing-with-Hyerlinks.pdf"
 source_hash: "sha256:df2b35fee689f5712aea155524a50bf2519ab5e4e81338c6a6051d2dcc640408"

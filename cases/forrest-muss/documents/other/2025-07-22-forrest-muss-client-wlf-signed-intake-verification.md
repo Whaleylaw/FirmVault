@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Forres
 source_hash: sha256:f55f554285b3c74436fe0c8cb2eb24b839addf2cd6f73c13b7bf0f603f87e2f4
 ---
 
+**Case:** [[cases/forrest-muss/forrest-muss|Forrest Muss]]
+**Client:** [[cases/forrest-muss/contacts/forrest-muss|Forrest Muss]]
+
 Verification Complete
 The document has been officially verified.
 Recipient1

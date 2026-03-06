@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:2c5c709bdba027e9a4c76d12ff9714adf82cae0f9fc8fce916c836bc4ea501fa
 ---
 
+**Case:** [[cases/james-lanier/james-lanier|James Lanier]]
+**Client:** [[cases/james-lanier/contacts/james-lanier|James Lanier]]
+
 08-01 Phone Call: Automobile Accident,
 Insurance Claims, and Legal
 Representation

@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:fb5eb102c47b9a156de186267f50e1d89b7eb1ec43abe5276f695de85ddc7cd6
 ---
 
+**Case:** [[cases/michael-lanier/michael-lanier|Michael Lanier]]
+**Client:** [[cases/michael-lanier/contacts/michael-lanier|Michael Lanier]]
+
 item_0.jsonb_agg[0].full_name: Michael Lanier
 item_0.jsonb_agg[0].project_name: Michael-Lanier-MVA-6-28-2025
 item_0.jsonb_agg[0].roles[0]: client

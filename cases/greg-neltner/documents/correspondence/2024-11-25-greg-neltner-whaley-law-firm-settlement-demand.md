@@ -4,6 +4,9 @@ document_category: correspondence
 legacy_case_id: 2023-04-01-MVA-002
 ---
 
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-Neltner-MVA-4-1-2023/Correspondence/2024-11-25-Greg-Neltner-Whaley-Law-Firm-Settlement-Demand.pdf"
 source_hash: "sha256:12e3922b33726b711268f0e98e75d89f72cb44cb6e052154067fed8adaf5005b"

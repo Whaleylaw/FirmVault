@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:4fbeadf31290e7b160c4b04aaae071dba4c1fce56d320824ca743b608e3c2cdb
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 content_length_chars: 222395
 document_metadata.created_at: 2024-03-11T23:03:31Z
 document_metadata.created_by: Epic Systems Corporation

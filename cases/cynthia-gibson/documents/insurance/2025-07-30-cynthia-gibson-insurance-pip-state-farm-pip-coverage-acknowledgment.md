@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cynthi
 source_hash: sha256:d50ac6787eac11fa4e39097c3001f6f699c123e0a5e305307181d9948cbc09bc
 ---
 
+**Case:** [[cases/cynthia-gibson/cynthia-gibson|Cynthia Gibson]]
+**Client:** [[cases/cynthia-gibson/contacts/cynthia-gibson|Cynthia Gibson]]
+
 DUE TO PROTECTION OF PRIVACY OBLIGATIONS AND INTERNAL SYSTEM INTEGRITY, STATE FARM MUTUAL 
 AUTOMOBILE INSURANCE COMPANY DOES NOT ACCEPT TIME-SENSITIVE OR ACTION-ORIENTED MESSAGES DELIVERED 
 VIA EMAIL THAT INVOLVE ACCESSING A CYBERLINK, APPLICATION, DIGITAL DROPBOX OR OTHER THIRD-PARTY 

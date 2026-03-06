@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:e1c0e3c62b10182a875ed7a0b4256665a8bc8dcf3e3d44eca7572ba38c938faf
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: medical_records_acknowledgment
 date: 2025-02-11
 description: Reply email from Gannon Middleton (Connor Middleton) at UofL Health acknowledging receipt of medical records request for Nayram Adadevoh submitted by Sarena Tuttle. Dated February 10, 2025 (sent 21:06:33 +0000).

@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:a7d4a28fd719de437832bf597a5a41bda04dfa7c8a5a3db8ace9ac4c364118ae
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 bucket: Investigation
 content_summary: Bodycam or dashcam footage from Officer Clayton Kelly (5314) regarding the accident on 2024-02-15. Shows interactions and witness interviews.
 date: 2024-02-15

@@ -1,6 +1,6 @@
 ---
 case_slug: julmonzhae-moore
-created_at: 2026-02-16 23:59:46.010000+00:00
+created_at: {}
 document_category: photos
 document_type: photo
 extraction_method: image_proxy
@@ -8,10 +8,14 @@ legacy_case_id: 2023-08-29-MVA-003
 mime_type: image/jpeg
 page_count: 1
 quality_score: 70
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmonzhae-Moore-MVA-8-29-2023/Insurance/2023.08.30
-  Moore CPD PHI Card - TeamCare - Front.jpg
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmonzhae-Moore-MVA-8-29-2023/Insurance/2023.08.30 Moore CPD PHI Card - TeamCare - Front.jpg
 source_hash: sha256:517cd6a6a7f073a43f53915bc8fd2f7c05e7183e8f2f4b88512cc2b2ed0b9032
+contact: "[[cases/2023-08-29-mva-003/contacts/teamcare]]"
 ---
+
+**Case:** [[cases/julmonzhae-moore/julmonzhae-moore|Julmonzhae Moore]]
+**Client:** [[cases/julmonzhae-moore/contacts/julmonzhae-moore|Julmonzhae Moore]]
+
 
 # Image Document
 

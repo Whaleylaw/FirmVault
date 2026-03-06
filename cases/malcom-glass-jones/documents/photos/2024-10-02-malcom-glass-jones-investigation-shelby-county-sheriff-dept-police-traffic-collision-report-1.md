@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Malcom
 source_hash: sha256:263040eb73edc0cbdafc1a543e835264f6ab97e50bcd542866ffc809bb4f74f4
 ---
 
+**Case:** [[cases/malcom-glass-jones/malcom-glass-jones|Malcom Glass Jones]]
+**Client:** [[cases/malcom-glass-jones/contacts/malcom-glass-jones|Malcom Glass Jones]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Malcom-Glass-Jones-MVA-10-2-2024/Investigation/2024-10-02-Malcom-Glass-Jones-Investigation-Shelby-County-Sheriff-Dept-Police-Traffic-Collision-Report-1.png

@@ -1,18 +1,22 @@
 ---
 case_slug: caryn-mccay
-created_at: 2026-02-16 22:17:19.743000+00:00
+created_at: {}
 document_category: insurance
-document_date: 2017-12-18
+document_date: {}
 document_type: insurance
 extraction_method: native_text
 legacy_case_id: 2023-07-30-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-McCay-MVA-7-30-2023/Negotiation
-  Settlement/2023-07-30-Caryn-McCay-Release-of-All-Claims.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-McCay-MVA-7-30-2023/Negotiation Settlement/2023-07-30-Caryn-McCay-Release-of-All-Claims.pdf
 source_hash: sha256:4713a77ce4f3d794f943b997f0b5a519b5ac6a93f7742fe5208b2d73b4b62b0d
+contact: "[[cases/2023-07-30-mva-001/contacts/caryn-mccay]]"
 ---
+
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 
 [DOB-1]
 Release

@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Tonya-
 source_hash: sha256:73808ec90fa6fe1a642ac134c49e78340cb4db50b857ca27e457724278f6f627
 ---
 
+**Case:** [[cases/tonya-dunn/tonya-dunn|Tonya Dunn]]
+**Client:** [[cases/tonya-dunn/contacts/tonya-dunn|Tonya Dunn]]
+
 address: 12 Modern Way, Louisville, KY 40206
 date_of_birth: [DOB-1]
 imported_at: 2026-02-16T21:09:42.772Z

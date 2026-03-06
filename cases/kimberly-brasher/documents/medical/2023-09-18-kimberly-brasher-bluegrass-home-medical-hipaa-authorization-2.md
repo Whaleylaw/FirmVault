@@ -1,8 +1,8 @@
 ---
 case_slug: kimberly-brasher
-created_at: 2026-02-17 00:02:15.708000+00:00
+created_at: {}
 document_category: medical
-document_date: 1973-03-25
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2023-02-25-PrL-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimberly-Brasher-Premise-2-25-2023/Medical/2023-09-18-Kimberly-Brasher-Bluegrass-Home-Medical-HIPAA-Authorization-2.pdf
 source_hash: sha256:f09ce1c60dd71450d81a585a82c454f947fd54788e9464cf499426ebc7f0f621
+contact: "[[cases/2023-02-25-prl-001/contacts/bluegrass-home-medical]]"
 ---
+
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 
 AUTHORIZATION TO RELEASE PROTECTED HEALTH CARE INFOR.MATION 
 TO:

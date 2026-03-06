@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Forres
 source_hash: sha256:10852f008227e40349489183c8af59fd22a5cfe674986f04dfcb9efaf0786b42
 ---
 
+**Case:** [[cases/forrest-muss/forrest-muss|Forrest Muss]]
+**Client:** [[cases/forrest-muss/contacts/forrest-muss|Forrest Muss]]
+
 date_of_birth: [DOB-1]
 imported_at: 2026-02-16T21:09:42.779Z
 name: Forrest Muss

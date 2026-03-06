@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:54dd68b72e1426153a6530abeb1a5b870b511a1fede2072b9a4e9e733daecf65
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 November 28, 2023
 Thomas Blizzard
 Allstate Insurance Company

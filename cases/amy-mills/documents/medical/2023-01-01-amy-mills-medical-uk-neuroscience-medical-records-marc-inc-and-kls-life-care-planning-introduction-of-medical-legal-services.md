@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2019-04-26-PrL-001
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-[DOB-1]/Medical/UK Neuroscience/Medical Records/2023-01-01-Amy-Mills-Medical-UK Neuroscience-Medical-Records-MARC-Inc-and-KLS-Life-Care-Planning-Introduction-of-Medical-Legal-Services.pdf"
 source_hash: "sha256:fdbd605d6f27d3f7c709338ccdacba627eb9b5acdbba65aace8cbabb775e7fe9"

@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:2cbc59c5e1dfb2353dcd2035b6bd5df4ed19a7beadd3e02feba2a1b1c02b7662
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 University of Kentucky Albert Chandler Hospital
 800 Rose Street, Rm C601 HIM
 Lexington, KY 40536 

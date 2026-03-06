@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:cf6ceb214a555c57b5386a1e08b28e2553d93bb009e7aa67012547498de7c9bf
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 extraction.category: Medical
 extraction.date: 2025-02-08
 extraction.description: Injury/Private Account History from Memphis CBO dated [DOB-4]. Treatment from [DOB-3]-[DOB-3] for work injury on [DOB-4]. Services include x-ray elbow, PT evaluation, therapeutic exercises, medications. Total charges: $1,144.36

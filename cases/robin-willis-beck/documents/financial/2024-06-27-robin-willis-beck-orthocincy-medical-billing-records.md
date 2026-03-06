@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:0af3dfee76a05b7ce97d52c5d06329ec1b626eb9fe29984b63a4ecd888a81195
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 JAYDA BURNETT 
 ORTHOCINCY 
 ORTHOCINCY 

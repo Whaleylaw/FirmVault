@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Henrie
 source_hash: sha256:89608bb22b0b70ef7a590599549740a2eae5e2473b09109e4528bf7de6d9823c
 ---
 
+**Case:** [[cases/henrietta-jenkins/henrietta-jenkins|Henrietta Jenkins]]
+**Client:** [[cases/henrietta-jenkins/contacts/henrietta-jenkins|Henrietta Jenkins]]
+
 Justin Chumbley 
 Justin Chumbley
 Aaron G. Whaley, Esq.

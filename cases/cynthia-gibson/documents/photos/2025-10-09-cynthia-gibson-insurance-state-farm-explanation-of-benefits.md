@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cynthi
 source_hash: sha256:84fb46308097b1b3cca4e5611ed711f4d79c7fc0fad6c1ef99947c16f0a97ac4
 ---
 
+**Case:** [[cases/cynthia-gibson/cynthia-gibson|Cynthia Gibson]]
+**Client:** [[cases/cynthia-gibson/contacts/cynthia-gibson|Cynthia Gibson]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cynthia-Gibson-MVA-7-9-2025/Insurance/2025-10-09-Cynthia-Gibson-Insurance-State-Farm-Explanation-of-Benefits.jpg

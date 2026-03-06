@@ -1,6 +1,6 @@
 ---
 case_slug: robin-willis-beck
-created_at: 2026-02-17 00:17:03.103000+00:00
+created_at: {}
 document_category: medical
 document_type: medical
 extraction_method: native_text
@@ -8,11 +8,14 @@ legacy_case_id: 2023-09-21-PrL-001
 mime_type: message/rfc822
 page_count: 1
 quality_score: 90
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-Willis-Beck-Premise-09-21-2023/Medical/Norton
-  Orthopedic Institute/Medical Records/2024-10-04-Robin-Willis-Beck-Medical-Norton
-  Orthopedic Institute-Medical-Records-MediCopy-Medical-Records-Download-Link.eml
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-Willis-Beck-Premise-09-21-2023/Medical/Norton Orthopedic Institute/Medical Records/2024-10-04-Robin-Willis-Beck-Medical-Norton Orthopedic Institute-Medical-Records-MediCopy-Medical-Records-Download-Link.eml
 source_hash: sha256:679d485008bab423f0def450001e5dbd4854d7d0752c4fc0cc5416a7a31a2eed
+contact: "[[cases/2023-09-21-prl-001/contacts/norton-orthopedic-institute]]"
 ---
+
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 
 Subject: Tina Fuqua - ROI Quality Analyst sent you a file "ROBIN BECK .zip" on Box
 From: [EMAIL-1]

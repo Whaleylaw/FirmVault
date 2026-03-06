@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:188089700d19678d1cd02edb49829e460c0bc824172431e0eaefdae464a4488b
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 From: [DOB-1] 10:35 #292 P.001/001
 4-Nov-2824 18:15 [PHONE-2] [PHONE-4] p.l
 Aaron G. Whaley, Esq.

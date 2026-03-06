@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor
 source_hash: sha256:45b390f5020d8b7389ddd96e02882179a4801acc650fddef7fe5e46249590401
 ---
 
+**Case:** [[cases/taylor-thompson/taylor-thompson|Taylor Thompson]]
+**Client:** [[cases/taylor-thompson/contacts/taylor-thompson|Taylor Thompson]]
+
 [DOB-22]
 RE: Taylor Thompson
 Dear John L Smith, Esq.:

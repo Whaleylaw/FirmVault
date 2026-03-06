@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:2275d78167edf09a5ad9296fe0742cbf6b4db47df02f4ba17e129e964111132f
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 Transactions
 Filter Type is equal to Payment and Financial Type is equal to Medical and Claim is equal to Christopher Wilkerson (238042CS) and Financial Bucket number is 1
 Transaction Date Financial Category Description Payee Service From Service To Payment Amount Reserve Amount Recovery Amount

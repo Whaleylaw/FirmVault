@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:67e13af9b6ce4abf7432277d743efb224aec3a2d82e457910a38296336c94133
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 re ear All Fields Save File |} Print Form Clear All Fields KENTUCKY NO FALLT [/ saveFiie J Frinton
 
 {UST COMPLETE Ap iD SIGN

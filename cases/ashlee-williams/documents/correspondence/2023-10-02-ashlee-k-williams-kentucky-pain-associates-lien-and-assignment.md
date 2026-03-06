@@ -1,8 +1,8 @@
 ---
 case_slug: ashlee-williams
-created_at: 2026-02-16 22:08:16.042000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 2023-08-29
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2023-08-29-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee-Williams-MVA-08-29-2023/Medical-Records/2023-10-02-Ashlee-K-Williams-Kentucky-Pain-Associates-Lien-and-Assignment.pdf
 source_hash: sha256:41d214a99f50ee228354c56f7e22d3547760176fe826b88520344cec49ded131
+contact: "[[cases/2023-08-29-mva-001/contacts/kentucky-pain-associates]]"
 ---
+
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 
 Main: [PHONE-6] • Fax: [PHONE-5] • 222 South 1st Street, Suite 300 • Louisville, KY 40202
 October 2, 2023

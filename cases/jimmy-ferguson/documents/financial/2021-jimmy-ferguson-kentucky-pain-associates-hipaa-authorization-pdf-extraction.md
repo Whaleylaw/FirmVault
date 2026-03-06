@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:2335a6621d843c6bf43fa0f4116749c49f3657c4960afd56937d924b78179439
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 category: Client
 date: 2021-01-01
 description: HIPAA compliant medical authorization form signed in 2021 authorizing Kentucky Pain Associates to release medical records to Whaley Law Firm for injury claim.

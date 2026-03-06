@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:6122bd5040b6765bf10888bbe359f6dac17c339aabe9b6a968ff406ed2a8b45b
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 4-Nov-2824 19:32 415822534829 [PHONE-16] p.i
 Aaron G. Whatley, Bag
 Fi? Lyndon Lane

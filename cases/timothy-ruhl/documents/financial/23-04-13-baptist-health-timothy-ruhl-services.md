@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:00de4629de32e44449702a1dd8dd8099fbda2f6773fd7a840bcaa9838aea5a63
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 aa BAPTIST HEALTH
 G& hal
 PO BOX 87225

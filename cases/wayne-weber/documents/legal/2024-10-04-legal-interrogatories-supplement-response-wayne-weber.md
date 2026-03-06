@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:80ae3b5ed666f0736d562687d0db3239221d66dcb78ff71e471a647bb871fe5d
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 INTERROGATORY NO. 27: Would you please supplement your response toinclude
 all information later acquired relating to the questions asked herein, that may add to, change, or
 correct these answers as soon as possible after acquiring such information?

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:1e5419112b05958778c4c007230c0fc9a0b60be66406af6677ab78e5ba7eaa14
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 SITLINGER LAW 
 320 WHITTINGTON PARKWAY SUITE 304
 LOUISVILLE, KENTUCKY 40222

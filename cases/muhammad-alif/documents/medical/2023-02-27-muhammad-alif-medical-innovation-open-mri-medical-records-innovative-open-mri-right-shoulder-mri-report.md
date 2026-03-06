@@ -1,18 +1,22 @@
 ---
 case_slug: muhammad-alif
-created_at: 2026-02-17 00:11:14.359000+00:00
+created_at: {}
 document_category: medical
-document_date: 1961-04-16
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2022-11-08-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Innovation
-  Open MRI/Medical Records/2023-02-27-Muhammad-Alif-Medical-Innovation Open MRI-Medical-Records-Innovative-Open-MRI-Right-Shoulder-MRI-Report.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Innovation Open MRI/Medical Records/2023-02-27-Muhammad-Alif-Medical-Innovation Open MRI-Medical-Records-Innovative-Open-MRI-Right-Shoulder-MRI-Report.pdf
 source_hash: sha256:da4533775d1ae0bd2e3571eb937ed294f31162f44a926e90e98d21ccaa48ca29
+contact: "[[cases/2022-11-08-mva-001/contacts/innovation-open-mri]]"
 ---
+
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 
 To: “WILLIAM HWANG” From: Pages: 1
 Innovative

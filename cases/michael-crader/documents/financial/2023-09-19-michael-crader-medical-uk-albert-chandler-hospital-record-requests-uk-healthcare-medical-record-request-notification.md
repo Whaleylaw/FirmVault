@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:bab7175f83804e5165cff3c6bd2c122592637a2476f45b70fda88c63a43e9840
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 [DOB-5] 12:48 <859> 253-9448 ROI+ Fax Notification 2 VRC ROI Plus
 YOUR OFFIGE HAS REQUESTEDA PHI FOR THE PATIENT LISTED BELOW
 “** IMPORTANT *** Information about your Completed request

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/France
 source_hash: sha256:8ebf471f3d48c8aa2028a55eb539f57d8dbfd5b4bd07734176ce15fa993ef474
 ---
 
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 Subject: Francis Whitis v Bluegrass Taxi - KY DWC 2024-01285
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

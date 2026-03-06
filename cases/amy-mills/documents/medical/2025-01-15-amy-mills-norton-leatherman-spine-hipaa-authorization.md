@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:d02b409fd0325ea886799072e76728b26fc5844599964d2c8f527d5a1b3eea62
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 AUTHORJZA TION TO RELEASE PROTECTED HEALTH CARE INFOR.Jv[ATJON 
 TO: 
 Pursuant to the Health Insurance Portability and Accountability Act (HIPAA) Privacy Regulations, 

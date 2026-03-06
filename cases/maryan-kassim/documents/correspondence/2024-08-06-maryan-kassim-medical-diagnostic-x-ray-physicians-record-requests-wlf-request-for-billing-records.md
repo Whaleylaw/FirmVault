@@ -1,19 +1,22 @@
 ---
 case_slug: maryan-kassim
-created_at: 2026-02-17 00:04:58.061000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 2000-08-03
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2024-08-06-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan-Kassim-MVA-08-06-2024/Medical/Diagnostic
-  X-ray Physicians/Record Requests/2024-08-06-Maryan-Kassim-Medical-Diagnostic X-ray
-  Physicians-Record-Requests-WLF-Request-for-Billing-Records.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan-Kassim-MVA-08-06-2024/Medical/Diagnostic X-ray Physicians/Record Requests/2024-08-06-Maryan-Kassim-Medical-Diagnostic X-ray Physicians-Record-Requests-WLF-Request-for-Billing-Records.pdf
 source_hash: sha256:7f569526c5fe2339cfc9e73ed4b5733a6d89bcc20eb7ad8dda7c7b4a0e45f525
+contact: "[[cases/2024-08-06-mva-001/contacts/diagnostic-x-ray-physicians]]"
 ---
+
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

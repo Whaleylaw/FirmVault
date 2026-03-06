@@ -1,18 +1,22 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:47:56.554000+00:00
+created_at: {}
 document_category: medical
-document_date: 1983-12-28
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/20:20
-  Eye Center/Record Requests/2023-03-17-Amy-Mills-Medical-20:20 Eye Center-Record-Requests-Client-Medical-Authorization-2020-Eye-Center.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/20:20 Eye Center/Record Requests/2023-03-17-Amy-Mills-Medical-20:20 Eye Center-Record-Requests-Client-Medical-Authorization-2020-Eye-Center.pdf
 source_hash: sha256:c3f219ce4a6f9d40f29f157f36e7e1852e9954b3a7ad29d8a2d8d66ca3ae9b1c
+contact: "[[cases/2019-04-26-prl-001/contacts/20-20-eye-center]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

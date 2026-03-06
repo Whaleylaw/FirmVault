@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:3abfd0e1316c7d79b3a5097ecadf25e9fad3aa00d5f0eab2cb0539ab3f57c38c
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 Subject: NCP JEFFERSON Circuit 25-CI-000133, SITGRAVES, ABBY ET AL VS. CAAL WORLDWIDE, INC. ET AL Envelope # 10189385
 From: [EMAIL-7]
 To: [EMAIL-6], Sarena@WhaleyLawFirm.com, [EMAIL-5]

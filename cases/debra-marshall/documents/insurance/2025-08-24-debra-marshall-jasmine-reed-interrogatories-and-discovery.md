@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:50c95eb683efce1f6e9416208e55da5551939e9e5d4e141b000f2d0926272bf2
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 COMMONWEALTH OF KENTUCKY BARREN CIRCUIT COURT DIVISION CIVIL ACTION NO.: 23-CI-659
 
 ELECTRONICALLY FILED DEBRA MARSHALL PLAINTIFF v. ANSWERS TO THE INTERROGATORIES PROPOUNDED BY THE PLAINTIFF UPON THE DEFENDANT JASMINE REED JASMINE REED DEFENDANT

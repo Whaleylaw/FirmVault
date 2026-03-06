@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:9cac0fcdd5032710e527000edbf77322465cfc2ef17352dd44d5e3a2a62ff83e
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 INVESTIGATOR BEAT OR POST #
 TOTAL LANES
 NO

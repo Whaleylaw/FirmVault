@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:f6fb32758eaa7d8f3e8317dfd378c0e85c219f5486d2e061b12444786319e34f
 ---
 
+**Case:** [[cases/shannon-colvin/shannon-colvin|Shannon Colvin]]
+**Client:** [[cases/shannon-colvin/contacts/shannon-colvin|Shannon Colvin]]
+
 DUE TO PROTECTION OF PRIVACY OBLIGATIONS AND INTERNAL SYSTEM INTEGRITY, STATE FARM MUTUAL 
 AUTOMOBILE INSURANCE COMPANY DOES NOT ACCEPT TIME-SENSITIVE OR ACTION-ORIENTED MESSAGES 
 DELIVERED VIA EMAIL THAT INVOLVE ACCESSING A CYBERLINK, APPLICATION, DIGITAL DROPBOX OR OTHER THIRDPARTY DOCUMENT SERVICE.

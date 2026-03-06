@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:20be29dcb586d6e244149506ff366e2f02ba5163bebef1ee9610cd5a3fa3d123
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 Kentucky Farm Bureau
 Mutual Insurance Company
 CLAIM NUMBER

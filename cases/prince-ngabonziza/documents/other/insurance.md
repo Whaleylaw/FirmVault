@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Prince
 source_hash: sha256:55e074b0e71dc23e7f37b8e285edf12dce6a47bb47ed92eefe85ca73d9b3ee17
 ---
 
+**Case:** [[cases/prince-ngabonziza/prince-ngabonziza|Prince Ngabonziza]]
+**Client:** [[cases/prince-ngabonziza/contacts/prince-ngabonziza|Prince Ngabonziza]]
+
 item_0.coverage_confirmation: Coverage Pending
 item_0.insurance_company_name: Elco Insurance
 item_0.insurance_type: Personal Injury Protection (PIP)

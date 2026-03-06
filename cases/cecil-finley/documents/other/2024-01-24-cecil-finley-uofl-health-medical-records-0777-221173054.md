@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:9926cf64c77da78f9dd4b520b37ab1b2433458c2df903c829f86598ab4d474bb
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 #SeCUre#
 Christina Masden <[EMAIL-1]>
 Thu 9/26/2024 11:19 PM

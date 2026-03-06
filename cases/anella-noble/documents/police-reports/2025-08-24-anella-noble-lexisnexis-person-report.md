@@ -4,6 +4,9 @@ document_category: police-reports
 legacy_case_id: 2021-01-03-MVA-001
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella-Noble-MVA-[DOB-84]/Investigation/2025-08-24-Anella-Noble-LexisNexis-Person-Report.pdf"
 source_hash: "sha256:fc83c1a8c76d2763552f8f716934f72295d2739ca072762d1831ab2d2d62529e"

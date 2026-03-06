@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:491dc76224eccad6532f3d4df37fe030b58837bb88bb21300077ab397d390adb
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 Subject: Jerome Hedinger viewed Thank you for Choosing The Whaley Law Firm
 From: [EMAIL-2]
 To: [EMAIL-2]

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/France
 source_hash: sha256:7e35deb5592e058a0c8b45a3bb8bcd22632ed0dfe65b84c2c2ac176fc486fa6e
 ---
 
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 Subject: LMS Claim Document Notification
 From: [EMAIL-1]
 To: Sarena@WhaleyLawFirm.com

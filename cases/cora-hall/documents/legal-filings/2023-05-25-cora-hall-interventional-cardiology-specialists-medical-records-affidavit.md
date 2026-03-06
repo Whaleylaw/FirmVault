@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:1424e42ed560c2629e7ad234dc33aa2a2867f25a31bfd53fdf9525e375676e2a
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 13-Jul-2623) 15:35 [PHONE-1] +150822373267 p.3
 CERTIFICATION OF MEDICAL RECORDS AFFIDAVIT.
 Jeu ny e1 MN Ils , being first duly sworn on his/her oath, says that:

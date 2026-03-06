@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:2b73138a23a6cfaa6cac844da2bcb72d9650ad4d0fb2b1f6701e6d575cc4eb0e
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 content_length_chars: 986
 document_metadata.attachments[0]: 2024.05.13 Stich Executed Form 113 - E&B - Dr. Mark Smith.pdf
 document_metadata.cc_emails[0]: [EMAIL-5]

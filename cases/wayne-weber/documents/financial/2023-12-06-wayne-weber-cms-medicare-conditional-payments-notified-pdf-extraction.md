@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:5d36687e612ce65536ed1fa4d50e683de8c05ff1fe475f0d5a358f406b38bba9
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: lien_correspondence
 extraction.date: 2023-12-06
 extraction.description: Medicare conditional payments notification from CMS regarding Wayne Weber's case dated December 6, 2023.

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:9f260535bf07f500a82220a1bbae45821b89319721cc0f958181f59db02728da
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 DEFENDANT'S RESPONSE TO PLAINTIFF'S MOTION TO CONTINUE TRIAL
 Case: Muhammad Alif v. Jermaine Powe
 Case No.: 2023-L-010945

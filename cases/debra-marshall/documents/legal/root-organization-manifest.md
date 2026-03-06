@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:5922b15896840090c940aa3f109ffdbe3c575df4ac90351ae91d3c6a9ee3cee8
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 accident_date: 2022-12-03
 case_type: MVA
 client_name: Debra-Marshall

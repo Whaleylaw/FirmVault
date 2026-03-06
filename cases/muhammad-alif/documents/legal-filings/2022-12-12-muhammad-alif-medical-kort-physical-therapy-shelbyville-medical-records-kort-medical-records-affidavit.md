@@ -1,6 +1,6 @@
 ---
 case_slug: muhammad-alif
-created_at: 2026-02-17 00:11:15.956000+00:00
+created_at: {}
 document_category: court-filings
 document_type: court_filing
 extraction_method: native_text
@@ -8,11 +8,14 @@ legacy_case_id: 2022-11-08-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/KORT
-  Physical Therapy - Shelbyville/Medical Records/2022-12-12-Muhammad-Alif-Medical-KORT
-  Physical Therapy - Shelbyville-Medical-Records-KORT-Medical-Records-Affidavit.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/KORT Physical Therapy - Shelbyville/Medical Records/2022-12-12-Muhammad-Alif-Medical-KORT Physical Therapy - Shelbyville-Medical-Records-KORT-Medical-Records-Affidavit.pdf
 source_hash: sha256:22a1fa9812320c095034331af058258fc314d552bc06d0aa19ac50c3bd825d8c
+contact: "[[cases/2022-11-08-mva-001/contacts/kort-physical-therapy-shelbyville]]"
 ---
+
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 
 CERTIFICATION OF MEDICAL RECORDS AFFIDAVIT
 (OUI), Ha CBO EN , being first duly sworn on his/her oath, says that:

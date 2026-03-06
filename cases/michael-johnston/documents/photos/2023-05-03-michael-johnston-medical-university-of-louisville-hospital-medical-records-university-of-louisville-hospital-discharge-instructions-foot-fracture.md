@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:2cc1ae91e0f118880121ea637563b14fed63a931305245f2ad5bf1ea008d34f7
 ---
 
+**Case:** [[cases/michael-johnston/michael-johnston|Michael Johnston]]
+**Client:** [[cases/michael-johnston/contacts/michael-johnston|Michael Johnston]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michael-Johnston-WC-[DOB-1]/Medical/University of Louisville Hospital/Medical Records/2023-05-03-Michael-Johnston-Medical-University of Louisville Hospital-Medical-Records-University-of-Louisville-Hospital-Discharge-Instructions-Foot-Fracture.jpg

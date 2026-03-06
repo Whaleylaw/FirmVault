@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Destin
 source_hash: sha256:8eef8fdaaa8e86b9c43859f3732a0a44a24b6addd517832bf25899a6ed9810c8
 ---
 
+**Case:** [[cases/destiny-adkins/destiny-adkins|Destiny Adkins]]
+**Client:** [[cases/destiny-adkins/contacts/destiny-adkins|Destiny Adkins]]
+
 Subject: New Voice Message from KY ST OF AOC [PHONE-5] on [DOB-2] 3:49 PM
 From: [EMAIL-3]
 To: Sarena@whaleylawfirm.com

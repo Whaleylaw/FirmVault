@@ -1,18 +1,22 @@
 ---
 case_slug: james-kiper
-created_at: 2026-02-16 23:52:03.369000+00:00
+created_at: {}
 document_category: medical
-document_date: 1976-04-29
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2022-12-05-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Kiper-MVA-12-5-2022/Old
-  Files/2023-12-08-James-Kiper-Conduent-Medical-Authorization-HIPAA.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Kiper-MVA-12-5-2022/Old Files/2023-12-08-James-Kiper-Conduent-Medical-Authorization-HIPAA.pdf
 source_hash: sha256:37148bcf06ae5fe9bd0cd4c6e89bf20b7a627f9d35ba427ecac86f33c22a1996
+contact: "[[cases/2022-12-05-mva-001/contacts/conduent]]"
 ---
+
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee
 source_hash: sha256:bfd29652eece8b17b1a494917fda7463c653b9545329415474f6f2eab6d970df
 ---
 
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 item_0.jsonb_agg[0].address: 8923 Preston Hwy, Apt 308, Louisville, KY 40219
 item_0.jsonb_agg[0].email: [EMAIL-1]
 item_0.jsonb_agg[0].full_name: Ashlee K. Williams

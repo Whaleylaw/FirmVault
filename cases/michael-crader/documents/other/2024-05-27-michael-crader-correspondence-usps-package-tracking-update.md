@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:2b94a7048dd5d1e282fc8389db8a67fcdff7c2b9bc531cb39de637718135c448
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 USPS Tracking FAQs>
 Track Packages Get the free Informed Delivery® feature to receive veg Learn More Anytime, Anywhere automated notifications on your packages
 (https://reg.usps.com/xsell?app=UspsTools&ref=ho nepageBanner&appURL=https%3A%2F%2Finformeddelivery.usps.com/box/pages/intro/start.action)

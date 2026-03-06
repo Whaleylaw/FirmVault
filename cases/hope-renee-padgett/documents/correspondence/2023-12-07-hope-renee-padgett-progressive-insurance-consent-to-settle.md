@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Hope-R
 source_hash: sha256:88eba30e284380f0c65977f6c67a66a2759de2e630e64f26a34049b0c02d9bb3
 ---
 
+**Case:** [[cases/hope-renee-padgett/hope-renee-padgett|Hope Renee Padgett]]
+**Client:** [[cases/hope-renee-padgett/contacts/hope-renee-padgett|Hope Renee Padgett]]
+
 Justin Chumbley
 Aaron G. Whaley, Esq.
 THE 712 Lyndon Lane

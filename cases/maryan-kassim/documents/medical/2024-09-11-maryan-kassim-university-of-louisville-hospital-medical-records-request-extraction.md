@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:bc5ae1fd111c96090fe6f4a451e147fea68e13dd07086573828d48912ec35831
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 category: Medical
 description: Medical records request letter from Whaley Law Firm to University of Louisville Hospital for Maryan Kassim's records from August 6, 2024 to present, including itemized billing.
 entities[0]: Aaron G. Whaley

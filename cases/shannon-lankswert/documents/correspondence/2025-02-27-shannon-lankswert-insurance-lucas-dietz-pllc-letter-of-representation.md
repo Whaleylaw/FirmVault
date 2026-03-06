@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:454043b0ccd0cfea52b236cb38b738a9ea1cfdf901bef2c5cb7a048a2cba60dd
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 1521 Cavalry Lane 1700 UPS Drive
 Suite 103 Suite 103
 Florence, KY 41042 Louisville, KY 40223

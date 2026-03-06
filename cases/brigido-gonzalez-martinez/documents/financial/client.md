@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brigid
 source_hash: sha256:9c51ebec1549b526d6e074187d80545f16fb85448014dc908dc5575be66b5649
 ---
 
+**Case:** [[cases/brigido-gonzalez-martinez/brigido-gonzalez-martinez|Brigido Gonzalez Martinez]]
+**Client:** [[cases/brigido-gonzalez-martinez/contacts/brigido-gonzalez-martinez|Brigido Gonzalez Martinez]]
+
 date_of_birth: [DOB-1]
 imported_at: 2026-02-16T21:09:42.778Z
 name: Brigido Gonzalez Martinez

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:0b66c7720f695b70eb5908ce9ee37e816fe2f19fcf22915ddbb3f46ef8cb0778
 ---
 
+**Case:** [[cases/shannon-colvin/shannon-colvin|Shannon Colvin]]
+**Client:** [[cases/shannon-colvin/contacts/shannon-colvin|Shannon Colvin]]
+
 Aaron G. Whaley, Esq.
 . AMG i 712 Lyndon Lane
 % f H A T F VW Louisville, KY 40222

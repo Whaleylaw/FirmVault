@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:2712c8c39fa4e55106c0819728ff062d76f0fb8192118d8551421766348242a8
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: insurance_correspondence
 extraction.date: 2023-11-06
 extraction.description: Letter of Representation (LOR) to Kentucky Farm Bureau regarding Wayne Weber's Personal Injury Protection (PIP) claim related to the January 1, 2022 motor vehicle accident.

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:409b58e026ccbae7a0bcd0c5ede6820585a8cf797ab0a0241c124862283b502e
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 batch_number: 7
 count: 20
 files[0]: 2021-01-03-Anella-Noble-THIRD-AMENDED-PERSONAL-INJURY-COMPLAINT-filed-by-Anella-Noble.pdf

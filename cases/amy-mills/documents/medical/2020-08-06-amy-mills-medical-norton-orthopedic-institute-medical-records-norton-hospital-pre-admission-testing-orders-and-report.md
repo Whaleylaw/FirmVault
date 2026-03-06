@@ -1,21 +1,23 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:49:03.993000+00:00
+created_at: {}
 document_category: medical
-document_date: 1983-12-28
+document_date: {}
 document_type: medical
-entities:
-- Norton Hospital
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Norton
-  Orthopedic Institute/Medical Records/2020-08-06-Amy-Mills-Medical-Norton Orthopedic
-  Institute-Medical-Records-Norton-Hospital-Pre-Admission-Testing-Orders-And-Report.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Norton Orthopedic Institute/Medical Records/2020-08-06-Amy-Mills-Medical-Norton Orthopedic Institute-Medical-Records-Norton-Hospital-Pre-Admission-Testing-Orders-And-Report.pdf
 source_hash: sha256:1f2c130418cf54a7e0a64ee1d73fdc6f54e6ec173c221333b2ffd022f3563baa
+contact: "[[cases/2019-04-26-prl-001/contacts/norton-orthopedic-institute]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 ePreo Name: AMY MILLS
 MRN: EP02256299 DOB: [DOB-3]

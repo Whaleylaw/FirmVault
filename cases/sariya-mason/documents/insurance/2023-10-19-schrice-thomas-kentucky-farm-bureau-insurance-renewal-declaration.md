@@ -1,10 +1,9 @@
 ---
 case_slug: sariya-mason
-created_at: 2026-02-17 00:20:18.774000+00:00
+created_at: {}
 document_category: insurance
 document_type: insurance
-entities:
-- Kentucky Farm Bureau
+entities: null
 extraction_method: native_text
 legacy_case_id: 2022-08-19-DB-001
 mime_type: application/pdf
@@ -12,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya-Mason-DB-08-19-2022/Insurance/2023-10-19-Schrice-Thomas-Kentucky-Farm-Bureau-Insurance-Renewal-Declaration.pdf
 source_hash: sha256:783184868560cb77fd5d2b471d55379422881b6114e74f5236faeb0ceb3193e1
+contact: "[[cases/2022-08-19-db-001/contacts/kentucky-farm-bureau]]"
 ---
+
+**Case:** [[cases/sariya-mason/sariya-mason|Sariya Mason]]
+**Client:** [[cases/sariya-mason/contacts/sariya-mason|Sariya Mason]]
+
 
 Kentucky Farm Bureau Insurance Companies
 Kentucky Farm Bureau Mutual Insurance Company ° The FB Insurance Company

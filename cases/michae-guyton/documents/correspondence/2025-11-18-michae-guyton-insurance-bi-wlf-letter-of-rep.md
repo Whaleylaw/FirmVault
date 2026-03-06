@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:238aa88366a3f784bcb6f1562f0796e83c4d0e336a6a3772c828ba48d77cb00d
 ---
 
+**Case:** [[cases/michae-guyton/michae-guyton|Michae Guyton]]
+**Client:** [[cases/michae-guyton/contacts/michae-guyton|Michae Guyton]]
+
 Justin Chumbley
 NN Aaron G. Whaley, Esq.
 712 Lyndon Lane HALEY Louisville, KY 40222

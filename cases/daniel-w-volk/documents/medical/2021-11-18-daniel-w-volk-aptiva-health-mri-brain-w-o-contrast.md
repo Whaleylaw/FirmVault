@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel
 source_hash: sha256:a3ef5ce6a5388f13c4665e99e50b36d4e550be34a729e7a3e4fe3aee62f34b8a
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 Central Louisville East Louisville
 3615 Newburg Road 10100 Linn Station Road, Suite 1A Loulsvile, KY Louisville, KY40223, 40t8
 ABTIVA omic Keane Lexington maging Center HEALTH (prem poco, iad RYee

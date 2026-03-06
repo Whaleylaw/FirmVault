@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:882cb461d06753bd2179666947f506b07ba14a6e76d53c5fe48b2aecf8fb5646
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 © [DOB-21] 11:15 AM Fax Services -» AARON pg lof 3
 
 FAX

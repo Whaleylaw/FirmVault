@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-
 source_hash: sha256:4b82f390929d75251904883afbe1754ab4eaed09e262d3d2665d330659457644
 ---
 
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 category: medical_bill
 date: 2025-07-31
 description: OrthoCincy receipt for past professional services. Payment of $126.24 made via Visa on 7/31/25. Receipt #15270423. Despite filename mentioning Smith/checkup, document shows Davis Robinson at OrthoCincy.

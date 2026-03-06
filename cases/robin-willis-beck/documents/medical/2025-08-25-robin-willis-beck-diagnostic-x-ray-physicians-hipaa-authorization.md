@@ -1,6 +1,6 @@
 ---
 case_slug: robin-willis-beck
-created_at: 2026-02-17 00:16:45.853000+00:00
+created_at: {}
 document_category: medical
 document_type: medical
 extraction_method: native_text
@@ -10,7 +10,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-Willis-Beck-Premise-09-21-2023/HIPAA-Authorizations/2025-08-25-Robin-Willis-Beck-Diagnostic-X-Ray-Physicians-HIPAA-Authorization.pdf
 source_hash: sha256:c18fad28d244632b8b1ad98766de57f4d9e40d421e49f9d8b95088732335db85
+contact: "[[cases/2023-09-21-prl-001/contacts/diagnostic-x-ray-physicians]]"
 ---
+
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 
 Diagnostic X-Ray Physicians 
 703 20th Street

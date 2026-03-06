@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dana-J
 source_hash: sha256:5cfb86f396968d3ce03554ebdd0bac64ea1342ecdf1199cdcd1af7335771f04f
 ---
 
+**Case:** [[cases/dana-jackson/dana-jackson|Dana Jackson]]
+**Client:** [[cases/dana-jackson/contacts/dana-jackson|Dana Jackson]]
+
 ELECTRONICALLY FILED
 NO. 24CI-05774 JEFFERSON CIRCUIT COURT
 DIVISION EIGHT

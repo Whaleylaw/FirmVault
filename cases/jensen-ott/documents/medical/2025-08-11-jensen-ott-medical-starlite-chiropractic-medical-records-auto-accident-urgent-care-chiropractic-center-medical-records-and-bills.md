@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jensen
 source_hash: sha256:deece70804779c0574c121f919a2b051e9e87812aedf09271326caaa504269cf
 ---
 
+**Case:** [[cases/jensen-ott/jensen-ott|Jensen Ott]]
+**Client:** [[cases/jensen-ott/contacts/jensen-ott|Jensen Ott]]
+
 Nov. 11. 2025 12:27 PM Tri-State [PHONE-62] P 1/20
 AX To: Wholey
 Fax number: [PHONE-61] -

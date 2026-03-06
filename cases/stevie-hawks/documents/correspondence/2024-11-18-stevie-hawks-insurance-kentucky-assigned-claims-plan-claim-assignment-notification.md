@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie
 source_hash: sha256:043f6063e3840bb8fbb2e93e744c796d415a9e52e2e0463ca55e3b671f9fa317
 ---
 
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 Kentucky Assigned Claims Plan 
  
  "Any person who knowingly and with intent to defraud any insurance company or other person files a statement

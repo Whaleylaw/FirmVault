@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:d74ceb31181dec37d64bb18ac2b5747855a69d7d26f2053b91ea51784af0dfa6
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 3:32 9 al >EY
 Amy CX
 Tuesday 9:46PM

@@ -1,6 +1,6 @@
 ---
 case_slug: destiny-adkins
-created_at: 2026-02-16 23:26:26.140000+00:00
+created_at: {}
 document_category: financial
 document_type: financial
 extraction_method: native_text
@@ -10,7 +10,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Destiny-Adkins-MVA-04-16-2021/Medical-Records/2025-08-24-Destiny-Adkins-Conduent-Payment-Integrity-Solutions-HIPAA-Authorization.pdf
 source_hash: sha256:d9abbe9349fc454fe123c29aeb82ea5ae7408292981bc94d2aa09c341e921ce9
+contact: "[[cases/2021-04-16-mva-001/contacts/conduent]]"
 ---
+
+**Case:** [[cases/destiny-adkins/destiny-adkins|Destiny Adkins]]
+**Client:** [[cases/destiny-adkins/contacts/destiny-adkins|Destiny Adkins]]
+
 
 AUTHORJZA TION TO RELEASE PROTECTED HEAL TH CARE INFORM.A. TION 
 TO: 

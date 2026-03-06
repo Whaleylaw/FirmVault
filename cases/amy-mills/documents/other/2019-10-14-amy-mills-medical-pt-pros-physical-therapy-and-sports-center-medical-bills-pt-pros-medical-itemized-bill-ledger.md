@@ -1,19 +1,22 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:49:09.484000+00:00
+created_at: {}
 document_category: other
-document_date: 2019-11-27
+document_date: {}
 document_type: other
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/PT
-  Pros Physical Therapy and Sports Center/Medical Bills/2019-10-14-Amy-Mills-Medical-PT
-  Pros Physical Therapy and Sports Center-Medical-Bills-PT-Pros-Medical-Itemized-Bill-Ledger.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/PT Pros Physical Therapy and Sports Center/Medical Bills/2019-10-14-Amy-Mills-Medical-PT Pros Physical Therapy and Sports Center-Medical-Bills-PT-Pros-Medical-Itemized-Bill-Ledger.pdf
 source_hash: sha256:b2331bdee30850d18ebddf6ea11ee78b70081b120a208d906abdb1ce6fa8a746
+contact: "[[cases/2019-04-26-prl-001/contacts/pt-pros-physical-therapy-and-sports-center]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 P 2/8
 

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:5267eb941dbb05d12cedfdd9c1605d0d8393e6c144493c554ed46955c546f9e3
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 automated_validation_results.bucket_validation.bucket_distribution.Client: 17
 automated_validation_results.bucket_validation.bucket_distribution.Evidence: 1
 automated_validation_results.bucket_validation.bucket_distribution.Expenses: 3

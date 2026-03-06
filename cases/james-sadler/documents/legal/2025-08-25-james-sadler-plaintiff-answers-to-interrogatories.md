@@ -19,6 +19,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:a6b9da2a1b58bf1fd3d1a39b7808cd3c53f82ae8448048bed1605cd2308f5ab6
 ---
 
+**Case:** [[cases/james-sadler/james-sadler|James Sadler]]
+**Client:** [[cases/james-sadler/contacts/james-sadler|James Sadler]]
+
 CASE NO. 25-CI-000116 JEFFERSON CIRCUIT COURT 
  DIVISION FIVE (5) 
  JUDGE TRACY E. DAVIS 

@@ -1,8 +1,8 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:49:58.601000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1983-12-28
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Review_Needed/2023-10-13-Amy-Mills-NeuroDiagnostic-Center-of-Louisville-medical-records-request.pdf
 source_hash: sha256:4f78f2eeba4f6642f576f117dcac6c19d64a92e88d082730748863133432187e
+contact: "[[cases/2019-04-26-prl-001/contacts/neurodiagnostic-center-of-louisville]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 Fax Confirmation
 To: [PHONE-1] From: [PHONE-11]

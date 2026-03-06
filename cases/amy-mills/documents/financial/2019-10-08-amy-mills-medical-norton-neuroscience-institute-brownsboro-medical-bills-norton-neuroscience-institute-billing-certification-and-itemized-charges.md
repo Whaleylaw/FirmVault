@@ -1,22 +1,23 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:48:47.405000+00:00
+created_at: {}
 document_category: financial
-document_date: 2019-10-08
+document_date: {}
 document_type: financial
-entities:
-- Aetna
-- Norton Healthcare
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Norton
-  Neuroscience Institute Brownsboro/Medical Bills/2019-10-08-Amy-Mills-Medical-Norton
-  Neuroscience Institute Brownsboro-Medical-Bills-Norton-Neuroscience-Institute-Billing-Certification-and-Itemized-Charges.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Norton Neuroscience Institute Brownsboro/Medical Bills/2019-10-08-Amy-Mills-Medical-Norton Neuroscience Institute Brownsboro-Medical-Bills-Norton-Neuroscience-Institute-Billing-Certification-and-Itemized-Charges.pdf
 source_hash: sha256:8e0382b3bbd16f286a9375f7c940eb8d4d2db0f59d1f29746757ef8cebdbfd34
+contact: "[[cases/2019-04-26-prl-001/contacts/norton-neuroscience-institute-brownsboro]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 IN NORTON’
 HEALTHCARE ITEMIZED BILLING CERTIFICATION RID114997455

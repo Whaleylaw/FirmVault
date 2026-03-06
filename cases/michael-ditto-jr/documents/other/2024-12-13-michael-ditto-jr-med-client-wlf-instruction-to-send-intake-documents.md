@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:cae5b0be584b49491bed1b2c325e7065f09fcc3f1dae9ddd89942269dcb612ec
 ---
 
+**Case:** [[cases/michael-ditto-jr/michael-ditto-jr|Michael Ditto Jr]]
+**Client:** [[cases/michael-ditto-jr/contacts/michael-ditto-jr|Michael Ditto Jr]]
+
 Subject: Intake
 From: [EMAIL-1]
 To: [EMAIL-3], [EMAIL-3], sarena@whaleylawfirm.com

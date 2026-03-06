@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Raysha
 source_hash: sha256:38860c5a92644a6e26954080bc774b7497b1bdfff2efdb668cd67f2ca597d16d
 ---
 
+**Case:** [[cases/rayshawn-wilson/rayshawn-wilson|Rayshawn Wilson]]
+**Client:** [[cases/rayshawn-wilson/contacts/rayshawn-wilson|Rayshawn Wilson]]
+
 Apr.16. 2025 1:20PM No-1876 P. 1
 Fax Line ax:15029645969Tor Fae;#35025746727Page: Loft 04352025 8:54AM
 Ber voss gyvetivedenn ama 4 .

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:802ad4537c3f28f3d57847b31207361650b190a297e1fd3e2cc270e090b0be0c
 ---
 
+**Case:** [[cases/james-sadler/james-sadler|James Sadler]]
+**Client:** [[cases/james-sadler/contacts/james-sadler|James Sadler]]
+
 INVESTIGATOR BEAT OR POST #
 TOTAL LANES
 NO

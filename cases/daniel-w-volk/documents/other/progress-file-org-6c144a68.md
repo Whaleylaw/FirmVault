@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel
 source_hash: sha256:1cdfb70e7c6124fffa9ad6c4bb489a2f16f0c9af4cf6de2b31746cbb65e7a6de
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 case_folder: Daniel-W-Volk-MVA-[DOB-1]
 job_id: file-org-6c144a68
 phases.inventory.notes: Starting inventory phase - generating complete file list

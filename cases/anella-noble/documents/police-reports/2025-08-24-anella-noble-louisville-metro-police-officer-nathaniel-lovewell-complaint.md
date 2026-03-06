@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:87984a0f70ca457587e3cb134330b0a7034505e06be8ecc2c9d069cadeeef09e
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 14950443
 NSNS yf 8ge
 SQOF ec Lo

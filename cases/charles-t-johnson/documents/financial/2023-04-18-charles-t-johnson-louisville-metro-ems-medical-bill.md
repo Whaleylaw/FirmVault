@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:12339cc6b4aa789b3b7f62a2c83a226c7b1469a9551def01c3f02508af2d8167
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 Louisville Metro EMS
 P.O. Box 34338
 Louisville, KY 40232-4338

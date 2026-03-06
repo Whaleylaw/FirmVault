@@ -1,6 +1,6 @@
 ---
 case_slug: james-sadler
-created_at: 2026-02-16 23:55:18.217000+00:00
+created_at: {}
 document_category: financial
 document_type: financial
 extraction_method: native_text
@@ -10,7 +10,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Sadler-MVA-4-07-2023/Medical/2023-10-18-James-Sadler-LOUISVILLE-ENDODONTICS-Root-Canal-Treatment.pdf
 source_hash: sha256:672eac6254bc09be3e64f1febf0a0b1be9bc08a8682915dad7fc6438a89d0bcc
+contact: "[[cases/2023-04-07-mva-001/contacts/louisville-endodontics]]"
 ---
+
+**Case:** [[cases/james-sadler/james-sadler|James Sadler]]
+**Client:** [[cases/james-sadler/contacts/james-sadler|James Sadler]]
+
 
 & CHRISTOPHER J. Coox, DMD 7o80 New LaGrange Rd St
 E [EMAIL-1] Tv ac

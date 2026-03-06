@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:e003d30f7f5ab7f8267c8da8b20477699e5e130b8ecdc28425ceb6b92c9fbb04
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 [DOB-1] 09:47AM [PHONE-2] STARLITE PAGE 01
 
 Phone; | | Dates “YI one

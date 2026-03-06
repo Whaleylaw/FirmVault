@@ -1,21 +1,23 @@
 ---
 case_slug: wayne-weber
-created_at: 2026-02-17 00:40:21.962000+00:00
+created_at: {}
 document_category: medical
-document_date: 1947-07-13
+document_date: {}
 document_type: medical
-entities:
-- Baptist Health
+entities: null
 extraction_method: native_text
 legacy_case_id: 2022-01-01-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-Weber-MVA-01-01-2022/Medical/Baptist
-  Health Medical Group Orthopedics - Floyd/Record Requests/2024-11-14-Wayne-Weber-Medical-Baptist
-  Health Medical Group Orthopedics - Floyd-Record-Requests-WLF-Medical-Records-Request.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-Weber-MVA-01-01-2022/Medical/Baptist Health Medical Group Orthopedics - Floyd/Record Requests/2024-11-14-Wayne-Weber-Medical-Baptist Health Medical Group Orthopedics - Floyd-Record-Requests-WLF-Medical-Records-Request.pdf
 source_hash: sha256:268a5c8390696c52c0d658748c6b8909c81752b7e0e2a066ab48db5b45526f34
+contact: "[[cases/2022-01-01-mva-001/contacts/baptist-health-medical-group-orthopedics-floyd]]"
 ---
+
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

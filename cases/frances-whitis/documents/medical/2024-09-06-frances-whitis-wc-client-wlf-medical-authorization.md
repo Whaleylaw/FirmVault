@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/France
 source_hash: sha256:14d79244cebe127e7b3dcd2da83a5a10b13ad54ac29ffa16452a49e2b1bbce52
 ---
 
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 Docusign Envelope ID: 59E86574-1E9D-4FD9-B814-B110327BB023
 Aaron G. Whaley, Esq.
 THE 712 Lyndon Lane

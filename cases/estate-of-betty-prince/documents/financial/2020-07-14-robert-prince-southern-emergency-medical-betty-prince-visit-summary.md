@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:7ecb38bfec24e464640fa55c22bc1dda473d9a70d1dca4f0667ff407c256d012
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 Dec.1.2020 3:38PM southern emergency medical No.2738 P. 1/6
 ALLINDER M.D. ,MATTHEW P.
 Southern Emergency Medical Tax ID:61-1087711

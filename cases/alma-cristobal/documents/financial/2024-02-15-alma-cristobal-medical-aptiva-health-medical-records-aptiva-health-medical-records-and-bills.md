@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:0de57fcd6bff3cf91c64b111b0c546db849d48c956d56302710920c90dd76980
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 Subject: RE: Certified Medical Records & Billing Request - Alma Cristobal DOB [DOB-1]
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

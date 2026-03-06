@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:343e5d37903c0894ef627cb43f83d03ba2baa501ce8c31c1b692f976e652561f
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 Southeastern Emergency Services, LLC
 Make check payable to:
 ChartSwap

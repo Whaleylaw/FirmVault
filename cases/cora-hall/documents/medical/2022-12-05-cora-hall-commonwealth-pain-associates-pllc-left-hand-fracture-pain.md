@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2022-12-05-OTH-001
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-Hall-WC-[DOB-325]/Medical/2022-12-05-Cora-Hall-Commonwealth-Pain-Associates-PLLC-left-hand-fracture-pain.pdf"
 source_hash: "sha256:9ea237b2da991f2c99063957a9513050d3fbb7233c4025db00b169310f3b39c8"

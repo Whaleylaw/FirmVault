@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:2a1146cade0ba08702d4cb51d2e221e8df83cbd410808e341129c4b751f206a9
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 :Fax Line Fax: 15023649363 To' Fax: [PHONE-1] Page: 1 of 3 [DOB-27] 9:06 AM
 FAX
 Date: [DOB-26]

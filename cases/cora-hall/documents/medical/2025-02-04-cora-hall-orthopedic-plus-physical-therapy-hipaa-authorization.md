@@ -1,8 +1,8 @@
 ---
 case_slug: cora-hall
-created_at: 2026-02-16 22:37:52.107000+00:00
+created_at: {}
 document_category: medical
-document_date: 2025-02-04
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2022-12-05-OTH-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-Hall-WC-12-05-2022/Medical/2025-02-04-Cora-Hall-Orthopedic-Plus-Physical-Therapy-HIPAA-Authorization.pdf
 source_hash: sha256:d4b114c0d1d60215cec129c6b2a8d986d008a715221a5072e32a0745f740ff4f
+contact: "[[cases/2022-12-05-oth-001/contacts/orthopedic-plus-physical-therapy]]"
 ---
+
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 
 [DOB-1]
 Orthopedic Plus Physical Therapy - ALL LOCATIONS

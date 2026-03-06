@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:cb8b79e37e0beee7a73ffd8d22a43fd6cde2a1505ba385d22573149edf76144b
 ---
 
+**Case:** [[cases/shannon-colvin/shannon-colvin|Shannon Colvin]]
+**Client:** [[cases/shannon-colvin/contacts/shannon-colvin|Shannon Colvin]]
+
 address: 128 South St, Radcliff, KY 40160
 date_of_birth: [DOB-1]
 imported_at: 2026-02-16T21:09:46.037Z

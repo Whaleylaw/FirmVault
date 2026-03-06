@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:fdac918dda7d2472a17bc95c6d655d32fc8e2607a04aab1183a501fe52bb12c1
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 Itemization of Charges
 Aptiva Health
 For Posting Date July 8, 2024

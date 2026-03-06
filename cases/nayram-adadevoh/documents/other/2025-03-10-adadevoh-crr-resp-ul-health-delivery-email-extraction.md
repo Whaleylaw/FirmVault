@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:b895fa99af51b9353d2b8b5b4841fe8e092e2c942809a57c54d51c745955908f
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: medical_records_notification
 date: 2025-03-10
 description: New Package Notification email from Sherry Wright via UofL Health Notification Service informing Sarena Tuttle that medical records package is ready. Dated March 10, 2025.

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:d5da0df1c7be708764eada057e9ec3b040ee838be7d35ab641504325216d729d
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 Air Evac EMS Inc – Prestonburg
 P.O. Box 106
 West Plains, MO 65775

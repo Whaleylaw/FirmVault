@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:a27ab231bdf6a4ca072e60b2a0b6bbf4a8741f1dac60fe18f47dcb2064bc6e74
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 extracted_data.category: legal
 extracted_data.date: 2025-09-24
 extracted_data.description: Client intake document package (12 pages) dated [DOB-1] for The Whaley Law Firm including Non-Solicitation Affidavit and other intake forms. Document ID: DED5F5D3-0DA3-4100-9302-532D7C4652AD. The affidavit confirms no solicitation occurred and client was injured in an accident. This is the actual intake document that corresponds to the verification certificate.

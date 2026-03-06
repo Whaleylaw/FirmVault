@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel
 source_hash: sha256:514f6aade9f5986b1caf2819aa7f44853c571fdc681992fe9a2795c16b171297
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 BAPTIST HEALTH DC2 7/29/2022 1:08:34 PM PAGE 1/003 Fax server
 Nd BAPTIST HEALTH’ BA
 Fax Transmission/Information Sheet

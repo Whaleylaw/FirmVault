@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:4484fd95164a7426bd66e769292d2496050cd8bdcb06483926d12289a1c2758e
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 Subject: NEF, (for eFiler) JEFFERSON Circuit , MARSHALL,  DEBRA VS. REED, JASMINE Envelope # 6996362
 From: [EMAIL-4]
 To: [EMAIL-3], Sarena@WhaleyLawFirm.com, [EMAIL-3]

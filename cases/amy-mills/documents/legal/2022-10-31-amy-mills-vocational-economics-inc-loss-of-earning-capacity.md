@@ -4,6 +4,9 @@ document_category: legal
 legacy_case_id: 2019-04-26-PrL-001
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-[DOB-9]/Review_Needed/2022-10-31-Amy-Mills-Vocational-Economics-Inc-Loss-of-earning-capacity.pdf"
 source_hash: "sha256:ad42ffa0a1ae731dec062f358c7df68fba94f7812906a3049e871f3a1617c2bf"

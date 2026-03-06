@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jaysha
 source_hash: sha256:2d9e0d9a21bfc4bce20dcb19132091ee6654cf62f3888cd9298bec2d35463de8
 ---
 
+**Case:** [[cases/jaysha-aponte/jaysha-aponte|Jaysha Aponte]]
+**Client:** [[cases/jaysha-aponte/contacts/jaysha-aponte|Jaysha Aponte]]
+
 16 Pages via SFTP Fri, 28 Mar 2025 04:49:41 GMT
 re a >
 oh PAYER Nae SUHEAUTE: PLAN IC eee ko Pec[OoERROR BAYMENTS 2 NP

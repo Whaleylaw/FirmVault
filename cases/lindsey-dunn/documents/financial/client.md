@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Lindse
 source_hash: sha256:d13789fc6e4840eb93ad85ed33bfb5cdfa238c414e24c636ac6351f478f63cd6
 ---
 
+**Case:** [[cases/lindsey-dunn/lindsey-dunn|Lindsey Dunn]]
+**Client:** [[cases/lindsey-dunn/contacts/lindsey-dunn|Lindsey Dunn]]
+
 address: 12 Modern Way, Louisville, KY 40206
 date_of_birth: [DOB-1]
 imported_at: 2026-02-16T21:09:42.772Z

@@ -24,6 +24,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:5f6503cfdaf62a3bdd9dcf676037bcd6bf5f4337ace1cf5f2f3b4d565fe7f96a
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 item_0.jsonb_agg[0].address: 391 Barricks Road, Lot 302B
 item_0.jsonb_agg[0].email: [EMAIL-1]
 item_0.jsonb_agg[0].full_name: Timothy Ruhl

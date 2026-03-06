@@ -19,6 +19,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:505ed91b84262b7d5a78a6148656c60f282f400b46d52bb2e5ff78707449a6c6
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 Kentucky Farm Bureau be
 Mutual Insurance Company
 KENTUCKY NO-FAULT

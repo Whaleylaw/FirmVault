@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:ded0f1ced450c257a9c8841fcf661cd400bdc49721e47aaa92b2e3e5c3e63047
 ---
 
+**Case:** [[cases/shannon-colvin/shannon-colvin|Shannon Colvin]]
+**Client:** [[cases/shannon-colvin/contacts/shannon-colvin|Shannon Colvin]]
+
 12-B3-2H24 14:37 [PHONE-8] Health Data Services CRM A 1/2
 sharecare
 hds.sharecare.com | [PHONE-7] | F: [PHONE-3]

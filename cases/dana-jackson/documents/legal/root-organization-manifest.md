@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dana-J
 source_hash: sha256:c036c1f410b847ce806bf414bebc10357624a313a604b56807751eaa7e73478a
 ---
 
+**Case:** [[cases/dana-jackson/dana-jackson|Dana Jackson]]
+**Client:** [[cases/dana-jackson/contacts/dana-jackson|Dana Jackson]]
+
 accident_date: 2024-01-24
 case_type: MVA
 client_name: Dana-Jackson

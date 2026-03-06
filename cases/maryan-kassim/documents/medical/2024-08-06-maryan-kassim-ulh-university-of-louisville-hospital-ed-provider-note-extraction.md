@@ -19,6 +19,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:2f4fe319db755357df601f6fa452d668c1dc693142685170c7b1411288a8f15a
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 category: Medical
 description: Emergency department provider notes from University of Louisville Hospital for Maryan Kassim's treatment of maxillary fracture, facial trauma, and knee pain following MVA on August 6, 2024, after transfer from Norton Audubon Hospital (86 pages).
 entities[0]: Maryan Kassim

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:c5b9cb4e728e9fe9d2ae58930cd109e11d43251d984d5a398c21caa74a13e4fd
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 2023-03-21 09:24 Image Records [PHONE-14] >> P4/5
 UNIVERSITY OF KENTUCKY
 CHANDLER MEDICAL CENTER

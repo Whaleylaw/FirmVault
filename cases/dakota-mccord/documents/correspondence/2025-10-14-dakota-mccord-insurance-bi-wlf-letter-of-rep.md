@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dakota
 source_hash: sha256:da09eb730e6970459bf960eecf95a48072c17dbd15df210d7fb279f4d59a9c8b
 ---
 
+**Case:** [[cases/dakota-mccord/dakota-mccord|Dakota McCord]]
+**Client:** [[cases/dakota-mccord/contacts/dakota-mccord|Dakota McCord]]
+
 Justin Chumbley
 NN Aaron G. Whaley, Esq.
 712 Lyndon Lane HALEY Louisville, KY 40222

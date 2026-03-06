@@ -1,12 +1,10 @@
 ---
 case_slug: kimberly-brasher
-created_at: 2026-02-17 00:02:22.647000+00:00
+created_at: {}
 document_category: financial
-document_date: 2024-02-21
+document_date: {}
 document_type: financial
-entities:
-- Deaconess Hospital
-- Deaconess Henderson Hospital
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-02-25-PrL-001
 mime_type: application/pdf
@@ -14,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimberly-Brasher-Premise-2-25-2023/Medical/2024-02-21-Kimberly-Brasher-Deaconess-Henderson-Hospital-Medical-Records-Request.pdf
 source_hash: sha256:313ec5440bb7f2e2ac5315c10f9621208fccf51c77cd905a4377c527160ce299
+contact: "[[cases/2023-02-25-prl-001/contacts/deaconess-henderson-hospital]]"
 ---
+
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 
 : ee= a ee ee ee Eeee Pan torvse Bo HSS 43 46 ee $Aeet fo 417 4 =
 Deaconess Hospital Henderson

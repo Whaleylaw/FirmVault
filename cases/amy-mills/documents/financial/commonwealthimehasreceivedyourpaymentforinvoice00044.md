@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:d548ff80d500446a24e75eb2dee2726d3f10954fe1c9de42b3bdb9e23a6160f7
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Subject: Commonwealth IME has received your payment for invoice 0004402
 From: [EMAIL-2]
 To: [EMAIL-2]

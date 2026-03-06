@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bda479762321a9f7",
+        "id": "6af997363279432e",
         "type": "tabs",
         "children": [
           {
-            "id": "e720109b60a0fd84",
+            "id": "bbd781934988c935",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -162,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,10 +175,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "e720109b60a0fd84",
+  "active": "bbd781934988c935",
   "lastOpenFiles": [
-    "brenda-lang/documents/legal/notes.md",
-    "H.md",
-    "muhammad-alif/documents/legal-filings/2022-11-08-muhammad-alif-expense-court-filing-fee-receipt.md"
+    "caryn-mccay/contacts/margaret-sharp.md",
+    "2024-01-17-oth-001/contacts/hartford-mutual-insurance.md",
+    "curtis-lee-justice/contacts/evenup.md",
+    "Contacts/other/evenup.md",
+    "2023-02-05-mva-001/contacts/evenup.md",
+    "caryn-mccay/contacts/evenup.md",
+    "caryn-mccay/contacts/digital-owl.md",
+    "caryn-mccay/claims/under insured motorist-allstate-insurance.md",
+    "caryn-mccay/claims/bi-state-farm-insurance-company.md",
+    "Contacts/Insurance/daniel-long.md",
+    "caryn-mccay/contacts/daniel-long.md",
+    "Contacts/Insurance",
+    "caryn-mccay/caryn-mccay.md",
+    "Contacts/other/state-farm-insurance-company.md",
+    "2021-09-03-mva-001/contacts/state-farm-insurance-company.md",
+    "Contacts/other",
+    "Contacts",
+    "2021-09-03-mva-001/contacts/humana.md",
+    "case.md",
+    "robyn-hester/robyn-hester.md",
+    "john-tripamer/john-tripamer.md",
+    "jerome-hedinger-premise/jerome-hedinger-premise.md",
+    "fidel-antonio-bueso-sandoval/fidel-antonio-bueso-sandoval.md",
+    "estate-of-keith-graser/estate-of-keith-graser.md",
+    "aleesha-williams/aleesha-williams.md",
+    "test-mva-2024-07-15/full-card-test.md",
+    "test-mva-2024-06-01/card-test.md",
+    "wayne-weber/wayne-weber.md",
+    "torrey-green/torrey-green.md",
+    "wayne-weber/claims",
+    "wayne-weber/liens",
+    "torrey-green/claims",
+    "tonya-dunn/claims",
+    "tina-smith/claims",
+    "tina-smith/liens",
+    "timothy-ruhl/claims"
   ]
 }

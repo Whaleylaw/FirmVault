@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:c6fbb60c1374ef82a2ee71e6dac12a864724b30f2ba43b386e5af8ae1c350627
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 Subject: Certified Medical Records & Billing - James Kiper DOB [DOB-1]
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

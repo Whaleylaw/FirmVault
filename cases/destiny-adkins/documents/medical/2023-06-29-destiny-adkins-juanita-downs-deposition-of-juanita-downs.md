@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Destin
 source_hash: sha256:86bba8856a10e08a8df0d3b46282c1586dd926d40c9e7c77926e871d9d722a36
 ---
 
+**Case:** [[cases/destiny-adkins/destiny-adkins|Destiny Adkins]]
+**Client:** [[cases/destiny-adkins/contacts/destiny-adkins|Destiny Adkins]]
+
 Page 1 of 17 
  Klapheke Reporting Service [PHONE-22] 
 1 NO. 22-CI-002878 JEFFERSON CIRCUIT COURT

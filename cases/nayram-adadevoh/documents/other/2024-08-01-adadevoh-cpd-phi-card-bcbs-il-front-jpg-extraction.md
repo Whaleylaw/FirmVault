@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:4760f8677b40f09910ebb9bb13184e32cbded3240804410eff2cf65789c4393f
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: Insurance
 date: 2024-08-01
 description: Blue Cross Blue Shield of Illinois insurance card front side for Nayram Adadevoh

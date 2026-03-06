@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:963af8944c7e4207c0b7cd5d988bf37088f245fd5f61ad058a624b4b6558d411
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 category: Medical
 confidence: high
 description: Court certification of medical records from Ephraim McDowell Regional Medical Center. Certifies 128 pages of medical records for Chris Wilkerson. Signed by Chelsea Cox, System Director of Health Information Management. Dated August 24, 2025.

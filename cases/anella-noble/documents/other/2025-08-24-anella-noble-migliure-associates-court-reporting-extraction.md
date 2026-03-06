@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:cd0d3d767a6b5b74e2387080fdb859024c882398a39c3b7d0d39c4f2198108ce
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 category: Expenses
 description: Court-Reporting
 entities[0]: Anella Noble

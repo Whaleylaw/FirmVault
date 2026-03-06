@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:33e2bf68b35c2593ddd6248421bc9384101e17f74204ef22833bda8eaece5991
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 category: medical_authorization
 date: 2025-11-06
 description: Attestation regarding requested use or disclosure of protected health information related to reproductive health care, signed 11/6/2025 for treatment from 9/3/2025-Present

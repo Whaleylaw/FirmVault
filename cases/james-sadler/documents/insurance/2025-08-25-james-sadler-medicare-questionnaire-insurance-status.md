@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:e3f04f1a5cb7b2a15126ed6b9c24ccf600cb1f2adfd43b98e70949ea26afa044
 ---
 
+**Case:** [[cases/james-sadler/james-sadler|James Sadler]]
+**Client:** [[cases/james-sadler/contacts/james-sadler|James Sadler]]
+
 13 
 MEDICARE QUESTIONNAIRE 
 Medicare is prohibited by Federal Law from being the primary payer of medical expenses 

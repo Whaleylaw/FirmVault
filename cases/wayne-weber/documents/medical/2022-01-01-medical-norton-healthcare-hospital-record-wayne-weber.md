@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2022-01-01-MVA-001
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-Weber-MVA-[DOB-29]/Medical/2022-01-01 - Medical - Norton Healthcare - Hospital Record - Wayne Weber.pdf"
 source_hash: "sha256:8bb10204f915b0212cdd04aeaf48c0a20dd13c2a4498d2c99c6d164f6e75c3bb"

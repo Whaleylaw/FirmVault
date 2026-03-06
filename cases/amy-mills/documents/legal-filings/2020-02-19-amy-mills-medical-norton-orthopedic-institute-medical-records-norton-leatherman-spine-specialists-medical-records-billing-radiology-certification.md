@@ -1,19 +1,22 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:49:01.175000+00:00
+created_at: {}
 document_category: court-filings
-document_date: 2020-02-19
+document_date: {}
 document_type: court_filing
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Norton
-  Orthopedic Institute/Medical Records/2020-02-19-Amy-Mills-Medical-Norton Orthopedic
-  Institute-Medical-Records-Norton-Leatherman-Spine-Specialists-Medical-Records-Billing-Radiology-Certification.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Norton Orthopedic Institute/Medical Records/2020-02-19-Amy-Mills-Medical-Norton Orthopedic Institute-Medical-Records-Norton-Leatherman-Spine-Specialists-Medical-Records-Billing-Radiology-Certification.pdf
 source_hash: sha256:c8015d20ae3519b02b3de19094b011e311030a9325431c0862def261661ffdcf
+contact: "[[cases/2019-04-26-prl-001/contacts/norton-orthopedic-institute]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 IN NORTON’
 HEALTHCARE MEDICAL RECORDS CERTIFICATION RID 130841564

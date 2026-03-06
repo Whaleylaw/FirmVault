@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:bf5b2eb4af5b851bdf84bd113599df86b7a6c3f32e869cc0a7733b31fb1fb108
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 bucket: Investigation
 content_summary: Bodycam or dashcam footage from Officer Jacob Ray (5159) regarding the accident on 2024-02-15. Continuation of scene documentation or separate perspective.
 date: 2024-02-15

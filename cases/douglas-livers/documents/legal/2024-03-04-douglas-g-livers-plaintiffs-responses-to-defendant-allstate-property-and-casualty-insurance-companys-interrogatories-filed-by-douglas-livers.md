@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:3075a52f237abdd57a1d88453e47c0cc8290123e25bf03bee36b9b24414508f5
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 CASE NO. 24-CI-04424 JEFFERSON CIRCUIT COURT 
  DIVISION FIVE (5) 
  JUDGE TRACY E. DAVIS 

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:ad065eb2166c436a3f3f954fae454bdcc3bd76e4b3cf584d1d8dde9350bb88fd
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 Subject: Completed: The Whaley Law Firm has requested your signature. Follow the prompts to execute the attached.
 From: [EMAIL-2]
 To: [EMAIL-2]

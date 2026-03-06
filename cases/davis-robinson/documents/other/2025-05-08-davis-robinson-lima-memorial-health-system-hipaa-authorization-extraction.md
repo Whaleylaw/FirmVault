@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-
 source_hash: sha256:9534199f4d915370456114c1eb40bcc0204b32aca13bfe23aaebb65dafd230e1
 ---
 
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 category: medical_request
 date: 2025-05-08
 description: HIPAA Compliant Medical Authorization for Lima Memorial Health System. Signed by Davis Robinson on 5/8/2025. Valid for 3 years. Authorizes release of all medical records including mental health, psychiatric, and HIV records.

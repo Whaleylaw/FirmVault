@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:32c34598aecacbc22bbf231950582cce95d2b668a3e0d0596aca9fbf35d34d9e
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 January 29, 2020
 Equian
 Attn: Subrogation Department

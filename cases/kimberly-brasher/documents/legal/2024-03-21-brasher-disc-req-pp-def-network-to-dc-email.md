@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:d77a413825c9c94248139ff49d52fe103b3313f0877f6ee162490748ed7e823c
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 Subject: Kimberly Brasher v. Networks USA XIV, Inc., et al. (McLean Circuit 24-CI-00012)
 From: [EMAIL-1]
 To: [EMAIL-2], sarena@whaleylawfirm.com

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:a63a8f9f17cfe2f6799c4554befdc71c54ce8564417e6b4326b18db54d3ac152
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 category: Medical
 confidence: high
 description: Medical records request letter to Adair Family Medical Center. Requesting certified medical records and billing for date of loss [DOB-1]. Dated March 20, 2024.

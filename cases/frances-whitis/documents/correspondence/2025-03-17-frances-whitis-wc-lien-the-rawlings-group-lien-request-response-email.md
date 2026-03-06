@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/France
 source_hash: sha256:a5e1b131e34b5feb4a42a4ac9d53c7c335b6f5553eef1131f9b3ec8343e64720
 ---
 
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 Rawlings Group
 RE: Lien Request - Frances A. Whitis - ID 101552491900
 sarena@whaleylawfirm.com

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:48505b0c664647d2907f7d7b9e4cbe18620c8ee131d41ad83b10cb3bbad2c5f1
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 Apr. 3.2023 10:01AM No.1598 PL12/50
 OG “oray vanes srepiaorg
 HOWIO / STeLIEgTY / SuOREDUAUIMOD

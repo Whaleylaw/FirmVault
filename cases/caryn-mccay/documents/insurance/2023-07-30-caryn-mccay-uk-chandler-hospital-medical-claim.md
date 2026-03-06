@@ -1,6 +1,6 @@
 ---
 case_slug: caryn-mccay
-created_at: 2026-02-16 22:16:53.747000+00:00
+created_at: {}
 document_category: insurance
 document_type: insurance
 extraction_method: native_text
@@ -10,7 +10,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-McCay-MVA-7-30-2023/Medical/2023-07-30-Caryn-McCay-UK-Chandler-Hospital-Medical-Claim.pdf
 source_hash: sha256:cf057cfc412927c5fffeb0e21877f711222418c250aec793ef26d1b4d9494986
+contact: "[[cases/2023-07-30-mva-001/contacts/caryn-mccay]]"
 ---
+
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 
 aa: 0000010
 06126 Page 1 of 2

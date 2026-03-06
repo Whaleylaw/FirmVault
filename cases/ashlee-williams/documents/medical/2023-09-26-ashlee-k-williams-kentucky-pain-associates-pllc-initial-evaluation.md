@@ -1,13 +1,10 @@
 ---
 case_slug: ashlee-williams
-created_at: 2026-02-16 22:08:15.640000+00:00
+created_at: {}
 document_category: medical
-document_date: 2023-08-29
+document_date: {}
 document_type: medical
-entities:
-- Louisville Hospital
-- Pittsburgh Medical Center
-- University of Louisville
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-08-29-MVA-001
 mime_type: application/pdf
@@ -15,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee-Williams-MVA-08-29-2023/Medical-Records/2023-09-26-Ashlee-K-Williams-Kentucky-Pain-Associates-PLLC-Initial-Evaluation.pdf
 source_hash: sha256:ae27aec53742cd8d5734804edb323d415b113d6df641f9871098714906ce085f
+contact: "[[cases/2023-08-29-mva-001/contacts/kentucky-pain-associates]]"
 ---
+
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 
 Kentucky Pain Associates, PLLC
 222 South 1st Street, Suite 300

@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Rebecc
 source_hash: sha256:b45600abc34449046902bfa1dc0ebfb415e0f04f716020c8916edcee6074d140
 ---
 
+**Case:** [[cases/rebecca-lanier/rebecca-lanier|Rebecca Lanier]]
+**Client:** [[cases/rebecca-lanier/contacts/rebecca-lanier|Rebecca Lanier]]
+
 item_0.author_name: Aaron
 item_0.episode_type: imported
 item_0.last_activity: 2025-08-27T00:00:00

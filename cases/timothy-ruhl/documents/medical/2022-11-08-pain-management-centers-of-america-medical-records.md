@@ -1,8 +1,8 @@
 ---
 case_slug: timothy-ruhl
-created_at: 2026-02-17 00:35:47.904000+00:00
+created_at: {}
 document_category: medical
-document_date: 2024-07-30
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2023-09-14-PrL-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timothy-Ruhl-Premise-09-14-2023/Medical-Records/2022-11-08-PAIN-MANAGEMENT-CENTERS-OF-AMERICA-Medical-Records.pdf
 source_hash: sha256:5ad548326bf8ca0fb4b6c502f3c8ece35d6f90588a27579fc997180cd19a5e29
+contact: "[[cases/2023-09-14-prl-001/contacts/pain-management-centers-of-america]]"
 ---
+
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 
 To: The Whaley Law Firm Page: 006 of 135 2024-07-30 02:16:32 PDT 18778209112 From: Pinisetty, Naganjali
 29-Jul-2824 18:44 *18129454765 #150223739207 p.4

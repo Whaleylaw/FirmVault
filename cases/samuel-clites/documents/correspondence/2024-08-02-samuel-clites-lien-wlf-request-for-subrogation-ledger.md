@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Samuel
 source_hash: sha256:3e9a4465f3f958b63dbfc59dfaf1a944da4601e4fc5d55901f2ce2319cd20f1a
 ---
 
+**Case:** [[cases/samuel-clites/samuel-clites|Samuel Clites]]
+**Client:** [[cases/samuel-clites/contacts/samuel-clites|Samuel Clites]]
+
 August 2, 2024
 Anthem
 P.O. Box 659940

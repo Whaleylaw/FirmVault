@@ -4,6 +4,9 @@ document_category: financial
 legacy_case_id: 2022-12-05-OTH-001
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-Hall-WC-[DOB-1]/Medical/2024-06-19-Cora-Hall-Medical-Center-Scottsville-PastDue-Balance-Reminders.pdf"
 source_hash: "sha256:773d32fbcc7b1c440729f6eb12d2d29161dd3d0dd9bfce27571744fc18ab22c5"

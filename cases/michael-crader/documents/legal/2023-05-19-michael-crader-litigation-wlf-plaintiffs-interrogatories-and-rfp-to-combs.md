@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:8b42d238d6b032863783f686aacdef6d7a6491674c28be2b5e3bce1cbbf8e57a
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 COMMONWEALTH OF KENTUCKY 
 MORGAN CIRCUIT COURT 
 CASE NO. ________________ 

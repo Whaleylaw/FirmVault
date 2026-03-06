@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Tonya-
 source_hash: sha256:ca80bceb6e35ee3e8c109882573a259b9816ed03012a2d7b45c69abfce38709d
 ---
 
+**Case:** [[cases/tonya-dunn/tonya-dunn|Tonya Dunn]]
+**Client:** [[cases/tonya-dunn/contacts/tonya-dunn|Tonya Dunn]]
+
 category: Medical Records
 description: Emergency medicine physician bill
 entities[0]: Southeast Emergency Medicine Physicians

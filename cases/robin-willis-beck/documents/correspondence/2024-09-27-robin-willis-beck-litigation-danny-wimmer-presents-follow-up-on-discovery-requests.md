@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:c8bdedb79da9884ab40b1c21850d60355211211ae6338c812cb4b495ec424b04
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 Subject: Fwd: re DWP Discovery to Ms. Beck - Beck, Robin v. Danny Wimmer Presents
 From: [EMAIL-1]
 To: [EMAIL-15], sarena@whaleylawfirm.com, [EMAIL-3]

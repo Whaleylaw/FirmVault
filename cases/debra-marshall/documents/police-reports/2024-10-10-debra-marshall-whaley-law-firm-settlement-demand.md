@@ -4,6 +4,9 @@ document_category: police-reports
 legacy_case_id: 2022-12-03-MVA-001
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-Marshall-MVA-12-3-2022/Legal-Documents/2024-10-10-Debra-Marshall-Whaley-Law-Firm-Settlement-Demand.pdf"
 source_hash: "sha256:577bc8183c0d6fd8d312dff08437b0ed34408c9d15b08d7c4fd1539c970aaef1"

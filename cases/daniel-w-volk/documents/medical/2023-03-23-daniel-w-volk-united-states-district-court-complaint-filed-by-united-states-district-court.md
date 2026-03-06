@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2021-09-24-MVA-001
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel-W-Volk-MVA-[DOB-36]/Legal Documents/2023-03-23-Daniel-W-Volk-United-States-District-Court-Complaint-filed-by-United-States-District-Court.pdf"
 source_hash: "sha256:35ec060e5f4131472c03e43cb66597844e1c04da4358bf30c7ccd457c8a9b4a0"

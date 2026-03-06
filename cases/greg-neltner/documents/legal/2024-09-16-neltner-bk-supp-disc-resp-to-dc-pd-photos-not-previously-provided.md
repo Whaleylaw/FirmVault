@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-N
 source_hash: sha256:fdae48e80199dd6c86f9d92db658744ab53ca2842d29b65397bfbcd20e4b0a3c
 ---
 
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 Subject: Greg and Cecelia Neltner v. Trinity Cohara - Plaintiff's Vehicle Photos
 From: [EMAIL-1]
 To: [EMAIL-2]

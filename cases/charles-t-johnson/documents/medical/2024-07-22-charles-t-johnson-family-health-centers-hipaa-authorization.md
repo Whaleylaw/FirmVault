@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:68b7c5de0ac6477aa80b0c3d355b7bba148ec50d809dbe6203a83b08a4f33004
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 Family Health Centers – Portland
 2215 Portland Ave
 Louisville, KY 40212

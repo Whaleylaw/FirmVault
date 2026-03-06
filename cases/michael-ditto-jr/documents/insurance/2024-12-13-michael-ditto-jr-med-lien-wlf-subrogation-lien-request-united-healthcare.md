@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:b3c699f80a2ab8145ec0d75dbc01aae89e026daeae0e3f66a75843d32a067191
 ---
 
+**Case:** [[cases/michael-ditto-jr/michael-ditto-jr|Michael Ditto Jr]]
+**Client:** [[cases/michael-ditto-jr/contacts/michael-ditto-jr|Michael Ditto Jr]]
+
 Subject: 3rd Party Liability Claim Subrogation Request
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

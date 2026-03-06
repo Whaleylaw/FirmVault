@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Collee
 source_hash: sha256:ddc43f37cc88d419962be051f3b62dc1fa85854adb350ca1120ee42af5d34365
 ---
 
+**Case:** [[cases/colleen-colvin/colleen-colvin|Colleen Colvin]]
+**Client:** [[cases/colleen-colvin/contacts/colleen-colvin|Colleen Colvin]]
+
 © [DOB-31] 10:37 AM ET Fax Services >15023649363 pg lof8
 From: Jessa Galosme Fax: 15023879939 To: Fax: [PHONE-2] Page: Lot? [PHONE-29] 3:55 PM
 Aaron G. Wha !

@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Abby-S
 source_hash: sha256:c02b428890e2926c65b7ac3eb73484463c0577918454af8c4bd1451c51c0318f
 ---
 
+**Case:** [[cases/abby-sitgraves/abby-sitgraves|Abby Sitgraves]]
+**Client:** [[cases/abby-sitgraves/contacts/abby-sitgraves|Abby Sitgraves]]
+
 NATIONAL INDEMNITY COMPANY
 OMAHA, NEBRASKA
 BUSINESS AUTO COVERAGE DECLARATIONS

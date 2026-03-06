@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:6beceacedf7454b31f95c155bdc03146adbe24508333d804f9f5b440ba5d553e
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 R. JOHN ELLIS, JR., M.D. ORTHOPAEDIC SURGERY
 MARK G. SMITH, M.D. FRACTURES
 G. JEFFREY POPHAM, M.D. ELLIS & BADENHAUSEN JOINT REPLACEMENT

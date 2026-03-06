@@ -1,8 +1,8 @@
 ---
 case_slug: ashlee-williams
-created_at: 2026-02-16 22:07:59.249000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 2002-12-01
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2023-08-29-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee-Williams-MVA-08-29-2023/Insurance/2024-11-26-Ashlee-K-Williams-Passport-Health-by-Molina-Personal-injury-claim.pdf
 source_hash: sha256:1297eb7cfd07e210ce1681a118e58f6dd384bb34c7f762e87a67b610af69c104
+contact: "[[cases/2023-08-29-mva-001/contacts/passport-health-by-molina]]"
 ---
+
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

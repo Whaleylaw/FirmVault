@@ -1,8 +1,8 @@
 ---
 case_slug: anella-noble
-created_at: 2026-02-16 22:03:55.591000+00:00
+created_at: {}
 document_category: legal
-document_date: 2021-09-23
+document_date: {}
 document_type: legal
 extraction_method: native_text
 legacy_case_id: 2021-01-03-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 95
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella-Noble-MVA-01-03-2021/Reports/extractions/2021-09-23-Anella-Noble-Answer-Virginia-P-Sewell_extraction.json
 source_hash: sha256:3c810097fe88ebc52ccc031c37ccc1c2cb5fe94ae6ef36f87479c942be95d741
+contact: "[[cases/2021-01-03-mva-001/contacts/virginia-p-sewell]]"
 ---
+
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 
 category: Litigation
 confidence: high

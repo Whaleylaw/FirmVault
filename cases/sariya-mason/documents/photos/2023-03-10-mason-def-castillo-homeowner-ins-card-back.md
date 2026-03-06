@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya
 source_hash: sha256:c5d522c77f6780c1fe9de55cf34c5cbdabae5db56ba1c52d7bd72093ff3713e1
 ---
 
+**Case:** [[cases/sariya-mason/sariya-mason|Sariya Mason]]
+**Client:** [[cases/sariya-mason/contacts/sariya-mason|Sariya Mason]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya-Mason-DB-[DOB-1]/Investigation/2023.03.10-Mason-Def-Castillo-HomeOwner-Ins-Card-Back.jpg

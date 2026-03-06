@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:525dbe36f30ac205a6b9ff458f5e0c3d0f084f05f9a6bd5050be6495e19d4c4b
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 category: Medical
 confidence: high
 description: Medical records request letter to Ephraim McDowell Regional Medical Center requesting certified records and billing. Date of loss [DOB-1]. Dated March 20, 2024.

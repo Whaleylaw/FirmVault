@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:17dbed25460c49341e893f3617f267fdeae34e0477da8da2b25061c3eb758922
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 category: Investigation
 confidence: high
 description: Up-close rear view of the overturned dump truck at the accident scene. Details of the vehicle damage and resting position are visible.

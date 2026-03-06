@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:60d072c6462a258f102b1e0dc1fb7d8a4c62970f289083342b0b207aa613affa
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 category: Client
 description: HIPAA Authorization form for ULP Radiology Associates
 entities[0]: Alma Socorro Cristobal Avendaño

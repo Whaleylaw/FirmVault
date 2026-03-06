@@ -20,6 +20,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:3b6632111ebbc27f9f1cf994034a1473bc97f3d9f918e3152ec6f4a136685ac4
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 BAPTIST HEALTH MEDICAL
 GROUP
 446 W CUMBERLAND GAP

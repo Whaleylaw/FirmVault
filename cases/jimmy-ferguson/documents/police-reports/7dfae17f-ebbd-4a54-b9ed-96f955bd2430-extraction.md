@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:9fe153845eebe7e89d5b988640060b3edd08e9e06d9a2b082cc8135287a6af8f
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 date: 2024-05-30
 description: Photo of the accident scene at the intersection of N Dixie Ave and Towne Ctr Entrance, taken at night showing the position of the vehicles involved.
 original_path: Jimmy-Ferguson-MVA-5-30-2024/7dfae17f-ebbd-4a54-b9ed-96f955bd2430.jpg

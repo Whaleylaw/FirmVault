@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:e230536eb9b680736b397a6238d1ccdd48158fb7f634b86fa7030dece3aadfb6
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Stich-WC-[DOB-1]/Medical/Universal Anesthesia Services LLC/Medical Bills/2024-08-13-Amy-Stich-Medical-Universal Anesthesia Services LLC-Medical-Bills-Credit-Clearing-House-of-America-Debt-Collection-Anesthesia-Bill.jpg

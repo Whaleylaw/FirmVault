@@ -1,8 +1,8 @@
 ---
 case_slug: james-kiper
-created_at: 2026-02-16 23:51:15.002000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 2024-04-02
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2022-12-05-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Kiper-MVA-12-5-2022/Correspondence/2024-04-03-James-Kiper-Correspondence-Foundation-Radiology-Records-Response.eml
 source_hash: sha256:676db46aebca451952e15b612b8029622d47e75eea16bb099be371c92f620055
+contact: "[[cases/2022-12-05-mva-001/contacts/foundation-radiology]]"
 ---
+
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 
 Subject: SECURE: JAMES KIPER
 From: [EMAIL-4]

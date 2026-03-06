@@ -4,6 +4,9 @@ document_category: financial
 legacy_case_id: 2021-09-03-MVA-001
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda-Lang-MVA-[DOB-3]/Correspondence/2021-09-03-Brenda-D-Lang-Whaley-Law-Firm-MVA-Settlement.pdf"
 source_hash: "sha256:093205fda6e3b83a5a7d6867eaaad17d0f1e2745a0e2dd2d9137a693e0b6a044"

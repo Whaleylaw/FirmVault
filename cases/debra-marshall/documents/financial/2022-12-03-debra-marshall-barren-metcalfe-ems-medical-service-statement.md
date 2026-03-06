@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:589e1dc3cd3623ecc5d21bdde2d3ed6fbf4fac2a3eada7474e8e6d105bca9d2a
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 Page 1 of 1
 STATEMENT
 BARREN-METCALFE EMS

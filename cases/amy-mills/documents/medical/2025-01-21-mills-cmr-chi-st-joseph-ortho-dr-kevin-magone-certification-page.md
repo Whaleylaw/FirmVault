@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:2f7a03bd7fb508db4bb7f8516f7c54d66b81ac086b31c782aed436d32efda018
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 ~16068641461 «16:01 lan-2025
 Orthopedics - Group Medical Joseph St. CHI
 pl [PHONE-7]

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:14948e76a9ee6f86c5a9c7565c02bb92a4b785ad98d6e6ad87b912efa83fc39d
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 WTHEHALEY Ln. fy Flr M
 May 15, 2025
 Norton Heart & Vascular Institute

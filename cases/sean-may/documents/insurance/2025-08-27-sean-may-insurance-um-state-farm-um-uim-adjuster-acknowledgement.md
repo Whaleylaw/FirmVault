@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sean-M
 source_hash: sha256:fa303d7530fedd7030415ce4eb822619e77e7ba85aa4efc8838da3fe9cbc0f68
 ---
 
+**Case:** [[cases/sean-may/sean-may|Sean May]]
+**Client:** [[cases/sean-may/contacts/sean-may|Sean May]]
+
 August 27, 2025
 Whaley Law Firm
 712 Lyndon Ln

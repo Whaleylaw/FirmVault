@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:4f765cba6a0aad5bd20d8e62a11a983f4978c79251c9050065800ac1d7cf04ab
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 ignited hdee®® peek ngewiey’ : apne eh Pte tS" *
 
 5) pice 4 9 ae ae ae at ean by <uscten ret

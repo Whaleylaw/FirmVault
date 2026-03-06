@@ -12,4 +12,7 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-N
 source_hash: sha256:56c5436903eaaee4639068c40f2ca5520ad6a2ec0915ccbe06ed31aa64a25dbc
 ---
 
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 “bz-tl-f ea PVATIN OD y HqIYx3

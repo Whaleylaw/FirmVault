@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:408d07a0ef319a166b3733e9723a76881ffd72c2341d6a47b54deec3ffa20d9a
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 [SSN-1] [DOB-1]
 [DOB-1]
 Parkridge Medical Center

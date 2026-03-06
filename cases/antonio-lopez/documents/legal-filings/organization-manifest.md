@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Antoni
 source_hash: sha256:37993d56833b697ab0810377c2a05f3f00e6eb29ed01c6496957761305776e4b
 ---
 
+**Case:** [[cases/antonio-lopez/antonio-lopez|Antonio Lopez]]
+**Client:** [[cases/antonio-lopez/contacts/antonio-lopez|Antonio Lopez]]
+
 accident_date: 2025-11-14
 case_type: MVA
 client_name: Antonio-Lopez

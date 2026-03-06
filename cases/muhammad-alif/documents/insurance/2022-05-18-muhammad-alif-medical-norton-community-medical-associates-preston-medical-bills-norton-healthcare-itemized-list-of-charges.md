@@ -1,22 +1,23 @@
 ---
 case_slug: muhammad-alif
-created_at: 2026-02-17 00:11:26.744000+00:00
+created_at: {}
 document_category: insurance
-document_date: 2022-05-18
+document_date: {}
 document_type: insurance
-entities:
-- Farmers Insurance
-- Norton Healthcare
+entities: null
 extraction_method: native_text
 legacy_case_id: 2022-11-08-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Norton
-  Community Medical Associates - Preston/Medical Bills/2022-05-18-Muhammad-Alif-Medical-Norton
-  Community Medical Associates - Preston-Medical-Bills-Norton-Healthcare-Itemized-List-of-Charges.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Norton Community Medical Associates - Preston/Medical Bills/2022-05-18-Muhammad-Alif-Medical-Norton Community Medical Associates - Preston-Medical-Bills-Norton-Healthcare-Itemized-List-of-Charges.pdf
 source_hash: sha256:9f8e65e8bef2ddf36bd6cb6dcb709dc90146207eb7ccbc8ce43584041b661999
+contact: "[[cases/2022-11-08-mva-001/contacts/norton-community-medical-associates-preston]]"
 ---
+
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 
 Patient: Alif,Muhammad
 Account ID: 217335474

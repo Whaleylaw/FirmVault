@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2023-09-14-PrL-001
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timothy-Ruhl-Premise-[DOB-1]/Medical-Records/2023-09-20-timothy-ruhl-MCE-Medical-Center-East-Alleged-Assault-Concussion.pdf"
 source_hash: "sha256:492a1ef104939c8e42c11ccc883d[PHONE-2]e5e9c774455056043452f5ebf1"

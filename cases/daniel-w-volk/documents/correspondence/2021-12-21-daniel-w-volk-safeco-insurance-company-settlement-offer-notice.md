@@ -1,8 +1,8 @@
 ---
 case_slug: daniel-w-volk
-created_at: 2026-02-16 22:54:43.309000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 2021-09-24
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2021-09-24-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel-W-Volk-MVA-09-24-2021/Insurance/2021-12-21-Daniel-W-Volk-Safeco-Insurance-Company-Settlement-Offer-Notice.pdf
 source_hash: sha256:2820c84195f3607d909b0686e3e6a6e6d80e5840eb4bb61a280f200f34148be3
+contact: "[[cases/2021-09-24-mva-001/contacts/safeco-insurance-company]]"
 ---
+
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 
 Aaron G. Whaley, Esq.
 712 Lyndon Lane

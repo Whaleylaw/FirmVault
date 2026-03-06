@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Forres
 source_hash: sha256:c70c4d75cdcb4ce327e99cdbc1fc18f6d611bf08ffcbf3f34e61e5736d44c2d3
 ---
 
+**Case:** [[cases/forrest-muss/forrest-muss|Forrest Muss]]
+**Client:** [[cases/forrest-muss/contacts/forrest-muss|Forrest Muss]]
+
 accident_date: 2025-07-20
 case_type: MVA
 client_name: Forrest-Muss

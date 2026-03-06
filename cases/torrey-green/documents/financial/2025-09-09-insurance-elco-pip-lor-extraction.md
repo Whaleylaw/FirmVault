@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:5f879d64090f5a05f3b005aa3ac30d1fc4792bcaecc74979b7b5e9f62c0768fe
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 category: insurance
 date: 2025-09-09
 description: Organized copy of PIP Letter of Representation to Elco Insurance dated September 9, 2025. Instructs to hold $4,000 reserve and use $6,000 to pay bills except hospital-related.

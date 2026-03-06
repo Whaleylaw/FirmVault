@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:821ea018c978361e2a440467ac6a8fd9dc0c0fd077f0d4c3e280dc9f07c86256
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 ChartSwap
 2951 Marina Bay Drive
 Suite 130-132

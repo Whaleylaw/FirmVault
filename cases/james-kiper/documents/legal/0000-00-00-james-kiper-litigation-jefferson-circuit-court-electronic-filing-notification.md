@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:a61ad0b148f10d01b1dcba1d28e2657e9c6cd1fea82b5ee78b4904a4fbca8536
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 Subject: James Kiper v. Musimbi Amani, et al. (Jefferson 23-CI-005758)
 From: [EMAIL-1]
 To: [EMAIL-2], [EMAIL-4]

@@ -1,8 +1,8 @@
 ---
 case_slug: wayne-weber
-created_at: 2026-02-17 00:40:59.424000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 2022-01-01
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2022-01-01-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-Weber-MVA-01-01-2022/extractions/2022-01-01-Wayne-Weber-Anchorage-Middletown-Fire-EMS-Emergency-Services.pdf_extraction.json
 source_hash: sha256:78545e96641811f345082fc0a8f2d546a88e39c39ebf304586f0a1cb08e65924
+contact: "[[cases/2022-01-01-mva-001/contacts/anchorage-middletown-fire-ems]]"
 ---
+
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 
 extraction.category: medical_records
 extraction.date: 2022-01-01

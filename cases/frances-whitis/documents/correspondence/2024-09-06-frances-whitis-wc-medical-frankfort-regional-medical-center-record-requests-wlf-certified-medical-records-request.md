@@ -2,7 +2,12 @@
 case_slug: frances-whitis
 document_category: correspondence
 legacy_case_id: 2024-09-06-MVA-001
+contact: "[[cases/2024-09-06-mva-001/contacts/frankfort-regional-medical-center]]"
 ---
+
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Frances-Whitis-WC-MVA-9-6-2024/Medical/Frankfort Regional Medical Center/Record Requests/2024-09-06-Frances-Whitis-WC-Medical-Frankfort Regional Medical Center-Record-Requests-WLF-Certified-Medical-Records-Request.pdf"

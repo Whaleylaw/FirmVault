@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:19e76dc1289ff5068b5f8ec59a5900825f71f8fbcf8b1f63e0d616946f38f896
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 content_analysis.category: Investigation
 content_analysis.date: 2022-08-15
 content_analysis.description: Probation Transfer Records

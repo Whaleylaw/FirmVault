@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:a3211696cedbe41bd975ef14879f7bd996cf05cdd2fb0aa0c0039fa0ab1cdcbc
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 content_length_chars: 3016
 document_metadata.attachments[0]: 2024.08.13 Stich CMR & CMB E&B - Will Request Additional CMRs post Sx & PT.pdf
 document_metadata.cc_emails[0]: [EMAIL-9]

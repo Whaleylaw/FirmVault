@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Hope-R
 source_hash: sha256:fd6ae5e5c315e8a00310f5f9bc6f0d7968210bd50e1f26180d3bcc2ccd26051b
 ---
 
+**Case:** [[cases/hope-renee-padgett/hope-renee-padgett|Hope Renee Padgett]]
+**Client:** [[cases/hope-renee-padgett/contacts/hope-renee-padgett|Hope Renee Padgett]]
+
 WHALEY
 April 14, 2025
 Sent viafax to: [PHONE-6]

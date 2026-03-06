@@ -19,6 +19,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:d66efb6eced169014fedfbc82faec93e793a7da92a9d152fcd55fdd483fe0e83
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 02-157 24 14:18 FROM- Bluegrass Home Med, [PHONE-56] T-102 PQQ] /0035 F-238
 eff Bald mra ,being first duly swora onhishher oath, saysthat: ((Wame of records custodian/clerk}
 1. Tam the custodian of recordsfor lees suse Heme (0d eal,

@@ -1,12 +1,10 @@
 ---
 case_slug: colleen-colvin
-created_at: 2026-02-16 22:28:38.351000+00:00
+created_at: {}
 document_category: medical
-document_date: 1953-05-01
+document_date: {}
 document_type: medical
-entities:
-- Zip Clinic Urgent Care
-- Rapid Relief Urgent Care
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-10-01-MVA-001
 mime_type: application/pdf
@@ -14,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Colleen-Colvin-MVA-10-01-2023/Medical-Records/2024-08-16-Colleen-M-Colvin-Zip-Clinic-Urgent-Care-Medical-Records-Release.pdf
 source_hash: sha256:802a3a234556b06706feddc6c7d51fd0562ad054c7daa598897871d968b69e62
+contact: "[[cases/2023-10-01-mva-001/contacts/zip-clinic-urgent-care]]"
 ---
+
+**Case:** [[cases/colleen-colvin/colleen-colvin|Colleen Colvin]]
+**Client:** [[cases/colleen-colvin/contacts/colleen-colvin|Colleen Colvin]]
+
 
 ***-**-9746 [DOB-1]
 [DOB-1]

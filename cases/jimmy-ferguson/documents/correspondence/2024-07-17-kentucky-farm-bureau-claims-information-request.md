@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:1e1c80145406d76e3647b3cd5fc11bdbf48ae2cc5716935b7a4410d4a8739f8c
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 Kentucky Farm Bureau Insurance Companies
 Kentucky Farm Bureau Mutual Insurance Company * The FB Insurance Company
 9201 Bunsen Parkway ©P.O. Box 20700 * Louisville, Kentucky 40250-0700

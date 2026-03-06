@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-N
 source_hash: sha256:46a7d64f91b84542545a45e0d6aab3d62760aba72f62cb7f361b2e809b4c0c0c
 ---
 
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 Subject: Confirmation for 9/17/2024 (103602)
 From: [EMAIL-1]
 To: Sarena@WhaleyLawFirm.com, [EMAIL-3], [EMAIL-3]

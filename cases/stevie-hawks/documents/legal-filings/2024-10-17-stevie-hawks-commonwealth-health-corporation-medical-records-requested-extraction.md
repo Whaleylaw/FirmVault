@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie
 source_hash: sha256:9a6b854e6a84051479bb0c6defa711a8095015b7619d8d2e56e1033bebff9f11
 ---
 
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 category: Medical Records Request
 date: 2024-10-17
 description: ChartSwap medical records request to Commonwealth Health Corporation for Stevie Hawks' complete medical records from [DOB-2] to [DOB-2]

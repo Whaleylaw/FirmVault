@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:2777945b3ef1564bd4ba004e1769008ebe76e975c02b5ddb02e9b5a172225b58
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 extraction.category: Insurance
 extraction.date: 2025-02-27
 extraction.description: Letter of representation from defense counsel representing employer/carrier

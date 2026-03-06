@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:6a1061392319d25c45059f815caf3f64c434df0f50166d730745ac7f04ba23a7
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 category: Legal
 confidence: high
 description: Workers compensation First Report of Injury (FROI) and correspondence from Clearpath adjuster Debbie Smith to Aaron Whaley acknowledging representation of Christopher Wilkerson. Claim #238042. Date of injury [DOB-1]. Includes police report, forms 106, 113, and employee statement form. 16 pages. Letter dated March 06, 2024.

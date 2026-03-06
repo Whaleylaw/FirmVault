@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2023-02-25-PrL-001
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimberly-Brasher-Premise-2-25-2023/Medical/2024-10-14-Kimberly-Brasher-Deaconess-Health-System-Radiology-Images.pdf"
 source_hash: "sha256:c140379864711060235f199d1e51256d05d95711df408e823ecc9c1179b30d70"

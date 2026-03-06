@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:f6ef4ed86bc72f5f8d7029b6b04964f2d2fcc0d9443cb5ab5cadab1546ba2fcc
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 Subject: NOTICE OF ENTRY  MCLEAN 24-CI-00012, BRASHER, KIMBERLY VS. NETWORKS USA XIV INC. ET AL Envelope # 8359327
 From: [EMAIL-5]
 To: [EMAIL-4], Sarena@WhaleyLawFirm.com, [EMAIL-3]

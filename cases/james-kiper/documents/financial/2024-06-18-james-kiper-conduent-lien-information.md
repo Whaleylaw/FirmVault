@@ -1,18 +1,22 @@
 ---
 case_slug: james-kiper
-created_at: 2026-02-16 23:52:12.094000+00:00
+created_at: {}
 document_category: financial
-document_date: 2024-06-18
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2022-12-05-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Kiper-MVA-12-5-2022/Old
-  Files/2024-06-18-James-Kiper-Conduent-Lien-Information.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Kiper-MVA-12-5-2022/Old Files/2024-06-18-James-Kiper-Conduent-Lien-Information.pdf
 source_hash: sha256:bd8462e4e5cccb8a7a035e8a188fdc8ddfca2f86402eaaab5c5f88d79fcab7fd
+contact: "[[cases/2022-12-05-mva-001/contacts/conduent]]"
 ---
+
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 
 To: Page: 1 of 2 2024-06-18 11:27:57 PDT 18477899639 From: Michael Carrigan
 CONDUENT Os Conduent Payment Integrity Solutions

@@ -1,8 +1,8 @@
 ---
 case_slug: davis-robinson
-created_at: 2026-02-16 22:56:06.664000+00:00
+created_at: {}
 document_category: financial
-document_date: 2025-05-02
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2025-05-02-SF-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 90
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-Robinson-SF-05-02-2025/Reports/extractions/2025-06-20-Davis-Robinson-Emergency-Physicians-of-Northwest-Ohio-Medical-Records-Request_extraction.json
 source_hash: sha256:58672a5d665f320713d4415e45e146a8d1535ec9c4029fece60515cb5c36521b
+contact: "[[cases/2025-05-02-sf-001/contacts/emergency-physicians-of-northwest-ohio]]"
 ---
+
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 
 extraction.classification.bucket: Medical Records
 extraction.classification.confidence: high

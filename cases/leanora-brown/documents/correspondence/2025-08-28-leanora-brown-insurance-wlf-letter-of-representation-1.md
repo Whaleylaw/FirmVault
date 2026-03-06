@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Leanor
 source_hash: sha256:8559925405f4a2c4244974ec375059560ac81af1f2b2b1d9893e57c4aa29cac8
 ---
 
+**Case:** [[cases/leanora-brown/leanora-brown|Leanora Brown]]
+**Client:** [[cases/leanora-brown/contacts/leanora-brown|Leanora Brown]]
+
 Justin Chumbley
 NN Aaron G. Whaley, Esq.
 712 Lyndon Lane HALEY Louisville, KY 40222

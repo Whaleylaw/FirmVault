@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:72fdcd77d6c2a5fe9dd8438208c93f3b20684e6eaa5c4a4e4bdb8eda9934add4
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 Subject: Re: Claim # 237484
 From: [EMAIL-1]
 To: [EMAIL-29]

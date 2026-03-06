@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ceceli
 source_hash: sha256:9db1a4da256b3c29c042667677efc7d5180472ced330580477d81d29d1b042bf
 ---
 
+**Case:** [[cases/cecelia-neltner/cecelia-neltner|Cecelia Neltner]]
+**Client:** [[cases/cecelia-neltner/contacts/cecelia-neltner|Cecelia Neltner]]
+
 KENTUCKIANA
 oomomenCOURT REPORTERS rn
 [PHONE-1]

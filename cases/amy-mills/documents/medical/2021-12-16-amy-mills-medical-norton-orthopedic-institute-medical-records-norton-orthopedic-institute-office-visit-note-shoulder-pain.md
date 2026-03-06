@@ -1,21 +1,23 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:49:05.785000+00:00
+created_at: {}
 document_category: medical
-document_date: 1983-12-28
+document_date: {}
 document_type: medical
-entities:
-- Progressive
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Norton
-  Orthopedic Institute/Medical Records/2021-12-16-Amy-Mills-Medical-Norton Orthopedic
-  Institute-Medical-Records-Norton-Orthopedic-Institute-Office-Visit-Note-Shoulder-Pain.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Norton Orthopedic Institute/Medical Records/2021-12-16-Amy-Mills-Medical-Norton Orthopedic Institute-Medical-Records-Norton-Orthopedic-Institute-Office-Visit-Note-Shoulder-Pain.pdf
 source_hash: sha256:a150e1cbc7c88cb123d0a5c61bcd6012c948e0198d490360ad950a5687137c00
+contact: "[[cases/2019-04-26-prl-001/contacts/norton-orthopedic-institute]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 NORTON PHYSICIANS 
 SERVICES

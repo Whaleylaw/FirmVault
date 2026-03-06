@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2023-08-29-MVA-003
 ---
 
+**Case:** [[cases/julmonzhae-moore/julmonzhae-moore|Julmonzhae Moore]]
+**Client:** [[cases/julmonzhae-moore/contacts/julmonzhae-moore|Julmonzhae Moore]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmonzhae-Moore-MVA-8-29-2023/Legal Documents/2023-12-15-Julmonzhae-Moore-Whaley-Law-Firm-Settlement-Demand-2.pdf"
 source_hash: "sha256:55b253a6be42d67045440f12927935a130cc0f4ac101717c545f0061f27ded02"

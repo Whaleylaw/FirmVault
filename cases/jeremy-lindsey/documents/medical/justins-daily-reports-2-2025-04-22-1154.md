@@ -34,6 +34,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:4fb03a0243bd4bef71c0d5b9b79b395f205461a945613692e68e1e1966d2335b
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 ## Case Summary All
 
 | Name | Phase | First Primary | Fact Summary | Current Status | Status Updated | BI Insurance (Defendant's Insurance) | Is Coverage Valid? | PIP or Medpay | Is Coverage Valid and Ready to Pay? | Does Client Need Lost Wages Paid? | Does Client Need Property Damage Resolved? | SOL Due |

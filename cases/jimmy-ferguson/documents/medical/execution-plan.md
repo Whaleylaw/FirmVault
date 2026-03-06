@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:c4a18add4927cfe0a2e78f3681c9bf531706d0d699928282c8c3b4dfa7720f7a
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 case_name: Jimmy-Ferguson-MVA-5-30-2024
 execution_date: 2026-02-03 22:46:45
 operations[0].action: MOVE

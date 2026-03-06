@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Henrie
 source_hash: sha256:31e3fadc09e1e3b34e64a1624820bdba632abd2e763a928979d484306fd564f2
 ---
 
+**Case:** [[cases/henrietta-jenkins/henrietta-jenkins|Henrietta Jenkins]]
+**Client:** [[cases/henrietta-jenkins/contacts/henrietta-jenkins|Henrietta Jenkins]]
+
 item_0.adjuster_phone: [PHONE-3] Main
 item_0.claim_number: 25-[POLICY-1]
 item_0.coverage_confirmation: Coverage Pending

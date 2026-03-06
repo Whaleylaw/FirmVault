@@ -4,6 +4,9 @@ document_category: police-reports
 legacy_case_id: 2021-09-03-MVA-001
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda-Lang-MVA-[DOB-24]/Medical/2021-09-03-Brenda-D-Lang-Okolona-Fire-Protection-District-Patient-Care-Record.pdf"
 source_hash: "sha256:cfc375b506722b1fca9ecdff651c40acf0f58ab9ae31e7fa601eeee4b770e590"

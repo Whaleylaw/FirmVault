@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:37bb5d9bca45dac142dd1dff7d5a9e389cb64ac6ca60702cb444d049ad65bca1
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 VERIFICATION
 The information provided in the foregoing Answers and Responses of Crete Carrier
 Corporation to discovery requests propounded by Plaintiff are true and correct to the best of my

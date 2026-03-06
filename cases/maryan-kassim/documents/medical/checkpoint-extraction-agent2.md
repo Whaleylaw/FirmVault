@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:49217a77be995a93469705134e7b576cfd538739cc6d097b46ee1b907d1f2968
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 completed_files[0]: 2024-11-04-Maryan-Kassim-Whaley-Law-Firm-requests-records.md
 completed_files[1]: 2024-08-19-Maryan-Kassim-Conduent-Payment-Integrity-Solutions-Personal-Injury-Claim.md
 completed_files[2]: 2024-10-30-Maryan-Kassim-Progressive-PIP-Application-Benefits.md

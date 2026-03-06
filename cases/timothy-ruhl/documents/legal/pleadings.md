@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:bd78b88c6e54e03ba0dd366c9238f1e21ce996f78dc0c7fc266c81f3290c4c35
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 item_0.certificate_of_service: 2024-08-21
 item_0.filing_party_name: Bryce Koon
 item_0.pleading_type: Complaint

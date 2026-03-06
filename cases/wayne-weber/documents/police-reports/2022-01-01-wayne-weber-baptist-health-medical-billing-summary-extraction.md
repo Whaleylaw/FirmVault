@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:37a4bb4bc298f259e3da42fc7d3568fdf638c730936a459faf186b75675da536
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: medical_billing
 extraction.date: 2022-01-01
 extraction.description: Medical billing summary from Baptist Health Medical for services rendered to Wayne Weber related to the January 1, 2022 motor vehicle accident.

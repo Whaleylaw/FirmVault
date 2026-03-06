@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Collee
 source_hash: sha256:9430fe9be7cfb4603bd10ffebd84efc1cd0beffaea9bc753631e45b1162d6049
 ---
 
+**Case:** [[cases/colleen-colvin/colleen-colvin|Colleen Colvin]]
+**Client:** [[cases/colleen-colvin/contacts/colleen-colvin|Colleen Colvin]]
+
 Providing Insurance and Financial Services SS State Farm
 
 Home Office, Bloomington, IL

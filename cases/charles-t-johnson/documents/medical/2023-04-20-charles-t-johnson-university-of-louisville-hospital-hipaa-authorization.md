@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:a6b8e328203ed289c2d016c0c6b811a25b991e3b7d0e3ff307f0932a0517a0ac
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 University of Louisville Hospital
 Radiology Department
 530 S. Jackson Street

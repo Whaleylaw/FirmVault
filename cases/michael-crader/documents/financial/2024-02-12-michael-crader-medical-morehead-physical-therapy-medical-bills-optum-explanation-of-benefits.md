@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:108431a0ebe47aa381edf3da834392f38e015ab6ed4dddc4f5159712740b846c
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 VACCN
 CORRESPONDENCE
 PO BOX 202118

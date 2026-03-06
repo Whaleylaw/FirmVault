@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:ad7156fa061d685400a454bad6dd22ceeb735ef6b1ddc453efca9ca0b1b43c2f
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 Subject: RE: Cora Hall Payne
 From: [EMAIL-1]
 To: [EMAIL-53]

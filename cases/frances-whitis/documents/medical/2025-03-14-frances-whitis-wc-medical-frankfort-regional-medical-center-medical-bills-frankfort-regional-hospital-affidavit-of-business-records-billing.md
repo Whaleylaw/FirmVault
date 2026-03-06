@@ -1,6 +1,6 @@
 ---
 case_slug: frances-whitis
-created_at: 2026-02-16 23:42:41.378000+00:00
+created_at: {}
 document_category: medical
 document_type: medical
 extraction_method: native_text
@@ -8,11 +8,14 @@ legacy_case_id: 2024-09-06-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Frances-Whitis-WC-MVA-9-6-2024/Medical/Frankfort
-  Regional Medical Center/Medical Bills/2025-03-14-Frances-Whitis-WC-Medical-Frankfort
-  Regional Medical Center-Medical-Bills-Frankfort-Regional-Hospital-Affidavit-of-Business-Records-Billing.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Frances-Whitis-WC-MVA-9-6-2024/Medical/Frankfort Regional Medical Center/Medical Bills/2025-03-14-Frances-Whitis-WC-Medical-Frankfort Regional Medical Center-Medical-Bills-Frankfort-Regional-Hospital-Affidavit-of-Business-Records-Billing.pdf
 source_hash: sha256:8c5110c2acf4989d84e19ce2322dc7d89f32d18bba9a39297c9e4c5a3be8b039
+contact: "[[cases/2024-09-06-mva-001/contacts/frankfort-regional-medical-center]]"
 ---
+
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 
 AFFIDAVIT OF BUSINESS RECORDS
 STATE OF Virginia

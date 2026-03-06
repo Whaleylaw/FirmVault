@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:273f1a9d8c8cfa851adee98326bc3975b1c778397c4ee1adcb21f257f7c0e52c
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 Subject: LexisNexis BuyCrash - Receipt for Order
 From: [EMAIL-1]
 To: Sarena@WhaleyLawFirm.com

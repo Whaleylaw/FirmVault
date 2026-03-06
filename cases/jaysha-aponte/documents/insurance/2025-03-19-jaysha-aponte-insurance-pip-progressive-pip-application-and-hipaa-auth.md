@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jaysha
 source_hash: sha256:b42967e6f5fa3f6e327a72d25e[POLICY-1]b6f8bf13e567596938d7195e8f176a
 ---
 
+**Case:** [[cases/jaysha-aponte/jaysha-aponte|Jaysha Aponte]]
+**Client:** [[cases/jaysha-aponte/contacts/jaysha-aponte|Jaysha Aponte]]
+
 PROGRESSIVE CLAIMS PROGRES. GIVE ° P.O. BOX 2930 CLINTON, IA 52733-9934 Underwritten by: Progressive Direct Insurance Company Claim Number: = 25-[POLICY-2] Whaley Law Firm Justin Chumbley Loss Date: March 15, 2025
 
 712 LYNDON LANE Loss State: KY LOUISVILLE, KY 40222

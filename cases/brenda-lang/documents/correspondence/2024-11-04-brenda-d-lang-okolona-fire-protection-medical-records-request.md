@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:d06ec26b04c7d34250db9a47f353ee9fda1e278e09270e4c2eb92456cd236236
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 11/4/2024 14:27:24 CST To: 15023649363 Page: 01/11 From: 911 Billing Services & Consultant, Inc Fax: [PHONE-1]
 FAX COVER SHEET
 To: _SARENA TUTTLE From: CHANCEY

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Destin
 source_hash: sha256:7e89e6b3f59e985670a9c3ade4050465d31947b33787785a94790c3ba8656408
 ---
 
+**Case:** [[cases/destiny-adkins/destiny-adkins|Destiny Adkins]]
+**Client:** [[cases/destiny-adkins/contacts/destiny-adkins|Destiny Adkins]]
+
 NO. 22-CI-002878 JEFFERSON CIRCUIT COURT
 DIVISION ONE (1)
 JUDGE ERIC J. HANER

@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:aa9833e86928c6048e42a7242f0641083a44cbcd63277e25b41f11fc5a22056d
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 1 
 CASE NO. 24-CI-004728 JEFFERSON CIRCUIT COURT 
  DIVISION THREE (3) 

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cynthi
 source_hash: sha256:3bfb968a253252ea3903e42c8048d20cd7749d8d1e032f89d87d00889282d767
 ---
 
+**Case:** [[cases/cynthia-gibson/cynthia-gibson|Cynthia Gibson]]
+**Client:** [[cases/cynthia-gibson/contacts/cynthia-gibson|Cynthia Gibson]]
+
 From:"HOME AUTO-PL-SOUTH-UND-DOCS" <[EMAIL-1]>
 Sent:Thu, 14 Aug 2025 19:57:05 +0000
 To:"VC - AUTO - Coverage Correspondence - MULTIPLE OUTPUT" <[EMAIL-9]>

@@ -1,11 +1,10 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:49:45.980000+00:00
+created_at: {}
 document_category: medical
-document_date: 1983-12-28
+document_date: {}
 document_type: medical
-entities:
-- Clark Clinic
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Review_Needed/2023-03-17-Amy-Mills-Clark-Clinic-Neurology-Neurology-records-release.pdf
 source_hash: sha256:da5e9069d52c4d364c36b7cd40c05dfd2d624285c1305cd391bf3fab9f29ffd1
+contact: "[[cases/2019-04-26-prl-001/contacts/clark-clinic-neurology]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

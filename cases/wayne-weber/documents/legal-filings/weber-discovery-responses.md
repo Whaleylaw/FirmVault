@@ -4,6 +4,9 @@ document_category: court-filings
 legacy_case_id: 2022-01-01-MVA-001
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-Weber-MVA-[DOB-1]/Weber Discovery Responses.pdf"
 source_hash: "sha256:b488bbb195914aaf97b608f2a9661b[PHONE-9]b580c0a59751124f82a49d8d"

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:5bafb625303a8c6a2a3ebdd39d33b571797e71a8791c2651af3845b6522dea66
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 [DOB-1] 11:10:51 PM —0400 FAXCOM PAGE 1 OF 1
 PREPAYMENT REQUIRED
 wo 1000 Madison Avenue, Suite 100 55719478 moe MRO

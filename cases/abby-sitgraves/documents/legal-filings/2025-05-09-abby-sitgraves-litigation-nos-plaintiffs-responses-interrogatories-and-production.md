@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Abby-S
 source_hash: sha256:8f75e462bec7006d3f9e73a404dcc1d4ce4450ea437bc7740291949638dd8505
 ---
 
+**Case:** [[cases/abby-sitgraves/abby-sitgraves|Abby Sitgraves]]
+**Client:** [[cases/abby-sitgraves/contacts/abby-sitgraves|Abby Sitgraves]]
+
 CASE NO. 25-CI-000133 JEFFERSON CIRCUIT COURT 
  DIVISION TWO (2) 
  JUDGE ANNIE O’CONNELL 

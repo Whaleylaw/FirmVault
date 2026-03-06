@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:58445e2fdba38f19d27b501766e004afd7b004b5674d47f7a4a48447ba732200
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 [DOB-1] 02:48 PM TO:15023649363 FROM: [PHONE-2] Page:
 Fax Transmission
 To: [EMAIL-3] From: Management Fax

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:ece4f719a6f83eb2dcdaa8f38d10d88a189617edc6ff38e1d892a904dfa4cc83
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 Aptiva Health
 3615 Newburg Rd, Louisville, KY 40218-3368
 Aptiva Followup Note

@@ -1,11 +1,10 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:49:48.723000+00:00
+created_at: {}
 document_category: medical
-document_date: 1983-12-28
+document_date: {}
 document_type: medical
-entities:
-- Baptist Health
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Review_Needed/2023-08-09-Amy-Mills-Baptist-Health-Corbin-Medical-Records-Release.pdf
 source_hash: sha256:2c1cc3c33849e1d741c4c2c3c3c5bcf5a53c78da92e8bb7dfe897aa5e0206764
+contact: "[[cases/2019-04-26-prl-001/contacts/baptist-health-corbin]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

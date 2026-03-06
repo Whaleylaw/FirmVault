@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:a1ac2d8643c7acd39cb4c9a0fddfa8ab9627c225d058386518c63b47c2a1b637
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: medical_records
 extraction.date: 2024-11-14
 extraction.description: Medical treatment records for accident for Wayne Weber dated November 14, 2024.

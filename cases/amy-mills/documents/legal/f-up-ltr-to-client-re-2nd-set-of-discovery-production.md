@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:3393d76039824be3b51db5d9000c3864e1cf92d79858137ad67fa278c75e2549
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 August 3, 2021
 Amy Mills
 200 Meadow Lark Circle

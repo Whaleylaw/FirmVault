@@ -1,19 +1,22 @@
 ---
 case_slug: frances-whitis
-created_at: 2026-02-16 23:42:39.426000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 2025-02-28
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2024-09-06-MVA-001
 mime_type: message/rfc822
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Frances-Whitis-WC-MVA-9-6-2024/Medical/Frankfort
-  Fire & EMS/Record Requests/2025-05-08-Frances-Whitis-WC-Medical-Frankfort Fire &
-  EMS-Record-Requests-Optum-Medical-Records-And-Billing.eml
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Frances-Whitis-WC-MVA-9-6-2024/Medical/Frankfort Fire & EMS/Record Requests/2025-05-08-Frances-Whitis-WC-Medical-Frankfort Fire & EMS-Record-Requests-Optum-Medical-Records-And-Billing.eml
 source_hash: sha256:ccfdfad4c6015faa2a9a6636a260982426f54fb6c12f46edf6dbaa303a8a5b67
+contact: "[[cases/2024-09-06-mva-001/contacts/frankfort-fire-ems]]"
 ---
+
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 
 Subject: Fwd: Certified Medical Records & Billing Request - Run FCFD50247027 - Frances Whitis
 From: [EMAIL-1]

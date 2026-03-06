@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:69d465f3104a98041227712a218cc91d797746e81e1524845e5460db486b8e37
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 Subject: Charles Johnson [PHONE-6]-2023)
 From: [EMAIL-2]
 To: [EMAIL-4]

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:18539a409797731fee7fea2adf46facd10ab55dd1b8c8dee19105b66ddc2a945
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: New Voice Message from LOUISVILLE JEFF [PHONE-5] on [DOB-2] 12:21 PM
 From: [EMAIL-3]
 To: Sarena@whaleylawfirm.com

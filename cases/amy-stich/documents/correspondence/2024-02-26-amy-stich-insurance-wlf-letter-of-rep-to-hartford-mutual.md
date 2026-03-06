@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:31039db2ab0b281d99a3721268c494d379abca4a2faf4714fc5ce84fdf4494c5
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 Subject: Claim: 237484 - Amy Stich v Moe's Southwest Grill
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

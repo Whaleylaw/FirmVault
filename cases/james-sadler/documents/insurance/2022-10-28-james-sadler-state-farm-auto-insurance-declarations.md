@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:9bd8c93bb5b21cc041b48fd0dd2b22565317ad1fb1f301c60fe8d52546154484
 ---
 
+**Case:** [[cases/james-sadler/james-sadler|James Sadler]]
+**Client:** [[cases/james-sadler/contacts/james-sadler|James Sadler]]
+
 State Farm Mutual Automobile Insurance Company R 41412-5-P MUTL VOL
 Beeran61702-2358 DECLARATIONS PAGE
 NAMED INSURED

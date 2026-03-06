@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:91f4ed7f9095aedf2e930b2fb19f4487809c379a9861f8949a964e8674592b61
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 MEDICARE QUESTIONNAIRE
 Medicare is prohibited by Federal Law from being the primary payer of medical expenses
 covered by other insurance, and has broad rights to recover conditional payments made when

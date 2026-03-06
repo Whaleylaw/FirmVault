@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:83620676bc8c6e79f59f83a231f4a485aa18cce9467bd432d77a6ee44e047835
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 Doverside Emergency Physicians, PLLC
 Make check payable to:
 ChartSwap

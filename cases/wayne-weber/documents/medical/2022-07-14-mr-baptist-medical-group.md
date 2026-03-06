@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:cb975cf7c2d41c676a8671584b75a9900269a5cb8eee1c3bd7fc1fa12119d1df
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 Bq BAPTIST HEALTH BAPTIST HEALTH MEDICAL Weber, Wayne
 gr GROUP INTERNAL MEDICINE MRN: [PHONE-1], DOB: 7/13/1947, Sex: M
 2400 Eastpoint Parkway Visit date: 7/14/2022

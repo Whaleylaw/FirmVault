@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:b597f1d97aa298fc880e6c3652a3173d363e0e32701b60d5455a3aaffd34aa64
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 Subject: RE: Kimberly Brasher v. Networks USA XIV, Inc., et al.
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

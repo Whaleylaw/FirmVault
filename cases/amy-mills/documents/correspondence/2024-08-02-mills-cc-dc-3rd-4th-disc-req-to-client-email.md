@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:94216ff4911f59de12d16e7ae68bebf7beb40393760a57f2b2d545b51f294004
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Subject: The Defense's 3rd Set of Discovery Request & 4th Set of RFPD
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

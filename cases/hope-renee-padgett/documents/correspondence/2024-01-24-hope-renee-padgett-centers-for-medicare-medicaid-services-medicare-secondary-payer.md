@@ -1,8 +1,8 @@
 ---
 case_slug: hope-renee-padgett
-created_at: 2026-02-16 23:48:37.516000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 2023-01-16
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2023-01-16-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Hope-Renee-Padgett-MVA-1-16-2023/Liens/2024-01-24-Hope-Renee-Padgett-CENTERS-FOR-MEDICARE-MEDICAID-SERVICES-Medicare-Secondary-Payer.pdf
 source_hash: sha256:0e0d1de1ba597f8ffaf98ff2edab400b791c4206a5757a8b33cf788cbee0ed59
+contact: "[[cases/2023-01-16-mva-001/contacts/medicare]]"
 ---
+
+**Case:** [[cases/hope-renee-padgett/hope-renee-padgett|Hope Renee Padgett]]
+**Client:** [[cases/hope-renee-padgett/contacts/hope-renee-padgett|Hope Renee Padgett]]
+
 
 COB:R’ Coordination of ‘CENTERS FORMEDICARE &MEDICAID SERVICES Benefits and Recovery
 January 24, 2024

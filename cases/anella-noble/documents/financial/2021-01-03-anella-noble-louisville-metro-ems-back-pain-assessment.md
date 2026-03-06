@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:15f58c4b8527990bbbc4b0456ecb77c94044c2f12437ea1a023c8ec637ddfa83
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 ae Louisville Metro EMS ‘| Patient Care Record Name: NOBLE, ANELLA Incident #: £21001020 Date: [DOB-1] Patient 1 of 1 Patient information Clinical Impression Last _| NOBLE | Address 1900 S$ Floyd Primary Impression , Back Pain First _ =f. | ANELLA Address2 521 Secondary Impression 1 injury of Lower Back - | Middle [ | City” ~ Louisville Protocol Used | : Gender__|Female [State KY [Anatomic Position a DOB | [DOB-1] |Zip 40208 Onset Time a | | [Age | 20 Yrs, 1 Months, 28 Days __ | Country US _| Chief Complaint Lower back pain - | Weight | 150.0lbs-68.0kg ‘|Tel Duration 100 SSS Units | Minutes | 'PediColor | —_ [Physician Secondary Complaint ssNO | 401577737 il Ethnicity Not Hispanic or Latino Duration | | Units | | Race | Black or African American / ; Patient's Level of Distress Mild 7 | Advance Directives Signs & Symptoms Pain - Back pain ; ‘Resident Status : Tat Motorized Vehicle Accident - Auto traffic 7 a — OO a Injury accident injures occupant - Street or CERTIFIED TO BEA TRUE & eae sehway - [DOB-2] | EXACT COPY OF THE ORIGINAL gctaamtetier ac | Medical/Trauma Medical & Trauma : Barriers of Care None Noted Alcohol/Drugs None Reported —_ Pregnancy Yes 7 - Initial Patient Acuity : | 7 —_ Final Patient Acuity | Patient Activity a | | Medications None Reported Allergies - - No known allergies History None Reported Last Oral Intake = | = lz a
 
 Vital Signs

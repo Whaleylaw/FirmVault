@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:224d3b820845a2f901b4a380780559901490853a10c9ccef0d7b341ca47525d1
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 Subject: New Voice Message from WIRELESS CALLER [PHONE-6] on [DOB-2] 9:51 AM
 From: [EMAIL-3]
 To: Sarena@whaleylawfirm.com

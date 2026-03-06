@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:65f80e4a5d28ba6da3a75f4335eb09e75007abd2a80d6dcdeb75e61c564fd12d
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 AUTHORIZATION TO RELEASE PROTECTED HEALTH CARE INFORMATION
 
 TO:

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jaysha
 source_hash: sha256:538bc40d9184ea693b7c2c5fd32e98e366697f5e94fe71f9b2f7cf801671a76d
 ---
 
+**Case:** [[cases/jaysha-aponte/jaysha-aponte|Jaysha Aponte]]
+**Client:** [[cases/jaysha-aponte/contacts/jaysha-aponte|Jaysha Aponte]]
+
 3 Pages via SFTP Sat, 05 Apr 2025 02:23:50 GMT
 U of L Physicians 4/3/2025 7:48:16 AM EDT PAGE 1/002 Fax Server
 FAX

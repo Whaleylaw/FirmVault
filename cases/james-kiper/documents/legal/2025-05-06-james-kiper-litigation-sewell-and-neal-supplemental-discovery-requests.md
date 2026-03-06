@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:2c5a440417fd14de343ea2516db4750b1820a06a8b5cd84dead00008e12b95f2
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 712 Lyndon Lane ● Louisville, KY 40222 ● Phone: [PHONE-2] ● Fax: [PHONE-2] 
 May 6, 2025 
 Charles A. Walker 

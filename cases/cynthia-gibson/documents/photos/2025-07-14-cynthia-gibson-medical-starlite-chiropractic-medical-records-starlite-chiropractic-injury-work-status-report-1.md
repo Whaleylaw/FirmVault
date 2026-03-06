@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cynthi
 source_hash: sha256:0f07260c519fa7819d929ca4625b15b293a2d28b5fc12432f78ac8d3c5ad0f6d
 ---
 
+**Case:** [[cases/cynthia-gibson/cynthia-gibson|Cynthia Gibson]]
+**Client:** [[cases/cynthia-gibson/contacts/cynthia-gibson|Cynthia Gibson]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cynthia-Gibson-MVA-7-9-2025/Medical/Starlite Chiropractic/Medical Records/2025-07-14-Cynthia-Gibson-Medical-Starlite Chiropractic-Medical-Records-Starlite-Chiropractic--Injury-Work-Status-Report-1.jpg

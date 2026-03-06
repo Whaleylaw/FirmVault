@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2023-02-25-PrL-001
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimberly-Brasher-Premise-2-25-2023/Medical/2023-02-25-Kimberly-Brasher-Orthopaedic-Associates-Hip-Fracture-Visit.pdf"
 source_hash: "sha256:9fa4b842cc5990b636f5f0b3e9e391881808c9db38d84ebfeeb5d64b91b654e2"

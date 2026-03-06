@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:b3c8e57800ae0b631787e833784ce9adea03b0d0e06acff330720a1ee988eb10
 ---
 
+**Case:** [[cases/james-sadler/james-sadler|James Sadler]]
+**Client:** [[cases/james-sadler/contacts/james-sadler|James Sadler]]
+
 address: 298 El Conquistador Pl, Louisville, KY 40220
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

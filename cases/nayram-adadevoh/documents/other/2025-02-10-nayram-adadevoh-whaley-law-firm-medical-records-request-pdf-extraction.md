@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:d553930c0da597537029ab6a72c7145de51f53a9b79bc95917b4c6047c3fc08c
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: Medical Records
 date: 2025-02-10
 description: Medical records request from Whaley Law Firm. Dated February 10, 2025.

@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julian
 source_hash: sha256:8e8b372776f90ffe78902f15f66565a4db8a216b639a2f300051ce0ced5a8f6d
 ---
 
+**Case:** [[cases/julian-wilson/julian-wilson|Julian Wilson]]
+**Client:** [[cases/julian-wilson/contacts/julian-wilson|Julian Wilson]]
+
 Justin Chumbley
 NN Aaron G. Whaley, Esq.
 712 Lyndon Lane HALEY Louisville, KY 40222

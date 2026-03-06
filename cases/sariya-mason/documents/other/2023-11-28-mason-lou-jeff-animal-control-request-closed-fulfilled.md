@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya
 source_hash: sha256:7cfd07e6fe23cb1bd7b5c60ebc4a409b2c87f59ceff0eeb00312531f4974f92d
 ---
 
+**Case:** [[cases/sariya-mason/sariya-mason|Sariya Mason]]
+**Client:** [[cases/sariya-mason/contacts/sariya-mason|Sariya Mason]]
+
 Subject: Your Louisville Metro Government public records request #23-12321 has been closed.
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:052074cc1af11e5974bbc3d499c18de36d5adb431cf93f0281def985dde0f485
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: medical_authorization
 date: 2024-07-30
 description: HIPAA authorization form for Change Healthcare TES dated July 30, 2024.

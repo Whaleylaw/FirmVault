@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nicole
 source_hash: sha256:4361af8acbd5dc031e8964b43d163316f58d271c88287128da0170400f6c7152
 ---
 
+**Case:** [[cases/nicole-tewes/nicole-tewes|Nicole Tewes]]
+**Client:** [[cases/nicole-tewes/contacts/nicole-tewes|Nicole Tewes]]
+
 GREEN - 407 IINIU0TU0CUMt i
 
 ure rot KROGER FOQCP everyone NICOLE L TEWES HEALTH a DOB: [DOB-6] » KROGER PHARMACY 01400466 fee 7 pete ane | 685 MALL RD 195-38 — 10626 PEGASAS CT 7 ‘oul ancy was BRENDA 1.91 0 . UNION, KY 41091 FLORENCE, KY 41042 “rose i US CUSTOMER ¥EEEEAEBBIB PH: [PHONE-1] PH:[PHONE-2] oT 25 FUEL POINTS 7“ NCPDP: 1816531 FL onthe E coniite 13 Safety Caps Purchase REE QMO TOTAL 9 RX#: 7117693 *New Rx* DATE: [DOB-3] CHANGE 00° CYCLOBENZAPRINE 10 MG TABLET

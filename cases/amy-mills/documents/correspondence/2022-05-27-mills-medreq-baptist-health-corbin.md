@@ -1,11 +1,10 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:46:12.833000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1983-12-28
+document_date: {}
 document_type: correspondence
-entities:
-- Baptist Health
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/msword
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/2022.05.27-Mills-MedReq-Baptist-Health-Corbin.doc
 source_hash: sha256:d6bbbb59e9c70d214d9972b28638e263c32c4c8873c36eac70a7843e4bb9a992
+contact: "[[cases/2019-04-26-prl-001/contacts/baptist-health-corbin]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 May 27, 2022
 

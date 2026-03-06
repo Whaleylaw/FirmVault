@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:bbf86fb40d6ca28cb5690ceb162b12762cd7c258b91dc27ad733c0704408ade9
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: insurance
 extraction.date: 2023-12-27
 extraction.description: Personal Injury Protection (PIP) worksheet from Kentucky Farm Bureau for Wayne Weber's claim.

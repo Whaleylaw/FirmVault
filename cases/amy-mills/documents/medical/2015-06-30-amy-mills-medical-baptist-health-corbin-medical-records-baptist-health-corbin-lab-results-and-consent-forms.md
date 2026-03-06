@@ -1,25 +1,23 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:48:03.046000+00:00
+created_at: {}
 document_category: medical
-document_date: 1963-12-28
+document_date: {}
 document_type: medical
-entities:
-- Hopatio Fi
-- Hgb Het
-- Christine Meece
-- Director Abdi Vaezy
-- This Hospital
-- Baptist Health
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Baptist
-  Health Corbin/Medical Records/2015-06-30-Amy-Mills-Medical-Baptist Health Corbin-Medical-Records-Baptist-Health-Corbin-Lab-Results-and-Consent-Forms.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Baptist Health Corbin/Medical Records/2015-06-30-Amy-Mills-Medical-Baptist Health Corbin-Medical-Records-Baptist-Health-Corbin-Lab-Results-and-Consent-Forms.pdf
 source_hash: sha256:40a7bc0cfceb58f49260f6259a0f1dab7cc3ea12f5a264d239c31c8e825b8b0c
+contact: "[[cases/2019-04-26-prl-001/contacts/baptist-health-corbin]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 oe , MILLS , AMY 70000293999 wee RA‘ Al of 862
 

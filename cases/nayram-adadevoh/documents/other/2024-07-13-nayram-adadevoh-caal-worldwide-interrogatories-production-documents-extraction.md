@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:75599fc1da7d1bb7114115b9cf24f1e234a36c278cf30ac192f69213a302450d
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: legal_document
 date: 2024-07-13
 description: Interrogatories and request for production of documents to CAAL Worldwide dated July 13, 2024.

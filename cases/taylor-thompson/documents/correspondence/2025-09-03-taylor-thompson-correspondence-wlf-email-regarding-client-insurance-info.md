@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor
 source_hash: sha256:b1f0a0dfe6ae6623d50890be889451dbbc6b053d10d566c863dba22564ca3e06
 ---
 
+**Case:** [[cases/taylor-thompson/taylor-thompson|Taylor Thompson]]
+**Client:** [[cases/taylor-thompson/contacts/taylor-thompson|Taylor Thompson]]
+
 Subject: RE: Fwd: 16945402 - Thompson, Taylor v Rita Beechler Turn Down
 From: [EMAIL-28]
 To: [EMAIL-27]

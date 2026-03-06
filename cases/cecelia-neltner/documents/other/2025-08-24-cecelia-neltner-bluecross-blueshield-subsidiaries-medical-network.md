@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ceceli
 source_hash: sha256:d4b40419b8dee0aaeeea981f8c7968f09d7947a04b00cfcff7fec3e9d4b41417
 ---
 
+**Case:** [[cases/cecelia-neltner/cecelia-neltner|Cecelia Neltner]]
+**Client:** [[cases/cecelia-neltner/contacts/cecelia-neltner|Cecelia Neltner]]
+
 rr a
 in BlueCross: Amazon and
 "WYBlueShield Subsidiaries

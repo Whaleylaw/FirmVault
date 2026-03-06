@@ -1,6 +1,6 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:48:06.507000+00:00
+created_at: {}
 document_category: insurance
 document_type: insurance
 extraction_method: native_text
@@ -8,10 +8,14 @@ legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Baptist
-  Health Corbin/Medical Records/2019-04-26-Amy-Mills-Medical-Baptist Health Corbin-Medical-Records-Goulds-Discount-Medical-Patient-Product-Agreement-and-Rx.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Baptist Health Corbin/Medical Records/2019-04-26-Amy-Mills-Medical-Baptist Health Corbin-Medical-Records-Goulds-Discount-Medical-Patient-Product-Agreement-and-Rx.pdf
 source_hash: sha256:7ea50f78ad39584e8ead74bceab08b58e2a51c80bb5f4ae6a828d7cf2914983d
+contact: "[[cases/2019-04-26-prl-001/contacts/baptist-health-corbin]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 9 ‘ PATIENT PRODUCT AGREEMENT AND Rx
 , 3901 Dutchmians Lane, Suite 100 6802 Dixie Highway

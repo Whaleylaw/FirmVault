@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Elizab
 source_hash: sha256:21382f99cc84d5932367f25ebc76b126342271559450b4732b8e56fc8f4b08f9
 ---
 
+**Case:** [[cases/elizabeth-lindsey/elizabeth-lindsey|Elizabeth Lindsey]]
+**Client:** [[cases/elizabeth-lindsey/contacts/elizabeth-lindsey|Elizabeth Lindsey]]
+
 OvOs/2025 14:23V14 (FAX)B59 3414845 P001/006
 Vascular &
 WV Interventional

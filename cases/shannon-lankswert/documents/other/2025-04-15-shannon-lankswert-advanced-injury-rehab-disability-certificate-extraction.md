@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:e2788b7bb9d34d83297e6d718107e4f38aa3a1eb49f01597ae95c6f6743c76df
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 extraction.category: Medical
 extraction.date: 2025-04-15
 extraction.description: Disability Certificate from Advanced Injury Rehab dated [DOB-2] for date of injury [DOB-2]. Document certifies work restrictions and return-to-work status

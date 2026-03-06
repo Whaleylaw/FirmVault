@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:87a3b73ead417866f31c6194a01c5b398131c065fe3ce4cd3b7cd3d522820585
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 €S06-000-c0-08S2
 NSd SLOGAINE
 LL Se YsSd

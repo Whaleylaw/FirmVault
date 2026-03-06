@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:5521af40d67bfb8f48f4eb2a1197b6b14a133b71df48f91ce4afa98f95a95421
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 Subject: RE: Cora Hall - IME Scheduled
 From: [EMAIL-7]
 To: sarena@whaleylawfirm.com

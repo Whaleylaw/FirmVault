@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:dd4583a930036992480866fbc11d3fa409c982dee5506ce5e59bd1690f471fb2
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 EVAPTIVA HEALTH
 Treating Provider:
 Diagnosis:

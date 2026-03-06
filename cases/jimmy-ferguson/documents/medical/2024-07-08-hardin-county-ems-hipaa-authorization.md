@@ -1,18 +1,22 @@
 ---
 case_slug: jimmy-ferguson
-created_at: 2026-02-16 23:57:32.514000+00:00
+created_at: {}
 document_category: medical
-document_date: 1974-09-16
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2024-05-30-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-Ferguson-MVA-5-30-2024/Client
-  Documents/2024-07-08_Hardin-County-EMS_HIPAA-Authorization.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-Ferguson-MVA-5-30-2024/Client Documents/2024-07-08_Hardin-County-EMS_HIPAA-Authorization.pdf
 source_hash: sha256:791ed24c664e0a449474e811bbcf0a9e49c56777aee595a220720ef32556b083
+contact: "[[cases/2024-05-30-mva-001/contacts/hardin-county-ems]]"
 ---
+
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

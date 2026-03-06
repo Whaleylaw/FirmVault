@@ -1,14 +1,10 @@
 ---
 case_slug: jacob-herrle
-created_at: 2026-02-16 23:49:07.653000+00:00
+created_at: {}
 document_category: financial
-document_date: 2025-06-25
+document_date: {}
 document_type: financial
-entities:
-- Artemis Petrides
-- UC Medical Center
-- West Chester Hospital
-- Holmes Hospital
+entities: null
 extraction_method: native_text
 legacy_case_id: 2025-06-17-MVA-001
 mime_type: application/pdf
@@ -16,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jacob-Herrle-MVA-6-17-2025/Medical/2025-06-25-Jacob-Herrle-Medical-UC-Gardner-Neuroscience-Institute-Itemized-Statement-of-Charges.pdf
 source_hash: sha256:9d14aed7dc3ad42aafe24f9b5a5d9ca75d883c2bf71a23e5d1f112562df4ef34
+contact: "[[cases/2025-06-17-mva-001/contacts/uc-gardner-neuroscience-institute]]"
 ---
+
+**Case:** [[cases/jacob-herrle/jacob-herrle|Jacob Herrle]]
+**Client:** [[cases/jacob-herrle/contacts/jacob-herrle|Jacob Herrle]]
+
 
 THIS IS NOT A BILL
 Jacob Herrle

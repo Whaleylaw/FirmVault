@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:c35d2e5536671b6152c88210855b5bc02e5e2c390401c2a8ceb490b219cdf1d6
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 From:"Lerud, Janette L." <[EMAIL-1]>
 Sent:Thu, 29 Apr 2021 19:43:35 +0000
 To:"[EMAIL-2]" <[EMAIL-3]>

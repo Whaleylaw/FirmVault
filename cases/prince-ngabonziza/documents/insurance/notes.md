@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Prince
 source_hash: sha256:bf56e1c4e0bc6e7b86b764e0c0d89a360db8f44cfc3d5eafd4d7a9330bcdce4c
 ---
 
+**Case:** [[cases/prince-ngabonziza/prince-ngabonziza|Prince Ngabonziza]]
+**Client:** [[cases/prince-ngabonziza/contacts/prince-ngabonziza|Prince Ngabonziza]]
+
 item_0.author_name: Agent for Prince-Ngabonziza-MVA-5-27-2025
 item_0.episode_type: imported
 item_0.last_activity: 2025-09-11T00:00:00

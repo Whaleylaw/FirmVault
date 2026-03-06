@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel
 source_hash: sha256:daec5b8a9f23b371d6bc5c4beb7a80d59acac857a2c8acac086dce1a913ca93f
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 =y UNITED STATES
 £ POSTAL SERVICE.
 Date Produced: [DOB-11]

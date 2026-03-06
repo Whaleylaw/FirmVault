@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:425af8b22dcb51a0e9472c23e87531d13d148e28102615cbbb7968aadc090d3e
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 From: Phia Group Fax: [PHONE-1] To: Fax: [PHONE-2] Page: 1of1 [DOB-3] 10:35 AM
 THE
 PHIA

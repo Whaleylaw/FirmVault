@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Antoni
 source_hash: sha256:6c973603ea0526d8294d24a64839a17ed59a8e50c8855ee31ce0f1eadebd813a
 ---
 
+**Case:** [[cases/antonio-lopez/antonio-lopez|Antonio Lopez]]
+**Client:** [[cases/antonio-lopez/contacts/antonio-lopez|Antonio Lopez]]
+
 item_0.jsonb_agg[0].case_type: MVA
 item_0.jsonb_agg[0].client_name: Antonio Lopez
 item_0.jsonb_agg[0].phase: Unknown

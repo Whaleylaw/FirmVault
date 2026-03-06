@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:84d6040a9d8fc784ac5e0713fd5710af7fb7349aeca2d134bb34aeff4cbeac35
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 United Healthcare
 P.O. Box 5270
 Kingston, NY 12402

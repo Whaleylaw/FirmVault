@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel
 source_hash: sha256:05dc0bf6dd09d2e917308c2397023742c47980a09c8166e9e65afd3e87976629
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 © [DOB-98] 7:02 AM Fax Services >Attorney Whaley pg lof5
 To: Attorney Whaley
 Company:

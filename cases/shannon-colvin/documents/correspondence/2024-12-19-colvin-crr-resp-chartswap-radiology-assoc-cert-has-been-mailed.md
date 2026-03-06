@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:39494e5006a2b1270e9d869289e134473abf92d8b0a4f17298837e4ff3ffc198
 ---
 
+**Case:** [[cases/shannon-colvin/shannon-colvin|Shannon Colvin]]
+**Client:** [[cases/shannon-colvin/contacts/shannon-colvin|Shannon Colvin]]
+
 Subject: ChartSwap: Issue Addressed by Radiology Associates Inc. (AVRAI)
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

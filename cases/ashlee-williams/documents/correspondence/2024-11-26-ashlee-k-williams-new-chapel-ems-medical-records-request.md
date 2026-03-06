@@ -1,8 +1,8 @@
 ---
 case_slug: ashlee-williams
-created_at: 2026-02-16 22:08:19.078000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 2002-12-01
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2023-08-29-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee-Williams-MVA-08-29-2023/Medical-Records/2024-11-26-Ashlee-K-Williams-New-Chapel-EMS-Medical-Records-Request.pdf
 source_hash: sha256:651ffbecfc78715c7aa3d844daebc466f3161f6cf0fdc8591bfd1cfead761f42
+contact: "[[cases/2023-08-29-mva-001/contacts/new-chapel-ems]]"
 ---
+
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

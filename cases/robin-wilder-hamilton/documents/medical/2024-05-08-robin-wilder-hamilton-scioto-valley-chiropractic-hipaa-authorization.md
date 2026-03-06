@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:ba28519c4ebdd724655bfc7f7f44b703802b8f15070ce8f9db1586fc2a59cd54
 ---
 
+**Case:** [[cases/robin-wilder-hamilton/robin-wilder-hamilton|Robin Wilder Hamilton]]
+**Client:** [[cases/robin-wilder-hamilton/contacts/robin-wilder-hamilton|Robin Wilder Hamilton]]
+
 AUTHORIZATION TO RELEASE PROTECTED HEALTH CARE INFORMATION
 TO:
 Pursuant to the Health Insurance Portability andAccountability Act (HIPAA) Privacy Regulations,

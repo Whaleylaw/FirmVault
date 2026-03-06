@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:366d78dbdf0c119832e8b5d3e857ed4852b9f09afa85eef7f2cb64f897fecdfb
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 accident_date: 2024-02-15
 case_type: MVA
 client_name: Christopher-Wilkerson-WC

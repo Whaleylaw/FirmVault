@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:cd00a8c3350f2edb9fe9e57ec354117f76fda446f1676a4928da1a7583972891
 ---
 
+**Case:** [[cases/charles-godsey/charles-godsey|Charles Godsey]]
+**Client:** [[cases/charles-godsey/contacts/charles-godsey|Charles Godsey]]
+
 case_folder: Charles-Godsey-MVA-6-30-2025
 job_id: placeholder
 phases.phase_5_verification.notes: Starting verification phase

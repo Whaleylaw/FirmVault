@@ -1,6 +1,6 @@
 ---
 case_slug: daniel-w-volk
-created_at: 2026-02-16 22:54:45.079000+00:00
+created_at: {}
 document_category: court-filings
 document_type: court_filing
 extraction_method: native_text
@@ -10,7 +10,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel-W-Volk-MVA-09-24-2021/Insurance/2025-03-18-Daniel-W-Volk-ANSWER-Safeco-Insurance-Company-of-Illinois.pdf
 source_hash: sha256:1d5040c9fdf1ef065fbba1c5dceeb44a9cab08d733420fb63dd6fe281c4a5184
+contact: "[[cases/2021-09-24-mva-001/contacts/safeco-insurance-company]]"
 ---
+
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 
 COMMONWEALTH OF KENTUCKY
 OLDHAM CIRCUIT COURT

@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:9516334ef2f9e224d5660b8713770cb56db5c744f958904a4ae1ddf3592c5b61
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: medical_requests
 extraction.date: 2023-11-06
 extraction.description: Baptist Health Medical Group Internal Medicine HIPAA Authorization for Wayne Weber dated November 6, 2023.

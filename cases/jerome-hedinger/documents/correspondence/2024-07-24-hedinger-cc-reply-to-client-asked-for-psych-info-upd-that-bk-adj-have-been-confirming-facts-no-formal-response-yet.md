@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:a38abaab53bd65f0fb24bb39082b95262fb8137659168ae849767f7a60c8f04b
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 Subject: Re: Important Follow Up
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

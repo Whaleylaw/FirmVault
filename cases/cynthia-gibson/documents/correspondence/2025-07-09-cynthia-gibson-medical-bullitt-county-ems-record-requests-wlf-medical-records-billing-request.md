@@ -1,18 +1,22 @@
 ---
 case_slug: cynthia-gibson
-created_at: 2026-02-16 22:38:42.571000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1975-10-21
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2025-07-09-MVA-001
 mime_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cynthia-Gibson-MVA-7-9-2025/Medical/Bullitt
-  County EMS/Record Requests/2025-07-09-Cynthia-Gibson-Medical-Bullitt County EMS-Record-Requests-WLF-Medical-Records-Billing-Request.docx
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cynthia-Gibson-MVA-7-9-2025/Medical/Bullitt County EMS/Record Requests/2025-07-09-Cynthia-Gibson-Medical-Bullitt County EMS-Record-Requests-WLF-Medical-Records-Billing-Request.docx
 source_hash: sha256:ffbd396b3046f55dd0d7c752d562e05240b6eb3a5b16c68f361c3d77e93c3c64
+contact: "[[cases/2025-07-09-mva-001/contacts/bullitt-county-ems]]"
 ---
+
+**Case:** [[cases/cynthia-gibson/cynthia-gibson|Cynthia Gibson]]
+**Client:** [[cases/cynthia-gibson/contacts/cynthia-gibson|Cynthia Gibson]]
+
 
 *Aaron G. Whaley, Esq.*
 *712 Lyndon Lane*

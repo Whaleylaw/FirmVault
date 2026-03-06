@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:3d12ac53052506e01a13958b51fd5f8714425aae269df16ae0f092bf285c4695
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 CONTRACT FOR LEGAL SERVICES
 
 Kimberly Brasher , = - I, Amery , hereby retain and employ the law office of THE WHALEY LAW FIRM (hereinafter “Law Office’ *) as my attomeys to represent me in my claims

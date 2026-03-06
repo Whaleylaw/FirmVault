@@ -1,8 +1,8 @@
 ---
 case_slug: caryn-mccay
-created_at: 2026-02-16 22:17:30.044000+00:00
+created_at: {}
 document_category: financial
-document_date: 2023-10-12
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2023-07-30-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 90
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-McCay-MVA-7-30-2023/Reports/2026-02-01-file-organization/extractions/2023-10-12-Caryn-McCay-Lexington-Fayette-Urban-County-Government-Medical-Records-Request_extraction.json
 source_hash: sha256:28d85c11b902390b78d1ad8526a5530c2caa04f8a1b0141d393934199af92e08
+contact: "[[cases/2023-07-30-mva-001/contacts/caryn-mccay]]"
 ---
+
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 
 extraction.classification.bucket: Medical Records
 extraction.classification.confidence: high

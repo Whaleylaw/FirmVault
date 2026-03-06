@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:dc38818d4b8f4dc2adf3994a44622d76584b32e0131d1745f5380eee664fae7f
 ---
 
+**Case:** [[cases/shannon-colvin/shannon-colvin|Shannon Colvin]]
+**Client:** [[cases/shannon-colvin/contacts/shannon-colvin|Shannon Colvin]]
+
 © [DOB-1] 8:34 PM Fax Services -> AARON pg 1of 2
 FAX
 To: AARON WHALEY

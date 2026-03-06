@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:05f56610a8e6a50f5b9bf68e4df254250d0fe075c5e1d798a7f243dd41115c5d
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 Form AWW-1
 Average Weekly Wage Certification
 Adopted January 1, 1997

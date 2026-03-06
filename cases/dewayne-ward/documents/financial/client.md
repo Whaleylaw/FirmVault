@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dewayn
 source_hash: sha256:91c659424089300f56f52f84c7be22831b766cd804f4fad3877b6ddcbca57ee8
 ---
 
+**Case:** [[cases/dewayne-ward/dewayne-ward|Dewayne Ward]]
+**Client:** [[cases/dewayne-ward/contacts/dewayne-ward|Dewayne Ward]]
+
 address: 3429 Cathe Dykstra Way, Louisville, KY 40216
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

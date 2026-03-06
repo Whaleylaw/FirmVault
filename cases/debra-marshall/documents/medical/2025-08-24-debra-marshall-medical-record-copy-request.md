@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:2cda45af6988904c33f3a62f9f7fa613274a45e3c8dd12b135b05b21ace84316
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 422.317 Copy of patient's medical record to be supplied on patient's written 
 request -- Exception for Department of Corrections.
 (1) Upon a patient's written request, a hospital licensed under KRS Chapter 216B or a 

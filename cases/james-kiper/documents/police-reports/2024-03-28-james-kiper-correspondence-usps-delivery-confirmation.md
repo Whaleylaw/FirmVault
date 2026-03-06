@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:24a6e551a7a0bdf7f6d67f2f38c73cd38e36d7595f4dba50f8053a91aec3b783
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 =y UNITED STATES
 Ba POSTAL SERVICE.
 Date Produced: [DOB-12]

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:9cac412b5a1af23b6b0cc6327b084bdee5458634358158068f0a7b046b91623e
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: settlement
 date: 2024-12-01
 description: Full release of property damage claims for $25,000 settlement from Progressive Insurance

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:c37c183bf72ce33e563742013f60cc4ced677af526d7c7381bd478c32ab7cae3
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 Subject: 12-17 Deposition of Charles Johnson; Robert Lowe
 From: [EMAIL-6]
 To: [EMAIL-2], [EMAIL-3], sarena@whaleylawfirm.com

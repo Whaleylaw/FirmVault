@@ -11,3 +11,6 @@ quality_score: 0
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/2023-10-18-Amy-Mills-Dr-Smith-Annual-Physical-Exam.pdf
 source_hash: sha256:d7b6b2f28d74efbea537508c28ab76af18576ffc39e05124847d8bc7e97b49af
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]

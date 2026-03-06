@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:0b951ba8eea72dc26fd97d744e91bede781bac488109ab57818687eb01f2147e
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 batch_number: 6
 count: 20
 files[0]: 2021-01-03-Anella-Noble-COURT-PLEADING-Filed-by-FOWSVILLE-METRO-POLICE-DEPT.pdf

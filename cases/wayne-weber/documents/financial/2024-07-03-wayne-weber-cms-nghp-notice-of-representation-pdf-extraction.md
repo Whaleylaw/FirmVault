@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:af7f4106a33666d6b7e197547e6bbb28eceed211ffb59592cd3ce04774c604bc
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: lien
 extraction.date: 2024-07-03
 extraction.description: Notice of representation sent to CMS NGHP (Non-Group Health Plan) portal regarding Medicare lien matters, dated July 3, 2024.

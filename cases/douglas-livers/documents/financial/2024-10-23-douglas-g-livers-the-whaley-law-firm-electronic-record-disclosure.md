@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:261ffca1fe67bd6be49641c993e380219e0f7bdf9e31a3240de7bb58952e223f
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 Certificate Of Completion
 Envelope Id: CFEA016AA5AB4C4CA930334515751F17 Status: Completed
 Subject: The Whaley Law Firm has requested your signature. Follow the prompts to execute the attached.

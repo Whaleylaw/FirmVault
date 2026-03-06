@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:c117fa0fa1a75006dda8e261a093541c44932228001819be852d3ba911efe21c
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: lien_correspondence
 extraction.date: 2024-08-14
 extraction.description: Conditional payment letter from the Centers for Medicare and Medicaid Services (CMS) regarding Wayne Weber's case dated August 14, 2024.

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor
 source_hash: sha256:3fddd6de2084875dded23abdc4c6b0a1d71c7a8b66ac52686b1026a17dd02685
 ---
 
+**Case:** [[cases/taylor-thompson/taylor-thompson|Taylor Thompson]]
+**Client:** [[cases/taylor-thompson/contacts/taylor-thompson|Taylor Thompson]]
+
 Subject: RE: *EXT*Taylor Thompson - ClaimAngel Additional Funding Request
 From: [EMAIL-22]
 To: [EMAIL-2], [EMAIL-3]

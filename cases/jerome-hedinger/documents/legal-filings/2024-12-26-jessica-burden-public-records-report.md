@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:c9213937254198c8fd482a14e886376235bde55b516121bafc3054d93a07f8b7
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 ( » LexisNexis
 Search: Public Records : SmartLinx® Comprehensive Person Report
 Terms: first-name(Jessica) last-name(Burden) city(Louisville) state(KY) radius(30)

@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maia-O
 source_hash: sha256:8980f83888d99f25fee3a5bbccb084648678c69b908be86896ebbcafc97f4fd6
 ---
 
+**Case:** [[cases/maia-ott/maia-ott|Maia Ott]]
+**Client:** [[cases/maia-ott/contacts/maia-ott|Maia Ott]]
+
 Nov. 11. 2025 02:51 PM Tri-State [PHONE-82] P 1/22
 X
 To: Wholey

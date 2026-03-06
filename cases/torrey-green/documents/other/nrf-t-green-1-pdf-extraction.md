@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:ffb0957be5990b0acb9808d6af4c4a5f73655feacc740cc08a6b74b02f549c4b
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 extracted_data.category: medical
 extracted_data.date: 2025-09-03
 extracted_data.description: No Records Found letter from Louisville Metro EMS Records Custodian stating that after a thorough search, no records were found for patient Torrey Green for dates of service 9/3/25-Present. The letter notes there are multiple EMS providers in Louisville and suggests expanding search parameters.

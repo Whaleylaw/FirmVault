@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:7fe125ff8b3b57a5d2e03c5cd47c652780b9e2c88895da6c3fd38a531da186f7
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 category: Litigation
 description: ORDER-granting-leave
 entities[0]: Anella Noble

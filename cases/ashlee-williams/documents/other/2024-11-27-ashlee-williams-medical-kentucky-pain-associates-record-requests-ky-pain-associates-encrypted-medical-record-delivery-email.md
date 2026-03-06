@@ -1,19 +1,22 @@
 ---
 case_slug: ashlee-williams
-created_at: 2026-02-16 22:08:05.948000+00:00
+created_at: {}
 document_category: other
-document_date: 2025-05-26
+document_date: {}
 document_type: other
 extraction_method: native_text
 legacy_case_id: 2023-08-29-MVA-001
 mime_type: message/rfc822
 page_count: 1
 quality_score: 90
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee-Williams-MVA-08-29-2023/Medical/Kentucky
-  Pain Associates/Record Requests/2024-11-27-Ashlee-Williams-Medical-Kentucky Pain
-  Associates-Record-Requests-KY-Pain-Associates-Encrypted-Medical-Record-Delivery-Email.eml
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee-Williams-MVA-08-29-2023/Medical/Kentucky Pain Associates/Record Requests/2024-11-27-Ashlee-Williams-Medical-Kentucky Pain Associates-Record-Requests-KY-Pain-Associates-Encrypted-Medical-Record-Delivery-Email.eml
 source_hash: sha256:69063a61983a05d262473f709f9d616f15fa45482f237f09502421f0abd2033f
+contact: "[[cases/2023-08-29-mva-001/contacts/kentucky-pain-associates]]"
 ---
+
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 
 Subject: Ashlee Williams
 From: [EMAIL-1]

@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:b1cfb57f1e9865805d38c1a9ab1232b57ccb1443f966601d86f3af412dcf7fcd
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 item_0.certificate_of_service: 2023-09-19
 item_0.filing_party_name: Bryce Koon
 item_0.pleading_type: Complaint

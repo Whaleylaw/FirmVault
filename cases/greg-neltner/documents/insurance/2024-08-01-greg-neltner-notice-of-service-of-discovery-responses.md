@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-N
 source_hash: sha256:b061e6c7a8eef51444758cbc350e4e6bf22ce5d2fd59cf2d7cdbbcb0566d2de8
 ---
 
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 COMMONWEALTH OF KENTUCKY
 
 BOONE CIRCUIT COURT DIVISION III CIVIL ACTION NO. 24-CI-00452 Electronically Filed GREG NELTNER and CECELIA NELTNER PLAINTIFFS VS. NOTICE OF SERVICE OF DISCOVERY RESPONSES TRINITY COHARA DEFENDANT

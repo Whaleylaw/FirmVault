@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:197ded59de6054d14ce6ac534025fb8876e37bd9de7caa36766b8f8b5cc81d94
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: insurance
 date: 2024-01-12
 description: Request for Claim Information form for PIP benefits, claim 300-[PHONE-1], date of loss 12/01/24, laceration and abdominal soreness

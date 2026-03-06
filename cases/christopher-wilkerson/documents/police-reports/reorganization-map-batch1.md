@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:2a2ba6296122593ba7ef3a9cb6c9dac328971be98e07b9d700ebf054dbab9da6
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 batch_description: Batch 1 contains extractions 1-42 of 84 total files
 batch_id: batch_1_of_2
 batch_status: COMPLETE

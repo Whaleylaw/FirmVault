@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Lejzan
 source_hash: sha256:a08768f27fd854b0947598ec5933f3398b515590e81dd8d0ae69a5cedebac7eb
 ---
 
+**Case:** [[cases/lejzane-miftari/lejzane-miftari|Lejzane Miftari]]
+**Client:** [[cases/lejzane-miftari/contacts/lejzane-miftari|Lejzane Miftari]]
+
 item_0.jsonb_agg[0].address: 13010 Bessels Blvd
 item_0.jsonb_agg[0].full_name: Lejzane Miftari
 item_0.jsonb_agg[0].phone: [PHONE-4]

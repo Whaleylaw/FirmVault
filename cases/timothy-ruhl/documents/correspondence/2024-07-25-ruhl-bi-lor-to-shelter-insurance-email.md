@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:f75251036d0c3cc30f9dc1647f5da45ebccffe9df047f62f3f40bf316edd09c8
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 Subject: Hoosier Cargo Express LLC
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:64f7985b0eba0a55a689304dd6f72cbf8d9fc5baf821585a634fe65ee9baef84
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 Subject: You've been added to a workspace
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

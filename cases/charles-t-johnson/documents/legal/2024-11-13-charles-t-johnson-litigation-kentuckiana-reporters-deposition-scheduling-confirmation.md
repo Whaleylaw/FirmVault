@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:76819e369a2e1fc5b007649e6f91152a622b9654d33a2c516a9254b7bed8a143
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 Subject: Re: New submission from 20 Second Scheduler
 From: [EMAIL-8]
 To: sarena@whaleylawfirm.com

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Tonya-
 source_hash: sha256:4653b8b63b9f39c3a9b1c94f75b2ab53603f3e768cc865d500c4e9c2a9e6aa40
 ---
 
+**Case:** [[cases/tonya-dunn/tonya-dunn|Tonya Dunn]]
+**Client:** [[cases/tonya-dunn/contacts/tonya-dunn|Tonya Dunn]]
+
 category: Insurance
 description: Payment log markdown
 document_type: insurance_payment_record

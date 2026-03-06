@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:7efe2894c6a369e35d1bb35c370368229b5083043abf5d5a8f97008465f9c3b6
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 content_length_chars: 1996
 document_metadata.attachments[0]: 2021 Whaley WC Client Intake Packet - Adult.pdf
 document_metadata.attachments[1]: Summary.pdf

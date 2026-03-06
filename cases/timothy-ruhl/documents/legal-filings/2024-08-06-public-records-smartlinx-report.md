@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:b3046312d0c99a3b9713f567c4a09ed3f7695dff0e8f17cb0c87c19a856b85d7
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 © LexisNexis
 Search: Public Records : SmartLinx® Comprehensive Person Report
 Terms: street address(4214 Klerner Lane) city(New Albany) state(IN) radius(30)

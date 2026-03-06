@@ -19,6 +19,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Azaire
 source_hash: sha256:4bc9f2a3a294f654ce98c7a147452f0ce2362a0a2b30ec78fd22386ec3bc3ecb
 ---
 
+**Case:** [[cases/azaire-lopez/azaire-lopez|Azaire Lopez]]
+**Client:** [[cases/azaire-lopez/contacts/azaire-lopez|Azaire Lopez]]
+
 item_0.episode_type: communication
 item_0.note: Sent email to Justin Chumbley ([EMAIL-1]) requesting status updates on four items: (1) Current treatment status for client, (2) Whether records requests have been sent to UofL Hospital and Starlight Chiropractic, (3) Confirmation of BI coverage limits with Auto Owners Insurance (Claim #[PHONE-2]-2025), (4) Status of accident/police report from November 14, 2025 incident. Email sent to complete File Setup phase requirements.
 item_0.note_summary: Email Sent to Attorney Justin - Status Update Request

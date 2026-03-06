@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:2923797407416d1ea4faf9f048e4e561a400ef0326063271edbaf0b71e92a268
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 batch_number: 4
 count: 20
 files[0]: 2024-01-05-Anella-Noble-Whaley-Law-Firm-Regarding-Case-Status.pdf

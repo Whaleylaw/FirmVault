@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya
 source_hash: sha256:a7476490c34f8a0ca43e796168ab96edbbf19ce512fd0e770cfd631209c2c0a7
 ---
 
+**Case:** [[cases/sariya-mason/sariya-mason|Sariya Mason]]
+**Client:** [[cases/sariya-mason/contacts/sariya-mason|Sariya Mason]]
+
 Subject: Claim: 04830025 Sariya Mason - Dog Bite
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

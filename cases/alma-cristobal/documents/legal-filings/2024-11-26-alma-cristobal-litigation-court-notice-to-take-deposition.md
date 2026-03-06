@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:e46f33ffb12e3410aa5f5627910c2a331e760b1c292dd66b415a245bdc48b0ca
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 Subject: NEF, JEFFERSON Circuit 24-CI-004728, CRISTOBAL, ALMA VS. CRETE CARRIER CORPORATION ET AL Envelope # 9364059
 From: [EMAIL-5]
 To: [EMAIL-4], SARENA@WHALEYLAWFIRM.COM, [EMAIL-3]

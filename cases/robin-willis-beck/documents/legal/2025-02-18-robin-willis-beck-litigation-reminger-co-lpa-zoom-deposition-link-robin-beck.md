@@ -1,8 +1,8 @@
 ---
 case_slug: robin-willis-beck
-created_at: 2026-02-17 00:17:01.275000+00:00
+created_at: {}
 document_category: legal
-document_date: 2024-12-27
+document_date: {}
 document_type: legal
 extraction_method: native_text
 legacy_case_id: 2023-09-21-PrL-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-Willis-Beck-Premise-09-21-2023/Litigation/2025-02-18-Robin-Willis-Beck-Litigation-Reminger-Co-LPA-Zoom-Deposition-Link-Robin-Beck.eml
 source_hash: sha256:3a357205c4fe5ae68a3a0a17111242583aa162e628f3fe4d04e4c028c07d2c1e
+contact: "[[cases/2023-09-21-prl-001/contacts/reminger-co-lpa]]"
 ---
+
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 
 Subject: Re: Robin Willis Beck v Danny Wimmer Presents - Jeff Cir Crt 24-CI-000532
 From: sarena@whaleylawfirm.com

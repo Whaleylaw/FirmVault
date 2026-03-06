@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Lejzan
 source_hash: sha256:10519ab1b9c6c9ac5871a74c2f3a5c1aa007330582c898a1aac0c71f86a618fb
 ---
 
+**Case:** [[cases/lejzane-miftari/lejzane-miftari|Lejzane Miftari]]
+**Client:** [[cases/lejzane-miftari/contacts/lejzane-miftari|Lejzane Miftari]]
+
 31 OCCURRENCE OCCURRENCE 33 OCCORRENCE CORRENCE 35
 CODE DATE CODE DATE CODE DATE CODE DATE CODE FROM THROUGH CODE FROM THROUGH
 a 02 061825 11 061825 a

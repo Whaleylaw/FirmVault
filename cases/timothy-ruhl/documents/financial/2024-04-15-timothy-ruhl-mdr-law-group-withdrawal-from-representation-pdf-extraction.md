@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:943aa4f876c4808e31711e22bedbd8d9e66467518471701a0f64d8a1813a5d15
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 content_analysis.category: Client
 content_analysis.date: 2024-04-15
 content_analysis.description: Withdrawal from representation letter

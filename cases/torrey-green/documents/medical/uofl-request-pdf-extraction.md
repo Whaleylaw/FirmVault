@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:7e685b9925f04264d38a035f5d01eb0af8ea9f53eadd053fd8a89e6fdcb2a6e7
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 extracted_data.category: medical
 extracted_data.date: 2025-11-06
 extracted_data.description: Medical records request letter dated November 6, 2025 from The Whaley Law Firm to University of Louisville Hospital requesting all medical records and itemized billing for Torrey Green (DOB 1/5/1998, SSN [SSN-1]) for dates 9/3/2025 thru 11/6/2025. Letter cites Kentucky Revised Statute 422.317 and requests comprehensive medical documentation including office notes, lab results, imaging, prescriptions, and insurance information within 30 days.

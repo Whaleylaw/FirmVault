@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:e64528f54b2c6c0ffe3ff309c48fe1d64113bccbef624dbb888246a7228d590f
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 Subject: ChartSwap Payment Confirmation
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

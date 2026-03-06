@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:c66890288e6812d81927c95038a208df8422c60b47450a3c977634c72ccb11ca
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 Subject: You have a new encrypted message from [EMAIL-3]
 From: [EMAIL-2]
 To: sarena@whaleylawfirm.com

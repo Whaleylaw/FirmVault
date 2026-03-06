@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-N
 source_hash: sha256:9ef1e1657b48c6e553fe37c44af65a3059922ef2584179ecb26f8392d3b787d4
 ---
 
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 June 17, 2024 
 Sent Via Email: [EMAIL-2]
 Aaron G. Whaley 

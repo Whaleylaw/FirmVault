@@ -2,7 +2,12 @@
 case_slug: davis-robinson
 document_category: medical
 legacy_case_id: 2025-05-02-SF-001
+contact: "[[cases/2025-05-02-sf-001/contacts/orthopaedic-surgery-center]]"
 ---
+
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-Robinson-SF-[DOB-1]/Medical-Records/2025-05-15_Medical_Orthopaedic-Surgery-Center-Quadriceps-Repair_001.pdf"

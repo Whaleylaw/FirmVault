@@ -1,8 +1,8 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:49:44.906000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1983-12-28
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Review_Needed/2023-03-17-Amy-Mills-20-20-Eye-Center-Medical-Records-Request-2.pdf
 source_hash: sha256:8a9d5758a16aa9bf80e3961a83fa255bbc4c26ab98ec7f73167723f4d9978a03
+contact: "[[cases/2019-04-26-prl-001/contacts/20-20-eye-center]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 Fax Confirmation
 To: [PHONE-1] From: [PHONE-11]

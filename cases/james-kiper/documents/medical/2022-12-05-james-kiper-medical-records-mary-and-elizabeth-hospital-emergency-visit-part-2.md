@@ -34,6 +34,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:972fdb78fa54dc3fab74b959f728689caebaf543761bdc99edd6f136bb72d0dc
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 KIPER, JAMES RAY N004063380; D004063380; C004063380; [PHONE-193]; V000416364;
 T001116974
 4/29/1976 V[PHONE-192]

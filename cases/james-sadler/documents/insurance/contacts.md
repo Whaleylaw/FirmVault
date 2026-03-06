@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:f06df85c71222077968aca38ddce03f76a30efb2179a4d20711781a25384ef63
 ---
 
+**Case:** [[cases/james-sadler/james-sadler|James Sadler]]
+**Client:** [[cases/james-sadler/contacts/james-sadler|James Sadler]]
+
 item_0.jsonb_agg[0].full_name: James Sadler
 item_0.jsonb_agg[0].project_name: James-Sadler-MVA-4-07-2023
 item_0.jsonb_agg[0].roles[0]: client

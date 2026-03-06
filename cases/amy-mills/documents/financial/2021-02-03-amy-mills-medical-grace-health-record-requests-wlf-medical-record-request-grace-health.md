@@ -1,18 +1,22 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:48:39.962000+00:00
+created_at: {}
 document_category: financial
-document_date: 1983-12-28
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Grace
-  Health/Record Requests/2021-02-03-Amy-Mills-Medical-Grace Health-Record-Requests-WLF-Medical-Record-Request-Grace-Health.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Grace Health/Record Requests/2021-02-03-Amy-Mills-Medical-Grace Health-Record-Requests-WLF-Medical-Record-Request-Grace-Health.pdf
 source_hash: sha256:b09175d5f016b6ee672097c4a432d9142632b15c2a4575e4c6ac1576f032d4a4
+contact: "[[cases/2019-04-26-prl-001/contacts/grace-health]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 WHALEY
 

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:fd58ea5984502322733b12c2f67ab970d8061228cc929bd021c0b37d1c2ad20b
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 Norton Women & Children’s Hospital
 4001 Dutchmans Lane
 Louisville, KY 40207

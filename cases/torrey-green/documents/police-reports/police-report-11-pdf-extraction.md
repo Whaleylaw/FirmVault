@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:e5ed288256021450a9b2b09d94d7b1cd01248db5952c28230a38271ac70d6c37
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 extracted_data.category: police
 extracted_data.date: 2025-09-03
 extracted_data.description: Kentucky Uniform Police Traffic Collision Report (duplicate of Police Report.pdf) for accident on [DOB-1] at 15:00 at intersection of Newburg Rd and Champions Trace Ln. Unit 1 (2012 Ford Fusion, driver Cynthia McDonald) made left turn and was struck, spinning around and hitting Units 3 and 4. Three injured, transported to University of Louisville and Baptist East hospitals.

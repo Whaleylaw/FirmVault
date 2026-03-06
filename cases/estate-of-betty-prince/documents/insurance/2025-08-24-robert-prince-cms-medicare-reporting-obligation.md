@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:cd89a7ec26e85768afdea4ef10f3040e6dabb61acd458bafbcfac9e2d5da06c8
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 Page 1of 2
 The Centers for Medicare & Medicaid Services (CMS)is the federal agency that oversees the Madicare|
 program. Many Medicare beneficiaries have other insurance in addition to their Medicare benefits. Sometimes,

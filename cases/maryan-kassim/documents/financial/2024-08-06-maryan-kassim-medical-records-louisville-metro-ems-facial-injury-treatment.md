@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:77f0bfbf6949fdc3a8637050027c9b281647485a07c3ed370ba854eaf9aa8805
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 ri Louisville Metro EMS
 
 Patient Care Record Name: MARYAN OSMAN, KASSIM Incident #: EMS24-00039061 Date: [DOB-1] Patient 1 of 1

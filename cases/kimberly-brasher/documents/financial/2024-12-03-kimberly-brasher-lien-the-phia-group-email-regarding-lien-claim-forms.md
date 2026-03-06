@@ -1,8 +1,8 @@
 ---
 case_slug: kimberly-brasher
-created_at: 2026-02-17 00:01:57.227000+00:00
+created_at: {}
 document_category: financial
-document_date: 2024-11-26
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2023-02-25-PrL-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimberly-Brasher-Premise-2-25-2023/Liens/2024-12-03-Kimberly-Brasher-Lien-The-Phia-Group-Email-Regarding-Lien-Claim-Forms.eml
 source_hash: sha256:aba3277a031b8f7e2d4962a3c0a7e202e899030ff80e4a5bed407acdaf4a46cc
+contact: "[[cases/2023-02-25-prl-001/contacts/the-phia-group]]"
 ---
+
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 
 Subject: RE: Kimberly Brasher (20240514-001078)
 From: [EMAIL-1]

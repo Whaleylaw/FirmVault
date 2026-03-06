@@ -20,6 +20,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dewayn
 source_hash: sha256:1d9b4b47529f7ebd84311bb2e53885711b6304c23f32366e94b94ab1cbf11286
 ---
 
+**Case:** [[cases/dewayne-ward/dewayne-ward|Dewayne Ward]]
+**Client:** [[cases/dewayne-ward/contacts/dewayne-ward|Dewayne Ward]]
+
 item_0.author_name: Bryce Koon
 item_0.episode_type: imported
 item_0.last_activity: 2025-11-13T00:00:00

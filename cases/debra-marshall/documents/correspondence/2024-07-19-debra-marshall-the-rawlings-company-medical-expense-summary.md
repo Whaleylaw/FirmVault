@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:f20cbca0bc119c0b25b361d87759b38880b566b5d0ae947ee0fb6bd0352e33b1
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 July 19, 2024
 Ms. Sarena Sarena
 The Whaley Law Firm

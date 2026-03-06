@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:4c4b529e5e721b4ba5e75d2ee31f57849859b18a0471b3bc21e932d58b2701bb
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 item_0.amount_owed_from_settlement: 86505.91
 item_0.date_notice_received: 2024-12-30
 item_0.final_lien_amount: 86505.91

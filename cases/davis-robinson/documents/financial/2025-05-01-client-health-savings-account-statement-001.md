@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-
 source_hash: sha256:777d0755c5168a854b864dbcae1ece4b0b16831912f0c9d194c7abe1a3c12f0a
 ---
 
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 H Ca It hEqUuIty HealthEquity’ | Trust Company
 15 West Scenic Pointe Drive Suite 400
 Draper, UT 84020

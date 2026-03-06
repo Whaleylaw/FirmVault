@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:a5be596dd3e09e5c1738466be61662b314945cd5dbb7ea412c78473d6a3d7591
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: T-Mobile LER Auto Response
 From: [EMAIL-5]
 To: sarena@whaleylawfirm.com

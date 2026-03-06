@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:d536df5c2cdf0d50835defb93f0de212580cc104ad0f957012e33a457466a969
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 Subject: Nichole M. Priddy shared the folder "EXTERNAL LINK - Crete Discovery Responses" with you
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

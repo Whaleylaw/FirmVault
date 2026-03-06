@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-
 source_hash: sha256:d7f9b4fa339e1e4ef634922f7c0a7d34484ee39958e4a585fa9cce1f2c9b65c2
 ---
 
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 [DOB-1]
 Davis Robinson
 REQ-21598745

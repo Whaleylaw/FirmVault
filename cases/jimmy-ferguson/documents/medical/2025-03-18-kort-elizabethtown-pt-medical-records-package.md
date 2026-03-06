@@ -2,7 +2,12 @@
 case_slug: jimmy-ferguson
 document_category: medical
 legacy_case_id: 2024-05-30-MVA-001
+contact: "[[cases/2024-05-30-mva-001/contacts/kort-elizabethtown-pt]]"
 ---
+
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-Ferguson-MVA-5-30-2024/Medical/2025-03-18_KORT-Elizabethtown-PT_Medical-Records-Package.pdf"

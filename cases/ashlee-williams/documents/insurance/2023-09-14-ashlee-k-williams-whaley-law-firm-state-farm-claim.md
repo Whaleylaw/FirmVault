@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee
 source_hash: sha256:0930dcbaf414d457870d7d54bca22d2e6139897156002b0715fe2e7e8244a732
 ---
 
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 DUE TO PROTECTION OF PRIVACY OBLIGATIONS AND INTERNAL SYSTEM INTEGRITY, STATE FARM MUTUAL 
 AUTOMOBILE INSURANCE COMPANY DOES NOT ACCEPT TIME-SENSITIVE OR ACTION-ORIENTED MESSAGES 
 DELIVERED VIA EMAIL THAT INVOLVE ACCESSING A CYBERLINK, APPLICATION, DIGITAL DROPBOX OR OTHER THIRDPARTY DOCUMENT SERVICE.

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:e6694ca3704e882b1eb803c30d3b84ee7b297e78518d29bdf00b4e8c008e4aa8
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 David L. Nicholson, Jefferson Circuit Clerk
 RETTIG, BEN
 410 WEST CHESTNUT STREET

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:b3d020168b3f518bc366706fa7759407679d0b7550baa0c432e5ac58d503ddcd
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: ENCRYPT
 From: [EMAIL-5]
 To: sarena@whaleylawfirm.com

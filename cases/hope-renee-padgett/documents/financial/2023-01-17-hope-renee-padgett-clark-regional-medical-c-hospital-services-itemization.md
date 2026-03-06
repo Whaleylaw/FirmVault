@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Hope-R
 source_hash: sha256:1f0b3bfdb97572b46b6260751294c2789b7405567c47da08ff27af658f6f0daa
 ---
 
+**Case:** [[cases/hope-renee-padgett/hope-renee-padgett|Hope Renee Padgett]]
+**Client:** [[cases/hope-renee-padgett/contacts/hope-renee-padgett|Hope Renee Padgett]]
+
 CLARK REGIONAL MEDICAL C
 PO BOX 290669
 NASHVILLE TN 37229-0669

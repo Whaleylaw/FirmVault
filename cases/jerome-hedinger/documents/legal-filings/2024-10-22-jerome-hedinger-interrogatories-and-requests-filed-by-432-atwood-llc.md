@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:febd72184ec925cb844e3acf4b9ebb8ece84bcea78ab8f165f7b683cca9f3bb2
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 COMMONWEALTH OF KENTUCKY
 CASE NO. 24-CI-006943 JEFFERSON CIRCUIT COURT
 DIVISION ONE (1)

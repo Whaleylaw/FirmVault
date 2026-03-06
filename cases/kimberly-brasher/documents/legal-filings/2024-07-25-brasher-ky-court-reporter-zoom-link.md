@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:6fdece81cab79d6944a15c0978a3749bc2ff03960924a5e816b127f0d5bea539
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 Subject: 10-1 Deposition of Kimberly Brasher | Zoom Details
 From: [EMAIL-6]
 To: sarena@whaleylawfirm.com, [EMAIL-2], [EMAIL-3]

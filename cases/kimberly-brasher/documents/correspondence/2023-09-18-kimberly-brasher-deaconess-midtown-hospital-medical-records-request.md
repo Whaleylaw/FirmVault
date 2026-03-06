@@ -1,11 +1,10 @@
 ---
 case_slug: kimberly-brasher
-created_at: 2026-02-17 00:02:17.153000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1973-03-25
+document_date: {}
 document_type: correspondence
-entities:
-- Deaconess Midtown Hospital
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-02-25-PrL-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimberly-Brasher-Premise-2-25-2023/Medical/2023-09-18-Kimberly-Brasher-Deaconess-Midtown-Hospital-Medical-Records-Request.pdf
 source_hash: sha256:eaa93ab84a82fa557b61721163a9e9916ff64d3dc1625a9a91942b6a61b70d99
+contact: "[[cases/2023-02-25-prl-001/contacts/deaconess-midtown-hospital]]"
 ---
+
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 
 Fax Confirmation
 To: [PHONE-1] From: [PHONE-9]

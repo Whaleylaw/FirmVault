@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Destin
 source_hash: sha256:2035d496fb5b6833aed1902efe5a2cd2160fdf631beff9dade912e5c4ad4bac6
 ---
 
+**Case:** [[cases/destiny-adkins/destiny-adkins|Destiny Adkins]]
+**Client:** [[cases/destiny-adkins/contacts/destiny-adkins|Destiny Adkins]]
+
 item_0.date_notice_received: 2022-03-15
 item_0.holder_address: PO BOX 30114, , Salt Lake City, UT 84130-9993
 item_0.holder_phone: [PHONE-1]

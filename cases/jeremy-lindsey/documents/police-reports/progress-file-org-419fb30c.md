@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:1b7588efbcae09b5ca47a4776ca2e318d01188fb9e7331ecd64101e309989c08
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 case_folder: Jeremy-Lindsey-MVA-[DOB-1]
 job_id: file-org-419fb30c
 phases.execution.notes: Starting Phase 4: Execution. 77 files to reorganize according to validated map.

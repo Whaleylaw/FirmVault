@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:f6210ca6c4e854fba9237fbd39abe6d13cfd3dceac4102869f5e1c8ffa6a667d
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 EvenUp Inc.
 548 Market St
 PMB 69706

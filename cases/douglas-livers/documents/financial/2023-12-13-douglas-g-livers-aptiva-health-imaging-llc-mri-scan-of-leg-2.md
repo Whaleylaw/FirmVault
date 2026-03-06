@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:0147d873d59d031a9118645a47c37fe8a41590d13333ee15ce37887e0980ef45
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 Itemization of Charges
 Aptiva Health
 For Posting Date October 16, 2024

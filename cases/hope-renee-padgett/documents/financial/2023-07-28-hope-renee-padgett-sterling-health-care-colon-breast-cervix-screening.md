@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Hope-R
 source_hash: sha256:6a7d25483d71513ff2137497b10ecc930a5fdb865fec377b30d00bc399ef0074
 ---
 
+**Case:** [[cases/hope-renee-padgett/hope-renee-padgett|Hope Renee Padgett]]
+**Client:** [[cases/hope-renee-padgett/contacts/hope-renee-padgett|Hope Renee Padgett]]
+
 athena 7/8/2024 11:46:01 am EDT a1b14572-b1fa-4634-81 3b-1ded3b586fb3 Page: 27 / 57
 Fax transmission job no. a1b14572-b1fa-4634-813b-10ed3bS8GFb3 from athena was interrupted at 7/8/2024
 11:40:51 am EDT after delivering 26 out of 57 pages. This fax is a continuation from page 27

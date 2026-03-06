@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:3e9e72f1ed974ed5c4cc054b8561a8588ddec9e201110704124c38d78fc1e25e
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Thomas J. Knopf Mediation Services
 P. O. Box 70318 Invoice
 Louisville, KY 40270-0318

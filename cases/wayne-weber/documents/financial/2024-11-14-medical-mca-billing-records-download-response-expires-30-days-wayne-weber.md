@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:d97341f407153af0909542581744e79fc6e117cd1e5639faf9f5728e885a29bb
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 Subject: RECORDS REQUEST
 From: [EMAIL-1]
 To: SARENA@WHALEYLAWFIRM.COM

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee
 source_hash: sha256:2f025c19aaca72c964baddd85d02c666a8d54524068ed468f71bb8371bf98253
 ---
 
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 Ashlee Williams
 [DOB-1]
 ***-**-4354 [DOB-1]

@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:090ae8d14879e2cee1c7a39de4263bc12c755834adf0afb2036a8559cb660d01
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 Subject: Fwd: New Voice Message from WIRELESS CALLER [PHONE-9] on [DOB-2] 1:23 PM
 From: [EMAIL-7]
 To: sarena@whaleylawfirm.com

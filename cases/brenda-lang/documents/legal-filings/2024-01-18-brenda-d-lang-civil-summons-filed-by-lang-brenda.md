@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:4efc4073433454f83d3218e60c4b853f5c3f678e205d863a554b75e775f266da
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 CIVIL SUMMONS
 AOC-E-105           Sum Code: CI
 Rev. 9-14

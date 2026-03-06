@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:4554f768e95fb86aea078897f8342578018caebaa349c0c3e09211376f6d8d48
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 estimated_time: 5-10 minutes for 212 files
 execution_method: batch_copy_operations
 execution_plan.case_name: James Kiper MVA

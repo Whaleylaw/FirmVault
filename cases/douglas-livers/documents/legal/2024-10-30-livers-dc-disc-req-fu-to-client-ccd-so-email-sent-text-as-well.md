@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:af6a686c5092ac1055d1d1fcd3753b682ed5526aeddcb2cae78f2c93a0e22f1f
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 Subject: Your Outstanding Discovery Responses
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

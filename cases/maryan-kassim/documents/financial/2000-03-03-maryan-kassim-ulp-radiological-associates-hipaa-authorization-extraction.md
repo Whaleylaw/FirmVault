@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:689cabae91d80f203dff9adbf07d16d82adb68b82fb2b4c050d9a9bdc8ae2449
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 category: Client
 description: HIPAA compliant medical authorization form from Whaley Law Firm authorizing ULP Radiological Associates to release protected healthcare information for Maryan Kassim to attorney (note: date appears to be placeholder/template date).
 entities[0]: Aaron G. Whaley

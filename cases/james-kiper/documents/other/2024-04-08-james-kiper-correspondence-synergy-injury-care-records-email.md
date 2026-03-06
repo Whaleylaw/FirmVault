@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:09c8942d4fcab63d308f99ff631c09503d5457b4c26e036f4deb1cc51b1dc37c
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 Subject: Kiper, James DOI 12.5.22
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

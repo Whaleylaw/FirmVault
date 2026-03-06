@@ -1,8 +1,8 @@
 ---
 case_slug: davis-robinson
-created_at: 2026-02-16 22:55:59.550000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1967-08-09
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2025-05-02-SF-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-Robinson-SF-05-02-2025/Medical-Records/2025-05-21_Medical_Seven-Hills-Anesthesia-Records-Request_001.pdf
 source_hash: sha256:16f38f9f6aecc4c9b29abadef8923eb107afea0b0fd32b177307d6be659e78c6
+contact: "[[cases/2025-05-02-sf-001/contacts/seven-hills-anesthesia]]"
 ---
+
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 
 Justin Chumbley
 Aaron G. Whaley, Esq.

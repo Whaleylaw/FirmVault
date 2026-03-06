@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Tonya-
 source_hash: sha256:2e4c549c639f9f4dda225110a13b79d4ab5f3ec3378cb0c0bde3e919cf5147e8
 ---
 
+**Case:** [[cases/tonya-dunn/tonya-dunn|Tonya Dunn]]
+**Client:** [[cases/tonya-dunn/contacts/tonya-dunn|Tonya Dunn]]
+
 category: Medical Records
 description: Emergency room bill markdown
 document_type: medical_bill

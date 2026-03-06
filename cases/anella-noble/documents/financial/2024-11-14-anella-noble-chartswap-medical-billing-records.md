@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:752a15f0b4cf69335b008cd7c3a0376792a24cd945d76657b6c44934a986b2eb
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 ChartSwap
 2951 Marina Bay Drive
 Suite 130-132

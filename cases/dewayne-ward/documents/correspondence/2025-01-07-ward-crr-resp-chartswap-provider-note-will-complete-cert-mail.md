@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dewayn
 source_hash: sha256:9ba03817a342bf3661e6854ad65a071fafa5f4c35a858bfa1d1a079ec24ea2fb
 ---
 
+**Case:** [[cases/dewayne-ward/dewayne-ward|Dewayne Ward]]
+**Client:** [[cases/dewayne-ward/contacts/dewayne-ward|Dewayne Ward]]
+
 Subject: ChartSwap: Issue Addressed by AmeriPro EMS of Kentucky, LLC
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:8b68de461265977e6f78672fb5ccda70094b595c63b2b51054d9645ffe356e63
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 category: Medical Bills
 description: Medical bill from Pleasure Ridge Park Fire Protection District
 entities[0]: Alma Socorro Cristobal Avendaño

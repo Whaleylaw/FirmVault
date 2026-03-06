@@ -1,19 +1,22 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:49:03.031000+00:00
+created_at: {}
 document_category: medical
-document_date: 2020-06-17
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Norton
-  Orthopedic Institute/Medical Records/2020-06-17-Amy-Mills-Medical-Norton Orthopedic
-  Institute-Medical-Records-Norton-Orthopedic-Institute-Medical-Records-Billing-Radiology-Certifications.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Norton Orthopedic Institute/Medical Records/2020-06-17-Amy-Mills-Medical-Norton Orthopedic Institute-Medical-Records-Norton-Orthopedic-Institute-Medical-Records-Billing-Radiology-Certifications.pdf
 source_hash: sha256:3c38494aaa6e0eaedb22a5036259f0ee791c6c4515322a95404a7353d5bb6489
+contact: "[[cases/2019-04-26-prl-001/contacts/norton-orthopedic-institute]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 SS NORTON HEALTHCARE MEDICAL RECORDS CERTIFICATION RID #76557114
 

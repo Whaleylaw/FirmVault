@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jonah-
 source_hash: sha256:926f3886586f1a981d61933013dc10a49033f6e014651ba2a1bc0fc996a2a5bb
 ---
 
+**Case:** [[cases/jonah-price/jonah-price|Jonah Price]]
+**Client:** [[cases/jonah-price/contacts/jonah-price|Jonah Price]]
+
 Verification Complete
 The document has been officially verified.
 Recipient1

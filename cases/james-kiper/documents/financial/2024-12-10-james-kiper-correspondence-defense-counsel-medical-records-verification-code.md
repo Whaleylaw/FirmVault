@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:e9ed1bf96322d0057c347adb50ca4bb059162736c4902ab2539400cb2a5dd13d
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 Subject: 54806803 is your Microsoft SharePoint verification code.
 From: [EMAIL-1]
 To: Sarena@WhaleyLawFirm.com

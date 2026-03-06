@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:958ee690714cd696a6cce37df3a5ce397886dd1a1bdda2eac5ac4748d08c7e5a
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Stich-WC-[DOB-1]/Medical/Ellis & Badenhausen Orthopaedics, PSC/Medical Records/2024-12-30-Amy-Stich-Medical-Ellis & Badenhausen Orthopaedics, PSC-Medical-Records-Ellis-and-Badenhausen-Orthopaedics-Appointment-Reminder-Cards.jpg

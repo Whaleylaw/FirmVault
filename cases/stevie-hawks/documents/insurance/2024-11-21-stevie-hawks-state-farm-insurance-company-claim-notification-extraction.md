@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie
 source_hash: sha256:a807945fccdcaba1ec60bcadbefdee63c5958bba3accf7fa2a63f95f1fe6edaf
 ---
 
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 category: Insurance
 date: 2024-11-21
 description: Letter from Whaley Law Firm to State Farm notifying them of representation of Stevie Hawks for 3/8/2024 motor vehicle collision claim (Claim #17-Q1275R5)

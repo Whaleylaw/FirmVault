@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmon
 source_hash: sha256:97e4fafe59c3b36d44571fa4684c91b8a15e4c36e88e2405faf6722b3b1eca32
 ---
 
+**Case:** [[cases/julmonzhae-moore/julmonzhae-moore|Julmonzhae Moore]]
+**Client:** [[cases/julmonzhae-moore/contacts/julmonzhae-moore|Julmonzhae Moore]]
+
 December 29, 2023
 Stout & Heuke Attorneys At Law
 300 High Rise Dr Ste 292

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jonah-
 source_hash: sha256:2a92855e4e74245069695a6cd8dcca23e386592bc4e4456345070eb81985a6fb
 ---
 
+**Case:** [[cases/jonah-price/jonah-price|Jonah Price]]
+**Client:** [[cases/jonah-price/contacts/jonah-price|Jonah Price]]
+
 INVESTIGATOR BEAT OR POST #
 TOTAL LANES
 NO

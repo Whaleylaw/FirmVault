@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:b4c147366a85eea02ce81ef4fe89b975dad6a978bb9829527c75e51b400aa36d
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 Subject: NCP (for eFiler) BARREN 23-C-01110, KFBMIC (A/S/O EDIE RENICK) VS. MARSHALL, DEBRA H. Envelope # 7164537
 From: [EMAIL-1]
 To: [EMAIL-5], Sarena@WhaleyLawFirm.com, [EMAIL-4]

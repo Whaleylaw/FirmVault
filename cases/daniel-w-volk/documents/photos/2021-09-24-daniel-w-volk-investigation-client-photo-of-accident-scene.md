@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel
 source_hash: sha256:94b5593601b185bb4a6b467d20e5d5320f721dbeb62e0bdcf9c37f702adb2007
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel-W-Volk-MVA-[DOB-1]/Investigation/2021-09-24-Daniel-W-Volk-Investigation-Client-Photo-of-Accident-Scene.jpg

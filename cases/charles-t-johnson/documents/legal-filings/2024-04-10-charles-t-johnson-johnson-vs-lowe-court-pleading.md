@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:34df699c5a2a7c5fd63c8b59ac4bcd60d4c7c3f27c74f28d72ececb76c8ee629
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 Commonwealth of Kentucky
 David L. Nicholson, Jefferson Circuit Clerk
 Received From: AARON WHALEY Account Of: AARON WHALEY

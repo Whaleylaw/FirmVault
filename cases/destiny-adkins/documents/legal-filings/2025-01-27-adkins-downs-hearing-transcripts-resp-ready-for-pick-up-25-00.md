@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Destin
 source_hash: sha256:283bfdab306e1550d3ec7a9676550acbb92bfc708b0bc61de361ac92c9589ac1
 ---
 
+**Case:** [[cases/destiny-adkins/destiny-adkins|Destiny Adkins]]
+**Client:** [[cases/destiny-adkins/contacts/destiny-adkins|Destiny Adkins]]
+
 Subject: Audio Video Recording 21-T-007313
 From: [EMAIL-4]
 To: Sarena@WhaleyLawFirm.com, [EMAIL-2]

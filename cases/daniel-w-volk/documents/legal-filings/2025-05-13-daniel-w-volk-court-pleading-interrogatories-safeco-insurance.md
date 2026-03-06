@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel
 source_hash: sha256:a48601866f551cdb4a6bf6456c53249de96212393142e78bf831be317da6a84b
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 COMMONWEALTH OF KENTUCKY 
 OLDHAM CIRCUIT COURT 
 CIVIL ACTION NO.: 25-CI-00111 

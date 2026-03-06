@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2022-01-01-MVA-001
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-Weber-MVA-[DOB-1]/2022.07.26 MR Baptist Sports Medicine.pdf"
 source_hash: "sha256:83b80bab1b5b2f02c36fb15893b4e30b2cc2c437fc2d9413065fdaff59a6510c"

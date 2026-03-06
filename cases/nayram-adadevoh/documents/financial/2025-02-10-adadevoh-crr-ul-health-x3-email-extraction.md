@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:6d87229d0fedfb65a8b1a6726a82d4b11b803cb4e6ffd00146ff786feb2ea3d8
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: medical_records_request
 date: 2025-02-10
 description: Email from Sarena Tuttle at Whaley Law Firm to UofL Health requesting certified medical records and billing for client Nayram Adadevoh (DOB [DOB-1]), dated February 10, 2025.

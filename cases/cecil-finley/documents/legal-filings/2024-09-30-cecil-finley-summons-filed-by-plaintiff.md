@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:ec237172ef6294d6013671083ea792c063c3f55ef7c533ebffc7e0a6a3067cb7
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 AOC-E-105 : Code: Cl
 Rev. 9-14 Case #: 24-Cl-005774
 Commonwealth of ' sky Court: CIRCUIT

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:eafc55f96e91904c359ecbc5b2c5491e1a86bc3511866c17e15e5ec85354865e
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 Fax Confirmation
 To: [PHONE-1] From: [PHONE-10]
 Doc:

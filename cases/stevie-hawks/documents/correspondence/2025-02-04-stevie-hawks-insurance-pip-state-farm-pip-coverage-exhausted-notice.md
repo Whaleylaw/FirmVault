@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie
 source_hash: sha256:3b9e39a26810228be5ae9f8325a692c9514bde16c8520ac3bad61d43400b5139
 ---
 
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 February 4, 2025
 Whaley Law Firm
 712 Lyndon Ln

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:96a1207056f2ad5bc1ad1fe3c5797911ee1d65c84827cecf7cb2057ff2cc6b7b
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: legal_correspondence
 date: 2025-07-11
 description: Letter from Coghlan Law LLC to Whaley Law Firm dated July 11, 2025.

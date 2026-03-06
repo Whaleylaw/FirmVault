@@ -1,8 +1,8 @@
 ---
 case_slug: maryan-kassim
-created_at: 2026-02-17 00:04:55.571000+00:00
+created_at: {}
 document_category: financial
-document_date: 2024-08-07
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2024-08-06-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan-Kassim-MVA-08-06-2024/Medical/2024-08-07-Maryan-Kassim-Medical-University-of-Louisville-School-of-Dentistry-Billing-Statement.pdf
 source_hash: sha256:25273d2a1b157e5e320863b0d4685a086ad2572a64eaf48e35515b9eab80417c
+contact: "[[cases/2024-08-06-mva-001/contacts/university-of-louisville-school-of-dentistry]]"
 ---
+
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 
 Trx Family Ledger for : Kassim, Maryan (1292169) Page : 1
 Univ of Louisville School of Dentistry November 12, 2025 12:27 PM

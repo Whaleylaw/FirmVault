@@ -1,21 +1,23 @@
 ---
 case_slug: nayram-adadevoh
-created_at: 2026-02-17 00:12:15.831000+00:00
+created_at: {}
 document_category: medical
-document_date: 1973-05-22
+document_date: {}
 document_type: medical
-entities:
-- Advocate Medical Group
+entities: null
 extraction_method: native_text
 legacy_case_id: 2024-07-13-MVA-002
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram-Adadevoh-MVA-7-13-2024/Medical/Advocate
-  Medical Group Outpatient Center/Record Requests/2024-07-23-Nayram-Adadevoh-Medical-Advocate
-  Medical Group Outpatient Center-Record-Requests-WLF-Medical-Authorization.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram-Adadevoh-MVA-7-13-2024/Medical/Advocate Medical Group Outpatient Center/Record Requests/2024-07-23-Nayram-Adadevoh-Medical-Advocate Medical Group Outpatient Center-Record-Requests-WLF-Medical-Authorization.pdf
 source_hash: sha256:e93d4aa0d7cf33ad279c4ffee29e2c3acb58638efa621ab6d671da36b9628d24
+contact: "[[cases/2024-07-13-mva-002/contacts/advocate-medical-group-outpatient-center]]"
 ---
+
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

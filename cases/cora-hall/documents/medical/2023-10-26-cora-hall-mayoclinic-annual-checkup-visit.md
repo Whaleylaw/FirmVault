@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:daa059b3d5da30559f9cc988a74f476cd07f56eda8f9e98e8579efec56dd34a6
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 Pane 1 of § MOt Ortho & Sparte Mec 828 tnd Ave Egat Suite O2 Bowling Groen, RY 42901-1786 BTL k GOA PAY
 
 Patient. Hatt Cora Mae MRE: VOQO1027 89 CCHS: OO22 GES AcohOROOG124808 AygeiSex: 33s F REG Date: 1200/22

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:88494b907e3854d5b4ad34ad1151e3dd7c0b599bcf54d3fc50dfce28b72b3a84
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 Docusign Envelope ID: B696B456-7C16-4F11-B822-61E5A1B86BA7
 Form 109
 Attorney Fee Election

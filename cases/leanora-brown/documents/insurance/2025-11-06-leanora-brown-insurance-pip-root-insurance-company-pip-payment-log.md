@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Leanor
 source_hash: sha256:f7e7075ec8c36bab7db7fc9366347f8358d2544af9f425235a99b2ac12392b36
 ---
 
+**Case:** [[cases/leanora-brown/leanora-brown|Leanora Brown]]
+**Client:** [[cases/leanora-brown/contacts/leanora-brown|Leanora Brown]]
+
 Payment Log This Policy Limit is a combination of PIP, Med Pay, and any other available policy coverages.
 Carrier Claim Number Date of Loss Patient name
 Root Insurance Company TJ6L8DKY-003 [DOB-21] Brown, Leanora

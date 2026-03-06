@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dana-J
 source_hash: sha256:bb3f83c3ae244ef6619c333dc36260728c547db3df3311f6246cbd0a5804de38
 ---
 
+**Case:** [[cases/dana-jackson/dana-jackson|Dana Jackson]]
+**Client:** [[cases/dana-jackson/contacts/dana-jackson|Dana Jackson]]
+
 Subject: Re: Finley v. Kiebler
 From: [EMAIL-1]
 To: [EMAIL-7]

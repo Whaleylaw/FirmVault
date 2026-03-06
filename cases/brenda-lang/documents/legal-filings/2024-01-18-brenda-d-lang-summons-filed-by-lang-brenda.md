@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:c68950dde4330377852c3fd46efe7858032acfe7acb74dfbc8d9b2ce2b4a4af0
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 AOC-E-105 Sum Code: Cl
 Rev. 9-14 Case #: 23-Cl-005931
 Court: CIRCUIT

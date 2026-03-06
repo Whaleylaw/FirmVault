@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:cbcb339a0257ac53372e4e686adfccc3f268712eed65a6258647810c965ba5dc
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 COMMONWEALTH OF KENTUCKY, 27TH JUDICIAL CIRCUIT KNOX CIRCUIT COURT DIVISION I CIVIL ACTION NO. 20-CI-00112
 
 AMY MILLS PLAINTIFF

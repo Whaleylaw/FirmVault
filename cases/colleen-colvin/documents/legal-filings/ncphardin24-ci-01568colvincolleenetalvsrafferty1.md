@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Collee
 source_hash: sha256:72c030d006a3c568f3d8f4a3ae76c41e4c3992bd8e55342e4338709c75b18ad2
 ---
 
+**Case:** [[cases/colleen-colvin/colleen-colvin|Colleen Colvin]]
+**Client:** [[cases/colleen-colvin/contacts/colleen-colvin|Colleen Colvin]]
+
 Subject: NCP HARDIN 24-CI-01568, COLVIN, COLLEEN ET AL VS. RAFFERTY, PAUL Envelope # 8815998
 From: [EMAIL-5]
 To: [EMAIL-4], Sarena@WhaleyLawFirm.com, [EMAIL-3]

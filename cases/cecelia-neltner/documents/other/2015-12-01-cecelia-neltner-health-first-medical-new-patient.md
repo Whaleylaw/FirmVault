@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ceceli
 source_hash: sha256:c082f27f12f168490193b3b68ed759d91017af3a444e8c5e208145c752835ff9
 ---
 
+**Case:** [[cases/cecelia-neltner/cecelia-neltner|Cecelia Neltner]]
+**Client:** [[cases/cecelia-neltner/contacts/cecelia-neltner|Cecelia Neltner]]
+
 ER rege pare perat sammie 1 ¥ SOND
 5 aoueinstf woRUadwOD ZN S200K
 He Bua cad fonea

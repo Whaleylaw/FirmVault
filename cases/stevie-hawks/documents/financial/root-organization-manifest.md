@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie
 source_hash: sha256:d8b6e97e74bfcee19368f460cd1fb1299817298db019011168ca6f5fcee7c38b
 ---
 
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 accident_date: 2024-03-08
 case_type: MVA
 client_name: Stevie-Hawks

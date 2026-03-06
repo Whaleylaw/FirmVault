@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:653586333af75fdb57f3d7682a9c57da864be84566c032345f4f47f2912c9f9c
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 CERTIFICATION OF MEDICAL RECORDS AFFIDAVIT
 Johanna Melendez , being first duly sworn onhis/her oath, says that:
 (Nameofrecords eustodian/clerk)

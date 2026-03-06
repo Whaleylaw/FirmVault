@@ -1,11 +1,10 @@
 ---
 case_slug: brenda-lang
-created_at: 2026-02-16 22:09:29.206000+00:00
+created_at: {}
 document_category: insurance
-document_date: 2021-09-03
+document_date: {}
 document_type: insurance
-entities:
-- State Farm
+entities: null
 extraction_method: native_text
 legacy_case_id: 2021-09-03-MVA-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda-Lang-MVA-09-03-2021/Insurance/2023-05-22-Brenda-D-Lang-State-Farm-Insurance-Company-Motor-Vehicle-Collision.pdf
 source_hash: sha256:4bcde95dcb17ba9aeabf510803e1bcc8836a127de44c53ad8911504feacf3d0c
+contact: "[[cases/2021-09-03-mva-001/contacts/state-farm-insurance-company]]"
 ---
+
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 
 Aaron G. Whaley, Esq.
 712 Lyndon Lane

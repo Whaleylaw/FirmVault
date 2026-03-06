@@ -1,20 +1,23 @@
 ---
 case_slug: muhammad-alif
-created_at: 2026-02-17 00:11:23.336000+00:00
+created_at: {}
 document_category: other
-document_date: 2023-01-16
+document_date: {}
 document_type: other
-entities:
-- Mayo Clinic
+entities: null
 extraction_method: native_text
 legacy_case_id: 2022-11-08-MVA-001
 mime_type: message/rfc822
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Mayo
-  Spine Clinic/Medical Records/2023-01-16-Muhammad-Alif-Medical-Mayo Spine Clinic-Medical-Records-Mayo-Clinic-Patient-ID-Information.eml
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Mayo Spine Clinic/Medical Records/2023-01-16-Muhammad-Alif-Medical-Mayo Spine Clinic-Medical-Records-Mayo-Clinic-Patient-ID-Information.eml
 source_hash: sha256:23d880e5759f33b3e020b9c055c28ae1f174d2e22282f46053a3352e0cd57c3d
+contact: "[[cases/2022-11-08-mva-001/contacts/mayo-spine-clinic]]"
 ---
+
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 
 Subject: Fw: Mayo Clinic Patient File
 From: [EMAIL-1]

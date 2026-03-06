@@ -21,6 +21,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Samuel
 source_hash: sha256:18876073e09f9b6be6406c9ad6cc632439b880a171926fc1038aa8e3624a4d41
 ---
 
+**Case:** [[cases/samuel-clites/samuel-clites|Samuel Clites]]
+**Client:** [[cases/samuel-clites/contacts/samuel-clites|Samuel Clites]]
+
 Clites, Samuel W (MRN [PHONE-58]) Encounter Date: [DOB-2]
 Clites, Samuel W "Sam" #[PHONE-3] (Acct:400004641070 03 (Ready for Discharge)
 CSN# 91188251824) (DOB:[DOB-1] 56 y.o. M) PCP:

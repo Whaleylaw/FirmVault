@@ -1,8 +1,8 @@
 ---
 case_slug: jimmy-ferguson
-created_at: 2026-02-16 23:57:45.238000+00:00
+created_at: {}
 document_category: financial
-document_date: 2024-05-30
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2024-05-30-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-Ferguson-MVA-5-30-2024/Medical/2024-05-30_Elizabethtown-Emergency-Physicians_ER-Exam-Sprain.pdf
 source_hash: sha256:8d1f46d100f004f51411238e958eb03aa23bfddc3b6b622cc4091370812b695c
+contact: "[[cases/2024-05-30-mva-001/contacts/elizabethtown-emergency-physicians]]"
 ---
+
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 
 Elizabethtown Emergency Physicians, LLC
 PO BOX 950112 DEPT 52387 LOUISVILLE KY 402950112

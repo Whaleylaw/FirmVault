@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:2dec1fb756dab15d868bda6803c96b29bd9c07e9471310d1269794daf72fd52c
 ---
 
+**Case:** [[cases/james-sadler/james-sadler|James Sadler]]
+**Client:** [[cases/james-sadler/contacts/james-sadler|James Sadler]]
+
 VERIFICATION 
 I hereby certify that the information contained in the foregoing answers and responses are 
 true and correct to the best of my knowledge. 

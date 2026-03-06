@@ -1,22 +1,23 @@
 ---
 case_slug: muhammad-alif
-created_at: 2026-02-17 00:11:27.874000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1961-04-16
+document_date: {}
 document_type: correspondence
-entities:
-- Dr. Stephen Patton
-- Norton Healthcare
+entities: null
 extraction_method: native_text
 legacy_case_id: 2022-11-08-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Norton
-  Community Medical Associates - Preston/Medical Records/2022-02-17-Muhammad-Alif-Medical-Norton
-  Community Medical Associates - Preston-Medical-Records-Norton-Healthcare-Medical-Records-Certification.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Norton Community Medical Associates - Preston/Medical Records/2022-02-17-Muhammad-Alif-Medical-Norton Community Medical Associates - Preston-Medical-Records-Norton-Healthcare-Medical-Records-Certification.pdf
 source_hash: sha256:2e5f0634a8aefc2c2332e53a3d8655d4f190af6513b7355f8b5d708b5d7c1a2d
+contact: "[[cases/2022-11-08-mva-001/contacts/norton-community-medical-associates-preston]]"
 ---
+
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 
 IN NORTON’
 HEALTHCARE MEDICAL RECORDS CERTIFICATION RID 116682730

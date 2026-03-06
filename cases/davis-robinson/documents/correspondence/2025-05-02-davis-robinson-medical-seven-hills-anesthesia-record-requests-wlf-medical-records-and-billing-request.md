@@ -1,18 +1,22 @@
 ---
 case_slug: davis-robinson
-created_at: 2026-02-16 22:55:54.045000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1967-08-09
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2025-05-02-SF-001
 mime_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-Robinson-SF-05-02-2025/Medical/Seven
-  HIlls Anesthesia/Record Requests/2025-05-02-Davis-Robinson-Medical-Seven HIlls Anesthesia-Record-Requests-WLF-Medical-Records-And-Billing-Request.docx
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-Robinson-SF-05-02-2025/Medical/Seven HIlls Anesthesia/Record Requests/2025-05-02-Davis-Robinson-Medical-Seven HIlls Anesthesia-Record-Requests-WLF-Medical-Records-And-Billing-Request.docx
 source_hash: sha256:3934a416a6b00b56c14ba26cbee97122a687439fb7ac9bbf2a1413958c2fcaab
+contact: "[[cases/2025-05-02-sf-001/contacts/seven-hills-anesthesia]]"
 ---
+
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 
 *Aaron G. Whaley, Esq.*
 *712 Lyndon Lane*

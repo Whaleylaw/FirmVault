@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Hope-R
 source_hash: sha256:3b3feadf81c67cc1880c5d3ffd4b042b90278f6a739112b2cd0a9b1c7a8bbdd7
 ---
 
+**Case:** [[cases/hope-renee-padgett/hope-renee-padgett|Hope Renee Padgett]]
+**Client:** [[cases/hope-renee-padgett/contacts/hope-renee-padgett|Hope Renee Padgett]]
+
 athena 7/8/2024 11:52:40 a a1b14572-b1fa-4634-81 3b-1ded3b586fb3 Page: 56 / 57
 Sterling Heatth Care +44 Water Street. Owinasvite KY 40360-8944
 PADGETT, Hope (id #56618, dob: [DOB-1])

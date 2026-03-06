@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brando
 source_hash: sha256:8092832f5617a0cf7bf02320731402edff20eeb2db427ec79022850e1d051877
 ---
 
+**Case:** [[cases/brandon-robinson-jr/brandon-robinson-jr|Brandon Robinson Jr]]
+**Client:** [[cases/brandon-robinson-jr/contacts/brandon-robinson-jr|Brandon Robinson Jr]]
+
 date_of_birth: [DOB-1]
 imported_at: 2026-02-16T21:09:42.781Z
 name: Brandon Robinson Jr

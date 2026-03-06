@@ -1,18 +1,22 @@
 ---
 case_slug: muhammad-alif
-created_at: 2026-02-17 00:11:13.403000+00:00
+created_at: {}
 document_category: medical
-document_date: 1961-04-16
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2022-11-08-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Innovation
-  Open MRI/Medical Records/2023-01-05-Muhammad-Alif-Medical-Innovation Open MRI-Medical-Records-Innovative-Open-MRI-MRI-Lumbar-Spine-Report.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Innovation Open MRI/Medical Records/2023-01-05-Muhammad-Alif-Medical-Innovation Open MRI-Medical-Records-Innovative-Open-MRI-MRI-Lumbar-Spine-Report.pdf
 source_hash: sha256:c1d32c7270b137a55c17254e3ae0694bf5c9e3c1ebf3b90af7cc1f7774212229
+contact: "[[cases/2022-11-08-mva-001/contacts/innovation-open-mri]]"
 ---
+
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 
 Apr. 26.2023 9:26AM No.8736 PL7
 “Innovative

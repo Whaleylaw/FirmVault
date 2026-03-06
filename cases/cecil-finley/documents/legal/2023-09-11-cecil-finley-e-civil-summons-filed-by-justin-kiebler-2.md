@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:68bcde2e1c71fc8ddba316ad23df97c70a48ed7c630b44657328de0c5f45ef8c
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 Criminal Division
 Civil Process Unit
 We have updated our Civil Process software and as a result, we have had to create a

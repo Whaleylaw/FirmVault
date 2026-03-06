@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Elizab
 source_hash: sha256:9e0c93bba7f7a2ae14c17cbd1fe933a4c86effd6eb1d1bdf4b43b01df4f79f99
 ---
 
+**Case:** [[cases/elizabeth-lindsey/elizabeth-lindsey|Elizabeth Lindsey]]
+**Client:** [[cases/elizabeth-lindsey/contacts/elizabeth-lindsey|Elizabeth Lindsey]]
+
 ## Sheet1
 
 | Owen Lindsey |  |  |  |  |  |  |  |

@@ -4,6 +4,9 @@ document_category: insurance
 legacy_case_id: 2022-12-05-OTH-001
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-Hall-WC-[DOB-17]/Medical Bills/2022-12-05-Cora-Hall-AccidentFund-Insurance-Company-of-America-Claim-Payment-Report.pdf"
 source_hash: "sha256:f439fd83a0173b5c1ad90c1732c1c[PHONE-2]f67c6019baca69327f241ac43"

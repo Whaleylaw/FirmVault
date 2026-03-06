@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya
 source_hash: sha256:4af3be4aadd3a82103ac91c3c14191ebbce9a8c834b014f81a45a4495e9a90ab
 ---
 
+**Case:** [[cases/sariya-mason/sariya-mason|Sariya Mason]]
+**Client:** [[cases/sariya-mason/contacts/sariya-mason|Sariya Mason]]
+
 Activity Card
 A19-070981-1 OWNED/AGGRESSIVE Priority Level: 3
 Total Animals:

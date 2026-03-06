@@ -1,11 +1,10 @@
 ---
 case_slug: caryn-mccay
-created_at: 2026-02-16 22:16:45.153000+00:00
+created_at: {}
 document_category: insurance
-document_date: 2023-07-30
+document_date: {}
 document_type: insurance
-entities:
-- State Farm
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-07-30-MVA-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-McCay-MVA-7-30-2023/Insurance/2024-05-28-Caryn-McCay-State-Farm-Claims-Acknowledgement-of-demand-letter.pdf
 source_hash: sha256:cc55947efe8927e341724554f6735ca6f2a51bf4289107ad5068e87b18b2add3
+contact: "[[cases/2023-07-30-mva-001/contacts/caryn-mccay]]"
 ---
+
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 
 May 28, 2024
 Whaley Law Firm

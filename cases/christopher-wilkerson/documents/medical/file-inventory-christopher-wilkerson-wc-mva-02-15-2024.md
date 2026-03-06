@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:4ebd41a101cd0f07a7afde4bf36ffb64670b3e59da1b4803cf487678d3661987
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 item_0.extension: .jpg
 item_0.name: 2024.02.26-Wilkerson-CPD-Truck-Driver-Side-View-Undamaged-Prior-to-MVA.jpg
 item_0.path: 2024.02.26-Wilkerson-CPD-Truck-Driver-Side-View-Undamaged-Prior-to-MVA.jpg

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor
 source_hash: sha256:fd9f7f124b8b64cf13b6e4924c33b668aa48faca57fed996d4e6d29e7c98e904
 ---
 
+**Case:** [[cases/taylor-thompson/taylor-thompson|Taylor Thompson]]
+**Client:** [[cases/taylor-thompson/contacts/taylor-thompson|Taylor Thompson]]
+
 This 
 TERMINATION TNIf it pName 
 Nominee's Ad

@@ -19,6 +19,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:be55dc208691204cf748484357201384d5480a1577057e26cd52ea70c9fe0c74
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 Fax Confirmation
 To: [PHONE-1] From: [PHONE-2]
 Doc:

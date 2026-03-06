@@ -31,6 +31,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:5ddad943aa456c142ee52e63c5c1198d9fa01ce1d9949452d1acaa87cff72e88
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 Medical Records Analysis Report
 Project: Alma-Cristobal-MVA-2-15-2024
 Generated: 2025-11-15 22:21:09

@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor
 source_hash: sha256:d425b6ac8eb5bc6cb9139f1c9f83c25b0dc8e0450989eb11c9bf3aabe926b4b2
 ---
 
+**Case:** [[cases/taylor-thompson/taylor-thompson|Taylor Thompson]]
+**Client:** [[cases/taylor-thompson/contacts/taylor-thompson|Taylor Thompson]]
+
 Subject: Taylor Thompson 8 month
 From: /O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=4E6DA913E93A46618013E4ED242E094A-JOHN SMITH_
 To: Jacob Lashley x28112

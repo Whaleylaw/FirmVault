@@ -1,22 +1,23 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:48:56.680000+00:00
+created_at: {}
 document_category: financial
-document_date: 2020-02-20
+document_date: {}
 document_type: financial
-entities:
-- Aetna
-- Norton Healthcare
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Norton
-  Orthopedic Institute/Medical Bills/2020-02-20-Amy-Mills-Medical-Norton Orthopedic
-  Institute-Medical-Bills-Norton-Healthcare-Itemized-List-Of-Charges-4.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Norton Orthopedic Institute/Medical Bills/2020-02-20-Amy-Mills-Medical-Norton Orthopedic Institute-Medical-Bills-Norton-Healthcare-Itemized-List-Of-Charges-4.pdf
 source_hash: sha256:408dab96afddd14c56eb6036886a580edd852ee2e246ac8f1ff90a6ee996a7c3
+contact: "[[cases/2019-04-26-prl-001/contacts/norton-orthopedic-institute]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 Patient: Mills,Amy
 Account ID: 202256957

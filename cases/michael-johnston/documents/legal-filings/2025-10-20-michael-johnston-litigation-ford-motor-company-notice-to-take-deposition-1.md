@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:a9413cedfba02315ee6b0df8708ca89b6a2ee2a81a547fdbe40ae85b82825731
 ---
 
+**Case:** [[cases/michael-johnston/michael-johnston|Michael Johnston]]
+**Client:** [[cases/michael-johnston/contacts/michael-johnston|Michael Johnston]]
+
 COMMONWEALTH OF KENTUCKY
 DEPARTMENT OF WORKERS’ CLAIMS
 BEFORE HON. CHRIS DAVIS, ALJ

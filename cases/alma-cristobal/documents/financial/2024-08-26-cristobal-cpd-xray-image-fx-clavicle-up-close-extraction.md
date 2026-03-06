@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:0f5b884709ac5a2d0b2b6bc527ac2a1549ced22b8e1c72983a0f21b8ea8af088
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 bucket: Medical Records
 content_summary: Close-up X-ray image of the fractured clavicle of client Alma Cristobal. Follow-up imaging from August 2024.
 date: 2024-08-26

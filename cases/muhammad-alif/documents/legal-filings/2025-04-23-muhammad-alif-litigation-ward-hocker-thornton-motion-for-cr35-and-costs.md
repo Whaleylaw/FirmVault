@@ -4,6 +4,9 @@ document_category: court-filings
 legacy_case_id: 2022-11-08-MVA-001
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-[DOB-17]/Litigation/2025-04-23-Muhammad-Alif-Litigation-Ward-Hocker-Thornton-Motion-for-CR35-and-Costs.pdf"
 source_hash: "sha256:358482d8a1b25fbaa6b7db4c3b2092455b582f00c80beedd5deb130bb9cc217e"

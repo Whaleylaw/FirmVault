@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:1a51a02e6cd21c8a089c847ea77b80d83de18c98256ddc24a32366ee9dc65671
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 category: Medical
 confidence: high
 description: Medical records request letter with fax confirmation to Taylor County Chiropractic & Rehabilitation. Date of loss [DOB-1]. 5 pages. Dated August 23, 2024.

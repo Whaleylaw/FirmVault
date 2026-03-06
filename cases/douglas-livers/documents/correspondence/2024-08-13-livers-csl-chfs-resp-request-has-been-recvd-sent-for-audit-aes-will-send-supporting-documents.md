@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:ca3507dc0e99f3ed28a3e8e1f9726239b0f39439e55e7fe3ed81aba37fe0dad9
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 Subject: RE: IV-D [POLICY-1] Douglas Livers & Theresa Gregory
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

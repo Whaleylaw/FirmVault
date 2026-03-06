@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:ebadd9d1db08667e871f0fb12f8582f8dac2070c643eacfb5df259f13e1ef877
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 INVESTIGATOR BEAT OR POST #
 TOTAL LANES
 NO

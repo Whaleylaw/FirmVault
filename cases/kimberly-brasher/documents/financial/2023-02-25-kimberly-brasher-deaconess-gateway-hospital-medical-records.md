@@ -4,6 +4,9 @@ document_category: financial
 legacy_case_id: 2023-02-25-PrL-001
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimberly-Brasher-Premise-2-25-2023/Medical/2023-02-25-Kimberly-Brasher-Deaconess-Gateway-Hospital-Medical-Records.pdf"
 source_hash: "sha256:2011d3111b0902f6eabad2fee3f2948ddf06eb98a8305a9570ce533aa17d84e5"

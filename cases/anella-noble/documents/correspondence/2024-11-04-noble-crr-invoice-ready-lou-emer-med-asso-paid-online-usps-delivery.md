@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:9d526d7213672062b5872742f2520c93c63614f525a6f5380e714658b06d8921
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: Your Record Request Has Been Fulfilled
 From: [EMAIL-2]
 To: sarena@whaleylawfirm.com

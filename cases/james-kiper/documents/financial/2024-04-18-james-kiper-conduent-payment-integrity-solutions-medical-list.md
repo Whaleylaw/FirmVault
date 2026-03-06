@@ -1,18 +1,22 @@
 ---
 case_slug: james-kiper
-created_at: 2026-02-16 23:52:11.174000+00:00
+created_at: {}
 document_category: financial
-document_date: 2022-06-13
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2022-12-05-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Kiper-MVA-12-5-2022/Old
-  Files/2024-04-18-James-Kiper-Conduent-Payment-Integrity-Solutions-medical-list.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Kiper-MVA-12-5-2022/Old Files/2024-04-18-James-Kiper-Conduent-Payment-Integrity-Solutions-medical-list.pdf
 source_hash: sha256:12abac24bea50746bba04d6464fd8a6a2baa7bd5d767f9747ca103e7e20cbc39
+contact: "[[cases/2022-12-05-mva-001/contacts/conduent]]"
 ---
+
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 
 ~~7276 1010 BI SIN 0419 NNNNNNNN 002315 T:0008 950313 (10f2)
 CONDUENT (@

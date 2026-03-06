@@ -1,12 +1,10 @@
 ---
 case_slug: shannon-colvin
-created_at: 2026-02-17 00:21:29.633000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1994-05-17
+document_date: {}
 document_type: correspondence
-entities:
-- Zip Clinic Urgent Care
-- Rapid Relief Urgent Care
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-10-01-MVA-002
 mime_type: application/pdf
@@ -14,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shannon-Colvin-MVA-10-1-2023/Medical/2024-08-15-Shannon-Colvin-Zip-Clinic-Urgent-Care-HIPAA-Authorization.pdf
 source_hash: sha256:c36d46c2cd3113c25c2ef7ab1f7a884ec001ef7042dfe535281ce970c4cfc4ac
+contact: "[[cases/2023-10-01-mva-002/contacts/zip-clinic-urgent-care]]"
 ---
+
+**Case:** [[cases/shannon-colvin/shannon-colvin|Shannon Colvin]]
+**Client:** [[cases/shannon-colvin/contacts/shannon-colvin|Shannon Colvin]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

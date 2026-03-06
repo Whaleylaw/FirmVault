@@ -19,6 +19,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:a5398a47af5601aad029cf12b4b4e957c43ca62eb9526d2a2d7b42c29c7766e3
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 item_0.chars: 0
 item_0.file: Case Information/expenses.json
 item_0.status: ok

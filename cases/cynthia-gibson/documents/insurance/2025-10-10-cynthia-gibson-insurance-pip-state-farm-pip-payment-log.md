@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cynthi
 source_hash: sha256:57924f42f199ac31dc86ad9afd8e485c447c1641de11d3886cbddbc77a1ce294
 ---
 
+**Case:** [[cases/cynthia-gibson/cynthia-gibson|Cynthia Gibson]]
+**Client:** [[cases/cynthia-gibson/contacts/cynthia-gibson|Cynthia Gibson]]
+
 1007048 Page 1 of 2 2007 148026 207 [DOB-70]
 RBZ000FJ State Farm®
 Payment Log

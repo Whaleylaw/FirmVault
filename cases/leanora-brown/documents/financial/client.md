@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Leanor
 source_hash: sha256:f917fb562eced8e23fe724298974fe3fa59bd240344c66dcd0913ef4319c42b3
 ---
 
+**Case:** [[cases/leanora-brown/leanora-brown|Leanora Brown]]
+**Client:** [[cases/leanora-brown/contacts/leanora-brown|Leanora Brown]]
+
 address: 3416 Cathe Dykstra Way, Unit 102, Louisville, KY 40216
 date_of_birth: [DOB-1]
 imported_at: 2026-02-16T21:09:42.771Z

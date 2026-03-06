@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:19d2cf04ff01d1a5f501943c09974a29f8b49cd7982f9c13447bee86079d0085
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 item_0.path: 2025.03.28-Sitgraves-Adadevoh-BK-Upd-to-DC-Resp-to-DC-Disc-Req-Coming-in-following-days-Request-Vehicle-Inspection.eml
 item_1.path: 2024-12-02-Nayram-Adadevoh-University-of-Louisville-Hospital-HIPAA-Authorization.pdf
 item_2.path: 2021-Nayram-Adadevoh-Whaley-Law-Firm-Authorization-to-Release-Employment-Documents.pdf

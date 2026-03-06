@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:f136d2de0dc9149e22053a44a8a45dc1d2d49bb173848d6a06accc79609815b3
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 Subject: NCP (for eFiler) JEFFERSON Circuit 21-CI-003798, PRINCE, ROBERT VS. NORTON HOSPITALS, INC.                    Envelope # 8921005
 From: [EMAIL-8]
 To: [EMAIL-7], Sarena@WhaleyLawFirm.com, [EMAIL-6]

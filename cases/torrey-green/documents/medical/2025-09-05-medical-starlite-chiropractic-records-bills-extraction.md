@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:b3c8cc5bad8e29109307cd88dde67dc61598a5720e59865fa3a28bfdfd937c06
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 category: medical
 date: 2025-09-05
 description: Organized copy of chiropractic treatment records and bills from Starlite Chiropractic for services 9/5-9/23/2025. Total billed: $1,665.00 for CMT, manual therapy, therapeutic exercises, and pain management.

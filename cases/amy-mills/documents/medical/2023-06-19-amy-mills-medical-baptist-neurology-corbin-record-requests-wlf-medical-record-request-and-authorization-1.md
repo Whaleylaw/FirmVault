@@ -1,6 +1,6 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:48:21.981000+00:00
+created_at: {}
 document_category: medical
 document_type: medical
 extraction_method: native_text
@@ -8,11 +8,14 @@ legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Baptist
-  Neurology Corbin/Record Requests/2023-06-19-Amy-Mills-Medical-Baptist Neurology
-  Corbin-Record-Requests-WLF-Medical-Record-Request-and-Authorization-1.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Baptist Neurology Corbin/Record Requests/2023-06-19-Amy-Mills-Medical-Baptist Neurology Corbin-Record-Requests-WLF-Medical-Record-Request-and-Authorization-1.pdf
 source_hash: sha256:d6d60598d908f027ca91d158d8372d7f7e786e28f12e3786cc8d12067e065c13
+contact: "[[cases/2019-04-26-prl-001/contacts/baptist-neurology-corbin]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 ee wee ooo . oe '“AWereA or AAD le a RR EN EY eee
 

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:9996a230e6cf48bdefa357ec6720b89533348cc9a9219c5ecef3f3ee3ccb8934
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 Sa, LEGAL FUNDING PARTNERS, LLC
 ==> ASSIGNMENT AND PURCHASE AGREEMENT
 Assignee/Purchaser: Legal Funding Partners, LLC (“LF”)

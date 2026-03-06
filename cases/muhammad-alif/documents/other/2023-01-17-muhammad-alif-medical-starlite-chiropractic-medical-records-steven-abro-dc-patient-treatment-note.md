@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:150ef33131f9156b656d7ba2e6e40a1614641be0be6c08b38787d6131e6dea49
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 Apr. 3.2023 10:07AM No.1598 =P.28/50
 Od‘oay uanaig “tepinorg
 so

@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:e103b7e6995222ec24f778d394fa663d23bcf84043c91a4506b3536eae184997
 ---
 
+**Case:** [[cases/michael-ditto-jr/michael-ditto-jr|Michael Ditto Jr]]
+**Client:** [[cases/michael-ditto-jr/contacts/michael-ditto-jr|Michael Ditto Jr]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michael-Ditto-Jr-Med-Mal-[DOB-1]/Medical/Norton Children's Urology/Medical Records/2024-11-19-Michael-Ditto-Jr-Med-Medical-Norton Children's Urology-Medical-Records-Client-Patient-Portal-Message-to-Provider.png

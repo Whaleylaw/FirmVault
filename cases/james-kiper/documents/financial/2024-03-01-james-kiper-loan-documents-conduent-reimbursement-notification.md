@@ -1,11 +1,10 @@
 ---
 case_slug: james-kiper
-created_at: 2026-02-16 23:51:35.735000+00:00
+created_at: {}
 document_category: financial
-document_date: 2022-06-13
+document_date: {}
 document_type: financial
-entities:
-- Travelers
+entities: null
 extraction_method: native_text
 legacy_case_id: 2022-12-05-MVA-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Kiper-MVA-12-5-2022/Loan-Documents/2024-03-01-James-Kiper-Loan-Documents-Conduent-Reimbursement-Notification.pdf
 source_hash: sha256:f07e1651160c426da8abfaaea617b158f12a5d2865a3d99094e68852d35f665e
+contact: "[[cases/2022-12-05-mva-001/contacts/conduent]]"
 ---
+
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 
 He76 1010 BISiN 0304 NNNNNNNN 009067 NA 943273 (20f2)
 CONDUENT

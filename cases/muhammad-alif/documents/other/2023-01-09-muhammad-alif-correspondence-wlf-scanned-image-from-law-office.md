@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:1ed65ef4309511d5281a8978833122af3a0205fdb0380fe1352d02a1ca02b8bb
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 Subject: Scanned image from Whaley Law Office
 From: [EMAIL-2]
 To: Sarena@WhaleyLawFirm.com

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:2c7540409cc37d7d28a1421732a5dadcf4ba0f6da3c93bcaaf5c7cf2d330a6c7
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 Aaron G. Whaley, Esq.
 THE 712 Lyndon Lane
 H A [ FY Louisville, KY 40222

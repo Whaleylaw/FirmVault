@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:faad71e655c98ec940d8970993c88abb20aad0099d7888870b99fb351fc24e53
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 ## Louisville Metro EMS / OMB Billing
 
 To Whom It May Concern,

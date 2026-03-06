@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor
 source_hash: sha256:5135a5de2e83a5ec9193fc755ea8467bebc233928165e4a77a2afbd0dc4821e3
 ---
 
+**Case:** [[cases/taylor-thompson/taylor-thompson|Taylor Thompson]]
+**Client:** [[cases/taylor-thompson/contacts/taylor-thompson|Taylor Thompson]]
+
 accident_date: 2024-12-06
 case_type: MVA
 client_name: Taylor-Thompson

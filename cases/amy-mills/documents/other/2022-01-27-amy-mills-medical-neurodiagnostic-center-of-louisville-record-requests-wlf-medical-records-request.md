@@ -1,6 +1,6 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:48:46.414000+00:00
+created_at: {}
 document_category: other
 document_type: other
 extraction_method: native_text
@@ -8,11 +8,14 @@ legacy_case_id: 2019-04-26-PrL-001
 mime_type: message/rfc822
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Neurodiagnostic
-  Center of Louisville/Record Requests/2022-01-27-Amy-Mills-Medical-Neurodiagnostic
-  Center of Louisville-Record-Requests-WLF-Medical-Records-Request.eml
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Neurodiagnostic Center of Louisville/Record Requests/2022-01-27-Amy-Mills-Medical-Neurodiagnostic Center of Louisville-Record-Requests-WLF-Medical-Records-Request.eml
 source_hash: sha256:d027a10e06d0cfbf866075d272f281cc61cb0e409e0e92b0768d5147b041c644
+contact: "[[cases/2019-04-26-prl-001/contacts/neurodiagnostic-center-of-louisville]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 Subject: Certified Medical Records Request on Amy Mills
 From: [EMAIL-1]

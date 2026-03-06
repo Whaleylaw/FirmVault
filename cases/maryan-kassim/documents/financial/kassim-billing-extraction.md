@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:6d604bf5276dad249723fe9934c388ad221ea4a587f18bc61c2d8d5d61c0b6fa
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 category: Medical
 description: Detailed billing ledger (2 pages) from University of Louisville School of Dentistry for Maryan Kassim showing dental treatment from August 7 through December 19, 2024, including endodontic therapy, crowns, and comprehensive oral evaluations with total balance of $694.00.
 entities[0]: Maryan Kassim

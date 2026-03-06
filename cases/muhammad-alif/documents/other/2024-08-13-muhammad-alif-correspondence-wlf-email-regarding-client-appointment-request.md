@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:2dd3b6dcf7b4aa4386eec16fd2c264ae12f7b6f82c738ef619bfd61c5d2a5487
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 Subject: Mo would like you to call him - Wanted me to schedule an appointment
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

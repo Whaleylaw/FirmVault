@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:62cd67c9e041c3aafc52b6f5d4c814dabb338de502ca967c2f196518b644618c
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 [DOB-1]
 [SSN-1]
 Ellis & Badenhausen Orthopaedics

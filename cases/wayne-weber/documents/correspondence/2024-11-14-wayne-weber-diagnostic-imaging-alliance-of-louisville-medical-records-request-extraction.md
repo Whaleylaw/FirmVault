@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:17ad335c73f44f5cff2a9d4554a463bce3c237b49407363f3713020c09c1a696
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: medical_requests
 extraction.date: 2024-11-14
 extraction.description: Diagnostic Imaging Alliance of Louisville medical records request for Wayne Weber dated November 14, 2024.

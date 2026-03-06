@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Abigai
 source_hash: sha256:1a20cbf01afd9953ff583b5212138d595c97e198442a4d375bad953b651d8e4e
 ---
 
+**Case:** [[cases/abigail-whaley/abigail-whaley|Abigail Whaley]]
+**Client:** [[cases/abigail-whaley/contacts/abigail-whaley|Abigail Whaley]]
+
 item_0.jsonb_agg[0].full_name: Abigail Whaley
 item_0.jsonb_agg[0].phone: [PHONE-1]
 item_0.jsonb_agg[0].project_name: Abigail-Whaley-MVA-[DOB-2]

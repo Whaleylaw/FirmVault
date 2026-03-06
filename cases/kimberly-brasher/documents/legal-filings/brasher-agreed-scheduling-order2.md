@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:74375cb0994817381ebccf4018db3d3f2f37994907de804fca23e8b705385c31
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 COMMONWEALTH OF KENTUCKYMCLEAN CIRCUIT COURTCIVIL ACTION NO. 24-CI-00012
 
 KIMBERLY BRASHER PLAINTIFF                                                   

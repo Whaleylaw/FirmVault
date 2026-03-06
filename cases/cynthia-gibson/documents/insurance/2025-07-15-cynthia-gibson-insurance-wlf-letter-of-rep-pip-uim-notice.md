@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cynthi
 source_hash: sha256:d79e57d9402ab245c261577b16f9b282271a529a0697c3da26d86871c74ebbe0
 ---
 
+**Case:** [[cases/cynthia-gibson/cynthia-gibson|Cynthia Gibson]]
+**Client:** [[cases/cynthia-gibson/contacts/cynthia-gibson|Cynthia Gibson]]
+
 Justin Chumbley 
 Justin Chumbley
 Aaron G. Whaley, Esq.

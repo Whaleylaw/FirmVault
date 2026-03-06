@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:5650809891b9eff73b886080f1c8e4ec5d40dcdc1e39b6f416bd1b343647a1ef
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 Page 1 Hospital CHSBROWNS2
 Report No 350439970
 Med Rec No EP01243087

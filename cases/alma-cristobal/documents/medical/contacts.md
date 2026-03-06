@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:5046982d3434513677b25b026a2ca7a38c22b1f9294858e6fe9d6a220f997d89
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 item_0.jsonb_agg[0].address: 1205 Carriage Way Ct., Fairdale, KY 40118
 item_0.jsonb_agg[0].email: [EMAIL-20]
 item_0.jsonb_agg[0].full_name: Alma Socorro Cristobal Avendaño

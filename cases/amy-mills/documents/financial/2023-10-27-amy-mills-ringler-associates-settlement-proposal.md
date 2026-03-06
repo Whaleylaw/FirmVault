@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:b5e0b80fed6772901376c5635c1301f535e16ed3e05838d76788c51f143b04d3
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 [PHONE-1]
 _________________________________________________________________________________
 Brad Cecil * Ringler Associates

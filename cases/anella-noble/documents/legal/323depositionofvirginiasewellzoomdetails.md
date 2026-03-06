@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:9c75d5b172d8af1277675b881b17961548c6fc06547f3fdfa0c88e79caf086f9
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: 3/23 Deposition of Virginia Sewell | ZOOM Details
 From: [EMAIL-10]
 To: sarena@whaleylawfirm.com, [EMAIL-9], [EMAIL-3]

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:75e841d1760e82011fb487b584dcccebea397d2a8dc807ccfd2d5633f7e873e9
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 h
 Aaron G. Whaley, Esq.
 THE — 712 Lyndon Lane

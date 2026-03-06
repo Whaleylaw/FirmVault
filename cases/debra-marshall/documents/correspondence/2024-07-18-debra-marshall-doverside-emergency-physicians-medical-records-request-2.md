@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:1364ef2f770fdd9580bdff33601bf474beed79dc56511285a7a181e688144052
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 Fax Confirmation
 To: [PHONE-11] From: [PHONE-10]
 Doc:

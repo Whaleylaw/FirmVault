@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:43947d388e796cf0fc81d1c637c3b54aa5d2edbb1eeee0fbe9078da51cbf65e5
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 Subject: I am still getting texts saying I owe anesthesia bill for my surgery. Attached is the text and bill. It is Past due. I have not received anything through the mail. I sent the 1st communication from them when I got it a month ago. I do not have any mone...
 From: [EMAIL-1]
 To: [EMAIL-2], sarena@whaleylawfirm.com, [EMAIL-3]

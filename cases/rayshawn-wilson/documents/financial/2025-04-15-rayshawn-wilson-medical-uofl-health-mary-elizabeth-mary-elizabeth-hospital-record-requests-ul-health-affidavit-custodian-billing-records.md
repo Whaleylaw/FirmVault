@@ -4,6 +4,9 @@ document_category: financial
 legacy_case_id: 2025-04-10-MVA-001
 ---
 
+**Case:** [[cases/rayshawn-wilson/rayshawn-wilson|Rayshawn Wilson]]
+**Client:** [[cases/rayshawn-wilson/contacts/rayshawn-wilson|Rayshawn Wilson]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Rayshawn-Wilson-MVA-4-10-2025/Medical/UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital/Record Requests/2025-04-15-Rayshawn-Wilson-Medical-UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital-Record-Requests-UL-Health-Affidavit-Custodian-Billing-Records.pdf"
 source_hash: "sha256:b90fa8573238194294bc4992ab994c37eefe07eb385e382ab3e647b6cf91aca4"

@@ -1,6 +1,6 @@
 ---
 case_slug: robin-willis-beck
-created_at: 2026-02-17 00:16:52.737000+00:00
+created_at: {}
 document_category: financial
 document_type: financial
 extraction_method: native_text
@@ -10,7 +10,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-Willis-Beck-Premise-09-21-2023/Legal-Documents/2024-08-25-Robin-Willis-Beck-REMINGER-CO-LPA-Employment-Records-Release.pdf
 source_hash: sha256:b864fccf0d28890dab61d3aed94db5f309cfffd194740009b8347b25b8cf5bc3
+contact: "[[cases/2023-09-21-prl-001/contacts/reminger-co-lpa]]"
 ---
+
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 
 AUTHORIZATION
 FOR RELEASE OF EMPLOYMENT RECORDS

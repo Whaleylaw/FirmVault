@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:b993b9903b0385272db973d336cb68ff6c373563b73e0ea0ee7d5ac7e92533c5
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: Fwd: Anella Noble v Virginia Sewell et al - Amended SDT NTTD - Verizon & Metro PCS
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

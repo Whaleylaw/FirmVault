@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:fe35555b1a8835b177c2a55e345ef702412973f426da405389fcb2809f34aa52
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 DEFENDANT: DOUGLAS LIVERS
 Kentucky CSE Arrearage Audit
 Payee Summary Report

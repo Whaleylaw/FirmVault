@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2023-08-29-MVA-003
 ---
 
+**Case:** [[cases/julmonzhae-moore/julmonzhae-moore|Julmonzhae Moore]]
+**Client:** [[cases/julmonzhae-moore/contacts/julmonzhae-moore|Julmonzhae Moore]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmonzhae-Moore-MVA-8-29-2023/Medical/2023-08-29-Julmonzhae-Moore-AmeriPro-EMS-LLC-Traffic-Accident-Report.pdf"
 source_hash: "sha256:0e0e9921ed7c2dab33b83d22b28b180aa04aac36bb752bbc54d4fa3fb03c89a4"

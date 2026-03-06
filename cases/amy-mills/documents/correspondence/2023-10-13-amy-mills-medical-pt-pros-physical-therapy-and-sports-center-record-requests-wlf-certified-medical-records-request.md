@@ -1,19 +1,22 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:49:14.369000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1983-12-28
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/PT
-  Pros Physical Therapy and Sports Center/Record Requests/2023-10-13-Amy-Mills-Medical-PT
-  Pros Physical Therapy and Sports Center-Record-Requests-WLF-Certified-Medical-Records-Request.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/PT Pros Physical Therapy and Sports Center/Record Requests/2023-10-13-Amy-Mills-Medical-PT Pros Physical Therapy and Sports Center-Record-Requests-WLF-Certified-Medical-Records-Request.pdf
 source_hash: sha256:7fdff1f14c1464fec931e9eb7ca2612fc8fc40cc92a7b3143d712730fac5319e
+contact: "[[cases/2019-04-26-prl-001/contacts/pt-pros-physical-therapy-and-sports-center]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 Fax Confirmation
 To: [PHONE-1] From: [PHONE-11]

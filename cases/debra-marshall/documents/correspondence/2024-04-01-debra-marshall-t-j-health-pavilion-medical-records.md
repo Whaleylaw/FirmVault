@@ -1,8 +1,8 @@
 ---
 case_slug: debra-marshall
-created_at: 2026-02-16 23:04:49.292000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1956-02-21
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2022-12-03-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-Marshall-MVA-12-3-2022/Medical-Records/2024-04-01-Debra-Marshall-T-J-Health-Pavilion-medical-records.pdf
 source_hash: sha256:426321f6d1c8fd0b3653d42b34e42062b5d1d96eda0289cd82e6fbecffd96471
+contact: "[[cases/2022-12-03-mva-001/contacts/t-j-health-pavilion]]"
 ---
+
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

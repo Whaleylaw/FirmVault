@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:514f2281ce3abdcf5a310c3f11130a0d887f2061cf5f9d4a1d5082f849f3d752
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 Subject: The Defense Discovery Request for your response.
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-N
 source_hash: sha256:9644c74936f129f7bbc09b74e87742c17dde58deec236703b77cc434b6b36380
 ---
 
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 Subject: Re: New submission from 20 Second Scheduler
 From: [EMAIL-8]
 To: sarena@whaleylawfirm.com

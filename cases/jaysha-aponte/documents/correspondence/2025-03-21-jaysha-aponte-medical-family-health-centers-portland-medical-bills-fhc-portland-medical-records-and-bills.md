@@ -1,19 +1,22 @@
 ---
 case_slug: jaysha-aponte
-created_at: 2026-02-16 23:55:48.127000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1992-08-04
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2025-03-15-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jaysha-Aponte-MVA-3-15-2025/Medical/Family
-  Health Centers-Portland/Medical Bills/2025-03-21-Jaysha-Aponte-Medical-Family Health
-  Centers-Portland-Medical-Bills-FHC-Portland-Medical-Records-and-Bills.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jaysha-Aponte-MVA-3-15-2025/Medical/Family Health Centers-Portland/Medical Bills/2025-03-21-Jaysha-Aponte-Medical-Family Health Centers-Portland-Medical-Bills-FHC-Portland-Medical-Records-and-Bills.pdf
 source_hash: sha256:bea0f8f2ae501e292b4a0e51182fcd2c8cd1dac9af190062c0d00365bfb74abd
+contact: "[[cases/2025-03-15-mva-001/contacts/family-health-centers-portland]]"
 ---
+
+**Case:** [[cases/jaysha-aponte/jaysha-aponte|Jaysha Aponte]]
+**Client:** [[cases/jaysha-aponte/contacts/jaysha-aponte|Jaysha Aponte]]
+
 
 F A X S$ H E E T
 Date: [DOB-31] 02:22:22 AM

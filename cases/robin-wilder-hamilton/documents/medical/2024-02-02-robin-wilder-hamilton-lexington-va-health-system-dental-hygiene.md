@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2023-06-15-MVA-001
 ---
 
+**Case:** [[cases/robin-wilder-hamilton/robin-wilder-hamilton|Robin Wilder Hamilton]]
+**Client:** [[cases/robin-wilder-hamilton/contacts/robin-wilder-hamilton|Robin Wilder Hamilton]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-Wilder-Hamilton-MVA-6-15-2023/Medical/2024.02.02 Robin Wilder Hamilton Lexington VA Health System Dental/2024-02-02-Robin-Wilder-Hamilton-Lexington-VA-Health-System-Dental-Hygiene.pdf"
 source_hash: "sha256:1e88d1f86b63f841e6ba04cea8acb1d2e1012a6fbb03e0633b74850f19e85bbf"

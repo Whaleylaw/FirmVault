@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Raysha
 source_hash: sha256:629c938e2c5e26c8ea37bb911dc6bbdef53f5d8422d18c583d203f4e8552a873
 ---
 
+**Case:** [[cases/rayshawn-wilson/rayshawn-wilson|Rayshawn Wilson]]
+**Client:** [[cases/rayshawn-wilson/contacts/rayshawn-wilson|Rayshawn Wilson]]
+
 Justin Chumbley
 Aaron G. Whaley, Esq.
 THE 712 Lyndon Lane

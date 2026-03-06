@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:2eee06bd78dd1cd5f623c8b7f8a49fe6b314b8ece6c4cc1dc330ab6101fbf712
 ---
 
+**Case:** [[cases/michael-ditto-jr/michael-ditto-jr|Michael Ditto Jr]]
+**Client:** [[cases/michael-ditto-jr/contacts/michael-ditto-jr|Michael Ditto Jr]]
+
 accident_date: 2023-04-11
 case_type: Mal
 client_name: Michael-Ditto-Jr-Med

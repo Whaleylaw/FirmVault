@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:9735edef51763d4747665e3887dddcdb7b17a4ec682a2bb19936a8a8e7f09a2c
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 January 26, 2023
 
 Southeastern Emergency Services

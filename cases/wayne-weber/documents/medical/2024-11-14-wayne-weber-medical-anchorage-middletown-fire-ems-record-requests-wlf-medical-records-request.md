@@ -1,19 +1,22 @@
 ---
 case_slug: wayne-weber
-created_at: 2026-02-17 00:40:20.726000+00:00
+created_at: {}
 document_category: medical
-document_date: 1947-07-13
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2022-01-01-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-Weber-MVA-01-01-2022/Medical/Anchorage
-  Middletown Fire & EMS/Record Requests/2024-11-14-Wayne-Weber-Medical-Anchorage Middletown
-  Fire & EMS-Record-Requests-WLF-Medical-Records-Request.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-Weber-MVA-01-01-2022/Medical/Anchorage Middletown Fire & EMS/Record Requests/2024-11-14-Wayne-Weber-Medical-Anchorage Middletown Fire & EMS-Record-Requests-WLF-Medical-Records-Request.pdf
 source_hash: sha256:f785ee0b8d4ceb6fb54f39dd83e9a8785cd65f24ecd52811fd88b85b51d43441
+contact: "[[cases/2022-01-01-mva-001/contacts/anchorage-middletown-fire-ems]]"
 ---
+
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

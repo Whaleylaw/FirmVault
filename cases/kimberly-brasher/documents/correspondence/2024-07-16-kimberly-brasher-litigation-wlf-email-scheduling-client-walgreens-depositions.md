@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:c4718eea8220ed136bd9d76d4bc9837128359927e4ce817805e9010e13333c6d
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 Subject: Re: Kimberly Brasher v. Walgreen Co., et al. (McClean Circuit Court, No. 24-CI-00012)
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

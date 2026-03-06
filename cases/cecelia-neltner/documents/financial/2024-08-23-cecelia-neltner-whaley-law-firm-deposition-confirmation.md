@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ceceli
 source_hash: sha256:2c47313163960dcd4cdd7b1f22a156f0d889735d3618d622e8ca11737f9ce3be
 ---
 
+**Case:** [[cases/cecelia-neltner/cecelia-neltner|Cecelia Neltner]]
+**Client:** [[cases/cecelia-neltner/contacts/cecelia-neltner|Cecelia Neltner]]
+
 Confirmation Kentuckiana Reporters
 P.O. Box 3983
 Louisville, KY 40201

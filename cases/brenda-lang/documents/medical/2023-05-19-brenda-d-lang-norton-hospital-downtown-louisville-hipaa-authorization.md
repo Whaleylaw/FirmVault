@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:aba6f1bb342bf6669ee9388beeb92c4b0b5bc3e98bcfa4109de04b632f13fe61
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 BNWORgN
 Real people. Remarkable care,
 11/21/24

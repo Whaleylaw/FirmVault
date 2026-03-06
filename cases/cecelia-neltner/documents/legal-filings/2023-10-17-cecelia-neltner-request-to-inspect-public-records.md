@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ceceli
 source_hash: sha256:3d0997f636b069fb51aec54ef5d14ef5e7beae639b3874805738e72c0846b390
 ---
 
+**Case:** [[cases/cecelia-neltner/cecelia-neltner|Cecelia Neltner]]
+**Client:** [[cases/cecelia-neltner/contacts/cecelia-neltner|Cecelia Neltner]]
+
 REQUEST TO INSPECT PUBLIC RECORDS
 Pursuant to the Kentucky Open Records Act (“the Act”), KRS 61.870 et. seq., the undersigned requests to inspect the 
 public records which are described below.

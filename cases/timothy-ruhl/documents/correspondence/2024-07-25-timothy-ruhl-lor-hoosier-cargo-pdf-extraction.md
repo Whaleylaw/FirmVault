@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:747853d7e14b7cc10637c30d99aeb2944f7d12540989f105d3421631aaea5c12
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 content_analysis.category: Insurance
 content_analysis.date: 2024-07-25
 content_analysis.description: Letter of representation

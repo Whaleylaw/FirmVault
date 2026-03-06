@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2022-11-08-MVA-001
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-[DOB-26]/Litigation/2025-03-03-Muhammad-Alif-Litigation-WLF-Plaintiffs-Expert-Disclosures.pdf"
 source_hash: "sha256:f35d17b4e8b0cecb22a0df90639632fb8bfe80cb4d947916648d268aae53005f"

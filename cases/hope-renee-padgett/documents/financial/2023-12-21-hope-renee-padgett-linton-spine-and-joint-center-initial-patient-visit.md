@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Hope-R
 source_hash: sha256:5ef1b10e31207ad46fd579e57552b82359c82bc36613c8dd71a89a1d46613b98
 ---
 
+**Case:** [[cases/hope-renee-padgett/hope-renee-padgett|Hope Renee Padgett]]
+**Client:** [[cases/hope-renee-padgett/contacts/hope-renee-padgett|Hope Renee Padgett]]
+
 02
 LINTON SPINE & JOINT CENTER
 Robert Linton, D.C., F.A.C.0.

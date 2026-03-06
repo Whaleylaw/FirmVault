@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:1abf97e25c4fdc64c82a7ab00849a2da85cd2971ee39b896e88afbaf81959607
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 NO. 21 -CI-004985 JEFFERSON COUNTY CIRCUIT COURT 
 JUDGE HON. TRACY DAVIS 
 ANELLA NOBLE PLAINTIFF 

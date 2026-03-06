@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:2ad93feb7b52951032081f411d09174f5ea701785e996f25b9af60834abfdd6c
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 REPORT SUMMARY
 This section provides an overview of the predictive analytics used for the estimation of claim
 severity, exposure, and fraud risk for the most recent crash or event sequence. Loss Indicators 2 Alerts: Pre-Damaged Vehicle (Rear), Emissions Test Failure

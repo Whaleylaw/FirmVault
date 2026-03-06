@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:74fce5e349d10f27f232637d02236e9d3de04137247afcd87cfd5df060c8ab9e
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 extraction.category: Medical
 extraction.confidence: high
 extraction.date: 2025-10-29

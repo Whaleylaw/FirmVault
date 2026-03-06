@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:bb6dd061e4ef0c6cc9425315be2cc84397ef6cd0e045b58d39ec5a7130cb551f
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 Fax Confirmation
 To: [PHONE-7] From: [PHONE-2]
 Doc:

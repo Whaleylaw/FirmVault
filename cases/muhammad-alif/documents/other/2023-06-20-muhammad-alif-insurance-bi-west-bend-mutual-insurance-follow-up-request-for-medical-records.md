@@ -1,6 +1,6 @@
 ---
 case_slug: muhammad-alif
-created_at: 2026-02-17 00:09:59.272000+00:00
+created_at: {}
 document_category: other
 document_type: other
 extraction_method: native_text
@@ -10,7 +10,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Insurance/2023-06-20-Muhammad-Alif-Insurance-BI-West-Bend-Mutual-Insurance-Follow-up-Request-for-Medical-Records.eml
 source_hash: sha256:463ac890f820cfd23461e6e6bf3b018064dc99f4d3a95c0f5a3f8ab52c41d4d9
+contact: "[[cases/2022-11-08-mva-001/contacts/west-bend-mutual-insurance]]"
 ---
+
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 
 Subject: Claim: AP92071 | MUHAMMED ALIF
 From: [EMAIL-6]

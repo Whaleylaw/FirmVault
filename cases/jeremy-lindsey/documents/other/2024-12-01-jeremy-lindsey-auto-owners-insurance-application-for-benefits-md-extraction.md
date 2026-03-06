@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:7255dfe3af90a3edd97f2d7bac4b3ad278de6a4fbd581128f047eae6550d0d31
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: insurance
 date: 2024-12-01
 description: PIP (Personal Injury Protection) application for benefits submitted to Auto Owners Insurance

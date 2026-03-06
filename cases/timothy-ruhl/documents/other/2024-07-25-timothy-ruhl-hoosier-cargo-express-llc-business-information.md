@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:0165949cbd90e1ab818d91de779ddd8099ac37fb525feb00d34dcc9fa2c219b7
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 BUSINESS INFORMATION
 DIEGO MORALES 
 INDIANA SECRETARY OF STATE

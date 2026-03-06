@@ -1,12 +1,10 @@
 ---
 case_slug: julmonzhae-moore
-created_at: 2026-02-16 23:59:52.878000+00:00
+created_at: {}
 document_category: insurance
-document_date: 2023-08-29
+document_date: {}
 document_type: insurance
-entities:
-- Dr. De Be Be
-- Liberty Mutual
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-08-29-MVA-003
 mime_type: application/pdf
@@ -14,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmonzhae-Moore-MVA-8-29-2023/Liens/2023-11-28-Julmonzhae-Moore-TeamCare-Lien-Notice.pdf
 source_hash: sha256:e17177d29570df7286432fbe84b638d495844b2c2046a7c83b27481678ab76f5
+contact: "[[cases/2023-08-29-mva-003/contacts/teamcare]]"
 ---
+
+**Case:** [[cases/julmonzhae-moore/julmonzhae-moore|Julmonzhae Moore]]
+**Client:** [[cases/julmonzhae-moore/contacts/julmonzhae-moore|Julmonzhae Moore]]
+
 
 © [DOB-33] 4:23 PM Fax Services >15023649363 pg lof8
 TEAMCARE’

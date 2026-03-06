@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmon
 source_hash: sha256:10d0df8c7e7221f56f23be89ede90562d855a6dadb0976ff721e7b415085e25a
 ---
 
+**Case:** [[cases/julmonzhae-moore/julmonzhae-moore|Julmonzhae Moore]]
+**Client:** [[cases/julmonzhae-moore/contacts/julmonzhae-moore|Julmonzhae Moore]]
+
 12-04 24 14:08 FROM- CCB 00 - Radiology, 1 T-005 —PQQ01 /0001 F-806
 UofL Health | UofL Hospital
 pate: 2-4-2024

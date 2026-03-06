@@ -19,6 +19,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:89027408284cb52d1cf46619544e4188af647107e37de86fb6633ee6e363b708
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 Patient History Report
 Client: Hedinger, Jerome (75562) Patient: Rory (1132884)
 Phone: [PHONE-1] Species: Canine Breed: Mix, Lab.Retriever

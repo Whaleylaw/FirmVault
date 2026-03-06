@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:86a28779d4d7f0eb0a3520ba1d5be3b64a85f7a25c8dafbb62e6af6b073ba1a0
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 datavant.com
 Protect.
 Connect.

@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2025-06-30-MVA-001
 ---
 
+**Case:** [[cases/charles-godsey/charles-godsey|Charles Godsey]]
+**Client:** [[cases/charles-godsey/contacts/charles-godsey|Charles Godsey]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charles-Godsey-MVA-6-30-2025/Negotiation Settlement/2025-10-08-Charles-Godsey-Negotiation-Settlement-Progressive-Settlement-Demand.pdf"
 source_hash: "sha256:ef7ae[POLICY-1]ddea8547ee5a0e1cceb8290408d01cc69eb8a2d077368a22354"

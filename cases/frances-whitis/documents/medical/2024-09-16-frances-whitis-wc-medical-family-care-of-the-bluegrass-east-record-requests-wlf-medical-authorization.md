@@ -1,21 +1,23 @@
 ---
 case_slug: frances-whitis
-created_at: 2026-02-16 23:42:36.709000+00:00
+created_at: {}
 document_category: medical
-document_date: 2024-09-16
+document_date: {}
 document_type: medical
-entities:
-- Dr. Frank Farley
+entities: null
 extraction_method: native_text
 legacy_case_id: 2024-09-06-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Frances-Whitis-WC-MVA-9-6-2024/Medical/Family
-  Care Of The Bluegrass - East/Record Requests/2024-09-16-Frances-Whitis-WC-Medical-Family
-  Care Of The Bluegrass - East-Record-Requests-WLF-Medical-Authorization.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Frances-Whitis-WC-MVA-9-6-2024/Medical/Family Care Of The Bluegrass - East/Record Requests/2024-09-16-Frances-Whitis-WC-Medical-Family Care Of The Bluegrass - East-Record-Requests-WLF-Medical-Authorization.pdf
 source_hash: sha256:68b731001b7638124632caeb27c33ff0e2084f887b424686c77daebbcf679e3b
+contact: "[[cases/2024-09-06-mva-001/contacts/family-care-of-the-bluegrass-east]]"
 ---
+
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 
 [DOB-1]
 Family Care Of The Bluegrass – East

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:6b99219bc911772b228a47840dbcfe1bbbedeb6f7c67dc63f55169e22a2d61ab
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 | COMMONWEALTH OF KENTUCKY           |                                                                                           |     |     |                                                              |
 | ---------------------------------- | ----------------------------------------------------------------------------------------- | --- | --- | ------------------------------------------------------------ |
 | CASE NO. 24-CI-006943              |                                                                                           |     |     | JEFFERSON CIRCUIT COURT DIVISION ONE (1) JUDGE ERIC J. HANER |

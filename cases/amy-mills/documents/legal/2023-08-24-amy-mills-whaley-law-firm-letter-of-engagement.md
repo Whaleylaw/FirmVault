@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:b5c78be444a1f7346574578828a67e1044c596ec39ff4e22e259aa5f78201f03
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Stephen P. Ryan
 Ann O’Malley Shake
 James M. Shake

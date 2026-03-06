@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:ffc9f210bfb04402e69a65b36917b874bf7e2342fabb145ecd388d10fdfe1717
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 Providing Insurance and Financial Services ® Home Office, Bloomington, IL SS State Fi arm
 
 September 15, 2023

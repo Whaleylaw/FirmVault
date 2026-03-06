@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:f8f672ad308c2abac42e48aa146e3a84ec51957066c050e626d7af3eaaff25c3
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 1540
 7276 1010 BI SI IN0625 NNNNNNNN 006686 T:0024 961112 (1of1)
 CONDUENT ©

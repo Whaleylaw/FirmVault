@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jacob-
 source_hash: sha256:713c652d7fe6ae17fb54e4bf4b28880167309c07668cabdfbbb03e771b042384
 ---
 
+**Case:** [[cases/jacob-herrle/jacob-herrle|Jacob Herrle]]
+**Client:** [[cases/jacob-herrle/contacts/jacob-herrle|Jacob Herrle]]
+
 RADIOLOGY
 ASSOCIATES RADIOLOGY ASSOCIATES OF NORTHERN KENTUCKY
 2 MERIDIAN BLVD

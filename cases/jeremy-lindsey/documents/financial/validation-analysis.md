@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:865d9216d786d0c121bf7783b6a0103199f531418b339ceaa0de6881fe099694
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 VALIDATION ANALYSIS FOR JEREMY-LINDSEY-MVA-[DOB-1]
 =====================================================
 

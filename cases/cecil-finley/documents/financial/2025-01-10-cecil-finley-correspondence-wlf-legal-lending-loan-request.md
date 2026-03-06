@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:55b88292113cf20dbd6b22aab47e63a41544c0e55f8b10970ad10d66403585b4
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 Subject: Cecil Finley Legal Lending Request - Companion Recvd Check Recently
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1], [EMAIL-2]

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmon
 source_hash: sha256:d517c3ed19e2bc0f304707ba4bb48f3dfe91f7d00d68ae3d5bc9e0c210e74a03
 ---
 
+**Case:** [[cases/julmonzhae-moore/julmonzhae-moore|Julmonzhae Moore]]
+**Client:** [[cases/julmonzhae-moore/contacts/julmonzhae-moore|Julmonzhae Moore]]
+
 October 25, 2024
 Whaley Law Firm
 712 Lyndon Ln

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:6955ad1713255c0b5609cf873d12db1c52f92368160600b43d1ed1e89b4a06d9
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: medical_records
 extraction.date: 2024-11-14
 extraction.description: Medical records from X-Ray Associates of Louisville for Wayne Weber (set 2).

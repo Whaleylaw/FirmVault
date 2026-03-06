@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:07fb4bb6129d7a640b68d7e62b33c95c2855efb2c9b9a6b86977e1181fa34bdc
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 case_folder: Wayne-Weber-MVA-[DOB-1]
 job_id: 06ad0e6a-8a97-4be8-ae38-4ebcb91f6701
 phases.extraction.completed_at: 2026-02-04T13:25:28.728585

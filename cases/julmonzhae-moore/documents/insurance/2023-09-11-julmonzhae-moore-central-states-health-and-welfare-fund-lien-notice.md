@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmon
 source_hash: sha256:1710cd2bf41a79d6f5785c6d45a288458435e731816ac1e2892b71e50eb7c722
 ---
 
+**Case:** [[cases/julmonzhae-moore/julmonzhae-moore|Julmonzhae Moore]]
+**Client:** [[cases/julmonzhae-moore/contacts/julmonzhae-moore|Julmonzhae Moore]]
+
 CONFIDENTIAL
 The information contained in this facsimile message is attorney privileged and confidential 
 information intended only for the use of the individual or entity named below. If the reader of 

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:4a447b3ef40b12063666574b301f2326e322f49bb2cb2561c5474d4bb0449870
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 KENTUCKY
 JEFFERSON
 22nd July 4

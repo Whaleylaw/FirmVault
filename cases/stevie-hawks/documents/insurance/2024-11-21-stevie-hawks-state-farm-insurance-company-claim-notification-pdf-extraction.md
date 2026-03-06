@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie
 source_hash: sha256:a34b6a9c6ba453cd22a1cdc4b28a6de73306856911397a6213759c91213f0477
 ---
 
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 category: Insurance
 date: 2024-11-21
 description: Letter of representation to State Farm regarding claim 17-Q1275R5 for motor vehicle collision on 3/8/2024, requesting PIP benefits management

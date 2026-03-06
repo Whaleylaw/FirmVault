@@ -4,6 +4,9 @@ document_category: court-filings
 legacy_case_id: 2019-04-26-PrL-001
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-[DOB-1]/Litigation/2019-04-26-Amy-Mills-PLAINTIFFS-RESPONSES-TO-INTERROGATORIES.pdf"
 source_hash: "sha256:91379e3b6ffbe4da592f5e64d41d2f75fefe5b40b16f268e0cd091cc0e0e9593"

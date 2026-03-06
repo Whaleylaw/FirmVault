@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:128b4939325032e81cab8951634005baff5eab5fabad62a8340c7c1dc9e1c0be
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: lien_correspondence
 extraction.date: 2023-12-28
 extraction.description: Medicare lien documentation prepared by The Whaley Law Firm regarding Medicare's conditional payments for Wayne Weber's accident-related medical treatment.

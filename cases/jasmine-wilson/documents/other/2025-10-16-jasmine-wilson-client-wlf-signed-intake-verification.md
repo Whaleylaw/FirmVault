@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jasmin
 source_hash: sha256:c6f6f7e1a5936cd6655a42d5200e74e21b35d9e610ffb2aeb46c8efc9d7f745b
 ---
 
+**Case:** [[cases/jasmine-wilson/jasmine-wilson|Jasmine Wilson]]
+**Client:** [[cases/jasmine-wilson/contacts/jasmine-wilson|Jasmine Wilson]]
+
 Verification Complete
 The document has been officially verified.
 Recipient1

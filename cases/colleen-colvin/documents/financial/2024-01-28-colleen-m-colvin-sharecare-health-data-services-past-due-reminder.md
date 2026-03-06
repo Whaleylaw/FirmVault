@@ -1,8 +1,8 @@
 ---
 case_slug: colleen-colvin
-created_at: 2026-02-16 22:28:16.245000+00:00
+created_at: {}
 document_category: financial
-document_date: 2023-11-30
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2023-10-01-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Colleen-Colvin-MVA-10-01-2023/Billing-Invoices/2024-01-28-Colleen-M-Colvin-Sharecare-Health-Data-Services-Past-Due-Reminder.pdf
 source_hash: sha256:a42b0b5a501a5871f95c21c5de3d0e34df84d34d25124907eb02bbd8a6195a20
+contact: "[[cases/2023-10-01-mva-001/contacts/sharecare]]"
 ---
+
+**Case:** [[cases/colleen-colvin/colleen-colvin|Colleen Colvin]]
+**Client:** [[cases/colleen-colvin/contacts/colleen-colvin|Colleen Colvin]]
+
 
 [DOB-1] 3:07 C[PHONE-8] Health Data Services CRM 1/2
 @sharecare

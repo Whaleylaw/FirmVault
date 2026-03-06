@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:e6bd77693401db5e882cf6fc5e1e1d391383497e1fc8f5dcb862bfa2bae12209
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 ## Sheet1
 
 | TOTAL MED BILLS |

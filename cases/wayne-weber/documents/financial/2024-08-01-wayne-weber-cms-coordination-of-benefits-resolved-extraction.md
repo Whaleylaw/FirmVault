@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:cba87940ad19f088ef0d352683eadc620b54c7840804e37e6875f61cb58cdb01
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: lien
 extraction.date: 2024-08-01
 extraction.description: CMS coordination of benefits resolved for Wayne Weber dated August 1, 2024.

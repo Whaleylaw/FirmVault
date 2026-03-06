@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ceceli
 source_hash: sha256:777e3b430cce44b53fb1aa539bd9452ca4e4597b04d5b63f30bc82587ad60f55
 ---
 
+**Case:** [[cases/cecelia-neltner/cecelia-neltner|Cecelia Neltner]]
+**Client:** [[cases/cecelia-neltner/contacts/cecelia-neltner|Cecelia Neltner]]
+
 COMMONWEALTH OF KENTUCKY
 BOONE CIRCUIT COURT
 DIVISION II

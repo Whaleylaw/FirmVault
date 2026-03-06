@@ -4,6 +4,9 @@ document_category: legal
 legacy_case_id: 2023-04-01-MVA-002
 ---
 
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-Neltner-MVA-4-1-2023/Legal-Documents/Discovery/2024-01-19-Greg-Neltner-Plaintiffs-Answers-to-Interrogatories.pdf"
 source_hash: "sha256:46958e1e337148b3cd876474c791702330d9058e679eac94d10a[PHONE-6]db"

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:7e8fb25ce9b575a5257a2072cd8612d926791deb97b283c07ad345b704544606
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: client_communication
 extraction.date: 2024-07-22
 extraction.description: Reply from Sarena Tuttle to Wayne Weber confirming that attorney Bryce Koon has everything needed for the 11-page discovery requests. Only an updated Medical Authorization is required. Email advises DocuSign will be resent and to check spam folder.

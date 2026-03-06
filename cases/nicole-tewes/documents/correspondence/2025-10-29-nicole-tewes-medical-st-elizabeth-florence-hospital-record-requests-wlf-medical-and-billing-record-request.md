@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nicole
 source_hash: sha256:76bf3cdbc34b2ecf587da2d7fa0d071d02d86713d14c60d040c5a224255c249a
 ---
 
+**Case:** [[cases/nicole-tewes/nicole-tewes|Nicole Tewes]]
+**Client:** [[cases/nicole-tewes/contacts/nicole-tewes|Nicole Tewes]]
+
 Aaron G. Whaley, Esq.
 THE 712 Lyndon Lane HALEY Louisville, KY 40222
 Ph: [PHONE-1]

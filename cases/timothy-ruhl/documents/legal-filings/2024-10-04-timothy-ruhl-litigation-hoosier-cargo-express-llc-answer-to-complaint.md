@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:93e490d34bceb929d383c71d727a6669b9d2c885ac07b6dbd482d01e9f7f95dc
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 CASE NO. 24-CI-005896 JEFFERSON CIRCUIT COURT
  DIVISION NINE (9)
  HON. SARAH E. CLAY, JUDGE

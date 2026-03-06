@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:a3f3eef6c3ea1a190cf936088f1f7e2ce9ce8b9276a1e2395e333602fb444651
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 , \ am
 
 Iv-pD# [PHONE-2]

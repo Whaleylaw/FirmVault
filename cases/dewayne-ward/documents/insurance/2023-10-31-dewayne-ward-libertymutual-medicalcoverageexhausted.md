@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dewayn
 source_hash: sha256:cbd2401f3ec88d46f7213f87ecd0b9104933e56079ab1bfa4340828ef18e0cf9
 ---
 
+**Case:** [[cases/dewayne-ward/dewayne-ward|Dewayne Ward]]
+**Client:** [[cases/dewayne-ward/contacts/dewayne-ward|Dewayne Ward]]
+
 Liberty Mutual Personal Insurance Company
 P.O. Box 5014
 Scranton PA 18505-5014

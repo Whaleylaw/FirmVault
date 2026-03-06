@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Leanor
 source_hash: sha256:d06623fb3c749ffc37cbd0e9823be319def160e5d5b366b8314fbeff5e3d1620
 ---
 
+**Case:** [[cases/leanora-brown/leanora-brown|Leanora Brown]]
+**Client:** [[cases/leanora-brown/contacts/leanora-brown|Leanora Brown]]
+
 Louisville Metro EMS
 P.O. Box 34338
 Louisville, KY 40232-4338

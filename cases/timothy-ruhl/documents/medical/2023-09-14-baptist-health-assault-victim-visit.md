@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2023-09-14-PrL-001
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timothy-Ruhl-Premise-[DOB-1]/Medical-Records/2023-09-14-Baptist-Health-Assault-Victim-Visit.pdf"
 source_hash: "sha256:0c46bfdc6bf2bbfa4b5578f18c4d1d45994399e4e854cd72f91da4106fb4a9d4"

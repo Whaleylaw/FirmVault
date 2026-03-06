@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-
 source_hash: sha256:d670936841ba8c665a14bd402178920f9a934d497c80148ca9cfe1821c28cfc9
 ---
 
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 item_0.jsonb_agg[0].address: 1001 McClanahan Ln, Lexington, KY 40509
 item_0.jsonb_agg[0].email: [EMAIL-10]
 item_0.jsonb_agg[0].full_name: Caryn McCay

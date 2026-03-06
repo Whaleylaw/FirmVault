@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:761fe79ac35caf687adb940aa0e7bbdd817415cebc96f8c2c3ec8375bc72137c
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: investigation
 extraction.date: 2022-01-01
 extraction.description: Louisville Metro Police traffic collision report for Wayne Weber dated January 1, 2022.

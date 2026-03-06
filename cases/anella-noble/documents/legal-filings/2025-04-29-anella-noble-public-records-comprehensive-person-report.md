@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:50dc57962f340555375c5390feab7e8177019fc92d9e5f5c8c31035870c4eceb
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 © LexisNexis
 Search: Public Records : SmartLinx® Comprehensive Person Report
 Terms: first-name(Malea) last-name(Burres) middle-name(D) city(Louisville) state(KY) jurisdiction(ALL)

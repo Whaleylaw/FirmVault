@@ -1,11 +1,10 @@
 ---
 case_slug: destiny-adkins
-created_at: 2026-02-16 23:26:20.517000+00:00
+created_at: {}
 document_category: court-filings
-document_date: 2021-04-16
+document_date: {}
 document_type: court_filing
-entities:
-- Allstate
+entities: null
 extraction_method: native_text
 legacy_case_id: 2021-04-16-MVA-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Destiny-Adkins-MVA-04-16-2021/Legal-Documents/Pleadings/2022-07-14-Destiny-Adkins-Allstate-Insurance-Company-Answer-to-Complaint.pdf
 source_hash: sha256:a981ad246bc89b984cef74809b3eb8915bffd9ce4b8e9609001fbc3e2e817247
+contact: "[[cases/2021-04-16-mva-001/contacts/allstate-insurance]]"
 ---
+
+**Case:** [[cases/destiny-adkins/destiny-adkins|Destiny Adkins]]
+**Client:** [[cases/destiny-adkins/contacts/destiny-adkins|Destiny Adkins]]
+
 
 NO. 22-CI-002878 JEFFERSON CIRCUIT COURT
 DIVISION 1

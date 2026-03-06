@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:16222dda4c6e997dab4fd13c56324766e74cbd57e67a401279cf9ed24c051159
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: settlement
 date: 2025-03-21
 description: Bodily injury settlement offer letter from Progressive Insurance offering $50,000 policy limit to be distributed among all injured parties

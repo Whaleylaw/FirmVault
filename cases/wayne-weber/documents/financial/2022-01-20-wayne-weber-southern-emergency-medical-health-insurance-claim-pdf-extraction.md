@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:00e40692a0c239d816e88be6bfec917acda8974e39d6ec80d93d827d80d48fbc
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: medical_bills
 extraction.date: 2022-01-20
 extraction.description: Health insurance claim form for Southern Emergency Medical services provided to Wayne Weber.

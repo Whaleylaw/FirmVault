@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:5ca537be01510d9543d8d9bb5f968266069dd4fc88450db895704745bf373e90
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 category: Investigation
 description: Medical authorization for PEOPLENET records
 entities[0]: Alma Socorro Cristobal Avendaño

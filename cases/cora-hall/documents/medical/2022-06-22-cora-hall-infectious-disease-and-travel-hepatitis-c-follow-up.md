@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:0be4cceba89e3cebfe8e3fe63419381e4e504f3ead2a9f38d88864f0d225be0e
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 Page 1 of 5
 Infectious Disease And Travel
 720 Second Ave, Ste 307

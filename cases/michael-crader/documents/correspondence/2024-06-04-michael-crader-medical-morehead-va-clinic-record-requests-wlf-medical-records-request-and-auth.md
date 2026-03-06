@@ -4,6 +4,9 @@ document_category: correspondence
 legacy_case_id: 2023-05-19-MVA-001
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michael-Crader-MVA-5-19-2023/Medical/Morehead VA Clinic/Record Requests/2024-06-04-Michael-Crader-Medical-Morehead VA Clinic-Record-Requests-WLF-Medical-Records-Request-and-Auth.pdf"
 source_hash: "sha256:1d7be782e382eddb76b5130ad07880af01e9048c4a7017dd2be585c9c83ead00"

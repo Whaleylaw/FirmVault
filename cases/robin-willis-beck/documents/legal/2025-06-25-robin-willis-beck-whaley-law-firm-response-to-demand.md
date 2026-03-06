@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:d6704515c8ca882dc03862d05d4b7d63c1a3a0b395ec672fc2a1b048d2b895f4
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 730 W Main St, Ste 300 | Louisville, KY 40202
 Tel: [PHONE-13] | Fax: [PHONE-12]
 www.reminger.com

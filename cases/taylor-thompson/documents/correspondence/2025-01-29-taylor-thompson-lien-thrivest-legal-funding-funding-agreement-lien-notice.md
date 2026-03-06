@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor
 source_hash: sha256:be28cc159b867ffeb327a560acef77b0d3601bc055eb657f3bba59ab3ab76cfa
 ---
 
+**Case:** [[cases/taylor-thompson/taylor-thompson|Taylor Thompson]]
+**Client:** [[cases/taylor-thompson/contacts/taylor-thompson|Taylor Thompson]]
+
 Subject: *EXT*Please Save The Lien For Taylor Thompson
 From: [EMAIL-1]
 To: [EMAIL-2], [EMAIL-3]

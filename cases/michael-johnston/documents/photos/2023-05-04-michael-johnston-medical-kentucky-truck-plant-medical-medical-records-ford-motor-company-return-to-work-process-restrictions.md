@@ -1,6 +1,6 @@
 ---
 case_slug: michael-johnston
-created_at: 2026-02-17 00:07:05.274000+00:00
+created_at: {}
 document_category: photos
 document_type: photo
 extraction_method: image_proxy
@@ -8,11 +8,14 @@ legacy_case_id: 2023-05-03-OTH-001
 mime_type: image/jpeg
 page_count: 1
 quality_score: 70
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michael-Johnston-WC-05-03-2023/Medical/Kentucky
-  Truck Plant Medical/Medical Records/2023-05-04-Michael-Johnston-Medical-Kentucky
-  Truck Plant Medical-Medical-Records-Ford-Motor-Company-Return-To-Work-Process-Restrictions.jpg
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michael-Johnston-WC-05-03-2023/Medical/Kentucky Truck Plant Medical/Medical Records/2023-05-04-Michael-Johnston-Medical-Kentucky Truck Plant Medical-Medical-Records-Ford-Motor-Company-Return-To-Work-Process-Restrictions.jpg
 source_hash: sha256:6cc76cdc57452d27a70c167d3a63a985672b57ce95a577f719480af9e048ca0e
+contact: "[[cases/2023-05-03-oth-001/contacts/kentucky-truck-plant-medical]]"
 ---
+
+**Case:** [[cases/michael-johnston/michael-johnston|Michael Johnston]]
+**Client:** [[cases/michael-johnston/contacts/michael-johnston|Michael Johnston]]
+
 
 # Image Document
 

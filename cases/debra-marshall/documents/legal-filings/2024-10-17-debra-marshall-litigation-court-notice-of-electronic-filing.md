@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:a1424a004e236474ee39d62e9fea3282c9bed634b8d92e8f2b4b6d4efd76e6b3
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 Subject: NEF, BARREN 23-CI-00659, MARSHALL, DEBRA VS. REED, JASMINE Envelope # 9060669
 From: [EMAIL-5]
 To: [EMAIL-4], SARENA@WHALEYLAWFIRM.COM, [EMAIL-3]

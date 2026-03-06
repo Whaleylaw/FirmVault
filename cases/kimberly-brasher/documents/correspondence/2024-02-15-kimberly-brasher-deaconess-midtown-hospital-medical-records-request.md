@@ -1,11 +1,10 @@
 ---
 case_slug: kimberly-brasher
-created_at: 2026-02-17 00:02:21.468000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1973-03-25
+document_date: {}
 document_type: correspondence
-entities:
-- Deaconess Midtown Hospital
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-02-25-PrL-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimberly-Brasher-Premise-2-25-2023/Medical/2024-02-15-Kimberly-Brasher-Deaconess-Midtown-Hospital-Medical-Records-Request.pdf
 source_hash: sha256:668136e8d9d9ee4537a877aae83a5f17e95513db16a1b5129d72861789f08f93
+contact: "[[cases/2023-02-25-prl-001/contacts/deaconess-midtown-hospital]]"
 ---
+
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

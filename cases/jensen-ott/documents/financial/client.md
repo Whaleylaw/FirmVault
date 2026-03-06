@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jensen
 source_hash: sha256:23f86b993bbf82cc8676c02962a337b518d913d9f6e59f13b1b01d7b3a3a90df
 ---
 
+**Case:** [[cases/jensen-ott/jensen-ott|Jensen Ott]]
+**Client:** [[cases/jensen-ott/contacts/jensen-ott|Jensen Ott]]
+
 date_of_birth: [DOB-1]
 imported_at: 2026-02-16T21:09:42.780Z
 name: Jensen Ott

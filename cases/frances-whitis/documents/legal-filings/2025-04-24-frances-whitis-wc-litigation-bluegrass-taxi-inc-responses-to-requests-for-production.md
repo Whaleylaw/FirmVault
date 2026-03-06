@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/France
 source_hash: sha256:9ed6ec6b19fa8d659d77c7e77c1358ac601e78bbc134396028ce0ebbcf138fff
 ---
 
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 COMMONWEALTH OF KENTUCKY OFFICE OF WORKERS’ CLAIMS CLAIM NO. 2024-01285
 
 BEFORE: HON. GREG ALLEN, ALJ [Electronically Filed]

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:58f455b065bc8b7f9d79b4a57f4df53c081daab56dff98f98c561c577cf51eae
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 Certificate Of Completion
 Envelope Id: 92463950-7895-43C9-A043-F3D911A25F44 Status: Completed
 Subject: The Whaley Law Firm has requested your signature. Follow the prompts to execute the attached. 

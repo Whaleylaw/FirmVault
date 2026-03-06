@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:bd6a84017d8b5d78a86fdebbaf6e7c59e57b58e1004824a12b7e55fecc70a4f5
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 AFW : 000001 of 000002 Presiding Judge: HON. SARAH E. CLAY (630456)
 Filed 24-CI-005896 [DOB-6] David L. Nicholson, Jefferson Circuit Clerk
 Filed 24-CI-005896 [DOB-5] David L. Nicholson, Jefferson Circuit Clerk NOT ORIGINAL

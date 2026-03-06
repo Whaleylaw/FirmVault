@@ -1,0 +1,15 @@
+---
+schema_version: 2
+case_id: 9ee8e207-d0bb-412e-b50a-030a60a8f215
+date: "2025-10-29"
+category: correspondence
+---
+
+# correspondence — 2025-10-29
+
+**Case:** [[cases/lejzane-miftari/lejzane-miftari|Lejzane Miftari]]
+**Category:** correspondence
+
+__Lejzane Miftari__
+From: Aaron Whaley [agwhaley@whaleylawfirm.com](mailto:agwhaley@whaleylawfirm.com)
+To: Justin Chumbley [Justin@whaleylawfirm.com](mailto:Justin@whaleylawfirm.com), Lejzane Miftari 

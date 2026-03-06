@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:80de517b473f403d956010465e8f05fdf1766b235ca0db9f8ae3d22c7d1b3c17
 ---
 
+**Case:** [[cases/michael-johnston/michael-johnston|Michael Johnston]]
+**Client:** [[cases/michael-johnston/contacts/michael-johnston|Michael Johnston]]
+
 address: 8723 Running Fox Circle, Louisville, KY 40291
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

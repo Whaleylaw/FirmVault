@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Samuel
 source_hash: sha256:378493a49beefe88c06b00b2cc8f239e2a1550f4bfd5e58ce494c901c47ad6be
 ---
 
+**Case:** [[cases/samuel-clites/samuel-clites|Samuel Clites]]
+**Client:** [[cases/samuel-clites/contacts/samuel-clites|Samuel Clites]]
+
 item_0.extension: .pdf
 item_0.name: 2024-11-04-Samuel-Clites-Anthem-Blue-Cross-Blue-Shield-Claims-Itemization.pdf
 item_0.path: 2024-11-04-Samuel-Clites-Anthem-Blue-Cross-Blue-Shield-Claims-Itemization.pdf

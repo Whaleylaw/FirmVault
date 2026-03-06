@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:cc8a5bfc4e3b2c39b9e7282cf4c17204fc55e16978250d0770d3ff83dd0c9304
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 6) UnitedHealthcare UnitedHealthcare
 Golden Rule Insurance Co. Choice Plus
 Health Plan (80840) 911-37602-08

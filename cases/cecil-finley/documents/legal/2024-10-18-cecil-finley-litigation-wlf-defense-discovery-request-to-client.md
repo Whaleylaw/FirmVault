@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:12214349387e25ba58921e8a600fc1f338d07667a067628c94c84f519916be6b
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 Subject: The Defense Counsel's Discovery Request
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

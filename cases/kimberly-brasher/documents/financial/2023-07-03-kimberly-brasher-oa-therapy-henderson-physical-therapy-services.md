@@ -1,10 +1,9 @@
 ---
 case_slug: kimberly-brasher
-created_at: 2026-02-17 00:02:15.270000+00:00
+created_at: {}
 document_category: financial
 document_type: financial
-entities:
-- Lesley Buley
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-02-25-PrL-001
 mime_type: application/pdf
@@ -12,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimberly-Brasher-Premise-2-25-2023/Medical/2023-07-03-Kimberly-Brasher-OA-Therapy-Henderson-Physical-Therapy-Services.pdf
 source_hash: sha256:3fe94a3f3c406a3c989e5422b623b7634b6176c3be8a9f6e1ac0a5f983834210
+contact: "[[cases/2023-02-25-prl-001/contacts/oa-therapy]]"
 ---
+
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 
 Goss PER
 Name: Brasher, Kimberly K. OA Therapy, LLC

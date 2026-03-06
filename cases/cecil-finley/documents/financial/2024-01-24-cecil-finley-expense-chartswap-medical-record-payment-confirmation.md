@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:4ea98147c11397d73c3f219c018bfc500977e635958a299aa22ef6be0164eaf0
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 Subject: ChartSwap Payment Confirmation
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Collee
 source_hash: sha256:8698ebefad7f2c58013e8d5af831a4b775a334ada0b2ec0c2eff908e28b3d28f
 ---
 
+**Case:** [[cases/colleen-colvin/colleen-colvin|Colleen Colvin]]
+**Client:** [[cases/colleen-colvin/contacts/colleen-colvin|Colleen Colvin]]
+
 Providing Insurance and Financial Services Cy
 Home Office, Bloomington, IL Se State Fiarm
 December 29, 2023

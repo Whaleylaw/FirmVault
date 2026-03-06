@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:86bae85d86bfb1ead00f23e20f7ccb0195e31b117264ab1c83cc1934e7dc0fd3
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 Subject: Patient History from Jefferson Animal Hospitaland Regional Emergency Center for Patient: Rory (1132884), Client: Jerome Hedinger.
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

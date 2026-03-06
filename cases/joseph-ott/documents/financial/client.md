@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Joseph
 source_hash: sha256:49ce1ac9af3acd30f20482fff2abfab14ab991bd429b0d4bb75e7b4ff1cf4806
 ---
 
+**Case:** [[cases/joseph-ott/joseph-ott|Joseph Ott]]
+**Client:** [[cases/joseph-ott/contacts/joseph-ott|Joseph Ott]]
+
 address: 3820 leland Rd, Apt 1, Louisville, KY 40207
 date_of_birth: [DOB-1]
 imported_at: 2026-02-16T21:09:42.781Z

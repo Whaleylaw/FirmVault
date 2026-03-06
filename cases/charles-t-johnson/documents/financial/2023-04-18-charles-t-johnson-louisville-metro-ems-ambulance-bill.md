@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:613fec264dbabc1a8fab34e93b503ec09cc77e4ec9ce47db46939a533da43c18
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 Louisville Metro EMS IF PAYING BY MASTERCARD, DISCOVER OR VISA
 P.O. Box 34338 . Sianeesia es
 Louisville, KY 40232-4338 ~se| Discover VISA| visa

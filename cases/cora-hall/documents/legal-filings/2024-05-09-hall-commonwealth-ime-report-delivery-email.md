@@ -1,6 +1,6 @@
 ---
 case_slug: cora-hall
-created_at: 2026-02-16 22:37:02.860000+00:00
+created_at: {}
 document_category: court-filings
 document_type: court_filing
 extraction_method: native_text
@@ -10,7 +10,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-Hall-WC-12-05-2022/Correspondence/2024.05.09-Hall-Commonwealth-IME-Report-Delivery-Email.eml
 source_hash: sha256:3deb058ead2e38da4736ea5443ab67e37f2dd4137699a90993c2aec1d603082a
+contact: "[[cases/2022-12-05-oth-001/contacts/commonwealth-ime]]"
 ---
+
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 
 Subject: Hall
 From: [EMAIL-1]

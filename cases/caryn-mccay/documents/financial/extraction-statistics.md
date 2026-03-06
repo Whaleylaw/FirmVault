@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-
 source_hash: sha256:e9b8b69a319a234e507671c4c63d6cf970b6baf2fc350516507e9a5a7241a98e
 ---
 
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 category_distribution.correspondence.correspondents[0]: Whaley Law Firm
 category_distribution.correspondence.correspondents[1]: Insurance companies
 category_distribution.correspondence.count: 12

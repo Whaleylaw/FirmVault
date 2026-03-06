@@ -1,21 +1,23 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:48:54.190000+00:00
+created_at: {}
 document_category: medical
-document_date: 2022-04-26
+document_date: {}
 document_type: medical
-entities:
-- Dr. Gregory Nazar
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: message/rfc822
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Norton
-  Neuroscience Institute Brownsboro/Record Requests/2022-04-26-Amy-Mills-Medical-Norton
-  Neuroscience Institute Brownsboro-Record-Requests-Client-Email-Regarding-Neurosurgery-Appointment.eml
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Norton Neuroscience Institute Brownsboro/Record Requests/2022-04-26-Amy-Mills-Medical-Norton Neuroscience Institute Brownsboro-Record-Requests-Client-Email-Regarding-Neurosurgery-Appointment.eml
 source_hash: sha256:ee4c69fb244adf4fe915637bffc50da310bd3adb551532038021163ccec87391
+contact: "[[cases/2019-04-26-prl-001/contacts/norton-neuroscience-institute-brownsboro]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 Subject: Re: NeuroSurgery Appointment
 From: [EMAIL-1]

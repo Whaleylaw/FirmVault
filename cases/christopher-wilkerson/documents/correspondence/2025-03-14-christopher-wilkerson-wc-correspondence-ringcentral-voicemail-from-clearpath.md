@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:c2bd721fdf0a1ae1e30c88ae705722add80fa03ea0438e1c6d030a6f05a5dacf
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 Subject: New Voice Message from CLEARPATH [PHONE-6] on [DOB-2] 3:16 PM
 From: [EMAIL-3]
 To: Sarena@whaleylawfirm.com

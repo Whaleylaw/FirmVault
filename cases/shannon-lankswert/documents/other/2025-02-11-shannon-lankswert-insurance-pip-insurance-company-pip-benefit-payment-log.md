@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:88a0ac001479819c9640d1bd2587529d103064ce900ca5efe4d04cfab3084193
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 LnNo Payee IndCode FromDate ThruDate Dys Ls WklyRate Charge
 1 CLT 10 3/25/2025 3/31/2025 7 N 1007.85 1007.85
 2 CLT 10 3/18/2025 3/24/2025 7 N 1007.85 1007.85

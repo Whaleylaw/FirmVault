@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jaysha
 source_hash: sha256:a70204c3c5747aa8bd8c7dd2f25ad862f4da7bb1feb62e01cd8d8ac66c3714a5
 ---
 
+**Case:** [[cases/jaysha-aponte/jaysha-aponte|Jaysha Aponte]]
+**Client:** [[cases/jaysha-aponte/contacts/jaysha-aponte|Jaysha Aponte]]
+
 Justin Chumbley
 WHALEY
 April 16, 2025

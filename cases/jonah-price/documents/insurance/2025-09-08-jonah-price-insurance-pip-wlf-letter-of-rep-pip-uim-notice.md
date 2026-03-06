@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jonah-
 source_hash: sha256:17aaeae618431d15cda24358dbf9ba3692e26343bec0b657c7ba66e3fac7f0ba
 ---
 
+**Case:** [[cases/jonah-price/jonah-price|Jonah Price]]
+**Client:** [[cases/jonah-price/contacts/jonah-price|Jonah Price]]
+
 Justin Chumbley 
 Justin Chumbley
 NN Aaron G. Whaley, Esq.

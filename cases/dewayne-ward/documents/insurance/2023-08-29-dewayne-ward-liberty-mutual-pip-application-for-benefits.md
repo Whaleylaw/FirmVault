@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dewayn
 source_hash: sha256:6d22a954beb8e3dabf96d2045329003351d2ec1d2759924efda1626ae5d47d79
 ---
 
+**Case:** [[cases/dewayne-ward/dewayne-ward|Dewayne Ward]]
+**Client:** [[cases/dewayne-ward/contacts/dewayne-ward|Dewayne Ward]]
+
 Explanation of Benefits
 The following explains benefits available to you.
 Your Coverage Personal Injury Protection Coverage is intended to cover medical expenses 

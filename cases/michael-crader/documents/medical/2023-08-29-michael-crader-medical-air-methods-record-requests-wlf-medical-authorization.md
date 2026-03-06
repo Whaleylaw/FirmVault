@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:72604b36ce88bcaf6977951d375fae18898f6ed223bb674cdaa3e1e301df32f1
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 Air Methods Corporation
 Air Ambulance Service – Rocky Mountain Holdings
 P.O. Box 713375

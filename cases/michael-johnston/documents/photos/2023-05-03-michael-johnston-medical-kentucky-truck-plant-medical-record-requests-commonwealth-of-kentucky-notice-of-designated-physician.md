@@ -1,6 +1,6 @@
 ---
 case_slug: michael-johnston
-created_at: 2026-02-17 00:07:05.731000+00:00
+created_at: {}
 document_category: photos
 document_type: photo
 extraction_method: image_proxy
@@ -8,11 +8,14 @@ legacy_case_id: 2023-05-03-OTH-001
 mime_type: image/jpeg
 page_count: 1
 quality_score: 70
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michael-Johnston-WC-05-03-2023/Medical/Kentucky
-  Truck Plant Medical/Record Requests/2023-05-03-Michael-Johnston-Medical-Kentucky
-  Truck Plant Medical-Record-Requests-Commonwealth-of-Kentucky-Notice-of-Designated-Physician.jpg
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michael-Johnston-WC-05-03-2023/Medical/Kentucky Truck Plant Medical/Record Requests/2023-05-03-Michael-Johnston-Medical-Kentucky Truck Plant Medical-Record-Requests-Commonwealth-of-Kentucky-Notice-of-Designated-Physician.jpg
 source_hash: sha256:dd60cf5ee41df6a3c2b0398cc270df5cad542d4e2596a4c13a9db08b95218d36
+contact: "[[cases/2023-05-03-oth-001/contacts/kentucky-truck-plant-medical]]"
 ---
+
+**Case:** [[cases/michael-johnston/michael-johnston|Michael Johnston]]
+**Client:** [[cases/michael-johnston/contacts/michael-johnston|Michael Johnston]]
+
 
 # Image Document
 

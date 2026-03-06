@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:06e16837c7e7f7dcd24b93880ec7aaf373029901ea5985deb07cca9199e0cf81
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 CERTIFICATION
 PATIENT’S FULL NAME: James Kiper
 DOB: 4/29/1976 _ _

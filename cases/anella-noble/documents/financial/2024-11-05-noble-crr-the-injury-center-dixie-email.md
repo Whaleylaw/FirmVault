@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:4b15ef629c4f82d505e61832b4d4139a6256388dcddb30738f05a40cbd0e8f91
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: Certified Medical Records & Billing Request - Anella Noble [DOB-1]
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

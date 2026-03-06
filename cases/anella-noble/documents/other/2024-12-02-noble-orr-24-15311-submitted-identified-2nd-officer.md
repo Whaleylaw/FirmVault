@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:e1c6f7b8ce20a4c0b0d7158c8778b37c124a07173a5ce061dd41dea149626330
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: Your Louisville Metro Government public records request #24-15311 has been submitted.
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

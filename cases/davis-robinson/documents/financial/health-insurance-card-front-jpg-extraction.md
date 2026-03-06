@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-
 source_hash: sha256:78142f5eeba6993dacd0ed494b6515711c64cc5a26a9dc7506b2580a0d7c357d
 ---
 
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 category: client_document
 date: 2025-05-02
 description: Front of Davis Robinson's health insurance card showing Anthem Blue Cross Blue Shield information.

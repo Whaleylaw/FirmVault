@@ -1,8 +1,8 @@
 ---
 case_slug: robin-willis-beck
-created_at: 2026-02-17 00:16:47.852000+00:00
+created_at: {}
 document_category: insurance
-document_date: 2023-09-21
+document_date: {}
 document_type: insurance
 extraction_method: native_text
 legacy_case_id: 2023-09-21-PrL-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-Willis-Beck-Premise-09-21-2023/Insurance/2024-08-09-Robin-Willis-Beck-The-Phia-Group-Subrogation-reimbursement-recovery.pdf
 source_hash: sha256:a79d48b5054cec5b1ea7ce99fbffb0ac559ded15782dba754f05f18248d4d3df
+contact: "[[cases/2023-09-21-prl-001/contacts/the-phia-group]]"
 ---
+
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 
 From: Phia Fax: [PHONE-1] To: Fax: [PHONE-45] Page: 1 of 3 [DOB-3] 4:05 PM
 THE

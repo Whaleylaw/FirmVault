@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:87f00be021640509c27f889aae6d0bb09859114504a2c92382530a173f1a3274
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Oct. 16.2623
 13-Oct-2023 16:04
 1:04PM Dr lye

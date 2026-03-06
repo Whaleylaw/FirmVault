@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:1d9892a1f1fe6fb04a5c06d47c1c357eefa2dac6e31ba2103336299aef6db5af
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 Subject: Your Deposition Transcripts
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

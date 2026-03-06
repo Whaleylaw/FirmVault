@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:3b08dbba71bd876830c4cc10f5c1127c8485cfe6e19f4f30678cb6feda6a3567
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 PROGRESSIVE CLAIMS PROGRE [ UE ° PO BOX 94670 CLEVELAND, OH 44101-9919 Underwritten by: Progressive Direct Insurance Company Claim Number: 24-[POLICY-1]
 
 Whaley Law Firm Loss Date: December 1, 2024

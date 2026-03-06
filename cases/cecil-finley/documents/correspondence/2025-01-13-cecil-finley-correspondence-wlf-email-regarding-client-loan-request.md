@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:715ff46bb0f929f309dbc3ead17c7d5ef0422bbf4bcc6d3a5496ffd0ec1a9106
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 Subject: Re: Cecil Finley
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

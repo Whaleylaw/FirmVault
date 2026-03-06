@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:abf5f4025a7a1d3da8f9767a877f1bf553e43724366bcca8626a0a3b76ad210c
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: medical_requests
 extraction.date: 2023-11-06
 extraction.description: Louisville Metro EMS HIPAA Authorization for Wayne Weber dated November 6, 2023.

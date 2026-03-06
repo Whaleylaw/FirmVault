@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:b5d116ae1ddbb2823daa7d0e7b2035762c3afef8f3af5e376d1fbea5f6c793f8
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: insurance
 date: 2025-01-15
 description: Subrogation notice from Rawlings Company for BCBS of NC regarding Elizabeth Lindsey's health plan benefits, reference 157804594, accident date [DOB-1]

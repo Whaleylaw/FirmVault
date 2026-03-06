@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:773a03121be21f5c6e58a08e56a1e4ca3add7153ee11c6e379e3e2bc0a2dc358
 ---
 
+**Case:** [[cases/james-lanier/james-lanier|James Lanier]]
+**Client:** [[cases/james-lanier/contacts/james-lanier|James Lanier]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Lanier-MVA-6-28-2025/Medical/St. Elizabeth Florence Hospital/Medical Bills/2023-08-11-James-Lanier-Medical-St. Elizabeth Florence Hospital-Medical-Bills-St-Elizabeth-Medical-Billing-Banner-Page.jpg

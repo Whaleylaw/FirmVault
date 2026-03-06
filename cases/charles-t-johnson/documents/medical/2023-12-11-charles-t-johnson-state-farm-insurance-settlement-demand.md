@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2023-04-18-MVA-001
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charles-T-Johnson-MVA-4-18-2023/Correspondence/2023-12-11-Charles-T-Johnson-State-Farm-Insurance-Settlement-Demand.pdf"
 source_hash: "sha256:b185c2811f22ca05aa981c9dfd50279d5f2afbc91f4c5182e9f49afb3e6b1e64"

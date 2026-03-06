@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Elizab
 source_hash: sha256:ab4240daa199de563d98cdc92b6145cfa945b742135f06d9dc538de4299f109b
 ---
 
+**Case:** [[cases/elizabeth-lindsey/elizabeth-lindsey|Elizabeth Lindsey]]
+**Client:** [[cases/elizabeth-lindsey/contacts/elizabeth-lindsey|Elizabeth Lindsey]]
+
 Vinesign Document ID: 3BC57897-90C6-4903-8180-098D45CAFB50
 
 Affidavit

@@ -21,6 +21,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:ec8d4dce6c3e15cf54dfd183d15fac869a2f6e0bb73455a4b0bad450dca4c25a
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 case_name: Wayne Weber MVA [DOB-1]
 mappings[0].action: MOVE
 mappings[0].category: vehicle_information

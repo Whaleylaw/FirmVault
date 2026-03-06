@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dewayn
 source_hash: sha256:c75c6bd0b07ed92ec952597a8cc3c6ecdea0d833826ccd3754e111daaa4a61bf
 ---
 
+**Case:** [[cases/dewayne-ward/dewayne-ward|Dewayne Ward]]
+**Client:** [[cases/dewayne-ward/contacts/dewayne-ward|Dewayne Ward]]
+
 STATE OF INDIANA)IN THE FLOYD COUNTY SUPERIOR COURT
 
 )SS:

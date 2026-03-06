@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/France
 source_hash: sha256:5b710d309d409d567aa78e11d75809acaaab71d551fe25f90ee649a4ad7a24ed
 ---
 
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 712 Lyndon Lane, Louisville, KY 40222
 Sarena Tuttle on behalf of The Whaley Law Firm
 [PHONE-1]

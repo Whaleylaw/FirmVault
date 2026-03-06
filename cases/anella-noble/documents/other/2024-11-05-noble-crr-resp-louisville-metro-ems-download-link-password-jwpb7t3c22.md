@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:05cd35b301e0656d64b5f1a8a3abc10402f8a7f87d7ea1002c633e9748e71d44
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: Secure File Transfer from Louisville Metro Government
 From: [EMAIL-2]
 To: sarena@whaleylawfirm.com

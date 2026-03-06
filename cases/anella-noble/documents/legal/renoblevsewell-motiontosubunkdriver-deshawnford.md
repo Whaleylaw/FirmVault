@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:2c260d5aa75162eb3c4825a3679534cacb1d069107d6bdc6c96100147c161e2c
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: Re: Noble v Sewell - Motion to Sub Unk Driver - Deshawn Ford
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

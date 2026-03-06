@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Destin
 source_hash: sha256:89fe9f775f679833e796c54c1bf7d87d14eef316af62e3cadd877df749b5ae2b
 ---
 
+**Case:** [[cases/destiny-adkins/destiny-adkins|Destiny Adkins]]
+**Client:** [[cases/destiny-adkins/contacts/destiny-adkins|Destiny Adkins]]
+
 | 008148 o08148 1 3 0.0000 0 0 0 C) 0 SIN14 455
 
 CONDUENT

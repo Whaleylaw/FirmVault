@@ -4,6 +4,9 @@ document_category: correspondence
 legacy_case_id: 2021-09-03-MVA-001
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda-Lang-MVA-[DOB-9]/Medical/2024-11-04-Brenda-D-Lang-Norton-Hospital-Record-Request.pdf"
 source_hash: "sha256:823722f80c530f25e2753c413a21c1a5b7c44514bd5943614f5d72049fa431f6"

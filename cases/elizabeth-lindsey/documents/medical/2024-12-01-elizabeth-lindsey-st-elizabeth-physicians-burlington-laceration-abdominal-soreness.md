@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Elizab
 source_hash: sha256:11d2e989fb0d1fa3585dff164aeb443021c88ecdfedc747675915a974f29337c
 ---
 
+**Case:** [[cases/elizabeth-lindsey/elizabeth-lindsey|Elizabeth Lindsey]]
+**Client:** [[cases/elizabeth-lindsey/contacts/elizabeth-lindsey|Elizabeth Lindsey]]
+
 APPLICATION FOR BENEFITS - PERSONAL INJURY PROTECTION
 KENTUCKY 'NO-FAULT'
 IMPORTANT:

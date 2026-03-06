@@ -19,6 +19,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:eb773d861bb29d04580bc6597c0b1f2cc1efef73d6c50fc321c999d0c4a9f499
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 oS
 NOrUCKY ——— COURT REPORTERS
 CIVIL ACTION NO. 23-CI-005509

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:5a7b11c78f4b450db8cd5424e60d4dd29410f652c7ed0dfa98b3db127d992ff2
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 [DOB-1]
 Riverside Orthopedic & Sports Medicine
 825 Second Ave East #C2

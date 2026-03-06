@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:16dba2cc99b500e5fc4ac54c31fe672f72a9ea48fc4dc737d925bc92e1619c04
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 Named Insured: Abdullahi Kassim
 Injured Party: Maryan Kassim
 Claim Number: 24-711062492

@@ -1,11 +1,10 @@
 ---
 case_slug: julmonzhae-moore
-created_at: 2026-02-16 23:59:53.123000+00:00
+created_at: {}
 document_category: insurance
-document_date: 2023-08-28
+document_date: {}
 document_type: insurance
-entities:
-- Liberty Mutual
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-08-29-MVA-003
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmonzhae-Moore-MVA-8-29-2023/Liens/2023-11-28-Julmonzhae-Moore-TeamCare-Medical-Benefits.pdf
 source_hash: sha256:8bd5e79393e7bd96b3d2c5d8a97dd3b109bb30072a8168ae3ca43e8613787951
+contact: "[[cases/2023-08-29-mva-003/contacts/teamcare]]"
 ---
+
+**Case:** [[cases/julmonzhae-moore/julmonzhae-moore|Julmonzhae Moore]]
+**Client:** [[cases/julmonzhae-moore/contacts/julmonzhae-moore|Julmonzhae Moore]]
+
 
 © [DOB-43] 4:23 PM Fax Services ~218882688840 pg lof 8
 TEAMCARE:

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:e49fec2a5767d3347fc8ac21eb4682b40e36899b2eab79f76959b4a3a01f9648
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Subject: Re: NeuroSurgery Appointment
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2021-01-03-MVA-001
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella-Noble-MVA-[DOB-1]/Medical-Records/2021-01-03-Anella-Noble-Baptist-East-Hospital-Emergency-Room-Visit.pdf"
 source_hash: "sha256:84aca690e6c07eebb6121aa52b4095b777ae7b0453cd38cad4a164450669290d"

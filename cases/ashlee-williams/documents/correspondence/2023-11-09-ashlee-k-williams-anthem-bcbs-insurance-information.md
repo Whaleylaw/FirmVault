@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee
 source_hash: sha256:23dfed840876bf15c76b9d1103dbbeb4dd1254701e5e5282aa734d9c95b0427d
 ---
 
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 Aaron G. Whaley, Esq.
 
 712 Lyndon Lane Louisville, KY 40222 IHALEY A L F Y Ph: [PHONE-1] Fax: [PHONE-4] ~~ LAW FIRM November 9, 2023 Anthem BCBS of Tennessee

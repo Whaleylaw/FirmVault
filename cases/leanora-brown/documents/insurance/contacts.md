@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Leanor
 source_hash: sha256:60846473b0989bbd672f24da9811eb2f3f6daffaa4821f7e47d616cf49859622
 ---
 
+**Case:** [[cases/leanora-brown/leanora-brown|Leanora Brown]]
+**Client:** [[cases/leanora-brown/contacts/leanora-brown|Leanora Brown]]
+
 item_0.jsonb_agg[0].address: 3416 Cathe Dykstra Way, Unit 102
 item_0.jsonb_agg[0].full_name: Leanora Brown
 item_0.jsonb_agg[0].phone: [PHONE-5]

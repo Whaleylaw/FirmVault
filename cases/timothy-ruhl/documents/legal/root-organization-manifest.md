@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:7d4b7de74d3fc9b8dc3a23578d31965ab00f31199f6ffe653778ae4f676559ad
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 accident_date: 2023-09-14
 case_type: Premise
 client_name: Timothy-Ruhl

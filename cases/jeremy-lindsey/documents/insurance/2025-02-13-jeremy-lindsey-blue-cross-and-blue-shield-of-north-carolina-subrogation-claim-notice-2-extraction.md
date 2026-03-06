@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:3c1d971a71a385e08fe30c479b82aeb8e64fbaaf8b7c169eaecb7ead79b3281d
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: insurance
 date: 2025-02-13
 description: ERISA self-funded health plan subrogation claim notice for Owen Lindsey, reference 157801066, accident [DOB-1], administered by BCBS of NC

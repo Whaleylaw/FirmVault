@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:08fbecb4c8a8d4cae4c44713cba4136796eb1cfc45270bdf037b069ed0223b40
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 Subject: Your Written Discovery Request from the Defense Counsel
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:0240e97eaf6aac4b0ec8900a2cc87f6fa135abd9d3535c4d0c30411b3f804e54
 ---
 
+**Case:** [[cases/michael-ditto-jr/michael-ditto-jr|Michael Ditto Jr]]
+**Client:** [[cases/michael-ditto-jr/contacts/michael-ditto-jr|Michael Ditto Jr]]
+
 item_0.jsonb_agg[0].address: 9903 Ponder Lane, , Louisville, KY 40272
 item_0.jsonb_agg[0].email: [EMAIL-1]
 item_0.jsonb_agg[0].full_name: Cameal Shanee Stafford

@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Henrie
 source_hash: sha256:88df432492679911a14488be1c269ea130a756e75df18a303d77e52f0972dfa1
 ---
 
+**Case:** [[cases/henrietta-jenkins/henrietta-jenkins|Henrietta Jenkins]]
+**Client:** [[cases/henrietta-jenkins/contacts/henrietta-jenkins|Henrietta Jenkins]]
+
 item_0.author_name: Filevine Integration
 item_0.episode_type: imported
 item_0.last_activity: 2025-11-17T00:00:00

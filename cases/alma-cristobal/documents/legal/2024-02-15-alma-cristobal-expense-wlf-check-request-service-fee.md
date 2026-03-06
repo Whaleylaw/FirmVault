@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:10b6823b353e4341b4a7f0e14e19661af5687097648ac5779b24a1d2c14c3a10
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 Subject: Alma Cristobal - Service - Still in Progress
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

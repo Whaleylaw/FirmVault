@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cynthi
 source_hash: sha256:160b34591c459a05c3d9175f0a2787b87f7af5d44374ef5809081533a83b29cb
 ---
 
+**Case:** [[cases/cynthia-gibson/cynthia-gibson|Cynthia Gibson]]
+**Client:** [[cases/cynthia-gibson/contacts/cynthia-gibson|Cynthia Gibson]]
+
 Policy Number: 391 2784-E26-17B 
 Prepared April 4, 2025 
 Page number 1 of 5 

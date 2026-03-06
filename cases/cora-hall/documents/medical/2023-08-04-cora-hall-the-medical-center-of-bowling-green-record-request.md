@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2022-12-05-OTH-001
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-Hall-WC-[DOB-1]/Medical/2023-08-04-Cora-Hall-The-Medical-Center-of-Bowling-Green-Record-Request.pdf"
 source_hash: "sha256:d8ad7c04d6cd180d91cf2849444a4432533a42590ade1133af78ff5634615b1b"

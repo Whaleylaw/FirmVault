@@ -1,13 +1,10 @@
 ---
 case_slug: robin-willis-beck
-created_at: 2026-02-17 00:17:13.863000+00:00
+created_at: {}
 document_category: medical
-document_date: 1972-12-16
+document_date: {}
 document_type: medical
-entities:
-- Wesley Nathan
-- Wesley Bryson
-- Norton Healthcare
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-09-21-PrL-001
 mime_type: application/pdf
@@ -15,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-Willis-Beck-Premise-09-21-2023/Medical-Records/2024-05-09-Robin-Willis-Beck-NORTON-AUDUBON-HOSPITAL-MRI-ANKLE-WO.pdf
 source_hash: sha256:f787e588ce5e3eedbbd20476a282ef09d8141648c8e5abbc286847ae7f3a42a7
+contact: "[[cases/2023-09-21-prl-001/contacts/norton-audubon-hospital]]"
 ---
+
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 
 NORTON HEALTHCARE
 200 E Chestnut St

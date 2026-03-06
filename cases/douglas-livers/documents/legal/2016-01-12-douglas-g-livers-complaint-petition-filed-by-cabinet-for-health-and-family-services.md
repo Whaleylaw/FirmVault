@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:cf1e176fefa872b8cc45251e04eff59670c2f5ecae3db57bbb51ea17f09ce553
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 Case Memo 16-CI500096
 Parties 16-CI500096
 16-CI-500096

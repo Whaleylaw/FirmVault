@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cynthi
 source_hash: sha256:a12e7798c38ac88a59b028ff27ba5a633402f35e4b392bd88f7350e37a951be8
 ---
 
+**Case:** [[cases/cynthia-gibson/cynthia-gibson|Cynthia Gibson]]
+**Client:** [[cases/cynthia-gibson/contacts/cynthia-gibson|Cynthia Gibson]]
+
 Justin Chumbley
 Aaron G. Whaley, Esq.
 THE 712 Lyndon Lane

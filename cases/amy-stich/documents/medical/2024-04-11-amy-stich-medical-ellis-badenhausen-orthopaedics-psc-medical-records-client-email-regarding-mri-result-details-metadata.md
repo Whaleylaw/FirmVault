@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:f9e1bd79c5350b685c8a0a7858d91090c30d32b4c894b12e94a024a38bd3e7f1
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 content_length_chars: 3262
 document_metadata.attachments[0]: Scan - MRI ELBOW LEFT - Apr 11, 2024.TIF
 document_metadata.created_at: 2024-04-11T19:19:36Z

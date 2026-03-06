@@ -4,6 +4,9 @@ document_category: financial
 legacy_case_id: 2024-01-17-OTH-001
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Stich-WC-[DOB-1]/Medical/Baptist Health Urgent Care/Medical Bills/2024-01-18-Amy-Stich-Medical-Baptist Health Urgent Care-Medical-Bills-Baptist-Health-Itemization-of-Hospital-Services.pdf"
 source_hash: "sha256:d0acca5769abd2b3a9d005db4022966bd1fede9ff5f21b7dc693b5d5dcfbbfc7"

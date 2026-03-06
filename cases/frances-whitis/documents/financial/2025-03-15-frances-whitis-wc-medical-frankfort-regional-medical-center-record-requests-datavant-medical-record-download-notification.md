@@ -1,6 +1,6 @@
 ---
 case_slug: frances-whitis
-created_at: 2026-02-16 23:42:44.165000+00:00
+created_at: {}
 document_category: financial
 document_type: financial
 extraction_method: native_text
@@ -8,11 +8,14 @@ legacy_case_id: 2024-09-06-MVA-001
 mime_type: message/rfc822
 page_count: 1
 quality_score: 90
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Frances-Whitis-WC-MVA-9-6-2024/Medical/Frankfort
-  Regional Medical Center/Record Requests/2025-03-15-Frances-Whitis-WC-Medical-Frankfort
-  Regional Medical Center-Record-Requests-Datavant-Medical-Record-Download-Notification.eml
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Frances-Whitis-WC-MVA-9-6-2024/Medical/Frankfort Regional Medical Center/Record Requests/2025-03-15-Frances-Whitis-WC-Medical-Frankfort Regional Medical Center-Record-Requests-Datavant-Medical-Record-Download-Notification.eml
 source_hash: sha256:3d0e00e49fb3a02331f742947d8fa1c7aac0162ba2973142d47ddf8016a650b4
+contact: "[[cases/2024-09-06-mva-001/contacts/frankfort-regional-medical-center]]"
 ---
+
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 
 Subject: Smart Request Status Notification
 From: [EMAIL-3]

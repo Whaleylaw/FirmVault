@@ -1,27 +1,23 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:48:01.688000+00:00
+created_at: {}
 document_category: medical
-document_date: 1983-12-26
+document_date: {}
 document_type: medical
-entities:
-- Dr. Travis Gilbert
-- Dr. Wo Sd
-- Travis Gilbert
-- Usha Paiil
-- Usha Patil
-- Baptist Regional Medical Center
-- Baptist Regianal Medical Center
-- This Hospital
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Baptist
-  Health Corbin/Medical Records/2011-07-13-Amy-Mills-Medical-Baptist Health Corbin-Medical-Records-Baptist-Regional-Medical-Center-Medical-Records-and-Surgical-Reports.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Baptist Health Corbin/Medical Records/2011-07-13-Amy-Mills-Medical-Baptist Health Corbin-Medical-Records-Baptist-Regional-Medical-Center-Medical-Records-and-Surgical-Reports.pdf
 source_hash: sha256:edc044da4645c7caa5b1c8bf1e480e05ba92e4bf339046eea2cfb7512bd7e7a8
+contact: "[[cases/2019-04-26-prl-001/contacts/baptist-health-corbin]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 MILLS , AMY 728945044 eAKKAS 794 of 862
 

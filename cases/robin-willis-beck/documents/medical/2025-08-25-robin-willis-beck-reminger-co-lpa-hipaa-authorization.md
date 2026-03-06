@@ -1,6 +1,6 @@
 ---
 case_slug: robin-willis-beck
-created_at: 2026-02-17 00:16:46.340000+00:00
+created_at: {}
 document_category: medical
 document_type: medical
 extraction_method: native_text
@@ -10,7 +10,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-Willis-Beck-Premise-09-21-2023/HIPAA-Authorizations/2025-08-25-Robin-Willis-Beck-Reminger-Co-LPA-HIPAA-Authorization.pdf
 source_hash: sha256:1fac4ab44f279b1fb9ff7c6a8104a007a3d7d5a3b166be39f07e0baa75214cdd
+contact: "[[cases/2023-09-21-prl-001/contacts/reminger-co-lpa]]"
 ---
+
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 
 HIPAA COMPLIANT AUTHORIZATION FORM PURSUANT TO 45 CFR 164.508 
 Name or specific identification of the person(s), or class of persons, authorized to make the 

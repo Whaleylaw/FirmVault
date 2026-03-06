@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:ebefc437a1cf43bf8ee971875f92d650e6e9b133e9c95db8afbaf93a12407563
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 NO. JEFFERSON CIRCUIT COURT
 DIVISION
 JUDGE

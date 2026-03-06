@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2019-04-26-PrL-001
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-[DOB-1]/Review_Needed/2021-11-05-Amy-Mills-Primary-Care-Visit-New-Patient.pdf"
 source_hash: "sha256:31dee8c0c94de2649ebdfca90a06869fb9c06265dca684b1bcd3b329ef31b69d"

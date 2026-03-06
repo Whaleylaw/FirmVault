@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:591648cf356ee93705713a1a90f246000f5cb33a3593b9ef5e2a3595d8f40b2b
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: insurance_policy
 extraction.date: 2024-02-27
 extraction.description: State Farm policy record for Wayne Weber dated February 27, 2024.

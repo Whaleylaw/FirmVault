@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:ff497674cf41e203657dbf308c80002772c9ed979b54269ea996e476cebe406e
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 1540
 7276 1010 BI SIN 0705 NNNNNNNN 008987 NA 962629 (10/2)
 CONDUENT

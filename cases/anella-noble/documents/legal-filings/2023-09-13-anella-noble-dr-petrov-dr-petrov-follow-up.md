@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:b55970cb9a654e58d94386e87eca47ac4288c813cec29bb05c98e8f495b473c9
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Tendered 21-CE-00 498%... [DOB-1] David L. Nicholson,? arson Circuit Clerk
 
 NO, 21-CTI-004985 JEFFERSON CIRCUIT COURT DIVISION: FIVE (5) JUDGE: MARY SHAW

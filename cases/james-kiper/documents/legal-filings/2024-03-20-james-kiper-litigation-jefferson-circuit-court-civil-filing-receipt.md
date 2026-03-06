@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:01667d72d95bf31780fdf5b969def8df2839594e96eb02fba20670044ccec2fc
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 Commonwealth of Kentucky
 David L. Nicholson, Jefferson Circuit Clerk
 Received From: WHALEY, AARON GREGORY Account Of: WHALEY, AARON GREGORY

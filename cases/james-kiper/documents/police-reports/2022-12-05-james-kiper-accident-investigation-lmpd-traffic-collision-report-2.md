@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:e7781b7e16d83541b723d5b892b792ee532d2ea731916d2b0b3f9c24e67a5d72
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 INVESTIGATOR BEAT OR POST #
 TOTAL LANES
 NO

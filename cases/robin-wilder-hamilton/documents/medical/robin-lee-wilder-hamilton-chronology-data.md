@@ -25,6 +25,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:f36c3305ee3ec238145640e326e856beb232c24e10bca253b46322f2472e83e9
 ---
 
+**Case:** [[cases/robin-wilder-hamilton/robin-wilder-hamilton|Robin Wilder Hamilton]]
+**Client:** [[cases/robin-wilder-hamilton/contacts/robin-wilder-hamilton|Robin Wilder Hamilton]]
+
 client_info.date_of_injury: [DOB-1]
 client_info.dob: [DOB-1]
 client_info.name: Robin Lee Wilder-Hamilton

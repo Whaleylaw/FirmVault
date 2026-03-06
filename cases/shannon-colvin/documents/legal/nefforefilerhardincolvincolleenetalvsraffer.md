@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:10968d20c5a185847551a260c463d7ee9ec7657c4c7a3c2c4da324d162c12812
 ---
 
+**Case:** [[cases/shannon-colvin/shannon-colvin|Shannon Colvin]]
+**Client:** [[cases/shannon-colvin/contacts/shannon-colvin|Shannon Colvin]]
+
 Subject: NEF, (for eFiler) HARDIN , COLVIN,  COLLEEN ET AL VS. RAFFERTY, PAUL Envelope # 8781676
 From: [EMAIL-4]
 To: [EMAIL-3], Sarena@WhaleyLawFirm.com, [EMAIL-3]

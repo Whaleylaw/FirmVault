@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:8b1ba8780bf57472ddd9d1db453857fddea2d3e66034015e461cc56739355055
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 address: 154 East 7th Street, Lexington, KY 40508
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

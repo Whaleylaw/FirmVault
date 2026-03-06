@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:8cca5f9fb3cdd6a3e6121540fc28d41fcd83b4c95f935f44f703e8924b6008a9
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 category: negotiation
 date: 2026-01-23
 description: Settlement demand letter dated January 23, 2026 from Whaley Law Firm to Elco Insurance for bodily injury claim. Details 9/3/2025 collision caused by insured Cynthia McDonald's negligence, documents injuries and treatment, medical bills totaling $24,549.58, and demands policy limits for full release.

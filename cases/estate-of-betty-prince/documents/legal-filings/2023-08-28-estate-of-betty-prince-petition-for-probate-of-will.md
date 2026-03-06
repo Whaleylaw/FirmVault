@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:9a54654fbbcde5e7bee87e097689d87cb89fbc31a17c42c07d71d51a6b2f2139
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 [ ] PROBATE OF WILL
 PETITION FOR [ ] APPOINTMENT OF ADMINISTRATOR/ADMINISTRATRIX
 [ ] APPOINTMENT OF EXECUTOR/EXECUTRIX

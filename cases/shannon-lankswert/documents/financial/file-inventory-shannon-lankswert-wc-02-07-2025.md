@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:de890acac16109236ab7b14e3309e7f71b9e3d0777cf639ab192199a6f7c201d
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 item_0.extension: .pdf
 item_0.name: 2025-02-18-Shannon-Lankswert-Plaintiffs-Chronological-Medical-History.pdf
 item_0.path: 2025-02-18-Shannon-Lankswert-Plaintiffs-Chronological-Medical-History.pdf

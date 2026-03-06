@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/France
 source_hash: sha256:d0eedcb3f6e83a2309e3d45c1f7a1edb0e780e7dc258b87c1b083cf309d48147
 ---
 
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 Notice of Claim Denial or Acceptance
 Form 111
 October 2016 Edition

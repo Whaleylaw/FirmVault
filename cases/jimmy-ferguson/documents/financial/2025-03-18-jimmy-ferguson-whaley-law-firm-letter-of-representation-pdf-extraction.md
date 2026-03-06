@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:92099e9e777c8ee22f12f5cd9cc3e6802cc9f562089080c9cb58252161e65cd7
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 category: Medical
 date: 2025-03-18
 description: Letter of representation and medical records request dated 3/18/2025 for Jimmy Ferguson's accident on 5/30/2024, requesting all medical records and billing per KRS 422.317.

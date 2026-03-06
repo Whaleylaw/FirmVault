@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:304dc546dfa123e0cec9c872da12fec205af6dc065e76eb32a0e0136a3139687
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 category: Client
 confidence: high
 description: Kentucky Department of Workers Claims Form 109 - Attorney Fee Election form. DocuSign document for Christopher Wilkerson to select method of attorney fee payment in workers compensation case. Blank form, not yet executed. Dated August 24, 2025.

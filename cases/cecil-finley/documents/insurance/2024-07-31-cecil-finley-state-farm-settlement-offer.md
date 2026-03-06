@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:a8ae97b62ab5af94175beb57b51eea79535f5cca9587dd079b0a8e16a082009e
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 From:"Microsoft Outlook" <MicrosoftExchange329e7 [EMAIL-1]>
 Sent:Thu, 1 Aug 2024 16:13:39 +0000
 To:[EMAIL-13]

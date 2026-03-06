@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Elizab
 source_hash: sha256:9c4162cfad6af232cb8cedc30733b4133b2f3a574a5ab48d2da3a85a0d51ae42
 ---
 
+**Case:** [[cases/elizabeth-lindsey/elizabeth-lindsey|Elizabeth Lindsey]]
+**Client:** [[cases/elizabeth-lindsey/contacts/elizabeth-lindsey|Elizabeth Lindsey]]
+
 address: 1233 Citation Dr, Union, KY 41091
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

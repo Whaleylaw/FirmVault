@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie
 source_hash: sha256:abe6b8d2bc599f98cfa3e3714eaabbc34541e6d343894a6fbc26c4aca4b15167
 ---
 
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 Wdbewhes vue tyr senn MHI tate
 DB obbie Stolselaa
 JEErERsON CouNTy CLERK

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:b1e19b2903b2630216f26f4cb176cdb2801e09526b862e2c40233d19fec897ad
 ---
 
+**Case:** [[cases/james-sadler/james-sadler|James Sadler]]
+**Client:** [[cases/james-sadler/contacts/james-sadler|James Sadler]]
+
 Subject: Written Questions
 From: [EMAIL-1]
 To: [EMAIL-2]

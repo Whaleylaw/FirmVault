@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:007d08458d575443ec8fef24310cbd6097746341d760564fda0067a47748a3a0
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 9/20/23, 4:24 PM MyChart - Visit Summary
 https://mychart.nortonhealthcare.org/MyChart/inside.asp?mode=visitsummary&csn=WP-24wDYiROcGQPev45D4vpOngg-3D-3D-24IZ0Ar-2F0tOXjP2… 1/6
 Amy Mills DoB: [DOB-1] 8/10/2020 NH PAV Periop Services [PHONE-4]

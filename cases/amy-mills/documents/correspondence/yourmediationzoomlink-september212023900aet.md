@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:2ca4851b84a7f4dbc0dc1ef5a8068042172de03b5433ce0c4e2bcae08cb26dc4
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Subject: Your Mediation Zoom Link - September 21, 2023 9:00a ET
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

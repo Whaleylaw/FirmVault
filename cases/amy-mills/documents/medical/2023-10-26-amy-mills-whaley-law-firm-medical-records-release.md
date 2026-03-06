@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:17883253cf84fa468127bb9342d35b85ca1b9c32c295a31803dbc93ebf7163e7
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 MyChart - Hospital Admissions
 
 Name: Amy Jo Mills | DOB: [DOB-1] | MRN: EP02256299 | PCP: Provider Not In System

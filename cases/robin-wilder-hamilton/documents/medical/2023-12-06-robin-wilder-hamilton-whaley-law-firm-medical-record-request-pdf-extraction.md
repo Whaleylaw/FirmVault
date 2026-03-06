@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:ab49f94e9cac0cc16285aa01233c8d8692790a5bf98f31b304bef744c6b74535
 ---
 
+**Case:** [[cases/robin-wilder-hamilton/robin-wilder-hamilton|Robin Wilder Hamilton]]
+**Client:** [[cases/robin-wilder-hamilton/contacts/robin-wilder-hamilton|Robin Wilder Hamilton]]
+
 content_summary: Letter from Whaley Law Firm requesting medical records and itemized billing from Thompson Chiropractic for Robin Wilder-Hamilton for accident on 6/15/2023, including all office notes, radiology, lab results, and billing records with ongoing authorization.
 document_date: 2023-12-06
 entities[0]: Robin Wilder-Hamilton

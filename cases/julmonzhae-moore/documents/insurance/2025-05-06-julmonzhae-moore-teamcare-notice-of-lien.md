@@ -1,11 +1,10 @@
 ---
 case_slug: julmonzhae-moore
-created_at: 2026-02-16 23:59:54.467000+00:00
+created_at: {}
 document_category: insurance
-document_date: 2023-08-29
+document_date: {}
 document_type: insurance
-entities:
-- Liberty Mutual
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-08-29-MVA-003
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmonzhae-Moore-MVA-8-29-2023/Liens/2025-05-06-Julmonzhae-Moore-TeamCare-Notice-of-Lien.pdf
 source_hash: sha256:6228988d7aff263449feb5093192cfac3f3c703cb4c3e986f011cf6d3c6d85df
+contact: "[[cases/2023-08-29-mva-003/contacts/teamcare]]"
 ---
+
+**Case:** [[cases/julmonzhae-moore/julmonzhae-moore|Julmonzhae Moore]]
+**Client:** [[cases/julmonzhae-moore/contacts/julmonzhae-moore|Julmonzhae Moore]]
+
 
 © [DOB-1] 9:46 AM CT Fax Services >[PHONE-2] pg 1of 8
 TEAMCARE’

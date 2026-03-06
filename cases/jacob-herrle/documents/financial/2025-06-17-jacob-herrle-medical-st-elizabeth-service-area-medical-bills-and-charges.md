@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jacob-
 source_hash: sha256:c1e7a355c7e4f0749b438e58b77e880e7c7f4c2137717dd7f7e520cbeca7bdcb
 ---
 
+**Case:** [[cases/jacob-herrle/jacob-herrle|Jacob Herrle]]
+**Client:** [[cases/jacob-herrle/contacts/jacob-herrle|Jacob Herrle]]
+
 St. Elizabeth Service Area
 
 One Medical Village Drive

@@ -23,6 +23,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dakota
 source_hash: sha256:a4e629af65dbf3b1a9ddf3efb494dce7256a4dddf56a304cdab4ef344cd80ea0
 ---
 
+**Case:** [[cases/dakota-mccord/dakota-mccord|Dakota McCord]]
+**Client:** [[cases/dakota-mccord/contacts/dakota-mccord|Dakota McCord]]
+
 uUsef L DPhyototono 1a/30/8468R48 1295.45.40 DM rem pAaL BfOhoe Treaiar Coarrroir
 Heal
 Attestation Regarding a Requested Use or Disclosure of Protected Health Information

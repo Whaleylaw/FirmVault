@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee
 source_hash: sha256:c75c6bd0b07ed92ec952597a8cc3c6ecdea0d833826ccd3754e111daaa4a61bf
 ---
 
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 STATE OF INDIANA)IN THE FLOYD COUNTY SUPERIOR COURT
 
 )SS:

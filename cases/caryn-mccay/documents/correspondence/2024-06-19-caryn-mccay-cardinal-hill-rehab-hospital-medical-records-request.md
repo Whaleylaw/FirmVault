@@ -1,11 +1,10 @@
 ---
 case_slug: caryn-mccay
-created_at: 2026-02-16 22:17:16.705000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1972-11-30
+document_date: {}
 document_type: correspondence
-entities:
-- Cardinal Hill Rehab Hospital
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-07-30-MVA-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-McCay-MVA-7-30-2023/Medical/2024-06-19-Caryn-McCay-Cardinal-Hill-Rehab-Hospital-Medical-Records-Request.pdf
 source_hash: sha256:55a4e0f71a7a81001eeb13bdd67b754f096164f6f2c07cf2455c9ec0d248f6a2
+contact: "[[cases/2023-07-30-mva-001/contacts/caryn-mccay]]"
 ---
+
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

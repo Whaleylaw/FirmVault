@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:c93acc1ea5ec12d91a599ce6bd7f7714d29340b9bd2b21c0c6d466d80de4e670
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 Subject: Douglas Livers v Allstate - Deposition Scheduling
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

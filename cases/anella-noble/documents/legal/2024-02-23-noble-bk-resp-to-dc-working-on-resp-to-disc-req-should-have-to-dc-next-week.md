@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:d5e333ec8a48734b13a0df49b42fc84eeebdbd3e0df2487961562ffb4bc1384c
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: Noble v. Sewell, et al. - Plaintiff's Discovery Responses
 From: [EMAIL-1]
 To: [EMAIL-2]

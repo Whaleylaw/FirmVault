@@ -34,6 +34,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee
 source_hash: sha256:783a36e83e3872d4fd22526556d1e6fbc2f39634cd9821a60d1997ab6d8a8d36
 ---
 
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 Aaron G. Whaley, Esq. 712 Lyndon Lane
 
 zy F Louisville, KY 40222 A j i‘ | | WY Ph: [PHONE-1] / \V ILLL I Fax: [PHONE-513]

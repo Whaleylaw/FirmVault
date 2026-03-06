@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Collee
 source_hash: sha256:a0d57bc59208ce1f5a7277366106d66d709bd3c4542f9aa7ba32118efec8619f
 ---
 
+**Case:** [[cases/colleen-colvin/colleen-colvin|Colleen Colvin]]
+**Client:** [[cases/colleen-colvin/contacts/colleen-colvin|Colleen Colvin]]
+
 Oo a FB WB DN
 
 *** ELECTRONIC MEDICAL BILL ***

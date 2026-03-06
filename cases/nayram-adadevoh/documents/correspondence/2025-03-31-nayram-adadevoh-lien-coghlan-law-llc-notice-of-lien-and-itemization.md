@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:6a73cbb49bdaec38026ad82ed8bf651afc03a0bec94d248411c638e06ed8d8d1
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 [DOB-4] MON 16:19 FAX Wyooz/o05
 COGHLAN LAW LLC
 DARBARA J. COGHLAN ATTORNEYS AT LAW MarRK J, GOGHI AN

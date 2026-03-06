@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2023-02-25-PrL-001
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimberly-Brasher-Premise-2-25-2023/Medical/2023-06-28-Kimberly-Brasher-Deaconess-Midtown-Campus-Hospital-Left-Hip-Arthroplasty.pdf"
 source_hash: "sha256:1365cbe4c870f82148c82d1bf9f3d93079fd6b5d710bca3ec04f58fc91a52801"

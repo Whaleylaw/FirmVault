@@ -1,6 +1,6 @@
 ---
 case_slug: forrest-muss
-created_at: 2026-02-16 23:41:25.478000+00:00
+created_at: {}
 document_category: photos
 document_type: photo
 extraction_method: image_proxy
@@ -8,10 +8,14 @@ legacy_case_id: 2025-07-20-MVA-001
 mime_type: image/jpeg
 page_count: 1
 quality_score: 70
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Forrest-Muss-MVA-07-20-2025/Medical/Little
-  Clinic/Medical Bills/2025-07-20-Forrest-Muss-Medical-Little Clinic-Medical-Bills-Little-Clinic-Medical-Bill-Receipt.jpg
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Forrest-Muss-MVA-07-20-2025/Medical/Little Clinic/Medical Bills/2025-07-20-Forrest-Muss-Medical-Little Clinic-Medical-Bills-Little-Clinic-Medical-Bill-Receipt.jpg
 source_hash: sha256:13166dfc396f4396c1a5b1dedc451215f372445c93feb32f46f504b0c4993e61
+contact: "[[cases/2025-07-20-mva-001/contacts/little-clinic]]"
 ---
+
+**Case:** [[cases/forrest-muss/forrest-muss|Forrest Muss]]
+**Client:** [[cases/forrest-muss/contacts/forrest-muss|Forrest Muss]]
+
 
 # Image Document
 

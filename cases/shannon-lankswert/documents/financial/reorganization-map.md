@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:d5c125d9811a8bf9147915ffaab88199b595b9b0a3684c35bf941968be775869
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 case_name: Shannon-Lankswert-WC-[DOB-2]
 generated_date: 2025-02-07
 mappings[0].action: MOVE

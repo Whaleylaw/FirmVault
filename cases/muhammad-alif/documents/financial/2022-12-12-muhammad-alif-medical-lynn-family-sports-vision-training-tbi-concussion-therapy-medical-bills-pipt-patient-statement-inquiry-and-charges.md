@@ -1,21 +1,23 @@
 ---
 case_slug: muhammad-alif
-created_at: 2026-02-17 00:11:18.688000+00:00
+created_at: {}
 document_category: financial
-document_date: 2022-12-12
+document_date: {}
 document_type: financial
-entities:
-- Farmers Insurance
+entities: null
 extraction_method: native_text
 legacy_case_id: 2022-11-08-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Lynn
-  Family Sports & Vision Training - TBI & Concussion Therapy/Medical Bills/2022-12-12-Muhammad-Alif-Medical-Lynn
-  Family Sports & Vision Training - TBI & Concussion Therapy-Medical-Bills-PIPT-Patient-Statement-Inquiry-and-Charges.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Lynn Family Sports & Vision Training - TBI & Concussion Therapy/Medical Bills/2022-12-12-Muhammad-Alif-Medical-Lynn Family Sports & Vision Training - TBI & Concussion Therapy-Medical-Bills-PIPT-Patient-Statement-Inquiry-and-Charges.pdf
 source_hash: sha256:a08a58b86e89feb7a050f2d872192790d049354a0850368385a0406a9f94543f
+contact: "[[cases/2022-11-08-mva-001/contacts/lynn-family-sports-vision-training-tbi-concussion-therapy]]"
 ---
+
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 
 Patient Statement Inquiry
 Patient: 101012048 - Alif,Muhammad

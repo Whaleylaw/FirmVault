@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:0db2f2a2b7ccfdb73c118fe14f5548adba29756000fff00921f13aebb74419f0
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 ov
 5
 Bo S g 4 22 » ~ aa Ss «6|FR= Eoho

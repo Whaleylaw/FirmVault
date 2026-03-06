@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:0623533af5832927ffbaac025651c41e89cabab803318bf8eaee0f1c10031e11
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: medical_request
 extraction.date: 2023-11-06
 extraction.description: HIPAA authorization form for Baptist Medical Group Sports Medicine to release medical records, dated November 6, 2023.

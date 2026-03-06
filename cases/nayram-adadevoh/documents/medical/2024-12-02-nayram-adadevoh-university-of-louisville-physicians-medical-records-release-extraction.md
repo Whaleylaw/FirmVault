@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:b274a316b734cc9b331459284442785b6ffa2860eca9fe8f9250884a02a95c6d
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: medical_records_authorization
 date: 2024-12-02
 description: Medical records release authorization for University of Louisville Physicians dated December 2, 2024.

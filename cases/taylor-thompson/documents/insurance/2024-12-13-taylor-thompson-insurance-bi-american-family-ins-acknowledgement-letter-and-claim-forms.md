@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor
 source_hash: sha256:bab7027758ad98affef7704b53a09a744cb2f0e62dfb3ae02c0a942df8e148ed
 ---
 
+**Case:** [[cases/taylor-thompson/taylor-thompson|Taylor Thompson]]
+**Client:** [[cases/taylor-thompson/contacts/taylor-thompson|Taylor Thompson]]
+
 ** INBOUND NOTIFICATION : FAX RECEIVED SUCCESSFULLY **
 TIME RECEIVED REMOTE CSID DURATION PAGES STATUS
 December 13, 2024 at 3:45:02 PM EST American Family Ins. 150 8 Received

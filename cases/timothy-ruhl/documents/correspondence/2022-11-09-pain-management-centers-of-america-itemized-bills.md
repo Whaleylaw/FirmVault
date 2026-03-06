@@ -1,8 +1,8 @@
 ---
 case_slug: timothy-ruhl
-created_at: 2026-02-17 00:35:25.282000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1966-08-05
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2023-09-14-PrL-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timothy-Ruhl-Premise-09-14-2023/Billing-Invoices/2022-11-09-Pain-Management-Centers-of-America-itemized-bills.pdf
 source_hash: sha256:80cb822f479324421cefc50c2fc31f909228f68b96337c5d87007309e3a9dd26
+contact: "[[cases/2023-09-14-prl-001/contacts/pain-management-centers-of-america]]"
 ---
+
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 
 To: The Whaley Law Firm Page: 01 of 26 2024-07-30 23:49:16 PDT 18778209112 From: Pinisetty, Naganjali
 To: The Whaley Law Firm From: Pinisetty, Naganjali

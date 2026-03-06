@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:cef4f5b2e907aedbe8e9fd4667318d44327248efb57269678af066e9c39affb6
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 May 07 2024 3:30pm GCC [PHONE-4] 1
 -syuguunsop asauy Jo umes Joy aSUBLIE
 0}Ajayeipaultus Jopuas auy Agnou aseald ‘10119 UI SIU} PAAlsool DALY, nog J] “pauigiyoud Aponns si sywauMs0p aso} JO squa]uos ayy UO

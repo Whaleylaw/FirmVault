@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:c60d9172553eef7f4f3a66df1ba6dcec82faecd125681500f6f330c294b5b9e6
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 Subject: Fwd: New Voice Message from JUDD JUHL [PHONE-13] on [DOB-2] 4:12 PM
 From: [EMAIL-3]
 To: [EMAIL-4], sarena@whaleylawfirm.com

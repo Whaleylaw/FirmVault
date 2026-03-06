@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:8d516d37530f6f8337191bac3c3f6aa7621e0d73cb59a54665b5aa611fc74937
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 HIP AA COMPLIANT MEDICAL AUTHORIZATION 
 (Authorization to Release Protected Health Care Information) 
 To: 

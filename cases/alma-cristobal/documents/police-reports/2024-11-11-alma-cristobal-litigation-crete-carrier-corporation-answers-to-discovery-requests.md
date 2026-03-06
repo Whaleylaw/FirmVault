@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:fcf5b77ca7122653d9eb9ddb5130fe7dcf352d8932ef20705c6e7c3275d1d8cf
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 CASE NO. 24-CI-4728 JEFFERSON CIRCUIT COURT
 DIVISION THREE (3)
 JUDGE MITCH PERRY

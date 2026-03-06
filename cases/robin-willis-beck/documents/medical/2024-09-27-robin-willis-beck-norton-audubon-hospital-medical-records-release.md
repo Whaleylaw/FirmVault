@@ -1,12 +1,10 @@
 ---
 case_slug: robin-willis-beck
-created_at: 2026-02-17 00:17:18.903000+00:00
+created_at: {}
 document_category: medical
-document_date: 2024-09-27
+document_date: {}
 document_type: medical
-entities:
-- Dr. Stephen Cawood
-- Norton Audubon Hospital
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-09-21-PrL-001
 mime_type: application/pdf
@@ -14,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-Willis-Beck-Premise-09-21-2023/Medical-Records/2024-09-27-Robin-Willis-Beck-Norton-Audubon-Hospital-Medical-Records-Release.pdf
 source_hash: sha256:bcd5e11c35c7faa51da6a23b479bef6b7363172feeb31501a6a955f88664383a
+contact: "[[cases/2023-09-21-prl-001/contacts/norton-audubon-hospital]]"
 ---
+
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 
 [DOB-1]
 Norton Audubon Hospital – Dr. Stephen Cawood

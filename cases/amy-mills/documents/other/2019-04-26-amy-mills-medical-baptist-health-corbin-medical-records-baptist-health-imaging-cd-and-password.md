@@ -1,21 +1,23 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:48:06.266000+00:00
+created_at: {}
 document_category: other
-document_date: 2019-04-26
+document_date: {}
 document_type: other
-entities:
-- Baptist Health System
-- Baptist Health
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Baptist
-  Health Corbin/Medical Records/2019-04-26-Amy-Mills-Medical-Baptist Health Corbin-Medical-Records-Baptist-Health-Imaging-CD-and-Password.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Baptist Health Corbin/Medical Records/2019-04-26-Amy-Mills-Medical-Baptist Health Corbin-Medical-Records-Baptist-Health-Imaging-CD-and-Password.pdf
 source_hash: sha256:a5e8815fe85e41a924294428ec562439113eefcdf459310c1414de1e87f272b7
+contact: "[[cases/2019-04-26-prl-001/contacts/baptist-health-corbin]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 2%
 

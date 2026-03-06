@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:7ace125368524821e001e70e03618871e984e2fe4bb565bb262122300c694336
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 case_folder: Torrey-Green-MVA-9-03-2025
 job_id: file-org-7ab99502
 phases.extraction.completed_at: 2026-02-03T19:30:59.415230

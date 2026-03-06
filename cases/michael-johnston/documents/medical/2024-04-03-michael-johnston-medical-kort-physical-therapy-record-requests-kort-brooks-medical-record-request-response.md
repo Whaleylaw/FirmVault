@@ -1,6 +1,6 @@
 ---
 case_slug: michael-johnston
-created_at: 2026-02-17 00:07:04.118000+00:00
+created_at: {}
 document_category: medical
 document_type: medical
 extraction_method: native_text
@@ -8,11 +8,14 @@ legacy_case_id: 2023-05-03-OTH-001
 mime_type: message/rfc822
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michael-Johnston-WC-05-03-2023/Medical/KORT
-  Physical Therapy/Record Requests/2024-04-03-Michael-Johnston-Medical-KORT Physical
-  Therapy-Record-Requests-KORT-Brooks-Medical-Record-Request-Response.eml
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michael-Johnston-WC-05-03-2023/Medical/KORT Physical Therapy/Record Requests/2024-04-03-Michael-Johnston-Medical-KORT Physical Therapy-Record-Requests-KORT-Brooks-Medical-Record-Request-Response.eml
 source_hash: sha256:cf88f762a7164f516b01211342df0f6f7e24aa05fe45ac8a4d3ca8a494803c3e
+contact: "[[cases/2023-05-03-oth-001/contacts/kort-physical-therapy]]"
 ---
+
+**Case:** [[cases/michael-johnston/michael-johnston|Michael Johnston]]
+**Client:** [[cases/michael-johnston/contacts/michael-johnston|Michael Johnston]]
+
 
 Subject: Medical Record Request
 From: [EMAIL-1]

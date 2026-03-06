@@ -1,0 +1,61 @@
+---
+schema_version: 2
+case_id: 8ab7fb98-98c3-4bfe-bd6b-977aabf098d5
+case_number: 2022-01-01-MVA-001
+client_name: Wayne Weber
+case_type: auto_accident
+status: litigation
+date_of_incident: "2022-01-01"
+---
+
+# Wayne Weber — auto accident 2022-01-01
+
+**Status:** litigation | **Type:** auto_accident | **Jurisdiction:** KY
+**Case #:** 2022-01-01-MVA-001
+
+## Medical Providers
+- [[contacts/anchorage-middletown-fire-ems|Anchorage Middletown Fire & EMS]]
+- [[contacts/baptist-health-la-grange|Baptist Health La Grange]]
+- [[contacts/baptist-health-medical-group-eastpoint|Baptist Health Medical Group - Eastpoint]]
+- [[contacts/baptist-health-medical-group-orthopedics-floyd|Baptist Health Medical Group Orthopedics - Floyd]]
+- [[contacts/baptist-health-medical-group-sports-medicine|Baptist Health Medical Group Sports Medicine]]
+- [[contacts/baptist-health-vascular-surgery|Baptist Health Vascular Surgery]]
+- [[contacts/cassol-eye|Cassol Eye]]
+- [[contacts/clinical-associates|Clinical Associates]]
+- [[contacts/commonwealth-anesthesia|Commonwealth Anesthesia]]
+- [[contacts/diagnostic-imaging-alliance-of-louisville-psc|Diagnostic Imaging Alliance Of Louisville, PSC]]
+- [[contacts/goulds-discount-medical|Gould's Discount Medical]]
+- [[contacts/kentucky-indiana-foot-ankle|Kentucky Indiana Foot & Ankle]]
+- [[contacts/louisville-emergency-medical-associates|Louisville Emergency Medical Associates]]
+- [[contacts/louisville-hospitalist-associates-pllc|Louisville Hospitalist Associates PLLC]]
+- [[contacts/nephrology-associates-of-kentuckiana|Nephrology Associates of Kentuckiana]]
+- [[contacts/norton-brownsboro-hospital|Norton Brownsboro Hospital]]
+- [[contacts/one-anesthesia-pllc|One Anesthesia, PLLC]]
+- [[contacts/premier-surgery-center-of-louisville|Premier Surgery Center of Louisville]]
+- [[contacts/retina-associates-of-ky|Retina Associates Of KY]]
+- [[contacts/southern-emergency-medical-specialists|Southern Emergency Medical Specialists]]
+- [[contacts/xray-associates-of-louisville|Xray Associates of Louisville]]
+
+## Adjusters
+- [[contacts/ashley-mcneese|Ashley Mcneese]]
+- [[contacts/lyn-zangmeister|Lyn Zangmeister]]
+
+## Insurance Claims
+- [[claims/bi-state-farm-insurance-company|BI — State Farm Insurance Company]] — Claim #1429C180C (no_demand)
+- [[claims/pip-kentucky-farm-bureau|PIP — Kentucky Farm Bureau]] — Claim #4671023 (no_demand)
+
+## Liens
+- [[liens/medicare|Medicare]] — medicare (identified)
+- [[liens/southern-guaranty-insurance-company-medicare-supplement|Southern Guaranty Insurance Company - Medicare Supplement]] — medicare (identified)
+- [[liens/unknown|Unknown]] — medicare (identified)
+- [[liens/unknown|Unknown]] — medicare (identified)
+
+## Expenses
+| Creditor | Amount | Category |
+|----------|--------|----------|
+| ChartSwap | $20.00 | records |
+| EvenUP | $700.00 | expert |
+| Jefferson County Circuit Court | $317.27 | court_filing |
+
+## Activity Log
+Recent: [[Activity Log/2025-12-11-correspondence|2025-12-11 — correspondence]]

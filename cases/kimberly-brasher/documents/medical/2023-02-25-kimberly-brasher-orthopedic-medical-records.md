@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:3faf857cf8243f6bf871b792f75c626526ddb4c1af8b2e8c7351aac3376be20d
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 CERTIFICATION OF MEDICAL RECORDS AFFIDAVIT
 Ge Phani¢ Trav is , being first duly sworn on his/her oath, says that:
 ‘(Name ofrecords custodian/clerk)

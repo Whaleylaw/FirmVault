@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:77bafe627ac510afb33c94fc1b89680f8fb30b31fb35012937d359e08b3e1852
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 November 29, 2022
 The Whaley Law Firm
 712 Lyndon Lane

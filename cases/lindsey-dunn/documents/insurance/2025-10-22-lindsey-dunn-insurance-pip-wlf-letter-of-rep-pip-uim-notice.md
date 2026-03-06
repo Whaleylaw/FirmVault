@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Lindse
 source_hash: sha256:e79d412e2bc5f4f4de684d8bd5cf586ae37fc02fa86500e2acf6aa983cb19fd3
 ---
 
+**Case:** [[cases/lindsey-dunn/lindsey-dunn|Lindsey Dunn]]
+**Client:** [[cases/lindsey-dunn/contacts/lindsey-dunn|Lindsey Dunn]]
+
 *Aaron G. Whaley, Esq.*
 *712 Lyndon Lane*
 *Louisville, KY 40222*

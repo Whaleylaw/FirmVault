@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:736f474e5c80aa7c15df747be7d10e42e1924dda5747ca4fadd1faa819dd1d6f
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: legal
 date: 2025-01-08
 description: Letter from attorney Aaron G. Whaley requesting medical records for Jeremy Lindsey from St. Elizabeth Physicians – Burlington for dates December 1, 2024 to Present

@@ -4,6 +4,9 @@ document_category: insurance
 legacy_case_id: 2024-08-06-MVA-001
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan-Kassim-MVA-[DOB-8]/Insurance/2024-10-30-Maryan-Kassim-Insurance-PIP-Progressive-PIP-Application-for-Benefits.pdf"
 source_hash: "sha256:9402dacd9b60a49d6819ec45bcea21c6d22693b1ff5ca06981e812d6ae3f695b"

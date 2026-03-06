@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2024-05-30-MVA-001
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-Ferguson-MVA-5-30-2024/Client Documents/2021-08-28_Baptist-Health-Medical-Group-Neurology_HIPAA-Authorization.pdf"
 source_hash: "sha256:9fb925c46b0bda5de8648d2c562078829d8d4311b469f37f2b143e896c2304c1"

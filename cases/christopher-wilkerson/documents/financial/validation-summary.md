@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:0da4d97386a20e7a9cbb312810299a8627c6af939579fcea61267b36e5aa47eb
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 automated_validation_results.companion_files.details: No .eml + .md companion file pairs detected. Case contains emails (.eml), PDFs, images, audio files.
 automated_validation_results.companion_files.status: PASS
 automated_validation_results.date_formats.details: 72 files have valid yyyy-mm-dd dates. 12 files use [UNKNOWN-DATE] placeholder intentionally

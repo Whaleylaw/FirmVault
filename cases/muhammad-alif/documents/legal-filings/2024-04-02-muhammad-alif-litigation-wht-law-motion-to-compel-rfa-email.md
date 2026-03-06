@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:de9088103a3358e06de56d0be8e358d38ccba1c448a720476ef6536f886383dd
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 Subject: Fwd: Muhammad Alif v. Jacquelyn B. Wickliffe and Harbor House of Louisville
 From: [EMAIL-1]
 To: [EMAIL-2], sarena@whaleylawfirm.com

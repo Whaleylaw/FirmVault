@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michel
 source_hash: sha256:8ebaa1a84811107900d701ca0b3c2ed4cc9dfab8f8ada72f49b8ba07ba534711
 ---
 
+**Case:** [[cases/michelle-mcelroy/michelle-mcelroy|Michelle McElroy]]
+**Client:** [[cases/michelle-mcelroy/contacts/michelle-mcelroy|Michelle McElroy]]
+
 item_0.jsonb_agg[0].address: 138 Kingston Ave, Apt 2, Louisville, KY 40214
 item_0.jsonb_agg[0].full_name: Michelle McElroy
 item_0.jsonb_agg[0].phone: [PHONE-1]

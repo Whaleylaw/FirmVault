@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/France
 source_hash: sha256:2a5abd6e90699d2b4fee0da51b7a43c4272bff12c7be5b53240ab400e16688f6
 ---
 
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 Medicare HMO
 vaetna Aetna Medicare Dental
 Aetna Medicare Assure 1 (HMO D-SNP) PLAN#¥ 000003-KY000020

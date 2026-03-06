@@ -4,6 +4,9 @@ document_category: correspondence
 legacy_case_id: 2023-09-21-PrL-001
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-Willis-Beck-Premise-[DOB-1]/Medical-Records/2024-09-27-Robin-Willis-Beck-Baptist-Health-Orthopedics-Medical-Records-Request-2.pdf"
 source_hash: "sha256:8ab511e8d7c034195aefb8c864bbe20bc36e4bea9183d2d447a529e3c77860e2"

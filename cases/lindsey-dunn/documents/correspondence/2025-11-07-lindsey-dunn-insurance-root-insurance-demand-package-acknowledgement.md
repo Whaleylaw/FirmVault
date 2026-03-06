@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Lindse
 source_hash: sha256:dfcbe92fefa18948b909d87b9c6840857db6da8d079dbd33934910eeace416e3
 ---
 
+**Case:** [[cases/lindsey-dunn/lindsey-dunn|Lindsey Dunn]]
+**Client:** [[cases/lindsey-dunn/contacts/lindsey-dunn|Lindsey Dunn]]
+
 November 7, 2025
 Whaley Law Firm
 Unknown

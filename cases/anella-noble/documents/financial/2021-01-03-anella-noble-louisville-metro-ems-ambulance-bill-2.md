@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:79211f2439ac87a576ef57a8f00de1158dac646be3e641f6a3f17d3c0f1d34f8
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Louisville Metro EMS IF PAYING BY MASTERCARD, DISCOVER ORVISA |
 P.O.
 Louisville,

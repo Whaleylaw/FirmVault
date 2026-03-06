@@ -1,8 +1,8 @@
 ---
 case_slug: robin-willis-beck
-created_at: 2026-02-17 00:16:42.588000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 2024-09-03
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2023-09-21-PrL-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-Willis-Beck-Premise-09-21-2023/Correspondence/2024.09.04-Beck-Soundview-Claims-New-Administrator-for-Firemans-Fund-Insurance-Adj-Devon-Clark.docx
 source_hash: sha256:e3a283b88a200e47011fdc3980eb5236c229cc060cee4dd8893405def67f2c31
+contact: "[[cases/2023-09-21-prl-001/contacts/devon-clark]]"
 ---
+
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 
 ![A close up of a logo&#xA;&#xA;Description automatically generated](image_0)
 

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:3b852d434219f2f2122e55610f343a6a065ce3c8eccdcf036f722e2f9c61b5cb
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 Subject: Re: 6 wk appt and continued pt, etc..
 From: [EMAIL-10]
 To: sarena@whaleylawfirm.com

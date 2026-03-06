@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:33a89c6a6d46b89b6438b1ec9641d9dcba7293156608cf02482234ad07152b84
 ---
 
+**Case:** [[cases/michael-lanier/michael-lanier|Michael Lanier]]
+**Client:** [[cases/michael-lanier/contacts/michael-lanier|Michael Lanier]]
+
 Date Type Description Code Debit Credit Balance Mod Units Tax Adjust
 CSV New Patient Examination
 (Detailed) 99203

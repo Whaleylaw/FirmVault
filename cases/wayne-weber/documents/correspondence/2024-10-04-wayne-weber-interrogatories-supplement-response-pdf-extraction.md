@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:269f78a0026d5aca107de6d7eef30f0f2c5ebc86f668a12f88db3f05a0c42bfa
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: litigation
 extraction.date: 2024-10-04
 extraction.description: Supplemental response to interrogatories in Wayne Weber's case.

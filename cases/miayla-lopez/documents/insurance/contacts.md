@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Mi'Ayl
 source_hash: sha256:04357e08d3ee88dd51073513b5ab29ea84fd16978786f22190f69a75b18fb148
 ---
 
+**Case:** [[cases/miayla-lopez/miayla-lopez|Mi'Ayla Lopez]]
+**Client:** [[cases/miayla-lopez/contacts/miayla-lopez|Mi'Ayla Lopez]]
+
 item_0.jsonb_agg[0].full_name: Mi'Ayla Lopez
 item_0.jsonb_agg[0].project_name: Mi'Ayla-Lopez-MVA-[DOB-9]
 item_0.jsonb_agg[0].roles[0]: client

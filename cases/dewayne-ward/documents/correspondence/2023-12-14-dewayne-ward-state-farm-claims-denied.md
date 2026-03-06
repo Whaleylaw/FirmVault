@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dewayn
 source_hash: sha256:4405f75dbe79d53cdb13b7c9a6975ab8e31a0221f0eb8caaa32c06103084c597
 ---
 
+**Case:** [[cases/dewayne-ward/dewayne-ward|Dewayne Ward]]
+**Client:** [[cases/dewayne-ward/contacts/dewayne-ward|Dewayne Ward]]
+
 December 14, 2023
 Whaley Law Firm
 712 Lyndon Ln

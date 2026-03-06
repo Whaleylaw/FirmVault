@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ceceli
 source_hash: sha256:55208ac6accd4d448d110270a172421a3670ba9df4a49c83a6b735e1c2fcbfe9
 ---
 
+**Case:** [[cases/cecelia-neltner/cecelia-neltner|Cecelia Neltner]]
+**Client:** [[cases/cecelia-neltner/contacts/cecelia-neltner|Cecelia Neltner]]
+
 Subject: Re: Confirmation for 9/17/2024 (103602)
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

@@ -1,11 +1,10 @@
 ---
 case_slug: caryn-mccay
-created_at: 2026-02-16 22:16:46.240000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 2024-10-25
+document_date: {}
 document_type: correspondence
-entities:
-- Allstate
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-07-30-MVA-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-McCay-MVA-7-30-2023/Insurance/2025-01-28-Caryn-McCay-Allstate-discovery-status.pdf
 source_hash: sha256:efd1904ff1b14179e50cd[POLICY-1]cf935723aded4894bdb8037c13ab8cfea
+contact: "[[cases/2023-07-30-mva-001/contacts/caryn-mccay]]"
 ---
+
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 
 wM.curTON Travis) «= LKRAVIS HERBERT & STEMPIEN
 VALERIE W. HERBERT ATTORNEYS AT LAW Of Counsel:

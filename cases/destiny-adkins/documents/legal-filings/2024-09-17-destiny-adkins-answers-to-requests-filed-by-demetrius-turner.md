@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Destin
 source_hash: sha256:77f1e2683bc6dc1474f6d369ad0678eafd2d015bfc83084cdc75cbc58937759c
 ---
 
+**Case:** [[cases/destiny-adkins/destiny-adkins|Destiny Adkins]]
+**Client:** [[cases/destiny-adkins/contacts/destiny-adkins|Destiny Adkins]]
+
 ELECTRONICALLY FILED
 22-CI-02878 JEFFERSON CIRCUIT COURT
 DIVISION ONE (1)

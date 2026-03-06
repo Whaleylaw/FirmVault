@@ -1,11 +1,10 @@
 ---
 case_slug: debra-marshall
-created_at: 2026-02-16 23:04:55.005000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1956-02-21
+document_date: {}
 document_type: correspondence
-entities:
-- TriStar Skyline Medical Center
+entities: null
 extraction_method: native_text
 legacy_case_id: 2022-12-03-MVA-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-Marshall-MVA-12-3-2022/Records-Requests/2023-09-29-Debra-Marshall-TriStar-Skyline-Medical-Center-Medical-Records-Request.pdf
 source_hash: sha256:59c45e333e11933c8de6958c5455454399ef1842a706ce3680e924746bff87db
+contact: "[[cases/2022-12-03-mva-001/contacts/tristar-skyline-medical-center]]"
 ---
+
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 
 Aaron G. Whaley, Esq.
 712 Lyndon Lane

@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee
 source_hash: sha256:0be95d74ae7bc5e2e930d493391cc6e84bfed62d9723b14cd95a6e53f1fab683
 ---
 
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 STATE OF INDIANA ) IN THE FLOYD COUNTY SUPERIOR COURT 
  ) SS: 
 COUNTY OF FLOYD ) CAUSE NO. 22D03-2501-CT-000157 

@@ -1,8 +1,8 @@
 ---
 case_slug: caryn-mccay
-created_at: 2026-02-16 22:16:42.439000+00:00
+created_at: {}
 document_category: other
-document_date: 2023-10-06
+document_date: {}
 document_type: other
 extraction_method: native_text
 legacy_case_id: 2023-07-30-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 95
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-McCay-MVA-7-30-2023/Expenses/2023-10-06-Caryn-McCay-Loan-Summary-Total-Due.pdf
 source_hash: sha256:b4e341c29fcf527eafc99e9a5689fc530bf5693d762e7c08836bd659ac557bd4
+contact: "[[cases/2023-07-30-mva-001/contacts/caryn-mccay]]"
 ---
+
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 
 Loan Date Amount Total Due Interest Days Open
 Caryn McCay 1 10/6/2023 5,000 8,000 3,000 347

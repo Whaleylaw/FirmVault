@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:107cc86ef9a93be64bc647649dec7db0f8902981adf6c0ecaa57af332bc61361
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 Date Produced: [DOB-16]
 ConnectSuite Inc.:
 The following is the delivery information for Certified Mail™/RRE/RD item number 9236 0901 9403 8331

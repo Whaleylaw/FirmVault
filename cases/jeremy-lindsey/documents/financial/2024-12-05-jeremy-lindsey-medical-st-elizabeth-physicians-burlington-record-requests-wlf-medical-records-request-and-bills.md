@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:2009a457c2d4e3cc0a47eb0ad9b93a1804dbd4cf00a5dca4aeddebbc3ba2fbf4
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 Printout
 Wednesday, January 8, 2025 1:00 PM
  Attorneys Page 1 

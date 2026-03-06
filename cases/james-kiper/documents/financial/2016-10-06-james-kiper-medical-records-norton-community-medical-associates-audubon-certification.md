@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:1d95a94ae0c151c4954e14ec1209d0651316520d9d41a7e786169a27a4170efe
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 PS NORTON
 HEALTHCARE ITEMIZED BILLING CERTIFICATION RID183891517
 Patient Name: KIPER, JAMES

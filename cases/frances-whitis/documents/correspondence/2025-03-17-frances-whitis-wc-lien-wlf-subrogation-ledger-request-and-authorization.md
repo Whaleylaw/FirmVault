@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/France
 source_hash: sha256:3b0b86897462f3a7e73f976dc48428d0200ed32b5510ee84064ae0ec73f28eb5
 ---
 
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 Fax Confirmation
 To: [PHONE-11] From: [PHONE-10]
 Doc:

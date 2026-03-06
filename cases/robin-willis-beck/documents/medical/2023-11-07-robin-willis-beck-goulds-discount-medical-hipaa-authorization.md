@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:443502ca7968849e286f49dfd897eed9bb979d1b0a37d2bb7879c161fe425bfe
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 Gould’s Discount Medical
 3901 Dutchmans Lane #100
 Louisville, KY 40207

@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2021-01-03-MVA-001
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella-Noble-MVA-[DOB-1]/Court-Pleadings/2025-08-24-Anella-Noble-Court-Pleading-Plaintiffs-Responses-to-Interrogatories.pdf"
 source_hash: "sha256:d35229a9d0bec5db317224c1a0382214dc490859d4253b3dc1a7debed98e9db3"

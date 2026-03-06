@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:01c59ea5c2dc5f5a0e20c2e49f2d6589f3be15567b7fb2487de5e7be987db8e0
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: court_filing_notification
 date: 2025-02-07
 description: Notice of Electronic Filing (NEF) for case 25-CI-000133, envelope #9847423, filed by Aaron Gregory Whaley (Attorney for Plaintiff) on February 7, 2025 at 2:56 PM. Includes complaint/petition and interrogatories & request for production of documents.

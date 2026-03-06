@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:47b8970ec5e0ac5374c677fe8b7f23e198f2cb0db3a30de14c5a1872ac2cdb48
 ---
 
+**Case:** [[cases/christopher-lanier/christopher-lanier|Christopher Lanier]]
+**Client:** [[cases/christopher-lanier/contacts/christopher-lanier|Christopher Lanier]]
+
 Verification Complete
 The document has been officially verified.
 Recipient1

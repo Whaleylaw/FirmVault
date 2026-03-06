@@ -1,21 +1,22 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:49:12.898000+00:00
+created_at: {}
 document_category: medical
 document_type: medical
-entities:
-- Christopher Fuson
-- Amy Referring
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/PT
-  Pros Physical Therapy and Sports Center/Medical Records/2023-03-13-Amy-Mills-Medical-PT
-  Pros Physical Therapy and Sports Center-Medical-Records-PT-Pros-Physical-Therapy-Re-Evaluation.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/PT Pros Physical Therapy and Sports Center/Medical Records/2023-03-13-Amy-Mills-Medical-PT Pros Physical Therapy and Sports Center-Medical-Records-PT-Pros-Physical-Therapy-Re-Evaluation.pdf
 source_hash: sha256:f6fea79e7ea3bff237bf1a21966da8ea83dfc6d117d6e9411f5e362d3365c7ff
+contact: "[[cases/2019-04-26-prl-001/contacts/pt-pros-physical-therapy-and-sports-center]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 ©[DOB-1] 9:51 AM 16062194252 ~? 185926035141 pg 2of 7
 \-

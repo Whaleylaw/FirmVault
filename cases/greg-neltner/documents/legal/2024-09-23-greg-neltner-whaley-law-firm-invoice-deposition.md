@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-N
 source_hash: sha256:6e62496f637b73758aefc005515e470e5b571dbd91b84d4d44b9024d501ce1ea
 ---
 
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 KENTUCKIANA
 oomomenCOURT REPORTERS rn
 [PHONE-1]

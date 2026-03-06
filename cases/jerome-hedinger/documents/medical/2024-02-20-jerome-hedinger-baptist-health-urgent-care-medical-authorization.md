@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:19cb45d6f4f5df652aa5cccdd0720d51910dd028af7837000bc106af38622f11
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 [DOB-4]
 Baptist Health Urgent Care 
 3516 E. 10th Street

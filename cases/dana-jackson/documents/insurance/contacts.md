@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dana-J
 source_hash: sha256:8ac685e96d2ee60340fa8ab2b43a10e180387a11320a303bc9b93c570376c270
 ---
 
+**Case:** [[cases/dana-jackson/dana-jackson|Dana Jackson]]
+**Client:** [[cases/dana-jackson/contacts/dana-jackson|Dana Jackson]]
+
 item_0.jsonb_agg[0].full_name: DJ
 item_0.jsonb_agg[0].project_name: Dana-Jackson-MVA-1-24-2024
 item_0.jsonb_agg[0].roles[0]: client

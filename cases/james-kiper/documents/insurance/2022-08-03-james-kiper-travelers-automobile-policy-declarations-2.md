@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:a77907c5b0c6a2eb289193369c69944f548f55fdf080ad60496381e1e8e23b44
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 a. TRAVELERS J
 
 SPALDING INSURANCE GROUP 300 C MIDDLETOWN PARK PL LOUISVILLE, KY 40243

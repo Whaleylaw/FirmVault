@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya
 source_hash: sha256:c26f4177cd83fa0584fe09fce54bce978ba94bd0afb589aeca2bec47144febb2
 ---
 
+**Case:** [[cases/sariya-mason/sariya-mason|Sariya Mason]]
+**Client:** [[cases/sariya-mason/contacts/sariya-mason|Sariya Mason]]
+
 Subject: Re: New submission from 20 Second Scheduler
 From: sarena@whaleylawfirm.com
 To: [EMAIL-11]

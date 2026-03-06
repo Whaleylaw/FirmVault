@@ -1,8 +1,8 @@
 ---
 case_slug: caryn-mccay
-created_at: 2026-02-16 22:17:12.497000+00:00
+created_at: {}
 document_category: financial
-document_date: 1972-11-30
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2023-07-30-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-McCay-MVA-7-30-2023/Medical/2024-02-05-Caryn-McCay-Lexington-Diagnostic-Center-Knee-pain-imaging-report.pdf
 source_hash: sha256:64e2a7b2dd964e8d2f7d423772fa1bfe4ce1d1231f5d1dfde8c82d5f82955526
+contact: "[[cases/2023-07-30-mva-001/contacts/caryn-mccay]]"
 ---
+
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 
 This document contains private information – any unlawful disclosure is prohibited
 Lexington Diagnostic Center - 02.05.2024 & 03.12.2024 Bills.pdf - Page 13

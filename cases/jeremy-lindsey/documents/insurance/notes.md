@@ -19,6 +19,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:deddd9fe4a3838080d599f00833c37b368324dc21ec02a07f0351e0d7014e13b
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 item_0.author_name: Fuel Digital RingCentral Integration Service Account
 item_0.episode_type: imported
 item_0.last_activity: 2025-09-26T00:00:00

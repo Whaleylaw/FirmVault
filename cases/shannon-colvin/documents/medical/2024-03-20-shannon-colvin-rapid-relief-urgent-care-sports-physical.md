@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:a3edbb54caf1b3bd99d9bcbe1c8920aa0c7b144a92071c658f1784b32bf2c2de
 ---
 
+**Case:** [[cases/shannon-colvin/shannon-colvin|Shannon Colvin]]
+**Client:** [[cases/shannon-colvin/contacts/shannon-colvin|Shannon Colvin]]
+
 © [DOB-31] 10:41 AM ET Fax Services >15023649363 pg lof8
 From: Jessa Galosme Fax: 15023579939 To: Fax: [PHONE-2] Page: 1 of 2 03/29/2624 3:57 PM
 Aaron G. Whaley, Esa.

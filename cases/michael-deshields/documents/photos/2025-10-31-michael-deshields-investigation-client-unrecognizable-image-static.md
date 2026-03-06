@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:4f9109d87d0fbf07b4e0611514055ae0507fc844a9e733e94a7b930f177b1f99
 ---
 
+**Case:** [[cases/michael-deshields/michael-deshields|Michael Deshields]]
+**Client:** [[cases/michael-deshields/contacts/michael-deshields|Michael Deshields]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michael-Deshields-MVA-[DOB-1]/Investigation/2025-10-31-Michael-Deshields-Investigation-Client-Unrecognizable-image-static.jpg

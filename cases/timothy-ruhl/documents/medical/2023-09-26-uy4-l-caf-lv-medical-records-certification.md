@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:7062a403ca914b1cea41c7fe0ee6bded9fa8da107e97159a1460bfb27acbb30e
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 CERTIFICATION OF MEDICAL RECORDS AFFIDAVIT.
 bate Mtl , being first duly sworn on his/her oath, says that:
 {Name ofrecords custodian/clerk)

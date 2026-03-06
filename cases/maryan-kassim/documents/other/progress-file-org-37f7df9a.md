@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:fa5feddca1012a995d0446c68cc3d67756df7aea19b2bca973cb598265bd1af9
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 case_folder: Maryan-Kassim-MVA-[DOB-1]
 job_id: file-org-37f7df9a
 phases.extraction.completed_at: 2026-02-04T09:04:27.912507

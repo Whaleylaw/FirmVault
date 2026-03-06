@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:f9e6c294f40130717829308f7eef8fa14b3a0e8cdcd1aa82b476a5941be963e4
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 item_0.certificate_of_service: 2024-01-23
 item_0.filing_party_name: Bryce Koon
 item_0.pleading_type: Complaint

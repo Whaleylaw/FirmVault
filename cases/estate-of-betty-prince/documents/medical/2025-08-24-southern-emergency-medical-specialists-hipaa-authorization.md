@@ -1,6 +1,6 @@
 ---
 case_slug: estate-of-betty-prince
-created_at: 2026-02-16 23:40:29.660000+00:00
+created_at: {}
 document_category: medical
 document_type: medical
 extraction_method: native_text
@@ -10,7 +10,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate-of-Betty-Prince-Premise-7-14-2020/Medical/2025-08-24-Southern-Emergency-Medical-Specialists-HIPAA-Authorization.pdf
 source_hash: sha256:7acf1affb8f552922a1c03fb19d698880ba5bec66707aecc71100ec1d9f6ef02
+contact: "[[cases/2020-07-14-prl-001/contacts/southern-emergency-medical-specialists]]"
 ---
+
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 
 Southern Emergency Medical Specialists 
 AUTHORIZATION TO RELEASE PROTECTED HEALTH CARE INFORMATION

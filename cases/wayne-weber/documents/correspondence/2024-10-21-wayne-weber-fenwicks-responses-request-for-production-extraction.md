@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:73ed980bd880dcc29ae0335d68a1ad2cd197d59d23802e69fe9d26866650e9d5
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: litigation
 extraction.date: 2024-10-21
 extraction.description: Fenwick's responses to request for production for Wayne Weber case dated October 21, 2024.

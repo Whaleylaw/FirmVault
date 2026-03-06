@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:07cc90a8f0a4d16739bf3a55a15367ac5afe1e1de739d8956c4febf119e1cee6
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 Subject: Re: Harford Mutual Insurance Group Issued a Digital Payment for your Claim
 From: [EMAIL-19]
 To: sarena@whaleylawfirm.com

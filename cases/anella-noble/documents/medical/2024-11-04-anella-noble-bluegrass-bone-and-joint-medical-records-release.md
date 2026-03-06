@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:ef6e117b50c8c2b37894764706e911324d60bc11017daada1771ae68fb5c1636
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 [DOB-1]
 ***-**-7737 [DOB-1]
 Bluegrass Bone & Joint

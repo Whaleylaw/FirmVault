@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:bfe0bf6697d6a4ec18d3bae52d393e9e5ae742d5b86e2a1afd658612a5befd11
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 date: 2024-05-30
 description: Photo showing damage to the rear passenger side wheel area and dislodged rear bumper of Jimmy Ferguson's red 2008 Toyota Camry.
 original_path: Jimmy-Ferguson-MVA-5-30-2024/9d18c839-62d4-47a2-9adc-51eadf42e5f1.jpg

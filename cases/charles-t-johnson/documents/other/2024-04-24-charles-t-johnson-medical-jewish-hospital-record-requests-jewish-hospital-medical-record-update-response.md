@@ -1,19 +1,22 @@
 ---
 case_slug: charles-t-johnson
-created_at: 2026-02-16 22:25:43.989000+00:00
+created_at: {}
 document_category: other
 document_type: other
-entities:
-- University of Louisville
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-04-18-MVA-001
 mime_type: message/rfc822
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charles-T-Johnson-MVA-4-18-2023/Medical/Jewish
-  Hospital/Record Requests/2024-04-24-Charles-T-Johnson-Medical-Jewish Hospital-Record-Requests-Jewish-Hospital-Medical-Record-Update-Response.eml
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charles-T-Johnson-MVA-4-18-2023/Medical/Jewish Hospital/Record Requests/2024-04-24-Charles-T-Johnson-Medical-Jewish Hospital-Record-Requests-Jewish-Hospital-Medical-Record-Update-Response.eml
 source_hash: sha256:dc576e3bfe669853194d94b1a7113f98fb08c41032a2d85883b6703b0da89201
+contact: "[[cases/2023-04-18-mva-001/contacts/jewish-hospital]]"
 ---
+
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 
 Subject: UPDATE
 From: [EMAIL-1]

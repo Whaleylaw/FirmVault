@@ -21,6 +21,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:bc17b9d41fad50bd5a1de0c2d0790abe2e33f1b21e3256488cadc74237ba52b9
 ---
 
+**Case:** [[cases/charles-godsey/charles-godsey|Charles Godsey]]
+**Client:** [[cases/charles-godsey/contacts/charles-godsey|Charles Godsey]]
+
 case_name: Charles-Godsey-MVA-6-30-2025
 delete_operations[0].action: DELETE
 delete_operations[0].backup_location: _deleted/Copier Scans_20251001_132534 (1).pdf

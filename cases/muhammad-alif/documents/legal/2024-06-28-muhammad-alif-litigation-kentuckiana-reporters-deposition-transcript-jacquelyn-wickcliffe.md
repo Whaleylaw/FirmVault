@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:478aa1d39e38e2b4e2b047a73ab982a4b132838f60a066ead4d341b376121c83
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 Subject: Fw: Transcript Files | Jacquelyn Wickcliffe
 From: [EMAIL-8]
 To: sarena@whaleylawfirm.com

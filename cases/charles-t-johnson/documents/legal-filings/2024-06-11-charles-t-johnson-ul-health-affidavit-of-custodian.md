@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:21525a65966a3c80a9dedcb73130468ca3866774c486651782eacdd08772eb35
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 UL Health
 AFFIDAVIT OF CUSTODIAN OF RECORDS
 Patient’s Legal Name: CHARLES JOHNSON Date of Birth: 4-1-1952

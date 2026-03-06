@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:b88b5f08ff4e7f8e09117dac378e3218618e5b2af861f0df3f46847cb66e8c6b
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 Subject: Re: Cora Hall-Claim: AFC230577703
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:e99bbe98df57090c60f07193c8562d07041116e5e7dab6edeae0913e7a10b9a4
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 Doorn Farad
 
 07-22-24 13:48 FROM- CVBOKONICA 12707861557 T-428 P0007/0011 F-782

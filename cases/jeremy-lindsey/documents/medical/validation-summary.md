@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:bf54f551a03fcdab572002bccdd38ce010579ab2fbb93f0b45cb31904e23f532
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 action_distribution.COPY: 0
 action_distribution.MOVE: 77
 action_distribution.SKIP: 0

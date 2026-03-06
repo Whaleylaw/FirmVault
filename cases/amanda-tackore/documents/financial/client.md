@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amanda
 source_hash: sha256:d957871123f46f8d227e1c1882614f4e25c5c5b1e31b2201f4a9a1400c848465
 ---
 
+**Case:** [[cases/amanda-tackore/amanda-tackore|Amanda Tackore]]
+**Client:** [[cases/amanda-tackore/contacts/amanda-tackore|Amanda Tackore]]
+
 address: 1413 Clover Trace Place, Apt 102, Louisville, KY 40215
 date_of_birth: [DOB-1]
 imported_at: 2026-02-16T21:09:42.783Z

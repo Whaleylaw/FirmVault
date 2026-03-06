@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:e2bd7dc4e5b040f01bb94a321657c447ef602677eb6ac79e5c64a9f76e8b7c19
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Profit or Loss From Business OMB No 1545-0074
 
 SCHEDULE C (Form 1040 or 1040-SR) (Sole Proprietorship) 20) 1 9 > Go to www.irs.gov/ScheduleC for instructions and the latest information. Attachment Sequence No 09

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor
 source_hash: sha256:afdfa45107c5a1da104bce69e6b41798c1daa3b01b4a262d80d2fc45f164aa0b
 ---
 
+**Case:** [[cases/taylor-thompson/taylor-thompson|Taylor Thompson]]
+**Client:** [[cases/taylor-thompson/contacts/taylor-thompson|Taylor Thompson]]
+
 Subject: RE: *EXT*Claim Message from USAA
 From: [EMAIL-1]
 To: [EMAIL-2]

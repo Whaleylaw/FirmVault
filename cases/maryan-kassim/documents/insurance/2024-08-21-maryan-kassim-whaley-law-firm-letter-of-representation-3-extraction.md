@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:464bd0b523b5ef451cb98622f5c8a757b7fade9c3d28e84157bdebcab3d18a6a
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 category: Insurance
 description: Acknowledgment letter from Progressive Insurance (Keri Hall) confirming receipt of letter of representation for Maryan Kassim's PIP claim and indicating Keri Hall will handle the PIP/Med Pay file for claim 24-[POLICY-1].
 entities[0]: Keri A Hall

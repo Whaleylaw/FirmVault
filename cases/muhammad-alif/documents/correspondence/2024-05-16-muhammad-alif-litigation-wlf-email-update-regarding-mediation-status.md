@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:b3adeb61955157c9b68081e1ad8033a68fe298f720cd4c17891eed81506ac0b1
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 Subject: Re: 1ST CASE - MUHAMMAD ALIF ([DOB-1])
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

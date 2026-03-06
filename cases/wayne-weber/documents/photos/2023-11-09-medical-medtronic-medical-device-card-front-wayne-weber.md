@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:cec0d7ba99b9bc7145b309893d5593a349d48d21c0a8d8672ae688e86fe1d317
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-Weber-MVA-[DOB-1]/Medical/2023-11-09 - Medical - Medtronic - Medical Device Card Front - Wayne Weber.jpg

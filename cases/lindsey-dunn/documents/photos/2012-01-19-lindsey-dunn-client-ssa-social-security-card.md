@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Lindse
 source_hash: sha256:5b86cb462238ac89a4ed393616b592fafed4d309a827adea138f26df6d5487a7
 ---
 
+**Case:** [[cases/lindsey-dunn/lindsey-dunn|Lindsey Dunn]]
+**Client:** [[cases/lindsey-dunn/contacts/lindsey-dunn|Lindsey Dunn]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Lindsey-Dunn-MVA-9-24-2025/Client/2012-01-19-Lindsey-Dunn-Client-SSA-Social-Security-Card.jpg

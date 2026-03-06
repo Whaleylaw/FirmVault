@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Antoni
 source_hash: sha256:b7bf1e1c3014d1e40a14a0f72e1e4ce1e7702fd47782f964ec4af3ac4a5025da
 ---
 
+**Case:** [[cases/antonio-lopez/antonio-lopez|Antonio Lopez]]
+**Client:** [[cases/antonio-lopez/contacts/antonio-lopez|Antonio Lopez]]
+
 item_0.jsonb_agg[0].full_name: Antonio Lopez
 item_0.jsonb_agg[0].project_name: Antonio-Lopez-MVA-[DOB-9]
 item_0.jsonb_agg[0].roles[0]: client

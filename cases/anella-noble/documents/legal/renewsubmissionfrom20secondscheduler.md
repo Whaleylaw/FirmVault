@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:c867598c609fed50ef4cf06b4206fcb69e341cc12df4ef5abd1155e747cf9762
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: Re: New submission from 20 Second Scheduler
 From: [EMAIL-13]
 To: sarena@whaleylawfirm.com

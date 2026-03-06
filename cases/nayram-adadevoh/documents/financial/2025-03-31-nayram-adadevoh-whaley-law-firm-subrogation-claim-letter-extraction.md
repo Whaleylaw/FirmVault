@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:cbd7adbdce6270336f6c471d19dc7a28b9355c2e4305fc7d6590ac9ed248bea5
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: lien_correspondence
 date: 2025-03-31
 description: Subrogation claim letter from Coghlan Law LLC to Whaley Law Firm dated March 31, 2025. Regarding Chicago Public Schools' Benefit Plan lien for Nayram Adadevoh in amount of $877.61 with itemization of benefits paid.

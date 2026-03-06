@@ -1,21 +1,23 @@
 ---
 case_slug: frances-whitis
-created_at: 2026-02-16 23:42:43.227000+00:00
+created_at: {}
 document_category: medical
-document_date: 2024-09-16
+document_date: {}
 document_type: medical
-entities:
-- Frankfort Regional Hospital
+entities: null
 extraction_method: native_text
 legacy_case_id: 2024-09-06-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Frances-Whitis-WC-MVA-9-6-2024/Medical/Frankfort
-  Regional Medical Center/Record Requests/2024-09-16-Frances-Whitis-WC-Medical-Frankfort
-  Regional Medical Center-Record-Requests-Client-Signed-Medical-Authorization.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Frances-Whitis-WC-MVA-9-6-2024/Medical/Frankfort Regional Medical Center/Record Requests/2024-09-16-Frances-Whitis-WC-Medical-Frankfort Regional Medical Center-Record-Requests-Client-Signed-Medical-Authorization.pdf
 source_hash: sha256:b9e045c0fd07bbbb2aec6e9d09cc4e368861f9bff69248f40d627816f8b1c9dc
+contact: "[[cases/2024-09-06-mva-001/contacts/frankfort-regional-medical-center]]"
 ---
+
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 
 Frankfort Regional Hospital
 299 Kings Daughters Drive

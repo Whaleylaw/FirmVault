@@ -1,11 +1,10 @@
 ---
 case_slug: james-sadler
-created_at: 2026-02-16 23:55:17.764000+00:00
+created_at: {}
 document_category: financial
-document_date: 2023-05-22
+document_date: {}
 document_type: financial
-entities:
-- Dr. Taryn Wilson
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-04-07-MVA-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Sadler-MVA-4-07-2023/Medical/2023-07-10-James-Sadler-Aiken-Family-Dentistry-PSC-Dental-Visit-Summary.pdf
 source_hash: sha256:de0d5eaa2d6d419fae1c0d74f5ead79de51126e76bf9544157b23ddc4f494f82
+contact: "[[cases/2023-04-07-mva-001/contacts/aiken-family-dentistry]]"
 ---
+
+**Case:** [[cases/james-sadler/james-sadler|James Sadler]]
+**Client:** [[cases/james-sadler/contacts/james-sadler|James Sadler]]
+
 
 July 19, 2023
 James Sadler

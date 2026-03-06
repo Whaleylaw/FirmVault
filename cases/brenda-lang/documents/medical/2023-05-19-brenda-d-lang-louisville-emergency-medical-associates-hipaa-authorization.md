@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:ac478198f2af7a2d8c4246a515932431c40d7dfa2bfc937c0b30b2d7ed1ad242
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 Louisville Emergency Medical Associates
 P.O. Box 6749
 Louisville, KY 40206

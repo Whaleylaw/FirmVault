@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie
 source_hash: sha256:ff86a6fcee1a1cd56bc2107de0fd84bd1ebe22017cbe9650eed264d1d20a43aa
 ---
 
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 Client Information
 Client Name: Stevie Hawks
 Phone Number: [PHONE-1]

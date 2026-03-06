@@ -1,20 +1,23 @@
 ---
 case_slug: forrest-muss
-created_at: 2026-02-16 23:41:26.396000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 2025-07-20
+document_date: {}
 document_type: correspondence
-entities:
-- Little Clinic
+entities: null
 extraction_method: native_text
 legacy_case_id: 2025-07-20-MVA-001
 mime_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Forrest-Muss-MVA-07-20-2025/Medical/Little
-  Clinic/Record Requests/2025-07-20-Forrest-Muss-Medical-Little Clinic-Record-Requests-WLF-Medical-Records-Request.docx
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Forrest-Muss-MVA-07-20-2025/Medical/Little Clinic/Record Requests/2025-07-20-Forrest-Muss-Medical-Little Clinic-Record-Requests-WLF-Medical-Records-Request.docx
 source_hash: sha256:983a2fd0bc1119a68cf964e5067aebc52f1aadaed7db150a4412baf622ec17fe
+contact: "[[cases/2025-07-20-mva-001/contacts/little-clinic]]"
 ---
+
+**Case:** [[cases/forrest-muss/forrest-muss|Forrest Muss]]
+**Client:** [[cases/forrest-muss/contacts/forrest-muss|Forrest Muss]]
+
 
 *Aaron G. Whaley, Esq.*
 *712 Lyndon Lane*

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Elizab
 source_hash: sha256:2ab502f936e1aeb41164eff14ec979b1fd94e13bcd4fa4ef36d332a0a65bb247
 ---
 
+**Case:** [[cases/elizabeth-lindsey/elizabeth-lindsey|Elizabeth Lindsey]]
+**Client:** [[cases/elizabeth-lindsey/contacts/elizabeth-lindsey|Elizabeth Lindsey]]
+
 vinesign Document ID: 3hbU90/8Y /-YUUb6-49U5-3 1T8U-UY8SU40CAFBOU
 Affidavit
 Before me, the undersigned this day appeared Elizabeth Lindsey (“Affiant”) who being by me first duly sworn,

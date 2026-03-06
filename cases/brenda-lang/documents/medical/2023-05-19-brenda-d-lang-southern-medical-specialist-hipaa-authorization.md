@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:c9f6590c01b26c04940d47865aa588ee5713d02bb12c9ca7cdc8a6e8e534c351
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 Southern Medical Specialist
 P.O. Box 36218
 Louisville, KY 40233

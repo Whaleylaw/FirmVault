@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:bd7eb7459fc49f16246e07538c99b38677c8e4d791d5fcf580b35519ddaf4542
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 address: 10217 Saint Rene Road, Louisville, KY 40299
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

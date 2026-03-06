@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel
 source_hash: sha256:06aca64575af229870448d63d8f6c4c88c6d27b2caadca47dd18db50813f29e2
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 oe BAPTIST HEALTH’
 GROUP
 2400 EASTPOINT PKWY

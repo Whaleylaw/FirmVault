@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:d432ded159ae58774b128bef9cdc2c05e099e03b53e279324c54232a3ebe93c8
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: client_communication
 extraction.date: 2024-03-01
 extraction.description: Voice message notification from client Peggy Weber [PHONE-1]) requesting a discovery conference call, forwarded via RingCentral to Sarena Tuttle at Whaley Law Firm.

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:27b8db46777331ca73b393ff7ffd26785da251030bcee27f55f9402eca48b448
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 content_analysis.category: Investigation
 content_analysis.date: 2025-08-28
 content_analysis.description: Traffic collision report form

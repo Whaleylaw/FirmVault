@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya
 source_hash: sha256:570011f7cf049c130d386c601b2a4b0bb804c13f919683a537581a5fe3b5570e
 ---
 
+**Case:** [[cases/sariya-mason/sariya-mason|Sariya Mason]]
+**Client:** [[cases/sariya-mason/contacts/sariya-mason|Sariya Mason]]
+
 Subject: RE: Schrice Thomas v Yanelys Castillo et al - Jeff Cir Crt - 23-CI-006039
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

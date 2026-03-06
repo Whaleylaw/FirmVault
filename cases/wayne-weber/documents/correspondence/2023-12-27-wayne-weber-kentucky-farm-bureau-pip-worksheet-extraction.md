@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:909345117702242edd13b411809646865828ac857d5d9d94aa8a41bf70aaacdf
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: insurance_pip
 extraction.date: 2023-12-27
 extraction.description: Kentucky Farm Bureau PIP worksheet for Wayne Weber dated December 27, 2023.

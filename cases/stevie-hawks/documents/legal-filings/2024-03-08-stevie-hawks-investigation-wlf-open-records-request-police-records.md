@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie
 source_hash: sha256:63c752caf57cbd12b94111ba8fe1d1e89a2929baed253c2bc1bc3293b6a8ebf3
 ---
 
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 Form OAG-01, June 2021
 Pursuant to KRS 61.876(4), the Office of Attorney General has promulgated by 
 administrative regulation this form. See 40 KAR 1:040.

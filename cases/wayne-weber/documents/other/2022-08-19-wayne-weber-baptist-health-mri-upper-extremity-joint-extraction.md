@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:63ca8576cb0809bad640feb933164b8df089bd03c3900d674f74bd54f5d7e293
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: medical_record
 extraction.date: 2022-08-19
 extraction.description: MRI imaging records from Baptist Health for Wayne Weber's upper extremity joint, dated August 19, 2022. Follow-up diagnostic imaging for accident-related injuries.

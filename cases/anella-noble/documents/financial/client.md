@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:0fda53e64e148d43d930788d51cfe86a5cdc3d04d7f27a8b641f1737d3b30478
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 address: 635 Elliston Dr, , Gonzales, LA 70737
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

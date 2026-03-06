@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2022-12-05-OTH-001
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-Hall-WC-[DOB-1]/Medical/2022-12-08-Cora-Hall-MCH-Ortho-and-Sports-Med-Left-radius-fracture-ORIF.pdf"
 source_hash: "sha256:af8287de469584872f8ec610ff9ebbb35fc2e328b408947c4c542893b0229c5a"

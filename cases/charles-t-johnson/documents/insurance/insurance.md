@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:31bc38c0a12c7ae8499c2a84375dbded0ff079f6b836bafc8ad58ebcd194fa94
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 item_0.adjuster_phone: [PHONE-2]
 item_0.claim_number: 1748L638H
 item_0.coverage_confirmation: Coverage Confirmed

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:d0634b8f01aec9dc279bfbf57f68bb220547dda9c2bf4deec8eff351c876b270
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Subject: Your FCE Reminder - July 25, 2022
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

@@ -1,8 +1,8 @@
 ---
 case_slug: caryn-mccay
-created_at: 2026-02-16 22:16:41.605000+00:00
+created_at: {}
 document_category: financial
-document_date: 2021-10-22
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2023-07-30-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-McCay-MVA-7-30-2023/Client/2025-02-17-Caryn-McCay-The-Whaley-Law-Firm-Electronic-Record-Disclosure.pdf
 source_hash: sha256:39f522e1d353470eb23ec61f64c8489305b70e3f3656caa57cf6cf81563b5603
+contact: "[[cases/2023-07-30-mva-001/contacts/caryn-mccay]]"
 ---
+
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 
 Certificate Of Completion
 Envelope Id: 29B54D85-3796-49E4-9B3C-762987BB45D7 Status: Completed

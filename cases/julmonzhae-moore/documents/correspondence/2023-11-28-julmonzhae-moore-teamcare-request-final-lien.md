@@ -1,8 +1,8 @@
 ---
 case_slug: julmonzhae-moore
-created_at: 2026-02-16 23:59:53.365000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 2023-08-29
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2023-08-29-MVA-003
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmonzhae-Moore-MVA-8-29-2023/Liens/2023-11-28-Julmonzhae-Moore-TeamCare-Request-Final-Lien.pdf
 source_hash: sha256:224ee895e56c83bcfa0f8504262499d63637a24ced7e3f6ff977ab6b07aa4d13
+contact: "[[cases/2023-08-29-mva-003/contacts/teamcare]]"
 ---
+
+**Case:** [[cases/julmonzhae-moore/julmonzhae-moore|Julmonzhae Moore]]
+**Client:** [[cases/julmonzhae-moore/contacts/julmonzhae-moore|Julmonzhae Moore]]
+
 
 Aaron G. Whaley, Esq.
 712 Lyndon Lane

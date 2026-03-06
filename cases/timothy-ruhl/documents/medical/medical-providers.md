@@ -21,6 +21,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:ed97ac0b30f2a4c59ab728f8d90629558e6570fe1adf01a8f784147e83120073
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 item_0.phone: [PHONE-1]
 item_0.project_name: Timothy-Ruhl-Premise-[DOB-15]
 item_0.provider_full_name: ENT Associates

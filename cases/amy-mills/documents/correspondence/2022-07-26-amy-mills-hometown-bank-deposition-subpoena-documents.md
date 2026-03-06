@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:d5e46ac4c7ee2accb62a23b4480ac586aafff49453e4c55c4ef7dc627d5a9253
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 t= HOMETOWN Fi BANK
 Feels like home.
 P.O. Box 1323

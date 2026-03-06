@@ -4,6 +4,9 @@ document_category: insurance
 legacy_case_id: 2024-02-15-MVA-002
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christopher-Wilkerson-WC-MVA-[DOB-1]/Medical Records/2024-02-15-Christopher-Wilkerson-Ephraim-McDowell-Regional-Medical-Center-Workmans-Compensation.pdf"
 source_hash: "sha256:e01566754c2dd6e3ca[PHONE-2]b6e49eacc1d25c377346c08256b0dabe7558"

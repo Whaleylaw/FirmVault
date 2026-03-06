@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:7df3495670cf73b0e45be55bb5b7f839068e7eece961a47f88e9d992e31d1611
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: Claim: LA000-044618000-03 Anella Noble (KAC)
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:8b76ce6312bb7fd07c8b8fe789c2f9862bbf9232b05c03bc0b5f79e353ac1d72
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 On April 26th, 2019 (the day of the accident)
 
 My daughter and | had been working a month long fundraiser for the city of Corbin and the Ossoli foundation (a nonprofit organization) holding bake sales at public venues in our free time, selling goods, and traveling to local businesses to obtain donations.

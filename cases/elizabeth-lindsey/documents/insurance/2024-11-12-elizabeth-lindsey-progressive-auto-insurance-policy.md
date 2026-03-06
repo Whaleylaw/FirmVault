@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Elizab
 source_hash: sha256:79f9b574b6460f34febd47b018d37f5c32ff[POLICY-1]b422860f4a65c0e8ef80
 ---
 
+**Case:** [[cases/elizabeth-lindsey/elizabeth-lindsey|Elizabeth Lindsey]]
+**Client:** [[cases/elizabeth-lindsey/contacts/elizabeth-lindsey|Elizabeth Lindsey]]
+
 Form_SCTNID_CTGRY.KY[POLICY-2]_DECPAGE
 [POLICY-3] R IC94606 INS DECPAGE E POLWHITEFONT UUKXNVCLZO2OE2CJBYLXMM7DZB0001 RPUID TRACWHITEFONT BDF_AA
 Policy Number: [POLICY-3]

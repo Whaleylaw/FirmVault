@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:23d2e18d14cb34af814fe85495efe9002d73ad9eb065a375ffa7b4ad04680723
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 August 14, 2024
 The Whaley Law Firm
 712 Lyndon Ln

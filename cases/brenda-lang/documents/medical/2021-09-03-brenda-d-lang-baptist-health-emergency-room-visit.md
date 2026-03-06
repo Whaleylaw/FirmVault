@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2021-09-03-MVA-001
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda-Lang-MVA-[DOB-1]/Medical/2021-09-03-Brenda-D-Lang-Baptist-Health-Emergency-Room-Visit.pdf"
 source_hash: "sha256:0ec40bd01f167278d64e239df06d1a5f200eeaec2bcca79cad823df9c4c5a777"

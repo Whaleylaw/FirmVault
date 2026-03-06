@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2023-02-25-PrL-001
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimberly-Brasher-Premise-2-25-2023/Medical/2023-02-25-Kimberly-Brasher-Deaconess-Health-System-Hospital-services-itemization.pdf"
 source_hash: "sha256:e643adeec1f6beea9147525fc9547f56ea29f5c7ebe0793325e8e37e2f458ffe"

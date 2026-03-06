@@ -1,8 +1,8 @@
 ---
 case_slug: ashlee-williams
-created_at: 2026-02-16 22:08:10.990000+00:00
+created_at: {}
 document_category: financial
-document_date: 2023-08-29
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2023-08-29-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee-Williams-MVA-08-29-2023/Medical-Records/2023-08-29-Ashlee-K-Williams-New-Chapel-EMS-Patient-transport-bill.pdf
 source_hash: sha256:2f63568121fc81ad019d7b0e51f4d25783510f4255c6c6dbc5e05755e1b6e3a6
+contact: "[[cases/2023-08-29-mva-001/contacts/new-chapel-ems]]"
 ---
+
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 
 Feb.1.2024 10:04AM Utica Twnshp Fire Dept No.0337 PL9
 New ChapelEMS

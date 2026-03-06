@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:2f2dcd0650ca75bf0f562f97efa5d13472db2754a931402a0ca1f6eac6dfaf29
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 case_folder: Alma-Cristobal-MVA-2-15-2024
 job_id: file-org-6efef0c1
 mappings[0].action: MOVE

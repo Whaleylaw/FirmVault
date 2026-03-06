@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julian
 source_hash: sha256:e011d0d4cc4b11564d1f58f339dc774099ef4b74bf69c77731f424cbf7b9323a
 ---
 
+**Case:** [[cases/julian-wilson/julian-wilson|Julian Wilson]]
+**Client:** [[cases/julian-wilson/contacts/julian-wilson|Julian Wilson]]
+
 PROGRESSIVE CLAIMS
 P.O. BOX 2930
 CLINTON, IA 52733-9934

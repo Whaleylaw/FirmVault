@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-
 source_hash: sha256:b0e4da3e048a3d693aad00a00144ee6a42d82f196f43b3097a2c551787b15b90
 ---
 
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 category: medical_request
 date: 2025-06-20
 description: Medical billing request dated June 20, 2025 to F&S Radiology. Requests itemized billing for dates May 2, 2025 to Present. Includes reference to HIPAA authorization.

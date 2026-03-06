@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:f132beecde5d02acaffd82788933df8820bc8b2f189461276cc1f613cfa6f827
 ---
 
+**Case:** [[cases/james-sadler/james-sadler|James Sadler]]
+**Client:** [[cases/james-sadler/contacts/james-sadler|James Sadler]]
+
 Subject: Fwd: New Voice Message from JEFFERSONCOUNTY [PHONE-11] on [DOB-2] 12:41 PM
 From: [EMAIL-3]
 To: sarena@whaleylawfirm.com, [EMAIL-8]

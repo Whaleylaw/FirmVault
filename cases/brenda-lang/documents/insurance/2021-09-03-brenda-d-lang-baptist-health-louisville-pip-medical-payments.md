@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:27997a04d57e9fceb5dd84a9a940fe995db72d165ac12eabf7af26280dfc27a8
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 1007048 Page 1 of 2 2005 148026 205 [DOB-22]
 RBZ000FJ State Farm®
 Payment Log

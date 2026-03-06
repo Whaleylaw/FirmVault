@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:c1186fa77cb694576a88bb8666f84b170b6cff11d8648838d846d135d19e0d10
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 CASE NO.: _____________ JEFFERSON CIRCUIT COURT 
 DIVISION _____ 
 JUDGE ____________________ 

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:551e6faae4fd699cff6b1125d3e919f084fad05e83457158adaf5362ce7151ce
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 category: vehicle_damage
 date: 2025-09-03
 description: Photograph of the silver 2012 Ford Fusion (Unit 1, other party vehicle) showing severe damage to the passenger side (3 o'clock position). This vehicle struck Unit 2 while making a left turn.

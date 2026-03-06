@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee
 source_hash: sha256:4b73457a97fdf03c299c2e2bb6d9f60bb9ac7f62b697601fa3c40db28dad8bcb
 ---
 
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 October 25, 2024
 Whaley Law Firm
 712 Lyndon Ln

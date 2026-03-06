@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:52d61e31b05a7360a93d5fdbec8ca1a108e586e75d77f5706e955878c5da63aa
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: legal_document
 date: 2025-03-24
 description: Defendant CAAL Worldwide Inc's answers to Plaintiffs' first set of interrogatories and requests for production of documents in case 25-CI-000133. Certificate of Service dated March 24, 2025.

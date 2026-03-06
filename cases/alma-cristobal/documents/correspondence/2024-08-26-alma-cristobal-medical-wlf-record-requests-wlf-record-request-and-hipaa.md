@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:dc9ce6d93c7f5a1ecb012860392166e58f8351ebcecf01b92fac4def6085a5ed
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 Fax Confirmation
 To: [PHONE-12] From: [PHONE-11]
 Doc:

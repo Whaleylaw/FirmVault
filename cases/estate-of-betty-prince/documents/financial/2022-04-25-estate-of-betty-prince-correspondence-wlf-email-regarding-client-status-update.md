@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:baf21cc08ff3b809744af0cc3dff1e884859449e05e52114e959acb65223bf12
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 Subject: Fwd: Robert Prince - - Ruby Mail
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

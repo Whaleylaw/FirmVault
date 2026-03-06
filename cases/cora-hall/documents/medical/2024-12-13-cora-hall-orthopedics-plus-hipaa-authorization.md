@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2022-12-05-OTH-001
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-Hall-WC-[DOB-1]/Client/2024-12-13-Cora-Hall-Orthopedics-Plus-HIPAA-Authorization.pdf"
 source_hash: "sha256:67bb13f5c0aa5de889e6d651b926cceb60625ca82f4147fdb6dd44ace527c8bb"

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:582bbf4b8533af1b2498398e2a34c919c9879993c7dbcbe4cfdb735358f321d8
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 case_folder: Michael-Crader-MVA-5-19-2023
 job_id: file-org-08f17daa
 phases.extraction.completed_at: 2026-02-04T04:23:05.514995

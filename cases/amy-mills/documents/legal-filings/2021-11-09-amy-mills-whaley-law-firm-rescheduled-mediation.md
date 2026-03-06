@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:05e45a0fea35d9c5422c3a69ca5050be11417872d5e2518b9303de8a0b48ae5a
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 BRIAN C. HOUSE MEDIATIONS
 Committed To Dispute Resolution
 Founders Square * 310 West Fifth Street * P.O. Box 2095 * London, Kentucky 40743-2095

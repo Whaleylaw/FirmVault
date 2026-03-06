@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dewayn
 source_hash: sha256:c4326d385f75cb22884e26f3a42c378de217fe756b97d82bf3d84f95daffcf0d
 ---
 
+**Case:** [[cases/dewayne-ward/dewayne-ward|Dewayne Ward]]
+**Client:** [[cases/dewayne-ward/contacts/dewayne-ward|Dewayne Ward]]
+
 Official copy obtained through BuyCrash.co
 004339391 Indiana Officer's Standard Crash Report fatanaRun]
 Local Id Vehicles Commercial Injuries Fatalities

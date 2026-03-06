@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nicole
 source_hash: sha256:b9332ec429c981812c67a8cfadb85b98bed75c119f0c0774653b0510e5f00acd
 ---
 
+**Case:** [[cases/nicole-tewes/nicole-tewes|Nicole Tewes]]
+**Client:** [[cases/nicole-tewes/contacts/nicole-tewes|Nicole Tewes]]
+
 ST. ELIZABETH FLORENCE ST. ELIZABETH FLORENCE 3a PAT.
 CNTL # 87442863700 4 TYPE
 OF BILL

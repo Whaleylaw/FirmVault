@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:a9a8e4afa2fb2614b9733c7c1fb4e0f6311cba293004958a71c524b47fa3bff2
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 category: Client
 description: HIPAA Authorization form for Louisville Metro EMS
 entities[0]: Alma Socorro Cristobal Avendaño

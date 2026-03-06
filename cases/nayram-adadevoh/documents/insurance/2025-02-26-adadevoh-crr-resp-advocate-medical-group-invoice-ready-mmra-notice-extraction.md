@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:0215975d2faf28d0577fbe506e8fc46221041f0bcb6d2917a7c815e7246ccfac
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: medical_records_notification
 date: 2025-02-25
 description: Email notification from MMRA ([EMAIL-1]) stating medical records request RA964572 for Advocate Medical Group is ready for download. Includes Web ID: RA964572B148 and instructions to access TRACQuest portal. Claim Number: ADADEVOH. Dated February 25, 2025.

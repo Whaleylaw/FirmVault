@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nicole
 source_hash: sha256:de0545fe43a999d3454285c631de8dc0c8a0efc413429ed320ba1c01ea8c8563
 ---
 
+**Case:** [[cases/nicole-tewes/nicole-tewes|Nicole Tewes]]
+**Client:** [[cases/nicole-tewes/contacts/nicole-tewes|Nicole Tewes]]
+
 date_of_birth: [DOB-1]
 email: [EMAIL-1]
 imported_at: 2026-02-16T21:09:42.783Z

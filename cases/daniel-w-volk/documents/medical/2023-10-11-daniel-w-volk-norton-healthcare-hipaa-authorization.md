@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2021-09-24-MVA-001
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel-W-Volk-MVA-[DOB-80]/Legal Documents/2023-10-11-Daniel-W-Volk-NORTON-HEALTHCARE-HIPAA-Authorization.pdf"
 source_hash: "sha256:e0798c02d2b39ae416a65477e39b1437e795772e1f0a7da6ea0bbd99b326acdb"

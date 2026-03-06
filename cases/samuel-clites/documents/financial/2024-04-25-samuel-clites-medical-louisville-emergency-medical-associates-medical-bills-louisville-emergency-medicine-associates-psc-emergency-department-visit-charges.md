@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Samuel
 source_hash: sha256:a4239f38e38ffc5214b02b10a53d1de80fcc796fa07161eca37426894c362ba6
 ---
 
+**Case:** [[cases/samuel-clites/samuel-clites|Samuel Clites]]
+**Client:** [[cases/samuel-clites/contacts/samuel-clites|Samuel Clites]]
+
 Do you want to queue this activity? No=> 
  Grp - 3 Gottlieb PAGE: 1
  Ledgers PRINTED: [DOB-11] 10:51PM

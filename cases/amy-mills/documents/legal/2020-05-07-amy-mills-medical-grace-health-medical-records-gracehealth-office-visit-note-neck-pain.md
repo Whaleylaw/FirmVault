@@ -2,7 +2,12 @@
 case_slug: amy-mills
 document_category: legal
 legacy_case_id: 2019-04-26-PrL-001
+contact: "[[cases/2019-04-26-prl-001/contacts/grace-health]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-[DOB-44]/Medical/Grace Health/Medical Records/2020-05-07-Amy-Mills-Medical-Grace Health-Medical-Records-GraceHealth-Office-Visit-Note-Neck-Pain.pdf"

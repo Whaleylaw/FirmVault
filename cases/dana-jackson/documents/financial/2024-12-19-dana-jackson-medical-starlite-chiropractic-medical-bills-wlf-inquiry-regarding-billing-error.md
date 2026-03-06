@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dana-J
 source_hash: sha256:318258a7015128d52a541e986d21f7f3e9422897d3e8413782a0fdd5a0adb994
 ---
 
+**Case:** [[cases/dana-jackson/dana-jackson|Dana Jackson]]
+**Client:** [[cases/dana-jackson/contacts/dana-jackson|Dana Jackson]]
+
 Subject: Dana Jackson Certified Medical Billing Error
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

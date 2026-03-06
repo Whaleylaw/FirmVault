@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2020-07-14-PrL-001
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate-of-Betty-Prince-Premise-7-14-2020/Medical/2020-10-14-Robert-Prince-Norton-Healthcare-Medical-Records-Release.pdf"
 source_hash: "sha256:ed4fbff48302ac846d5c07cf8a74939abc3ea34e89edcce28e4b8abab70c93c6"

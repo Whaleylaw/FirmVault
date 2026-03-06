@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:8f9872f32834fe017ebea57859ab24a54ced205bad3885a86a049b4efe6dc4a6
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 item_0.coverage_confirmation: Coverage Confirmed
 item_0.insurance_type: Personal Injury Protection (PIP)
 item_0.is_active_negotiation: false

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:057c84a145f5670b092a65d83c61b8163090b85e21bfb5d7a6529a383169b6d3
 ---
 
+**Case:** [[cases/shannon-colvin/shannon-colvin|Shannon Colvin]]
+**Client:** [[cases/shannon-colvin/contacts/shannon-colvin|Shannon Colvin]]
+
 UofL Physicians [DOB-35] 10:28:23 AM PAGE 1/011 Fax Server
 FAX
 To: Fax User

@@ -1,19 +1,22 @@
 ---
 case_slug: charles-t-johnson
-created_at: 2026-02-16 22:25:42.927000+00:00
+created_at: {}
 document_category: medical
-document_date: 2024-04-09
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2023-04-18-MVA-001
 mime_type: message/rfc822
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charles-T-Johnson-MVA-4-18-2023/Medical/Integra
-  Medical Imaging/Medical Records/2024-04-09-Charles-T-Johnson-Medical-Integra Medical
-  Imaging-Medical-Records-Integra-Medical-Imaging-Correspondence-Regarding-Medical-Records-Certification.eml
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charles-T-Johnson-MVA-4-18-2023/Medical/Integra Medical Imaging/Medical Records/2024-04-09-Charles-T-Johnson-Medical-Integra Medical Imaging-Medical-Records-Integra-Medical-Imaging-Correspondence-Regarding-Medical-Records-Certification.eml
 source_hash: sha256:f90ade0c99a451294a50b98a2860d163e0ddd36491b1429fdd9b72e07b73b96e
+contact: "[[cases/2023-04-18-mva-001/contacts/integra-medical-imaging]]"
 ---
+
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 
 Subject: Re: Charles Johnson Medical Records
 From: sarena@whaleylawfirm.com

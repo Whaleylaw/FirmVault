@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel
 source_hash: sha256:95471a87cb0968bb267d895822a060b3a815adf865c4620cfa8263e07a741ed6
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 Subject: NEF, OLDHAM 25-CI-00111, VOLK, DANIEL VS. SAFECO INSURANCE COMPANY OF ILLINOIS Envelope # 10146000
 From: [EMAIL-5]
 To: [EMAIL-4], SARENA@WHALEYLAWFIRM.COM, [EMAIL-3]

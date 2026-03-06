@@ -4,6 +4,9 @@ document_category: correspondence
 legacy_case_id: 2020-07-14-PrL-001
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate-of-Betty-Prince-Premise-7-14-2020/Medical/2021-10-13-Robert-Prince-DSJandAssociates-HospitalFallOpinion.pdf"
 source_hash: "sha256:7065dabd851005bd8c7307245f1b284faf4d449aee0940c4a4bf54ee5c71581a"

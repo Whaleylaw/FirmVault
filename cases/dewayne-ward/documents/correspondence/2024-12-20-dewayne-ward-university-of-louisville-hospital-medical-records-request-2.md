@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dewayn
 source_hash: sha256:0b279981fbccf10c0186cbeca9f03be42e0641b92364258ac5214042fa271900
 ---
 
+**Case:** [[cases/dewayne-ward/dewayne-ward|Dewayne Ward]]
+**Client:** [[cases/dewayne-ward/contacts/dewayne-ward|Dewayne Ward]]
+
 TToaf To Mhyrt oi ann Lis s/HPAoCr A
 FAX
 To: The Whaley Firm

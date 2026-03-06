@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-
 source_hash: sha256:ddd19753dd021b57683aa847bd0e333e5ecd7b75fa900ed943b0b31fe3764bc7
 ---
 
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 case_name: Davis-Robinson-SF-[DOB-1]
 generated_at: 2025-01-22T16:00:00Z
 mappings[0].action: MOVE

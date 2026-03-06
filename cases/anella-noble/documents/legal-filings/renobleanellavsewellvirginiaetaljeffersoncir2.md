@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:602cc1392fe4e4ef4bc91103b7055c5eb77cde763cf7a55f19c8dd38e94aeb26
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: RE: Noble, Anella v. Sewell, Virginia, et al. (Jefferson Circuit 21-CI-004985)
 From: [EMAIL-1]
 To: [EMAIL-2], sarena@whaleylawfirm.com

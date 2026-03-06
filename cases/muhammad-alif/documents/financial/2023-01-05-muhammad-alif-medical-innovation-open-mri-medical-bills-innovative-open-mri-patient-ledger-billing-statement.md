@@ -1,20 +1,23 @@
 ---
 case_slug: muhammad-alif
-created_at: 2026-02-17 00:11:12.926000+00:00
+created_at: {}
 document_category: financial
-document_date: 2023-01-05
+document_date: {}
 document_type: financial
-entities:
-- Farmers Insurance
+entities: null
 extraction_method: native_text
 legacy_case_id: 2022-11-08-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Innovation
-  Open MRI/Medical Bills/2023-01-05-Muhammad-Alif-Medical-Innovation Open MRI-Medical-Bills-Innovative-Open-MRI-Patient-Ledger-Billing-Statement.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Innovation Open MRI/Medical Bills/2023-01-05-Muhammad-Alif-Medical-Innovation Open MRI-Medical-Bills-Innovative-Open-MRI-Patient-Ledger-Billing-Statement.pdf
 source_hash: sha256:0d6dcb1bafbdfdc196551c1a057f2c0caae21d11ec3e1d7f89a38d60db2c8f9f
+contact: "[[cases/2022-11-08-mva-001/contacts/innovation-open-mri]]"
 ---
+
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 
 inovative Open MRI $3200.00
 Aiif, Muhammad Patient Ledger Balance Due: Acbount Number: Ledger Date:

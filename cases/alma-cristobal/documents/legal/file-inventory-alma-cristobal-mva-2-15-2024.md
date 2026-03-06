@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:4f5771c4868758756330173773bcdc75d367af40cebba9d0c20bf1483c4dbcb6
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 item_0.extension: .eml
 item_0.name: ncpjeffersoncircuit24-ci-004728cristobalalmavscret1.eml
 item_0.path: ncpjeffersoncircuit24-ci-004728cristobalalmavscret1.eml

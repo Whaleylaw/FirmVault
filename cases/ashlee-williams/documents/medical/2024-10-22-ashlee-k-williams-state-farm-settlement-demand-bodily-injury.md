@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2023-08-29-MVA-001
 ---
 
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee-Williams-MVA-[DOB-6]/Insurance/2024-10-22-Ashlee-K-Williams-State-Farm-Settlement-Demand-Bodily-Injury.pdf"
 source_hash: "sha256:0c193369796c1a5f5db2b127ed86f7204f47cd241fd0cbd6496e06388063ab65"

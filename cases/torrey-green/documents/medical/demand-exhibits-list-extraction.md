@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:d51466f7a6b85d8eb690fd3c7e7901875cacf41b8ca03c13e4dd7985aec40f78
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 category: demand_exhibits
 date: 2026-01-23
 description: Demand package exhibits list dated 1/23/2026 detailing evidence for settlement demand including police report, medical records/bills from UofL Hospital ($22,884.58) and Starlite Chiropractic ($1,665.00), vehicle damage photos, total demand $98,198.32

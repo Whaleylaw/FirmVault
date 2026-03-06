@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:528a0104e2a280107eeaae91f0ab5c17d8bca58919305eb74a1718db8e058ab3
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: Anella Noble v Virginia Sewell - Motion to Sub Unk Driver
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1], [EMAIL-2]

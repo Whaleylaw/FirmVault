@@ -1,12 +1,10 @@
 ---
 case_slug: james-sadler
-created_at: 2026-02-16 23:55:16.342000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 2002-02-06
+document_date: {}
 document_type: correspondence
-entities:
-- Dr. Carmon Rudolph
-- Dr. Taryn Wilson
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-04-07-MVA-001
 mime_type: application/pdf
@@ -14,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Sadler-MVA-4-07-2023/Medical/2018-11-28-James-Sadler-Aiken-Family-Dentistry-Patient-Notes.pdf
 source_hash: sha256:cf21984c36d8624ad49d5ee2ff5e13f6176e57765cdadb9dba7adce95f4300f8
+contact: "[[cases/2023-04-07-mva-001/contacts/aiken-family-dentistry]]"
 ---
+
+**Case:** [[cases/james-sadler/james-sadler|James Sadler]]
+**Client:** [[cases/james-sadler/contacts/james-sadler|James Sadler]]
+
 
 TIME 10:45 AM Aiken Family Dentistry PSC DATE 9/12/2024
 James Sadler

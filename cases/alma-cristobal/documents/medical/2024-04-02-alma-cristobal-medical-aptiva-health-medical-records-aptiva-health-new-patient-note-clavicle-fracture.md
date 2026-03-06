@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:a8693ca6e88f3e469e0a7ecd41b49459934bae3a05bfc5efdea5693440ba0833
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 Aptiva Health
 3615 Newburg Rd, Louisville, KY 40218-3368
 Aptiva New Patient Note

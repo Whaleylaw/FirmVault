@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Lindse
 source_hash: sha256:a56ce01b88be1a0d1e2792480da4a376823a1d2f35a3d82aece88fc1cf54ce32
 ---
 
+**Case:** [[cases/lindsey-dunn/lindsey-dunn|Lindsey Dunn]]
+**Client:** [[cases/lindsey-dunn/contacts/lindsey-dunn|Lindsey Dunn]]
+
 accident_date: 2025-09-24
 case_type: MVA
 client_name: Lindsey-Dunn

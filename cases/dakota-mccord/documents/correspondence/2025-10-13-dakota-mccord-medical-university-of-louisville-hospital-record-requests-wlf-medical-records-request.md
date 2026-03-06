@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dakota
 source_hash: sha256:85b4822b741f23a8f54b890c598927d25fb3215d3afb8c4ce9c30feeaea15e2e
 ---
 
+**Case:** [[cases/dakota-mccord/dakota-mccord|Dakota McCord]]
+**Client:** [[cases/dakota-mccord/contacts/dakota-mccord|Dakota McCord]]
+
 Aaron G. Whaley, Esq.
 THE 712 Lyndon Lane HALEY Louisville, KY 40222
 Ph: [PHONE-1]

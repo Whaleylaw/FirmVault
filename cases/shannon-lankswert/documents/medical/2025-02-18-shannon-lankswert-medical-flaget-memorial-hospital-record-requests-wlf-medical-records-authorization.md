@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:6c7431162e9f564fd2e6d6ba8fd227f58d25bdcf6270a755be0b893d0b74ee55
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 [DOB-1]
 Flaget Memorial Hospital
 4305 New Shepherdsville Road

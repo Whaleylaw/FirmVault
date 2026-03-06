@@ -4,6 +4,9 @@ document_category: correspondence
 legacy_case_id: 2022-01-01-MVA-001
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-Weber-MVA-[DOB-1]/2024-10-15 - Legal - Notice of Representation - Whaley Law Firm.pdf"
 source_hash: "sha256:56c67b05497333227de3c405fbc7c78f4360e65aee0858c7a80fdefd10a6e35c"

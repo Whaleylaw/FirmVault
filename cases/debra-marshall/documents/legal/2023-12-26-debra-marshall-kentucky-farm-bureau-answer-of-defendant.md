@@ -1,10 +1,9 @@
 ---
 case_slug: debra-marshall
-created_at: 2026-02-16 23:04:26.598000+00:00
+created_at: {}
 document_category: legal
 document_type: legal
-entities:
-- Kentucky Farm Bureau
+entities: null
 extraction_method: native_text
 legacy_case_id: 2022-12-03-MVA-001
 mime_type: application/pdf
@@ -12,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-Marshall-MVA-12-3-2022/Legal-Documents/2023-12-26-Debra-Marshall-Kentucky-Farm-Bureau-Answer-of-Defendant.pdf
 source_hash: sha256:48713853c6467b3a7ecd021b861c4e7c0b661fb2de4182d97ab984ced89d4589
+contact: "[[cases/2022-12-03-mva-001/contacts/kentucky-farm-bureau]]"
 ---
+
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 
 COMMONWEALTH OF KENTUCKY 
 BARREN DISTRICT COURT 

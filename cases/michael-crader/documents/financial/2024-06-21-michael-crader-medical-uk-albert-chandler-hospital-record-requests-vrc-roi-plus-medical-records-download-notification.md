@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:57374f54840c3db2ac63965c5813c35a200eafc3c3b2fb07205fe859a8591121
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 Subject: VRC ROI  Request Fulfillment Notification
 From: [EMAIL-3]
 To: SARENA@WHALEYLAWFIRM.COM

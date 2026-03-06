@@ -1,11 +1,10 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:49:39.936000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1983-12-28
+document_date: {}
 document_type: correspondence
-entities:
-- Baptist Health
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Review_Needed/2023-01-11-Amy-Mills-Baptist-Health-Orthopedic-Sport-Medicine-Medical-Records-Request.pdf
 source_hash: sha256:cc7fa2b260e6cd15597d9fa86d4438a7cf2e56c3963c89ff116f74d18eb046e2
+contact: "[[cases/2019-04-26-prl-001/contacts/baptist-health-orthopedic-sport-medicine]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 Fax Confirmation
 To: [PHONE-1] From: [PHONE-9]

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:3e407d846080dede800e1b9adad8195c6b989bba0978c24a0f8f15326cfb52e2
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 Form AWW-1
 Average Weekly Wage Certification
 Adopted January 1, 1997

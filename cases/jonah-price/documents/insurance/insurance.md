@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jonah-
 source_hash: sha256:59c69ca905453c7afe3126b957b51f1f28b496e925fec00a55c8cc3a2f2980a6
 ---
 
+**Case:** [[cases/jonah-price/jonah-price|Jonah Price]]
+**Client:** [[cases/jonah-price/contacts/jonah-price|Jonah Price]]
+
 item_0.adjuster_phone: [PHONE-1]
 item_0.claim_number: 25-918731776
 item_0.insurance_adjuster_name: Kiosha Robinson

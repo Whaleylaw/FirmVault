@@ -1,11 +1,10 @@
 ---
 case_slug: estate-of-betty-prince
-created_at: 2026-02-16 23:40:16.063000+00:00
+created_at: {}
 document_category: financial
-document_date: 2020-01-23
+document_date: {}
 document_type: financial
-entities:
-- Humana
+entities: null
 extraction_method: native_text
 legacy_case_id: 2020-07-14-PrL-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate-of-Betty-Prince-Premise-7-14-2020/Medical/2022-03-03-Robert-Prince-Humana-Medical-Benefits-Statement.pdf
 source_hash: sha256:e2e258868a47b257d6d726700d02731c4e74088292749882128c853ad1969569
+contact: "[[cases/2020-07-14-prl-001/contacts/humana]]"
 ---
+
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 
 ©[DOB-20] 10:40 AM Fax Services >AARON WHALEY
 To: AARON WHALEY

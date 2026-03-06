@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:98990465d340725678c2a193ee8c75054e978166ba3f6faa8e04d4f422dd171c
 ---
 
+**Case:** [[cases/james-sadler/james-sadler|James Sadler]]
+**Client:** [[cases/james-sadler/contacts/james-sadler|James Sadler]]
+
 July 17, 2023
 Whaley Law Firm
 712 Lyndon Ln

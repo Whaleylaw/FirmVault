@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:b9f972c7dee68d063fd8652835d38282838ae1b09a6ee329f1a249adf232c186
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: settlement_document
 date: 2025-06-30
 description: Settlement demand letter from Blackburn Domene Burchett PLLC dated June 30, 2025.

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:dfc9ab52cc3282290b26e5083514a54feabaa6ca6a13389e5ebf0be59c6881f9
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 IN RE: Estate of ______________________________________________________________________________
 Decedent’s Date of Death: ______________________ Decedent’s SSN: ______________________________
  Description of Assets Estimated Value

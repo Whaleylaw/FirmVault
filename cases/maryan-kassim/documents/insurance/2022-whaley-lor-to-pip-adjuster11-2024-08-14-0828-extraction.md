@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:1ca4fa33ee3522cea0f1120c3924c25acf4926b3e625cf9414bb188944e67a18
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 category: Insurance
 date_extracted: 2024-08-14
 description: Template Letter of Representation (LOR) from Whaley Law Firm to PIP adjuster. Dated August 14, 2024. Form 2022 template notifying PIP insurance adjuster of legal representation for personal injury client Maryan Kassim. Sent at 08:28.

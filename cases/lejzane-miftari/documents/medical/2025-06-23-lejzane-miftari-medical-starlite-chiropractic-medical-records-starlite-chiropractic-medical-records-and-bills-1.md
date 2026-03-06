@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2025-06-18-MVA-001
 ---
 
+**Case:** [[cases/lejzane-miftari/lejzane-miftari|Lejzane Miftari]]
+**Client:** [[cases/lejzane-miftari/contacts/lejzane-miftari|Lejzane Miftari]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Lejzane-Miftari-MVA-6-18-2025/Medical/Starlite Chiropractic/Medical Records/2025-06-23-Lejzane-Miftari-Medical-Starlite Chiropractic-Medical-Records-Starlite-Chiropractic-Medical-Records-and-Bills-1.pdf"
 source_hash: "sha256:ca426dd2fffa4f9e17ed4c9095c058edfb5044e330f088ad9a44ce3494b6307d"

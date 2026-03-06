@@ -1,6 +1,6 @@
 ---
 case_slug: debra-marshall
-created_at: 2026-02-16 23:04:40.080000+00:00
+created_at: {}
 document_category: financial
 document_type: financial
 extraction_method: native_text
@@ -8,11 +8,14 @@ legacy_case_id: 2022-12-03-MVA-001
 mime_type: message/rfc822
 page_count: 1
 quality_score: 95
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-Marshall-MVA-12-3-2022/Medical/Ambulance
-  Service Corp/Medical Records/2024-04-08-Debra-Marshall-Medical-Ambulance Service
-  Corp-Medical-Records-911-Billing-Medical-Record-Download-Link.eml
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-Marshall-MVA-12-3-2022/Medical/Ambulance Service Corp/Medical Records/2024-04-08-Debra-Marshall-Medical-Ambulance Service Corp-Medical-Records-911-Billing-Medical-Record-Download-Link.eml
 source_hash: sha256:243112695d314329235db393efe34ef752dc84e69e376b48e2592d71b1f0d779
+contact: "[[cases/2022-12-03-mva-001/contacts/ambulance-service-corp]]"
 ---
+
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 
 Subject: Records- Marshall
 From: [EMAIL-2]

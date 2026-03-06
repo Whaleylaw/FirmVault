@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Malcom
 source_hash: sha256:49093a810fe3461421b8bd3ada70ecee5e5d8afce691380a0a04986ceb85c0e1
 ---
 
+**Case:** [[cases/malcom-glass-jones/malcom-glass-jones|Malcom Glass Jones]]
+**Client:** [[cases/malcom-glass-jones/contacts/malcom-glass-jones|Malcom Glass Jones]]
+
 Dec.18.2024 01:10 AM esezeese40 PB9/20
 WNL,
 ‘AverageOverweight Obese

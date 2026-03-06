@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:44af810be7a3d0bbdaf89a5784f75033c3ddc4f3b17a9184532aa8b7cdf99fc8
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: insurance_correspondence
 extraction.date: 2023-11-06
 extraction.description: Letter of representation sent to State Farm Insurance Company notifying them that The Whaley Law Firm represents Wayne Weber in his motor vehicle accident claim.

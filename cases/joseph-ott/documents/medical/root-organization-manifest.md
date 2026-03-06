@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Joseph
 source_hash: sha256:2f9a36d133b2f499f779f73a5363ac5feea9e58afba13a9dd0e7d1e7d689569a
 ---
 
+**Case:** [[cases/joseph-ott/joseph-ott|Joseph Ott]]
+**Client:** [[cases/joseph-ott/contacts/joseph-ott|Joseph Ott]]
+
 accident_date: 2025-08-06
 case_type: MVA
 client_name: Joseph-Ott

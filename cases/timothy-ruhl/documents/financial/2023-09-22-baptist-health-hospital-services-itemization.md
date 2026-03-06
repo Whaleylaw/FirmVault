@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:528ae5060744406f6587d7ecd94fbcdc004acdf8ad0cdceb3b6f2cbe41382beb
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 © 7 Baptist HEALTH
 a
 PO BOX 87225

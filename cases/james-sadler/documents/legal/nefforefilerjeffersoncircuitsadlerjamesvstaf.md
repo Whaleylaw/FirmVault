@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:f40fa8ef28c3af27959e0a2fe9e16e6ee1eabfa01b061a0f89927c909782c7e8
 ---
 
+**Case:** [[cases/james-sadler/james-sadler|James Sadler]]
+**Client:** [[cases/james-sadler/contacts/james-sadler|James Sadler]]
+
 Subject: NEF, (for eFiler) JEFFERSON Circuit , SADLER,  JAMES VS. TAFESSE, EYOB Envelope # 9601990
 From: [EMAIL-4]
 To: [EMAIL-3], Sarena@WhaleyLawFirm.com, [EMAIL-3]

@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2023-04-07-MVA-001
 ---
 
+**Case:** [[cases/james-sadler/james-sadler|James Sadler]]
+**Client:** [[cases/james-sadler/contacts/james-sadler|James Sadler]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Sadler-MVA-4-07-2023/HIPAA-Authorizations/2023-07-13-James-Sadler-Baptist-Health-Louisville-HIPAA-Authorization.pdf"
 source_hash: "sha256:c67b074787fa9322af48bfa809a467c585c523db4f5cec79b6a5500571ca2347"

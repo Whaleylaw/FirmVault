@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:7bdf55d1dd4096b4905bc7a3419c763f698170a385307b9ab768411029eda5a3
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 BF oo prisT HEALTH BAPTIST HEALTH MEDICAL Mills, Amy oa GROUP ORTHOPEDICS AND MRN: [PHONE-1], DOB: [DOB-64], Sex: F SPORTS MEDICINE Visit date: 1/7/2020 1760 NICHOLASVILLE RD STE 101 LEXINGTON KY 40503-1427
 
 [DOB-2] - Office Visit in BAPTIST HEALTH MEDICAL GROUP ORTHOPEDICS AND SPORTS MEDICINE Clinical Impression/Visit Diagnoses

@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2020-07-14-PrL-001
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate-of-Betty-Prince-Premise-7-14-2020/Pleadings/2020-07-14-Robert-Prince-Norton-Health-Care-Betty-Prince-Fall-Affidavit.pdf"
 source_hash: "sha256:95a276b9e9e3d69e41d454131ea1660dc7cf9f69cc8a32ea3372f1dbd2754e01"

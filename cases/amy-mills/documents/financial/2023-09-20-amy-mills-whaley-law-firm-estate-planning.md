@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:02124cc99cc953634c8f325ea3adad13c3aba1952bf44d185f02976288129807
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 PQ BOX "06 CINCINN,..., 5H 45263-4706
 
 OG/G697FO m

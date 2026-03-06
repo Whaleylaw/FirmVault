@@ -4,6 +4,9 @@ document_category: correspondence
 legacy_case_id: 2019-04-26-PrL-001
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-[DOB-13]/Review_Needed/2023-06-19-Amy-Mills-Baptist-Neurology-Medical-Records-Request.pdf"
 source_hash: "sha256:f10e65426de890d86e42e33e0e019f3773223a4e8175c8d073666ada232684d2"

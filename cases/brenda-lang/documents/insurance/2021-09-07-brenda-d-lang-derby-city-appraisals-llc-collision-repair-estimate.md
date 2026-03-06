@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:7fee26c5c21b15a2f26cd4da0e242de7bbf386aa34f1faf69960fcc34c2661c5
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 Date:
 
 9/ 7/2021 04:53 PM

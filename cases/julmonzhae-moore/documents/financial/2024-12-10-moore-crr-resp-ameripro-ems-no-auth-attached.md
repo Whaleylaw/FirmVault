@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmon
 source_hash: sha256:7aecc4674479984dd72be3c3845e26e80a35716670ff95d7f1630ad9b4684f8f
 ---
 
+**Case:** [[cases/julmonzhae-moore/julmonzhae-moore|Julmonzhae Moore]]
+**Client:** [[cases/julmonzhae-moore/contacts/julmonzhae-moore|Julmonzhae Moore]]
+
 Subject: Request has been updated by AmeriPro EMS of Indiana, LLC
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

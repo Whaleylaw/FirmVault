@@ -2,7 +2,12 @@
 case_slug: james-sadler
 document_category: financial
 legacy_case_id: 2023-04-07-MVA-001
+contact: "[[cases/2023-04-07-mva-001/contacts/louisville-endodontics]]"
 ---
+
+**Case:** [[cases/james-sadler/james-sadler|James Sadler]]
+**Client:** [[cases/james-sadler/contacts/james-sadler|James Sadler]]
+
 
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Sadler-MVA-4-07-2023/Medical/2023-10-18-James-Sadler-Louisville-Endodontics-Dental-consultation-fracture.pdf"

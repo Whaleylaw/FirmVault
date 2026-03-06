@@ -21,6 +21,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:66bde42fa1ded3588e08af65cf2cd8ecad3a73e6ac67b269cb0546a2eaad2886
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 # DEPOSITION DEFENSE PREPARATION REPORT
 
 ## James Kiper v. Musimbi Amani, et al.

@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:1566813d4a7ce59d34f8b466765ad9aed2a623e7195d86e478199aea355f6835
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: medical
 date: 2025-02-10
 description: Hospital billing claim for radiology diagnostic services for Chase Lindsey, service date 02/10/25, total charges $263.00

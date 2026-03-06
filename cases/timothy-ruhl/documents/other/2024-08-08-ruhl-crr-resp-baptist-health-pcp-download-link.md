@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:7b549bf2cd25051581c7c2062490f4117b735253421f0d7f8c70f94e3f375491
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 Subject: You've been added to a workspace
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

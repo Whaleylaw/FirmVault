@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:a5cbcac0153c343706e75ad5c3bd819da2954789d98d11b8dbd07ea89efac7c2
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 item_0.date_notice_received: 2024-08-15
 item_0.holder_address: P.O. Box 31224, Tampa, FL 33631-3224
 item_0.holder_phone: [PHONE-1]

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor
 source_hash: sha256:a585d3eb0f0d883beca2603a2f4e8091bb0ad83b2da3ce3ea1592fd57f1a4845
 ---
 
+**Case:** [[cases/taylor-thompson/taylor-thompson|Taylor Thompson]]
+**Client:** [[cases/taylor-thompson/contacts/taylor-thompson|Taylor Thompson]]
+
 Subject: FW: Taylor Thompson MVA December 2024
 From: [EMAIL-1]
 To: [EMAIL-2], [EMAIL-9]

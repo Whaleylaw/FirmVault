@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2023-08-29-MVA-002
 ---
 
+**Case:** [[cases/dewayne-ward/dewayne-ward|Dewayne Ward]]
+**Client:** [[cases/dewayne-ward/contacts/dewayne-ward|Dewayne Ward]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dewayne-Ward-MVA-8-29-2023/Correspondence/2024-10-22-Dewayne-Ward-Whaley-Law-Firm-Settlement-Demand.pdf"
 source_hash: "sha256:2c1c80ab1c28c2a99697ac359c37f5cecee3f8f4fdaae3023a0a347f2b0d9c5b"

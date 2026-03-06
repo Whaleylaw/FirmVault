@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2023-06-15-MVA-001
 ---
 
+**Case:** [[cases/robin-wilder-hamilton/robin-wilder-hamilton|Robin Wilder Hamilton]]
+**Client:** [[cases/robin-wilder-hamilton/contacts/robin-wilder-hamilton|Robin Wilder Hamilton]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-Wilder-Hamilton-MVA-6-15-2023/Medical/2024-06-29-Robin-Wilder-Hamilton-LEXINGTON-CDD-VAMC-muscle-spasms-neck.pdf"
 source_hash: "sha256:228b51813a67b9ec5eac74d70afbf4883f28bcd4b5321a6034677a33357717f4"

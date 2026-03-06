@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-N
 source_hash: sha256:49df0e2f03110500391ed2a7212efbc462833c16ebfc2c9cd4f43c69f3c7d20c
 ---
 
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 St. Elizabeth Primary Care
 135 Courthouse Crossing
 Independence, KY 41051

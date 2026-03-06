@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:8fcdab2c794df71ed115d7d568267229555be0b8d1a2c79eff7fc16dee56cb5e
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 Okolona Fire & EMS
 8501 Preston Highway
 Louisville, KY 40219

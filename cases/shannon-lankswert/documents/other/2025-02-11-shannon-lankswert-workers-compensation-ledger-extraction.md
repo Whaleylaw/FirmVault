@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:0eb2580417b1ce48bd08f4824fe0f2ae88643c4d05e51076573d5cc29487fb29
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 extraction.category: Legal
 extraction.date: 2025-02-11
 extraction.description: Workers' Compensation TTD (Temporary Total Disability) Ledger tracking weekly benefits from [DOB-2] through [DOB-2]. Average Weekly Wage (AWW) ranges from $1,231-$1,511. Weekly rate $1,007.85

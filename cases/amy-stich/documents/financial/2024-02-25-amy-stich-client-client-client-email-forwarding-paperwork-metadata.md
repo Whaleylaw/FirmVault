@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:e2123234a3edfd8d406f62908164e376bafb26e69e0dfcc39604b9f1c7be5a5b
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 content_length_chars: 261
 document_metadata.attachments[0]: Re_ Claim # 237484.eml
 document_metadata.created_at: 2024-02-25T20:35:45Z

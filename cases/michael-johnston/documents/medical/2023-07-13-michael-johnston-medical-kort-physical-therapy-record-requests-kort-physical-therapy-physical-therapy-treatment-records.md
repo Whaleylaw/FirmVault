@@ -2,7 +2,12 @@
 case_slug: michael-johnston
 document_category: medical
 legacy_case_id: 2023-05-03-OTH-001
+contact: "[[cases/2023-05-03-oth-001/contacts/kort-physical-therapy]]"
 ---
+
+**Case:** [[cases/michael-johnston/michael-johnston|Michael Johnston]]
+**Client:** [[cases/michael-johnston/contacts/michael-johnston|Michael Johnston]]
+
 
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michael-Johnston-WC-[DOB-1]/Medical/KORT Physical Therapy/Record Requests/2023-07-13-Michael-Johnston-Medical-KORT Physical Therapy-Record-Requests-KORT-Physical-Therapy-Physical-Therapy-Treatment-Records.pdf"

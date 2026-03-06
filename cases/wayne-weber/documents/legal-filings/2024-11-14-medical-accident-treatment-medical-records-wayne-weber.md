@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:2af47ca0959d28df147589d52b9c63ee28e84f515496091fad25916632b54710
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 14-Nov-2024 15:27 [PHONE-2] [PHONE-2] p.4
 CERTIFICATION OF MEDICAL RECORDS AFFIDAVIT
 Kon Cound , being first duly sworn on his/her oath, says that:

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Elizab
 source_hash: sha256:aa92ba1277ecd5f1d362512555bfba3f50d3ee97339e8109263d7d7ccd4d184d
 ---
 
+**Case:** [[cases/elizabeth-lindsey/elizabeth-lindsey|Elizabeth Lindsey]]
+**Client:** [[cases/elizabeth-lindsey/contacts/elizabeth-lindsey|Elizabeth Lindsey]]
+
 MRO ™
 1000 Madison Avenue, Suite 100 Invoice mn co
 Norristown, PA 19403 92957539

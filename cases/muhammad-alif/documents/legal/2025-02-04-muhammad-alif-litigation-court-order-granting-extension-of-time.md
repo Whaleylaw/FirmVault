@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:d5e6d9e0859fa81edfaf174c0575a9293ff9d335b4e28e9ddeef01efa6332a44
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 Pa
 Tendered 23-Cl0055i. [DOB-5]
 CASE NO. 23-CI-005509

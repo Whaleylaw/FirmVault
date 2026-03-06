@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Leanor
 source_hash: sha256:433c143f3b1ad1768845c0c5c079b03400ee89025e64ae51dd148c4843d84590
 ---
 
+**Case:** [[cases/leanora-brown/leanora-brown|Leanora Brown]]
+**Client:** [[cases/leanora-brown/contacts/leanora-brown|Leanora Brown]]
+
 accident_date: 2025-08-19
 case_type: MVA
 client_name: Leanora-Brown

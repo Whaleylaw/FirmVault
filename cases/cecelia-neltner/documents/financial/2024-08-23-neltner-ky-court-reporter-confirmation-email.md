@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ceceli
 source_hash: sha256:99d9c4f0179323ddddb059dcfe2a61da447afda7769a981de7c3e778d5b709c6
 ---
 
+**Case:** [[cases/cecelia-neltner/cecelia-neltner|Cecelia Neltner]]
+**Client:** [[cases/cecelia-neltner/contacts/cecelia-neltner|Cecelia Neltner]]
+
 Subject: Re: New submission from 20 Second Scheduler
 From: [EMAIL-8]
 To: sarena@whaleylawfirm.com

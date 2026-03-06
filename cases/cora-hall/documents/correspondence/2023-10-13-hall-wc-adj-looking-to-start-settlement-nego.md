@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:cfe366d24004da883f2ee9214e9bd0aa8e36bf5bfa14e1f209f175aaad455cbc
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 Subject: RE: Claim AFC 230577703 - Cora Hall - Updated Ledger Request
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

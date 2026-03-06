@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor
 source_hash: sha256:3c82c82407ad254ecca41e26a795108c4e8b86e473d3cf2a82045ab9cc42e260
 ---
 
+**Case:** [[cases/taylor-thompson/taylor-thompson|Taylor Thompson]]
+**Client:** [[cases/taylor-thompson/contacts/taylor-thompson|Taylor Thompson]]
+
 Subject: RE: *EXT*Status Request for Taylor Thompson's Case: (DOL: [DOB-1])
 From: [EMAIL-2]
 To: [EMAIL-3], [EMAIL-4], [EMAIL-5]

@@ -21,6 +21,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:7ccd8927c2964e35cf4dd8c1f5416517700bff56d350cde36cfee560143b1cfd
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 UKHealthCare,, 
 UK Kentucky Neuroscience Institute - NS Consult 
 DOS: [DOB-6] 

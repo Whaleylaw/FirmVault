@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:b83fd9d1bf05bf1ed3ed74970a410bc6e7c9652aeee7a42d054ad3a3ae7e668c
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 content_length_chars: 1402
 document_metadata.attachments[0]: 2024.02.26 Stich WC LOR to Hartford Mutual Insurance.pdf
 document_metadata.cc_emails[0]: [EMAIL-7]

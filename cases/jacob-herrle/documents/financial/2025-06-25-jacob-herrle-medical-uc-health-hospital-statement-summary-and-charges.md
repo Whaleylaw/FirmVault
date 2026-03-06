@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jacob-
 source_hash: sha256:e125144bd8423b9c9c78e61f42fc76bb4c71b47f1aba12a7477453b8790e5772
 ---
 
+**Case:** [[cases/jacob-herrle/jacob-herrle|Jacob Herrle]]
+**Client:** [[cases/jacob-herrle/contacts/jacob-herrle|Jacob Herrle]]
+
 Guarantor Name: JACOB HERRLE
 Guarantor Number: 1977698
 $1,241.31

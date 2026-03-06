@@ -1,6 +1,6 @@
 ---
 case_slug: michael-johnston
-created_at: 2026-02-17 00:06:57.935000+00:00
+created_at: {}
 document_category: photos
 document_type: photo
 extraction_method: image_proxy
@@ -10,7 +10,12 @@ page_count: 1
 quality_score: 70
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michael-Johnston-WC-05-03-2023/Client/2023-05-03-Michael-Johnston-Client-OasisSpace-Walker-Warranty-Card.jpg
 source_hash: sha256:378fc763abf330337195f0fd82042bea640be74db10cbbc2b48b47fdfce4295f
+contact: "[[cases/2023-05-03-oth-001/contacts/oasisspace]]"
 ---
+
+**Case:** [[cases/michael-johnston/michael-johnston|Michael Johnston]]
+**Client:** [[cases/michael-johnston/contacts/michael-johnston|Michael Johnston]]
+
 
 # Image Document
 

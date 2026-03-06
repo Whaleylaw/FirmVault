@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:8fc57c23f44f9fba59e3bf1c94171e6ac7e403cf98f8bac1abda61b1eba6f9a9
 ---
 
+**Case:** [[cases/charles-godsey/charles-godsey|Charles Godsey]]
+**Client:** [[cases/charles-godsey/contacts/charles-godsey|Charles Godsey]]
+
 Bug.18.2025 01:04 PM Tri-State 32026681614
 
 : ‘ t | 4 q ? | \ ; i H | I | }

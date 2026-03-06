@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:10b43f778ef3523e63e749974997b607d880970c08ba2532369c07fd6e4e1441
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 7857 US-460
 [DOB-1]: Crader MVA Scene - Opposite Direction (2 Lane - Country Road)
 Google Maps

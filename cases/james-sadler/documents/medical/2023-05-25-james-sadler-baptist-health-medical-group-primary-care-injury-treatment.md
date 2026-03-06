@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2023-04-07-MVA-001
 ---
 
+**Case:** [[cases/james-sadler/james-sadler|James Sadler]]
+**Client:** [[cases/james-sadler/contacts/james-sadler|James Sadler]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Sadler-MVA-4-07-2023/Medical/2023-05-25-James-Sadler-Baptist-Health-Medical-Group-Primary-Care-Injury-Treatment.pdf"
 source_hash: "sha256:3fb0729d4c4cb42633dc1ccbbd724c8151aeea6c1edb24e318d2c09cbfa01833"

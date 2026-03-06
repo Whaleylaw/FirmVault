@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel
 source_hash: sha256:57f74a6ba149f289d9db3d99866f028739c7379b84276d0b76dfa886c7842a25
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 AUTHORIZATION FOR RELEASE OF EMPLOYMENT RECORDS
  TO: ______________________________________________________________________ 
  

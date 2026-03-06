@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:22d73646e87b2e99c974f3cd6b80e47dd2ccd5e2f2b782c4932d5474152135fe
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 category: Investigation
 description: Qualcomm messaging system messages
 entities[0]: Alma Socorro Cristobal Avendaño

@@ -1,6 +1,6 @@
 ---
 case_slug: muhammad-alif
-created_at: 2026-02-17 00:11:02.603000+00:00
+created_at: {}
 document_category: financial
 document_type: financial
 extraction_method: native_text
@@ -8,10 +8,14 @@ legacy_case_id: 2022-11-08-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 90
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Cutting
-  Edge Orthopedics/Medical Bills/2022-11-28-Muhammad-Alif-Medical-Cutting Edge Orthopedics-Medical-Bills-Cutting-Edge-Orthopedics-Services-Medical-Billing-Statement.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Cutting Edge Orthopedics/Medical Bills/2022-11-28-Muhammad-Alif-Medical-Cutting Edge Orthopedics-Medical-Bills-Cutting-Edge-Orthopedics-Services-Medical-Billing-Statement.pdf
 source_hash: sha256:7958370f2725c282e210642ebaeb25f2e867f1d7fe7ab291c84cd2eb392fc38f
+contact: "[[cases/2022-11-08-mva-001/contacts/cutting-edge-orthopedics]]"
 ---
+
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 
 Please detach and return top portion with your payment
 Patient Name:

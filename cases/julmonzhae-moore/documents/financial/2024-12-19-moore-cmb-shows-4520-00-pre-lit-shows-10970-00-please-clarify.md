@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmon
 source_hash: sha256:85ce8041b50194c1ecf6836fb7bc23046318ddd342f480cbe49b0360473f7293
 ---
 
+**Case:** [[cases/julmonzhae-moore/julmonzhae-moore|Julmonzhae Moore]]
+**Client:** [[cases/julmonzhae-moore/contacts/julmonzhae-moore|Julmonzhae Moore]]
+
 Subject: Julmonzhae Moore Certified Medical Billing Error
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1], [EMAIL-2]

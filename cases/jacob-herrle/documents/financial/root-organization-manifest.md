@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jacob-
 source_hash: sha256:70567531a0be44141afa92b5fb273ff4c8e5d0647d8ede2991b4a8ac6b66c859
 ---
 
+**Case:** [[cases/jacob-herrle/jacob-herrle|Jacob Herrle]]
+**Client:** [[cases/jacob-herrle/contacts/jacob-herrle|Jacob Herrle]]
+
 accident_date: 2025-06-17
 case_type: MVA
 client_name: Jacob-Herrle

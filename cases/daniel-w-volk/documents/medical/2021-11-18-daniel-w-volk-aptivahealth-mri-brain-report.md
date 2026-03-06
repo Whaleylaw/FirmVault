@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel
 source_hash: sha256:512c3e0b01f5e03c57b60a4aa28fd557f4dd519564038021234f09d9f068f37e
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 Central Louisvilie East Louisville
 3615 Newburg Road 10100 Linn Station Road, Suite 1A
 Louisville, KY 40218 Louisville, KY 40223

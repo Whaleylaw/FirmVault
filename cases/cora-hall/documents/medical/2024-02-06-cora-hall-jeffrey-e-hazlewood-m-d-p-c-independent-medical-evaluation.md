@@ -19,6 +19,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:04fab58ccc4691689fec3b18a9d6b04d94f4f2310cf42192581e492cefeee441
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 JEFFREY E. HAZLEWOOD, M.D., P.C.
 100 Physicians Way Suine 250
 Lebanon, Tennessee 37090

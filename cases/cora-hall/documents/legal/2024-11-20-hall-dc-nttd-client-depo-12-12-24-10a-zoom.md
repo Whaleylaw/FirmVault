@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:acfb6885649980e752aa36e05e60607b06e1f4e241d488d7e72b04829f049c74
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 COMMONWEALTH OF KENTUCKYPRIVATE 
 	DEPARTMENT OF WORKERS’ CLAIMS
 	BEFORE  MERGEFIELD ALJ_CAPS HON. W. GREG HARVEY, ALJ

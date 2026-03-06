@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:a7affdddc3f25a718740bbb1426b809e6cfaab5b3034a52e1be881374b8883d7
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 Docusign Envelope ID: 92463950-7895-43C9-A043-F3D911A25F44
 LEGAL FUNDING PARTNERS, LLC
 a. =—= ASSIGNMENT AND PURCHASE AGREEMENT

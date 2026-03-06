@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:eceeedc7ecc5bc94ee41eea5aaefc792d43dea7e22fc0febbc7596aff2ca9574
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 Subject: Estate of Betty Prince
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com, [EMAIL-2]

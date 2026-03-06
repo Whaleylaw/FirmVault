@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:d90141106069bae1d5e1ca0a687c290a2bf606d37863b9cd38c4e3ea3d3b3992
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 category: client_intake
 date: 2025-09-24
 description: Client intake document for Torrey Green dated 9/24/2025, 12 pages including non-solicitation affidavit and client agreements signed via Vinesign electronic signature

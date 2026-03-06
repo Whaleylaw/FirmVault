@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:29a30ec0d31b61bcc74b471d5bcd503905f30c6e843f629204c8b48ee71ed049
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 CASE NO. 24-CI-2475 JEFFERSON CIRCUIT COURT DIVISION TEN (10) JUDGE PATRICIA “TISH” MORRIS
 
 CHARLES JOHNSON PLAINTIFF V. ROBERT LOWE DEFENDANT

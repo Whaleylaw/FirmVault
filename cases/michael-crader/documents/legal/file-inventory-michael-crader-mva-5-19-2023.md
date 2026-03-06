@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:0aa3fee8b9e9fc278cb37dd603699f571b4403e3bd3182b6df5d2e31ebbed5fa
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 item_0.extension: .md
 item_0.name: 2024-08-08-Michael-Crader-Interrogatories-Request-for-Production.md
 item_0.path: 2024-08-08-Michael-Crader-Interrogatories-Request-for-Production.md

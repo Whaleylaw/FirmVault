@@ -1,6 +1,6 @@
 ---
 case_slug: michael-johnston
-created_at: 2026-02-17 00:07:02.954000+00:00
+created_at: {}
 document_category: court-filings
 document_type: court_filing
 extraction_method: native_text
@@ -8,11 +8,14 @@ legacy_case_id: 2023-05-03-OTH-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michael-Johnston-WC-05-03-2023/Medical/KORT
-  Physical Therapy/Medical Records/2022-05-03-Michael-Johnston-Medical-KORT Physical
-  Therapy-Medical-Records-KORT-Medical-Records-Affidavit.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michael-Johnston-WC-05-03-2023/Medical/KORT Physical Therapy/Medical Records/2022-05-03-Michael-Johnston-Medical-KORT Physical Therapy-Medical-Records-KORT-Medical-Records-Affidavit.pdf
 source_hash: sha256:43f6cf43b3bb3a4e37bf9556f9d79af2d24d8a9ffd51fd92b4822ca25f2dabe3
+contact: "[[cases/2023-05-03-oth-001/contacts/kort-physical-therapy]]"
 ---
+
+**Case:** [[cases/michael-johnston/michael-johnston|Michael Johnston]]
+**Client:** [[cases/michael-johnston/contacts/michael-johnston|Michael Johnston]]
+
 
 CERTIFICATION OF MEDICAL RECORDS AFFIDAVIT
 ______________________________________, being first duly sworn on his/her oath, says that: 

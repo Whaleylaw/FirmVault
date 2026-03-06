@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Tina-S
 source_hash: sha256:ec8eaa81e88ff1d8f942a995f6a1c9bb845752249b1eb9c2f14b7d7e20b08bf1
 ---
 
+**Case:** [[cases/tina-smith/tina-smith|Tina Smith]]
+**Client:** [[cases/tina-smith/contacts/tina-smith|Tina Smith]]
+
 accident_date: 2025-04-02
 case_type: S&F
 client_name: Tina-Smith

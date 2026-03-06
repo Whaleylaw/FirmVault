@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:89b4f1907a94192db7e0cd0d2e45c041ceab3d70447a5bbcad3123142a9ab528
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 address: 122 Alumni Drive, Elizabethtown, KY 42701
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

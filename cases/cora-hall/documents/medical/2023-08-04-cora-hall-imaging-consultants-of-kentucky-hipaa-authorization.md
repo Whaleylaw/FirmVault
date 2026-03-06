@@ -1,8 +1,8 @@
 ---
 case_slug: cora-hall
-created_at: 2026-02-16 22:36:47.668000+00:00
+created_at: {}
 document_category: medical
-document_date: 2023-08-04
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2022-12-05-OTH-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-Hall-WC-12-05-2022/Client/2023-08-04-Cora-Hall-Imaging-Consultants-of-Kentucky-HIPAA-Authorization.pdf
 source_hash: sha256:e36229fd781d0dd285a44f0819811e7362b23a20b753a747c1bc12f4dbdccfc1
+contact: "[[cases/2022-12-05-oth-001/contacts/imaging-consultants-of-kentucky]]"
 ---
+
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

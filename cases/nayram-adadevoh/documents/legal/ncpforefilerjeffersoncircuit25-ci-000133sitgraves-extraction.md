@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:33b3be25686eae41bccab2c87d6e21d252e3e5ff5bbaebeef1e447f0e1675ee2
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: court_filing_notification
 date: 2025-01-08
 description: Notice of Court Processing (NCP) email confirming acceptance of eFiling for case 25-CI-000133 on January 8, 2025. Includes complaint/petition, affidavit for warning order attorney, and interrogatories.

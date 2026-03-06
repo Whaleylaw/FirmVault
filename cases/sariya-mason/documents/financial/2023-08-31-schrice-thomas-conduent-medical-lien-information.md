@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya
 source_hash: sha256:75cc58bea7db643ac789cc123329f5295273bf84be1a1779f3a7cf2e947918c3
 ---
 
+**Case:** [[cases/sariya-mason/sariya-mason|Sariya Mason]]
+**Client:** [[cases/sariya-mason/contacts/sariya-mason|Sariya Mason]]
+
 1540
 918247 005380 005380 1 2 0.5580 0 ° ° ° ° smo 22
 CONDUENT

@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:42e90e30422940264348cec359fa7efb69e4ea4bedac8213b8de1b06ee4d92ee
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 Morgan County Ambulance Service
 412 Dogwood Lane
 West Liberty, KY 41472 

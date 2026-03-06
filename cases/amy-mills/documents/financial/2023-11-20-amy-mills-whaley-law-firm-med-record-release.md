@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:3e79ea23827f4800f12f502df56c44095ca8898d53bac96a970b6cda0cb569d1
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 WHALEY
 
 LAW FIRM Aaron G. Whaley, Esq. 712 Lyndon Lane Louisville, KY 40222 Ph: [PHONE-4] Fax: [PHONE-3]

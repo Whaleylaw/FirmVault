@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:bbec75091118961ca65da3eedfacc6a7fa5d85b942b5d063b66c03fe12b4357a
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 item_0.adjuster_phone: [PHONE-1]
 item_0.claim_number: 1429C180C
 item_0.coverage_confirmation: Coverage Confirmed

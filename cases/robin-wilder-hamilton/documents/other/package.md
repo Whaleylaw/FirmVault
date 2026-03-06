@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:a7ff80ce9c3c52acdcc8af9c457758fc2dd8f1e86021fdc8aab61862b7704a2c
 ---
 
+**Case:** [[cases/robin-wilder-hamilton/robin-wilder-hamilton|Robin Wilder Hamilton]]
+**Client:** [[cases/robin-wilder-hamilton/contacts/robin-wilder-hamilton|Robin Wilder Hamilton]]
+
 dependencies.chart.js: ^4.4.0
 dependencies.react: ^18.2.0
 dependencies.react-chartjs-2: ^5.2.0

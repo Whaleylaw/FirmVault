@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:9bd61c109c2b4468e652bcd4cf58eea48ad3646323262e7daed23566f45cb6d7
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: lien
 extraction.date: 2025-08-28
 extraction.description: Medicare questionnaire MSP status for Wayne Weber dated August 28, 2025.

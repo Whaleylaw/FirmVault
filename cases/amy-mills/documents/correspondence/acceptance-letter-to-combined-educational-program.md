@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:b93e8a5e0c5976504ae0b606d02a44e5511a3afec13d00eb6d7e4a080aff4fff
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 UNION COLLE
 KENTUCKY’S FIRST COLLEGE IN THE MOU
 310 College

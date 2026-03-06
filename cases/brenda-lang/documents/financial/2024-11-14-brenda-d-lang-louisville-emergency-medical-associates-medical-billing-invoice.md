@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:58f3860234f4d8ecc0cb3c670259436bebcdc93617fb08eb129a9948b726f9a0
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 Louisville Emergency Medical Associates
 PSC
 Make check payable to:

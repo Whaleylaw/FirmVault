@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:b4df2cb8ebe2e71cc2ba9ea29bb57d674adc197d5a2c61c587e062db5b0c22b9
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 Fax Confirmation
 To: [PHONE-1] From: [PHONE-9]
 Doc:

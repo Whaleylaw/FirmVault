@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:c9b9c9e9e8dea04f61642a86bb5fed24b9d72994a5024547c222cb14d4d9ec15
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 accident_date: 2023-02-25
 case_type: Premise
 client_name: Kimberly-Brasher

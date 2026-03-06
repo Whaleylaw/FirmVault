@@ -1,11 +1,10 @@
 ---
 case_slug: robin-wilder-hamilton
-created_at: 2026-02-17 00:16:12.442000+00:00
+created_at: {}
 document_category: financial
-document_date: 2023-12-22
+document_date: {}
 document_type: financial
-entities:
-- VA Medical Center
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-06-15-MVA-001
 mime_type: application/json
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 90
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-Wilder-Hamilton-MVA-6-15-2023/reports/extractions/2023-12-22-Robin-Wilder-Hamilton-VA-Medical-Center-Lexington-HIPAA-Authorization_extraction.json
 source_hash: sha256:8fa186e03551edecc6801b407636736ba9ecabf111b4ec5da16bbba931a99e79
+contact: "[[cases/2023-06-15-mva-001/contacts/va-medical-center-lexington]]"
 ---
+
+**Case:** [[cases/robin-wilder-hamilton/robin-wilder-hamilton|Robin Wilder Hamilton]]
+**Client:** [[cases/robin-wilder-hamilton/contacts/robin-wilder-hamilton|Robin Wilder Hamilton]]
+
 
 extraction.classification.bucket: Client
 extraction.classification.confidence: high

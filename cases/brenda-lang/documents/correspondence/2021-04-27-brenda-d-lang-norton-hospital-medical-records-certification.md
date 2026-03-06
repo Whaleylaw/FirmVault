@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:8723da833b90927a5f979b3e3b759ff3804386b77c4ed7d0260319b5accf4895
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 IN NORTON"
 HEALTHCARE MEDICAL RECORDS CERTIFICATION RID #190005327
 Patient Name: Lang, Brenda D,

@@ -1,13 +1,10 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:49:36.723000+00:00
+created_at: {}
 document_category: medical
-document_date: 2019-04-26
+document_date: {}
 document_type: medical
-entities:
-- Robert Pruden
-- Date Robert Pruden
-- Quest Medical Group
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
@@ -15,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Review_Needed/2022-07-25-Amy-Mills-JBIOKINETICS-FCE-Report.pdf
 source_hash: sha256:1f888d679ef12a5e0a2662bf12f072b7acbe70a7d16bea3e65c021bf96f33174
+contact: "[[cases/2019-04-26-prl-001/contacts/biokinetics]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 JBIOKINETICS
 Gregory B. Nazar, MD, FACSCommonwealth IME9000 Corporate DriveSuite 3000Louisville, KY 40223

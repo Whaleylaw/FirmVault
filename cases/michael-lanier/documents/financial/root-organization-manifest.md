@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:7382dac6149af1d55d74cc3322c529f988c73d5f0dd572574120218b1d973e7b
 ---
 
+**Case:** [[cases/michael-lanier/michael-lanier|Michael Lanier]]
+**Client:** [[cases/michael-lanier/contacts/michael-lanier|Michael Lanier]]
+
 accident_date: 2025-06-28
 case_type: MVA
 client_name: Michael-Lanier

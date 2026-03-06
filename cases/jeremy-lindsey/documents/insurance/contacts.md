@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:e763c0992570ec93df3f293f4ff4d9197d9e3d6d4c1629307d61e2c3859b78df
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 item_0.jsonb_agg[0].full_name: Jeremy Lindsey
 item_0.jsonb_agg[0].project_name: Jeremy-Lindsey-MVA-[DOB-12]
 item_0.jsonb_agg[0].roles[0]: client

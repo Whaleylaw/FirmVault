@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:fdac19c29fde87e869230546eaaedb21af744fd59e52fa44c04b4c5e3cb8efa4
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 Apr. 3.2023 10:09AM No.159BP. 31/55
 9d‘ory tenag sepia
 HBO / sTeLaySY /suoREpusunioTy

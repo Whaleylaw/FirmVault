@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:68889787a4ac9368457df6064cb62033d118c7ec19ab92a6a0f4dffcac619bf7
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 Subject: RE: LMS Claim Initiating Document Confirmation
 From: [EMAIL-14]
 To: sarena@whaleylawfirm.com

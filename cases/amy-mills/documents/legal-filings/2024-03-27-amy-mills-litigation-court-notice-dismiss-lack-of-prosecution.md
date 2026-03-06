@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:38f2d92d0014c0732ba104379e02100663e0106b29af0c18b5819f16b13344ab
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Generated: [DOB-1]
 Commonwealth of Kentucky Case: 22-CI-005461
 AOC -S-050 (NDLP) Court: CIRCUIT

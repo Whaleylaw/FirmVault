@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:67ea79421eb16847550a0cd53d22c39a706a36af3606a6a9ab564796657c7d7c
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 TRANSPORTATION 
 CLAIMS 400 NW 56th St. • Lincoln, NE 68528 • Phone: [PHONE-1]
 Fax: [PHONE-6] WATS: [PHONE-5] 

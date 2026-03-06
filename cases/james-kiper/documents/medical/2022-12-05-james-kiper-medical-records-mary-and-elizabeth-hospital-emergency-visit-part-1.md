@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2022-12-05-MVA-001
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Kiper-MVA-12-5-2022/Medical/2022-12-05-James-Kiper-Medical-Records-Mary-and-Elizabeth-Hospital-Emergency-Visit-part-1.pdf"
 source_hash: "sha256:7ee7174d60cfaa561fb414fbd402159853c8df2126026fdd8a13d9943ac34a6c"

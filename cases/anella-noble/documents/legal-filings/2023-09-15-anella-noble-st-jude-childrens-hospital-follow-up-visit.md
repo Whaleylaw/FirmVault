@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:af4b842d53aad4fc52e5a111c42af7702c8e5ab14f838bcb61666435c5fbe167
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 AOC-280 Doc. Code: NS Rev. 6-19 Page 1 of 2
 
 Case No. 21-Cl-004985

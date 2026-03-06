@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:ae7568c7ed1758a64298e34d8d25ca6565c548363b8d411723426b6b95cf0224
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 ·1· · · · · · · · JEFFERSON COUNTY CIRCUIT COURT
 ·2· · · · · · · · · · · DIVISION SEVEN (7)
 ·3· · · · · · · ·JUDGE HON. MELISSA LOGAN BELLOWS

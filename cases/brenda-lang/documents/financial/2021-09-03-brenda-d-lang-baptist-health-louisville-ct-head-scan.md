@@ -4,6 +4,9 @@ document_category: financial
 legacy_case_id: 2021-09-03-MVA-001
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda-Lang-MVA-[DOB-1]/Medical/2021-09-03-Brenda-D-Lang-Baptist-Health-Louisville-CT-Head-Scan.pdf"
 source_hash: "sha256:24bc8401442fc1bd2c6b6eadbba8a5d55cc294796b9ed6d7d7c8706767ff2cee"

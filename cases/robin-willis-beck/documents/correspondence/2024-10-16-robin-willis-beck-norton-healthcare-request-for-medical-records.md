@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:39976611f1c8f099b100907e6f3f04b644f6d422ea6d3b5a9b9ff02486ba9548
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 | NORTON
 HEALTHCARE
 Real people, Remarkable care.

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dana-J
 source_hash: sha256:435d089827050a5672a24f6e449de0b9c605a2fd214dabee99e661e1ae6de5fe
 ---
 
+**Case:** [[cases/dana-jackson/dana-jackson|Dana Jackson]]
+**Client:** [[cases/dana-jackson/contacts/dana-jackson|Dana Jackson]]
+
 Subject: Delivery Status Notification (Failure)
 From: [EMAIL-2]
 To: sarena@whaleylawfirm.com

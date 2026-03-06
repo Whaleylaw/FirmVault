@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Tonya-
 source_hash: sha256:dbd47a71860b1a41d7cd1cf49441ec1462c7c59ffd67fa44bb01fa65f1304332
 ---
 
+**Case:** [[cases/tonya-dunn/tonya-dunn|Tonya Dunn]]
+**Client:** [[cases/tonya-dunn/contacts/tonya-dunn|Tonya Dunn]]
+
 category: Insurance
 description: Letter-of-Representation to BI carrier
 entities[0]: Aaron Whaley

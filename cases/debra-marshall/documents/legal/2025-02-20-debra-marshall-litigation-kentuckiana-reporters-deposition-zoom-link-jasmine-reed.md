@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:cb72d0d40059cd11f92a8bd4c20756f69bdbe8b59e8282616410460764b16a12
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 Subject: Re: New submission from 20 Second Scheduler
 From: [EMAIL-12]
 To: sarena@whaleylawfirm.com

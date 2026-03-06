@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:c072223ba6363cdd7313f23b2cc70414c2f0f3f5387c29a21a436dcb8198ec66
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 item_0.jsonb_agg[0].address: 831 Suttcliff Ave, Louisville, KY 40211
 item_0.jsonb_agg[0].email: [EMAIL-1]
 item_0.jsonb_agg[0].full_name: Brenda D. Lang

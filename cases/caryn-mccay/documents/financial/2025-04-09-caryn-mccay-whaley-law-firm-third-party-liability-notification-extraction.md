@@ -1,8 +1,8 @@
 ---
 case_slug: caryn-mccay
-created_at: 2026-02-16 22:17:58.556000+00:00
+created_at: {}
 document_category: financial
-document_date: 2025-04-09
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2023-07-30-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 90
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-McCay-MVA-7-30-2023/Reports/2026-02-01-file-organization/extractions_old_20260201_215100/2025-04-09-Caryn-McCay-Whaley-Law-Firm-Third-party-liability-notification_extraction.json
 source_hash: sha256:1d3b1b7c7f38a24d7076826aeeb5c22ed46102c2b4be8acaca0a531a0bf45b26
+contact: "[[cases/2023-07-30-mva-001/contacts/caryn-mccay]]"
 ---
+
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 
 extraction.classification.bucket: Client
 extraction.classification.confidence: high

@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:706ce63cc5e5912bcdb0f74ebd7b12c427107b1a19ac774a0fd8c14e3b4002e0
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 FayaeWeONE MELE 8 ;: Sa (https://courts.ky.gov/) CourtNet 2.0' a GXO)EFGe) Leisa(eign se Search Court Records
 Search by Case > Account Plan Usage
 Search by Party/Business v Total Views: 13 @

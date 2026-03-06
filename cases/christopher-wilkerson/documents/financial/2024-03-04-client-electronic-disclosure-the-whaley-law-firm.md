@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:7a208590c15dc42498e216618b608066ebcfab1626f7dcadce5daeb05737bf85
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 Certificate Of Completion
 Envelope Id: C80D668AEA274026B3A04F3182DB37E4 Status: Completed
 Subject: The Whaley Law Firm has requested your signature. 

@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2022-12-05-MVA-001
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Kiper-MVA-12-5-2022/Old Files/2022-12-12-James-Kiper-Synergy-Injury-Care-MRI-Lumbar-Spine-Report.pdf"
 source_hash: "sha256:e1bd49787bba62151bba897a0a3c901e9bcfc15a47205007ff688c4bd3db0ca3"

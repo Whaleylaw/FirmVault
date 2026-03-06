@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:6c3e6dc18a482dbb8fcbdbd3da6efaf9fff335a3c95fb61376d8f056fd3ef4a7
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 Subject: NCP (for eFiler) MCLEAN 24-CI-00012, BRASHER, KIMBERLY VS. WALGREEN CO.                           Envelope # 9683332
 From: [EMAIL-5]
 To: [EMAIL-4], Sarena@WhaleyLawFirm.com, [EMAIL-3]

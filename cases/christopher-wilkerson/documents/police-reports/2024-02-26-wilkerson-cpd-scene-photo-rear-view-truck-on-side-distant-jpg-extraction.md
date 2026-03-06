@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:7467a86a7fd3250034f5a7fc72127e39e787378028c1316b6c03d1358f50c1f9
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 category: Investigation
 confidence: high
 description: Distant rear view of the overturned dump truck at the accident scene on US-127 near the Lincoln County line. Vehicle is lying on its side.

@@ -1,21 +1,23 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:48:23.468000+00:00
+created_at: {}
 document_category: medical
-document_date: 1983-12-28
+document_date: {}
 document_type: medical
-entities:
-- Dr. Travis Hunt
-- Wallace Huff
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Blugrass
-  Orthopedics/Medical Records/2023-01-12-Amy-Mills-Medical-Blugrass Orthopedics-Medical-Records-Bluegrass-Orthopaedics-Medical-Records-and-MRI-Report.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Blugrass Orthopedics/Medical Records/2023-01-12-Amy-Mills-Medical-Blugrass Orthopedics-Medical-Records-Bluegrass-Orthopaedics-Medical-Records-and-MRI-Report.pdf
 source_hash: sha256:99fd0b87393711be46e5c689d3343f204b18895c641ca4db37d59bdcabc52a23
+contact: "[[cases/2019-04-26-prl-001/contacts/bluegrass-orthopaedics]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 To: [PHONE-103] Page: 01 of 23 2024-03-22 22:22:46 GMT [PHONE-102]
 MediCopy

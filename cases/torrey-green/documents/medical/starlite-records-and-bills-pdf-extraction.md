@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:075a3962ca40d2ed83da3694162b51067e25ed8b96de5d661729c71e1b19e89d
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 extracted_data.category: medical
 extracted_data.date: 2025-09-05
 extracted_data.description: Medical records and billing from Auto Accident Urgent Care & Chiropractic Center at 1169 Eastern Parkway Suite G40, Louisville, KY. Patient complaint form dated 9/5/25 for Torrey Green (DOB 1/5/98, SSN [SSN-1]) describing pain symptoms and treatment following auto accident. Records include 13 pages of treatment documentation and billing.

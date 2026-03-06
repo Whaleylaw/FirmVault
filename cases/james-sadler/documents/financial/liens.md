@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:41d164453b9156ec38e0176fc1c823956c4bd966d71b257373f87da17975cfee
 ---
 
+**Case:** [[cases/james-sadler/james-sadler|James Sadler]]
+**Client:** [[cases/james-sadler/contacts/james-sadler|James Sadler]]
+
 item_0.amount_owed_from_settlement: 425.41
 item_0.date_notice_received: 2024-07-25
 item_0.final_lien_amount: 425.41

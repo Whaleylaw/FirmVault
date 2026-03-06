@@ -1,8 +1,8 @@
 ---
 case_slug: kimberly-brasher
-created_at: 2026-02-17 00:01:55.200000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 2024-05-15
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2023-02-25-PrL-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimberly-Brasher-Premise-2-25-2023/Liens/2024-05-15-Kimberly-Brasher-Lien-The-Phia-Group-Subrogation-Itemization-Request-Response.pdf
 source_hash: sha256:90ee43319d27a91ca0b4686802a7f1e9a8784529eb2b955de8471a55e51e2d53
+contact: "[[cases/2023-02-25-prl-001/contacts/the-phia-group]]"
 ---
+
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 
 From: System Mailbox Fax: 18889860080 To: Fax: [PHONE-6] Page: 1 of1 [DOB-2] 10:55 AM
 THE

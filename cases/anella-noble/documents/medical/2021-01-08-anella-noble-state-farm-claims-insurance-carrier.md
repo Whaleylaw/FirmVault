@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:8dc5a29e7d5aaedb61c9e9051d38bc2978a4a6c6f887000c9a41492f41f1b360
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 January 8, 2021
 Whaley Law Firm
 712 Lyndon Ln

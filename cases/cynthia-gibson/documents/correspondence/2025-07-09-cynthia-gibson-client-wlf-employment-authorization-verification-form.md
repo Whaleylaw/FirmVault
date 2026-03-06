@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cynthi
 source_hash: sha256:39b6ef95eba9f400acbe761cd4a79b18ec54ae25872ccad60c0fc7a9299ff0e0
 ---
 
+**Case:** [[cases/cynthia-gibson/cynthia-gibson|Cynthia Gibson]]
+**Client:** [[cases/cynthia-gibson/contacts/cynthia-gibson|Cynthia Gibson]]
+
 AUTHORIZATION TO RELEASE EMPLOYMENT DOCUMENTS AND 
 WAGE AND SALARY INFORMATION 
 TO: 

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:a901cf2a3847e30d5775d4f866b48930c2a2ec4784fb8a8ca2c3d0117a859ec6
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 case_folder: Timothy-Ruhl-Premise-[DOB-1]
 job_id: placeholder
 phases.execution.completed_at: 2026-02-02T11:45:02.694849

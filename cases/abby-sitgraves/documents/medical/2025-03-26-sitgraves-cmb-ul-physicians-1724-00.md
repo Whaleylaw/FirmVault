@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2024-07-13-MVA-001
 ---
 
+**Case:** [[cases/abby-sitgraves/abby-sitgraves|Abby Sitgraves]]
+**Client:** [[cases/abby-sitgraves/contacts/abby-sitgraves|Abby Sitgraves]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Abby-Sitgraves-MVA-7-13-2024/Medical/UofL Physicians/Medical Bills/2025.03.26 Sitgraves CMB UL Physicians - $1724.00.pdf"
 source_hash: "sha256:301ce961874f6156ea81c4c85de0ec7745c023ad1f74c74e24238886b19c6a2e"

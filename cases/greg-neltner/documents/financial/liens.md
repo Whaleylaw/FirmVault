@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-N
 source_hash: sha256:20eb52a5ba49ca6385d027a53a8057de2b002c44fa0fb90155e14a0dce7052b4
 ---
 
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 item_0.amount_owed_from_settlement: 4980
 item_0.date_lien_paid: 2024-01-02
 item_0.date_notice_received: 2023-08-23

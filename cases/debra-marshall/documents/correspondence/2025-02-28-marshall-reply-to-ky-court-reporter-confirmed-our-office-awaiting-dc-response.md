@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:f1e982df477867d9ebcc535b7540dcfc6610f6c0eabbb1f5be6871c70c0e566a
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 Subject: Re: Confirmation for 3/3/2025 (111914)
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1], [EMAIL-7]

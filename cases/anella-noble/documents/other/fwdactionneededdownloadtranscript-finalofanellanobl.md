@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:79bc5427c4aedca11311fd1bee97ec50012b44ee56c71dbac805a1d0a79335a9
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: Fwd: ACTION NEEDED: Download Transcript-Final of Anella Noble, [DOB-1]
 From: [EMAIL-2]
 To: sarena@whaleylawfirm.com

@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:3964613239a013285c7d61841edbcfaebee99bc3eadd2d35d8a69c38aaf54461
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 TORREY GREEN
 9/3/25-PRESENT 
 At A 

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:3cf55a2bb71ae86a4dba07ba28240aa94a8c5d5502972012b5cab51b468972c5
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 NO. 21-CI-004985 JEFFERSON CIRCUIT COURT 
 DIVISION: FIVE (5) 
 JUDGE: MARY SHAW

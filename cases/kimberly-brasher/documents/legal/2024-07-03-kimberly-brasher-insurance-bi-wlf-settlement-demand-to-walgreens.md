@@ -4,6 +4,9 @@ document_category: legal
 legacy_case_id: 2023-02-25-PrL-001
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimberly-Brasher-Premise-2-25-2023/Insurance/2024-07-03-Kimberly-Brasher-Insurance-BI-WLF-Settlement-Demand-to-Walgreens.pdf"
 source_hash: "sha256:a7e9b63dee53b1b918afc32acb13637be8bce1cc77f0989910b19cede535e961"

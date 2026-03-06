@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Forres
 source_hash: sha256:8c116f8a10e29b49fe278ec9b369352164b32e132244b4c434a3505622877ac9
 ---
 
+**Case:** [[cases/forrest-muss/forrest-muss|Forrest Muss]]
+**Client:** [[cases/forrest-muss/contacts/forrest-muss|Forrest Muss]]
+
 item_0.jsonb_agg[0].full_name: Forrest Muss
 item_0.jsonb_agg[0].phone: [PHONE-1]
 item_0.jsonb_agg[0].project_name: Forrest-Muss-MVA-[DOB-2]

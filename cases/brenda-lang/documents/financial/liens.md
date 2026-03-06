@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:7c4d8f8fc9aacb42604d24ab862e31fef7fe906bbdc2de9f547a476704b704c1
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 item_0.amount_owed_from_settlement: 1513.45
 item_0.final_lien_amount: 1513.45
 item_0.holder_address: P.O. Box 14601, Louisville, KY 40201; P.O. Box 14601, Lexington, KY 40512-4601

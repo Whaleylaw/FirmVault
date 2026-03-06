@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor
 source_hash: sha256:ef39cfaa9ff509ee00a29cf0c0e4e0b735226fc85a1b6d36ada620852a7458a3
 ---
 
+**Case:** [[cases/taylor-thompson/taylor-thompson|Taylor Thompson]]
+**Client:** [[cases/taylor-thompson/contacts/taylor-thompson|Taylor Thompson]]
+
 Subject: RE: TD Letter Taylor Thompson
 From: [EMAIL-1]
 To: [EMAIL-2]

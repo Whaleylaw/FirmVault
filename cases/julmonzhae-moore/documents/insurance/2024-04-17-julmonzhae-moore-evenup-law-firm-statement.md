@@ -1,18 +1,22 @@
 ---
 case_slug: julmonzhae-moore
-created_at: 2026-02-16 23:59:49.971000+00:00
+created_at: {}
 document_category: insurance
-document_date: 2024-04-17
+document_date: {}
 document_type: insurance
 extraction_method: native_text
 legacy_case_id: 2023-08-29-MVA-003
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmonzhae-Moore-MVA-8-29-2023/Legal
-  Documents/2024-04-17-Julmonzhae-Moore-EvenUp-Law-Firm-Statement.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmonzhae-Moore-MVA-8-29-2023/Legal Documents/2024-04-17-Julmonzhae-Moore-EvenUp-Law-Firm-Statement.pdf
 source_hash: sha256:a8784c7f48621a80996710e07bf5fd224feb0a9ebff5371dae6b4a9aa68a152b
+contact: "[[cases/2023-08-29-mva-003/contacts/evenup]]"
 ---
+
+**Case:** [[cases/julmonzhae-moore/julmonzhae-moore|Julmonzhae Moore]]
+**Client:** [[cases/julmonzhae-moore/contacts/julmonzhae-moore|Julmonzhae Moore]]
+
 
 EvenUp Inc.
 2261 Market Street #4068

@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:a73ca593ec8ec9a28490003842614aed96ced7f14cd0bb4a1fead8fb4de41792
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 @sharecare
 
 CHARTSWAP ESQ 31484567 2951 Marina Bay Dr Ste 130-132 ; . Oct 15 2024 2:47 PM League City TX 77573-4078 © Jimmy Ferguson

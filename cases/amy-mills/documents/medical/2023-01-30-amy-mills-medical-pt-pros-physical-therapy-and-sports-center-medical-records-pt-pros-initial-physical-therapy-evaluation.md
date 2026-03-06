@@ -1,22 +1,22 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:49:12.192000+00:00
+created_at: {}
 document_category: medical
 document_type: medical
-entities:
-- Trey Feltner
-- Amy Referring
-- Christopher Fuson
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/PT
-  Pros Physical Therapy and Sports Center/Medical Records/2023-01-30-Amy-Mills-Medical-PT
-  Pros Physical Therapy and Sports Center-Medical-Records-PT-Pros-Initial-Physical-Therapy-Evaluation.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/PT Pros Physical Therapy and Sports Center/Medical Records/2023-01-30-Amy-Mills-Medical-PT Pros Physical Therapy and Sports Center-Medical-Records-PT-Pros-Initial-Physical-Therapy-Evaluation.pdf
 source_hash: sha256:dfde9137ba6ea08976dd283ef342dc4a995c91a2dbeea6d0d5c163f46f9471f6
+contact: "[[cases/2019-04-26-prl-001/contacts/pt-pros-physical-therapy-and-sports-center]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 ©[DOB-1] 7:45 AM 16062194252 ~? 185926035141 pg 2of9
 pVe RO LY thon & Sports Centers

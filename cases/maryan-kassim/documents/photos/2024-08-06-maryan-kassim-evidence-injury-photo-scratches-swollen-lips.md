@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:e5830dc0f4f9c23059a6c73d2ea5d40745f813c8d4f7407641df9d2d93ddc4e2
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan-Kassim-MVA-[DOB-1]/Evidence/2024-08-06-Maryan-Kassim-Evidence-Injury-Photo-Scratches-Swollen-Lips.jpg

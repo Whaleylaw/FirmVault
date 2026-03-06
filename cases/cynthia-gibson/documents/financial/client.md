@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cynthi
 source_hash: sha256:5e95c22fc7e7613c76268dc672fda3a1299f7d3058b72049a6ccd145d54cc3b1
 ---
 
+**Case:** [[cases/cynthia-gibson/cynthia-gibson|Cynthia Gibson]]
+**Client:** [[cases/cynthia-gibson/contacts/cynthia-gibson|Cynthia Gibson]]
+
 address: 1105 N Buckman St, Apt A2, Shepherdsville, KY 40165
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

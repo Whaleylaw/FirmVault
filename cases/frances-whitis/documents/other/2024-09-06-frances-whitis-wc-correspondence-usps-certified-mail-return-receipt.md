@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/France
 source_hash: sha256:8ae7722245e80a78aa6efbff81ef3726daba445deefd719125577b9717a985b1
 ---
 
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 ©906-000-20-08S2
 NSd SLOzAinr
 ‘|

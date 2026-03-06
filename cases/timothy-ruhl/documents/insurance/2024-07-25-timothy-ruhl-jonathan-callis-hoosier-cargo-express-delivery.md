@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:e8cbcdd4ab9b98deb242089398d4b0a9cf263da6e446d34fadce13e8a0e5e1e2
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 7/25/24, 10:19 AM Mail - Abrasevic, Maureen - Outlook
 sh
 arin

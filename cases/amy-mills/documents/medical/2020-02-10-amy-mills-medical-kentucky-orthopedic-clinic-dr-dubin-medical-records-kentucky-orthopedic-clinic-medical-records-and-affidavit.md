@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:ffd1f26301cb84999b483551c2caf8f95768747affebd6aafdfd0d1281a79da6
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Feb. 15. 2024 11:47AM KY Ortho Middlesboro No.1940 PT
 705N. 12" Street
 Po.box220

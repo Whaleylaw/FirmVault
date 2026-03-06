@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:a77e6b127727c15aa9f75f82d909ce9fd3fcb604885cf40c92a9b51c42380707
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: legal
 date: 2024-12-05
 description: Letter of representation to Progressive Insurance for motor vehicle incident claim 24-[POLICY-1], date of loss 12/1/2024, requesting policy information and limits

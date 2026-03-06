@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2023-01-16-MVA-001
 ---
 
+**Case:** [[cases/hope-renee-padgett/hope-renee-padgett|Hope Renee Padgett]]
+**Client:** [[cases/hope-renee-padgett/contacts/hope-renee-padgett|Hope Renee Padgett]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Hope-Renee-Padgett-MVA-1-16-2023/Medical/2024-07-30-Hope-Renee-Padgett-Saint-Joseph-Mount-Sterling-DXA-BONE-DENSITY.pdf"
 source_hash: "sha256:f3dfc586d9443a[PHONE-1]a33be52976cc9d66a8f3dbb967f613c40b663f1b"

@@ -34,6 +34,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:1b46bb11ecf2ba723cb74877461dd37724a8c65c2fc4b0579c12ab6cdb27b4b1
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 BF 5sprist HEALTH Mills, Amy
 on MRN: [PHONE-532], DOB: [DOB-1], Sex: F
 Release Authorization

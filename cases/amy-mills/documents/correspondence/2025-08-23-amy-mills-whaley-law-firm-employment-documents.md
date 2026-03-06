@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:b52ca78e6c2bee7c5abc3cf9b32f03006ae777f669cbfd2a9ad21bb1cb0211cd
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 AUTHORIZATION TO RELEASE EMPLOYMENT DOCUMENTS AND WAGE AND SALARY INFORMATION
 
 TO:

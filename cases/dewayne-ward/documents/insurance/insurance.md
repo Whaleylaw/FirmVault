@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dewayn
 source_hash: sha256:78e6fc509486cb89a8ff04317f66d2e0a9ab7096bb00e7d1583bdf71fbc5d620
 ---
 
+**Case:** [[cases/dewayne-ward/dewayne-ward|Dewayne Ward]]
+**Client:** [[cases/dewayne-ward/contacts/dewayne-ward|Dewayne Ward]]
+
 item_0.adjuster_phone: [PHONE-3]
 item_0.claim_number: 1455R002D
 item_0.coverage_confirmation: Coverage Confirmed

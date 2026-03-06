@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dakota
 source_hash: sha256:25f5609b0cae1d1229b33359ce823e0c065f0e91241f072bb8eb65e0de87c4bf
 ---
 
+**Case:** [[cases/dakota-mccord/dakota-mccord|Dakota McCord]]
+**Client:** [[cases/dakota-mccord/contacts/dakota-mccord|Dakota McCord]]
+
 address: 4106 St. Francis Lane, Louisville, KY 40218
 date_of_birth: [DOB-1]
 imported_at: 2026-02-16T21:09:42.779Z

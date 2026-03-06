@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cynthi
 source_hash: sha256:ed6cc68e2a4df92b42d6643f425018d24c7555ace0b2f680a758e1644962bdad
 ---
 
+**Case:** [[cases/cynthia-gibson/cynthia-gibson|Cynthia Gibson]]
+**Client:** [[cases/cynthia-gibson/contacts/cynthia-gibson|Cynthia Gibson]]
+
 item_0.author_name: Filevine Integration
 item_0.episode_type: imported
 item_0.last_activity: 2025-11-13T00:00:00

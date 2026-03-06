@@ -1,6 +1,6 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:47:45.874000+00:00
+created_at: {}
 document_category: other
 document_type: other
 extraction_method: native_text
@@ -10,7 +10,12 @@ page_count: 1
 quality_score: 70
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Litigation/2025-08-23-Amy-Mills-BIOKINETICS-ScienceOfMotion.pdf
 source_hash: sha256:630b900b9eb904ac5e5f95b2ba8e8c9af0e027572a0d8f8e034e09280bab73fe
+contact: "[[cases/2019-04-26-prl-001/contacts/biokinetics]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 	
  

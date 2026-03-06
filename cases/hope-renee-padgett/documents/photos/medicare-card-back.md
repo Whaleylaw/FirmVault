@@ -1,6 +1,6 @@
 ---
 case_slug: hope-renee-padgett
-created_at: 2026-02-16 23:48:29.890000+00:00
+created_at: {}
 document_category: photos
 document_type: photo
 extraction_method: image_proxy
@@ -10,7 +10,12 @@ page_count: 1
 quality_score: 70
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Hope-Renee-Padgett-MVA-1-16-2023/Client/Medicare-Card-back.jpg
 source_hash: sha256:853e05ca799c0ac9b7af8c7e4340ad34184b77e5c99e265852010ae23d8cf6e6
+contact: "[[cases/2023-01-16-mva-001/contacts/medicare]]"
 ---
+
+**Case:** [[cases/hope-renee-padgett/hope-renee-padgett|Hope Renee Padgett]]
+**Client:** [[cases/hope-renee-padgett/contacts/hope-renee-padgett|Hope Renee Padgett]]
+
 
 # Image Document
 

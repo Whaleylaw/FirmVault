@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cynthi
 source_hash: sha256:13260b4fd56d503bdde24706c03125ca7c71a6a6f5e065123d4fed215dee0f73
 ---
 
+**Case:** [[cases/cynthia-gibson/cynthia-gibson|Cynthia Gibson]]
+**Client:** [[cases/cynthia-gibson/contacts/cynthia-gibson|Cynthia Gibson]]
+
 item_0.holder_address: PO BOX 30114, , Salt Lake City, UT 84130-9993
 item_0.holder_phone: [PHONE-1]
 item_0.lien_holder_name: Conduent

@@ -2,7 +2,12 @@
 case_slug: stevie-hawks
 document_category: medical
 legacy_case_id: 2024-03-08-MVA-001
+contact: "[[cases/2024-03-08-mva-001/contacts/the-medical-center-at-bowling-green]]"
 ---
+
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie-Hawks-MVA-3-8-2024/Medical/The Medical Center At Bowling Green/Medical Records/2023-06-19-Stevie-Hawks-Medical-The Medical Center At Bowling Green-Medical-Records-The-Medical-Center-EMS-EMS-Patient-Care-Record.pdf"

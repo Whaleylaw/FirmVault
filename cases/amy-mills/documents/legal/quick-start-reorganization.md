@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:c45a1e35b7abe94e7eaf3ad378acb0f82ebb0612143684cf1a775d4ab869bbcb
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 ╔═══════════════════════════════════════════════════════════════════╗
 ║                    AMY MILLS CASE FILE REORGANIZATION              ║
 ║                         QUICK START GUIDE                          ║

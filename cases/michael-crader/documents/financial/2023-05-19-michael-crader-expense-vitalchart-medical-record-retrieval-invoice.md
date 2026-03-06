@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:5d52e6f2ff5fc37bdb9a8150a588ef396c32ef62b71b13b418ce7586b4338daa
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 VitalChart Invoice
 Remit To:
 VRC Companies, dba VitalChart

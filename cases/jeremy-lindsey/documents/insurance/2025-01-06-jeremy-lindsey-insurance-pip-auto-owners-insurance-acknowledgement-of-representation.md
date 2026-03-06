@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:2cfbb57197add463f09c2fc1677b1a748344dbfd7ed2dc4d20599c78731acf38
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 January 6, 2025 
 The Whaley Law Firm 
 Attn. Jessa 

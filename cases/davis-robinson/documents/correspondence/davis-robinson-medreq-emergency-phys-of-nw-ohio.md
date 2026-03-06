@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-
 source_hash: sha256:c0ba944ae6f99734b0865c647d364bd0846f74d01751be0a9d75cb0e5f0455cf
 ---
 
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 June 20, 2025
 
 Emergency Physicians of Northwest Ohio

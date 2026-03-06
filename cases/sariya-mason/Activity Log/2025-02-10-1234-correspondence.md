@@ -1,0 +1,16 @@
+---
+schema_version: 2
+case_id: 578fc776-a794-4481-98e0-b7e28e099a31
+date: "2025-02-10"
+category: correspondence
+subcategory: email
+---
+
+# email — 2025-02-10
+
+**Case:** [[cases/sariya-mason/sariya-mason|Sariya Mason]]
+**Category:** correspondence / email
+
+__Re: New submission from 20 Second Scheduler__
+From: Scheduling Department  [schedule@kentuckianareporters.com](mailto:schedule@kentuckianareporters.com)
+To: "sarena@whaleylawfirm.com"  [sarena@whale

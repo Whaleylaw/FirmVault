@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:0e44d7974609240999019c8b44088e26aa849ef58cfb6bd31d018c3231f6043e
 ---
 
+**Case:** [[cases/christopher-lanier/christopher-lanier|Christopher Lanier]]
+**Client:** [[cases/christopher-lanier/contacts/christopher-lanier|Christopher Lanier]]
+
 item_0.jsonb_agg[0].address: 1962 Hirsch Court
 item_0.jsonb_agg[0].full_name: Christopher Lanier
 item_0.jsonb_agg[0].phone: [PHONE-1]

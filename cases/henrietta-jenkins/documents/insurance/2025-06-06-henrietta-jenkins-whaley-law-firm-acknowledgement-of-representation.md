@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Henrie
 source_hash: sha256:63ec2ab32a1d9c54a14cec799434f7bd6386ee5d90c2636d9489a20a4956c77c
 ---
 
+**Case:** [[cases/henrietta-jenkins/henrietta-jenkins|Henrietta Jenkins]]
+**Client:** [[cases/henrietta-jenkins/contacts/henrietta-jenkins|Henrietta Jenkins]]
+
 June 6, 2025
 Whaley Law Firm
 712 Lyndon Lane

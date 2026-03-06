@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:070c693ce9913cd3bf3a20e221104b7a7f70eec4471608f1609ee05fab7cb90e
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 address: 1224 N Dixie Hwy #1, Cave City, KY 42127
 date_of_birth: [DOB-1]
 imported_at: 2026-02-16T21:09:42.778Z

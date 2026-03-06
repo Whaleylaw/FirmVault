@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:9662d6fb9ede98c69d387766b8d5196e8c0fb07429e904310c146a0e3e061e97
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 category: Investigation
 confidence: high
 description: Kentucky Uniform Police Traffic Collision Report from Boyle County Sheriff's Office. Overturned dump truck incident on US-127 near Lincoln County line on [DOB-1]. Operator transported to Ephraim McDowell Hospital. Witnesses reported tailgating. 4 pages. Dated February 15, 2024.

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:7c9d27a221651bc1f2307b7511bb750f6b7c3901066bd2698c7b1f2f13d459e3
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 CASE NO. 23-CI-005931 JEFFERSON CIRCUIT COURT 
 DIVISION NINE (9) 
 JUDGE SARAH E. CLAY 

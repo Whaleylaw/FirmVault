@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dewayn
 source_hash: sha256:f77f952020b90225fa3d53799bda658e650db2d5762b88eb572210786acb4b6f
 ---
 
+**Case:** [[cases/dewayne-ward/dewayne-ward|Dewayne Ward]]
+**Client:** [[cases/dewayne-ward/contacts/dewayne-ward|Dewayne Ward]]
+
 Ui -2af L Mhycstosanc
 FAX
 To: [EMAIL-1]

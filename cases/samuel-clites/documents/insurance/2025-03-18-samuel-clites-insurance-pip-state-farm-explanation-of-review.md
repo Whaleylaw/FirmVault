@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Samuel
 source_hash: sha256:3cd2981ad3cac7cfb0662d138934d967d713052c90ff21386290e96e1378363e
 ---
 
+**Case:** [[cases/samuel-clites/samuel-clites|Samuel Clites]]
+**Client:** [[cases/samuel-clites/contacts/samuel-clites|Samuel Clites]]
+
 Explanation of Review
 This is not a bill
 Claim number: 17-66P1-45F

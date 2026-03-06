@@ -1,8 +1,8 @@
 ---
 case_slug: charles-t-johnson
-created_at: 2026-02-16 22:25:50.469000+00:00
+created_at: {}
 document_category: medical
-document_date: 2023-04-17
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2023-04-18-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charles-T-Johnson-MVA-4-18-2023/Medical-Records/2023-06-01-Charles-T-Johnson-Integra-Medical-Imaging-MRI-Order-Form.pdf
 source_hash: sha256:2fbc4e2b811b83236804bb7dcce05dbb2d0e93f763148d5001f345d5a133dad0
+contact: "[[cases/2023-04-18-mva-001/contacts/integra-medical-imaging]]"
 ---
+
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 
 [DOB-1] 10:58AM [PHONE-32] STARLITE PAGE 01
 Arena’s Logistics

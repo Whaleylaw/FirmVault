@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Diamon
 source_hash: sha256:dd5a780e2a16e6c65212f328cdafd0744ac62a95b68ebaa41d2bc27efb9fce57
 ---
 
+**Case:** [[cases/diamond-williams/diamond-williams|Diamond Williams]]
+**Client:** [[cases/diamond-williams/contacts/diamond-williams|Diamond Williams]]
+
 item_0.jsonb_agg[0].address: 2028 Macarthur Drive
 item_0.jsonb_agg[0].email: [EMAIL-1]
 item_0.jsonb_agg[0].full_name: Diamond Williams

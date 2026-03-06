@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jaysha
 source_hash: sha256:ce78eea7880bb2700af3202c5738bd94fe7254066d4b9e5830789ad44c371abf
 ---
 
+**Case:** [[cases/jaysha-aponte/jaysha-aponte|Jaysha Aponte]]
+**Client:** [[cases/jaysha-aponte/contacts/jaysha-aponte|Jaysha Aponte]]
+
 eneeeeee OE le EE
 i
 GEICO. GEICO Secure Insurance Company geico.com

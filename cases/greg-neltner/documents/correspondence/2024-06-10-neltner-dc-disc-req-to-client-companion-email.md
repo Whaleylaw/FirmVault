@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-N
 source_hash: sha256:34853b0264b273c562a8305140836baa65085f08ea04abf1f9ddd3e7bce334b7
 ---
 
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 Subject: Your Written Discovery Requests from the Defense Attorney.
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1], [EMAIL-2]

@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:31546f63b23cb21204ee2bddf7436d0aa9fead0ad8cfe780fdf0d1d3f76668c7
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 [DOB-1] - 058048 07X.JPG - PHOTO-DAM - [PHONE-2]
 
 

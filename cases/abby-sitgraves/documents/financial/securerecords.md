@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Abby-S
 source_hash: sha256:c613301c96dc519051f1a9587a8168a11b83f13f7b088204eed84341c6673a90
 ---
 
+**Case:** [[cases/abby-sitgraves/abby-sitgraves|Abby Sitgraves]]
+**Client:** [[cases/abby-sitgraves/contacts/abby-sitgraves|Abby Sitgraves]]
+
 Subject: #SECURE#  RECORDS
 From: [EMAIL-2]
 To: sarena@whaleylawfirm.com

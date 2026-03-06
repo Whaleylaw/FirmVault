@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:db9b1e0aba4cc675755ea6063c9779a6fd7840511a45a2f923847bfbe87120fe
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 CRAIG GREENBERG
 MAYOR ] } 4! 4
 JACQUELYN GWINN-VILLAROEL / 9

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:f04be0facb73314765ee97f2b48d1375175d8edffabbfcd450fb519a2d9ed370
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 Subject: Appt. Request Acknowledgement - Tue, Feb 25 2025
 From: [EMAIL-5]
 To: sarena@whaleylawfirm.com

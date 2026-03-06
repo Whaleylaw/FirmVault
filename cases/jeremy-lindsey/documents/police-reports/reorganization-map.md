@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:5ff1b96cad9b60c990d7094fcb59cdeee8036e59530cf64f3bd451449dd94b96
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 case_name: Jeremy-Lindsey-MVA-[DOB-1]
 corrections_made.colon_replacements: 10
 corrections_made.examples[0]: Accident_Report_Jeremy_vs_Elizabeth.pdf (was: Accident Report: Jeremy vs Elizabeth)

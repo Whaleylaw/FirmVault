@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:360682b90802336a74b69bd3c9c149b9f226c3c0d85b878c28e4b76892a08f65
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 Fax Server [DOB-13] 10:08:40 AM PAGE 1/004 Fax Server
 CONTINUATION OF INTERRUPTED FAX ee
 RECIPIENT INFORMATION:

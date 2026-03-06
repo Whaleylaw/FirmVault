@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-
 source_hash: sha256:6d5a552f34343622fbe0bab295d807729508d0ae41aeb286d7918aa6b5e58291
 ---
 
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 category: medical_records
 description: Treatment for peritonsillar abscess at UKHC Emergency Department
 entities.organizations[0]: UK HealthCare Emergency Department

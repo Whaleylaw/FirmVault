@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dewayn
 source_hash: sha256:4f50b4fe5ae01e566dc972cd7836166f22942ca2c2e434fc65607fbf190e819d
 ---
 
+**Case:** [[cases/dewayne-ward/dewayne-ward|Dewayne Ward]]
+**Client:** [[cases/dewayne-ward/contacts/dewayne-ward|Dewayne Ward]]
+
 item_0.holder_address: PO BOX 30114, , Salt Lake City, UT 84130-9993
 item_0.holder_phone: [PHONE-1]
 item_0.lien_holder_name: Conduent

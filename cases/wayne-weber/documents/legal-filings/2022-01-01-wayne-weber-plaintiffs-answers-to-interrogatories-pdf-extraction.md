@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:01863676cf7d5047094986a225c6da677672bf6f1962d8529036642485af6573
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: legal_filing
 extraction.date: 2022-01-01
 extraction.description: Plaintiff's answers to interrogatories filed in Wayne Weber's case dated January 1, 2022.

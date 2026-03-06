@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:1a7c00f63f572eb90f5cc4b1eac298575723af86b4b3220381c5d99600c6d516
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 Toll Free 24/7/365: [PHONE-2]
 UOFL-JMC
 Patient: Name: JAMES RAY KIPER

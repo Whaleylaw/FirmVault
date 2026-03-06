@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:8ee9ea1dc737d9353cb8f2dd1ccdcebe469b9e8f9caeb6f63bdc6421debf0527
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 case_folder: Torrey-Green-MVA-9-03-2025
 case_name: Torrey Green MVA
 categories_used[0]: insurance

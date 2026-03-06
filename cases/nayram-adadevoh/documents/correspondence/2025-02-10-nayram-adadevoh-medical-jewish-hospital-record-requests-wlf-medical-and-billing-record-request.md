@@ -1,20 +1,23 @@
 ---
 case_slug: nayram-adadevoh
-created_at: 2026-02-17 00:12:19.652000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1973-05-22
+document_date: {}
 document_type: correspondence
-entities:
-- University of Louisville
+entities: null
 extraction_method: native_text
 legacy_case_id: 2024-07-13-MVA-002
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram-Adadevoh-MVA-7-13-2024/Medical/Jewish
-  Hospital/Record Requests/2025-02-10-Nayram-Adadevoh-Medical-Jewish Hospital-Record-Requests-WLF-Medical-and-Billing-Record-Request.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram-Adadevoh-MVA-7-13-2024/Medical/Jewish Hospital/Record Requests/2025-02-10-Nayram-Adadevoh-Medical-Jewish Hospital-Record-Requests-WLF-Medical-and-Billing-Record-Request.pdf
 source_hash: sha256:640c59c41ce91ed7a28fb1546d6c75c3fdbacb73e4345c187fe3187d86b8e99a
+contact: "[[cases/2024-07-13-mva-002/contacts/jewish-hospital]]"
 ---
+
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

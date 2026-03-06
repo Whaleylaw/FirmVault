@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cory-S
 source_hash: sha256:581d6a94e3760056642c6e3d00184e6462a6fe560bad6fac07849ad998b5410a
 ---
 
+**Case:** [[cases/cory-stephenson/cory-stephenson|Cory Stephenson]]
+**Client:** [[cases/cory-stephenson/contacts/cory-stephenson|Cory Stephenson]]
+
 TRAFFIC COLLISION REPORT
 KENTUCKY UNIFORM POLICE
 DRAFT MASTER FILE #

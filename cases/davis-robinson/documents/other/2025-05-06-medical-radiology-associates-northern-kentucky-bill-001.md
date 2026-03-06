@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-
 source_hash: sha256:d0d54996bd0304a6a6680e3d2af6961d743ab119c75da935ebdf4e9d85da8b6c
 ---
 
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 NYSHLYON AO SALVIDOSSV ADO TOINVa
 
 "SUOJO UONIE}|OO JAYLINY PloAe 0}

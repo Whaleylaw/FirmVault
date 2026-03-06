@@ -23,6 +23,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:79562d3e208841d7d8e4c80769bd55e62e694145ed77bfb61e0ce1165862e2ca
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 item_0.author_name: Aaron
 item_0.episode_type: imported
 item_0.last_activity: 2025-09-29T00:00:00

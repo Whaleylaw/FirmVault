@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:809e4c0ad802b4597b25cab41d717383d27b63c4d4062a06c0638bda20899fab
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 count: 219
 missing_files[0]: 2024-01-10-Anella-Noble-Dr-Roth-Follow-Up-Visit.pdf
 missing_files[1]: 2024-11-15-Anella-Noble-Bluegrass-Bone-and-Joint-Medical-Records-Request.pdf

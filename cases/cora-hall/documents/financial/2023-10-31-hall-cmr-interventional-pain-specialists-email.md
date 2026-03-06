@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:9e62386409498fdee851d68ea991b6aa73046163dcccfd2547feea2c05d8059d
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 Subject: SECURE Medical Records and Billing
 From: [EMAIL-1]
 To: Sarena@WhaleyLawFirm.com

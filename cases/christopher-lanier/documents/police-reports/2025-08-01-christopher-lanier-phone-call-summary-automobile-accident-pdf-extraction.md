@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:5146f45ed918666088973a8ec11f1be26d878fb40e0a7fedf8be163962609d66
 ---
 
+**Case:** [[cases/christopher-lanier/christopher-lanier|Christopher Lanier]]
+**Client:** [[cases/christopher-lanier/contacts/christopher-lanier|Christopher Lanier]]
+
 extraction.classification.bucket: Case Information
 extraction.classification.confidence: high
 extraction.classification.document_type: case_information

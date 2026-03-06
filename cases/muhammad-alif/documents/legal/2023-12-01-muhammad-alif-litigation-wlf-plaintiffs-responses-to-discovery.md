@@ -22,6 +22,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:e792b37910570f0c3b5a6fcd7efd24f6e5cce03186e4bd207217d242999f7b96
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 NO. 23-CI-005509 JEFFERSON COUNTY CIRCUIT COURT 
  DIVISION SEVEN (7) 
 JUDGE HON. MARY SHAW 

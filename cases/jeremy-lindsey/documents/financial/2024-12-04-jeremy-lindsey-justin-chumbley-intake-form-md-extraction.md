@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:776bd1b3637d83750ecb60e2d6549ee52c719a0e9915f4da197d057e21691f6b
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: client
 date: 2024-12-04
 description: Client intake form signed via VineSign electronic signature system

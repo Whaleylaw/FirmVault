@@ -1,22 +1,23 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:49:10.490000+00:00
+created_at: {}
 document_category: medical
-document_date: 2019-11-27
+document_date: {}
 document_type: medical
-entities:
-- Kelli Corum
-- Amy Referring
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/PT
-  Pros Physical Therapy and Sports Center/Medical Records/2019-10-14-Amy-Mills-Medical-PT
-  Pros Physical Therapy and Sports Center-Medical-Records-PT-Pros-Initial-Evaluation-Physical-Therapy.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/PT Pros Physical Therapy and Sports Center/Medical Records/2019-10-14-Amy-Mills-Medical-PT Pros Physical Therapy and Sports Center-Medical-Records-PT-Pros-Initial-Evaluation-Physical-Therapy.pdf
 source_hash: sha256:817bd97ce3f285396e67faa7ea616af0e9389d856967d7d8fa0d80f6d6c9d1b8
+contact: "[[cases/2019-04-26-prl-001/contacts/pt-pros-physical-therapy-and-sports-center]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 2019-11-27 09256 PT Prog [PHONE-8] >» P 3/8
 *

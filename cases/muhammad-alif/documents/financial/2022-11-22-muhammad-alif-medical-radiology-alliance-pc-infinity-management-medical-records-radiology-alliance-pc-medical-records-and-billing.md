@@ -1,19 +1,22 @@
 ---
 case_slug: muhammad-alif
-created_at: 2026-02-17 00:11:36.841000+00:00
+created_at: {}
 document_category: financial
-document_date: 1961-04-16
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2022-11-08-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Radiology
-  Alliance, PC (Infinity Management)/Medical Records/2022-11-22-Muhammad-Alif-Medical-Radiology
-  Alliance, PC (Infinity Management)-Medical-Records-Radiology-Alliance-PC-Medical-Records-And-Billing.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Radiology Alliance, PC (Infinity Management)/Medical Records/2022-11-22-Muhammad-Alif-Medical-Radiology Alliance, PC (Infinity Management)-Medical-Records-Radiology-Alliance-PC-Medical-Records-And-Billing.pdf
 source_hash: sha256:94553d345b25e9a46fa4fd92205a2675fe89b4b815837022e8d26de3c8a72119
+contact: "[[cases/2022-11-08-mva-001/contacts/radiology-alliance-pc-infinity-management]]"
 ---
+
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 
 DataSet: RAPCA
 Location Code: 504

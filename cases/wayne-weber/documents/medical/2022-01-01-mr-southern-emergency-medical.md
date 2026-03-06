@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:9ccb33a9ce4dd7ef681e588b35e141aca5f3a2920d02d702336e72ce936160c0
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 1/21/22, 10:44 AM
 Jan. 24.2022 8:31AM
 Weber, Wayne E (MRN EP01243087)

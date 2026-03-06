@@ -11,3 +11,6 @@ quality_score: 0
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shannon-Lankswert-WC-02-07-2025/Investigation/2025-02-07-Shannon-Lankswert-Investigation-Client-Photos-of-Injuries.pdf
 source_hash: sha256:07e8e8ebf9ecfda7d589882e6ed1dc82d97083534660f67df5129aaf4d84a543
 ---
+
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]

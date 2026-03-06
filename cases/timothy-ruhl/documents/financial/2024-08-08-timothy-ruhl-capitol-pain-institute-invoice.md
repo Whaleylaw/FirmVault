@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:75c5109e3cba7d87239b31948fb07ebd742a97b2d8834e448828c91e0286e13f
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 From HealthMark Group 1.[PHONE-14] Thu Aug 8 13:20:28 2024 CDT Page 1 of 2
 Invoice - 13778753
 Federal Tax ID 36-4581087

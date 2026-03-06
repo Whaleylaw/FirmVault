@@ -1,20 +1,23 @@
 ---
 case_slug: muhammad-alif
-created_at: 2026-02-17 00:11:24.957000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1961-04-16
+document_date: {}
 document_type: correspondence
-entities:
-- Mayo Spine Clinic
+entities: null
 extraction_method: native_text
 legacy_case_id: 2022-11-08-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Mayo
-  Spine Clinic/Record Requests/2024-08-02-Muhammad-Alif-Medical-Mayo Spine Clinic-Record-Requests-WLF-Medical-Record-and-Billing-Request.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Mayo Spine Clinic/Record Requests/2024-08-02-Muhammad-Alif-Medical-Mayo Spine Clinic-Record-Requests-WLF-Medical-Record-and-Billing-Request.pdf
 source_hash: sha256:c574bc854046c18e1e94a85aac6713820e652a5d6c47ddc1927fb5219c26974c
+contact: "[[cases/2022-11-08-mva-001/contacts/mayo-spine-clinic]]"
 ---
+
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 
 Fax Confirmation
 To: [PHONE-12] From: [PHONE-11]

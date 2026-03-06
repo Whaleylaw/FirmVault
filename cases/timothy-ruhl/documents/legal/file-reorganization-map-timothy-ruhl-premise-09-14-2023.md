@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:0c0e301a191e2335e87ff207326a80865e5b4b6351796bbaf96625f020cbd3d0
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 item_0.action: MOVE
 item_0.bucket: Medical Records
 item_0.extraction_source: Reports/extractions/1966-08-05-KROGER-PHARMACY-CUSTOMER-STATEMENT-REPORT.md_extraction.json

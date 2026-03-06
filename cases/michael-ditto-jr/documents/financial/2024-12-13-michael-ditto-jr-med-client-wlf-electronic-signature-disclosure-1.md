@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:e856811dcfecafbf1c11d1fa1c7171c138042b436488704c7c5aaee0a3e4f5b1
 ---
 
+**Case:** [[cases/michael-ditto-jr/michael-ditto-jr|Michael Ditto Jr]]
+**Client:** [[cases/michael-ditto-jr/contacts/michael-ditto-jr|Michael Ditto Jr]]
+
 Certificate Of Completion
 Envelope Id: 5BA98F18-D87E-4974-95F8-DD6A28700812 Status: Delivered
 Subject: Thank you for choosing The Whaley Law Firm!

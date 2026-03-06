@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:8f83fd7dd8a3c51eab4db479163d2b2adae8c0b8b258db7d512ac229d0727c05
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 Subject: New Voice Message from TERESA SMITH [PHONE-6] on [DOB-2] 9:20 AM
 From: [EMAIL-3]
 To: Sarena@whaleylawfirm.com

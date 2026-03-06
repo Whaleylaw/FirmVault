@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:974cc012631d55126a54ad2cbc8430f46f469206e37fd7d38eb942c1f147155d
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 Uo ef L
 Dhycasaanc RfRLRORB G1661,40 AM Eat HACE 1/Oo¢0 Fast forvsr
 Fax Transmission

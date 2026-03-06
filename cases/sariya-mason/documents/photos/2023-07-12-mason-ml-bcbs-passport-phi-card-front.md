@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya
 source_hash: sha256:9fcad82697e07bbaa08a69e161c3d6a3886b288dcbe9baee52f345cce6d4686d
 ---
 
+**Case:** [[cases/sariya-mason/sariya-mason|Sariya Mason]]
+**Client:** [[cases/sariya-mason/contacts/sariya-mason|Sariya Mason]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya-Mason-DB-[DOB-1]/Medical Bills/2023.07.12-Mason-ML-BCBS-Passport-PHI-Card-Front.jpg

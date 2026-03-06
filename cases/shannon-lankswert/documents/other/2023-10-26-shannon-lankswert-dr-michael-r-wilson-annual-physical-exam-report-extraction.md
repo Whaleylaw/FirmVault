@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:9a663d5b96ae79ae4bd9f089c3c17d09c1bcfd399fdde1bf75c58eafa86ce721
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 extraction.category: Medical
 extraction.date: 2023-10-26
 extraction.description: Annual physical exam report dated [DOB-1]. Note: OCR extraction failed - poor scan quality, no text detected

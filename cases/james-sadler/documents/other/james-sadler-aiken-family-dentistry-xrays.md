@@ -1,6 +1,6 @@
 ---
 case_slug: james-sadler
-created_at: 2026-02-16 23:55:04.617000+00:00
+created_at: {}
 document_category: other
 document_type: other
 extraction_method: native_text
@@ -10,7 +10,12 @@ page_count: 1
 quality_score: 90
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Sadler-MVA-4-07-2023/Correspondence/James-Sadler-Aiken-Family-Dentistry-Xrays.docx
 source_hash: sha256:4294abdd89e90bcfc185c2c382813d631d4d27d3c2975a0f7ea88c7f02efcbca
+contact: "[[cases/2023-04-07-mva-001/contacts/aiken-family-dentistry]]"
 ---
+
+**Case:** [[cases/james-sadler/james-sadler|James Sadler]]
+**Client:** [[cases/james-sadler/contacts/james-sadler|James Sadler]]
+
 
 Bitewing  X-rays  taken  7.10.23
 

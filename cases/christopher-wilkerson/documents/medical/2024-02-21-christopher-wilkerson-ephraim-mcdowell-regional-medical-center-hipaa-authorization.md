@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:2d4fa65eecd9c640f5f646bf0564e7a2ae87221d8549d0ebfe3ee9e365e78dce
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 Chris Wilkerson
 [DOB-1]
 ***-**-5947 [DOB-1]

@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:998a5846c73218b269d8a609d5c6852503c947e80c00cefb4f7c96f6d104b11f
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 VERIFICATION
 I, Jessica Leasor, Director of Care Coordination, Patient Safety Officer, Norton Hospital,
 hereby verify the Answers and Responses contained herein are true and accurate to thebest of my

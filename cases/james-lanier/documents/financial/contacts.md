@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:29c5291dbf17a35726cf164889424eef729247bbfbbb73124b4d3b908ff12f5c
 ---
 
+**Case:** [[cases/james-lanier/james-lanier|James Lanier]]
+**Client:** [[cases/james-lanier/contacts/james-lanier|James Lanier]]
+
 item_0.jsonb_agg[0].full_name: James Lanier
 item_0.jsonb_agg[0].project_name: James-Lanier-MVA-6-28-2025
 item_0.jsonb_agg[0].roles[0]: client

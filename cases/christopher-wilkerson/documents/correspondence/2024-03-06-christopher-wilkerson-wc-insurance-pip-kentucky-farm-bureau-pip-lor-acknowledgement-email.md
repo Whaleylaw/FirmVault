@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:1e407ff7dbecb9628e930085640f9c9df27b38c45a23cd17e4842e38eca6e4cd
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 Subject: RE: Claim 04943051 - Christopher A. Wilkerson - PIP LOR
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

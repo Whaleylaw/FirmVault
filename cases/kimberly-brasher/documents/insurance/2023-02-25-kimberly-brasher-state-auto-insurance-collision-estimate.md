@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:c516722c3d6d8cbda92cf84f184a4de7a9880c1161f97a13758aff18720a0596
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 SAF .10.[f Utasnere CfD
 Madisonville
 USE TALS td toes eee

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:cda52fda917e1f85a1dc4c1eab740bcb237e78eb76d4d853c452c6b3dbd84cda
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 Subject: New Voice Message from WIRELESS CALLER [PHONE-6] on [DOB-2] 2:09 PM
 From: [EMAIL-3]
 To: Sarena@whaleylawfirm.com

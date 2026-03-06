@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Tina-S
 source_hash: sha256:3656b237f43ad9c4c89a91a1769e45a75580b4cff860acee3018d371caa99f91
 ---
 
+**Case:** [[cases/tina-smith/tina-smith|Tina Smith]]
+**Client:** [[cases/tina-smith/contacts/tina-smith|Tina Smith]]
+
 + [DOB-7] 10:12 AM Fax Services +Attorney Bryce Koon pg 1 of 3
 carelon $M
 Date: [DOB-2] 10:11 AM

@@ -1,11 +1,10 @@
 ---
 case_slug: caryn-mccay
-created_at: 2026-02-16 22:16:44.758000+00:00
+created_at: {}
 document_category: insurance
-document_date: 2023-07-30
+document_date: {}
 document_type: insurance
-entities:
-- Allstate
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-07-30-MVA-001
 mime_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-McCay-MVA-7-30-2023/Insurance/2023-09-21-Caryn-McCay-The-Whaley-Law-Firm-LOR-to-PIP-Adjuster.docx
 source_hash: sha256:751c627cea220fe6b50ae13d7a511a50315031b721c7b79bb3a96ae93ffd179c
+contact: "[[cases/2023-07-30-mva-001/contacts/caryn-mccay]]"
 ---
+
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 
 *Aaron G. Whaley, Esq.*
 *712 Lyndon Lane*

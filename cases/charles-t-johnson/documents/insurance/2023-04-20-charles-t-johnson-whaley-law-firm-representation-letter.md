@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:1441c5b5e6fb3c2ffb3fadcc58682cd3a9ad39c912b8f92e6d41c56915e6770b
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 Aaron G. Whaley, Esq.
 THE 712 Lyndon Lane
 H A FY Louisville, KY 40222

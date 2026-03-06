@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:174fafc4f40c1b4cfc72eba35b8696b712141eaa9aba994655630fbbb586dc5f
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 HIPAA COMPLIANT AUTHORIZATION FORM PURSUANT TO 45 CFR 164.508 
 Name or specific identification of the person(s), or class of persons, authorized to make the 
 requested disclosure: 

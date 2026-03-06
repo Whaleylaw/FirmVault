@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Forres
 source_hash: sha256:01e0d64f4e7aa80e2ce6f720431e3a9f49a38e8822d4319e3296d3ee1f10c6e6
 ---
 
+**Case:** [[cases/forrest-muss/forrest-muss|Forrest Muss]]
+**Client:** [[cases/forrest-muss/contacts/forrest-muss|Forrest Muss]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Forrest-Muss-MVA-[DOB-1]/Investigation/2025-07-20-Forrest-Muss-Investigation-Client-Photo-of-Burn-Injury-4.jpg

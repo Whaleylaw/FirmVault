@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ceceli
 source_hash: sha256:56e5babfad324250109012f1aa51ad630566a0566d74b08c82959a7ba3189236
 ---
 
+**Case:** [[cases/cecelia-neltner/cecelia-neltner|Cecelia Neltner]]
+**Client:** [[cases/cecelia-neltner/contacts/cecelia-neltner|Cecelia Neltner]]
+
 Fax Server 4/9/2024 11:10:32 AM EDT PAGE 3/113 Fax Server
 St. Elizabeth Physicians
 One Medical Village Drive

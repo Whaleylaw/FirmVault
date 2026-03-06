@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel
 source_hash: sha256:4137fd82a38b29e5e7dd2d668bee5949557cf52f341d8db77127b8c9709c2675
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 GrangeY IntegrityY
 Insurance’ Insurance
 Grange Enterprise Companies

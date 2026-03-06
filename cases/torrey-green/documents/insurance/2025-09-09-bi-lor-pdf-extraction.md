@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:0eb3905aa6f25fffc598993ee9d6f1f923f0aabee2fb7268a732e1b8621e1d66
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 extracted_data.category: insurance
 extracted_data.date: 2025-09-09
 extracted_data.description: Bodily Injury Letter of Representation from The Whaley Law Firm to Elco Insurance dated September 9, 2025 regarding client Torrey Green's injuries from motor vehicle incident on 9/3/2025 (Claim #23016864). Letter requests acknowledgment within 3 business days and demands policy information including liability limits, uninsured motorist coverage, policy copies, and medical payment coverage within 30 days.

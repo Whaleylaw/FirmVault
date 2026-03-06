@@ -1,6 +1,6 @@
 ---
 case_slug: davis-robinson
-created_at: 2026-02-16 22:55:51.585000+00:00
+created_at: {}
 document_category: photos
 document_type: photo
 extraction_method: image_proxy
@@ -10,7 +10,12 @@ page_count: 1
 quality_score: 70
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-Robinson-SF-05-02-2025/Evidence-Photos-Videos/2025-05-02_Evidence_Texas-Roadhouse-Pavement-Defect_001.jpg
 source_hash: sha256:f308130a4dd7a3f33b440df28f5eeb42015886baef5d8b7a97cf94cce127b1e4
+contact: "[[cases/2025-05-02-sf-001/contacts/texas-roadhouse]]"
 ---
+
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 
 # Image Document
 

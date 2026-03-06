@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmon
 source_hash: sha256:be5dc88aad0b21c09f902edac095ff20ff5dff1d24c1bf0fb0ccf57cc4dcda1b
 ---
 
+**Case:** [[cases/julmonzhae-moore/julmonzhae-moore|Julmonzhae Moore]]
+**Client:** [[cases/julmonzhae-moore/contacts/julmonzhae-moore|Julmonzhae Moore]]
+
 STATE OF INDIANA ) IN THE FLOYD COUNTY SUPERIOR COURT 
  ) SS: 
 COUNTY OF FLOYD ) CAUSE NO. 22D03-2501-CT-000157 

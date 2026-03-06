@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Abby-S
 source_hash: sha256:92fd02eb9805aa5a82276965675f280b79d65104d65a1a8d1e4e094640930b8e
 ---
 
+**Case:** [[cases/abby-sitgraves/abby-sitgraves|Abby Sitgraves]]
+**Client:** [[cases/abby-sitgraves/contacts/abby-sitgraves|Abby Sitgraves]]
+
 FayaeWeONE MELE 8 ;: Sa (https://courts.ky.gov/) CourtNet 2.0' a GXO)EFGe) Leisa(eign se Search Court Records
 Search by Case > Account Plan Usage
 Search by Party/Business v Total Views: 13 @

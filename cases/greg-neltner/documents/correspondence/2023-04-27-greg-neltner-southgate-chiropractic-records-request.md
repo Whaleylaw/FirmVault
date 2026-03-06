@@ -1,8 +1,8 @@
 ---
 case_slug: greg-neltner
-created_at: 2026-02-16 23:44:23.826000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1971-03-06
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2023-04-01-MVA-002
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-Neltner-MVA-4-1-2023/Medical-Records/2023-04-27-Greg-Neltner-Southgate-Chiropractic-records-request.pdf
 source_hash: sha256:762f15ae2d745bb517f211a0f32bc1032d35214caff9f4097fa375fda69e8bc7
+contact: "[[cases/2023-04-01-mva-002/contacts/southgate-chiropractic]]"
 ---
+
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

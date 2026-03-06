@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:5d17162edae9dcef67e8914c49d90a0882a4675538c9d7521cb44de899731e1a
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 11/1@/2624 13:39 5a269495d4 aRAY ASsoOC OF LOU PAGE 4/12
 4-Nov-2024 19:34 [PHONE-2] #15822373207 p.4
 CERTIFICATION OF MEDICAL RECORDS AFFIDAVIT

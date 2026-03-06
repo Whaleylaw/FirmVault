@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:9dea080b272c83c953f236f321afb11a743aec6d26e9e4531d4aac5c685930ee
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 [DOB-1]
 ***-**-7737 [DOB-1]
 Louisville Metro Emergency Medical Services

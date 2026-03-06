@@ -1,18 +1,22 @@
 ---
 case_slug: abby-sitgraves
-created_at: 2026-02-16 21:22:16.256000+00:00
+created_at: {}
 document_category: medical
-document_date: 1968-12-31
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2024-07-13-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Abby-Sitgraves-MVA-7-13-2024/Medical/Foundation
-  Radiology/Record Requests/2025.02.10 Sitgraves Executed Med Auth - Foundation Radiology.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Abby-Sitgraves-MVA-7-13-2024/Medical/Foundation Radiology/Record Requests/2025.02.10 Sitgraves Executed Med Auth - Foundation Radiology.pdf
 source_hash: sha256:718465d59baa2b30792406b3e21a0588761afb155aa01c78411391907b13cebe
+contact: "[[cases/2024-07-13-mva-001/contacts/foundation-radiology]]"
 ---
+
+**Case:** [[cases/abby-sitgraves/abby-sitgraves|Abby Sitgraves]]
+**Client:** [[cases/abby-sitgraves/contacts/abby-sitgraves|Abby Sitgraves]]
+
 
 Foundation Radiology
 1 Zotec Way

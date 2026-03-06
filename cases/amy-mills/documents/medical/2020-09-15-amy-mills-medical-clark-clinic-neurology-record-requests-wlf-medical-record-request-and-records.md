@@ -1,23 +1,23 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:48:27.659000+00:00
+created_at: {}
 document_category: medical
-document_date: 1983-12-28
+document_date: {}
 document_type: medical
-entities:
-- Marandon Landfiold
-- Alexander Landfield
-- Aloxancior Landtietd Base Glark Clinic
-- Aetna
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Clark
-  Clinic Neurology/Record Requests/2020-09-15-Amy-Mills-Medical-Clark Clinic Neurology-Record-Requests-WLF-Medical-Record-Request-and-Records.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Clark Clinic Neurology/Record Requests/2020-09-15-Amy-Mills-Medical-Clark Clinic Neurology-Record-Requests-WLF-Medical-Record-Request-and-Records.pdf
 source_hash: sha256:1982bb8fd60878877b12021916446ee1e00ee0b0cbf8d2c9ab76286c5eee0e28
+contact: "[[cases/2019-04-26-prl-001/contacts/clark-clinic-neurology]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 BAM. Clar<Cin ¢
 MEDICAL RECORD REQUEST" for MILLS, AMY [DOB-7] (38yo F) #652211 £#652211

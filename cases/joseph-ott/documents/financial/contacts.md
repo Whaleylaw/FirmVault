@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Joseph
 source_hash: sha256:0ad14464541d8693be2cf7ab38d35e129e7a3ace456829c7465dd73981217da1
 ---
 
+**Case:** [[cases/joseph-ott/joseph-ott|Joseph Ott]]
+**Client:** [[cases/joseph-ott/contacts/joseph-ott|Joseph Ott]]
+
 item_0.jsonb_agg[0].full_name: Joseph Ott
 item_0.jsonb_agg[0].project_name: Joseph-Ott-MVA-8-06-2025
 item_0.jsonb_agg[0].roles[0]: client

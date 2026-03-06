@@ -1,12 +1,10 @@
 ---
 case_slug: robin-willis-beck
-created_at: 2026-02-17 00:17:15.805000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1977-07-27
+document_date: {}
 document_type: correspondence
-entities:
-- Norton Audubon Hospital
-- Norton Healthcare
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-09-21-PrL-001
 mime_type: application/pdf
@@ -14,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-Willis-Beck-Premise-09-21-2023/Medical-Records/2024-08-29-Robin-Willis-Beck-Norton-Audubon-Hospital-Medical-Records.pdf
 source_hash: sha256:392b6ce826627a5430bf459800fd408334aa6e5cac51d5763b58445bbee698a5
+contact: "[[cases/2023-09-21-prl-001/contacts/norton-audubon-hospital]]"
 ---
+
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 
 IN NORTON’
 HEALTHCARE MEDICAL RECORDS CERTIFICATION RID 174389101

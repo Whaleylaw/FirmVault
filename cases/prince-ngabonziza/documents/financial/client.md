@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Prince
 source_hash: sha256:52e0b18cce5ca7decfefe1c14cbd4172e129b90be2913a72f7a1318626024172
 ---
 
+**Case:** [[cases/prince-ngabonziza/prince-ngabonziza|Prince Ngabonziza]]
+**Client:** [[cases/prince-ngabonziza/contacts/prince-ngabonziza|Prince Ngabonziza]]
+
 address: 3005 Frank lee Ave, Louisville, KY 40216
 date_of_birth: [DOB-1]
 imported_at: 2026-02-16T21:09:42.780Z

@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:8733d701f17178f4c655b072bf424480dad2f3a8755a68da9ebc7b3f742368ef
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 2022-12-07 11:02 Riverside ~ Ortho 12707451388 +> Faxfinder.cloud P 6/16
 The Medical Center at Scottsville
 Department of Diagnostic Imaging

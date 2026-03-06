@@ -4,6 +4,9 @@ document_category: financial
 legacy_case_id: 2022-01-01-MVA-001
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-Weber-MVA-[DOB-1]/Medical/2022-08-19 - Medical - Baptist Health - MRI Upper Extremity - Wayne Weber.pdf"
 source_hash: "sha256:0bc8ebf15df0f977d22d351a233bc703f4c73a4a91bdefe31f856b09c7f4ad5a"

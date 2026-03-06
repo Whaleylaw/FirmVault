@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:609ec83e806ca6ba177c2113b4211b26d7aa6549d6105255b15cebc249ea0b43
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 tha kwost ai Findacouple (togin) (signup)
 Planning Tools Vendors Wedding Website Invitations Registry Attire& Rings Ideas &Advice Gifts & Favors
 < Louisville Transportation

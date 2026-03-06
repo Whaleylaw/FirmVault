@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:29e92acd0eefcde70f11e0fec6cdc47e3f40405868671479961194971bd867e2
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: insurance_pip
 extraction.date: 2022-01-01
 extraction.description: Kentucky Farm Bureau Mutual Insurance Company PIP application for Wayne Weber dated January 1, 2022.

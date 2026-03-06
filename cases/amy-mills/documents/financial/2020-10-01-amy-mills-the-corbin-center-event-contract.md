@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:1ce1e12862bcabb610338cb2d513c6c0ffce74ff657d8f71de4f60486786e8ec
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Page 1 of 2
 Operated by the Corbin Industrial Development Commission
 P.O. Box 1566

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Elizab
 source_hash: sha256:9d171c20b231ba8de0f599c44baa61418a2db31dc29e2c99eb2fbe2dd8c65fbb
 ---
 
+**Case:** [[cases/elizabeth-lindsey/elizabeth-lindsey|Elizabeth Lindsey]]
+**Client:** [[cases/elizabeth-lindsey/contacts/elizabeth-lindsey|Elizabeth Lindsey]]
+
 IMAGING
 PATIENT: LINDSEY, ELIZABETH DOB: 11-Jun-1985
 REFERRED BY: JAIDEEP CHUNDURI MD AGE: 39 years 

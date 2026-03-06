@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Abigai
 source_hash: sha256:9408c3be777a121436902fa28b98e2b5a973cb9299b3d08414e2cf04ee14831c
 ---
 
+**Case:** [[cases/abigail-whaley/abigail-whaley|Abigail Whaley]]
+**Client:** [[cases/abigail-whaley/contacts/abigail-whaley|Abigail Whaley]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Abigail-Whaley-MVA-[DOB-1]/Investigation/Photos/2024-10-24 - Abigail Whaley - Investigation - Photos - Scene Photo 2.jpg

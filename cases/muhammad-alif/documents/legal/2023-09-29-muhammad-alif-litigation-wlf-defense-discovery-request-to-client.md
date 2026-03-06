@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:f96c3228cbc9f32a6cb950ec35af969758d45a117a4061b3659cd0de7e3f155b
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 Subject: Defense Discovery Request for your completion.
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

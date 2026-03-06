@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:fc0d40c9b70d5706fae2a90b2909419c4718570817936ecb4b31098cac1af7a6
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 PIP/Med Pay Payment Ledger
 Claimant / Injured Party Dana Jackson
 Coverage PIP OOS - Medical Expense Per Person

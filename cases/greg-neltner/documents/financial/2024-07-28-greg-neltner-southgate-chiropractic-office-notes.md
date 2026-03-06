@@ -1,8 +1,8 @@
 ---
 case_slug: greg-neltner
-created_at: 2026-02-16 23:44:25.974000+00:00
+created_at: {}
 document_category: financial
-document_date: 1971-03-06
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2023-04-01-MVA-002
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-Neltner-MVA-4-1-2023/Medical-Records/2024-07-28-Greg-Neltner-Southgate-Chiropractic-Office-Notes.pdf
 source_hash: sha256:68771e8f678a2908b493b5c10ae58d1dc655e7769d4e99bf83da5a06e0be5129
+contact: "[[cases/2023-04-01-mva-002/contacts/southgate-chiropractic]]"
 ---
+
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 
 & Massage Wellness Center
 

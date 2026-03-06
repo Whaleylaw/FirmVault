@@ -1,18 +1,22 @@
 ---
 case_slug: muhammad-alif
-created_at: 2026-02-17 00:11:22.407000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1961-04-16
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2022-11-08-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Mark
-  Lynn & Associates/Record Requests/2024-09-06-Muhammad-Alif-Medical-Mark Lynn & Associates-Record-Requests-WLF-Medical-Record-Request-and-Authorization.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Mark Lynn & Associates/Record Requests/2024-09-06-Muhammad-Alif-Medical-Mark Lynn & Associates-Record-Requests-WLF-Medical-Record-Request-and-Authorization.pdf
 source_hash: sha256:f0587c5bafafba53809949453abefde5a3e7efa463e0e7ebdd6a93e27b1eb635
+contact: "[[cases/2022-11-08-mva-001/contacts/mark-lynn-associates]]"
 ---
+
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

@@ -1,23 +1,23 @@
 ---
 case_slug: wayne-weber
-created_at: 2026-02-17 00:40:12.855000+00:00
+created_at: {}
 document_category: medical
-document_date: 1947-07-13
+document_date: {}
 document_type: medical
-entities:
-- Tim Welski
-- Norton Brownsboro Hospital
-- Closest Hospital
-- Norton Healthcare
+entities: null
 extraction_method: native_text
 legacy_case_id: 2022-01-01-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-Weber-MVA-01-01-2022/Medical/2022-01-01
-  - Medical - Anchorage Middletown Fire EMS - Injury Report - Wayne Weber.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-Weber-MVA-01-01-2022/Medical/2022-01-01 - Medical - Anchorage Middletown Fire EMS - Injury Report - Wayne Weber.pdf
 source_hash: sha256:d65f724e916906128e32c9f692c5d36cb3a45fc80ef366f279e644e736738066
+contact: "[[cases/2022-01-01-mva-001/contacts/anchorage-middletown-fire-ems]]"
 ---
+
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 
 *% INBOUND NOTIFICATION ; FAX RECEIVED SUCCESSFULLY **
 

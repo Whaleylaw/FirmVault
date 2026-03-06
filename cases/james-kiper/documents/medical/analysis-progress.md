@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:f5293358e749b8926febe73536d921af1cd80ff6bac5697cea383fecba5fda1a
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 artifacts_created[0]: /Volumes/X10 Pro/projects/James-Kiper-MVA-12-5-2022/reports/extractions/
 artifacts_created[1]: /Volumes/X10 Pro/projects/James-Kiper-MVA-12-5-2022/reports/case_facts.md
 artifacts_created[2]: /Volumes/X10 Pro/projects/James-Kiper-MVA-12-5-2022/reports/inventory.md

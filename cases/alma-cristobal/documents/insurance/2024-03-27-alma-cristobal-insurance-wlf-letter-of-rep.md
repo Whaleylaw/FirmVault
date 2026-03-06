@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:fa24c5a68d8e81bc1f86a6c6a438cbe15ac25db47f77fd69ae272ed9264ec0df
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 Jessa 
 Jessa 
 Aaron G. Whaley, Esq.

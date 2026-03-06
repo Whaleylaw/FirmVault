@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:dd30a8cc994e33efd30ee8d546fd626ae91ca72d8d2cd1647db30f9d48e17e67
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: litigation_discovery
 extraction.date: 2022-01-01
 extraction.description: Plaintiff Wayne Weber's answers to interrogatories filed as court pleading in the motor vehicle accident litigation case.

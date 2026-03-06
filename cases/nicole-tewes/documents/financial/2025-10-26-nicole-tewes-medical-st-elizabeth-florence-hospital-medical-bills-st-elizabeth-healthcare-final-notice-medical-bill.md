@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nicole
 source_hash: sha256:3f7a7fc3e61c0bfcaa41e0a573a182d4300716822d2d0047e4f42662b881b3b7
 ---
 
+**Case:** [[cases/nicole-tewes/nicole-tewes|Nicole Tewes]]
+**Client:** [[cases/nicole-tewes/contacts/nicole-tewes|Nicole Tewes]]
+
 e St. Elizabeth FINAL NOTICE
 HEALTHCARE 117402-SEZ-INHOUSEPRECOLLECT-197
 10/26/25

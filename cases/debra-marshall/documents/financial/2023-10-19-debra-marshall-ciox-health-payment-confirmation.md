@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:6416cdcd81db759f549cb6e43299f22cbfcb123dd062c2f8ab3dcf8eb33403c0
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 10/19/23, 12:19 PM Ciox Health
 https://www.paycioxhealth.com/pay/processingPayment.jsp?action=print 1/1
 Your request has been posted and is being processed.

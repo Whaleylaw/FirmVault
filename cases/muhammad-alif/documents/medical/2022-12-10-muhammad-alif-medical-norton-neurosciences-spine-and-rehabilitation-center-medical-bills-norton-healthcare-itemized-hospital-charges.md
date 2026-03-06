@@ -1,22 +1,23 @@
 ---
 case_slug: muhammad-alif
-created_at: 2026-02-17 00:11:31.859000+00:00
+created_at: {}
 document_category: medical
-document_date: 2022-12-10
+document_date: {}
 document_type: medical
-entities:
-- Farmers Insurance
-- Norton Healthcare
+entities: null
 extraction_method: native_text
 legacy_case_id: 2022-11-08-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Norton
-  Neurosciences Spine And Rehabilitation Center/Medical Bills/2022-12-10-Muhammad-Alif-Medical-Norton
-  Neurosciences Spine And Rehabilitation Center-Medical-Bills-Norton-Healthcare-Itemized-Hospital-Charges.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Norton Neurosciences Spine And Rehabilitation Center/Medical Bills/2022-12-10-Muhammad-Alif-Medical-Norton Neurosciences Spine And Rehabilitation Center-Medical-Bills-Norton-Healthcare-Itemized-Hospital-Charges.pdf
 source_hash: sha256:3a04aaa42cd0f0b1a16a7878c7adfc96726e190e4e1e13d54039acb56bb7d5b0
+contact: "[[cases/2022-11-08-mva-001/contacts/norton-neurosciences-spine-and-rehabilitation-center]]"
 ---
+
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 
 Patient: Alif,Muhammad
 Account ID: 223917756

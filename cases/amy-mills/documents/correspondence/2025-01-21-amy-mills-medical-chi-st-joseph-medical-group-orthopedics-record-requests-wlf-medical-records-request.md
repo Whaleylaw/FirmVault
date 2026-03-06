@@ -1,21 +1,23 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:48:26.670000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1983-12-28
+document_date: {}
 document_type: correspondence
-entities:
-- Joseph Medical Group
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/CHI
-  St. Joseph Medical Group- Orthopedics/Record Requests/2025-01-21-Amy-Mills-Medical-CHI
-  St. Joseph Medical Group- Orthopedics-Record-Requests-WLF-Medical-Records-Request.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/CHI St. Joseph Medical Group- Orthopedics/Record Requests/2025-01-21-Amy-Mills-Medical-CHI St. Joseph Medical Group- Orthopedics-Record-Requests-WLF-Medical-Records-Request.pdf
 source_hash: sha256:7ffa537da27c4042558a09f13c4b7a402b7bbe381c7bcefde8ac71e1fd15855f
+contact: "[[cases/2019-04-26-prl-001/contacts/chi-st-joseph-medical-group-orthopedic]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 = FILEVINE
 

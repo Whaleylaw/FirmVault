@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:972c97f1e751139c569a3444634b0c6e5bbeb55c0f7dd6036dc487e011c730f6
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 category: Medical
 description: Medical records request letter from Whaley Law Firm to Louisville Metro EMS requesting medical records and itemized billing from August 6, 2024 to present.
 entities[0]: Louisville Metro EMS

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:afbe5e9bd15b31bddcbe01310476a84ded6245f7b68c3bd481bdc78505a0ac7d
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 FORM 106 
 ADOPTED JULY 2003 
 COMMONWEALTH OF KENTUCKY 

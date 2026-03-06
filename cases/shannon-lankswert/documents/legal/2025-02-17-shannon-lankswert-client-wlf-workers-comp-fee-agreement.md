@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:4a3829867d607bf093d470e33c240d0808b2442fa523677312f39dda2dce090c
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 Docusign Envelope ID: B696B456-7C16-4F1 1-B822-61E5A1B86BA7
 Aaron G. Whaley, Esq.
 THE - 712 Lyndon Lane

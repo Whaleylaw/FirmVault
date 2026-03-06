@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:9aea7118465b6e84e5eea365291f9104b860080281da8899707e0f10f9b641d7
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 Subject: Re: Amy Stich - Off Work Note - Work Restrictions Request
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ceceli
 source_hash: sha256:abd9ea3699c599e118d572680f1a498dce4398deaa73e209f8653d535b7255dc
 ---
 
+**Case:** [[cases/cecelia-neltner/cecelia-neltner|Cecelia Neltner]]
+**Client:** [[cases/cecelia-neltner/contacts/cecelia-neltner|Cecelia Neltner]]
+
 Apr. 5.2024 1:25PM No. 2187 P. 4
 oav03/2024 12:15 (FAR) Huua/004
 Sonya eee ka FAURE TS eee eeera pea

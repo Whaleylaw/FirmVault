@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jonah-
 source_hash: sha256:6e2b630d012e9b9e882a12c850470b4a41d9391c56612576d83cc0cb8504b3fd
 ---
 
+**Case:** [[cases/jonah-price/jonah-price|Jonah Price]]
+**Client:** [[cases/jonah-price/contacts/jonah-price|Jonah Price]]
+
 address: 3101 Elliot Ave, Louisville, KY 40211
 date_of_birth: [DOB-1]
 imported_at: 2026-02-16T21:09:42.781Z

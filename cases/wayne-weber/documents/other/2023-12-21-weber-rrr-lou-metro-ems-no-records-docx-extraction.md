@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:d9d042344a4423bb4d284ce85163b0092a9a832ef5d460fe8f364c4fbe3ebc0c
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: medical_records_request
 extraction.date: 2023-12-21
 extraction.description: Records request response from Louisville Metro EMS indicating no records found for Wayne Weber. RRR likely stands for Records Request Response.

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:4a421ef3b2216850c9caf4bd956653c089ad3d7b8b62b8869594145a1df6a43c
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 IN NORTON
 HEALTHCARE
 Real people. Remarkable care.

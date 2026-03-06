@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2022-12-05-OTH-001
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-Hall-WC-[DOB-35]/Medical/2023-10-18-Cora-Hall-IPS-Riverside-Wrist-Pain-Evaluation.pdf"
 source_hash: "sha256:01b1e125fc82eebca93a1edcfa76dc952e5fac5f0fca7dbde02dd6de1f9481b9"

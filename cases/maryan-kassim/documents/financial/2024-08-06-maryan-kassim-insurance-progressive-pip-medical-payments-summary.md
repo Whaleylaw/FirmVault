@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:56b28125d990c74e07760bcc54831d62a22e40b0fae7e0c95fe926417d77111f
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 Medical Payments / PIP Summary
 Named Insured: Abdullahi Kassim
 Injured Party: Abdullahi Kassim

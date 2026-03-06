@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Samuel
 source_hash: sha256:59d390e8aac76971c9b0bc244584e966df46a0e190ebf8daa80ecbf98fbe2804
 ---
 
+**Case:** [[cases/samuel-clites/samuel-clites|Samuel Clites]]
+**Client:** [[cases/samuel-clites/contacts/samuel-clites|Samuel Clites]]
+
 XRAY ASSOCIATES OF LOUISVILLE PSC
 PO BOX 950303
 LOUISVILLE KY 40295-0303

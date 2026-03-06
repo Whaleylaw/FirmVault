@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:3ee1b60ccda916165c5f48eb81a31ee818d3974ce2914f99255dd787c648c51f
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 NO. 21-CI-003798 JEFFERSON CIRCUIT COURT
 
 DIVISION ONE (1) JUDGE ERIC HANER ROBERT PRINCE as Administrator of The Estate of BETTY PRINCE PLAINTIFF V. NOTICE OF SERVICE NORTON HOSPITALS, INC. DEFENDANT

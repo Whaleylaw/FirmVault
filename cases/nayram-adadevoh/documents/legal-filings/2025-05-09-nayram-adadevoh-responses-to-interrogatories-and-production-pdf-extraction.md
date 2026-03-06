@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:6f35f257e6e7f7d736378c766a8fd9fbd21488c950f27f71058ad26e2bd8b8cd
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: Litigation
 date: 2025-05-09
 description: Plaintiff responses to interrogatories and requests for production of documents. Filed May 9, 2025.

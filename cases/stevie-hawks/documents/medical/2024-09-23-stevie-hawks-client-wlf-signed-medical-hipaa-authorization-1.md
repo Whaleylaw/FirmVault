@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2024-03-08-MVA-001
 ---
 
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie-Hawks-MVA-3-8-2024/Client/2024-09-23-Stevie-Hawks-Client-WLF-Signed-Medical-HIPAA-Authorization-1.pdf"
 source_hash: "sha256:448f05369d554f043b8f03df4ad1fb78ce2cf291da64646851c868f435be799b"

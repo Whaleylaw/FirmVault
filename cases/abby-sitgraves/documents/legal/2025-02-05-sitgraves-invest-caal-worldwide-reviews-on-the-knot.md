@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Abby-S
 source_hash: sha256:4aeb646daa3db8c2ce6b8cc454ed7359fc6dad329ac9efcc12b099f0103a1705
 ---
 
+**Case:** [[cases/abby-sitgraves/abby-sitgraves|Abby Sitgraves]]
+**Client:** [[cases/abby-sitgraves/contacts/abby-sitgraves|Abby Sitgraves]]
+
 tha kwost ai Findacouple (togin) (signup)
 Planning Tools Vendors Wedding Website Invitations Registry Attire& Rings Ideas &Advice Gifts & Favors
 < Louisville Transportation

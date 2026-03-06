@@ -2,7 +2,12 @@
 case_slug: caryn-mccay
 document_category: medical
 legacy_case_id: 2023-07-30-MVA-001
+contact: "[[cases/2023-07-30-mva-001/contacts/caryn-mccay]]"
 ---
+
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-McCay-MVA-7-30-2023/Medical/2023-08-18-Caryn-McCay-UKHC-Emergency-Department-Peritonsillar-abscess.pdf"

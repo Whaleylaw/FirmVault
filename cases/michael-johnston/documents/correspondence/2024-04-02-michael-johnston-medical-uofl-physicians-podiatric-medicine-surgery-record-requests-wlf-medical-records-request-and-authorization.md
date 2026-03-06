@@ -1,21 +1,23 @@
 ---
 case_slug: michael-johnston
-created_at: 2026-02-17 00:07:09.968000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1978-04-21
+document_date: {}
 document_type: correspondence
-entities:
-- University of Louisville
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-05-03-OTH-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michael-Johnston-WC-05-03-2023/Medical/UofL
-  Physicians - Podiatric Medicine & Surgery/Record Requests/2024-04-02-Michael-Johnston-Medical-UofL
-  Physicians - Podiatric Medicine & Surgery-Record-Requests-WLF-Medical-Records-Request-and-Authorization.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michael-Johnston-WC-05-03-2023/Medical/UofL Physicians - Podiatric Medicine & Surgery/Record Requests/2024-04-02-Michael-Johnston-Medical-UofL Physicians - Podiatric Medicine & Surgery-Record-Requests-WLF-Medical-Records-Request-and-Authorization.pdf
 source_hash: sha256:e1b6b653a464863263efae510c48212cd9b9c4a48192104372be454aa72901f5
+contact: "[[cases/2023-05-03-oth-001/contacts/uofl-physicians-podiatric-medicine-surgery]]"
 ---
+
+**Case:** [[cases/michael-johnston/michael-johnston|Michael Johnston]]
+**Client:** [[cases/michael-johnston/contacts/michael-johnston|Michael Johnston]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:dd45c27338bf12f1aa57903fb66e8433f166be301e0df0983f125af49699312b
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 conclusion.confidence: HIGH
 conclusion.ready_for_phase_5: true
 conclusion.risk: LOW

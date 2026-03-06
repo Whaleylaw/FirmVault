@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:9d39d849d94ca82e806eb36f18c885e765d9df77b9ddb1e4c8e50d5cda7d98e1
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 address: 46 Whispering Pines Ct, Hanson, KY 42413
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

@@ -1,8 +1,8 @@
 ---
 case_slug: charles-t-johnson
-created_at: 2026-02-16 22:25:22.343000+00:00
+created_at: {}
 document_category: medical
-document_date: 1952-04-01
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2023-04-18-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charles-T-Johnson-MVA-4-18-2023/Correspondence/2024-04-05-Charles-T-Johnson-Integra-Medical-Imaging-HIPAA-Authorization-2.pdf
 source_hash: sha256:a7842e371f27dba628dbf410e3e258454dc6a0efa3ff34f47559f94e011a977f
+contact: "[[cases/2023-04-18-mva-001/contacts/integra-medical-imaging]]"
 ---
+
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 
 Charles Johnson
 [DOB-1]

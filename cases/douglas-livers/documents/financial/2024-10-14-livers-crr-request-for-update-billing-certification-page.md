@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:2db7225b3606c9db7be15fd38d6e631f0de0193364713ea0a53bb1a4d4320b12
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 Subject: Re: FW: Douglas Livers MVA 01/19/23
 From: sarena@whaleylawfirm.com
 To: [EMAIL-10]

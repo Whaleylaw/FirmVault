@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Lindse
 source_hash: sha256:4a1e3aa8e60c124628b4dd4bf51320f4a38d987ce3a3ff7d203aa43d563d6c59
 ---
 
+**Case:** [[cases/lindsey-dunn/lindsey-dunn|Lindsey Dunn]]
+**Client:** [[cases/lindsey-dunn/contacts/lindsey-dunn|Lindsey Dunn]]
+
 Verification Complete
 The document has been officially verified.
 Recipient1

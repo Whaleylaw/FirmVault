@@ -1,19 +1,22 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:48:13.592000+00:00
+created_at: {}
 document_category: other
 document_type: other
-entities:
-- Baptist Health
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: message/rfc822
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Baptist
-  Health Corbin/Record Requests/2023-01-24-Amy-Mills-Medical-Baptist Health Corbin-Record-Requests-Baptist-Health-Medical-Record-Request-Notification.eml
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Baptist Health Corbin/Record Requests/2023-01-24-Amy-Mills-Medical-Baptist Health Corbin-Record-Requests-Baptist-Health-Medical-Record-Request-Notification.eml
 source_hash: sha256:7891a885d8959bdc4311f1c0eb9a5577228bd21342a0a9ec00bf969ce9704137
+contact: "[[cases/2019-04-26-prl-001/contacts/baptist-health-corbin]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 Subject: You've been added to a workspace
 From: [EMAIL-1]

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:c86a8ac4ee2ee7607ab9d5f767c61634cc1c3d5475937bad5c388ccd06bbb85b
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 CERTIFICATION OF MEDICAL RECORDS AFFIDAVIT
 Mesmmela —Romas , being first duly sworn on his/her oath, says that:
 —

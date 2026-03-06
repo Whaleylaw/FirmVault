@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Collee
 source_hash: sha256:dd390f9545db19142c333821ef31dd112aeaa2e311dd5e07ae12e9419a4ef218
 ---
 
+**Case:** [[cases/colleen-colvin/colleen-colvin|Colleen Colvin]]
+**Client:** [[cases/colleen-colvin/contacts/colleen-colvin|Colleen Colvin]]
+
 COMMONWEALTH OF KENTUCKY
 
 HARDIN CIRCUIT COURT

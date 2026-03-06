@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:1ecf06c8a97833619c5de269c9ad09a493c4159770d5688151480c3710b1df56
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 FSP45708 7/23/2024 1:25:11 PM CDT PAGE 1/006 Fax server
 Optum FAX
 To: 15023649363 From:

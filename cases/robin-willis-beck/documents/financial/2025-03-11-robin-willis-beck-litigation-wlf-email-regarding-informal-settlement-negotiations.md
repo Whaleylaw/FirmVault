@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:f9fd6ac6334f708c3ded8f62f3f2a5c2bf5966a924443cf9f51d961e083fba5e
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 Subject: Robin Willis Beck v. Danny Wimmer Presents (Jefferson 24-CI-000532)
 From: [EMAIL-1]
 To: [EMAIL-2]

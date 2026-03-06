@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:d644f3165f38ad3fd251b2f16f0caab0238d3c824901f278f30530f66628f559
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 Subject: Betty Prince Disc Resp to DC
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

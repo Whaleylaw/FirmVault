@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:6c7e7c48c1d2968752197dfbdf629b7ee49aaccac3d4aa171b14e4d19193509f
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 Subject: Re: 108134 : [PHONE-23] : Cristobal, Alma v. Crete Carrier Corpora : Alma Cristobal v. Crete Carrier Corporation, et al. (Jefferson 24-CI-004728)
 From: sarena@whaleylawfirm.com
 To: [EMAIL-2]

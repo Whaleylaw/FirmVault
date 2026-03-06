@@ -1,21 +1,23 @@
 ---
 case_slug: frances-whitis
-created_at: 2026-02-16 23:42:36.943000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1970-04-18
+document_date: {}
 document_type: correspondence
-entities:
-- Dr. Frank Farley
+entities: null
 extraction_method: native_text
 legacy_case_id: 2024-09-06-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Frances-Whitis-WC-MVA-9-6-2024/Medical/Family
-  Care Of The Bluegrass - East/Record Requests/2025-02-28-Frances-Whitis-WC-Medical-Family
-  Care Of The Bluegrass - East-Record-Requests-WLF-Certified-Medical-Record-Request.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Frances-Whitis-WC-MVA-9-6-2024/Medical/Family Care Of The Bluegrass - East/Record Requests/2025-02-28-Frances-Whitis-WC-Medical-Family Care Of The Bluegrass - East-Record-Requests-WLF-Certified-Medical-Record-Request.pdf
 source_hash: sha256:f83e3edd6423f2159ad936f09ccb5a7a03c2f748f8cadee870a78411bc6e29ce
+contact: "[[cases/2024-09-06-mva-001/contacts/family-care-of-the-bluegrass-east]]"
 ---
+
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 
 Fax Confirmation
 To: [PHONE-15] From: [PHONE-14]

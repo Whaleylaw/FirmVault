@@ -4,6 +4,9 @@ document_category: legal
 legacy_case_id: 2023-10-24-PrL-001
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome-Hedinger-Premise-DB-[DOB-12]/Legal-Documents/2023-10-24-Jerome-Hedinger-432-Atwood-LLC-Plaintiffs-Discovery-Responses.pdf"
 source_hash: "sha256:461301a8572e39da8f47acae7e58831485706952eac31b790978f06e0c5b0a26"

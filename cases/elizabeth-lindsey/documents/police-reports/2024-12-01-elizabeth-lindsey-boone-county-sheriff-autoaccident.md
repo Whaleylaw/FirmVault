@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Elizab
 source_hash: sha256:80358e37f761d6d6b7131d2478fc4562e0674071e4a55755f8c29a84edfe0b25
 ---
 
+**Case:** [[cases/elizabeth-lindsey/elizabeth-lindsey|Elizabeth Lindsey]]
+**Client:** [[cases/elizabeth-lindsey/contacts/elizabeth-lindsey|Elizabeth Lindsey]]
+
 For Customer Support refer to the = oe . ‘re iate platform below: LexisNexis appropria
 C Police Records Retrieval
 RISK SOLUTIONS [PHONE-1]

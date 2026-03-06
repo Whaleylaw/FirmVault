@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:99e7532f217960bfdca0e5cb5ac46ef5b7b0d103721aed34baeb3cb8f2c0bfb5
 ---
 
+**Case:** [[cases/michael-ditto-jr/michael-ditto-jr|Michael Ditto Jr]]
+**Client:** [[cases/michael-ditto-jr/contacts/michael-ditto-jr|Michael Ditto Jr]]
+
 Oe \ys ain oP ee RA :
 r : as fot thi #
 a aids he 5 ’

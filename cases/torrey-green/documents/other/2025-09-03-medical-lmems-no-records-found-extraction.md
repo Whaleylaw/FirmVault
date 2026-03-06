@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:1d48c535eeceabe2918cb1b7494330422c07452e8a65cea88320370e2235c8e2
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 category: medical
 date: 2025-09-03
 description: Organized copy of no records found notice from Louisville Metro EMS stating detailed medical records for EMS transport on 9/3/2025 not located.

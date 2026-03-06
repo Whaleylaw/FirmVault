@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:d34c39ba886fef2f679ba648ae2713bf21d8b2b8585f89d8ca09da3e2de8ee6b
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 CT Head WO RUHL, TIMOTHY EDWARD - C002211784
 * Final Report *
 Result Type: CT Head WO

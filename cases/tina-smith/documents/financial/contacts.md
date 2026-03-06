@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Tina-S
 source_hash: sha256:8ab8a87de6782b3517266511cd4cf9286786360fe00b63209d0507b25cd48308
 ---
 
+**Case:** [[cases/tina-smith/tina-smith|Tina Smith]]
+**Client:** [[cases/tina-smith/contacts/tina-smith|Tina Smith]]
+
 item_0.jsonb_agg[0].address: 1722 Cloverbrook Drive, Louisville, KY 40215
 item_0.jsonb_agg[0].email: [EMAIL-1]
 item_0.jsonb_agg[0].full_name: Tina Smith

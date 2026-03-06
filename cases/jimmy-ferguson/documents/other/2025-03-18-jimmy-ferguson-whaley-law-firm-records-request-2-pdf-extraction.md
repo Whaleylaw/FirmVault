@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:6574b120590ad488fab4adf7260812c5b7dd89bd96c18ad0190ceeecfd036ddf
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 category: Medical
 date: 2025-03-18
 description: Medical records request letter dated 3/18/2025 from Whaley Law Firm to Baptist Health Medical Group at 101 Financial Place Suite 2 Elizabethtown for Jimmy Ferguson's records from 5/30/2024 through 3/18/2025.

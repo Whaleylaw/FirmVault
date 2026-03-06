@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:1aa93e7ad4827e8927f25b774ade7765e64f7deac6d2dfdab421aaab565c3332
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 category: Investigation
 description: Locate-Person
 entities[0]: Anella Noble

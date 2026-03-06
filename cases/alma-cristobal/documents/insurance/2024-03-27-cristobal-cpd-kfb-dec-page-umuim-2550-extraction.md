@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:b1d42907b9012f2ad4ef642b847df6341566e233d77ce56ec40ce20a5cc7aacf
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 bucket: Insurance
 content_summary: Photo of the Kentucky Farm Bureau (KFB) insurance declaration page for Alma Cristobal. Mentions UM/UIM coverage limits (25/50).
 date: 2024-03-27

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:4f41a87c85bb1e1b6d8935c49c3bdd0543363deb6453f14d7f63c774bfeffba6
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: medical_requests
 extraction.date: 2023-11-07
 extraction.description: Louisville Metro EMS medical records request for Wayne Weber dated November 7, 2023.

@@ -1,8 +1,8 @@
 ---
 case_slug: caryn-mccay
-created_at: 2026-02-16 22:16:42.640000+00:00
+created_at: {}
 document_category: financial
-document_date: 2023-11-17
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2023-07-30-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-McCay-MVA-7-30-2023/Expenses/2023-11-17-Caryn-McCay-Legal-Funding-Partners-Payment.pdf
 source_hash: sha256:1642dd3988d4dbc546017a59160a7e79b48c311dc9626c532dc6aeb7e2231291
+contact: "[[cases/2023-07-30-mva-001/contacts/caryn-mccay]]"
 ---
+
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 
 964VV
 sr entr aP gni dnuFl ageL

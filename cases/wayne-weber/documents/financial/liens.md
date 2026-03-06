@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:9019264cbd9b71abdbd84884a644bc1a8dcfd487801eab73e2f700c3924ff02c
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 item_0.date_notice_received: 2023-12-05
 item_0.holder_address: NGHP P.O. Box 138832, , Oklahoma City, OK 73113
 item_0.holder_phone: 1-[PHONE-1] (BCRC) Main

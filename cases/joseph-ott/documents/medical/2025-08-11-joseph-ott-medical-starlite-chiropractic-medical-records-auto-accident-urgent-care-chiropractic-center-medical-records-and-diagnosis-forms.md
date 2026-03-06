@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Joseph
 source_hash: sha256:a2c7c58e4fa13bbf51c1ae60e7f486375639ffc469c1c92446cc7a204a7e9c6f
 ---
 
+**Case:** [[cases/joseph-ott/joseph-ott|Joseph Ott]]
+**Client:** [[cases/joseph-ott/contacts/joseph-ott|Joseph Ott]]
+
 Nov.05.2025 03:07 PM Tri-State [PHONE-29] P 1/24
 X
 To: Wholey

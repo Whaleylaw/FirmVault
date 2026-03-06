@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:9e0fcf42bff836e37ca5a2e22dab208df07b2cf3f9916c3aa8fc94088981e540
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 AOC-841 Doc. Code: INV
 Rev. 2-17 Case No, 21-P-00027
 Page 1 of2

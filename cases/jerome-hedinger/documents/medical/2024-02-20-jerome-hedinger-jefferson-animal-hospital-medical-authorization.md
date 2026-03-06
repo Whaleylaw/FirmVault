@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:c7032bb49c77971aa3346a5ec4691f4d20eb6e595cd7f8e19f6a7b83faa00ba9
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 [DOB-4]
 Jefferson Animal Hospital 
 4504 Outer Loop

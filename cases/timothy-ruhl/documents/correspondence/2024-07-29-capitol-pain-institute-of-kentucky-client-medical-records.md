@@ -1,8 +1,8 @@
 ---
 case_slug: timothy-ruhl
-created_at: 2026-02-17 00:35:53.327000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1966-08-05
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2023-09-14-PrL-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timothy-Ruhl-Premise-09-14-2023/Medical-Records/2024-07-29-Capitol-Pain-Institute-of-Kentucky-client-medical-records.pdf
 source_hash: sha256:4d69bac21db9cfb48f37ff1f030e4389c7223d7a0317eedeb99e93ccf8d86446
+contact: "[[cases/2023-09-14-prl-001/contacts/capitol-pain-institute-of-kentucky]]"
 ---
+
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

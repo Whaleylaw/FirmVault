@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-N
 source_hash: sha256:6601f6649740a947570eb5b2e52607542c431898e1f70d47576d658ac0322094
 ---
 
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 address: 317 W 13th St, Newport, KY 41071
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

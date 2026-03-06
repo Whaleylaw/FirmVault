@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:0475088ef4885be2e3a39aa2d882e5f0d1ac5425d4b3b45d5e27e894172594e6
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Subject: Your Mediation has been scheduled for September 21, 2023 at 10:00a
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

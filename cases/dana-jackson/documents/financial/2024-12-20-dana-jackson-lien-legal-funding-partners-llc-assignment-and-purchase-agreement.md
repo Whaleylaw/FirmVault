@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dana-J
 source_hash: sha256:eaf071624ffd1e6fde4c5673621e3e05e6361f1c4c3b9f804c20275b56e69415
 ---
 
+**Case:** [[cases/dana-jackson/dana-jackson|Dana Jackson]]
+**Client:** [[cases/dana-jackson/contacts/dana-jackson|Dana Jackson]]
+
 a LEGAL FUNDING PARTNERS, LLC
 al === ASSIGNMENT AND PURCHASE AGREEMENT
 Assignee/Purchaser: Legal Funding Partners, LLC (“LF”)

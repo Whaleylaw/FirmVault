@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:0961bddbf6120339b1095cc01bd43b8e22b851132d300cea50b84720f85cf65f
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 IMAGING
 PATIENT: LIVERS, DOUGLAS DOB: 14-Aug-1965
 REFERRED BY: MICHAEL GILBERT PA-C AGE: 58 years 

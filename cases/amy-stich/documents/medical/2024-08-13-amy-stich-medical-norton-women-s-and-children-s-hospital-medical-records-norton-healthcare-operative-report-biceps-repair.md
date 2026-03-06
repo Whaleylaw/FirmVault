@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:e685758e70ec6a0328215b7539f2d18f0e8b8868b20571fb3777c36e58485cad
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 8/20/24, 9:26 AM Stich, Amy (MR#EP01553455) Printed by MANION, JOY [4457]
 Stich, Amy (MRN EP01553455)
 Patient Information

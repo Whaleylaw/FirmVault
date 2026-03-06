@@ -19,6 +19,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:42be3913f5b1316baf7fdfec2d110c4fee02dc5b2a8f550fd1806cad031aad5a
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 MILLS , AMY 70000252997 wRKEAS® 452 of 862
 
 ® @ @ @ ® ECL uss,

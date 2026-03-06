@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:c22d42f2ddf07ba2b5725aae6e278a8bae02b4483854633c7da97278f2d20a98
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 Visit Summary - ADADEVOH,NAYRAMT [1710976]
 7/14/2024: Visit 2 - Anthony Sparks, MD in CMG RAD FOUNDATION RAD
 Balance: 84.00

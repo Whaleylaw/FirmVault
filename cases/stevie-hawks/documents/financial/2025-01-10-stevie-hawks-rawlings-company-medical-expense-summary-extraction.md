@@ -1,8 +1,8 @@
 ---
 case_slug: stevie-hawks
-created_at: 2026-02-17 00:24:05.157000+00:00
+created_at: {}
 document_category: financial
-document_date: 2024-03-08
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2024-03-08-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 90
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie-Hawks-MVA-3-8-2024/Reports/extractions/2025-01-10-Stevie-Hawks-Rawlings-Company-Medical-Expense-Summary_extraction.json
 source_hash: sha256:c516d3380a2cf17cc196c9665c23a7c0fbb9f08e68d490b856e2bb845aea19bf
+contact: "[[cases/2024-03-08-mva-001/contacts/rawlings-company]]"
 ---
+
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 
 extraction.classification.bucket: Lien
 extraction.classification.confidence: high

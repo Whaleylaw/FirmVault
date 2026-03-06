@@ -1,8 +1,8 @@
 ---
 case_slug: anella-noble
-created_at: 2026-02-16 22:02:36.619000+00:00
+created_at: {}
 document_category: court-filings
-document_date: 2023-03-27
+document_date: {}
 document_type: court_filing
 extraction_method: native_text
 legacy_case_id: 2021-01-03-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella-Noble-MVA-01-03-2021/Court-Pleadings/2023-04-17-Anella-Noble-ORDER-SUBSTITUTING-DEFENDANT-UNKNOWN-DRIVER.pdf
 source_hash: sha256:e027f947a78d36e34185d31cf7d9fc469baddd2a4c34c4d5e815db24aa3e3671
+contact: "[[cases/2021-01-03-mva-001/contacts/unknown-driver]]"
 ---
+
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 
 fendered 21-C1-0049"~ [DOB-3] David L: Nichole ° Jefferson Circuit Clerk
 ‘ae Ne?

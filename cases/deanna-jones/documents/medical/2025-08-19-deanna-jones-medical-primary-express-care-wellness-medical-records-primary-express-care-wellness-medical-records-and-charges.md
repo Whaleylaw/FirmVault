@@ -2,7 +2,12 @@
 case_slug: deanna-jones
 document_category: medical
 legacy_case_id: 2025-07-30-MVA-001
+contact: "[[cases/2025-07-30-mva-001/contacts/primary-express-care-wellness]]"
 ---
+
+**Case:** [[cases/deanna-jones/deanna-jones|Deanna Jones]]
+**Client:** [[cases/deanna-jones/contacts/deanna-jones|Deanna Jones]]
+
 
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Deanna-Jones-MVA-7-30-2025/Medical/Primary Express Care + Wellness/Medical Records/2025-08-19-Deanna-Jones-Medical-Primary Express Care + Wellness-Medical-Records-Primary-Express-Care--Wellness-Medical-Records-and-Charges.pdf"

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:79e0099e3f2e00e2ea7ed909af090363e4fea28acc8d720d0e50c8b5ec2cf171
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 content_analysis.category: Lien
 content_analysis.date: 2024-07-29
 content_analysis.description: Subrogation Request

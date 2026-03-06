@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:7ddef41ea6e51dc31987e6a684c06543567b89be925bfaeddfd997b0fa4bd9ec
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 bucket: Investigation
 content_summary: Photo of the front-end damage to the client's vehicle (dark colored sedan) from the accident on 2024-02-15. Shows impact damage to the bumper and grill area.
 date: 2024-02-15

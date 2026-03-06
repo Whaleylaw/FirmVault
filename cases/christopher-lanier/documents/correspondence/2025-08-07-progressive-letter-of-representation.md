@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:c23d3f373859d1b903fc81a46282bf76d5baeeacb371fec8c9d1c39da165dc00
 ---
 
+**Case:** [[cases/christopher-lanier/christopher-lanier|Christopher Lanier]]
+**Client:** [[cases/christopher-lanier/contacts/christopher-lanier|Christopher Lanier]]
+
 Aaron G. Whaley, Esq.
 
 712 Lyndon Lane

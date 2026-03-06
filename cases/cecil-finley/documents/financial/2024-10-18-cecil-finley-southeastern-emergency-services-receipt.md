@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:3b691fba24da2aa9d5e6b0f8ef77d4dfa2f804737947473d87eacccf9cfe32ea
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 ChartSwap
 2951 Marina Bay Drive
 Suite 130-132

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:d7d5d33b31f94fc11aedade5faddad50282258775413015362040acd9321adac
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 NO. 24-CI-00065 MORGAN COUNTY CIRCUIT COURT 
 DIVISION ONE (1) 
 JUDGE HON. REBECCA K. PHILLIPS 

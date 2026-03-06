@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:3ccd065c8d55d7485d92ca8f6583fcc973bb9cbbb6c936f0504b469b176ba551
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 VERIFICATION
 Thereby certify that the information contained in the foregoing answers and responses are
 true and correct to the best ofmy knowledge.

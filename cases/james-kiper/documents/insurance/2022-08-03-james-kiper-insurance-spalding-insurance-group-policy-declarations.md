@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:ed67a60c7ed9d4fde95b605adb5f96ed30c7686598852de3508345951cd8f730
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 Automobile Policy Continuation Declarations
 1. Named Insured
 JAMES KIPER

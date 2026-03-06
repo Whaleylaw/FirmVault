@@ -4,6 +4,9 @@ document_category: correspondence
 legacy_case_id: 2023-04-01-MVA-001
 ---
 
+**Case:** [[cases/cecelia-neltner/cecelia-neltner|Cecelia Neltner]]
+**Client:** [[cases/cecelia-neltner/contacts/cecelia-neltner|Cecelia Neltner]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecelia-Neltner-MVA-4-1-2023/Correspondence/2024-11-25-Cecelia-Neltner-Whaley-Law-Firm-Settlement-Demand.pdf"
 source_hash: "sha256:dea7cbd72e3cb6fea4cefbdbb9be2c07d07c6306167df71802b4d3806c15f82f"

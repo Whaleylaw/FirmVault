@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:7c02eccb8482d6ae8f708eefdd9b09b3713550e023b156514889913b85f86572
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 Subject: Re: Certified Medical Records & Billing Request - Cecil Finley
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1], [EMAIL-2]

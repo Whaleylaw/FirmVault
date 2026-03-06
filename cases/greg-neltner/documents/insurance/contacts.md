@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-N
 source_hash: sha256:2dd12552c29ba43d8cf74c901e51bd33113cbbf28f3b73e8676a567d92dda266
 ---
 
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 item_0.jsonb_agg[0].full_name: Greg Neltner
 item_0.jsonb_agg[0].project_name: Greg-Neltner-MVA-4-1-2023
 item_0.jsonb_agg[0].roles[0]: client

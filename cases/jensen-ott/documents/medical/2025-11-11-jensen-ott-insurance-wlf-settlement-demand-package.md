@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jensen
 source_hash: sha256:749348fbc10be03b75d06b73e7db2ac4c406c843539ce8ec3d23d9a98ddf1a98
 ---
 
+**Case:** [[cases/jensen-ott/jensen-ott|Jensen Ott]]
+**Client:** [[cases/jensen-ott/contacts/jensen-ott|Jensen Ott]]
+
 November 11, 2025
 Josh White
 Progressive Insurance Company

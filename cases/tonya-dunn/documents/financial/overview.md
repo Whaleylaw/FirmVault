@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Tonya-
 source_hash: sha256:76e5986d1e397e021401e1925686206e2a420258b2ca61857fc9d4fef0920d1b
 ---
 
+**Case:** [[cases/tonya-dunn/tonya-dunn|Tonya Dunn]]
+**Client:** [[cases/tonya-dunn/contacts/tonya-dunn|Tonya Dunn]]
+
 item_0.jsonb_agg[0].accident_date: 2025-09-24
 item_0.jsonb_agg[0].case_type: MVA
 item_0.jsonb_agg[0].phase: File Setup

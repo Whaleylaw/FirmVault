@@ -1,18 +1,22 @@
 ---
 case_slug: muhammad-alif
-created_at: 2026-02-17 00:10:58.523000+00:00
+created_at: {}
 document_category: medical
-document_date: 1961-04-16
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2022-11-08-MVA-001
 mime_type: message/rfc822
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Axon
-  Medical Centers/Record Requests/2024-05-15-Muhammad-Alif-Medical-Axon Medical Centers-Record-Requests-Axon-Medical-Centers-Case-Status-Inquiry-and-Update.eml
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Axon Medical Centers/Record Requests/2024-05-15-Muhammad-Alif-Medical-Axon Medical Centers-Record-Requests-Axon-Medical-Centers-Case-Status-Inquiry-and-Update.eml
 source_hash: sha256:afbd57d0422ae63073a20469d7ab343b09f3c795ffe496f0aafa6f1f75180e71
+contact: "[[cases/2022-11-08-mva-001/contacts/axon-medical-centers]]"
 ---
+
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 
 Subject: 1ST CASE - MUHAMMAD ALIF ([DOB-1])
 From: [EMAIL-1]

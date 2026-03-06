@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:b86300129bb167f9b292ded5a936e49e46d6e8a9da026c7eb94fc26ce710935e
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 Subject: Re: My paystubs
 From: sarena@whaleylawfirm.com
 To: [EMAIL-5]

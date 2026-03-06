@@ -1,10 +1,9 @@
 ---
 case_slug: cecelia-neltner
-created_at: 2026-02-16 22:19:15.239000+00:00
+created_at: {}
 document_category: court-filings
 document_type: court_filing
-entities:
-- Bluegcass Urgent Care
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-04-01-MVA-001
 mime_type: application/pdf
@@ -12,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecelia-Neltner-MVA-4-1-2023/Medical-Records/2024-04-03-Cecelia-Neltner-Bluegrass-Urgent-Care-Medical-Records.pdf
 source_hash: sha256:d8f3b5706233b8539e6fa670c742d2fb9944f8d7c622a395a39acc30f8151406
+contact: "[[cases/2023-04-01-mva-001/contacts/bluegrass-urgent-care]]"
 ---
+
+**Case:** [[cases/cecelia-neltner/cecelia-neltner|Cecelia Neltner]]
+**Client:** [[cases/cecelia-neltner/contacts/cecelia-neltner|Cecelia Neltner]]
+
 
 “ 3-Apr-2624 15:35 [PHONE-1] +15922373920702¢=C*~*~*~—~—«*OS*iS;:
 %=

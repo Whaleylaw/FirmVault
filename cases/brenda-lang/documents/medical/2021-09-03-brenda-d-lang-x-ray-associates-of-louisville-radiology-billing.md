@@ -20,6 +20,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:d9e133f76fe67ae4c66b6519b105866489134ed5ecb3a190bcd5205c1bca3ebe
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 *
 Ee Wdews poeOF OF. EE trop Street address: Mail address:
 Ss OF LOUISVILLE 702 Executive Park PO Box 7159 [PHONE-5]

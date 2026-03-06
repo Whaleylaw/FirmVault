@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2023-04-18-MVA-001
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charles-T-Johnson-MVA-4-18-2023/Correspondence/2024-07-22-Charles-T-Johnson-Whaley-Law-Firm-Record-Request.pdf"
 source_hash: "sha256:2a49d14569e4df0ce5e1b68d1510ef63a65e644c2a9f52c1632c02df13648e5b"

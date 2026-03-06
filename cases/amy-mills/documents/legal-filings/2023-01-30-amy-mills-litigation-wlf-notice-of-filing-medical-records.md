@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:9b8cb3f17834fadb7fa05d04d4d95a06b4301337f8f68b5e58cc2f345ecaf122
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Subject: NEF, (for eFiler) KNOX 20-CI-00112, MILLS , AMY VS. FORCHT BANK Envelope # 5535670
 From: [EMAIL-5]
 To: [EMAIL-4], Sarena@WhaleyLawFirm.com

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Joseph
 source_hash: sha256:d9724f4443a96f7f23e0c7f37996ab38c06d18614fc8a25f76565c95144594a9
 ---
 
+**Case:** [[cases/joseph-ott/joseph-ott|Joseph Ott]]
+**Client:** [[cases/joseph-ott/contacts/joseph-ott|Joseph Ott]]
+
 AUTHORIZATION TO RELEASE EMPLOYMENT DOCUMENTS AND 
 WAGE AND SALARY INFORMATION 
 TO: 

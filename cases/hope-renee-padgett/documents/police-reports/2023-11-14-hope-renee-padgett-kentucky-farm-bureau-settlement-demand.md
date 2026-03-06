@@ -1,12 +1,10 @@
 ---
 case_slug: hope-renee-padgett
-created_at: 2026-02-16 23:48:53.819000+00:00
+created_at: {}
 document_category: police-reports
-document_date: 2023-01-16
+document_date: {}
 document_type: police_report
-entities:
-- Clark Regional Medical Center
-- Kentucky Farm Bureau
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-01-16-MVA-001
 mime_type: application/pdf
@@ -14,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Hope-Renee-Padgett-MVA-1-16-2023/Settlement/2023-11-14-Hope-Renee-Padgett-Kentucky-Farm-Bureau-Settlement-Demand.pdf
 source_hash: sha256:c1c4178a80c1aba5c2a5eb14033e479c41283541162af33e7a24cedffb44af0a
+contact: "[[cases/2023-01-16-mva-001/contacts/kentucky-farm-bureau]]"
 ---
+
+**Case:** [[cases/hope-renee-padgett/hope-renee-padgett|Hope Renee Padgett]]
+**Client:** [[cases/hope-renee-padgett/contacts/hope-renee-padgett|Hope Renee Padgett]]
+
 
 Aaron G. Whaley, Esq.
 712 Lyndon Lane

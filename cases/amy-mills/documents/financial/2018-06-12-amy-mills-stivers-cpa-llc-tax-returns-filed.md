@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:5c0049a3a26f81737a70683ddcba5ae7a7aaea325665ed3bd4c68d5ebce5c9f5
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 STIVERS CPA, LLC
 118 Richmond Rd
 Manchester, KY 40962

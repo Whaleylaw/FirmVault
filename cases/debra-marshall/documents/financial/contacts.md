@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:8f60ea9b8e97b6fb426259691aa4cee2e57449ffcd502527882ec2eca5a1098d
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 item_0.jsonb_agg[0].address: 1224 N Dixie Hwy #1
 item_0.jsonb_agg[0].full_name: Debra Marshall
 item_0.jsonb_agg[0].phone: [PHONE-7]

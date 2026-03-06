@@ -1,8 +1,8 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:46:46.174000+00:00
+created_at: {}
 document_category: financial
-document_date: 2022-07-25
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Expenses/biokineticssentyouanpastdueinvoice0000088amymi.eml
 source_hash: sha256:21131d981aa48de0f422014c86eb5b44bd99d722c35d806d1ee1d2ec3b42a6f8
+contact: "[[cases/2019-04-26-prl-001/contacts/biokinetics]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 Subject: Biokinetics sent you an **Past Due** invoice (0000088)Amy Mills 7/25/22
 From: [EMAIL-2]

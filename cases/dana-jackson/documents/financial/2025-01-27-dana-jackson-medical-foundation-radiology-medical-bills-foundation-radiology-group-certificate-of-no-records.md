@@ -1,6 +1,6 @@
 ---
 case_slug: dana-jackson
-created_at: 2026-02-16 22:39:37.753000+00:00
+created_at: {}
 document_category: financial
 document_type: financial
 extraction_method: native_text
@@ -8,10 +8,14 @@ legacy_case_id: 2024-01-24-MVA-002
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dana-Jackson-MVA-1-24-2024/Medical/Foundation
-  Radiology/Medical Bills/2025-01-27-Dana-Jackson-Medical-Foundation Radiology-Medical-Bills-Foundation-Radiology-Group-Certificate-of-No-Records.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dana-Jackson-MVA-1-24-2024/Medical/Foundation Radiology/Medical Bills/2025-01-27-Dana-Jackson-Medical-Foundation Radiology-Medical-Bills-Foundation-Radiology-Group-Certificate-of-No-Records.pdf
 source_hash: sha256:9e776bf70b3b1bc5855cfc53fa34fae50f96864c2611e54ad0648172344e8f7f
+contact: "[[cases/2024-01-24-mva-002/contacts/foundation-radiology]]"
 ---
+
+**Case:** [[cases/dana-jackson/dana-jackson|Dana Jackson]]
+**Client:** [[cases/dana-jackson/contacts/dana-jackson|Dana Jackson]]
+
 
 Whaley Law Firm REQ-20238566
 712 Lyndon Lane, Dana Jackson

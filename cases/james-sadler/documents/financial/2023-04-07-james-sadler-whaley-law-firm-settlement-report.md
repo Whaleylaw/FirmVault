@@ -4,6 +4,9 @@ document_category: financial
 legacy_case_id: 2023-04-07-MVA-001
 ---
 
+**Case:** [[cases/james-sadler/james-sadler|James Sadler]]
+**Client:** [[cases/james-sadler/contacts/james-sadler|James Sadler]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Sadler-MVA-4-07-2023/Settlement-Negotiations/2023-04-07-James-Sadler-Whaley-Law-Firm-Settlement-Report.pdf"
 source_hash: "sha256:23a160efa4b832d1c0a0fa5e9980c58065cd51839ee8ef22c9d9c07b5d723533"

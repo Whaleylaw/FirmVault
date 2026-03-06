@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:6d0534c36e1050446b625f2a25b40a05e5f9e161e62dd89a7f0db54e8eb84197
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: medical_records_request
 extraction.date: 2023-11-07
 extraction.description: HIPAA authorization and medical records request form sent to Baptist Health for Wayne Weber's medical records related to MVA treatment.

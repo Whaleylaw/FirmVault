@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:40e5b5da07c60bf5cc27a71f354a260137376c610434784815ec5f899616a7a9
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 Wayne-Weber-MVA-[DOB-18]/2022-01-01-Wayne-Weber-Anchorage-Middletown-Fire-EMS-Injury-Report.pdf
 Wayne-Weber-MVA-[DOB-17]/2024-08-01-Wayne-Weber-CMS-Coordination-of-Benefits-Resolved.pdf
 Wayne-Weber-MVA-[DOB-16]/2023-11-06-Wayne-Weber-Baptist-Medical-Group-Sports-Medicine-HIPAA-Authorization.pdf

@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:e13bf5155f5658d45558e0d0fe377a8fbc552cfcdb6ad16ae7946b065da60d60
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 ROCKY MOUNTAIN HOLDINGS, LLC
 PO BOX 713375
 CINCINNATI OH 45271-3375

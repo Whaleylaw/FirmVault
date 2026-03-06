@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:fee8e684ab77d39742dc7242a2e1b72ee39a8162dadd6f659ba79006c2da11b5
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 Subject: NCP (for eFiler) MCLEAN 24-CI-00012, BRASHER, KIMBERLY VS. NETWORKS USA XIV INC. ET AL Envelope # 7343457
 From: [EMAIL-4]
 To: [EMAIL-3], Sarena@WhaleyLawFirm.com, [EMAIL-3]

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee
 source_hash: sha256:fa9fa210745ba5a68c0c7e603d0554de5ddb3bf4af53bfb1a180f1c81fcad0b1
 ---
 
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 09/07/23
  ASHLEE KANDICE WILLIAMS 
  99900-49088

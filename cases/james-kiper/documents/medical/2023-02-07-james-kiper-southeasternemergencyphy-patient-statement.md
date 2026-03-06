@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:4fd82c1d0b5804fa0e13eadbb7d63578ed4309b4f9f733ab2d044c7243845ce1
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 CINCINNATLOH POBOX634706 45263-4708, PATIENT STATEMENTP
 1955207971400 20729
 .95829737-400-1651 FORPROPER POSTING PLEASE WRITEIN CHECK| NUMBER ANDAMOUNT Pato!

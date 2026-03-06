@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:03507c5e3c907ee5d39bf57a847cfa0b6117dc8cec6f049e2f7d3c625250f1ce
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: insurance_policy
 extraction.date: 2025-08-28
 extraction.description: State Farm automobile insurance policy booklet for Wayne Weber dated August 28, 2025.

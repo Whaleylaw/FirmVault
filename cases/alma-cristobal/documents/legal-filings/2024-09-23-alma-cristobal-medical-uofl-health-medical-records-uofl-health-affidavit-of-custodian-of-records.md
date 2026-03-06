@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:bffb3d6597133f91a60bde33e26327ddb2451f59d4487b82b2b6428de112e007
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 UL Health
 AFFIDAVIT OF CUSTODIAN OF RECORDS
 Patient’s Legal Name:AlmaCristobal— [DOB-1] Date ofBirth:Requestor’s Name: |he Whaley Law Firm — jacdicat Record #: ¥001080845

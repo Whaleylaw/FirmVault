@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Samuel
 source_hash: sha256:d5c0cf9a7f58d93c70e6e4902843737d2aab40b8dab919fcbe255f32997e7c0f
 ---
 
+**Case:** [[cases/samuel-clites/samuel-clites|Samuel Clites]]
+**Client:** [[cases/samuel-clites/contacts/samuel-clites|Samuel Clites]]
+
 November 1, 2024
 State Farm Insurance Company
 P.O Box 106171

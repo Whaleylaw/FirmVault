@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2023-02-25-PrL-001
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimberly-Brasher-Premise-2-25-2023/Medical/2023-09-18-Kimberly-Brasher-KORT-Physical-Therapy-HIPAA-Authorization-2.pdf"
 source_hash: "sha256:c7ee8562bb7e1a714774578b0ac96439a11d5b65a487956a839027b8c23518a5"

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:50f62e924d206eed96bbb64b78da9c018b4d17f48f33ae655fcdb22a9dc0467b
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: Litigation
 date: 2025-02-05
 description: Notice of Court Processing (NCP) from Kentucky Court of Justice eFiling system. Jefferson Circuit case 25-CI-000133 (SITGRAVES, ABBY ET AL VS. CAAL WORLDWIDE, INC. ET AL). Court processed and ACCEPTED filing on February 05, 2025 at 1:48PM Eastern. eFiler: DEREK A. HARVEY JR. (WARNING ORDER ATTORNEY). Envelope #9815493. Document included: REPORT OF WARNING ORDER ATTORNEY.

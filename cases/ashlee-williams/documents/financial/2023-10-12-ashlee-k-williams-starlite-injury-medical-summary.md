@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee
 source_hash: sha256:4d512a8ad1832c4c017e7e650bb1fe27149e74b41934a4e0ead1b8b8ae5c3831
 ---
 
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 Oct.21.2023 02:06 aM seszsses40
 “Ase] Teuopay pus ayers rapun sanjeuad 0} yalqns sf Arpenuapyuos
 ‘UreuTeUt 0} axnyre “sfenpiaipuy pazyroune &q pear aq A[uo pmnoys poe aanisuas pie

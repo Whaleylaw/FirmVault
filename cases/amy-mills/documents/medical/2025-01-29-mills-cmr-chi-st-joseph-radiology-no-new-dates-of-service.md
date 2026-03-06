@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:32e025a7001756c673a6d50f32ac3e74752013312e571d78c1e410a1badaf4aa
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 peal [PHONE-1] [PHONE-14] +1 «= 26:86 ‘an~2825
 Esq. Whatey. G. Aaron
 Lane Lyndon 742

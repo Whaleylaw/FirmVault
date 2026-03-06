@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2023-09-21-PrL-001
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-Willis-Beck-Premise-[DOB-1]/Medical-Records/2023-09-22-Robin-Willis-Beck-NORTON-HEALTHCARE-Ankle-Fracture-Visit-Summary.pdf"
 source_hash: "sha256:e3c398f56a508e94c865a911e6bf7ff380503d02250fdedafb7f15e96ba47cd6"

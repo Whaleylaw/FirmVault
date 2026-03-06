@@ -1,11 +1,10 @@
 ---
 case_slug: samuel-clites
-created_at: 2026-02-17 00:17:57.573000+00:00
+created_at: {}
 document_category: financial
-document_date: 2021-08-25
+document_date: {}
 document_type: financial
-entities:
-- Anthem
+entities: null
 extraction_method: native_text
 legacy_case_id: 2024-04-23-MVA-001
 mime_type: application/json
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 90
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Samuel-Clites-MVA-4-23-2024/Reports/extractions/2021-08-25-Samuel-Clites-Anthem-Medical-Authorization.md_extraction.json
 source_hash: sha256:452ca94416cfec702295d8e6ddcd60eb4e2d6e06b3d4c76b02796a79344d52db
+contact: "[[cases/2024-04-23-mva-001/contacts/anthem]]"
 ---
+
+**Case:** [[cases/samuel-clites/samuel-clites|Samuel Clites]]
+**Client:** [[cases/samuel-clites/contacts/samuel-clites|Samuel Clites]]
+
 
 extraction.classification.bucket: Client
 extraction.classification.confidence: high

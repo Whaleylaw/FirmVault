@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Connie
 source_hash: sha256:67548456b7379fb0a924009f1676d1717fedeec593f17071d428413e90dd2dfa
 ---
 
+**Case:** [[cases/connie-goree/connie-goree|Connie Goree]]
+**Client:** [[cases/connie-goree/contacts/connie-goree|Connie Goree]]
+
 item_0.extension: .md
 item_0.name: 2024-12-09-Connie-Goree-Allstate-Insurance-Claim-Letter.md
 item_0.path: 2024-12-09-Connie-Goree-Allstate-Insurance-Claim-Letter.md

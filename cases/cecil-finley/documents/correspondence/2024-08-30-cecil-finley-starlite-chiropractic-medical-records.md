@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:336c8b1e9c876d45eb4739c13aba5765ab1766a296202cedd6efa49966bd8855
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 Fax Confirmation
 To: [PHONE-14] From: [PHONE-13]
 Doc:

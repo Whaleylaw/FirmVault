@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:efc31ca4ba3dc8dda697659e1a378c6ccad40c1d517de97c9a0336a0f6c4581b
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 GUIDELINES FOR VIDEO CONFERENCING
 Mediations are confidential, involving only the intended participants, so be sure to be alone
 in a secure room (no third parties present and make sure the conversation cannot be overheard by

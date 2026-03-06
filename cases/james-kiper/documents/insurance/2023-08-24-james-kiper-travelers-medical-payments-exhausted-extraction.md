@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:24327cf5365f238ed51d896c7875188e6f37019afad82a5a1c825e908e00363d
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 category: Insurance Document
 document_date: 2023-08-24
 entities.adjuster: Lindsey Beasley

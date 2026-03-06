@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:2755b4fd9bb34215f1601af08e36a4849e82115684a31be112e0f9d448c1f47e
 ---
 
+**Case:** [[cases/robin-wilder-hamilton/robin-wilder-hamilton|Robin Wilder Hamilton]]
+**Client:** [[cases/robin-wilder-hamilton/contacts/robin-wilder-hamilton|Robin Wilder Hamilton]]
+
 Robin Wilder Hamilton
 CONTRACT FOR LEGAL SERVICES
 L, ; hereby retain and employ the law office of THE

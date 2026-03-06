@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:301b64dbbb622973791fe0026cb13a2d47a376097c4024a895507b458f151d37
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 category: Medical
 confidence: high
 description: Fax cover sheet and letter from Dr. Jessica Leonard at Taylor County Chiropractic to Whaley Law Firm. Patient Christopher Wilkerson has reached maximum medical improvement and is released from care for workers compensation claim. 2 pages. Dated September 12, 2024.

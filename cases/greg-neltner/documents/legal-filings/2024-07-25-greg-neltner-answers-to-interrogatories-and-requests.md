@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-N
 source_hash: sha256:c4ee5cf44d8d4ce2af9010f8387fb171c4474871b32fba9aa9d6fae855445ba5
 ---
 
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 COMMONWEALTH OF KENTUCKY 
 BOONE CIRCUIT COURT 
 CASE NO. 24-CI-00452 

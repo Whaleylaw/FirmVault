@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:25dc4e45f883f6fba4378889ec7d490d6de405c19c86df5acf7c37843ce9e510
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 Subject: You've been added to a workspace
 From: [EMAIL-1]
 To: Sarena@WhaleyLawFirm.com

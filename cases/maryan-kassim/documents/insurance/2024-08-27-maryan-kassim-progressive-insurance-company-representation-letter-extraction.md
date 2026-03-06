@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:16321ef62cff85582172f7ca1d2eae885d79abd718e8b389f8e7d9b39764882f
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 category: Insurance
 description: Letter of representation from Whaley Law Firm to Progressive Insurance adjuster Brandi Chappell-Haggard for Maryan Kassim regarding MVA on 8/6/2024, requesting policy information including liability limits, UM/UIM coverage, and medical payment coverage.
 entities[0]: Aaron G. Whaley

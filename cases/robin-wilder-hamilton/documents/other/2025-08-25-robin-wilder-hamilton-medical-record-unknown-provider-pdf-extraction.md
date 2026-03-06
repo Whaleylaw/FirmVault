@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:eb305b2bbd1cd0ad943a9d20db67b779b9f73d17e55385bcdd32e01ddf213a3f
 ---
 
+**Case:** [[cases/robin-wilder-hamilton/robin-wilder-hamilton|Robin Wilder Hamilton]]
+**Client:** [[cases/robin-wilder-hamilton/contacts/robin-wilder-hamilton|Robin Wilder Hamilton]]
+
 content_summary: Medical records for Robin Wilder-Hamilton from unknown healthcare provider dated [DOB-1], contains test results in tabular format (OCR quality poor with garbled text).
 document_date: 2025-08-25
 entities[0]: Robin Wilder-Hamilton

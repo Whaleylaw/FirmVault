@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:d4e5343817e215ce5efb5f01f7cc9311b3694d9928bcbf58cb978692896c2243
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 Apr. 3.2023 10:05AM No.1598 P. 2/50
 “7, samaeuBig Da ‘ary tanag wreprrcig
 an -

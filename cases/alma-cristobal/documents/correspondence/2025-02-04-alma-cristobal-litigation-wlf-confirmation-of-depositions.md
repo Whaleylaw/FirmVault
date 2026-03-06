@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:9d413b3fd9ce8afcbb150894723d2c8ebfc44b0d711057a3ccfe7f852d0ac557
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 Subject: Re: Confirmation for 2/5/2025 (108492)
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

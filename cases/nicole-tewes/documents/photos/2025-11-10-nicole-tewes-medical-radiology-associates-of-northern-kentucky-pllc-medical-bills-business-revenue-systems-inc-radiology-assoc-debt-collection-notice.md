@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nicole
 source_hash: sha256:b5263b35838480c205152557372c25d01f8e49218c5f67e37010e485f4f065f9
 ---
 
+**Case:** [[cases/nicole-tewes/nicole-tewes|Nicole Tewes]]
+**Client:** [[cases/nicole-tewes/contacts/nicole-tewes|Nicole Tewes]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nicole-Tewes-MVA-7-5-2025/Medical/Radiology Associates of Northern Kentucky, PLLC/Medical Bills/2025-11-10-Nicole-Tewes-Medical-Radiology Associates of Northern Kentucky, PLLC-Medical-Bills-Business-Revenue-Systems-Inc-Radiology-Assoc-Debt-Collection-Notice.jpg

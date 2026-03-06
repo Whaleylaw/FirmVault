@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:75dd794dfe07ac2d92920abdc527d0f44f84842072844cfc00fa217d35b007fc
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 pAeO20 MyChart - Test Details
 
 Name: Amy Jo Mills | DOB: [DOB-4] | MRN: EP02256299 | PCP: Provider Not In System

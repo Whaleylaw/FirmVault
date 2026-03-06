@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:b2e955e4a39161da7fb36910248fc6c7e3be9ba7a74c31659e6f5bc6bd739a4c
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Subject: Re: Update
 From: sarena@whaleylawfirm.com
 To: [EMAIL-13]

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:a52e2b9ee54f794c4b5d77bbabc993ff5b1df8e5dc5b47c62ba1559c230f41fc
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 item_0.extension: .md
 item_0.name: 2025-08-25-Maryan-Kassim-Progressive-PIP-Questionnaire-2.md
 item_0.path: 2025-08-25-Maryan-Kassim-Progressive-PIP-Questionnaire-2.md

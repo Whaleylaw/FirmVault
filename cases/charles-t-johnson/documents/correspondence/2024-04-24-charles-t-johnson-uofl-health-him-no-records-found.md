@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:dd81174c2122f8c75d69634dbdd404c292f6caf76ee9aa44361c47111ebf39a6
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 Uofl Health Him 
 225 Abraham Flexner Way Suite 650 Louisville, KY 40202 
 Phone: [PHONE-4]

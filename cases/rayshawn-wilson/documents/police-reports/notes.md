@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Raysha
 source_hash: sha256:7c258d669d35d6f07c151b62c9ebf87295cb8fdfa8aab4077e3544fa75043318
 ---
 
+**Case:** [[cases/rayshawn-wilson/rayshawn-wilson|Rayshawn Wilson]]
+**Client:** [[cases/rayshawn-wilson/contacts/rayshawn-wilson|Rayshawn Wilson]]
+
 item_0.author_name: Aaron Whaley
 item_0.episode_type: imported
 item_0.last_activity: 2025-07-17T00:00:00

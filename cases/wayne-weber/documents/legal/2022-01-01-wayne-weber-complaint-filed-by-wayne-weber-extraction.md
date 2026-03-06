@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:f2233558e325a432ef6d049edca060de7cc6cff2093e606feb976759853f3b6e
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: litigation
 extraction.date: 2022-01-01
 extraction.description: Complaint filed by Wayne Weber (Plaintiff) dated January 1, 2022.

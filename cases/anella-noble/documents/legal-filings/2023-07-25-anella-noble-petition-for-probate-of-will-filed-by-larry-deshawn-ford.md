@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:1802e48d8aed0a7da27751fed76320a830020fcee338f632c10f2d49e96e9ac1
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 David L. Nicholson, Jefferson Circuit Clerk
 Etteu
 AOC-805

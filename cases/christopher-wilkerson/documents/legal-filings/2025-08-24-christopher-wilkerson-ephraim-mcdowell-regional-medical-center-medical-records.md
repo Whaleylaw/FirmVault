@@ -4,6 +4,9 @@ document_category: court-filings
 legacy_case_id: 2024-02-15-MVA-002
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christopher-Wilkerson-WC-MVA-[DOB-1]/Medical-Records/2025-08-24-Christopher-Wilkerson-Ephraim-McDowell-Regional-Medical-Center-Medical-Records.pdf"
 source_hash: "sha256:5ca52169ae17474210d0614a7fecc8ab7cedbc14eb922b2e96bff740abe32171"

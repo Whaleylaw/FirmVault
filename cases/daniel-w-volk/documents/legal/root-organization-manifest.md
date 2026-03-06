@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel
 source_hash: sha256:2160e8aaf9a6921a1c83b1a7201d3b82253146793f00586db7a2abce9b9a7af7
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 accident_date: 2021-09-24
 case_type: MVA
 client_name: Daniel-W-Volk

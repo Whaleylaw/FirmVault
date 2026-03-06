@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:ed536c3ad72368d6d25a29d25a1e8a6059ce050a803ab0ae239992f1940d4ee0
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 Jy HealthCare
 Certification of Image Records
 Full Name ofPatient: ( 2 racer / Michrore|

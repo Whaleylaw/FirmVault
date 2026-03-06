@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:a77729cc07fad118ff08b2eb2a43f8533bcc9f4e047734a26aa431684743b329
 ---
 
+**Case:** [[cases/charles-godsey/charles-godsey|Charles Godsey]]
+**Client:** [[cases/charles-godsey/contacts/charles-godsey|Charles Godsey]]
+
 INVESTIGATOR BEAT OR POST #
 TOTAL LANES
 NO

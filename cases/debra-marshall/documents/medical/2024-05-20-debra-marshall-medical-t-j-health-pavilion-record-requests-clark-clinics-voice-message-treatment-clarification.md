@@ -1,18 +1,22 @@
 ---
 case_slug: debra-marshall
-created_at: 2026-02-16 23:04:43.599000+00:00
+created_at: {}
 document_category: medical
-document_date: 2024-05-20
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2022-12-03-MVA-001
 mime_type: message/rfc822
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-Marshall-MVA-12-3-2022/Medical/T.J.
-  Health Pavilion/Record Requests/2024-05-20-Debra-Marshall-Medical-T.J. Health Pavilion-Record-Requests-Clark-Clinics-Voice-Message-Treatment-Clarification.eml
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-Marshall-MVA-12-3-2022/Medical/T.J. Health Pavilion/Record Requests/2024-05-20-Debra-Marshall-Medical-T.J. Health Pavilion-Record-Requests-Clark-Clinics-Voice-Message-Treatment-Clarification.eml
 source_hash: sha256:c4b83c0bbe32dbd11b5a7ff9a615c1ba214554c052e358f57800006675c0e39a
+contact: "[[cases/2022-12-03-mva-001/contacts/t-j-health-pavilion]]"
 ---
+
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 
 Subject: New Voice Message from RHONDA GAIL WOR [PHONE-6] on [DOB-2] 1:13 PM
 From: [EMAIL-3]

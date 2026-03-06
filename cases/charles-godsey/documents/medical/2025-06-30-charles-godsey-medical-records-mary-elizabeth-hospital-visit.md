@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2025-06-30-MVA-001
 ---
 
+**Case:** [[cases/charles-godsey/charles-godsey|Charles Godsey]]
+**Client:** [[cases/charles-godsey/contacts/charles-godsey|Charles Godsey]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charles-Godsey-MVA-6-30-2025/Medical/2025-06-30-Charles-Godsey-Medical-Records-Mary-Elizabeth-Hospital-visit.pdf"
 source_hash: "sha256:80bf749646f03e77d3513b8c9825bb2b78b283abff2d192f209862eade6dee94"

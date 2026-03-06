@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-
 source_hash: sha256:8e53e1c52152f21800422fc69a34f4de7f524c1c18e1365104d25570666175cb
 ---
 
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 category: medical_records
 description: Medical visit at Revive Chiropractic
 entities.organizations[0]: Revive Chiropractic

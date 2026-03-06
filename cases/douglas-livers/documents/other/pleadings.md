@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:a871484edb9a81d2f518aa1bc50d8fefa9bf94ed1030172923d3d7104ffd5605
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 item_0.certificate_of_service: 2024-06-26
 item_0.filing_party_name: Bryce Koon
 item_0.pleading_type: Complaint

@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:8abf4b9e70c46a9088c9b9afa9bd801bc45dd144291bd837dd35006555369ef8
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 2?-Sep-2024 15:49 [PHONE-32]
 Ortho Louisville
 8620 Biggin Hill Ln

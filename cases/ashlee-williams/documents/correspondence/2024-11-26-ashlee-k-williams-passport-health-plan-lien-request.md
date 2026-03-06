@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee
 source_hash: sha256:7caac3a4102d1bbee294be4ccb9f0d68c6fb6328739c805850f2812e5d8a5c8f
 ---
 
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 Fax Confirmation
 To: [PHONE-9] From: [PHONE-8]
 Doc:

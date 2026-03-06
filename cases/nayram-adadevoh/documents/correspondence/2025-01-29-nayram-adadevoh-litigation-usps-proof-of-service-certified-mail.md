@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:ff0d6e40782d6c6e84ec451c1f5e2df8c81eb08712c22ec19ac2d30bb20f6146
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 =y UNITED STATES
 Ba POSTAL SERVICE.
 Date Produced: [DOB-2]

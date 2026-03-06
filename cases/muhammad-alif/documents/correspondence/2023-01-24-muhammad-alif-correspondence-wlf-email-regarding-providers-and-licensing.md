@@ -24,6 +24,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:439ace193754392ed7f0510b7d030bd22646ad636f1f86a89965998c6569447b
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 Subject: Re: Muhammad Doctor's List
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

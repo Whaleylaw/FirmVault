@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:6c9e4607927ea17269f1fd0dc6e0266b2e2b480343eb0db1ab0d07f41908edf2
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 -- adapthealth
 @®Pay online at:
 https://gouldsmed.hmebillpay.com/

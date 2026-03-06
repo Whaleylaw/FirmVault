@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/France
 source_hash: sha256:5ced31e3f42e17efe29680d2718df824ed073f7b78043fa0a4c65ce4f25abf67
 ---
 
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 SENDER: COMPLETE: THIS SECTION
 ® Complete items 1,2, and 3.
 @ Print your name and address on the reverse

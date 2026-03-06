@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Claren
 source_hash: sha256:225c50bdfe529cb806357bb9a804b8fa656e2e3b122c36ae4456ac77926a4424
 ---
 
+**Case:** [[cases/clarence-robinson/clarence-robinson|Clarence Robinson]]
+**Client:** [[cases/clarence-robinson/contacts/clarence-robinson|Clarence Robinson]]
+
 address: 638 Monroe Street, Madisonville, TN 37354
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

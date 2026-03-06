@@ -1,0 +1,17 @@
+---
+schema_version: 2
+case_id: 48d5334e-2625-4124-b0f9-c6a68aab07a8
+date: "2022-12-30"
+category: correspondence
+subcategory: email
+---
+
+# email — 2022-12-30
+
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Category:** correspondence / email
+
+__FW: IZX7996- JAMES KIPER__
+From:  [justin@whaleylawfirm.com](mailto:justin@whaleylawfirm.com)
+To: [agwhaley@whaleylawfirm.com](mailto:agwhaley@whaleylawfirm.com) 'Aaron Whaley'
+Date: Fri, 30 Dec 202

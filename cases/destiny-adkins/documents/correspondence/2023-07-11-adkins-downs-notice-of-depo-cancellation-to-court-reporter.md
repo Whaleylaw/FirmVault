@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Destin
 source_hash: sha256:d1ff87f0ba1656f995aedb62721c9b95ea7001a14eb78322f2c4223ee31c70bc
 ---
 
+**Case:** [[cases/destiny-adkins/destiny-adkins|Destiny Adkins]]
+**Client:** [[cases/destiny-adkins/contacts/destiny-adkins|Destiny Adkins]]
+
 Subject: Re: Confirmation for 7/12/2023 (84274)
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

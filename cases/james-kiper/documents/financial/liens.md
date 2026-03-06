@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:787342bf9d105ccc46215166ab3c0eb0c7c8a3efab82e67b8cb97f21a78a4050
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 item_0.amount_owed_from_settlement: 687.54
 item_0.date_notice_received: 2024-02-29
 item_0.final_lien_amount: 687.54

@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nicole
 source_hash: sha256:3aef1a618417a494b629f95ab6446cbb837112bd7d99770a1333bf419d1c450a
 ---
 
+**Case:** [[cases/nicole-tewes/nicole-tewes|Nicole Tewes]]
+**Client:** [[cases/nicole-tewes/contacts/nicole-tewes|Nicole Tewes]]
+
 item_0.jsonb_agg[0].full_name: Nicole Lynn Tewes
 item_0.jsonb_agg[0].project_name: Nicole-Tewes-MVA-7-5-2025
 item_0.jsonb_agg[0].roles[0]: client

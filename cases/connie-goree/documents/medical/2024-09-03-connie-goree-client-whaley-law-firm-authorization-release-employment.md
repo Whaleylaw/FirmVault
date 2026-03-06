@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Connie
 source_hash: sha256:955eee4a70308f822a323595cce71910523ecb4cea6d4d0c45f0807862674b81
 ---
 
+**Case:** [[cases/connie-goree/connie-goree|Connie Goree]]
+**Client:** [[cases/connie-goree/contacts/connie-goree|Connie Goree]]
+
 THE WHALEY
 LAW F TR M
 Preliminary Lost Wage Application

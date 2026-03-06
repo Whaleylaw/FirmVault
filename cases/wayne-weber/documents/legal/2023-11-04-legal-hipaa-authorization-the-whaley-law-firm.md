@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:f8b97df21db1d8d2f9eeffceb6e5699eaaa134bda106af1eeceb4891627deb66
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 CONTRACT FOR LEGAL SERVICES
 
 Wayne Weber ‘ es - I, _ayneuee , hereby retain and employ the law office of THE WHALEY LAW FIRM (hereinafter “Law Office’ *) as my attomeys to represent me in my claims

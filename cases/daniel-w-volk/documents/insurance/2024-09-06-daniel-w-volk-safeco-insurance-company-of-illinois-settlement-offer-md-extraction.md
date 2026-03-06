@@ -1,8 +1,8 @@
 ---
 case_slug: daniel-w-volk
-created_at: 2026-02-16 22:55:40.699000+00:00
+created_at: {}
 document_category: insurance
-document_date: 2024-09-06
+document_date: {}
 document_type: insurance
 extraction_method: native_text
 legacy_case_id: 2021-09-24-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 90
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel-W-Volk-MVA-09-24-2021/Reports/extractions/2024-09-06-Daniel-W-Volk-Safeco-Insurance-Company-of-Illinois-Settlement-Offer.md_extraction.json
 source_hash: sha256:ac79c879e4d80e5ec0c0d8903b3b6f161840f2daf210a441db219fdedc281baf
+contact: "[[cases/2021-09-24-mva-001/contacts/safeco-insurance-company]]"
 ---
+
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 
 extraction.classification.bucket: Negotiation Settlement
 extraction.classification.confidence: high

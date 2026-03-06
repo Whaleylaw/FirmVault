@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:2c49a7d05b6f8176b9442fbf367e4f5f80034cda727f2f2c8f3753ff4ef68fcc
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: SDT Tracking 5297404 - Missing Record Date 01.03.2021 - 01.04.2021
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

@@ -1,8 +1,8 @@
 ---
 case_slug: brenda-lang
-created_at: 2026-02-16 22:09:34.983000+00:00
+created_at: {}
 document_category: insurance
-document_date: 1952-09-01
+document_date: {}
 document_type: insurance
 extraction_method: native_text
 legacy_case_id: 2021-09-03-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda-Lang-MVA-09-03-2021/Liens/2021-09-03-Brenda-D-Lang-CRAS-Medicare-Secondary-Payer-Recovery-Portal.pdf
 source_hash: sha256:f3fc5035b9409711e7e3fbd3ac1853e850c4a3c2df90fe5ac4bec5ffa7877d69
+contact: "[[cases/2021-09-03-mva-001/contacts/medicare]]"
 ---
+
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 
 CRAS Medicare Secondary Payer Recovery Portal
 COONTTS Fok MEDC & MEDICALSES

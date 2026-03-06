@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:8a7ed8eacf09c8de0f169599723befcc4d9933a2657856136e318f9f2328782e
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 Subject: New Voice Message from MICHAEL CRADER [PHONE-6] on [DOB-2] 12:55 PM
 From: [EMAIL-3]
 To: Sarena@whaleylawfirm.com

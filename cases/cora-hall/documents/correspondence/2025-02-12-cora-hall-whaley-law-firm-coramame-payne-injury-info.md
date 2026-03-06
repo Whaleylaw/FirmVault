@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:9a941c5b421dcfeca08fd76562648391f478d0a9cf6ec356f238fb943f9b3922
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 02-12- 25 14:32 FROM- HCHCA [PHONE-3] 7-640 P0001 /0001 F-251
 ATTP.O. Box2220 Bowling GreenKY42102
 Phone: [PHONE-2]

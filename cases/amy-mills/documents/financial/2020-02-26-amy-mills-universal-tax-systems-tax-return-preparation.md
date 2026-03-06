@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:79a1fd97c301272bf524364a8ffd4f5e8a99eff85a167c16fa7b60a62dddf52c
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 INVOICE DATE: [DOB-33]
 Amy J Mills SS NUMBER: [SSN-1]
 200 Meadowlark Circle TELEPHONE: [PHONE-2]

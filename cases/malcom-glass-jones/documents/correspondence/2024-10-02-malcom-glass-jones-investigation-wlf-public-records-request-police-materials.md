@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Malcom
 source_hash: sha256:7969fc9f211aa1f33ddf4b2e0b8b07255de347bcb2beeefad3fd3ba3c8685492
 ---
 
+**Case:** [[cases/malcom-glass-jones/malcom-glass-jones|Malcom Glass Jones]]
+**Client:** [[cases/malcom-glass-jones/contacts/malcom-glass-jones|Malcom Glass Jones]]
+
 PUBLIC RECORDS REQUEST FORM 
 The Tennessee Public Records Act (TPRA) grants Tennessee citizens the right to access open public records that exist at the time of the 
 request. The TPRA does not require records custodians to compile information or create or recreate records that do not exist.

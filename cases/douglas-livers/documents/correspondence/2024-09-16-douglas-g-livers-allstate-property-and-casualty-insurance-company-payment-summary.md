@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:f5f8237d147af526c45dc830a0989651c919ae1c0d19151104c9bf27f2eec92f
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 89/16/24 11:32:15 Allstate_RFC > Allstate Insurance C Page AA1
 Allstate Property and Casualty Insurance Company Allstate.’@CLINTON IA 52733
 Youre In good hands.

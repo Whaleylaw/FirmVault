@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:152a20187d129a216c435e05f4006057ac4199d3f567768ef512f85d239b8603
 ---
 
+**Case:** [[cases/michael-deshields/michael-deshields|Michael Deshields]]
+**Client:** [[cases/michael-deshields/contacts/michael-deshields|Michael Deshields]]
+
 Louisville Metro EMS
 P.O. Box 34338
 Louisville, KY 40232-4338

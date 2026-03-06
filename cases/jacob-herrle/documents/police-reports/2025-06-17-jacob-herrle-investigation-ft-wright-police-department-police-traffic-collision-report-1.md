@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jacob-
 source_hash: sha256:7863c7328783e6fe578bde922627e8db21e3f2ecc011a79f5bfe80858ce95d76
 ---
 
+**Case:** [[cases/jacob-herrle/jacob-herrle|Jacob Herrle]]
+**Client:** [[cases/jacob-herrle/contacts/jacob-herrle|Jacob Herrle]]
+
 KENTUCKY UNIFORM POLICE
 TRAFFIC COLLISION REPORT ["asTeR FILE #
 73197402

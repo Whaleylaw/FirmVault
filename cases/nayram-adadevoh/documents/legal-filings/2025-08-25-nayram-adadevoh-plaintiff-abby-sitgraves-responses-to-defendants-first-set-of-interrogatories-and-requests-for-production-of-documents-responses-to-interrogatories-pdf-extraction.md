@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:ea5ad121fe6ce3b34fa1983e4f9431f48ce49109e5dd25119613753384782ddd
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: Litigation
 date: 2025-08-25
 description: Plaintiff Abby Sitgraves' responses to defendant's first set of interrogatories and requests for production of documents. Discovery responses filed August 25, 2025.

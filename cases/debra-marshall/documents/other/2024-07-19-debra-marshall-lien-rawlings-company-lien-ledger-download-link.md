@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:9fcefc363642d0580af5aa215255c9a94fff0eb6103068e7b320474c688e36e3
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 Subject: The Rawlings Company – Reference # 132923517
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

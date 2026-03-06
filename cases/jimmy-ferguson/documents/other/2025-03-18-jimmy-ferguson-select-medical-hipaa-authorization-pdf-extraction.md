@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:beda5373f32739c41660a9066b45758a87bf320f79750b0f74d381ad072bea57
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 category: Medical
 date: 2025-03-18
 description: 5-page fax transmission from Select Medical dated 3/21/2025 notifying that records requests must be submitted via ChartSwap platform instead of fax/mail/email for faster processing.

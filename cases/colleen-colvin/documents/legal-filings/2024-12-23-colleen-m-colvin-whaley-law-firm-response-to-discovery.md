@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Collee
 source_hash: sha256:78b01ca7564925a5dd7aa22dc1323ecba3f4b4ef8b4489cc984822ef589e7a60
 ---
 
+**Case:** [[cases/colleen-colvin/colleen-colvin|Colleen Colvin]]
+**Client:** [[cases/colleen-colvin/contacts/colleen-colvin|Colleen Colvin]]
+
 [DOB-1]
 KENTUCKY
 JEFFERSON

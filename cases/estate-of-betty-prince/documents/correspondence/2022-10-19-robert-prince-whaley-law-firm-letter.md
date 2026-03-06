@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:3473c0eda67c42ac2ee540c310b893c2ed5e8ca05fa16bee92e614e6ab8bfea2
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 © [DOB-1] 9:03 AM Fax Services >AARON WHALEY
 To: AARON WHALEY
 Company: WHALEY LAW

@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:924409b427163beecdaf2fe0872d2d4e068bf55941262c370b46f9df4a6bfcb8
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 y
 TRAVELERS
 Aaron G. Whaley

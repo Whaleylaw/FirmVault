@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:af8d18289910dc9b2317e41aa5db64f40486869060ad21ded55636f7da5b1bc6
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 content_analysis.category: Expenses
 content_analysis.date: 2025-01-30
 content_analysis.description: Pharmacy receipt

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:ce14389b77d75716c4979e2592bfbe624dee1b63d131f659a6d34b718875000d
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 Subject: Re: Muhammad Alif MVA  11/08/22
 From: sarena@whaleylawfirm.com
 To: [EMAIL-6]

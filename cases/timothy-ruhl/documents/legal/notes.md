@@ -27,6 +27,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:388d037556bf221fead31aff4305595c1aff2aacac9d4754dbfa3513297d0d48
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 item_0.episode_type: communication
 item_0.note: Aaron Whaley (Whaley Law Firm) confirmed availability for all February dates proposed by defense counsel for depositions of Austin Whitman and Trey Cooper. Specifically confirmed good with February dates in response to Jake Beavin's availability.
 item_0.note_summary: Aaron Whaley Confirmed February Dates for Ruhl Depositions

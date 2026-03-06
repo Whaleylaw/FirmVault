@@ -1,8 +1,8 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:49:34.424000+00:00
+created_at: {}
 document_category: financial
-document_date: 2022-04-25
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Review_Needed/2022-04-25-Amy-Mills-Biokinetics-FCE-w-IME-F107-2.pdf
 source_hash: sha256:fac13710a004dc4cc8e9cd1ca650c8d34913553b9041a4eee72f30ac4fc4a636
+contact: "[[cases/2019-04-26-prl-001/contacts/biokinetics]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 Biokinetics 9900 Corporate Campus Drive Suite 2400
 LOUISVILLE, Kentucky

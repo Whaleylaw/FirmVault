@@ -4,6 +4,9 @@ document_category: photos
 legacy_case_id: 2025-05-02-SF-001
 ---
 
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-Robinson-SF-[DOB-1]/Evidence-Photos-Videos/2025-05-02_Evidence_Client-Injury-Ankle-Bruising_001.jpg"
 source_hash: "sha256:9cbc4fa57b7d1ef82b830ead3d6fb824001feeb07b54279c358cf94a465b4372"

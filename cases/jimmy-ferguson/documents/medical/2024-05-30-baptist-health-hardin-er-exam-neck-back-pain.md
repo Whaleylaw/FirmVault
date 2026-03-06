@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:1b27cc490e326c319d1ed3ec49fa2bc8e0ffb21f3e5d8b5999cc8a476f2bab68
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 wa BAPTIST HEALTH’ Baptist Health Hardin Ferguson, Jimmy L
 oe 913 NORTH DIXIE AVE MRN: [PHONE-15], DOB: 9/16/1974, Legal Sex: M
 ELIZABETHTOWN KY 42701- Adm: 5/30/2024, D/C: 5/31/2024

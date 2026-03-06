@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/France
 source_hash: sha256:af8c5398fb48c4c1eaf60303ccef565e36a69898c8f068f0b42557d1718bd6bf
 ---
 
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 accident_date: 2024-09-06
 case_type: MVA
 client_name: Frances-Whitis-WC

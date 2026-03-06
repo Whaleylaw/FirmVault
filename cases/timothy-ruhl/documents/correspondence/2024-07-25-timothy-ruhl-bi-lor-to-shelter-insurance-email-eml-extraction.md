@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:a1c04cf6156babaa052de25e93105978132211026f7befaf97277283c41ab528
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 content_analysis.category: Insurance
 content_analysis.date: 2024-07-25
 content_analysis.description: Letter of representation - Bodily Injury

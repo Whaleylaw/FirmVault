@@ -4,6 +4,9 @@ document_category: correspondence
 legacy_case_id: 2023-09-21-PrL-001
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-Willis-Beck-Premise-[DOB-1]/Records-Requests/2024-07-19-Robin-Willis-Beck-Whaley-Law-Firm-Request-for-Ledger.pdf"
 source_hash: "sha256:0f9a1019a22bef72a04d0e3c19e27fe9bd683e4a194ecf5e71bad5593590c129"

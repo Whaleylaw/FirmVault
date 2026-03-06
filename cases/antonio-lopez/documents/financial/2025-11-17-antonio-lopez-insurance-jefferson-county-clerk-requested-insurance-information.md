@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Antoni
 source_hash: sha256:bac9ee373ada4ee0d852c9a0faf096ae096f76422357ee7a754975536be36043
 ---
 
+**Case:** [[cases/antonio-lopez/antonio-lopez|Antonio Lopez]]
+**Client:** [[cases/antonio-lopez/contacts/antonio-lopez|Antonio Lopez]]
+
 Nov. . 17. 2025 3:40PM No.5454 P.1
 COUNTY CLERK
 -$- 4.

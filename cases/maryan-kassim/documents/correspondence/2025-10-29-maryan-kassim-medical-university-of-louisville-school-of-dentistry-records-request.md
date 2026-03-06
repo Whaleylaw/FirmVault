@@ -1,11 +1,10 @@
 ---
 case_slug: maryan-kassim
-created_at: 2026-02-17 00:04:57.832000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 2000-08-03
+document_date: {}
 document_type: correspondence
-entities:
-- University of Louisville
+entities: null
 extraction_method: native_text
 legacy_case_id: 2024-08-06-MVA-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan-Kassim-MVA-08-06-2024/Medical/2025-10-29-Maryan-Kassim-Medical-University-of-Louisville-School-of-Dentistry-Records-Request.pdf
 source_hash: sha256:a0c68e46102f306089f2e96b255b8fca7186f3f90de785a8cd97dec537482e7a
+contact: "[[cases/2024-08-06-mva-001/contacts/university-of-louisville-school-of-dentistry]]"
 ---
+
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 
 WN Aaron G. Whaley, Esq.
 712 Lyndon Lane HALEY Louisville, KY 40222

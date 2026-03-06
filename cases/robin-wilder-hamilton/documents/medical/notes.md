@@ -19,6 +19,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:02b88bf621df83e5eb64d2707b2259ae1a69c66dcbd3573b6c96761d5af2eb75
 ---
 
+**Case:** [[cases/robin-wilder-hamilton/robin-wilder-hamilton|Robin Wilder Hamilton]]
+**Client:** [[cases/robin-wilder-hamilton/contacts/robin-wilder-hamilton|Robin Wilder Hamilton]]
+
 item_0.author_name: Fuel Digital RingCentral Integration Service Account
 item_0.episode_type: imported
 item_0.last_activity: 2025-11-12T00:00:00

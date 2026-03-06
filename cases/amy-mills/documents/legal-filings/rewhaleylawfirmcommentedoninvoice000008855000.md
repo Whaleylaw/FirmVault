@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:1742e31443a66930e79b9f052507ecaf750722df22dbfc226611c3d6b336537e
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Subject: Re: Whaley Law Firm commented on invoice 0000088 ($550.00)
 From: [EMAIL-4]
 To: [EMAIL-3]

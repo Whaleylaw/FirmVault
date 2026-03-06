@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:0f1f47802152fafe0fdf52818a13873101e973ed0b25fdb764639dc4a1015e36
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 3/4/2020 Gmail - Your Authorized Payment Receipt
 https://mail.google.com/mail/u/0?ik=64eb400e15&view=pt&search=all&permthid=thread-f%3A1660263214364264301&simpl=msg-f%3A16602632143… 1/1
 Sherry Bradford <[EMAIL-6]>

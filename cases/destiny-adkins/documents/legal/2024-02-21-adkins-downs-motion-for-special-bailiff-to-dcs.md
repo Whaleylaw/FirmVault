@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Destin
 source_hash: sha256:41a733fb8a206c86b1f318acee183b9f1a2184110f40f75cba23ab23f8d69f8d
 ---
 
+**Case:** [[cases/destiny-adkins/destiny-adkins|Destiny Adkins]]
+**Client:** [[cases/destiny-adkins/contacts/destiny-adkins|Destiny Adkins]]
+
 Subject: Jefferson County 22-CI-002878 - Adkins/Downs v Nail/Turner & Allstate - Motion for Special Bailiff
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1], [EMAIL-2]

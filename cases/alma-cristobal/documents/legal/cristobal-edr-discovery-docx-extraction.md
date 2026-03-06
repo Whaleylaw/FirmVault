@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:765ad150e2425f436c03494367ba6862646db0ba6b1271e92fc6b6e5152b8306
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 category: Investigation
 description: EDR (Event Data Recorder) discovery document
 entities[0]: Alma Cristobal

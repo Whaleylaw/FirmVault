@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:4ec416a86e3e48f95fd8666a79930aec2a3af27d49227e051d739b0dd1f28e4c
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 19-Oet-2G23 18:55 [PHONE-1] +150822373207 p.4
 CERTIFICATION OF MEDICAL RECORDS AFFIDAVIT
 Tennber N\ {ils being first duly sworn on his/her oath, says that:

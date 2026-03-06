@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:79bf04e412259b44ca155030ba4a5631608d81084b891eed8fca9d764de4af41
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 UofL Physicians 12/9/2024 3:30:08 PM PAGE 1/006 Fax server
 FAX
 To: Fax User

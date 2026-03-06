@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:cfbf6ff7c5fd457690e364babc3c04d2666bbb81663ec4194cbd74206eb0c22d
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 case_folder: /Volumes/X10 Pro/projects/James-Kiper-MVA-12-5-2022
 completed_at: 2026-01-27T21:08:17.299897
 final_summary.categories_created: 9

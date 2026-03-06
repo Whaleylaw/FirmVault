@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:d9b10540853938a84b1a3180aef4d815786d81e0709d8d65e67118d515a75178
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 category: Client
 description: HIPAA Authorization form for UofL Health St Mary Elizabeth Hospital
 entities[0]: Alma Socorro Cristobal Avendaño

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:fdceed9e50853d2edb9a095559c7626f62c3fab8465394e179c8d75e3aff0711
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 Subject: NEF, (for eFiler) MCLEAN , BRASHER,  KIMBERLY VS. NETWORKS USA XIV INC. ET AL Envelope # 7343457
 From: [EMAIL-4]
 To: [EMAIL-3], Sarena@WhaleyLawFirm.com, [EMAIL-3]

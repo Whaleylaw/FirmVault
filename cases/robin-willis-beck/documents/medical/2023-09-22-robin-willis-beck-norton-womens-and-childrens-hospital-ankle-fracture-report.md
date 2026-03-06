@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:5c79d9c08768566a31f8060304e2a0fff94f04b49935c0160c881e037987a765
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 REVIEWING YOUR TEST RESULTS IN MYNORTONCHART IS NOT A SUBSTITUTE FOR DISCUSSING THOSE 
 RESULTS WITH YOUR HEALTH CARE PROVIDER. PLEASE CONTACT YOUR PROVIDER VIA MYNORTONCHART 
 TO DISCUSS ANY QUESTIONS OR CONCERNS YOU MAY HAVE REGARDING THESE TEST RESULTS. 

@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:8fdfdb92b9d2822254e5aa0c60f2a142d0aa3043c5a8c009c48d581e1124ea4b
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Department for Aging and 
 Independent Living
 275 E. Main St., 3E-E

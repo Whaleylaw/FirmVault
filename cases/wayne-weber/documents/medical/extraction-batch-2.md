@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:f6e5390df9faef92d3b57d78c292ef95a587fff33675236c90bb45b8bc1c8c49
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 Wayne-Weber-MVA-[DOB-30]/2022-09-21-Wayne-Weber-A-Collision-Center-Vehicle-Repair-Estimate.pdf
 Wayne-Weber-MVA-[DOB-29]/2022-01-01-Wayne-Weber-Norton-Brownsboro-Hospital-Rib-Fractures-Chest-X-ray.pdf
 Wayne-Weber-MVA-[DOB-28]/2017-01-01-Wayne-Weber-State-Farm-Amendatory-Endorsement.pdf

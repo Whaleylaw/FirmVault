@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee
 source_hash: sha256:bdbc0418edc56e0eaa1af451cd4fd93eb0ffe6077feccc9c97172f2cf65a605c
 ---
 
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 Claim Letter 054658453-04 Page 1 of 2 
 March 08, 2024
 Insured: DEWAYNE WARD

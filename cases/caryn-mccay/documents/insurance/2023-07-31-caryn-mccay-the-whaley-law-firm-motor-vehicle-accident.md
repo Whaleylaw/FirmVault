@@ -1,18 +1,22 @@
 ---
 case_slug: caryn-mccay
-created_at: 2026-02-16 22:16:38.122000+00:00
+created_at: {}
 document_category: insurance
-document_date: 1972-11-30
+document_date: {}
 document_type: insurance
 extraction_method: native_text
 legacy_case_id: 2023-07-30-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-McCay-MVA-7-30-2023/Case
-  Information/2023-07-31-Caryn-McCay-The-Whaley-Law-Firm-Motor-Vehicle-Accident.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-McCay-MVA-7-30-2023/Case Information/2023-07-31-Caryn-McCay-The-Whaley-Law-Firm-Motor-Vehicle-Accident.pdf
 source_hash: sha256:cdf53793477aa77eea4e8b9327710cfbfde71bca50eaddb9c14eab58d9cf0a96
+contact: "[[cases/2023-07-30-mva-001/contacts/caryn-mccay]]"
 ---
+
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 
 Client Information
 Client Name: Caryn Mccay

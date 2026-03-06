@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:1204c0b5d734ebd0a3fef80acc4afa6f53ed6efd0173324f442890b4aa77a564
 ---
 
+**Case:** [[cases/robin-wilder-hamilton/robin-wilder-hamilton|Robin Wilder Hamilton]]
+**Client:** [[cases/robin-wilder-hamilton/contacts/robin-wilder-hamilton|Robin Wilder Hamilton]]
+
 content_summary: Letter from Whaley Law Firm dated October 1, 2024 requesting medical records and billing for Robin Wilder-Hamilton for dates from 6/15/2023 onwards, sent to 146 Clark St, Flemingsburg KY 41041.
 document_date: 2024-10-01
 entities[0]: Robin Wilder-Hamilton

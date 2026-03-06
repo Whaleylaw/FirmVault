@@ -1,19 +1,22 @@
 ---
 case_slug: charles-t-johnson
-created_at: 2026-02-16 22:25:42.716000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1952-04-01
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2023-04-18-MVA-001
 mime_type: message/rfc822
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charles-T-Johnson-MVA-4-18-2023/Medical/Family
-  Health Centers - Portland/Record Requests/2024-07-22-Charles-T-Johnson-Medical-Family
-  Health Centers - Portland-Record-Requests-WLF-Follow-Up-Medical-Record-Request.eml
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charles-T-Johnson-MVA-4-18-2023/Medical/Family Health Centers - Portland/Record Requests/2024-07-22-Charles-T-Johnson-Medical-Family Health Centers - Portland-Record-Requests-WLF-Follow-Up-Medical-Record-Request.eml
 source_hash: sha256:9bdf2998c35c0db5005ca6f59b942e8d62816fc05ee473c6e333c8d76c709e19
+contact: "[[cases/2023-04-18-mva-001/contacts/family-health-centers-portland]]"
 ---
+
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 
 Subject: Re: Certified Medical Records & Billing Request - Charles Johnson DOB [DOB-1]
 From: sarena@whaleylawfirm.com

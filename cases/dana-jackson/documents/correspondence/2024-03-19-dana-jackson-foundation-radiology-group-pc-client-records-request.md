@@ -1,8 +1,8 @@
 ---
 case_slug: dana-jackson
-created_at: 2026-02-16 22:39:46.148000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1971-06-20
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2024-01-24-MVA-002
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dana-Jackson-MVA-1-24-2024/Medical-Records/2024-03-19-Dana-Jackson-Foundation-Radiology-Group-PC-Client-Records-Request.pdf
 source_hash: sha256:4978093087d0645579b3247af51efa1dca3812a529194e1c92c4cd8c8bfd24bc
+contact: "[[cases/2024-01-24-mva-002/contacts/foundation-radiology]]"
 ---
+
+**Case:** [[cases/dana-jackson/dana-jackson|Dana Jackson]]
+**Client:** [[cases/dana-jackson/contacts/dana-jackson|Dana Jackson]]
+
 
 Aaron G. Whaley, Esq.
 712 Lyndon Lane

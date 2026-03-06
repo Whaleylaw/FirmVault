@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Raysha
 source_hash: sha256:0b72b69eb55b1dbc0017015d414e3eba11d7a24e1a8f8420c32ff0b64bb5920d
 ---
 
+**Case:** [[cases/rayshawn-wilson/rayshawn-wilson|Rayshawn Wilson]]
+**Client:** [[cases/rayshawn-wilson/contacts/rayshawn-wilson|Rayshawn Wilson]]
+
 57.7 WEST J,-,11,BR!K)N 9TRE&'l 
 LOU!!iVli,LE, Ka�TUCI(Y 40202 
 11r1 I l. I II\.• 

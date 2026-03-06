@@ -1,8 +1,8 @@
 ---
 case_slug: caryn-mccay
-created_at: 2026-02-16 22:18:24.255000+00:00
+created_at: {}
 document_category: medical
-document_date: 2023-12-11
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2023-07-30-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 85
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-McCay-MVA-7-30-2023/extractions/2023-12-11-Caryn-McCay-Revive-Chiropractic-Medical-Record_extraction.json
 source_hash: sha256:c2822132d6ca8776691e1537cbd4890e81d97a8fbbbf2378c978074e676678d5
+contact: "[[cases/2023-07-30-mva-001/contacts/caryn-mccay]]"
 ---
+
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 
 category: medical_records
 description: Medical record from Revive Chiropractic

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-
 source_hash: sha256:40d2d66da2339c4c118c98395f60e79e02dd60bcafb9f9a8b19d1df586a841ac
 ---
 
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 artifacts_created[0]: /Volumes/X10 Pro/projects/Caryn-McCay-MVA-7-30-2023/Reports/extractions/
 artifacts_created[1]: /reports/inventory.md
 artifacts_created[2]: /Volumes/X10 Pro/projects/Caryn-McCay-MVA-7-30-2023/reports/extractions/2023-07-30-UK-HEALTHCARE-ER-Visit_extraction.md

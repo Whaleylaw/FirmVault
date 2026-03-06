@@ -1,19 +1,22 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:48:14.069000+00:00
+created_at: {}
 document_category: police-reports
-document_date: 2015-09-13
+document_date: {}
 document_type: police_report
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Baptist
-  Health Corbin SOuth Imaging/Medical Records/2015-09-13-Amy-Mills-Medical-Baptist
-  Health Corbin SOuth Imaging-Medical-Records-Imaging-Facility-Encrypted-Disc-Instructions.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Baptist Health Corbin SOuth Imaging/Medical Records/2015-09-13-Amy-Mills-Medical-Baptist Health Corbin SOuth Imaging-Medical-Records-Imaging-Facility-Encrypted-Disc-Instructions.pdf
 source_hash: sha256:95a9779fb67852ee60fe6242a867886cfa066ec65ed85cca387bca63560dd8f1
+contact: "[[cases/2019-04-26-prl-001/contacts/baptist-health-corbin]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 L0156 Rev. A Page 1 of 1
 Encrypted Disc Instructions

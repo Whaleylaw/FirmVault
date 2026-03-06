@@ -4,6 +4,9 @@ document_category: financial
 legacy_case_id: 2020-07-14-PrL-001
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate-of-Betty-Prince-Premise-7-14-2020/Medical/2020-09-08-Robert-Prince-Norton-Healthcare-Medical-Visit-Charges.pdf"
 source_hash: "sha256:7e88a3c4d60570e941ab398cdbf3f548f383db78605d6167df10e04e2f9c8211"

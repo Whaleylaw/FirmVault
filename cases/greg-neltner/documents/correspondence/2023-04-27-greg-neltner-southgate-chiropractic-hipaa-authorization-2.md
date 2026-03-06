@@ -1,8 +1,8 @@
 ---
 case_slug: greg-neltner
-created_at: 2026-02-16 23:44:23.143000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1971-03-06
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2023-04-01-MVA-002
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-Neltner-MVA-4-1-2023/Medical-Records/2023-04-27-Greg-Neltner-Southgate-Chiropractic-HIPAA-Authorization-2.pdf
 source_hash: sha256:6cd1991d6b27406850772490f6a995e51fe4f30c491b642057421c0d0aa4ba18
+contact: "[[cases/2023-04-01-mva-002/contacts/southgate-chiropractic]]"
 ---
+
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 
 Fax Confirmation
 To: [PHONE-11] From: [PHONE-10]

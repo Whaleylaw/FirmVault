@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:fa6d6eeb244915cbef55618a2cc8af60c0579dabe672105c955f260becb0f30c
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Subject: Amy Mills v Forcht Bank - Plaintiff Expert Disclosures
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:71a6b9a6b0f5b4b804528ef66e449d4282646a9b3adc767eac8efa95631eb65b
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 ChartSwap
 2951 Marina Bay Drive
 Suite 130-132

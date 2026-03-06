@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:1426cf7fa9451f548fdc1fba57b68e351c8cd9692d58aa7dc0a55faad52ce217
 ---
 
+**Case:** [[cases/michael-johnston/michael-johnston|Michael Johnston]]
+**Client:** [[cases/michael-johnston/contacts/michael-johnston|Michael Johnston]]
+
 UL Health
 AFFIDAVIT OF CUSTODIAN OF RECORDS
 Patient’s Legal Name: MICHAEL JOHNSTON Date of Birth: 4-21-1978

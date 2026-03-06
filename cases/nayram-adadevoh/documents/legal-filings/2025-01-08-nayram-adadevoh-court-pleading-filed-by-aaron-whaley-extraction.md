@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:cd94d961d4153312a59070d71fcb13b8190b791ce5ff59377a46aa24640e8ad1
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: court_filing_receipt
 date: 2025-01-08
 description: Jefferson Circuit Court filing receipt for case 25-CI-000133 (SITGRAVES, ABBY ET AL VS. CAAL WORLDWIDE, INC. ET AL), filed by Aaron Whaley on January 8, 2025. Total filing fees $313.78.

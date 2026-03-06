@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:7c91614c44db3382db48427d02325aa60cffdb3d9a873998df030cf46ea187dc
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 category: medical_authorization
 description: HIPAA compliant medical authorization for University of Louisville Hospital to release all medical records to The Whaley Law Firm, valid for three years
 entities[0]: Aaron G. Whaley

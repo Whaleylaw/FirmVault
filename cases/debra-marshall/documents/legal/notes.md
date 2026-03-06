@@ -22,6 +22,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:253f375ddbedcb16096511b621269a6109ad7495af9a3995a6d1bf2e3aedead7
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 item_0.author_name: Aaron
 item_0.episode_type: imported
 item_0.last_activity: 2025-11-04T00:00:00

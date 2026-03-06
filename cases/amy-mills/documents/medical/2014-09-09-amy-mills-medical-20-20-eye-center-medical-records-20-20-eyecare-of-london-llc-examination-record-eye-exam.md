@@ -1,18 +1,22 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:47:53.678000+00:00
+created_at: {}
 document_category: medical
-document_date: 1983-12-28
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/20:20
-  Eye Center/Medical Records/2014-09-09-Amy-Mills-Medical-20:20 Eye Center-Medical-Records-20-20-Eyecare-of-London-LLC-Examination-Record-Eye-Exam.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/20:20 Eye Center/Medical Records/2014-09-09-Amy-Mills-Medical-20:20 Eye Center-Medical-Records-20-20-Eyecare-of-London-LLC-Examination-Record-Eye-Exam.pdf
 source_hash: sha256:6689e77ece10ef5db45fac7ae08968b9f960dddef0f15d5cc391fe6b0dd40983
+contact: "[[cases/2019-04-26-prl-001/contacts/20-20-eye-center]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 EXAMINATION RECORD
 20/20 Eyecare of London, LLC,

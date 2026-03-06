@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:cee2b05cdb010acfc949b441a01cca58bb29a001ee41580dda5d1a4caddee181
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 category: Investigation
 description: Subscriber-Information
 entities[0]: Anella Noble

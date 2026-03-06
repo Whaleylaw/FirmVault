@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jacob-
 source_hash: sha256:4a9f29dbdcabb534d625219c6c85bebdbf0667778e3ae3326c21642db29fd930
 ---
 
+**Case:** [[cases/jacob-herrle/jacob-herrle|Jacob Herrle]]
+**Client:** [[cases/jacob-herrle/contacts/jacob-herrle|Jacob Herrle]]
+
 10-27-' 25 16:08 FROM- T-082 P0001/0009 F-510
 Aaron G. Whaley, Esq.
 THE 712 Lyndon Lane

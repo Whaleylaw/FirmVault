@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:6a5d1ed1deb965b96b7225d556512c2473ef25a705e1dc4fde66944fcf0abe3f
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 item_0.jsonb_agg[0].full_name: Michael Crader
 item_0.jsonb_agg[0].project_name: Michael-Crader-MVA-5-19-2023
 item_0.jsonb_agg[0].roles[0]: client

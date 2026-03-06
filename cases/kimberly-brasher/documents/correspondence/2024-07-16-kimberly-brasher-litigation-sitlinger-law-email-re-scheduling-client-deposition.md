@@ -1,8 +1,8 @@
 ---
 case_slug: kimberly-brasher
-created_at: 2026-02-17 00:02:00.988000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 2024-07-16
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2023-02-25-PrL-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimberly-Brasher-Premise-2-25-2023/Litigation/2024-07-16-Kimberly-Brasher-Litigation-Sitlinger-Law-Email-Re-Scheduling-Client-Deposition.eml
 source_hash: sha256:5062c4772e263b67a87a99292816b73e92be0ab5ed6b34b56b9976d437487346
+contact: "[[cases/2023-02-25-prl-001/contacts/sitlinger-law]]"
 ---
+
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 
 Subject: Re: Kimberly Brasher v. Walgreen Co., et al. (McClean Circuit Court, No. 24-CI-00012)
 From: sarena@whaleylawfirm.com

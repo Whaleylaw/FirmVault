@@ -1,11 +1,10 @@
 ---
 case_slug: caryn-mccay
-created_at: 2026-02-16 22:16:48.632000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 2023-07-30
+document_date: {}
 document_type: correspondence
-entities:
-- Humana
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-07-30-MVA-001
 mime_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-McCay-MVA-7-30-2023/Lien/2023-10-17-Caryn-McCay-The-Whaley-Law-Firm-Initial-Lien-Request.docx
 source_hash: sha256:2c70321c0063734c4769bf7c9c08a8ef9bc0545ef038ab7680c393e8b4cd74e4
+contact: "[[cases/2023-07-30-mva-001/contacts/caryn-mccay]]"
 ---
+
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 
 *Aaron G. Whaley, Esq.*
 *712 Lyndon Lane*

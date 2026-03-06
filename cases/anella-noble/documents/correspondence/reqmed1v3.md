@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:7c9175fe60e629f215d4db5605e1594d5701b0ad419b8d0f6c1e7556910bb6f8
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 April 5, 2021
 
 Louisville Emergency Medicine Associates

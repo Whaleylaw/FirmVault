@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Prince
 source_hash: sha256:57637d488352ce7b15bc729dd5c81ac68ff88ecb1f034465892dfdbbfff8a011
 ---
 
+**Case:** [[cases/prince-ngabonziza/prince-ngabonziza|Prince Ngabonziza]]
+**Client:** [[cases/prince-ngabonziza/contacts/prince-ngabonziza|Prince Ngabonziza]]
+
 accident_date: 2025-05-27
 case_type: MVA
 client_name: Prince-Ngabonziza

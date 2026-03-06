@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:3837d5a621217d86975201cc440fc0762dd79b318ec848fd464549a0fabc9f74
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 13-Jan-2625 16:01 [PHONE-4] [PHONE-3] p.6
 CERTIFICATION OF MEDICAL BILLING RECORDS AFFIDAVIT
 sche zl Gea ,being first duly sworn on his/her oath, says that:

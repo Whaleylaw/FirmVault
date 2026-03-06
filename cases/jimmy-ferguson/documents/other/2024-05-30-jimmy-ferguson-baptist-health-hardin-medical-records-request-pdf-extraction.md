@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:88cb6e4625a77eabac114f7cdedc4c019c50ad7896d40692d31c497cdd5852d0
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 category: Medical
 date: 2024-10-14
 description: Medical records package sent via ChartSwap electronic submission to Baptist Health Hardin on [DOB-1], containing confidential medical records for Jimmy Ferguson.

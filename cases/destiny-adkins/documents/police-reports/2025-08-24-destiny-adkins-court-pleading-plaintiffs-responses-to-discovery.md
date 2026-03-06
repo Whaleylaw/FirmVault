@@ -24,6 +24,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Destin
 source_hash: sha256:278813a48c337cf22c34f5aa5a5408a0808cf1720b84db9814c480a323adf994
 ---
 
+**Case:** [[cases/destiny-adkins/destiny-adkins|Destiny Adkins]]
+**Client:** [[cases/destiny-adkins/contacts/destiny-adkins|Destiny Adkins]]
+
 NO. 22-CI-002878 JEFFERSON COUNTY CIRCUIT COURT DIVISION ONE (1) JUDGE HON. ERIC HANER
 
 DESTINY ADKINS & JUANITA DOWNS PLAINTIFFS

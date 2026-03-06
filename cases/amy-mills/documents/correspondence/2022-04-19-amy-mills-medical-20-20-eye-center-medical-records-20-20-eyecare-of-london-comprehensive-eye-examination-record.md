@@ -1,18 +1,22 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:47:56.073000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1983-12-28
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/20:20
-  Eye Center/Medical Records/2022-04-19-Amy-Mills-Medical-20:20 Eye Center-Medical-Records-20-20-Eyecare-of-London-Comprehensive-Eye-Examination-Record.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/20:20 Eye Center/Medical Records/2022-04-19-Amy-Mills-Medical-20:20 Eye Center-Medical-Records-20-20-Eyecare-of-London-Comprehensive-Eye-Examination-Record.pdf
 source_hash: sha256:f5236b3fbc8afe12af7522cf4c729b04dcdf4fc04b291dfc4cb28a9a58820835
+contact: "[[cases/2019-04-26-prl-001/contacts/20-20-eye-center]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 18-Apr-2623 16:27 From:
 Fax Cover Sheet

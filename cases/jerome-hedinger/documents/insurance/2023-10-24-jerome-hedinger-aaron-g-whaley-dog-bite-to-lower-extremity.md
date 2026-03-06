@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:22b6c36d23e1f4b080c593d0250cfb4cbd2cbfb325059ba10cad081e07072129
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 +18339448 738
 REQUEST FOR CLAIM INFORMATION
 Member/Patient: Jerome Hedinger/Jerome Hedinger

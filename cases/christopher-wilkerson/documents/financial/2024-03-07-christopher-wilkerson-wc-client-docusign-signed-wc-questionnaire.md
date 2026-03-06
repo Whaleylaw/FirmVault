@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:28495742e0485dd8f61c2ee126071bd9182f89368d33b00da6d51ca0ae533c28
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 Subject: Completed: The Whaley Law Firm has requested you complete the attached questionnaire.
 From: [EMAIL-2]
 To: [EMAIL-2]

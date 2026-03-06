@@ -1,22 +1,23 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:49:03.277000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1983-12-28
+document_date: {}
 document_type: correspondence
-entities:
-- Dr. Cyna Khalily
-- Norton Healthcare
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Norton
-  Orthopedic Institute/Medical Records/2020-06-17-Amy-Mills-Medical-Norton Orthopedic
-  Institute-Medical-Records-Norton-Orthopedic-Institute-Medical-Records-and-Billing-Certifications.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Norton Orthopedic Institute/Medical Records/2020-06-17-Amy-Mills-Medical-Norton Orthopedic Institute-Medical-Records-Norton-Orthopedic-Institute-Medical-Records-and-Billing-Certifications.pdf
 source_hash: sha256:15fc4c79a17947d90ccc684dd678078c38ec24d2337405e61231e920ae621b84
+contact: "[[cases/2019-04-26-prl-001/contacts/norton-orthopedic-institute]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 BN NORTON
 HEALTHCARE MEDICAL RECORDS CERTIFICATION RID 113982536

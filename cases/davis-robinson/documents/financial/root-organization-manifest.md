@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-
 source_hash: sha256:c67fdbd97f8b32c175a2f4f672589053b959eb5bc80d52812afec1f1152afbba
 ---
 
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 accident_date: 2025-05-02
 case_type: SF
 client_name: Davis-Robinson

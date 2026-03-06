@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya
 source_hash: sha256:b7a7c1f88de6fc72496f2a3709d78c511a0852a9c225c1aab1c5a4fb41bacd46
 ---
 
+**Case:** [[cases/sariya-mason/sariya-mason|Sariya Mason]]
+**Client:** [[cases/sariya-mason/contacts/sariya-mason|Sariya Mason]]
+
 address: 2328 Quinn Dr, , Louisville, KY 40216-2941
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2025-05-20-MVA-001
 ---
 
+**Case:** [[cases/henrietta-jenkins/henrietta-jenkins|Henrietta Jenkins]]
+**Client:** [[cases/henrietta-jenkins/contacts/henrietta-jenkins|Henrietta Jenkins]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Henrietta-Jenkins-MVA-5-20-2025/Duplicates/2025-06-03-Henrietta-Jenkins-Synergy-Rehabilitation-Medical-Statement-2.pdf"
 source_hash: "sha256:71e8f693329b5c92c549f8b6d48725974c4d11864695c9d2a53add2746f3a13e"

@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:3ecda6299e55b45c81d7c218061d89e4b856b831d451c22a022a39d2c4254a09
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 category: medical_records_request
 date: 2025-11-06
 description: Medical records request letter to University of Louisville Hospital dated 11/6/2025 for Torrey Green (DOB 1/5/1998, SSN [SSN-1]) requesting all records and itemized billing for dates 9/3/2025 through 11/6/2025

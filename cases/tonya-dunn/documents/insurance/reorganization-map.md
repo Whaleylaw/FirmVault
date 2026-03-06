@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Tonya-
 source_hash: sha256:3d696e4f57055d265dc10e322afe7bb1d51765e21b0dcd8a0e8d9f627593c891
 ---
 
+**Case:** [[cases/tonya-dunn/tonya-dunn|Tonya Dunn]]
+**Client:** [[cases/tonya-dunn/contacts/tonya-dunn|Tonya Dunn]]
+
 item_0.bucket: Investigation
 item_0.extraction_source: /Volumes/X10 Pro/projects/Tonya-Dunn-MVA-9-24-2025/extractions/20677c72-9800-450d-89f4-e59a58077d6e.jpg_extraction.json
 item_0.new_path: Investigation/Photos/Scene Photos/2025-09-24_Accident_Scene_Photo.jpg

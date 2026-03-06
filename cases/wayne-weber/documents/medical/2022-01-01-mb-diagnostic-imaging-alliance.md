@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:e943547510ffdcd73057d243b56e3cd0aa49822e20d54b10ad429cc11b48db4c
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 rycen] [SSN-1]" 1115 1393 PAGE 1 Sk AUTO FARM BUREAU KENTUCKY 4 PO BOX 20600
 
 : LOUISVILLE KY 40250 HEALTH INSURANCE CLAIM FORM

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Collee
 source_hash: sha256:6b1dbda6a409c1443f04b9a13b465cb9231d7ed89eebcfc39ea8ba43385fe353
 ---
 
+**Case:** [[cases/colleen-colvin/colleen-colvin|Colleen Colvin]]
+**Client:** [[cases/colleen-colvin/contacts/colleen-colvin|Colleen Colvin]]
+
 **k* ELECTRONIC MEDICAL BILL *** Page: 1 of 10 lee: Bill Received Date: 20231103075537 HEALTH INSURANCE CLAIM FORM Claim Frequency Code: 1 - (ADMIT THROUGH DISCHARGE CLAIM) APPROVED BY NATIONAL UNIFORM CLAIM COMMITTEE (NUCC) 02/12 | | |PICA PICA | | | 1. MEDICARE MEDICAID TRICARE CHAMPVA GROUP OTHER | 1a. INSURED’S I.D. NUMBER (For Program in Item 1)
 
 | || meaicarex) [ || (Medicaid#) [| (ID#DOD#)

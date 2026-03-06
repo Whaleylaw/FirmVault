@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:364c85042ecc1b0a257c3e159bc685b40d5d32078b034e63494ce4f1dc736782
 ---
 
+**Case:** [[cases/james-lanier/james-lanier|James Lanier]]
+**Client:** [[cases/james-lanier/contacts/james-lanier|James Lanier]]
+
 | = etwas to wo” wie noe | Officer Op gs: No Test Given 97] Results Test Given 97] Resuits 97 Travel Road Name Road Code Travel Direction Unit Contributing oleae Oo a ae Event °° Event “9 First Harmful
 
 Veh Year Veh Model

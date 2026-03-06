@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:8ddc517c3f4a63a0a1405d4523f07968f1d7cd679f9999bfc4f5a70d1ab9e22b
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 category: Medical Records
 description: Medical visit summary from Starlite Injury Chiropractic
 entities[0]: Alma Socorro Cristobal Avendaño

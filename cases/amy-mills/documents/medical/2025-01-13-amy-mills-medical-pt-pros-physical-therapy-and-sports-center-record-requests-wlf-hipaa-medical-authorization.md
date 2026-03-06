@@ -1,19 +1,22 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:49:15.068000+00:00
+created_at: {}
 document_category: medical
-document_date: 1983-12-28
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/PT
-  Pros Physical Therapy and Sports Center/Record Requests/2025-01-13-Amy-Mills-Medical-PT
-  Pros Physical Therapy and Sports Center-Record-Requests-WLF-HIPAA-Medical-Authorization.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/PT Pros Physical Therapy and Sports Center/Record Requests/2025-01-13-Amy-Mills-Medical-PT Pros Physical Therapy and Sports Center-Record-Requests-WLF-HIPAA-Medical-Authorization.pdf
 source_hash: sha256:94d5b468502a3bb22bd5032d1767effde9500bf091b8d260ecae2f4fc605f792
+contact: "[[cases/2019-04-26-prl-001/contacts/pt-pros-physical-therapy-and-sports-center]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 Amy Jo Mills
 [DOB-1]

@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:6ebc43fe57cc09e0c4daa4abeb6ae4f848aac893d288ffd47c49d6cf85721cd5
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 item_0.amount_owed_from_settlement: 1926.79
 item_0.date_notice_received: 2025-03-25
 item_0.final_lien_amount: 1926.79

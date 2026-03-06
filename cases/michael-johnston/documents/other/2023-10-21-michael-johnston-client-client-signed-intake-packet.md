@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:f2c6a2e161d50eb6f3c2b6ff2ce5e787bd9e299ea604e5182552f02de58e85c2
 ---
 
+**Case:** [[cases/michael-johnston/michael-johnston|Michael Johnston]]
+**Client:** [[cases/michael-johnston/contacts/michael-johnston|Michael Johnston]]
+
 Verification Complete
 The document has been officially verified.
 Recipient1

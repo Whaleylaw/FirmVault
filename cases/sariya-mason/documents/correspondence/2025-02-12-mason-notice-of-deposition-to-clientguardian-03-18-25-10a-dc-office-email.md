@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya
 source_hash: sha256:40b8d4a95d410a9cf83526a9964bed17becfeaaf3cc5e4f1eecebfa3f69cd0e5
 ---
 
+**Case:** [[cases/sariya-mason/sariya-mason|Sariya Mason]]
+**Client:** [[cases/sariya-mason/contacts/sariya-mason|Sariya Mason]]
+
 Subject: Your Upcoming Deposition - March 18, 2025 - Sariya must be present as well
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:95a9779fb67852ee60fe6242a867886cfa066ec65ed85cca387bca63560dd8f1
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 L0156 Rev. A Page 1 of 1
 Encrypted Disc Instructions
 Encrypted CDs only run on Windows PCs (not on Apple devices). 

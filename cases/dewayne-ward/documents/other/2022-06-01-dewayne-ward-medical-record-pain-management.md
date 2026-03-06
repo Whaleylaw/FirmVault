@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dewayn
 source_hash: sha256:e771a6bf5df98815af81ab5ec21a478b0d195aa2a051f99a7e964d3b76ddca85
 ---
 
+**Case:** [[cases/dewayne-ward/dewayne-ward|Dewayne Ward]]
+**Client:** [[cases/dewayne-ward/contacts/dewayne-ward|Dewayne Ward]]
+
 TT
 €20Z/Z/TT payesouay
 Cv: WVvS Mlfpou PApyYAq pasamod TT JO

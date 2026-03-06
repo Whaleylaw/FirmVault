@@ -36,6 +36,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cory-S
 source_hash: sha256:a67f80b787baad0f42b5fc1e65fa4e1cf58b462839263b4e43bafb649114753d
 ---
 
+**Case:** [[cases/cory-stephenson/cory-stephenson|Cory Stephenson]]
+**Client:** [[cases/cory-stephenson/contacts/cory-stephenson|Cory Stephenson]]
+
 ULH University of Louisville Hospital
 530 S. Jackson Street
 Louisville, KY 40202-1675

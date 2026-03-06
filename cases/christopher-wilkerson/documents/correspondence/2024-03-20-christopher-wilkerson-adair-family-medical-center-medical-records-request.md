@@ -4,6 +4,9 @@ document_category: correspondence
 legacy_case_id: 2024-02-15-MVA-002
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christopher-Wilkerson-WC-MVA-[DOB-1]/Medical-Records/2024-03-20-Christopher-Wilkerson-Adair-Family-Medical-Center-Medical-Records-Request.pdf"
 source_hash: "sha256:af69d61b374e2fb77988541a87ec67e5ae9fa39d240175f44413c22f0e26100c"

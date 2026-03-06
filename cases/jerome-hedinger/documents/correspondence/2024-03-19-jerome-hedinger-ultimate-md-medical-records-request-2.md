@@ -4,6 +4,9 @@ document_category: correspondence
 legacy_case_id: 2023-10-24-PrL-001
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome-Hedinger-Premise-DB-[DOB-16]/Medical-Records/2024-03-19-Jerome-Hedinger-Ultimate-MD-Medical-Records-Request-2.pdf"
 source_hash: "sha256:5cd8f567d04322cf9b31ad9a7d3ce61607cbebaa5bb28d3f107ea3dca54fd039"

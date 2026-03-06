@@ -20,6 +20,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:d0b4c6daed5d4a44f688b9d9d9eca0d4a9f771ef4197b0743546e596ba4dd0ec
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 Weber, Wayne (MR#[PHONE-27]) Printed by ADAMS, KINA [555754] https://ep link baptisthealth.com/ep Iink/common/link asp
 Weber, Wayne DOB 97/13/1947 Unofficial Copy of Medical Record
 Auth Prov: Pitcock, Chnstopher V.

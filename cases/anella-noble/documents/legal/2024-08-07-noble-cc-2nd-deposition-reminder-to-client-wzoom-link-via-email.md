@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:bcff90181aac317c3f4177797913ad1422d95c40ce6a6c92ab237f4b38ca4d2c
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: Your Upcoming 2nd Deposition - August 14, 2024 2:00pm
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

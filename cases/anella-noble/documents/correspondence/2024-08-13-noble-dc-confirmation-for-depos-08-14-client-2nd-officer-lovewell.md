@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:81eb851a5f705f939ca9890f175edd45ded15dc991346058d60a95cb43ce506a
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: RE: Confirmation for 8/14/2024 (101384)
 From: [EMAIL-1]
 To: [EMAIL-7], Sarena@WhaleyLawFirm.com

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:7d82cc3a92e94a098a9b0e18b74a9adcdfb691b971c0161dc87a1cd9da6db602
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: medical
 date: 2024-12-01
 description: Emergency department visit for neck/chest pain treatment, medical billing statement showing charges of $18,431.94

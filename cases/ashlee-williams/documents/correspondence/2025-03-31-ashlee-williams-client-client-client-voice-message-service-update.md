@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee
 source_hash: sha256:fa4a5db8c0ef43a039157193a25783b955c79fb8c42e3991f293672bdc6db2ac
 ---
 
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 Subject: New Voice Message from MCCANTS,MANASSE [PHONE-6] on [DOB-2] 2:20 PM
 From: [EMAIL-3]
 To: Sarena@whaleylawfirm.com

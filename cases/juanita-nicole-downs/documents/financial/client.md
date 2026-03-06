@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Juanit
 source_hash: sha256:f56a9de17e9785fe8b87f0b081d0b629c1744ce0b58dc0e560d37ee815208da3
 ---
 
+**Case:** [[cases/juanita-nicole-downs/juanita-nicole-downs|Juanita Nicole Downs]]
+**Client:** [[cases/juanita-nicole-downs/contacts/juanita-nicole-downs|Juanita Nicole Downs]]
+
 address: 3109 Ford Haven Road #6, Louisville, Ky 40214
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

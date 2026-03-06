@@ -1,18 +1,22 @@
 ---
 case_slug: muhammad-alif
-created_at: 2026-02-17 00:10:52.198000+00:00
+created_at: {}
 document_category: financial
-document_date: 1961-04-16
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2022-11-08-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Axon
-  Medical Centers/Medical Bills/2023-03-04-Muhammad-Alif-Medical-Axon Medical Centers-Medical-Bills-Axon-Medical-Centers-Patient-Ledger-Charges-1.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Axon Medical Centers/Medical Bills/2023-03-04-Muhammad-Alif-Medical-Axon Medical Centers-Medical-Bills-Axon-Medical-Centers-Patient-Ledger-Charges-1.pdf
 source_hash: sha256:2cf35b4127a0f973f25b105dca89c44c570804c5bc66b0dc7f0752c64f9a9994
+contact: "[[cases/2022-11-08-mva-001/contacts/axon-medical-centers]]"
 ---
+
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 
 Case# Service 
 Date ACC# Responsible Type Code Modifiers Description Units Amount Date of Posting

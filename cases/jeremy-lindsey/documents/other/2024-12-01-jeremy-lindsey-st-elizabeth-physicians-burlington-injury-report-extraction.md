@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:d41889ccfc5c5e4017e68954a004bd43f985985e8de48520e3b0ce41e7b34a8b
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: insurance
 date: 2024-12-01
 description: Kentucky No-Fault PIP Application for Benefits for Jeremy Lindsey, laceration of leg and abdominal soreness, accident 12/1/2024 at Mt. Zion Rd, claim [PHONE-1]-2024

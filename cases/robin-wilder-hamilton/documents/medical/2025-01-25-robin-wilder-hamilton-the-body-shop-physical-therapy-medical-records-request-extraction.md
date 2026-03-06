@@ -1,11 +1,10 @@
 ---
 case_slug: robin-wilder-hamilton
-created_at: 2026-02-17 00:16:21.418000+00:00
+created_at: {}
 document_category: medical
-document_date: 2025-01-25
+document_date: {}
 document_type: medical
-entities:
-- Body Shop
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-06-15-MVA-001
 mime_type: application/json
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 90
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-Wilder-Hamilton-MVA-6-15-2023/reports/extractions/2025-01-25-Robin-Wilder-Hamilton-The-Body-Shop-Physical-Therapy-Medical-Records-Request_extraction.json
 source_hash: sha256:7a86b48d38709a2167e38479e9fc1fc8ce593b45673cffd8b9a763fa9b4ed561
+contact: "[[cases/2023-06-15-mva-001/contacts/the-body-shop-physical-therapy]]"
 ---
+
+**Case:** [[cases/robin-wilder-hamilton/robin-wilder-hamilton|Robin Wilder Hamilton]]
+**Client:** [[cases/robin-wilder-hamilton/contacts/robin-wilder-hamilton|Robin Wilder Hamilton]]
+
 
 extraction.classification.bucket: Medical Records
 extraction.classification.confidence: high

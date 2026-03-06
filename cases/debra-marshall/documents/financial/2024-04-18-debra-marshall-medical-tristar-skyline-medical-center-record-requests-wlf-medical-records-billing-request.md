@@ -1,21 +1,23 @@
 ---
 case_slug: debra-marshall
-created_at: 2026-02-16 23:04:44.027000+00:00
+created_at: {}
 document_category: financial
-document_date: 2024-04-01
+document_date: {}
 document_type: financial
-entities:
-- Skyline Medical Center
+entities: null
 extraction_method: native_text
 legacy_case_id: 2022-12-03-MVA-001
 mime_type: message/rfc822
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-Marshall-MVA-12-3-2022/Medical/TriStar
-  Skyline Medical Center/Record Requests/2024-04-18-Debra-Marshall-Medical-TriStar
-  Skyline Medical Center-Record-Requests-WLF-Medical-Records-Billing-Request.eml
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-Marshall-MVA-12-3-2022/Medical/TriStar Skyline Medical Center/Record Requests/2024-04-18-Debra-Marshall-Medical-TriStar Skyline Medical Center-Record-Requests-WLF-Medical-Records-Billing-Request.eml
 source_hash: sha256:7ed434f4df249455bde9fc8ddc77a513382bef0fa687636f7dfb9c0729f3d586
+contact: "[[cases/2022-12-03-mva-001/contacts/tristar-skyline-medical-center]]"
 ---
+
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 
 Subject: Re: Certified Medical Records & Billing Request - Debra Marshall
 From: sarena@whaleylawfirm.com

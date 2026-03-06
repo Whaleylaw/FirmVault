@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:bcc7279c1854e0d545fb79f59449709a8a397270d9c2426246555c3e822af84a
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 *
 AUTHORIZATION TO RELEASE PROTECTED HEALTH CARE INFORMATION
 TO:

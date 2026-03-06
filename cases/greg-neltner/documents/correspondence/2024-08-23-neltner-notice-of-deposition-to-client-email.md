@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-N
 source_hash: sha256:952ee337e0aa7444e59fc9c235ae2859b0a6bd21d269ed5bb1ead4acaff2e455
 ---
 
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 Subject: Your Upcoming Depositions - September 17, 2024 - Greg 10am - Cecelia 12pm
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1], [EMAIL-2]

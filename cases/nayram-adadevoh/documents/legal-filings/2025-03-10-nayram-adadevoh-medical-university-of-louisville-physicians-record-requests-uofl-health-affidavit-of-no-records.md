@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:4f4b5e7a91fe06c7790ebb17a4a7a5b40fd3e8a67a6ca6c59401dd5c9a0b6065
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 UL Health
 AFFIDAVIT OF CUSTODIAN OF RECORDS
 Patient’s Legal Name: Adadevoh, Nayram Date of Birth: [DOB-1]

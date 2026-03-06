@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Samuel
 source_hash: sha256:1731d4209215a357ddab2d726e656a15316075ea44bad8e32c47c7910075a134
 ---
 
+**Case:** [[cases/samuel-clites/samuel-clites|Samuel Clites]]
+**Client:** [[cases/samuel-clites/contacts/samuel-clites|Samuel Clites]]
+
 accident_date: 2024-04-23
 case_type: MVA
 client_name: Samuel-Clites

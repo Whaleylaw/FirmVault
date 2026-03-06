@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:3e186421986b0f4dc203e889beda4fc9b61775e58f8148bcd649a197566df2dc
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 category: Insurance
 date: 2025-02-18
 description: Letter from Kentucky Farm Bureau acknowledging representation and advising on PIP no-fault coverages, directing benefits and subrogation matters for May 30, 2024 accident.

@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:d4656b6c85a9f8432bf61c45d2bc8058896f95f0725e910ac4c1481aba1f30a3
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 Firefox about:blank
 1 of 2 [DOB-2], 2:51 PM
 AVENDANO

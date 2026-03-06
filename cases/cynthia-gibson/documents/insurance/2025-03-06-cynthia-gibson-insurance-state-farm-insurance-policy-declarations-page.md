@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cynthi
 source_hash: sha256:18c74d3410fb3261f3cd56e5d17c26142ff1a9606656c3bd6f955d06d7d0f5dc
 ---
 
+**Case:** [[cases/cynthia-gibson/cynthia-gibson|Cynthia Gibson]]
+**Client:** [[cases/cynthia-gibson/contacts/cynthia-gibson|Cynthia Gibson]]
+
 State Farm Mutual Automobile Insurance Company R 98540-5-A MUTL. VOL
 
 Bloc nator iL. 61702-2358 DECLARATIONS PAGE

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:6888f227577a1344ddf519020b411eabe162bb79bb18fe5b6ade97f10fc7df45
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 X-Ray Associates of Louisville
 P.O. Box 7159
 Louisville, KY 40257

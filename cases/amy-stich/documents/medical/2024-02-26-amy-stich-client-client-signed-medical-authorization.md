@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:0171cdd1bcefe2965bd873df8309530cb97c5f9d2622b1599b2d62d3cf0015cd
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 DocuSign Envelope ID: D7E09D88-9465-4F 86-BE76-F2COC057BCAD
 Aaron G. Whaley, Esq.
 oe THE _ ; 712 Lyndon Lane

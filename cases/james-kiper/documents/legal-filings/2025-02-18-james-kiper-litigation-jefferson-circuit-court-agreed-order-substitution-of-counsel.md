@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:25b6114be3fd2ff2764a0395657a71da7a8c0e808e6f19a26be65fb324161acd
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 5
 ‘he eas a . : ra, .
 Filed —\* 23-Cv-G0575% 42/18/2025 David L. Nicholsor ‘fferson Circuit Clerk

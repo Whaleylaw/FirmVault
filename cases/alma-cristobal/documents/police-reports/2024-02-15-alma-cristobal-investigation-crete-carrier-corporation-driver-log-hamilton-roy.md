@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:4dac0edce7bd7ba29776d47e3e2e08c13a2ae6ff392c970762c52a98ccb9cfff
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 Day Starting Time
 12:00 AMTime Zone OffsetUTC-06
 Carrier: Crete Carrier CorporatUSDOT Number: 73705400 NW 56th StreetLincoln, NE 68528

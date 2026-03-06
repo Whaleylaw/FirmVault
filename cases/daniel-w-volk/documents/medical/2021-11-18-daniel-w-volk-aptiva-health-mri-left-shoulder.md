@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel
 source_hash: sha256:6dfc81d02ac5c3c4135c31364bdd8e882c3abed03f406ce9ba5ab75df1c5a9b8
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 Central Louisvitte q East Louisvile eis vomuarmnaas
 ADTIVA ville Lexington HEALTH SereSeed eae,
 PATIENT: ‘VOLK, DANIEL DOB: [DOB-1]

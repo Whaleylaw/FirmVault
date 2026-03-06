@@ -1,18 +1,22 @@
 ---
 case_slug: muhammad-alif
-created_at: 2026-02-17 00:11:02.389000+00:00
+created_at: {}
 document_category: financial
-document_date: 1961-04-16
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2022-11-08-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Cutting
-  Edge Orthopedics/Medical Bills/2022-11-28-Muhammad-Alif-Medical-Cutting Edge Orthopedics-Medical-Bills-Cutting-Edge-Orthopedic-Services-Medical-Ledger-And-Charges.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Cutting Edge Orthopedics/Medical Bills/2022-11-28-Muhammad-Alif-Medical-Cutting Edge Orthopedics-Medical-Bills-Cutting-Edge-Orthopedic-Services-Medical-Ledger-And-Charges.pdf
 source_hash: sha256:680fa92ea104b7cd25ccffe96a2970bf3adcb38d41eec6b5df25385a9aa31e96
+contact: "[[cases/2022-11-08-mva-001/contacts/cutting-edge-orthopedics]]"
 ---
+
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 
 CUTTING EDGE ORTHOPEDIC SERVICES
 10400 N CENTRAL EXPY

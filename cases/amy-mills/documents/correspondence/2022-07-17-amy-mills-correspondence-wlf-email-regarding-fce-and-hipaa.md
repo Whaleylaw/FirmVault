@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:ca6c4a87922ac224f9cd36ac8b4658072ee0e95bc09607006553c7f44a902009
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Subject: Re: FCE Appointment Reminder - [DOB-1] 11am
 From: sarena@whaleylawfirm.com
 To: [EMAIL-2]

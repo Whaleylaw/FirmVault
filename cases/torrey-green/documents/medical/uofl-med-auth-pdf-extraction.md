@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:0d4bd13275c2bc300f0d6e34c859de31cd249089d7b5902867937a96c6184325
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 extracted_data.category: medical
 extracted_data.date: 2025-09-24
 extracted_data.description: HIPAA compliant medical authorization form authorizing University of Louisville Hospital (530 S. Jackson Street, Louisville, KY 40202) to release all medical records to The Whaley Law Firm. Authorization covers comprehensive medical information related to injury from third party negligence and expires three years from signature date.

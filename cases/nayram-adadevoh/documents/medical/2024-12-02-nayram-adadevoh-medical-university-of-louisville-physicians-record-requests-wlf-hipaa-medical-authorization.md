@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:b2c73146dbc9f9cfaf146b6c9a3b16b0bb9d14915f484b52fcfea610ebffb7bd
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 Nayram Adadevoh
 [DOB-1]
 ***-**-3026 [DOB-1]

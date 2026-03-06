@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:ddae7a2ec7648398ec8b294c0766ddf0586f3cc03a8c73bf41349bf3b068f1ba
 ---
 
+**Case:** [[cases/james-sadler/james-sadler|James Sadler]]
+**Client:** [[cases/james-sadler/contacts/james-sadler|James Sadler]]
+
 VERIFICATION
 war _*
 EYOB-TAFESSE

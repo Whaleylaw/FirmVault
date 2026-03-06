@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:b0defd6209405990fabc62b11078ede8a7ce1bd03f090be306f1cb6353d24f48
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 case_folder: Alma-Cristobal-MVA-2-15-2024
 job_id: file-org-6efef0c1
 phases.Phase 2a: Extraction.completed_at: 2026-02-03T23:31:58.900475

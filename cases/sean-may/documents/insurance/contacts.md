@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sean-M
 source_hash: sha256:7e5420d068e9e749e26d5f630f17bba607e934b15c759dbb9f774e996837919c
 ---
 
+**Case:** [[cases/sean-may/sean-may|Sean May]]
+**Client:** [[cases/sean-may/contacts/sean-may|Sean May]]
+
 item_0.jsonb_agg[0].address: 4311 Hale Ave
 item_0.jsonb_agg[0].full_name: Sean May
 item_0.jsonb_agg[0].phone: [PHONE-5]

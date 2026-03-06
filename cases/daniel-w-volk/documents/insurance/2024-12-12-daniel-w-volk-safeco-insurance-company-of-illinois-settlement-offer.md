@@ -1,11 +1,10 @@
 ---
 case_slug: daniel-w-volk
-created_at: 2026-02-16 22:54:44.641000+00:00
+created_at: {}
 document_category: insurance
-document_date: 2021-09-24
+document_date: {}
 document_type: insurance
-entities:
-- Liberty Mutual
+entities: null
 extraction_method: native_text
 legacy_case_id: 2021-09-24-MVA-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel-W-Volk-MVA-09-24-2021/Insurance/2024-12-12-Daniel-W-Volk-Safeco-Insurance-Company-of-Illinois-Settlement-Offer.pdf
 source_hash: sha256:f6aac1bd6c2b202332244843a115341bb63b58ff000d92a8ae533d1e80002fc4
+contact: "[[cases/2021-09-24-mva-001/contacts/safeco-insurance-company]]"
 ---
+
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 
 *4000000
 [PHONE-1]

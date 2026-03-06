@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmon
 source_hash: sha256:229e48b2f89e56181e87053a18e761cb1a861abcea08e910b90568552e6c5ab7
 ---
 
+**Case:** [[cases/julmonzhae-moore/julmonzhae-moore|Julmonzhae Moore]]
+**Client:** [[cases/julmonzhae-moore/contacts/julmonzhae-moore|Julmonzhae Moore]]
+
 item_0.amount_owed_from_settlement: 3318.77
 item_0.date_notice_received: 2023-11-11
 item_0.final_lien_amount: 3318.77

@@ -1,6 +1,6 @@
 ---
 case_slug: muhammad-alif
-created_at: 2026-02-17 00:11:26.279000+00:00
+created_at: {}
 document_category: financial
 document_type: financial
 extraction_method: native_text
@@ -8,11 +8,14 @@ legacy_case_id: 2022-11-08-MVA-001
 mime_type: message/rfc822
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Modern
-  Chiropractic And Injury Care/Record Requests/2024-08-13-Muhammad-Alif-Medical-Modern
-  Chiropractic And Injury Care-Record-Requests-WLF-Executed-Medical-Authorization.eml
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Modern Chiropractic And Injury Care/Record Requests/2024-08-13-Muhammad-Alif-Medical-Modern Chiropractic And Injury Care-Record-Requests-WLF-Executed-Medical-Authorization.eml
 source_hash: sha256:2fcd2882e9e02d0b6d3ac393060d0b1de1eb7f12be343466d5b0699e8c34a427
+contact: "[[cases/2022-11-08-mva-001/contacts/modern-chiropractic-and-injury-care]]"
 ---
+
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 
 Subject: Completed: The Whaley Law Firm has requested your signature. Follow the prompts to execute the attached.
 From: [EMAIL-2]

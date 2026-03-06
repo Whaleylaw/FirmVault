@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:7407d2d6ab27abedba4728de3b79c8e0db262c40485ceb2af3f83dcaaa1ad2ae
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 Fax Confirmation
 To: [PHONE-11] From: [PHONE-10]
 Doc:

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:d1feda4085633fcce72cf582aafdcf39aa8e7d4437bbdde84e4fdf0f7e0c98b0
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 CERTIFICATION OF MEDICAL BILLING RECORDS AFFIDAVIT
 a
 Enarond a. {LY TRY , being first duly sworn on his/her oath, says that:

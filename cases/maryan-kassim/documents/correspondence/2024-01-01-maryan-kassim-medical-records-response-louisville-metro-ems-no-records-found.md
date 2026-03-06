@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:6c0fe4f88c3147d68adfd37dba0abe908ed4f17d77ea7b1730caa647e0955ac0
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 Louisville Metro EMS /OMB Billing
 To Whom It May Concern,
 After a thorough search of our files, we have been unsuccessful in locating the

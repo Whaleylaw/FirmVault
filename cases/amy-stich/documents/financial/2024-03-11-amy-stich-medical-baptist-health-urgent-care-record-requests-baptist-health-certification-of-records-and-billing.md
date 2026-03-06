@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:780e4eca03dc544f5cc0d6f936a48c0ab0f0ad7676f7479373abbf167b5fb51b
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 Release of Information
 Baptist Health
 2600 Stanley Gault Pkwy.

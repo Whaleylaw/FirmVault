@@ -1,20 +1,23 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:48:11.861000+00:00
+created_at: {}
 document_category: other
-document_date: 1983-12-28
+document_date: {}
 document_type: other
-entities:
-- Baptist Health
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 85
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Baptist
-  Health Corbin/Record Requests/2022-10-31-Amy-Mills-Medical-Baptist Health Corbin-Record-Requests-WLF-Medical-Authorization.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Baptist Health Corbin/Record Requests/2022-10-31-Amy-Mills-Medical-Baptist Health Corbin-Record-Requests-WLF-Medical-Authorization.pdf
 source_hash: sha256:c7f57708974ad5a7e34c1c120eddadd9c02aa25f3d051696c88b3d415e1459ee
+contact: "[[cases/2019-04-26-prl-001/contacts/baptist-health-corbin]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 	
 

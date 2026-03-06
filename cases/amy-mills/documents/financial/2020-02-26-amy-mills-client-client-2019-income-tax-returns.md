@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:792913d12612cae59cfdd23a969cd5cd6616353a4ed47ff14cbd71780230cacc
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Amy J Mills INVOICE DATE: [DOB-29] SS NUMBER: [SSN-1]
 
 TELEPHONE: osal 304-0342 INVOICE NO. 617

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dewayn
 source_hash: sha256:84dbd652d47ef4b3497c93981f085a9d8920f94120499f5b86a7ecd3cf6c29e6
 ---
 
+**Case:** [[cases/dewayne-ward/dewayne-ward|Dewayne Ward]]
+**Client:** [[cases/dewayne-ward/contacts/dewayne-ward|Dewayne Ward]]
+
 Claimant DEWAYNE WARD
 Insured DEWAYNE WARD
 Claim 054658453

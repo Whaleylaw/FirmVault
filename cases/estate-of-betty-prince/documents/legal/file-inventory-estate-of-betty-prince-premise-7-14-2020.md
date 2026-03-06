@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:fa00f7a7e01e4139395fbdb8cab626775ef2f7adf278ccc4eb6263aeeb32957d
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 item_0.extension: .md
 item_0.name: 2024-02-14-Robert-Prince-The-Whaley-Law-Firm-Deposition-of-Robert-Prince.md
 item_0.path: 2024-02-14-Robert-Prince-The-Whaley-Law-Firm-Deposition-of-Robert-Prince.md

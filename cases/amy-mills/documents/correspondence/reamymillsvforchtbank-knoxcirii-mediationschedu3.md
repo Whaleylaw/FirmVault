@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:23ae10ed1c7d84f3b722b38e017f95b59885fcaf26afaf719d5000d55ac3b465
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Subject: Re: Amy Mills v Forcht Bank - Knox Cir II - Mediation Scheduling
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

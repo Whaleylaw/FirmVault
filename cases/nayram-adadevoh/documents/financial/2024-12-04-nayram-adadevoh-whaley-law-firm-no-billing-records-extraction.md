@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:deba2a8c596f2b69bd995579b78cb5d28125e7eed478f28d0bb0c31f222cf219
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: correspondence
 date: 2024-12-04
 description: Letter from Whaley Law Firm regarding no billing records dated December 4, 2024.

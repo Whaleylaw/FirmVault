@@ -2,7 +2,12 @@
 case_slug: dana-jackson
 document_category: correspondence
 legacy_case_id: 2024-01-24-MVA-002
+contact: "[[cases/2024-01-24-mva-002/contacts/vip-imaging]]"
 ---
+
+**Case:** [[cases/dana-jackson/dana-jackson|Dana Jackson]]
+**Client:** [[cases/dana-jackson/contacts/dana-jackson|Dana Jackson]]
+
 
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dana-Jackson-MVA-1-24-2024/Medical/VIP Imaging/Medical Bills/2024-08-14-Dana-Jackson-Medical-VIP Imaging-Medical-Bills-ChartSwap-Statement-of-No-Billing-Records.pdf"

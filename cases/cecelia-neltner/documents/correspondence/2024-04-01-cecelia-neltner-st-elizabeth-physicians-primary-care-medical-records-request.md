@@ -1,11 +1,10 @@
 ---
 case_slug: cecelia-neltner
-created_at: 2026-02-16 22:19:14.837000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 2004-11-27
+document_date: {}
 document_type: correspondence
-entities:
-- St. Elizabeth
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-04-01-MVA-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecelia-Neltner-MVA-4-1-2023/Medical-Records/2024-04-01-Cecelia-Neltner-St-Elizabeth-Physicians-Primary-Care-Medical-Records-Request.pdf
 source_hash: sha256:2fad30bb9e87c4e06b98653808c3728c186d919ba96e1e6ddb41af411ddc4d4f
+contact: "[[cases/2023-04-01-mva-001/contacts/st-elizabeth-physicians-primary-care]]"
 ---
+
+**Case:** [[cases/cecelia-neltner/cecelia-neltner|Cecelia Neltner]]
+**Client:** [[cases/cecelia-neltner/contacts/cecelia-neltner|Cecelia Neltner]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

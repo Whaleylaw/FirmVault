@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:60ae7f1804bdac2b2e10ecac8c6f43ee7a8411cf2cadbe5caab535e5b619ab6a
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 material, or admissible. Plaintiff reserves all rights to object to the admissibility of any evidence.
 Plaintiff reserves all rights to supplement, change, oramend any response, description, calculation,
 oramount contained in any response herein.

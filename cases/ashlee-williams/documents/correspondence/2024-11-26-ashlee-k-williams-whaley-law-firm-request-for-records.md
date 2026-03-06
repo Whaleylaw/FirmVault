@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee
 source_hash: sha256:0e4338451ca9d203bdd02a93d49935bedc43ff0684f78d4fb412c45f782f9d5e
 ---
 
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 Ui «ff L Dhycaocaanc 12/26/3634 9,:60,.,14 DM Fer DAaE 1/440
 Fax Transmission
 N

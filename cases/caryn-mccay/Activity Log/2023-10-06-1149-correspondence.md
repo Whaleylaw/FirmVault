@@ -1,0 +1,16 @@
+---
+schema_version: 2
+case_id: 9788bc1a-b760-4cf5-bf4f-8bc3e3c54698
+date: "2023-10-06"
+category: correspondence
+subcategory: email
+---
+
+# email — 2023-10-06
+
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Category:** correspondence / email
+
+__Fwd: New Text Message from Caryn McCay on 10/06/2023 12:43 PM__
+From: Coleen Thea Ferry Madayag [coleen@whaleylawfirm.com](mailto:coleen@whaleylawfirm.com)
+To: [CarynMcCayMVAZ4068407@louisvilleaccid

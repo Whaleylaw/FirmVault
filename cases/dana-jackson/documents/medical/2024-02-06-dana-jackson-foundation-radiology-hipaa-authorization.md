@@ -1,8 +1,8 @@
 ---
 case_slug: dana-jackson
-created_at: 2026-02-16 22:39:43.261000+00:00
+created_at: {}
 document_category: medical
-document_date: 1971-06-28
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2024-01-24-MVA-002
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dana-Jackson-MVA-1-24-2024/Medical-Records/2024-02-06-Dana-Jackson-Foundation-Radiology-HIPAA-Authorization.pdf
 source_hash: sha256:a330bc64a604ed9610f3e7120499059fed9efa1b385c4ff27f4253324ee616e8
+contact: "[[cases/2024-01-24-mva-002/contacts/foundation-radiology]]"
 ---
+
+**Case:** [[cases/dana-jackson/dana-jackson|Dana Jackson]]
+**Client:** [[cases/dana-jackson/contacts/dana-jackson|Dana Jackson]]
+
 
 Dana Jackson
 [DOB-1]

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:f25ea6df5abd4ac83e9c3b1f71565d545fd5c35cb0a9d8111f448c23f08655ed
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 Know your rights
 Ifyou are a patient with health insurance through an employer or a purchased individual
 plan, please click here (https://www.teamhealth.com/surprise-billing-patient-protectiondisclosure-notice) for information on surprise medical billing protections.

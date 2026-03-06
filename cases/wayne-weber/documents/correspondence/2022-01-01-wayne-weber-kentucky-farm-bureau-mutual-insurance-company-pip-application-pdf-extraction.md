@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:d5df72530ac37ccfd62d7f046697b847d9a2545338abd2d82e9c8eb18f6a5877
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: insurance
 extraction.date: 2022-01-01
 extraction.description: Personal Injury Protection (PIP) application to Kentucky Farm Bureau Mutual Insurance Company for Wayne Weber.

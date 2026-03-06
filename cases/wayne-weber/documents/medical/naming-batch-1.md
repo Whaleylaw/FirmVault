@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:90824275a380cc1ba8e042175b659ba73800a71b8e1c27bfaab3c9d200b36971
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 Wayne-Weber-MVA-[DOB-34]/extractions/2010-01-01-Wayne-Weber-Ford-Motor-Company-Emissions-Information.pdf_extraction.json
 Wayne-Weber-MVA-[DOB-33]/extractions/2017-01-01-Wayne-Weber-State-Farm-Amendatory-Endorsement.pdf_extraction.json
 Wayne-Weber-MVA-[DOB-32]/extractions/2022-01-01-Wayne-Weber-Anchorage-Middletown-Fire-EMS-Emergency-Services.pdf_extraction.json

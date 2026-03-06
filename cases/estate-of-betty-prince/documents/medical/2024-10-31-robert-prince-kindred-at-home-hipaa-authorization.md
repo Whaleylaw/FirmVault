@@ -1,6 +1,6 @@
 ---
 case_slug: estate-of-betty-prince
-created_at: 2026-02-16 23:39:53.210000+00:00
+created_at: {}
 document_category: medical
 document_type: medical
 extraction_method: native_text
@@ -10,7 +10,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate-of-Betty-Prince-Premise-7-14-2020/Client/2024-10-31-Robert-Prince-Kindred-at-Home-HIPAA-Authorization.pdf
 source_hash: sha256:e9d48cdff084efe009663d16bc3d75419e0c2fa871c443fde56b362c308dcf1e
+contact: "[[cases/2020-07-14-prl-001/contacts/kindred-at-home]]"
 ---
+
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 
 AUTHORJZATION TO RELEASE PROTECTED HEALTH CARE INFOR.i'vfATIOt'-i 
 TO: 

@@ -1,10 +1,9 @@
 ---
 case_slug: anella-noble
-created_at: 2026-02-16 22:03:28.871000+00:00
+created_at: {}
 document_category: court-filings
 document_type: court_filing
-entities:
-- State Farm
+entities: null
 extraction_method: native_text
 legacy_case_id: 2021-01-03-MVA-001
 mime_type: application/pdf
@@ -12,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella-Noble-MVA-01-03-2021/Litigation/2021-09-23-Anella-Noble-Answer-Virginia-P-Sewell.pdf
 source_hash: sha256:136aad30fe1992dd33c9aa915299aae1985cc86bffd157f7d79d54574df0f701
+contact: "[[cases/2021-01-03-mva-001/contacts/virginia-p-sewell]]"
 ---
+
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 
 NO. 21-CI-004985 JEFFERSON CIRCUIT COURT
  THE HON. MARY SHAW

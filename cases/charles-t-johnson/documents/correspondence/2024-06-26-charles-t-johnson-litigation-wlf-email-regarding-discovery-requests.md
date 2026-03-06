@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:9c2205f3701f3ccbc9c49037699e32a8a648a21d238b45629c705ca201cda3f7
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 Subject: Re: Johnson v. Lowe
 From: [EMAIL-1]
 To: [EMAIL-2], [EMAIL-8]

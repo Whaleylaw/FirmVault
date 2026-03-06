@@ -22,6 +22,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:bb41fe5fd347306c1a8dd5fac26080d76075bf56bd16b31da5948a5fafede639
 ---
 
+**Case:** [[cases/charles-godsey/charles-godsey|Charles Godsey]]
+**Client:** [[cases/charles-godsey/contacts/charles-godsey|Charles Godsey]]
+
 case_name: Charles-Godsey-MVA-6-30-2025
 category_breakdown.Client: 2
 category_breakdown.Duplicates (to delete): 5

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jasmin
 source_hash: sha256:a2c999b4c4d00c5daf3ffb687fbae97d30a8340f337b042f8112311f53dd03a8
 ---
 
+**Case:** [[cases/jasmine-wilson/jasmine-wilson|Jasmine Wilson]]
+**Client:** [[cases/jasmine-wilson/contacts/jasmine-wilson|Jasmine Wilson]]
+
 November 7, 2025
 Whaley Law Firm
 712 Linden Dr

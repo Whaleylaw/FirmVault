@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:520ef8b628435bba7706a8052bb669ba398f934e95d0cf51533a5416464f6fbe
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 1027925.06 Commonwealth of Kentucky BilsorLuneman Grimes
 Alison Lundergan Grimes, Secretary of St Secretary of State eceived and Filed
 7/25/2018 1:33:12 PM

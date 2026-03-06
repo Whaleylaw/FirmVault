@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:774df1997ec1ed54e8ce0afe410128be62078e977a11c99a37f1f4ca7f321523
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 Page 1 of 1
 STATEMENT
 MORGAN COUNTY AMBULANCE

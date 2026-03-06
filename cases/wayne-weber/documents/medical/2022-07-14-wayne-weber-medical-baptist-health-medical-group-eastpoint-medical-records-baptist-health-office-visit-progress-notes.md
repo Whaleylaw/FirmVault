@@ -1,19 +1,22 @@
 ---
 case_slug: wayne-weber
-created_at: 2026-02-17 00:40:21.716000+00:00
+created_at: {}
 document_category: medical
-document_date: 1947-07-13
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2022-01-01-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-Weber-MVA-01-01-2022/Medical/Baptist
-  Health Medical Group - Eastpoint/Medical Records/2022-07-14-Wayne-Weber-Medical-Baptist
-  Health Medical Group - Eastpoint-Medical-Records-Baptist-Health-Office-Visit-Progress-Notes.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-Weber-MVA-01-01-2022/Medical/Baptist Health Medical Group - Eastpoint/Medical Records/2022-07-14-Wayne-Weber-Medical-Baptist Health Medical Group - Eastpoint-Medical-Records-Baptist-Health-Office-Visit-Progress-Notes.pdf
 source_hash: sha256:cb975cf7c2d41c676a8671584b75a9900269a5cb8eee1c3bd7fc1fa12119d1df
+contact: "[[cases/2022-01-01-mva-001/contacts/baptist-health-medical-group-eastpoint]]"
 ---
+
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 
 Bq BAPTIST HEALTH BAPTIST HEALTH MEDICAL Weber, Wayne
 gr GROUP INTERNAL MEDICINE MRN: [PHONE-1], DOB: 7/13/1947, Sex: M

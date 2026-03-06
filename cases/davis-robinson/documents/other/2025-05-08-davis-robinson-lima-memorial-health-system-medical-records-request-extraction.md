@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-
 source_hash: sha256:74c66f33897d85252c5b398fdaf5736d4766b40c58521c21d5d7099ae3f4cc7e
 ---
 
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 category: medical_request
 date: 2025-05-08
 description: Faxed medical records request sent May 8, 2025 to Lima Memorial Health System. Response from facility dated May 13, 2025 indicating 10 pages available for $37.02. Request #RO10189998

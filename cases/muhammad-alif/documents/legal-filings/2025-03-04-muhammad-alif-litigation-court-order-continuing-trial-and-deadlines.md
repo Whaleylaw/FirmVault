@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:10daa0808452c0c4be63f6d32f9727b2d0c2c585ae0957e0b2bd612ceaf6c4b0
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 Tendered 23-Cl-0055('. [DOB-2] David L. Nicholst _:efferson Circuit Clerk
 COMMONWEALTH OF KENTUCKY
 JEFFERSON CIRCUIT COURT

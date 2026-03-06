@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:79ac17a55438fe5daee96ebd9e407d144b860e62050409eed500ccaba5384068
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 Subject: RE: extension request :: Claim# SF-USTT26089723 - Robin Willis Beck v. Danny Wimmer Presents, LLC; KY State Fair Board; et al
 From: [EMAIL-1]
 To: [EMAIL-17], sarena@whaleylawfirm.com, [EMAIL-16], [EMAIL-4]

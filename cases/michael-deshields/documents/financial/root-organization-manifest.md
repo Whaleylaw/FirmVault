@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:a9bfde30769555a084c0fbd47464bd15b9e09d97729895938a595b8afc113454
 ---
 
+**Case:** [[cases/michael-deshields/michael-deshields|Michael Deshields]]
+**Client:** [[cases/michael-deshields/contacts/michael-deshields|Michael Deshields]]
+
 accident_date: 2025-10-31
 case_type: MVA
 client_name: Michael-Deshields

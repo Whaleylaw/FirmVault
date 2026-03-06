@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:ae07dd09ef7cfb06abe5c04f9ea295c1fc02206ac4c6777e47dc6f385e2adce6
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 extraction.category: Medical Records
 extraction.date: 2025-02-20
 extraction.description: Itemized billing statement for chiropractic and physical therapy treatment

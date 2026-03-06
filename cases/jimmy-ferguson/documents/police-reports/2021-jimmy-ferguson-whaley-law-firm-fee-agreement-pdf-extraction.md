@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:30e59f723911d964d6aa760d60f2affff15a7677e4d8b98dcaa08725cce056af
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 category: Client
 date: 2021-01-01
 description: 12-page fee agreement and non-solicitation affidavit between Jimmy Ferguson and Whaley Law Firm signed in 2021, verified via DocuSign document ID 08897C19-767E-47AB-8E95-AF462AFFBFB9.

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:846e2dd246d5db1e06bb61461723fe290aa6a62782cbc77138c62522ee96e041
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: Fwd: Anella Noble v. Estate of Deshawn Ford, et al.
 From: [EMAIL-1]
 To: [EMAIL-2], sarena@whaleylawfirm.com

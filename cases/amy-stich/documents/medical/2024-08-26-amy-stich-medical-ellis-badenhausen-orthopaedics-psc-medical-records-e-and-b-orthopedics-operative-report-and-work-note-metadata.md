@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:ff4bd89bc2c0a3d844d169d28772587dd4594c129ec87b6008a1ab4e077c8057
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 content_length_chars: 1238
 document_metadata.attachments[0]: restriction note.pdf
 document_metadata.attachments[1]: Final operative report.pdf

@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:88451c89bf0d66cc6405998c0248992ce9e9da5d2fc8bde176ebbe25f81ff011
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 category: Medical
 date: 2025-01-02
 description: 26-page medical records package from Baptist Health Medical Group Neurology and Neurosurgery for Jimmy Ferguson's neck pain evaluation on 1/2/2025, transmitted via Sharecare electronic delivery on 4/1/2025.

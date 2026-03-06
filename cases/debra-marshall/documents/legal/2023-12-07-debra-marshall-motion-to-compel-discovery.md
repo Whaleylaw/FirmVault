@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:f8c5b88dc4eeae94b3e9033b08088a0c6b0368b1154150f9a4785d3b5ca7c13c
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 COMMONWEALTH OF KENTUCKY 
 BARREN CIRCUIT COURT 
 CIVIL ACTION NO. 23-CI-00659 

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:f570d76d20104fd938b946cf182249ef3b84e5c2662e9eddd9fe9db37b1a49cc
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: Your Louisville Metro Government public records request #24-4085 has been closed.
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

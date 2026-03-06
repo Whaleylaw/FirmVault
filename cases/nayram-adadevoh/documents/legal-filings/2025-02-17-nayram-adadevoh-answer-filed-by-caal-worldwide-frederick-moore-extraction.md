@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:f82ee60b2b73ad32f078ef94b6229b6069ad7dd9c47233e24ff8bd726711d5e9
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: legal_document
 date: 2025-02-17
 description: Answer filed by CAAL Worldwide and Frederick Moore dated February 17, 2025.

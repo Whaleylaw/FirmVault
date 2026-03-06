@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:76f86a5c64db2bf0a5fb2431e3c381add5c663c78db2373a719b58dd87c7fcfb
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 Subject: Re: Your Independent Medical Exam has been scheduled. March 26, 2024 11:30a
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

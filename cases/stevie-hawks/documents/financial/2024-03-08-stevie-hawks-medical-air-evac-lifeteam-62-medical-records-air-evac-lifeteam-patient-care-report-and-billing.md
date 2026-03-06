@@ -2,7 +2,12 @@
 case_slug: stevie-hawks
 document_category: financial
 legacy_case_id: 2024-03-08-MVA-001
+contact: "[[cases/2024-03-08-mva-001/contacts/air-evac-lifeteam-62]]"
 ---
+
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie-Hawks-MVA-3-8-2024/Medical/Air Evac Lifeteam 62/Medical Records/2024-03-08-Stevie-Hawks-Medical-Air Evac Lifeteam 62-Medical-Records-Air-Evac-Lifeteam-Patient-Care-Report-and-Billing.pdf"

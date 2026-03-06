@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Abby-S
 source_hash: sha256:5d97539b7ebc4584deeeb68dfafc39e695285d9e7f6fb7feefc48532319459b0
 ---
 
+**Case:** [[cases/abby-sitgraves/abby-sitgraves|Abby Sitgraves]]
+**Client:** [[cases/abby-sitgraves/contacts/abby-sitgraves|Abby Sitgraves]]
+
 Subject: Sitgraves & Adadevoh v. CAAL Worldwide (Jefferson 25-CI-000133)
 From: [EMAIL-1]
 To: [EMAIL-2], [EMAIL-5]

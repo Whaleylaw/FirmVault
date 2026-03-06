@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:19a0eb3920df5295758bf7dee572d3e661bcbd4ecc09ed8a25b481111cfc135b
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Subject: Re: Sarena Tuttle shared "2023.03.21 Mills Imaging CD to DC" with you
 From: sarena@whaleylawfirm.com
 To: [EMAIL-9]

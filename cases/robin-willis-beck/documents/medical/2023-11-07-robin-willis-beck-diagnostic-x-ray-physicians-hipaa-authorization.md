@@ -1,8 +1,8 @@
 ---
 case_slug: robin-willis-beck
-created_at: 2026-02-17 00:17:04.077000+00:00
+created_at: {}
 document_category: medical
-document_date: 2023-11-07
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2023-09-21-PrL-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-Willis-Beck-Premise-09-21-2023/Medical-Bills/2023-11-07-Robin-Willis-Beck-Diagnostic-X-ray-Physicians-HIPAA-Authorization.pdf
 source_hash: sha256:53120de44835939eed2a1fc0aaf8427378b348d9c883ee4adcbddaa64de715e3
+contact: "[[cases/2023-09-21-prl-001/contacts/diagnostic-x-ray-physicians]]"
 ---
+
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 
 HIP AA COMPLIANT MEDICAL AUTHORIZATION 
 (Authorization to Release Protected Health Care Information) 

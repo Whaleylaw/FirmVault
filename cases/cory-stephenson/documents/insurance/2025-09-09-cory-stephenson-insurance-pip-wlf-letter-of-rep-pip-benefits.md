@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cory-S
 source_hash: sha256:46c1c6851052a93d0bf111265e76a6f015f60b3424f62697f9df86c1cb607dd5
 ---
 
+**Case:** [[cases/cory-stephenson/cory-stephenson|Cory Stephenson]]
+**Client:** [[cases/cory-stephenson/contacts/cory-stephenson|Cory Stephenson]]
+
 Justin Chumbley 
 Justin Chumbley
 NN Aaron G. Whaley, Esq.

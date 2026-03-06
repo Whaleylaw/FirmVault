@@ -1,19 +1,22 @@
 ---
 case_slug: stevie-hawks
-created_at: 2026-02-17 00:23:53.872000+00:00
+created_at: {}
 document_category: medical
-document_date: 1958-01-26
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2024-03-08-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie-Hawks-MVA-3-8-2024/Medical/Med
-  Center Health Primary Care/Record Requests/2024-10-17-Stevie-Hawks-Medical-Med Center
-  Health Primary Care-Record-Requests-WLF-Medical-Record-Request-and-Authorization.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie-Hawks-MVA-3-8-2024/Medical/Med Center Health Primary Care/Record Requests/2024-10-17-Stevie-Hawks-Medical-Med Center Health Primary Care-Record-Requests-WLF-Medical-Record-Request-and-Authorization.pdf
 source_hash: sha256:fb52b9567e3263fdecee83fd04c93af0873e7c04f2eed0d5c685d26702b15e5a
+contact: "[[cases/2024-03-08-mva-001/contacts/med-center-health-primary-care]]"
 ---
+
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 
 2024-10-17 13:20 MFC Primary Care [PHONE-1] >> From: Atos Penatior Fa3500957 re: "rar ero)ooo-uese reyes
 [Date:| 10/7/2024

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Henrie
 source_hash: sha256:bb5c5eab358cae58a6584beb6287382d227855c10609d[POLICY-1]3a56145fe
 ---
 
+**Case:** [[cases/henrietta-jenkins/henrietta-jenkins|Henrietta Jenkins]]
+**Client:** [[cases/henrietta-jenkins/contacts/henrietta-jenkins|Henrietta Jenkins]]
+
 PROGRESSIVE CLAIMS
 PO BOX94670
 CLEVELAND, OH44101-9919

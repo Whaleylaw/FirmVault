@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:ddfbe2b4d2fcc80438c14b2a95c7f8ef18d6c8f8365f27442bacd7bfb4389fdc
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 Release of Information
 Baptist Health
 2600 Stanley Gault Pkwy.

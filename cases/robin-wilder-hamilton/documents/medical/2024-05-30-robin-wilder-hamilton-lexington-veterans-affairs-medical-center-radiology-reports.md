@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2023-06-15-MVA-001
 ---
 
+**Case:** [[cases/robin-wilder-hamilton/robin-wilder-hamilton|Robin Wilder Hamilton]]
+**Client:** [[cases/robin-wilder-hamilton/contacts/robin-wilder-hamilton|Robin Wilder Hamilton]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-Wilder-Hamilton-MVA-6-15-2023/Medical/2024-05-30-Robin-Wilder-Hamilton-Lexington-Veterans-Affairs-Medical-Center-Radiology-Reports.pdf"
 source_hash: "sha256:00047d685788d3dcaad28e7717e14a5e0831bdf436a72c60453e4b4d7433f5c9"

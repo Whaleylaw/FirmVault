@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:651d79f21f0d3094b1be2441782631845cabfe557339dc8646318d7c92465374
 ---
 
+**Case:** [[cases/james-sadler/james-sadler|James Sadler]]
+**Client:** [[cases/james-sadler/contacts/james-sadler|James Sadler]]
+
 Client Information
 Client Name: James Sadler
 Phone Number: [PHONE-1]

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:576a7acc7557bb54f25f1d7348a821f9de078633f448d0dd0bba6e4a88f9b767
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 GCOOPQ\ KENTUCKY UNO a euCe KYeCourts - eFiling
 (https://kycourts.gov/)
 Envelope Number: 8234198 Issue an Alias Summons in MORGAN CIRCUIT COURT

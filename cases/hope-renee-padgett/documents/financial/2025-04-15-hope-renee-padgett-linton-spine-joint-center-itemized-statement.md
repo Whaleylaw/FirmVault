@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Hope-R
 source_hash: sha256:0148568b3032b397baf903e75b51049d51f0544240f84ff87064e89721b1a055
 ---
 
+**Case:** [[cases/hope-renee-padgett/hope-renee-padgett|Hope Renee Padgett]]
+**Client:** [[cases/hope-renee-padgett/contacts/hope-renee-padgett|Hope Renee Padgett]]
+
 APR/15/2025/TUE 09:14 AM FAK No, P,O04
 Linton Spine & Jeint Center, LLC
 1607 Branden Way

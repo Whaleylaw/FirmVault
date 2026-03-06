@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nicole
 source_hash: sha256:44bec011b445346a6187019c287acd9b0322f289a429686a3792128ee255981c
 ---
 
+**Case:** [[cases/nicole-tewes/nicole-tewes|Nicole Tewes]]
+**Client:** [[cases/nicole-tewes/contacts/nicole-tewes|Nicole Tewes]]
+
 AFTER VISIT SUMMARY
 
 Nicole L. Tewes DoB: 9/28/1987

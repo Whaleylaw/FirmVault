@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:72672f040850bcca92e15788506be306f3a96e0d70fed56094b384a75e12832d
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 Subject: Claim 238042 - Christopher A. Wilkerson - WC LOR
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ceceli
 source_hash: sha256:26f1acfd8dd485d48b3aa2569a16ef8edc3bab9f4ee22d0a3e66847f4ceaef60
 ---
 
+**Case:** [[cases/cecelia-neltner/cecelia-neltner|Cecelia Neltner]]
+**Client:** [[cases/cecelia-neltner/contacts/cecelia-neltner|Cecelia Neltner]]
+
 Exhibit__|
 C. Neltner
 BUC INDEPENDENCE LLC Date G-(3-24 Dee OPPs.

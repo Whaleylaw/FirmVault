@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:227999e1fa579d9b30c1be44e61fa44694e24786b4d555fdd68a382b4799dfb3
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 Risk Management \] NORTON 4967Ustighway42, Suite101
 HEALTHCARE Louisville, KY 40222-6363
 [PHONE-4]

@@ -1,8 +1,8 @@
 ---
 case_slug: jimmy-ferguson
-created_at: 2026-02-16 23:58:12.380000+00:00
+created_at: {}
 document_category: medical
-document_date: 2024-10-09
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2024-05-30-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 95
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-Ferguson-MVA-5-30-2024/extractions/KORT-Elizabethtown-PT-record-DOS-10.09.24-p1_extraction.json
 source_hash: sha256:2f6e0d5403c06bdd21c9dca43318eabd5b12217888d53989d190055a117769b4
+contact: "[[cases/2024-05-30-mva-001/contacts/kort-elizabethtown-pt]]"
 ---
+
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 
 date: 2024-10-09
 description: Photo of Page 1 of the physical therapy treatment record for Jimmy Ferguson from KORT Elizabethtown PT, for the date of service October 9, 2024.

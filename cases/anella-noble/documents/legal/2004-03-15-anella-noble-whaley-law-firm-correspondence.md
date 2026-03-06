@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:798a95655308691e8da6bf3e08cce692a5c0fe3a0634afabcd5b7887099142d3
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 NO. 21-CI-004985 JEFFERSON CIRCUIT COURT
 
 DIVISION FIVE (5) JUDGE MARY SHAW Electronically filed ANELLA NOBLE PLAINTIFF V. VIRGINIA SEWELL; STATE FARM MUTUAL AUTOMBILE INSURANCE COMPANY; UNKNOWN DRIVER DEFENDANTS

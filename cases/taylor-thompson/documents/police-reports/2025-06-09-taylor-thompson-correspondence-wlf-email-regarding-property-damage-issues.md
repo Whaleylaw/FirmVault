@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor
 source_hash: sha256:fdc87212192ab31188cc73bd9bd4b1ac9ab9fce3915614ed94371aee8232ab07
 ---
 
+**Case:** [[cases/taylor-thompson/taylor-thompson|Taylor Thompson]]
+**Client:** [[cases/taylor-thompson/contacts/taylor-thompson|Taylor Thompson]]
+
 Subject: RE: Incoming SMS Message Alert from Taylor Thompson
 From: [EMAIL-1]
 To: [EMAIL-2]

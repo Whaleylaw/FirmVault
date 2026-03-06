@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:300a9b23b0c53f94fd4e7168121bb7ed72383b6ecff6ab13546f9126957ebc8f
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 RELEASE AND CONSENT TO DISCLOSURE
 I James Kiper
 >

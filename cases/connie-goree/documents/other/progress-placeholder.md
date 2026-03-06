@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Connie
 source_hash: sha256:c94b46671d898f8870c77b08ea2c14c251eeee47d8038a49839a452686ccb64e
 ---
 
+**Case:** [[cases/connie-goree/connie-goree|Connie Goree]]
+**Client:** [[cases/connie-goree/contacts/connie-goree|Connie Goree]]
+
 case_folder: Connie-Goree-MVA-[DOB-1]
 job_id: placeholder
 phases.Phase 2a - Extraction.completed_at: 2026-02-04T02:36:59.023444

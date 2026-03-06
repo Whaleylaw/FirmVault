@@ -2,7 +2,12 @@
 case_slug: wayne-weber
 document_category: medical
 legacy_case_id: 2022-01-01-MVA-001
+contact: "[[cases/2022-01-01-mva-001/contacts/norton-brownsboro-hospital]]"
 ---
+
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-Weber-MVA-[DOB-29]/2022.01.01 MR Norton Brownsboro Hospital.pdf"

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:4b85874cd662d54ff8882198072c608713d804f448ef9242fdf571e1f0b67a73
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 Baptist Health – Radiology - MRI
 2400 Eastpoint Parkway #550
 Louisville, KY 40223

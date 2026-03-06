@@ -1,11 +1,10 @@
 ---
 case_slug: brenda-lang
-created_at: 2026-02-16 22:09:35.192000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1952-09-01
+document_date: {}
 document_type: correspondence
-entities:
-- Humana
+entities: null
 extraction_method: native_text
 legacy_case_id: 2021-09-03-MVA-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda-Lang-MVA-09-03-2021/Liens/2023-05-19-Brenda-D-Lang-Humana-HIPAA-Authorization-2.pdf
 source_hash: sha256:a065e6127233d9a1f34459527e0eeacb079696536cb222d8d7f699197b8c7c13
+contact: "[[cases/2021-09-03-mva-001/contacts/humana]]"
 ---
+
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 
 Fax Confirmation
 To: [PHONE-1] From: [PHONE-13]

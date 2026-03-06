@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:09df09d89f5af46b1e18b39a5ff1b56b686cb9a5c0cb19daec87a84479ce95f6
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: Insurance
 date: 2024-12-03
 description: Insurance letter related to injuries for BCBS IL. Medical Lien (ML) or Insurance Letter Request (ILR). Dated December 3, 2024.

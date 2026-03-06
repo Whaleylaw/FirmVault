@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:ffc03861452af79108393188c5cb171d2a47d3ff825ab3d55e5c834ea45d075e
 ---
 
+**Case:** [[cases/michael-johnston/michael-johnston|Michael Johnston]]
+**Client:** [[cases/michael-johnston/contacts/michael-johnston|Michael Johnston]]
+
 item_0.jsonb_agg[0].full_name: Michael Johnston
 item_0.jsonb_agg[0].project_name: Michael-Johnston-WC-[DOB-8]
 item_0.jsonb_agg[0].roles[0]: client

@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cynthi
 source_hash: sha256:3d1c05b22c8ffd8ae3c6c3a3a130c2bce598046778b161539517bdea8dd92f57
 ---
 
+**Case:** [[cases/cynthia-gibson/cynthia-gibson|Cynthia Gibson]]
+**Client:** [[cases/cynthia-gibson/contacts/cynthia-gibson|Cynthia Gibson]]
+
 accident_date: 2025-07-09
 case_type: MVA
 client_name: Cynthia-Gibson

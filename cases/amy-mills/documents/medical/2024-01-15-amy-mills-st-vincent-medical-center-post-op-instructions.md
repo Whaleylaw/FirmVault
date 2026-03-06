@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2019-04-26-PrL-001
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-[DOB-1]/Review_Needed/2024-01-15-Amy-Mills-St-Vincent-Medical-Center-Post-Op-Instructions.pdf"
 source_hash: "sha256:e1858fcb73447576a0f26b885d58ab403156ad6a27fe1cff8a[PHONE-1052]c86b"

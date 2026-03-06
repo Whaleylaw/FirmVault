@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:612983f681e7946f901584a134ed2658dbd6f4b43c01d88b3ce80c1338127d1a
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Subject: Re: Your Personal Injury Claim - New Request for Information
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

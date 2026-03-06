@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:9adc707078fc4d9b7724e8cafb13d71d91e25e4c3ebce934d55141dcb19a016c
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 Subject: Re: Muhammad Alif Doctor Visits
 From: [EMAIL-4]
 To: sarena@whaleylawfirm.com

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:e8bad6ce6ae9fff58c1d4b35f096f0cda05eaf5e38bffad6052ebb286f10c29f
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 8/11/23, 2:40 PM To: [PHONE-18] From: [PHONE-17] Hall Page 1/6 le
 aid Qn AR Maviagement
 PACSIMILE TRANSMITTAL SHEET

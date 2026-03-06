@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:538d1afad68b0ba0ce1b6795c27c2e63dfcb8ec2679e64462959e91575ea3a16
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 NO. 20-CI-00112KNOX CIRCUIT COURT** **
 
 Division two (2)

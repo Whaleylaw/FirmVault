@@ -25,6 +25,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:eebb30f4a0c2ea468c14bf8ba5db001e2676eaee637ad00555de9a0f82c92b26
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 BH CORPORATE EASTERN
 TIME ZONE
 2600 STANLEY GAULT PKWY

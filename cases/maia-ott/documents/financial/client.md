@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maia-O
 source_hash: sha256:23829b1d7f7baafb55ee6cb1618ae3cdbd6160d3d2a95ea1428daaecf59fb133
 ---
 
+**Case:** [[cases/maia-ott/maia-ott|Maia Ott]]
+**Client:** [[cases/maia-ott/contacts/maia-ott|Maia Ott]]
+
 date_of_birth: [DOB-1]
 imported_at: 2026-02-16T21:09:42.781Z
 name: Maia Ott

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:e9f8884833e83f67713d142881dda2f16ac3e4a013d2fe66d29c24b04b67d0e2
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 Medical Records - CONFIDENTIAL
 FROM: KY - Commonwealth Pain Associates PLLC
 Vanessa F

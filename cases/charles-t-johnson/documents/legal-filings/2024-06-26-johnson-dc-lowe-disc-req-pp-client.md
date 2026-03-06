@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:6c0671e41533408d22eda6b98e98ce04e9321b0692d07ddce9c721af19aebcae
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 NO.  24-CI-2475  JEFFERSON CIRCUIT COURT
 
 DIVISION TEN (10) 

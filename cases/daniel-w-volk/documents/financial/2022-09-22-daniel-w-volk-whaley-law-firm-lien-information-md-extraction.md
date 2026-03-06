@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel
 source_hash: sha256:5e5d227ca9d88da562612d0e4c4f1b01da8a7d69bc0b067afd67486168d9e006
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 extraction.classification.bucket: Lien
 extraction.classification.confidence: medium
 extraction.classification.document_type: lien

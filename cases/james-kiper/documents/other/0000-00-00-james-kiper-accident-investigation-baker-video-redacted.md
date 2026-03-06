@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:dee1bd6ee7797cbf0bb14812e2b72142859a35ffe2355a8bff3684b2ec0980b5
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 # Video Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Kiper-MVA-12-5-2022/Accident-Investigation/0000-00-00-James-Kiper-Accident-Investigation-Baker-Video-Redacted.mp4

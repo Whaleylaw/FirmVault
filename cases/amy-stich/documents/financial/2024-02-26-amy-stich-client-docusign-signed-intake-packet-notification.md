@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:81b1d92efbdf07011e0011b09f95051837c1fa0d2aa82386bb004a70eca30de6
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 Subject: Completed: The Whaley Law Firm has requested your signature.
 From: [EMAIL-2]
 To: [EMAIL-2]

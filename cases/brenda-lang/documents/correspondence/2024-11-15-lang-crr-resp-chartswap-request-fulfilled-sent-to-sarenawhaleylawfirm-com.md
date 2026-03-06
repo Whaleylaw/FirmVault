@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:862a7c25ce45ba537862dd66b0033c5729ceb5e5bad25628a6dc24f1c6c975e8
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 Subject: ChartSwap: Issue Addressed by Louisville Emergency Medical Associates PSC
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee
 source_hash: sha256:8e24f77b04edaff08bf5c5432758b14f038a4742eb554b4129227aceee772f8e
 ---
 
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 11/10/23
 THE WHALEY LAW FIRM
 712 Lyndon Ln. Louisville, KY 40222

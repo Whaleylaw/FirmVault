@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:bf9b2a2ff2e502dfd0f3e3473fdf23c5ea922f3464e320dd0308e346b66ec612
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 Fax Confirmation
 To: [PHONE-14] From: [PHONE-13]
 Doc:

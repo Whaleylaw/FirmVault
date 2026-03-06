@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2021-09-03-MVA-001
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda-Lang-MVA-[DOB-24]/Medical/2021-09-03-Brenda-D-Lang-Okolona-Fire-Protection-District-Headache-treatment.pdf"
 source_hash: "sha256:2a27c6a18db3e6fc03e2b685ccad734c480c9ea7e57764e4dd614e[PHONE-23]"

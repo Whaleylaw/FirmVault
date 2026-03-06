@@ -20,6 +20,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:5782341b29da740d8f27ff395a5a79d1e65404bbd0a7e2c97c3b9650a2527e42
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 CERTIFICATION OF MEDICAL RECORDS AFFIDAVIT
 Oovoth. { Omnun being first duly swom on his/her oath, says that:
 (Name o¥records custodian/clerk)

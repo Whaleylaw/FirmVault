@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:0419b79a7ce42c74adeac5097cefff9cb25709326196dd1766325300a9a5760e
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 item_0.jsonb_agg[0].address: 2652 Rowan St, , Louisville, KY 40212
 item_0.jsonb_agg[0].full_name: Charles T. Johnson
 item_0.jsonb_agg[0].phone: [PHONE-6] Home

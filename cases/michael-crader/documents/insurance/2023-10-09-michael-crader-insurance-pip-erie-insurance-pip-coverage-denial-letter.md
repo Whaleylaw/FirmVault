@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:535e3c08486a5a9dac350d02c3f701b04b6a3a7a9c865dd893358bbdb9fd9ee5
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 @Erie
 ASU nsurance
 Branch Office +1146 Monarch Street +Suite 140 +Lexington, KY 40513

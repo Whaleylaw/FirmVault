@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:f01ca40bda1309f2bd4d3a6cadf805798276e36cb5e2b3a953b597fe130ee77a
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 September 17, 2024
 Dear Secretary Of State Commonwelth of Kentucky:
 The following is in response to your request for proof of delivery on your item with the tracking number:

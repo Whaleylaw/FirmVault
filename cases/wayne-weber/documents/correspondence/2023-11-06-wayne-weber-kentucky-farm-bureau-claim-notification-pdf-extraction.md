@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:cf0f8e79ed083de37c64e6c7af2eb70d2437b6fa3b7d7b988a435f263088092b
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: insurance_correspondence
 extraction.date: 2023-11-06
 extraction.description: Claim notification sent to Kentucky Farm Bureau Insurance regarding Wayne Weber's PIP claim, dated November 6, 2023.

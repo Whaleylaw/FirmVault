@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:ac557d1631b8ebb85e06d587e20d740c1824572b905787acf387ab0c19c97e58
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 category: Insurance
 description: Letter of Representation to PIP adjuster
 entities[0]: Alma Cristobal

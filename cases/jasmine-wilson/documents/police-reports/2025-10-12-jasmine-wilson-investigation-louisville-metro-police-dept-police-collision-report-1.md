@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jasmin
 source_hash: sha256:c0f38758efc4aa89c47c481ea86608a4e2a44327a3937d330c45d9acb26460d1
 ---
 
+**Case:** [[cases/jasmine-wilson/jasmine-wilson|Jasmine Wilson]]
+**Client:** [[cases/jasmine-wilson/contacts/jasmine-wilson|Jasmine Wilson]]
+
 INVESTIGATOR BEAT OR POST #
 TOTAL LANES
 NO

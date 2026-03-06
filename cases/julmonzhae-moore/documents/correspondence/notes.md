@@ -20,6 +20,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmon
 source_hash: sha256:663a2341c0121bd971c97a1d31a19875ff5404a51696f21b50e92a040e4a2155
 ---
 
+**Case:** [[cases/julmonzhae-moore/julmonzhae-moore|Julmonzhae Moore]]
+**Client:** [[cases/julmonzhae-moore/contacts/julmonzhae-moore|Julmonzhae Moore]]
+
 item_0.author_name: Bryce Koon
 item_0.episode_type: imported
 item_0.last_activity: 2025-11-13T00:00:00

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:21d90ecb081a5857b8d0445fedeaac3ae18acec35933a21343b765d5e86ac4b5
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: Open Records Request 24-4085
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

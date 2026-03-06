@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel
 source_hash: sha256:8ae97cdb2a2721db077cb8738e9dd044c668a3a6538cd7423a23a9cb5c6eb2ad
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 HEALTH
 APTIVA =
 |aproream—7 rei eos

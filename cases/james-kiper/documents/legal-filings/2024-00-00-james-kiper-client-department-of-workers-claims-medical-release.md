@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:66f38555dc969a77d1bedb37f6b3a6be060f5a236f5e89373c22b962db37f04c
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 Social Security Administration Form Approved
 Consent for Release of Information OMB No. 0960-0566
 You must complete all required fields. We will not honor your request unless all required fields are completed. (*Signifies a

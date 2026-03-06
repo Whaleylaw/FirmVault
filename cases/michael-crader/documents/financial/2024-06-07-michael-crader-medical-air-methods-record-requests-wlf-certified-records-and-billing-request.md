@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:000e5bb976939d2e6d7589f15ec76584972f94bc513bf77f78365657bc012568
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 Subject: Certified Medical Records & Billing Request - Must be Certified
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

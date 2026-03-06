@@ -1,8 +1,8 @@
 ---
 case_slug: brenda-lang
-created_at: 2026-02-16 22:09:21.414000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 2021-09-03
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2021-09-03-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda-Lang-MVA-09-03-2021/Correspondence/2023-05-22-Brenda-D-Lang-TARC-Risk-Management-Services-Company-Representation-Letter.pdf
 source_hash: sha256:a287f562a3d3f807f79fe5448c4238a61da2e10d6ec60998b6ad6f1eb05c3904
+contact: "[[cases/2021-09-03-mva-001/contacts/tarc-risk-management-services-company]]"
 ---
+
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 
 Aaron G. Whaley, Esq.
 712 Lyndon Lane

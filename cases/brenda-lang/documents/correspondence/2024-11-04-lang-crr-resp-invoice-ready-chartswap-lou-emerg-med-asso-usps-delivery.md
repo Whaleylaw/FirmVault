@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:16fd4779b7aae85ce1993ad0c63d5d668fca1bb76fcca8f5d8aed3914d44da2a
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 Subject: Your Record Request Has Been Fulfilled
 From: [EMAIL-2]
 To: sarena@whaleylawfirm.com

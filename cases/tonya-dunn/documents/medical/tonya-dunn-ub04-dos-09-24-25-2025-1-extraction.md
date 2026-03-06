@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Tonya-
 source_hash: sha256:456bf4c7b8cf4058619a4a1dbe3e9ee033552c9aa953793d0bedcb9142b28aca
 ---
 
+**Case:** [[cases/tonya-dunn/tonya-dunn|Tonya Dunn]]
+**Client:** [[cases/tonya-dunn/contacts/tonya-dunn|Tonya Dunn]]
+
 category: Medical Records
 description: UB04 hospital bill duplicate
 entities[0]: Hospital/Healthcare Provider

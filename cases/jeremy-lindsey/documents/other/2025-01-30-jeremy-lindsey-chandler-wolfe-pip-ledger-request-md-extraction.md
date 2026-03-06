@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:c11b1295c78e2194108f91cd3bfb3f9a6ec27d0e8e481996fe9710393bcea909
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: insurance
 date: 2025-01-30
 description: Request for updated PIP ledger from Auto Owners Insurance adjuster Chandler Wolfe

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:8d7981c673d2aafb9c41d75b7275fa1f3cec0f53e18db23be8b5c3ccb98fd0d1
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 Subject: RE: KFBMIC (a/s/0 Edie Renick) v. Debra Marshall (Barren District Court 23-C-01110)
 From: [EMAIL-1]
 To: [EMAIL-2]

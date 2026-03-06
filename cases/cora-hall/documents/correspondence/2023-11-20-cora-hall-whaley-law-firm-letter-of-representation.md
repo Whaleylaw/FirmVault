@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:2ac0299006568c35b12490d76c2fd86f50a0d5f6cd2d5749397cbc51a5056f33
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 November 20, 2023 
 W. Bryce Koon, Esq. 
 The Whaley Law Firm 

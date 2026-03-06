@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:aa4f1e6f7153b74490f53ef8c95be97bdab724fccc844e28ee2e7c75a12b45f6
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 Interventional Pain Specialists
 165 Natchez Trace Ave Ste 205 Bowling Green KY 421037947
 Tel: [PHONE-1] Ext OPT 6 Fax: [PHONE-2]

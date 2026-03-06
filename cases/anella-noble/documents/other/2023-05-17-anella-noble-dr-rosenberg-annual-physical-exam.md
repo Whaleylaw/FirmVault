@@ -12,4 +12,7 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:d90f52249b04354ad9bfcc983d13a87733f8ac0614d4d9e25d92d4e8fdaf2d4c
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Error: Parsing error: Invalid PDF: PdfiumLibraryInternalError: FormatError

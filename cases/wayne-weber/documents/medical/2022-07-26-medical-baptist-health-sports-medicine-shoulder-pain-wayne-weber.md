@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:1e71cde9c64b5383259f1562720b9d7dc6e9bcd32ce4cdb14ac6d4768f584b67
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 Recv'd Date: 20220818 Bill ID: 100125913904
 BF psprist HEALTH’ BAPTIST HEALTH MEDICAL Weber, Wayne tee
 oa GROUP MRN: [PHONE-2], DOB: 7/13/1947, Sex: M **

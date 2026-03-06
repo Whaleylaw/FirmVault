@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Samuel
 source_hash: sha256:d4f9d7010ce785d9191ae487d933a9a6d6121d67e224145bfda24f2bce4f09d2
 ---
 
+**Case:** [[cases/samuel-clites/samuel-clites|Samuel Clites]]
+**Client:** [[cases/samuel-clites/contacts/samuel-clites|Samuel Clites]]
+
 case_folder: Samuel-Clites-MVA-4-23-2024
 categories_created[0]: Medical_Records
 categories_created[1]: Insurance

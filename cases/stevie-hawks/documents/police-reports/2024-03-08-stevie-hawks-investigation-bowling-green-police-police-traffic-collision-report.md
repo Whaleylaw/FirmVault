@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie
 source_hash: sha256:07c10fd908cdb3945c607995148767a933397415abbc0055a7dac50f925aeaeb
 ---
 
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 ae a3 . ix. ait ai iifees S¥ ay
 
 A: . GZE N EA

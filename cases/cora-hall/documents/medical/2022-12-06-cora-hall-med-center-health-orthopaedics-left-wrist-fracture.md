@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:2d817ce7ae616305bd9d3e4410ffbec9d688e5a6707409a7ab6447a8b1d50ec9
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 2024-11-27 13:22 MCBG Ortho [PHONE-66] >> P14
 ¥ Med Center Health, : , , HedltaCare
 ‘Orthopaedics & Sports Medicine . Rasosh Dosal, MD, FAAOS

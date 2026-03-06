@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:41fcaf103624c489d9e11d1e694d639ea57497b7bef194b223bfd558f2fe98db
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 address: 1233 Citation Dr, Union, KY 41091
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

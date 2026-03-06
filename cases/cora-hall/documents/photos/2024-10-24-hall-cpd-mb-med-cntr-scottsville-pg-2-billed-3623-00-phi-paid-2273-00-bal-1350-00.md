@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:ca2f0ef1d6bec3057bfeb0592cff11f6730840d6544b0c2d6bd3ab152d922a12
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-Hall-WC-[DOB-1]/Photos/2024.10.24-Hall-CPD-MB-Med-Cntr-Scottsville-Pg-2-Billed-3623.00-PHI-Paid-2273.00-Bal-1350.00.jpg

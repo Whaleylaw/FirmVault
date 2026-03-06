@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:0bb61bc43a7b3e9b961461a2b7468509267ada4aa73c19546c6c5b3ebc9d4172
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Page 1 of 1 COMMONWEALTH OF KENTUCKY NOT ORIGINAL DOCUMENT
 UNIFORM CITATION(/80405 1220 10028 AGENCY OF! -
 LOUISVILLE METRO POLICE DEPT 0568000 ~

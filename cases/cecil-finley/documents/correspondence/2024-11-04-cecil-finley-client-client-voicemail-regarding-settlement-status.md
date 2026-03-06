@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:5dd9544a652ea851c0eb5af27e57e6fe2e32e8be09172e8552805136182383c1
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 Subject: Fwd: New Voice Message from WIRELESS CALLER [PHONE-13] on [DOB-2] 2:52 PM
 From: [EMAIL-3]
 To: sarena@whaleylawfirm.com, [EMAIL-4]

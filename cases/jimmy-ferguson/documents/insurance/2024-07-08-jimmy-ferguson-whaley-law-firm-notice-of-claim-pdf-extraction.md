@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:f5e860c6989a1806160d111bc16cf9e6bcee473896f705baeae31faf230ecf94
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 category: Insurance
 date: 2024-07-08
 description: Notice of claim letter to Kentucky Farm Bureau advising of representation of Jimmy Ferguson for motor vehicle collision on 6/30/2024, reserving PIP benefits and UM/UIM rights.

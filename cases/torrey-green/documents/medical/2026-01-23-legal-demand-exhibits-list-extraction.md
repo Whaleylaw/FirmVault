@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:8e03e3e01998a13091a85159238977df44556a7d2280121c87be633fb28cc6ac
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 category: negotiation
 date: 2026-01-23
 description: Organized copy of demand package exhibits list dated January 23, 2026. Lists all exhibits and supporting documents for settlement demand.

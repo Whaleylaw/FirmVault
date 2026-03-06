@@ -1,21 +1,23 @@
 ---
 case_slug: muhammad-alif
-created_at: 2026-02-17 00:11:35.734000+00:00
+created_at: {}
 document_category: medical
-document_date: 1961-04-16
+document_date: {}
 document_type: medical
-entities:
-- Park Ridge Medical Center
+entities: null
 extraction_method: native_text
 legacy_case_id: 2022-11-08-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Parkridge
-  Medical Center/Record Requests/2023-01-18-Muhammad-Alif-Medical-Parkridge Medical
-  Center-Record-Requests-WLF-Medical-Authorization-And-Records-Affidavit.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Parkridge Medical Center/Record Requests/2023-01-18-Muhammad-Alif-Medical-Parkridge Medical Center-Record-Requests-WLF-Medical-Authorization-And-Records-Affidavit.pdf
 source_hash: sha256:3965ae3ad0fc53c41a5d2a473b6e1368521a159071de3e6112ccec36a8658271
+contact: "[[cases/2022-11-08-mva-001/contacts/parkridge-medical-center]]"
 ---
+
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

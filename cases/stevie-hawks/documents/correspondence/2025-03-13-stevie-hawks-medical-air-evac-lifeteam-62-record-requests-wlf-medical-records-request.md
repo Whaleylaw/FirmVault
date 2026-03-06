@@ -1,19 +1,22 @@
 ---
 case_slug: stevie-hawks
-created_at: 2026-02-17 00:23:52.697000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1958-01-26
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2024-03-08-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie-Hawks-MVA-3-8-2024/Medical/Air
-  Evac Lifeteam 62/Record Requests/2025-03-13-Stevie-Hawks-Medical-Air Evac Lifeteam
-  62-Record-Requests-WLF-Medical-Records-Request.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie-Hawks-MVA-3-8-2024/Medical/Air Evac Lifeteam 62/Record Requests/2025-03-13-Stevie-Hawks-Medical-Air Evac Lifeteam 62-Record-Requests-WLF-Medical-Records-Request.pdf
 source_hash: sha256:2c5b926d73f200eb2428389f7cbb3ba1894c395e50708d0f0c360ea255b27b5d
+contact: "[[cases/2024-03-08-mva-001/contacts/air-evac-lifeteam-62]]"
 ---
+
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 
 Aaron G. Whaley, Esq.
 712 Lyndon Lane

@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:2398b6cbecfc98cd1c88ae730c803f889b7d04392994e99297aeb06befaf7454
 ---
 
+**Case:** [[cases/michael-lanier/michael-lanier|Michael Lanier]]
+**Client:** [[cases/michael-lanier/contacts/michael-lanier|Michael Lanier]]
+
 address: 1962 Hirsch Court, Union, KY 41091
 date_of_birth: [DOB-1]
 imported_at: 2026-02-16T21:09:42.776Z

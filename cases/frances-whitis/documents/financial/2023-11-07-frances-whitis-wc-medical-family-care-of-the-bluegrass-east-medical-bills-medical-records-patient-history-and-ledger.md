@@ -1,21 +1,23 @@
 ---
 case_slug: frances-whitis
-created_at: 2026-02-16 23:42:33.953000+00:00
+created_at: {}
 document_category: financial
-document_date: 2025-03-05
+document_date: {}
 document_type: financial
-entities:
-- Dr. Russell Springs
+entities: null
 extraction_method: native_text
 legacy_case_id: 2024-09-06-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Frances-Whitis-WC-MVA-9-6-2024/Medical/Family
-  Care Of The Bluegrass - East/Medical Bills/2023-11-07-Frances-Whitis-WC-Medical-Family
-  Care Of The Bluegrass - East-Medical-Bills-Medical-Records-Patient-History-and-Ledger.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Frances-Whitis-WC-MVA-9-6-2024/Medical/Family Care Of The Bluegrass - East/Medical Bills/2023-11-07-Frances-Whitis-WC-Medical-Family Care Of The Bluegrass - East-Medical-Bills-Medical-Records-Patient-History-and-Ledger.pdf
 source_hash: sha256:d07f872e8b5f072f4558de4a6a5de6bbc71969c2522aa12b38cf076ee07bdf1d
+contact: "[[cases/2024-09-06-mva-001/contacts/family-care-of-the-bluegrass-east]]"
 ---
+
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 
 840
 |

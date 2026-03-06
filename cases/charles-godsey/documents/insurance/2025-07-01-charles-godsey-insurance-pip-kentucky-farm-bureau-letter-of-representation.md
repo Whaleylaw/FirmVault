@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:6c67534c59aa5216a5d17b86bd14d663a2c2564c3460a2727c32b6a0869dca1d
 ---
 
+**Case:** [[cases/charles-godsey/charles-godsey|Charles Godsey]]
+**Client:** [[cases/charles-godsey/contacts/charles-godsey|Charles Godsey]]
+
 Justin Chumbley 
 Justin Chumbley
 Aaron G. Whaley, Esq.

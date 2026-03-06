@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:ca6560d4793e6db4860aa3f2875662546f429ad30a6ab1f6b34139ab03b98af5
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 Nees: 12041319 [DOB-1]
 
 19411008. JPG

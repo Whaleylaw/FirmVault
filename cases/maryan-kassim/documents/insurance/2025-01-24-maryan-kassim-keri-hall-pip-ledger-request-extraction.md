@@ -1,11 +1,10 @@
 ---
 case_slug: maryan-kassim
-created_at: 2026-02-17 00:05:18.721000+00:00
+created_at: {}
 document_category: insurance
-document_date: 2025-01-24
+document_date: {}
 document_type: insurance
-entities:
-- Progressive
+entities: null
 extraction_method: native_text
 legacy_case_id: 2024-08-06-MVA-001
 mime_type: application/json
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan-Kassim-MVA-08-06-2024/extractions/2025-01-24-Maryan-Kassim-Keri-Hall-PIP-Ledger-Request_extraction.json
 source_hash: sha256:9dbf45dfb5db393aedd35103228e848bc342ce98ea145f3856e81b6f18134dd8
+contact: "[[cases/2024-08-06-mva-001/contacts/keri-hall]]"
 ---
+
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 
 category: Insurance
 description: Letter from Whaley Law Firm to Progressive adjuster Keri Hall requesting updated PIP ledger showing all payments made to date and status of denied or pending medical bills for claim 24-711062492.

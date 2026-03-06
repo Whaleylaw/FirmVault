@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:b547cbc3ac5d428a8470abbb13fc2a4db2e0950a7db1ee1a217c1cd5278af779
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 Wayne-Weber-MVA-[DOB-33]/extractions/2024-08-14-Wayne-Weber-CENTERSFORMEDICAREandMEDICAIDSERVICES-Conditional-Payment-Letter.pdf_extraction.json
 Wayne-Weber-MVA-[DOB-32]/extractions/2024-08-29-Wayne-Weber-Whaley-HIPAA-Authorization.pdf_extraction.json
 Wayne-Weber-MVA-[DOB-31]/extractions/2024-10-04-Wayne-Weber-Interrogatories-supplement-response.pdf_extraction.json

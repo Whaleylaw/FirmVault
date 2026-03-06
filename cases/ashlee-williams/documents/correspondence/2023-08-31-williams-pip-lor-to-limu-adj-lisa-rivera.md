@@ -1,11 +1,10 @@
 ---
 case_slug: ashlee-williams
-created_at: 2026-02-16 22:07:55.614000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 2023-08-29
+document_date: {}
 document_type: correspondence
-entities:
-- Liberty Mutual
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-08-29-MVA-001
 mime_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee-Williams-MVA-08-29-2023/Insurance/2023.08.31-Williams-PIP-LOR-to-LiMU-Adj-Lisa-Rivera.docx
 source_hash: sha256:b54db1b8657fdeb3fd55c606fa92af54fa1149e54f89a48f371a5e0e3c628556
+contact: "[[cases/2023-08-29-mva-001/contacts/lisa-rivera]]"
 ---
+
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 
 *Aaron G. Whaley, Esq.*
 *712 Lyndon Lane*

@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:5729b5bd82961d1603cc2be7db74b255d2811d66202c9abb70448ae512ef43d2
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 item_0.certificate_of_service: 2024-04-10
 item_0.filing_party_name: Bryce Koon
 item_0.pleading_type: Complaint

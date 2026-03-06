@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:8a1eb2b41a688ccaac7008c7401787522f81f0ee25dbb608b2db91a51d98dbe9
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 ADVA nCHED iNgURY REHAB
 102 Manor Ave Ste. 202, Bardstown KY, 40004
 Phone: [PHONE-4], Fax: [PHONE-3]

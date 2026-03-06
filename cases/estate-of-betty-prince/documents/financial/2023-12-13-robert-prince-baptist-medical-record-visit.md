@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:8361e606e73106d9764289369f9a6f767c621610684f32899d493a2a6a53b164
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 14/34/26 15:23:14 RFC/ CORP > 18335123788 RFC/ CORP Page HH1
 
 3055 LEBANON PIKE NASHVILLE, TN 37214

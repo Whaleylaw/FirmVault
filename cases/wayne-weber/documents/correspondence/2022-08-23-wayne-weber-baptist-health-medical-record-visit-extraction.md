@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:d518911f8d35fa58c380487f4a91b411e99af91a9d228fc9f33d0d196fd422bf
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: medical_records
 extraction.date: 2022-08-23
 extraction.description: Baptist Health medical record visit for Wayne Weber dated August 23, 2022.

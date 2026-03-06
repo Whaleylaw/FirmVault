@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:1cf45b69e333a13a037f41ad64704d551680ab40b0787672da2835fb3a870e98
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: client_communication
 extraction.date: 2024-02-19
 extraction.description: Follow-up email from Sarena Tuttle to Wayne Weber requesting response to Defense Counsel's Discovery Requests that were sent on February 12th. No response had been received as of this date.

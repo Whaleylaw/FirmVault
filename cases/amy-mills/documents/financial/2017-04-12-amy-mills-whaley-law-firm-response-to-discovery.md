@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:cf1ff1cc341112d43b1a5e3f9df346360518ec2a4daa15b7dd66706fb9b4902f
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 © [DOB-1] 10:21 AM Fax Services ~» Aaron pg 1 of 11
 
 FAX

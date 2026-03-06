@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:ad65f7e32a4c5afedd0428823d590b03763f97242d28e840449166d83c2a170a
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 Subject: PBSRecords-Legal Auto Reply
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

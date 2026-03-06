@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-
 source_hash: sha256:825b650c9b5ca18e0de36ba6e0bb65e7b402b6ba1f6ea7f61e6d8dd561a1a145
 ---
 
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 case_folder: Caryn-McCay-MVA-7-30-2023
 job_id: file-org-ea7dc62a
 phases.execution.notes: Starting execution phase - generating execution plan

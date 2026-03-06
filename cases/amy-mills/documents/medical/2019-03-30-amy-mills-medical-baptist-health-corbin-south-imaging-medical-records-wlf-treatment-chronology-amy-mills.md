@@ -1,28 +1,23 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:48:14.611000+00:00
+created_at: {}
 document_category: medical
-document_date: 2019-03-30
+document_date: {}
 document_type: medical
-entities:
-- Dr. Philip Tibbs
-- Dr. Chris Shields
-- Dr. Ronald Dublin
-- Dr. Khalily Cancelled Appt
-- Dr. Khalily Patient
-- Melissa Hale
-- Baptist Medical Group
-- Baptist Health
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Baptist
-  Health Corbin SOuth Imaging/Medical Records/2019-03-30-Amy-Mills-Medical-Baptist
-  Health Corbin SOuth Imaging-Medical-Records-WLF-Treatment-Chronology-Amy-Mills.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Baptist Health Corbin SOuth Imaging/Medical Records/2019-03-30-Amy-Mills-Medical-Baptist Health Corbin SOuth Imaging-Medical-Records-WLF-Treatment-Chronology-Amy-Mills.pdf
 source_hash: sha256:42aa3950cb997aa2209944f307eb5e5029b21a7cc3d66d63fd66aca7929f82f6
+contact: "[[cases/2019-04-26-prl-001/contacts/baptist-health-corbin]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 Amy Mills [DOB-57] Treatment Chronology 
 Date of Service Provider Notes Plan 

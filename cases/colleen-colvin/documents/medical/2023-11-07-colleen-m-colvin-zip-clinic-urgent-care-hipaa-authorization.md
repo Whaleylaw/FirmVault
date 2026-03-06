@@ -1,11 +1,10 @@
 ---
 case_slug: colleen-colvin
-created_at: 2026-02-16 22:28:28.966000+00:00
+created_at: {}
 document_category: medical
-document_date: 1953-05-01
+document_date: {}
 document_type: medical
-entities:
-- Zip Clinic Urgent Care
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-10-01-MVA-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Colleen-Colvin-MVA-10-01-2023/HIPAA-Authorizations/2023-11-07-Colleen-M-Colvin-Zip-Clinic-Urgent-Care-HIPAA-Authorization.pdf
 source_hash: sha256:e1f600f13d91e5df1f4978851e66e2c2ad92e751e93c78ed87a5a1a47ca80712
+contact: "[[cases/2023-10-01-mva-001/contacts/zip-clinic-urgent-care]]"
 ---
+
+**Case:** [[cases/colleen-colvin/colleen-colvin|Colleen Colvin]]
+**Client:** [[cases/colleen-colvin/contacts/colleen-colvin|Colleen Colvin]]
+
 
 AUTHORIZATION TO RELEASE PROTECTED HEALTH CARE INFOR.MATION 
 TO:

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:53f69f9ab31afbede1301ef48a8fbffebdb1504b380fc84e47dfc6d5c3d95598
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 7/25/24, 10:18 AM Mail - Abrasevic, Maureen - Outlook
 R ICT ee BEING: AILABLE ON A LATER DATE
 ICK UP ALL AADISE Jods THANK YOU.

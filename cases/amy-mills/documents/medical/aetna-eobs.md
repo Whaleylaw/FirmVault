@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:adb333183851a3df29c611515ebc11df9aa8ba8d8542d07a6a0a956df3624ed1
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 1/13/2020 Aetna :: EOB Details1017
 
 Piryvey Hiteradior

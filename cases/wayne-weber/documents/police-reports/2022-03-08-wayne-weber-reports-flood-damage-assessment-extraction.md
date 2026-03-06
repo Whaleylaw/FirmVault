@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:23a5ad19d2fbf7b93fe149504d7831bb2c01c2745025d52e9ab33a72b1ae8827
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: investigation_report
 extraction.date: 2022-03-08
 extraction.description: Flood damage assessment report dated March 8, 2022. May be related to property damage or incident reconstruction.

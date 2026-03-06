@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:e41988d12466d1dc29bae3630230f74060d82e11b8b3bd719c5dc0c3d7cb8308
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 Ve lege 4
 : 2 . ~""e@ OA-Downtown: 515 Read St., Evansville, IN 47710
 CIs a: COCLAES ° - West: earl Dr., Evansville,

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:1bc23e357a94df3b05efc3d586403d9abebad2597e269da9a319d245aafff7db
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: Your Upcoming Deposition - August 14, 2024 10:00a via Zoom
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

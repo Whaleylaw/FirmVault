@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-N
 source_hash: sha256:6d60554fba7c59d048789cb34480f8fac444578880efa94e52c84fe52d698f7b
 ---
 
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 NO. 24 -CI-00452 BOONE COUNTY CIRCUIT COURT 
 DIVISION THREE (3) 
 JUDGE HON. JAMES R. SCHRAND 

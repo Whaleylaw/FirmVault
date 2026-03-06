@@ -1,12 +1,10 @@
 ---
 case_slug: cora-hall
-created_at: 2026-02-16 22:37:50.843000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1989-09-22
+document_date: {}
 document_type: correspondence
-entities:
-- Shafia Rubeen
-- Scottsville Rural Health Clinic
+entities: null
 extraction_method: native_text
 legacy_case_id: 2022-12-05-OTH-001
 mime_type: application/pdf
@@ -14,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-Hall-WC-12-05-2022/Medical/2025-01-22-Cora-Hall-Scottsville-Rural-Health-Clinic-Medical-Records.pdf
 source_hash: sha256:a51a4c5223386b51626305736b8e2b7573863d454886b9648aca17a49021597c
+contact: "[[cases/2022-12-05-oth-001/contacts/scottsville-rural-health-clinic]]"
 ---
+
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 
 4-Feb-2025 18:30 [PHONE-19] [PHONE-18] p.1
 Aaron G. Whaley, Esq.

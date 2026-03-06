@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:20f202b8001a8bf7a4f162016dfdce40f9721936a1c28a9357b421fc004373c9
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 UL Health
 AFFIDAVIT OF CUSTODIAN OF RECORDS
 Patient’s Legal Name: Cecil Finley [DOB-1] Date ofBirth:Requestor’s Name: |e Whaley Law Firm — jacdicat Record #: ¥001068010

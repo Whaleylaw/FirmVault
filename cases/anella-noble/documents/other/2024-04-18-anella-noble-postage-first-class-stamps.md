@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:f452544ece321392b4d98b522cdc12e6868647a602ff72c9f4e22fbac3908fab
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 062S[PHONE-1] lea $11.01° US POSTAGE
 FIRST-CLASS
 FROM 40222

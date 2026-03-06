@@ -1,8 +1,8 @@
 ---
 case_slug: james-kiper
-created_at: 2026-02-16 23:51:35.512000+00:00
+created_at: {}
 document_category: legal
-document_date: 2022-06-13
+document_date: {}
 document_type: legal
 extraction_method: native_text
 legacy_case_id: 2022-12-05-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Kiper-MVA-12-5-2022/Loan-Documents/2024-03-01-James-Kiper-Loan-Documents-Conduent-Medicaid-Lien-Notice.pdf
 source_hash: sha256:b69b732ffc568301dec2cfbf46b7ef05bbd6ddeb10e90dbfd7ede42b3a150f52
+contact: "[[cases/2022-12-05-mva-001/contacts/conduent]]"
 ---
+
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 
 1540
 7276 1010 BI SIN 0304 NNNNNNNN 009067 NA 943273 (1of2)

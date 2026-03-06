@@ -23,6 +23,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Lejzan
 source_hash: sha256:8793bd11c5b9b2930e7df35f8dbd235e9cd229f85288244d1e0fea9908154790
 ---
 
+**Case:** [[cases/lejzane-miftari/lejzane-miftari|Lejzane Miftari]]
+**Client:** [[cases/lejzane-miftari/contacts/lejzane-miftari|Lejzane Miftari]]
+
 uUsef L DPhyototono 1a/30/8468R48 1295.45.40 DM rem pAaL BfOhoe Treaiar Coarrroir
 Heal
 Attestation Regarding a Requested Use or Disclosure of Protected Health Information

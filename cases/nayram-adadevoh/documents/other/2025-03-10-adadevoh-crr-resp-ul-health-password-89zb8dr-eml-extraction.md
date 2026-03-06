@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:3b2ee6dc9292314d56b4b7e8b0401c6b6d0ef9824784529fa7755c3250ab5aa2
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: Medical Records
 date: 2025-03-10
 description: Package Credentials Notification email from UofL Health secure file transfer system. Sent March 10, 2025 at 1:10:39 PM EST to Sarena at Whaley Law Firm. Contains password '89zb8dr' for accessing medical records package. Package resend requests go to [EMAIL-1].

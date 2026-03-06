@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:50ec7651dfce6b89b8b0bd44c3e3f227a112b9b00d2ffeddd619bdc9ad7337a4
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 Subject: 66638026 is your Microsoft SharePoint verification code.
 From: [EMAIL-1]
 To: Sarena@WhaleyLawFirm.com

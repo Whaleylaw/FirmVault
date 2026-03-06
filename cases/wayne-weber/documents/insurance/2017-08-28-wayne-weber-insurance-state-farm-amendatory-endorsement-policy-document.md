@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:3d79ecb5b745c6a180223e66f3c5e720ed40b0e3a0a07cac17e6d4f3faee1c26
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 Page 1 of 5 6128Y.1 
 ©, Copyright, State Farm Mutual Automobile Insurance Company, 2017 
 6128Y.1 AMENDATORY ENDORSEMENT 

@@ -4,6 +4,9 @@ document_category: financial
 legacy_case_id: 2024-05-30-MVA-001
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-Ferguson-MVA-5-30-2024/Medical/2024-05-30_Baptist-Health-Hardin_Spine-X-Rays-ER-Bill.pdf"
 source_hash: "sha256:51747d66ec7557fc095ffd6f10937cb9167318f627a32662f98deb701c377559"

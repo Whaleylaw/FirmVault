@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:6437884e8cff43b8882ec751ab0197419e8b5d27de2084e43bed06ed776b66e7
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 category: Medical
 date: 2023-11-09
 description: Front of Wayne Weber's Medtronic Patient Health Identification (PHI) card for a medical device.

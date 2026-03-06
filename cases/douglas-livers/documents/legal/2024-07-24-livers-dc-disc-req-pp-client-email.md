@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:3762bc0d9c145d07a5edb7f9c1f2441e93ce7c7640cf43247d28d4484fa4444a
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 Subject: The Defense Counsel Discover Request for Your Responses.
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

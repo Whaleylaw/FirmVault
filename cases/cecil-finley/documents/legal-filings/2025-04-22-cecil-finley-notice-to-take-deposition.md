@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:7acb769bb7058c3cb68e1b4993dedd58f41c53e168694b11d6d363477d12ebd3
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 ELECTRONICALLY FILED
 NO. 24CI-05774 JEFFERSON CIRCUIT COURT
 DIVISION EIGHT

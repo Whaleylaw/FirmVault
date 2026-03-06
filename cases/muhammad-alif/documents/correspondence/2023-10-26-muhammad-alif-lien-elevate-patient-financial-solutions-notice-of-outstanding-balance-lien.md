@@ -4,6 +4,9 @@ document_category: correspondence
 legacy_case_id: 2022-11-08-MVA-001
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-[DOB-1]/Liens/2023-10-26-Muhammad-Alif-Lien-Elevate-Patient-Financial-Solutions-Notice-of-Outstanding-Balance-Lien.pdf"
 source_hash: "sha256:2502ed1db0d6f7a1aab1a52f3326efcc0a6458bcdff69663f394f740afba9acd"

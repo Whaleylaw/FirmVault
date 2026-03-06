@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:271e83d8c8c7fa009d296e88d1e80a042f52dfee50206e736745799447473ce1
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 Progressive Claims Mail Processing Center |=Phone: 1-[PHONE-2] PROGRESSIVE
 P.O. Box 2930 Fax: 1-[PHONE-2]
 Clinton, IA 52733-2930

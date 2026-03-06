@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:555a521893aae266d8c1f27e668ce6d5a5881c9c517a13ddf2951f7b0e6e2c6c
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 Docusign Envelope ID: B696B456-7C16-4F1 1-B822-61E5A1B86BA7
 rorm 105
 October 2016 Edition

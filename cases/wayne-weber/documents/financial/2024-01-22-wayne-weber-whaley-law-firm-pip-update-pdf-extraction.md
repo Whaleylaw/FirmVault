@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:22475e29e439e7db0e3434956e2c550ed02e419461214d27dd23427fc476d271
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: client
 extraction.date: 2024-01-22
 extraction.description: PIP update letter from Whaley Law Firm to Wayne Weber regarding case status.

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie
 source_hash: sha256:c85e58d7edeb0c01fe1b3b99eb705df163f781fa772e3a70b2947241a4331014
 ---
 
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 category: Medical Records Request
 date: 2024-10-17
 description: Letter from Whaley Law Firm requesting medical records from provider for Stevie Hawks covering dates 3/6/2024 through [DOB-1]

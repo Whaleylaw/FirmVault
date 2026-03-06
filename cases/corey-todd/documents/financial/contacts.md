@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Corey-
 source_hash: sha256:0cc607d0ff29248a51f5c123b17fb73bebb437fdc1a3a421861ae674c69056f7
 ---
 
+**Case:** [[cases/corey-todd/corey-todd|Corey Todd]]
+**Client:** [[cases/corey-todd/contacts/corey-todd|Corey Todd]]
+
 item_0.jsonb_agg[0].address: 107 N 44th St
 item_0.jsonb_agg[0].full_name: Corey Todd
 item_0.jsonb_agg[0].phone: [PHONE-1]

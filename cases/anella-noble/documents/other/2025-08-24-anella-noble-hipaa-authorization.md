@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:a4d2e561ef17a4ac640ebde8e70033636e348fadaebc4346aa4f345db6db3198
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 AUTHORIZATION TO RELEASE PROTECTED HEALTH CARE XL.
 INFORMATION rURD
 heenVhale

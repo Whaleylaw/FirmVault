@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:705e73e790d021fe7ca1a242b5fa955c2ad1c30dc58d574dd8c86261437f0177
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 BOX 634706
 CINCINNATI Of 45263-4706 _ PATIENT STATEMENT.
 a: . ACCOUNT NUMBER Wea) ae

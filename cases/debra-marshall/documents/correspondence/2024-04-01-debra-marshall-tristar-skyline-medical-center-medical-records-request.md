@@ -2,7 +2,12 @@
 case_slug: debra-marshall
 document_category: correspondence
 legacy_case_id: 2022-12-03-MVA-001
+contact: "[[cases/2022-12-03-mva-001/contacts/tristar-skyline-medical-center]]"
 ---
+
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-Marshall-MVA-12-3-2022/Records-Requests/2024-04-01-Debra-Marshall-TriStar-Skyline-Medical-Center-Medical-Records-Request.pdf"

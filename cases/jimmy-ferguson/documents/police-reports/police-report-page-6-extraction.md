@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:5205d85e33852c81107443ccbd170d913552fdfdce9e2e1f63a1413b3bb82a5b
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 date: 2024-05-30
 description: Image of Page 6 of the Kentucky Uniform Police Traffic Collision Report for the accident involving Jimmy Ferguson, containing codes and additional information.
 original_path: Jimmy-Ferguson-MVA-5-30-2024/Police-report-page-6.jpg

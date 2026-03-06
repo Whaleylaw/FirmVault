@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:4cec3e35a62392bdcbc5dd1ab23e7b46fc2fc93a2eae1b21c6bc3ba7eee3d24d
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: litigation
 extraction.date: 2024-02-09
 extraction.description: Discovery request to client for Wayne Weber case dated February 9, 2024.

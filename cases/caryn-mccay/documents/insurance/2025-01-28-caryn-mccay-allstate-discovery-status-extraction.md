@@ -1,11 +1,10 @@
 ---
 case_slug: caryn-mccay
-created_at: 2026-02-16 22:17:43.983000+00:00
+created_at: {}
 document_category: insurance
-document_date: 2025-01-28
+document_date: {}
 document_type: insurance
-entities:
-- Allstate
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-07-30-MVA-001
 mime_type: application/json
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 90
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-McCay-MVA-7-30-2023/Reports/2026-02-01-file-organization/extractions/2025-01-28-Caryn-McCay-Allstate-discovery-status_extraction.json
 source_hash: sha256:853af9ad97460851fadc6651138f3a36a06c66dafe59cbef7893cf29722ab94d
+contact: "[[cases/2023-07-30-mva-001/contacts/caryn-mccay]]"
 ---
+
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 
 extraction.classification.bucket: Insurance
 extraction.classification.confidence: high

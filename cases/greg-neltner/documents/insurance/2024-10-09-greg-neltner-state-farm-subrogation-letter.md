@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-N
 source_hash: sha256:e5ce4b60385c8ffe3485eb96d6f1c403ca9ee0e83c856837664074002851d83e
 ---
 
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 Providing insurance and Financial Services SSStateFarm:
 Home Office, Bloomington, IL
 October 9, 2024

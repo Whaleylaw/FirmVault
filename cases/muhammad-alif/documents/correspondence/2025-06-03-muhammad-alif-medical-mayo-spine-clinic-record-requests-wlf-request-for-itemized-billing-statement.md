@@ -1,18 +1,22 @@
 ---
 case_slug: muhammad-alif
-created_at: 2026-02-17 00:11:25.839000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1961-04-16
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2022-11-08-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Mayo
-  Spine Clinic/Record Requests/2025-06-03-Muhammad-Alif-Medical-Mayo Spine Clinic-Record-Requests-WLF-Request-for-Itemized-Billing-Statement.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Mayo Spine Clinic/Record Requests/2025-06-03-Muhammad-Alif-Medical-Mayo Spine Clinic-Record-Requests-WLF-Request-for-Itemized-Billing-Statement.pdf
 source_hash: sha256:d3f670fea985b6d5084f115757b47c1789ea09d6b8dc8abe1b0e93e00a95dc9a
+contact: "[[cases/2022-11-08-mva-001/contacts/mayo-spine-clinic]]"
 ---
+
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 
 712 Lyndon Lane ● Louisville, KY 40222 ● Phone: [PHONE-1] ● Fax: [PHONE-2] 
 June 3, 2025 

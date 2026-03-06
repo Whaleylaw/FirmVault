@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee
 source_hash: sha256:6d8b3e1a1555f940c592da3af3f4daf4a6ba31d44ff9328b8f9b706d32b07d67
 ---
 
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 Subject: New Package Notification
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

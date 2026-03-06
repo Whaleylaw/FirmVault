@@ -1,19 +1,22 @@
 ---
 case_slug: frances-whitis
-created_at: 2026-02-16 23:42:38.278000+00:00
+created_at: {}
 document_category: medical
-document_date: 2024-09-16
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2024-09-06-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Frances-Whitis-WC-MVA-9-6-2024/Medical/Frankfort
-  Fire & EMS/Record Requests/2024-09-16-Frances-Whitis-WC-Medical-Frankfort Fire &
-  EMS-Record-Requests-Client-Medical-Authorization.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Frances-Whitis-WC-MVA-9-6-2024/Medical/Frankfort Fire & EMS/Record Requests/2024-09-16-Frances-Whitis-WC-Medical-Frankfort Fire & EMS-Record-Requests-Client-Medical-Authorization.pdf
 source_hash: sha256:fceb15b83e9841d79eea6890195995fb346533b0c60bd9b5b00b86beaedb3ac5
+contact: "[[cases/2024-09-06-mva-001/contacts/frankfort-fire-ems]]"
 ---
+
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 
 [DOB-1]
 Frankfort Fire & EMS

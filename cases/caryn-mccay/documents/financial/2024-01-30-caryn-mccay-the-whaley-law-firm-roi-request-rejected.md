@@ -1,11 +1,10 @@
 ---
 case_slug: caryn-mccay
-created_at: 2026-02-16 22:16:40.697000+00:00
+created_at: {}
 document_category: financial
-document_date: 2021-07-27
+document_date: {}
 document_type: financial
-entities:
-- Ghandler Hospital
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-07-30-MVA-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-McCay-MVA-7-30-2023/Client/2024-01-30-Caryn-McCay-THE-WHALEY-LAW-FIRM-ROI-request-rejected.pdf
 source_hash: sha256:24d80f8d4a1b1327f962d665e5033063ca9b93f648e942625e64c055adef7126
+contact: "[[cases/2023-07-30-mva-001/contacts/caryn-mccay]]"
 ---
+
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 
 G2-B1-2024 12:20 [PHONE-1] ROI+ Fax Reject Notification ows
 VRC ROI Plus

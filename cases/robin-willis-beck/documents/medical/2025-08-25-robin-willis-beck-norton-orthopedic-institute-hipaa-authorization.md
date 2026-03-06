@@ -1,6 +1,6 @@
 ---
 case_slug: robin-willis-beck
-created_at: 2026-02-17 00:17:24.204000+00:00
+created_at: {}
 document_category: medical
 document_type: medical
 extraction_method: native_text
@@ -10,7 +10,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-Willis-Beck-Premise-09-21-2023/Medical-Records/2025-08-25-Robin-Willis-Beck-Norton-Orthopedic-Institute-HIPAA-Authorization.pdf
 source_hash: sha256:362a6d685b4453c583409638d81e4bc8a33c2273a7bc29c1883e1732bf20c510
+contact: "[[cases/2023-09-21-prl-001/contacts/norton-orthopedic-institute]]"
 ---
+
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 
 Norton Orthopedic Institute
 9880 Angie’s Way #250

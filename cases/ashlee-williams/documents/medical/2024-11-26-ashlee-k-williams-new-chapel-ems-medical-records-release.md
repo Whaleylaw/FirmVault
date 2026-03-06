@@ -1,8 +1,8 @@
 ---
 case_slug: ashlee-williams
-created_at: 2026-02-16 22:08:18.865000+00:00
+created_at: {}
 document_category: medical
-document_date: 2002-12-01
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2023-08-29-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee-Williams-MVA-08-29-2023/Medical-Records/2024-11-26-Ashlee-K-Williams-New-Chapel-EMS-Medical-Records-Release.pdf
 source_hash: sha256:390fc397cc9698193661e597cc624ac244f58ef24c24b15ae8d0307d34cd7566
+contact: "[[cases/2023-08-29-mva-001/contacts/new-chapel-ems]]"
 ---
+
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 
 Ashlee Williams
 [DOB-1]

@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:2df3a1c91737e1d5d733cc3cd0751a0930fe6fa17eb79cda28fd6504f06942b1
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 item_0.claim_number: 17-N836-0G8
 item_0.coverage_confirmation: Coverage Confirmed
 item_0.date_demand_sent: 2024-07-23

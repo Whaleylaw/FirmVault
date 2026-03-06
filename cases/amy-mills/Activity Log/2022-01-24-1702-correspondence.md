@@ -1,0 +1,16 @@
+---
+schema_version: 2
+case_id: 765587ac-08fb-4fc1-b34d-7ba1ffb90376
+date: "2022-01-24"
+category: correspondence
+subcategory: email
+---
+
+# email — 2022-01-24
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Category:** correspondence / email
+
+__Fwd: Incoming Fax to 15023649363__
+From: Fax Whaley [faxwhaleylaw@gmail.com](mailto:faxwhaleylaw@gmail.com)
+To: [AmyMillsPremiseZ995806@louisvilleaccidentlawyer.filevineapp.com](mailto:AmyMillsPremi

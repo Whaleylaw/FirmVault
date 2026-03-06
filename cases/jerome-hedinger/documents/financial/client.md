@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:245cfcbcb39f1fb15324a14b66f02e0ddf479cebcd0f427171be044ae088ce2c
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 address: 10008 Smock Mill Ln, Temple, TX 76502
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

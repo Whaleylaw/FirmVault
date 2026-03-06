@@ -1,11 +1,10 @@
 ---
 case_slug: shannon-colvin
-created_at: 2026-02-17 00:21:12.059000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 2023-10-01
+document_date: {}
 document_type: correspondence
-entities:
-- Kentucky Farm Bureau
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-10-01-MVA-002
 mime_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shannon-Colvin-MVA-10-1-2023/Correspondence/2023.11.20-Colvin-BI-LOR-to-KFB-Adj-Ben-Taylor.docx
 source_hash: sha256:f8bf21792631b9a3878bdc25fa3948403111fccd27e601676760434a5dc09864
+contact: "[[cases/2023-10-01-mva-002/contacts/ben-taylor]]"
 ---
+
+**Case:** [[cases/shannon-colvin/shannon-colvin|Shannon Colvin]]
+**Client:** [[cases/shannon-colvin/contacts/shannon-colvin|Shannon Colvin]]
+
 
 *Aaron G. Whaley, Esq.*
 *712 Lyndon Lane*

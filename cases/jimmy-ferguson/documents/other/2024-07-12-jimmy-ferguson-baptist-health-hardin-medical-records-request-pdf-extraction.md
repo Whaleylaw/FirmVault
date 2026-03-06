@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:2f77ca0be030361990e65f306badbb89494b444c0acb87848a751bb575d046f0
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 category: Medical
 date: 2024-07-12
 description: Medical records request letter from Whaley Law Firm to Baptist Health Hardin for Jimmy Ferguson's records from June 30, 2019 to present, with HIPAA authorization.

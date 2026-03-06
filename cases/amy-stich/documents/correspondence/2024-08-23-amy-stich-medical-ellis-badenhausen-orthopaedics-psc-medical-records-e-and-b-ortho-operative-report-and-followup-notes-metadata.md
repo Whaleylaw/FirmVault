@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:ffcbef3650d2f62d425c187eec50e7fcf6ed7174f2bffbaa4385a57afdb26673
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 content_length_chars: 589
 document_metadata.attachments[0]: PT Order.pdf
 document_metadata.attachments[1]: Restrictions Note.pdf

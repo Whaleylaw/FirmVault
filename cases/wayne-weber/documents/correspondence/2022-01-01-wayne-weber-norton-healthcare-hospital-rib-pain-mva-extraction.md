@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:73f230cdd16c3267dda24bd921a79e91d6bd67fc02d34ff7be17113eabd7d115
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: medical_records
 extraction.date: 2022-01-01
 extraction.description: Norton Healthcare Hospital record for rib pain from MVA for Wayne Weber dated January 1, 2022.

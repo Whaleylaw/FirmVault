@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Raysha
 source_hash: sha256:83525b4a67f73df013d950dacbf90e2053a9552bdde67f242aca533ffbec6f17
 ---
 
+**Case:** [[cases/rayshawn-wilson/rayshawn-wilson|Rayshawn Wilson]]
+**Client:** [[cases/rayshawn-wilson/contacts/rayshawn-wilson|Rayshawn Wilson]]
+
 item_0.jsonb_agg[0].address: 4707 Kerrick Lane, APT 102
 item_0.jsonb_agg[0].full_name: Rayshawn Wilson
 item_0.jsonb_agg[0].phone: [PHONE-2]

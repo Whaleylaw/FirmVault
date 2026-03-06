@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2019-04-26-PrL-001
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-[DOB-5810]/2014-09-09-Amy-Mills-20-20-Eyecare-of-London-Eye-Examination.pdf"
 source_hash: "sha256:63eebb1dc78bcaa72f2e953bdd6003bc8a827a6e619767c123c90fa69ace5d8a"

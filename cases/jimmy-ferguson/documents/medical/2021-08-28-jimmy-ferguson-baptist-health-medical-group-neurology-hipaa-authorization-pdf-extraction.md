@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:923ff604f7e7b1877ee53fd402cd27abb7a940d7629ee7e40ba3d044cd9c4db3
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 category: Client
 date: 2021-08-28
 description: HIPAA compliant medical authorization signed 8/28/2021 authorizing Baptist Health Medical Group Neurology & Neurosurgery to release all medical records to Whaley Law Firm for injury claim representation.

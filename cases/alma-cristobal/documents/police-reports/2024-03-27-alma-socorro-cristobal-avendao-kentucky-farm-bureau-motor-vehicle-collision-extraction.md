@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:39612d004265c88c5746dd63104b8082ff16b0b19b285ea30456b1a4f0118f9a
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 category: Insurance
 description: Kentucky Farm Bureau correspondence regarding motor vehicle collision
 entities[0]: Alma Socorro Cristobal Avendaño

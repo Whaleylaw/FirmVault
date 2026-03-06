@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:2320b1ff9e1bf78a0faad846612db379ada36e345c0827e604f6c2310719e670
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 address: 1816 Clinton Pl, Louisville, KY 40216
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

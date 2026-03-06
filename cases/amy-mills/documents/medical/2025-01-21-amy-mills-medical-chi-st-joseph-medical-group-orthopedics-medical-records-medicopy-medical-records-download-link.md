@@ -1,6 +1,6 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:48:25.679000+00:00
+created_at: {}
 document_category: medical
 document_type: medical
 extraction_method: native_text
@@ -8,11 +8,14 @@ legacy_case_id: 2019-04-26-PrL-001
 mime_type: message/rfc822
 page_count: 1
 quality_score: 90
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/CHI
-  St. Joseph Medical Group- Orthopedics/Medical Records/2025-01-21-Amy-Mills-Medical-CHI
-  St. Joseph Medical Group- Orthopedics-Medical-Records-MediCopy-Medical-Records-Download-Link.eml
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/CHI St. Joseph Medical Group- Orthopedics/Medical Records/2025-01-21-Amy-Mills-Medical-CHI St. Joseph Medical Group- Orthopedics-Medical-Records-MediCopy-Medical-Records-Download-Link.eml
 source_hash: sha256:57bbbdca107b5ad8acaee04df4b3572630a5502e33a43a36001b5792080069cd
+contact: "[[cases/2019-04-26-prl-001/contacts/chi-st-joseph-medical-group-orthopedic]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 Subject: Chelsea Rivera- ROI Quality Analyst sent you a file "AMY MILLS.pdf" on Box
 From: [EMAIL-1]

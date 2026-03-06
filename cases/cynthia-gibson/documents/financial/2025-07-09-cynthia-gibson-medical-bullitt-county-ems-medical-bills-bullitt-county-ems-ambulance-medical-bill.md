@@ -1,18 +1,22 @@
 ---
 case_slug: cynthia-gibson
-created_at: 2026-02-16 22:38:41.948000+00:00
+created_at: {}
 document_category: financial
-document_date: 2025-07-09
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2025-07-09-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cynthia-Gibson-MVA-7-9-2025/Medical/Bullitt
-  County EMS/Medical Bills/2025-07-09-Cynthia-Gibson-Medical-Bullitt County EMS-Medical-Bills-Bullitt-County-EMS-Ambulance-Medical-Bill.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cynthia-Gibson-MVA-7-9-2025/Medical/Bullitt County EMS/Medical Bills/2025-07-09-Cynthia-Gibson-Medical-Bullitt County EMS-Medical-Bills-Bullitt-County-EMS-Ambulance-Medical-Bill.pdf
 source_hash: sha256:d7ea66ea75e6bb9674eb66feb291c8d2f29c728fcbf2d5dc633e26a246053489
+contact: "[[cases/2025-07-09-mva-001/contacts/bullitt-county-ems]]"
 ---
+
+**Case:** [[cases/cynthia-gibson/cynthia-gibson|Cynthia Gibson]]
+**Client:** [[cases/cynthia-gibson/contacts/cynthia-gibson|Cynthia Gibson]]
+
 
 BULLITT COUNTY EMS Phone: [PHONE-4]
 Federal Tax ID: 61-6000958

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:42daf8f703ebc6ae45671a8dabdd2c115725ff084af66794e2d20befe3dc335d
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 Verification Complete
 The document has been officially verified.
 Recipient1

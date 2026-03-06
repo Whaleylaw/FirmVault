@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:ad5caf58daea023481d9f49e7753eafb2da7f39f0a3e0f1049690d9bb0a17779
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 @) Allstate. ey
 
 ALLSTATE PROPERTY AND CASUALTY INSURANCE COMPANY . . PO BOX 2874 Information as of April 4, 2024 CLINTON IA 52733-2874

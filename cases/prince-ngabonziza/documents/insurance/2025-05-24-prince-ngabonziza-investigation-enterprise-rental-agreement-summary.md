@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Prince
 source_hash: sha256:1e2759f9b1adabbd358cc8201aac62383c440233644bcacaef1b361590ee8e12
 ---
 
+**Case:** [[cases/prince-ngabonziza/prince-ngabonziza|Prince Ngabonziza]]
+**Client:** [[cases/prince-ngabonziza/contacts/prince-ngabonziza|Prince Ngabonziza]]
+
 Rental Agreement Summary
 RA#: 8C01RC
 Renter: PRINCE NGABONZIZA

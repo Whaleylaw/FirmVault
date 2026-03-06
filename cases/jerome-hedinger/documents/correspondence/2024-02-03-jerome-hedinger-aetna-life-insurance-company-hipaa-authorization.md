@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:45156bd4b5768500d2b964e5c69883946d2dca0803d531b4ea5d7c5358d6b4cd
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 Aaron G. Whaley, Esq.
 
 712 Lyndon Lane Louisville, KY 40222 IHALEY_ A FE Y Ph: [PHONE-1] Fax: [PHONE-2] ~ LAW FIRM April 2, 2024 Aetna Life Insurance Company P.O. Box 14079 Lexington, KY 40512 Via USPS RE: Our Client: Jerome L. Hedinger Date of Birth: [DOB-9] Last 4 SSN: #eK_*€E_3713 Group Id: 109409-11-001 Member Id: W2791-93878 Date of Loss: [DOB-3] Dear Sir/Madam:

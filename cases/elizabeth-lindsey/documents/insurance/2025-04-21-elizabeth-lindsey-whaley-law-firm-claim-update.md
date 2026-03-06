@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Elizab
 source_hash: sha256:3d3b1378a1d07411ef9c7a917965fc22de54a4fa0f20202d815e21b2378856c9
 ---
 
+**Case:** [[cases/elizabeth-lindsey/elizabeth-lindsey|Elizabeth Lindsey]]
+**Client:** [[cases/elizabeth-lindsey/contacts/elizabeth-lindsey|Elizabeth Lindsey]]
+
 PROGRESSIVE CLAIMS PROGRE f UE ° PO BOX 94670 CLEVELAND, OH 44101-9919 Underwritten by: Progressive Direct Insurance Company Claim Number: 24-[POLICY-1]
 
 Whaley Law Firm Loss Date: December 1, 2024

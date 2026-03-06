@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:501dd9feb1bc1a17b085fc6fe26b8375d02d69626b057b6382a9049a065853e0
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: insurance_policy
 extraction.date: 2017-01-01
 extraction.description: State Farm insurance policy amendatory endorsement for Wayne Weber dated January 1, 2017.

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:b12b682276eb80dda9f346d9beba5e5d6c15456f3f04b59c3144c56797afe033
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 content_analysis.category: Case Information
 content_analysis.date: 2025-08-28
 content_analysis.description: Tenant agreement

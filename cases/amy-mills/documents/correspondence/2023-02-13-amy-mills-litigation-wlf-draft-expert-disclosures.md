@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:64b93c61815145e764c39e2d4cfebf119f88c25c3709351d41b9639d62d8a7fb
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Subject: Re: ** High Priority** Mills Expert Disclosures - Due [DOB-1]
 From: sarena@whaleylawfirm.com
 To: [EMAIL-2]

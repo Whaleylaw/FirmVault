@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:6154ea91c7682e2e8ac401cf8ba994bc8ae65a843724e8127e1e72c096a65b49
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 Subject: Mediation
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

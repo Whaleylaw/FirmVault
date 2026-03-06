@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julian
 source_hash: sha256:611749fd5b54fc8efbe9f75e9113e1a462e1f3f839cb4df3e43aa8387bdee31d
 ---
 
+**Case:** [[cases/julian-wilson/julian-wilson|Julian Wilson]]
+**Client:** [[cases/julian-wilson/contacts/julian-wilson|Julian Wilson]]
+
 Form_SCTNID_CTGRY.KY[POLICY-1]_DECPAGE
 [POLICY-2] E IC64918 INS DECPAGE E POLWHITEFONT HYMBYH4GZWZLUMST6GGAL2NVDF0001 RPUID TRACWHITEFONT BDF_AA
 Policy Number: [POLICY-2]

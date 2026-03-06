@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:07b23db3659e9b41994ddf8fe05b7de145bbb4a6aea5603c20e6b41aca2c1106
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 INVESTIGATOR BEAT OR POST #
 TOTAL LANES
 NO

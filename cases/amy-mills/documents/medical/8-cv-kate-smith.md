@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:2416dc02ba886797471238f7fb9edff989fccbdf2bbc003248b658859e2768c4
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 KLS Life Care Planning, LLC
 3384 Kuliga Park Drive
 Cincinnati, Ohio 45248

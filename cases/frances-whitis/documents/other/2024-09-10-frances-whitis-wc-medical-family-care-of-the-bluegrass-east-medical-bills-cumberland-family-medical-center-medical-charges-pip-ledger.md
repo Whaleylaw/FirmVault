@@ -1,6 +1,6 @@
 ---
 case_slug: frances-whitis
-created_at: 2026-02-16 23:42:34.194000+00:00
+created_at: {}
 document_category: other
 document_type: other
 extraction_method: native_text
@@ -8,11 +8,14 @@ legacy_case_id: 2024-09-06-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Frances-Whitis-WC-MVA-9-6-2024/Medical/Family
-  Care Of The Bluegrass - East/Medical Bills/2024-09-10-Frances-Whitis-WC-Medical-Family
-  Care Of The Bluegrass - East-Medical-Bills-Cumberland-Family-Medical-Center-Medical-Charges-PIP-Ledger.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Frances-Whitis-WC-MVA-9-6-2024/Medical/Family Care Of The Bluegrass - East/Medical Bills/2024-09-10-Frances-Whitis-WC-Medical-Family Care Of The Bluegrass - East-Medical-Bills-Cumberland-Family-Medical-Center-Medical-Charges-PIP-Ledger.pdf
 source_hash: sha256:ef298c260c21be430acf24b6f14dbc63071e0f03881fdbe6a07289ea06b82452
+contact: "[[cases/2024-09-06-mva-001/contacts/family-care-of-the-bluegrass-east]]"
 ---
+
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 
 Bluegrass Taxi Llc
 

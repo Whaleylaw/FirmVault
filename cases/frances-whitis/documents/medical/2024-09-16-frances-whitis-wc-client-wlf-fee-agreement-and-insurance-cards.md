@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/France
 source_hash: sha256:b119443ec2329eda9a3b222e32128aa94b47aa07d214f11a00096a4eb1e544dd
 ---
 
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 Medicare Health Insurance
 via CMS Portal
 [DOB-1]

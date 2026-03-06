@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:a946ca966555fd06bc2f15096a97f3482597d5a2e67cf0d82d7d5180e4079248
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 Page: 1 of 5 Customer Statement Report
 
 Date Range: [DOB-11] to [DOB-11]

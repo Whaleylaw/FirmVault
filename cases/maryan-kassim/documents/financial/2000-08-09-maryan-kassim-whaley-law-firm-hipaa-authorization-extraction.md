@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:8b3f2fe705bf0b6aed24a93f05392993b31c1d97ad0f520bcad86c8c601123b4
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 category: Client
 description: HIPAA compliant medical authorization form from Whaley Law Firm authorizing Conduent Payment Integrity Solutions to release protected healthcare information for Maryan Kassim, with free copy requested per KRS 422.317 (note: date appears to be placeholder/template date).
 entities[0]: Aaron G. Whaley

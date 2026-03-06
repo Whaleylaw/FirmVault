@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:bd2f26bf9dfc78ea6798b0e720a28a8c05a068f03add4f2d4ec1f86c3117c064
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: insurance_correspondence
 date: 2024-12-03
 description: Letter to Blue Cross Blue Shield of Illinois regarding injuries for Nayram Adadevoh.

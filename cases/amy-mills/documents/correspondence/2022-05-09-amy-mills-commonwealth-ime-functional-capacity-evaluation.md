@@ -1,11 +1,10 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:49:35.185000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 2022-04-08
+document_date: {}
 document_type: correspondence
-entities:
-- Dr. Gregory Nazar
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Review_Needed/2022-05-09-Amy-Mills-Commonwealth-IME-Functional-Capacity-Evaluation.pdf
 source_hash: sha256:c4a56c0be8464401d4d7ad060f4b0c237df843c9e8312b2a529715b127d0b0ca
+contact: "[[cases/2019-04-26-prl-001/contacts/commonwealth-ime]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:a91ff60f141d8eceaf83ffc1a8ef5303b03c61777bb85abf6ffca9703724ce7e
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Kiper-MVA-12-5-2022/Accident-Investigation/2022-12-08-James-Kiper-Accident-Investigation-Vehicle-Damage-Rear-Driver-Side-Bumper.jpg

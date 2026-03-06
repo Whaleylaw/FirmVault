@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee
 source_hash: sha256:19d85e0a19b3a2042defc5166f50c086b2244a8fb0eeda2c908a879145bd85c4
 ---
 
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 Subject: New Voice Message from WIRELESS CALLER [PHONE-6] on [DOB-2] 3:22 PM
 From: [EMAIL-3]
 To: Sarena@whaleylawfirm.com

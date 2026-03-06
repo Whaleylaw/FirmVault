@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Curtis
 source_hash: sha256:382874c4cdfacea29e0855a837da9bfbdbc006400e4968935f5670dffb559cbf
 ---
 
+**Case:** [[cases/curtis-lee-justice/curtis-lee-justice|Curtis Lee Justice]]
+**Client:** [[cases/curtis-lee-justice/contacts/curtis-lee-justice|Curtis Lee Justice]]
+
 address: 252 Owsley Fork Rd, Berea, KY 40403
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

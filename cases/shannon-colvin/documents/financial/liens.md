@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:20da2d8979c9f34cf11cdc32a573fdd344c6793cc98a309de97902db518c0ca3
 ---
 
+**Case:** [[cases/shannon-colvin/shannon-colvin|Shannon Colvin]]
+**Client:** [[cases/shannon-colvin/contacts/shannon-colvin|Shannon Colvin]]
+
 item_0.amount_owed_from_settlement: 145.72
 item_0.date_notice_received: 2024-08-21
 item_0.final_lien_amount: 145.72

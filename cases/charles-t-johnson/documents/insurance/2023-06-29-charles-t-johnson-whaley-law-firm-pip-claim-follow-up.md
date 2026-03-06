@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:dc632a19bee34d2e023423e33748b01cde4e6be3eedc3266c4b36ca356b272b0
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 Kentucky PIP Claims Branch
 eAuto-Owners PO Box 910728 | Lexington KY 40591-0728
 INSURANCE 1124 Monarch St | Lexington KY 40513

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/France
 source_hash: sha256:49d09e664211f161f0a1b9aae2703eb88b128fa750cda89388032b7fd9fd9e79
 ---
 
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 Medical Payments / PIP Print Summary
 Named Insured: Bluegrass Taxi Llc
 Injured Party: Frances Whitis

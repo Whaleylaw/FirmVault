@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2021-09-03-MVA-001
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda-Lang-MVA-[DOB-27]/Medical/2021-09-03-Brenda-D-Lang-Louisville-Emerg-Med-Associates-PSC-emergency-dept-visit.pdf"
 source_hash: "sha256:005fe821c80883a880b639fac06cbc916a8890197ce55c7fd6c6be8eb96dff90"

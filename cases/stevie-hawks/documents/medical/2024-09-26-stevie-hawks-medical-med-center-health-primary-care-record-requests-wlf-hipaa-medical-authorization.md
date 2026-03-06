@@ -1,6 +1,6 @@
 ---
 case_slug: stevie-hawks
-created_at: 2026-02-17 00:23:53.632000+00:00
+created_at: {}
 document_category: medical
 document_type: medical
 extraction_method: native_text
@@ -8,11 +8,14 @@ legacy_case_id: 2024-03-08-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie-Hawks-MVA-3-8-2024/Medical/Med
-  Center Health Primary Care/Record Requests/2024-09-26-Stevie-Hawks-Medical-Med Center
-  Health Primary Care-Record-Requests-WLF-HIPAA-Medical-Authorization.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie-Hawks-MVA-3-8-2024/Medical/Med Center Health Primary Care/Record Requests/2024-09-26-Stevie-Hawks-Medical-Med Center Health Primary Care-Record-Requests-WLF-HIPAA-Medical-Authorization.pdf
 source_hash: sha256:58e0c5eb7b722d017e2463de579354f6cf062af605e688e9a50d5b59e4fb845a
+contact: "[[cases/2024-03-08-mva-001/contacts/med-center-health-primary-care]]"
 ---
+
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

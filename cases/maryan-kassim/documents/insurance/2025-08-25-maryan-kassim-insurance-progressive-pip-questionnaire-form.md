@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:4ccdec7884dd514b4cdc646e57b069068aab048cb2364e85134edd50d874c6f8
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 PROGRESSIVE
 Progressive Claims Mail Processing Center
 PO Box 512926

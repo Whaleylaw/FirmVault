@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2024-04-23-MVA-001
 ---
 
+**Case:** [[cases/samuel-clites/samuel-clites|Samuel Clites]]
+**Client:** [[cases/samuel-clites/contacts/samuel-clites|Samuel Clites]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Samuel-Clites-MVA-4-23-2024/Medical/Louisville Emergency Medical Associates/Medical Records/2024-04-25-Samuel-Clites-Medical-Louisville Emergency Medical Associates-Medical-Records-Baptist-Health-Louisville-ER-Medical-Records-and-Bills.pdf"
 source_hash: "sha256:3fce8105c74d8057d6106276b62b1926cb84277bd1df77ddade40d33eafb1f9c"

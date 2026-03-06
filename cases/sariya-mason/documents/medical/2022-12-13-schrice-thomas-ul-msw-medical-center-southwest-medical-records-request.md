@@ -1,11 +1,10 @@
 ---
 case_slug: sariya-mason
-created_at: 2026-02-17 00:20:40.421000+00:00
+created_at: {}
 document_category: medical
-document_date: 2010-04-18
+document_date: {}
 document_type: medical
-entities:
-- UL MSW Medical Center
+entities: null
 extraction_method: native_text
 legacy_case_id: 2022-08-19-DB-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya-Mason-DB-08-19-2022/Medical/2022-12-13-Schrice-Thomas-UL-MSW-Medical-Center-Southwest-Medical-Records-Request.pdf
 source_hash: sha256:12e03ec9e44265d79a99c5e5684dba441bc6842ad5f646ddcf34c33b20c9ec7d
+contact: "[[cases/2022-08-19-db-001/contacts/ul-msw-medical-center-southwest]]"
 ---
+
+**Case:** [[cases/sariya-mason/sariya-mason|Sariya Mason]]
+**Client:** [[cases/sariya-mason/contacts/sariya-mason|Sariya Mason]]
+
 
 Aaron G. Whaley, Esq.
 THE

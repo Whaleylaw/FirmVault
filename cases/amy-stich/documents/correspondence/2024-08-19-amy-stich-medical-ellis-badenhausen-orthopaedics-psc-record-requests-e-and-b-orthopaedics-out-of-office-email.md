@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:fec24f1433fbadcd3b1b2cb863e48306b4a5456f15898c4d77ca8bec004aed78
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 Subject: Out of office Re: Amy Stich ([DOB-1])
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

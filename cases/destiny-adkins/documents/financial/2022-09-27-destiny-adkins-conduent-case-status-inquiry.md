@@ -1,8 +1,8 @@
 ---
 case_slug: destiny-adkins
-created_at: 2026-02-16 23:26:10.081000+00:00
+created_at: {}
 document_category: financial
-document_date: 2021-04-16
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2021-04-16-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Destiny-Adkins-MVA-04-16-2021/Insurance/2022-09-27-Destiny-Adkins-Conduent-Case-Status-Inquiry.pdf
 source_hash: sha256:a8e666f894229d965d82adf413f6540efba522fcca2ddbabc8e4f1bb3e85fce2
+contact: "[[cases/2021-04-16-mva-001/contacts/conduent]]"
 ---
+
+**Case:** [[cases/destiny-adkins/destiny-adkins|Destiny Adkins]]
+**Client:** [[cases/destiny-adkins/contacts/destiny-adkins|Destiny Adkins]]
+
 
 ae
 877338 002586 002586 1 1 0.5120 9 ° ° ° 0 sme 792

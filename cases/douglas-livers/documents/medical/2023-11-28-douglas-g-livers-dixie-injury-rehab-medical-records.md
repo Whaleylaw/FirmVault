@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:b36d1309c2c2877912f8e100d198530a85c5b7272764df8f5890c5a1bb084232
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 28-Nov-2023 17:55 Dixie Injury & Rehab 15826907866 p.l Lid Wotan Lay
 » COVER axSHEET FUSIONPDouglas Livers’ Records
 TO: Aaron G. Whaley Esq with The Whaley Law Firm (15023649363)

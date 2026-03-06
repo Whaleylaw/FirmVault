@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:7129b08be3d27415d7ab1d0507380c2b3d74b619fed8cad31bbc7f792009aa5a
 ---
 
+**Case:** [[cases/michael-ditto-jr/michael-ditto-jr|Michael Ditto Jr]]
+**Client:** [[cases/michael-ditto-jr/contacts/michael-ditto-jr|Michael Ditto Jr]]
+
 Subject: CAMEAL STAFFORD viewed Thank you for choosing The Whaley Law Firm!
 From: [EMAIL-2]
 To: [EMAIL-2]

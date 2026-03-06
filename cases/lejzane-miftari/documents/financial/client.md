@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Lejzan
 source_hash: sha256:99500f4ea7a4b48ee65745fbec46fa575bbe498df5a9fc1105de26bac37fb0ac
 ---
 
+**Case:** [[cases/lejzane-miftari/lejzane-miftari|Lejzane Miftari]]
+**Client:** [[cases/lejzane-miftari/contacts/lejzane-miftari|Lejzane Miftari]]
+
 address: 13010 Bessels Blvd, Louisville, KY 40272
 date_of_birth: [DOB-1]
 imported_at: 2026-02-16T21:09:42.779Z

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:a3ba3cc89999b1ac0d0d2f475533278c42623c4493e79b09079685d2a7d40762
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Tendered 2H-CLO01" GL732022 Greg Helton, Knox -cuit Clerk
 ENTERED
 GREG HELTON COMMONWEALTH OF KENTUCKY

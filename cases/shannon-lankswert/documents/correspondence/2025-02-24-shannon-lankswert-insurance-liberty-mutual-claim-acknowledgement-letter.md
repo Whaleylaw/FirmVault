@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:8e3e33bc250aedafaac4148a05701f752e9e0586f63119a83d0848993d0d4df6
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 Liberty Mutual Insurance Group
 Nees * agg 4 P.O. Box 7203
 ae Liberty Mutual. London KY 40742

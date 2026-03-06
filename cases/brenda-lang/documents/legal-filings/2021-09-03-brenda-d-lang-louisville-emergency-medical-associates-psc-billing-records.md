@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:0e1b05fd690ea2dbcb59b67ef38e5f5d3697dabe31c29156d461ce03bb7627c5
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 CERTIFICATION OF MEDICAL BILLING RECORDS AFFIDAVIT
 ,being first duly sworn on his/her oath, says that:
 (Name ofrecords custodian/clerk)

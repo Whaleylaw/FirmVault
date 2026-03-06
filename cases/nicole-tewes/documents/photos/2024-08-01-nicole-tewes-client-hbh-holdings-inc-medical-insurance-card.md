@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nicole
 source_hash: sha256:c3101cacf401f669a93a0cd6f686cf086791e2b972180cc398437e0b42d4dbfb
 ---
 
+**Case:** [[cases/nicole-tewes/nicole-tewes|Nicole Tewes]]
+**Client:** [[cases/nicole-tewes/contacts/nicole-tewes|Nicole Tewes]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nicole-Tewes-MVA-7-5-2025/Client/2024-08-01-Nicole-Tewes-Client-HBH-Holdings-INC-Medical-Insurance-Card.jpeg

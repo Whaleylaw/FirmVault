@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie
 source_hash: sha256:3fe5982d8e00680c410408cabb66e029cf5674793561941303250e0d824b6090
 ---
 
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 item_0.extension: .md
 item_0.name: 2024-03-08-Stevie-Hawks-Bowling-Green-Police-Department-Traffic-Collision-Report.md
 item_0.path: 2024-03-08-Stevie-Hawks-Bowling-Green-Police-Department-Traffic-Collision-Report.md

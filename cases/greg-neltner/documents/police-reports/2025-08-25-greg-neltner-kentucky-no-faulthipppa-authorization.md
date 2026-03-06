@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-N
 source_hash: sha256:81870b3488e0dbaf895d7ab19bf43b787e613c0430eb55c000febf553fccee6c
 ---
 
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 1-2020
 Page 1 of 3 
 KENTUCKY NO FAULT

@@ -1,8 +1,8 @@
 ---
 case_slug: jimmy-ferguson
-created_at: 2026-02-16 23:57:44.319000+00:00
+created_at: {}
 document_category: financial
-document_date: 2023-01-19
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2024-05-30-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-Ferguson-MVA-5-30-2024/Medical/2023-01-19_Radiology-Associates-Inc_Shoulder-Spine-Exam.pdf
 source_hash: sha256:2ecb13e1764057b164b297a2d473a3091de3fe7e17a5c067f5e2c87e9305b838
+contact: "[[cases/2024-05-30-mva-001/contacts/radiology-associates]]"
 ---
+
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 
 RADIOLOGY ASSOCIATES INC
 PO BOX 36370

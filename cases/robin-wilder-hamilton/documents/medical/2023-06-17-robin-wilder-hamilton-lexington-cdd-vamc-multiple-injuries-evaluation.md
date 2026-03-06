@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2023-06-15-MVA-001
 ---
 
+**Case:** [[cases/robin-wilder-hamilton/robin-wilder-hamilton|Robin Wilder Hamilton]]
+**Client:** [[cases/robin-wilder-hamilton/contacts/robin-wilder-hamilton|Robin Wilder Hamilton]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-Wilder-Hamilton-MVA-6-15-2023/Medical/2023-06-17-Robin-Wilder-Hamilton-LEXINGTON-CDD-VAMC-multiple-injuries-evaluation.pdf"
 source_hash: "sha256:eb7c2ae4f3e[PHONE-1]b0ed74ab97ebad9de998b8feaf35e398a8f0e12dd92"

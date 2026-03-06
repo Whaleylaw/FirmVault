@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:bae44891981f9308077f3a397cd93e12710152961e2e7b23b2f2c4770fbd90f7
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 category: Medical
 date: 2024-05-30
 description: Hospital billing statement from Baptist Health for Jimmy Ferguson's 5/30/24-5/31/24 admission, cervical/thoracic/lumbar spine x-rays and ER Level III, total charges $6,446.82, paid in full by Passport Health by Molina.

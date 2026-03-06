@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:326566aa4cbdd9ace4d0ebdd31dded3b270c3801f6ad3bb1793acef7e28bcb15
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 Subject: New Voice Message from WIRELESS CALLER [PHONE-6] on [DOB-2] 2:58 PM
 From: [EMAIL-3]
 To: Sarena@whaleylawfirm.com

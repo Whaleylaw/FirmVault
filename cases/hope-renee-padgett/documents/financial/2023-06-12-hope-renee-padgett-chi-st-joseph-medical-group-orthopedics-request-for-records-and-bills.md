@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Hope-R
 source_hash: sha256:ef31a0775af0766df829a4dd5c221eae36e8ae36d453c565344ae93a03ed87c7
 ---
 
+**Case:** [[cases/hope-renee-padgett/hope-renee-padgett|Hope Renee Padgett]]
+**Client:** [[cases/hope-renee-padgett/contacts/hope-renee-padgett|Hope Renee Padgett]]
+
 To: [PHONE-14] Page: 1 of4 2023-06-15 15:18:52 GMT [PHONE-13] From: 16193427715
 . LAWLALEY FIRM
 Aoron G. Whaley, Esq,

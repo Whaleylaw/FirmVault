@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:94bd57760afee8fe85e63646ded16bda660f24d1ecd0b411b873c957119ec37b
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 Morehead VA Clinic
 333 Beacon Hill Road #100
 Morehead, KY 40351

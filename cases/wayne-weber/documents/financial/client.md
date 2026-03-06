@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:33d0f66fe977e2e8ce1854b2b5844fbc903a72e12adcb16e4231c62a24d3c489
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 address: 11815 Cedardale Rd, Louisville, KY 40223
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

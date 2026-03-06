@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Azaire
 source_hash: sha256:f69bd64af0621afbb6ea1520685fd8d5b69bc14134333584c5307a4dfeb17b1c
 ---
 
+**Case:** [[cases/azaire-lopez/azaire-lopez|Azaire Lopez]]
+**Client:** [[cases/azaire-lopez/contacts/azaire-lopez|Azaire Lopez]]
+
 item_0.adjuster_email: [EMAIL-1]
 item_0.adjuster_phone: [PHONE-41]
 item_0.claim_number: [POLICY-1]9

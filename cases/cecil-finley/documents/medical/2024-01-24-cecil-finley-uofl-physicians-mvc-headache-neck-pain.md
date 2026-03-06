@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2024-01-24-MVA-001
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-Finley-MVA-1-24-2024/Medical-Records/2024-01-24-Cecil-Finley-UofL-Physicians-MVC-headache-neck-pain.pdf"
 source_hash: "sha256:92c4b167ffa0de8e55a03b68de816fd067ad295366f8b2d730977f44a82b43dd"

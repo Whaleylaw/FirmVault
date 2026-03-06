@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:0097257b6b1e5a479c70b44e85b145b35748598815f13f1941a35f6055d75bfc
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: Pip Log- 044618000-03 Anella Noble
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

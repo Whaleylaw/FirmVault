@@ -2,7 +2,12 @@
 case_slug: stevie-hawks
 document_category: medical
 legacy_case_id: 2024-03-08-MVA-001
+contact: "[[cases/2024-03-08-mva-001/contacts/tristar-skyline-medical-center]]"
 ---
+
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie-Hawks-MVA-3-8-2024/Medical/TriStar Skyline Medical Center/Record Requests/2024-09-16-Stevie-Hawks-Medical-TriStar Skyline Medical Center-Record-Requests-WLF-Medical-Records-Release.pdf"

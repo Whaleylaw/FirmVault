@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:f20f3965baa866b964c3e573356b69cce4f2f00ef1fbbeba6efd2bd7339ef2d0
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 CIVIL ACTION NO. 24-CI-000532 JEFFERSON CIRCUIT COURT
 DIVISION FOUR (4)
 JUDGE JULIE KAELIN

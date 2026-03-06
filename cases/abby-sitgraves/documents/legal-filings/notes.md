@@ -20,6 +20,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Abby-S
 source_hash: sha256:cac0b1997328297fd7eb97e96df11de093e1f210e864997c006086d10b2cc7af
 ---
 
+**Case:** [[cases/abby-sitgraves/abby-sitgraves|Abby Sitgraves]]
+**Client:** [[cases/abby-sitgraves/contacts/abby-sitgraves|Abby Sitgraves]]
+
 item_0.episode_type: settlement
 item_0.note: UM settlement negotiations with National Indemnity Company placed on hold pending addition of all plaintiffs from party bus incident. LaTonya Covington intervention granted December 8, 2025. Additional plaintiffs may still be added. Settlement discussions cannot proceed until all claimants are identified and joined to avoid multiple claims against same policy limits.
 item_0.note_summary: UM Settlement On Hold - Multiple Plaintiffs Being Added

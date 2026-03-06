@@ -19,6 +19,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:14f76189d034d81fa35319b09a06749b46941a6375a95d9e8d11fbcc52c084f9
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 item_0.episode_type: litigation_correspondence
 item_0.note: Defense counsel Aletha Thomas initiated mediation discussion on December 1, 2025. Plaintiff responded December 10, 2025 requesting EDR (Electronic Data Recorder) data from commercial vehicle before proceeding to mediation. Defense confirmed December 15, 2025 that no EDR download exists for this incident. Plaintiff responded January 12, 2026 requesting formal verified interrogatory responses stating under oath: (1) No EDR download was performed, (2) Whether vehicle was equipped with EDR system, (3) If equipped, why no download was performed, (4) Whether any EDR data was overwritten, deleted, or destroyed. This is critical given defendant Hamilton's conflicting deposition testimony claiming no contact occurred and damage was from truck stop hit-and-run, despite photos showing damage to front passenger corner consistent with plaintiff's account of semi merging into her vehicle.
 item_0.note_summary: EDR Discovery Issue and Mediation Discussion with Defense Counsel

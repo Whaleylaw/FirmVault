@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:75d4e44b94dee78167e2a1e5802829586fe0fe34c4fed36f189a8b7a511df0b1
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 ( » LexisNexis
 Search: Public Records : Locate a Person (Nationwide)
 Terms: first-name(Rodney) last-name(Kellams) state(ALL) radius(30)

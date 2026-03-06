@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Forres
 source_hash: sha256:d68d5c56d3b03f6fcafc4a2021774aecefe8103f04541c552c8b96a9a7ac643f
 ---
 
+**Case:** [[cases/forrest-muss/forrest-muss|Forrest Muss]]
+**Client:** [[cases/forrest-muss/contacts/forrest-muss|Forrest Muss]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Forrest-Muss-MVA-[DOB-1]/Investigation/2025-07-20-Forrest-Muss-Investigation-McDonalds-Grill-Slip-Receipt.jpg

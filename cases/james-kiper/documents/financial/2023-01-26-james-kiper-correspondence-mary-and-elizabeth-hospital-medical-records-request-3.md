@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:1cc0d9028e93e69b5809980409ed21569a4a85df2434a944600321824f146bae
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 UMC ULH [DOB-8] 14:55:42 PAGE 1/005 Fax server
 To: whaley law
 Company:

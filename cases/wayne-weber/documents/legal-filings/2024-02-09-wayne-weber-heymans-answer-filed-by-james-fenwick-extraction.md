@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:ef67929145850a337a625a7ac0f9b5bca8db2138eea66f69758d454c951f88b1
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: litigation
 extraction.date: 2024-02-09
 extraction.description: Heymans answer filed by James Fenwick for Wayne Weber case dated February 9, 2024.

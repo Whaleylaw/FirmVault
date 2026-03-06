@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:3c861c0e7f80ce16c0910e8fd65ad303d772f97f6d010f770aa66bc7381557f2
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 June 19, 2024
 Conduent
 PO BOX 30114

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya
 source_hash: sha256:eb555ef5940f0bc0782af697441d71bcacf834c6cf670db21013ac993022b92f
 ---
 
+**Case:** [[cases/sariya-mason/sariya-mason|Sariya Mason]]
+**Client:** [[cases/sariya-mason/contacts/sariya-mason|Sariya Mason]]
+
 AOC-E-105 Sum Code: Cl
 Rev. 9-14 Case #: 23-Cl-006039
 Court: CIRCUIT

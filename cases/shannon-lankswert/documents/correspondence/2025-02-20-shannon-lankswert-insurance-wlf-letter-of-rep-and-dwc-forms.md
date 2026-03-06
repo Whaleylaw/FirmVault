@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:8a2fc1ce19f3118c96a2fc0dbeef9183471272818524b55c7389daeddcca92e4
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 Subject: Re: WC80D-H07503 Shannon Lankswert
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:29e78b56dae3f474ce7b2b435857d14b07bf427cf4b5163d5e86d4a4ec4e6221
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 item_0.holder_address: 232 S. Capitol Ave., L09A, Lansing, MI 48933-1504
 item_0.holder_phone: 1-[PHONE-1]
 item_0.lien_holder_name: Blue Cross Blue Shield of Michigan

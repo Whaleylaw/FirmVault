@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Lindse
 source_hash: sha256:3e7d0b8539ba5f27d80c320659769fc3823611fa6551a93a637acecd830d8f45
 ---
 
+**Case:** [[cases/lindsey-dunn/lindsey-dunn|Lindsey Dunn]]
+**Client:** [[cases/lindsey-dunn/contacts/lindsey-dunn|Lindsey Dunn]]
+
 Nov. 06.2025 12:51 PM Tri-State [PHONE-20] P 1/11
 X
 To: Wholey

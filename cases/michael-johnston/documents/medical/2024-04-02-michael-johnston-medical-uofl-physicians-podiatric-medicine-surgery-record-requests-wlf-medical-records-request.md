@@ -1,21 +1,23 @@
 ---
 case_slug: michael-johnston
-created_at: 2026-02-17 00:07:10.202000+00:00
+created_at: {}
 document_category: medical
-document_date: 1978-04-21
+document_date: {}
 document_type: medical
-entities:
-- Johnston CRR UL Hospital
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-05-03-OTH-001
 mime_type: message/rfc822
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michael-Johnston-WC-05-03-2023/Medical/UofL
-  Physicians - Podiatric Medicine & Surgery/Record Requests/2024-04-02-Michael-Johnston-Medical-UofL
-  Physicians - Podiatric Medicine & Surgery-Record-Requests-WLF-Medical-Records-Request.eml
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michael-Johnston-WC-05-03-2023/Medical/UofL Physicians - Podiatric Medicine & Surgery/Record Requests/2024-04-02-Michael-Johnston-Medical-UofL Physicians - Podiatric Medicine & Surgery-Record-Requests-WLF-Medical-Records-Request.eml
 source_hash: sha256:a77848cdbd323e682288f87f9a02c53abebd1dc917c1e4889cba45fe72604fb5
+contact: "[[cases/2023-05-03-oth-001/contacts/uofl-physicians-podiatric-medicine-surgery]]"
 ---
+
+**Case:** [[cases/michael-johnston/michael-johnston|Michael Johnston]]
+**Client:** [[cases/michael-johnston/contacts/michael-johnston|Michael Johnston]]
+
 
 Subject: Certified Medical Records & Billing Request - Michael Johnston DOB [DOB-1]
 From: sarena@whaleylawfirm.com

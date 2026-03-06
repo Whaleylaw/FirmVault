@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel
 source_hash: sha256:cb876511f70102da1cce203498ccca6afec4e9377de710d1cc40fefd93d15cc7
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 October 19, 2021
 Safeco Insurance Company
 ATTN: Sean-Robert James

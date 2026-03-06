@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:b15406199de7b5de645ed768932385210e17890702e537ef926bac26e3cff622
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: medical_records_request_response
 extraction.date: 2024-11-14
 extraction.description: Response email from MCA Billing ([EMAIL-2]) with subject 'RECORDS REQUEST'. Contains medical records response, likely with encrypted/secure attachment. Sent as response to certified medical records request.

@@ -1,6 +1,6 @@
 ---
 case_slug: davis-robinson
-created_at: 2026-02-16 22:55:58.881000+00:00
+created_at: {}
 document_category: other
 document_type: other
 extraction_method: native_text
@@ -10,7 +10,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-Robinson-SF-05-02-2025/Medical-Records/2025-05-15_Medical_Seven-Hills-Anesthesia-Surgery-Bill_001.pdf
 source_hash: sha256:7062f9f4f1a518b80bbf5619b1e57c4bf715a14c5e1ef23dc86ec8256ae872d9
+contact: "[[cases/2025-05-02-sf-001/contacts/seven-hills-anesthesia]]"
 ---
+
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 
 UONEDIUNWIWOD jeWbiG
 

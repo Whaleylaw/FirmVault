@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:616200b0f136ba77c0b852b698c008a2f60d6062ea97319e7dbacfa8d64f5bb1
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 ChartSwap
 2951 Marina Bay Drive
 Suite 130-132

@@ -12,4 +12,7 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:74534bcc928fb6165601cdccd12ba7fbd496417ca89671837f9993dc33ec1554
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 AOS : 000001 of 000001 000001 of 000001 2E3E986D-BD75-4FFD-9006-826097D8095E : 000001 of 000001

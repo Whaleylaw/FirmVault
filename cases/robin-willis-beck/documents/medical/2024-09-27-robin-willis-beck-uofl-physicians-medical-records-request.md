@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:1c6c6675b92db06ba70900718e6d7fcbed12fbe415e1229171e4d33f48ec5c86
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 UofL Physicians [DOB-1] 2:54:05 PM PAGE 1/007 Fax Server
 Fax Transmission
 UL Health| vofL Physicians

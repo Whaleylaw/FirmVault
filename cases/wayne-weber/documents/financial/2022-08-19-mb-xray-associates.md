@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:4ccc4e971350e478654f746dc7ad733adaacd6f9ecae48b5ff45da65e8980248
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 TTFeo) 13
 . KY FARM BUREAU
 P O BOX 20600

@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2022-08-19-DB-001
 ---
 
+**Case:** [[cases/sariya-mason/sariya-mason|Sariya Mason]]
+**Client:** [[cases/sariya-mason/contacts/sariya-mason|Sariya Mason]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya-Mason-DB-[DOB-1]/Medical/2022-08-19-Schrice-Thomas-UL-MSW-Medical-Center-Emergency-Room-Visit.pdf"
 source_hash: "sha256:3ccb553f357253a4f6331c10587c77405ebc1c1f6a49ea4567b2112c736d7862"

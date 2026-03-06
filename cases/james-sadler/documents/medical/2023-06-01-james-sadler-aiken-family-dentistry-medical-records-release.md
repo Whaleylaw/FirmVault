@@ -1,8 +1,8 @@
 ---
 case_slug: james-sadler
-created_at: 2026-02-16 23:55:07.978000+00:00
+created_at: {}
 document_category: medical
-document_date: 1949-06-14
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2023-04-07-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Sadler-MVA-4-07-2023/HIPAA-Authorizations/2023-06-01-James-Sadler-Aiken-Family-Dentistry-Medical-Records-Release.pdf
 source_hash: sha256:17c5f0d0e29aae55e5dfa5630b267555a8e337921ffb8d344f80808313163fca
+contact: "[[cases/2023-04-07-mva-001/contacts/aiken-family-dentistry]]"
 ---
+
+**Case:** [[cases/james-sadler/james-sadler|James Sadler]]
+**Client:** [[cases/james-sadler/contacts/james-sadler|James Sadler]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

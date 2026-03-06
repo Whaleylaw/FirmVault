@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Collee
 source_hash: sha256:94ad8f1873680e19f880e13f3164ddd2f1c5f9cf9d16c8e4f7fedbb03f187171
 ---
 
+**Case:** [[cases/colleen-colvin/colleen-colvin|Colleen Colvin]]
+**Client:** [[cases/colleen-colvin/contacts/colleen-colvin|Colleen Colvin]]
+
 address: 128 South St, Radcliff, KY 40160
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

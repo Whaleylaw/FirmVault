@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2021-09-03-MVA-001
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda-Lang-MVA-[DOB-316]/Medical/2023-07-06-Brenda-D-Lang-Whaley-Law-Firm-Request-medical-records.pdf"
 source_hash: "sha256:5048a0edef0c05b515647068815a50fd7399b413ee3e188845e92123646873a7"

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:ce14feea132f2eeae7d004c5f3453beb6961ab979a2cd1925e6ebc40614a79e0
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 *
 *Live* Commonwealth Health Cor Print Scanned Documants Page: 1
 050000159020 Payne,Cora Nae Data; 11/08/23 13:17

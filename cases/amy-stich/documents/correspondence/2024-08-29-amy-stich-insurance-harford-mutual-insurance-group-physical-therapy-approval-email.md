@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:84eaf69e256b0039dd8e14326fc0ad8d8648418b994a41f50e5f32f339db4e73
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 From: Kristi Goldener <[EMAIL-6]>
 To: Sarena Tuttle <sarena@whaleylawfirm.com>
 CC: Bryce Koon <[EMAIL-5]>

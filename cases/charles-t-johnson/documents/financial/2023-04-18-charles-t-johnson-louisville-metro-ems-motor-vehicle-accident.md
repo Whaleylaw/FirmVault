@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:3ca30aca63e3f96c3ec9673f65acf92b99a4f2bed90a1a7d317dba2d0d4366ca
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 a Louisville Metro EMS Patient Care Record
 Name: JOHNSON, CHARLES
 Patient information

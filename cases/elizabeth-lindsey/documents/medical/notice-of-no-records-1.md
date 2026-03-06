@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Elizab
 source_hash: sha256:284cf1405f78b46eac1a535d4b84504a017e37d47730346377ba6c475867ffb0
 ---
 
+**Case:** [[cases/elizabeth-lindsey/elizabeth-lindsey|Elizabeth Lindsey]]
+**Client:** [[cases/elizabeth-lindsey/contacts/elizabeth-lindsey|Elizabeth Lindsey]]
+
 Fax Server 9/30/2025 8:28:43 AM EDT PAGE 1/005 Fax Server
 ST. ELIZABETH HEALTHCARE e St. Elizabeth 1 Medical Village Drive,
 Edgewood, KY 41017 HEALTHCARE

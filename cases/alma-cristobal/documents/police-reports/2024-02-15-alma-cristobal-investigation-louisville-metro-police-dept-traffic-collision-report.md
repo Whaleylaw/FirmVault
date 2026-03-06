@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:77a3fb721aa523425d7f49c6cc39970d10109413e459b41b54903b97d7dc42cb
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 KENTUCKY UNIFORM POLICE
 TRAFFIC COLLISION REPORT DRAFT [MASTER FILE#
 INVESTIGATING AGENCY

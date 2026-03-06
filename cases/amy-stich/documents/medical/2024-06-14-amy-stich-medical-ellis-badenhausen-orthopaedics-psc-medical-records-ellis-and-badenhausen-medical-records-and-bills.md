@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:fa6bc1b5dd0092d6919549cff29bf567b98a85404c136ce9932498a99241dccf
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 aoe ree seer saree eee ree
 CERTIFICATIONOFMEDICALRECORDSAFFIDAVIT
 Meheé ( Gea Y ,being first duly sworn on his/her oath, says that:

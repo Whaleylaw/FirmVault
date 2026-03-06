@@ -1,6 +1,6 @@
 ---
 case_slug: lejzane-miftari
-created_at: 2026-02-17 00:02:59.286000+00:00
+created_at: {}
 document_category: other
 document_type: other
 extraction_method: native_text
@@ -8,11 +8,14 @@ legacy_case_id: 2025-06-18-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Lejzane-Miftari-MVA-6-18-2025/Medical/Southeastern
-  Emergency Services, LLC/Medical Bills/2025-06-18-Lejzane-Miftari-Medical-Southeastern
-  Emergency Services, LLC-Medical-Bills-St-Mary-and-Elizabeth-Hospital-Medical-Health-Insurance-Claim-Form.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Lejzane-Miftari-MVA-6-18-2025/Medical/Southeastern Emergency Services, LLC/Medical Bills/2025-06-18-Lejzane-Miftari-Medical-Southeastern Emergency Services, LLC-Medical-Bills-St-Mary-and-Elizabeth-Hospital-Medical-Health-Insurance-Claim-Form.pdf
 source_hash: sha256:45673992410ef7ea48b9c475070eb1a967afbaa9fa1060fff02601cdfb11e855
+contact: "[[cases/2025-06-18-mva-001/contacts/southeastern-emergency-services-llc]]"
 ---
+
+**Case:** [[cases/lejzane-miftari/lejzane-miftari|Lejzane Miftari]]
+**Client:** [[cases/lejzane-miftari/contacts/lejzane-miftari|Lejzane Miftari]]
+
 
 MITCHELL
 INTERNATIONAL

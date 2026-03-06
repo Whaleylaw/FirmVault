@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:53435083725dc952db7bc6a8222f4135f158a95b55e866cde6b654cdf36ad5b3
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 Subject: Re: The Defendant's Discovery Requests. Please review & respond to the attached.
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

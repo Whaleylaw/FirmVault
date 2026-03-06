@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:d8ad102bf8ddc097d114d5b8559593453852dbaa202d566c50219af0a9d43de9
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 From: Ryan Nafziger
 Sent: Thursday, May 2, 2024 9:44 AM
 To: Bryce Koon; Joseph Effinger

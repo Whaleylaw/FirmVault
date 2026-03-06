@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:8f7c2358bd4062f8b56dd2a4dcfff9e6dde3aeb13b4976acdd0e2b5fdeeb6c7b
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 CASE NO. ___________ JEFFERSON CIRCUIT COURT 
  DIVISION __ 
 JUDGE ___________________ 

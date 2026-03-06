@@ -1,8 +1,8 @@
 ---
 case_slug: caryn-mccay
-created_at: 2026-02-16 22:16:53.959000+00:00
+created_at: {}
 document_category: insurance
-document_date: 2023-09-29
+document_date: {}
 document_type: insurance
 extraction_method: native_text
 legacy_case_id: 2023-07-30-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-McCay-MVA-7-30-2023/Medical/2023-07-30-Caryn-McCay-UK-HEALTHCARE-HOSPITALS-Medical-Bill.pdf
 source_hash: sha256:df7b6b9615aa5ff2217b3f380df337387869d61a96a2f63738bba8f66d1fdcda
+contact: "[[cases/2023-07-30-mva-001/contacts/caryn-mccay]]"
 ---
+
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 
 %%DPS::DUPLEX
 September 29, 2023

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:059c56b69f0fb71f1899d261b867600ef0771706515976d5854eb49b5b535d39
 ---
 
+**Case:** [[cases/charles-godsey/charles-godsey|Charles Godsey]]
+**Client:** [[cases/charles-godsey/contacts/charles-godsey|Charles Godsey]]
+
 item_0.jsonb_agg[0].address: 4408 Hazlewood Ave
 item_0.jsonb_agg[0].full_name: Charles Godsey
 item_0.jsonb_agg[0].phone: [PHONE-1]

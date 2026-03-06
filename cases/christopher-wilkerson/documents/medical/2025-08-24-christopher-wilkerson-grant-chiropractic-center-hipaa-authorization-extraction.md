@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:518411a2f5e19e93090304dd5cbaacb65fc1705f2f31edc7441596c054bfa1ec
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 category: Medical
 confidence: high
 description: HIPAA authorization for Grant Chiropractic Center to release medical records to The Whaley Law Firm. Signed by Chris Wilkerson. Date appears to be August 24, 2025 (no explicit date visible on form).

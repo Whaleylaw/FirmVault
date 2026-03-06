@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:e7f51f0a26a39b274528fef55c8a1eb7449b24833748aa52eb7451ef1ee86464
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 category: Client
 description: New client information sheet and intake form for motor vehicle collision case documenting personal information, employment details, and accident circumstances.
 entities[0]: Maryan Kassim

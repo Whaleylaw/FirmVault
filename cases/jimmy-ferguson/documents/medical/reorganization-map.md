@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:e9ed32f6e121e0354625cba9cf2593e7a375597e96cb70a7623f94db9cd698d2
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 case_name: Jimmy-Ferguson-MVA-5-30-2024
 mappings[0].action: MOVE
 mappings[0].new_filename: 2024-05-30_EMS-Ambulance_Front-Bumper-Damage.jpg

@@ -1,12 +1,10 @@
 ---
 case_slug: anella-noble
-created_at: 2026-02-16 22:02:40.997000+00:00
+created_at: {}
 document_category: insurance
-document_date: 2020-02-01
+document_date: {}
 document_type: insurance
-entities:
-- Norton Hospital
-- State Farm
+entities: null
 extraction_method: native_text
 legacy_case_id: 2021-01-03-MVA-001
 mime_type: application/pdf
@@ -14,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella-Noble-MVA-01-03-2021/Discovery/2021-01-03-Anella-Noble-Virginia-P-Sewell-Responses-to-Discovery.pdf
 source_hash: sha256:6c0e68e6345128e9429170f18896b9f397b54ccceaba91b7349f8f4273ab0e24
+contact: "[[cases/2021-01-03-mva-001/contacts/virginia-p-sewell]]"
 ---
+
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 
 NO. 21-CI-004985 JEFFERSON CIRCUIT COURT THE HON. MARY SHAW DIVISION FIVE (5)
 

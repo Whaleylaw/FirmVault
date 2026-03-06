@@ -1,8 +1,8 @@
 ---
 case_slug: daniel-w-volk
-created_at: 2026-02-16 22:55:42.285000+00:00
+created_at: {}
 document_category: legal
-document_date: 2025-03-18
+document_date: {}
 document_type: legal
 extraction_method: native_text
 legacy_case_id: 2021-09-24-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 90
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel-W-Volk-MVA-09-24-2021/Reports/extractions/2025-03-18-Daniel-W-Volk-NOTICE-OF-SERVICE-filed-by-SAFECO-INSURANCE-COMPANY-OF-ILLINOIS_extraction.json
 source_hash: sha256:54caa4d3a3a15a099add3940c159a032c2b7ef7f948fde91e2aa79d64141cfba
+contact: "[[cases/2021-09-24-mva-001/contacts/safeco-insurance-company]]"
 ---
+
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 
 extraction.classification.bucket: Litigation
 extraction.classification.confidence: high

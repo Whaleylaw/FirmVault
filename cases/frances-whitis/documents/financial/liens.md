@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/France
 source_hash: sha256:c8c7858cca62e99d44d7339f0888d4c43f5c7d5f0e95ebc6cb3b90c357154f5b
 ---
 
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 item_0.date_notice_received: 2025-03-31
 item_0.holder_address: P.O Box 981106, El Paso, TX 79998
 item_0.holder_phone: [PHONE-2] Fax

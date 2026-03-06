@@ -1,8 +1,8 @@
 ---
 case_slug: cora-hall
-created_at: 2026-02-16 22:37:27.503000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1989-09-22
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2022-12-05-OTH-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-Hall-WC-12-05-2022/Medical/2023-08-04-Cora-Hall-Imaging-Consultants-of-Kentucky-Medical-Records.pdf
 source_hash: sha256:e20337548ee17951ae11666e9c85242b88c62fd87d80a56d3751fd741edc4e00
+contact: "[[cases/2022-12-05-oth-001/contacts/imaging-consultants-of-kentucky]]"
 ---
+
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

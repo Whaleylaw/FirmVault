@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:8540e11dd5001b237460e3a015c1b8a8df42e22f1bf3967bfdb343150836bbc1
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 Subject: Re: New submission from Contact Us
 From: [EMAIL-1]
 To: Sarena@whaleylawfirm.com

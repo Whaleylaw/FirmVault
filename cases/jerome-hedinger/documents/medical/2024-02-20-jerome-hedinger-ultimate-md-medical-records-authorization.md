@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:8e847a8d1bc68481aefffa9e5bca4eb4d905adf09ae7d73159bd425258216471
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 [DOB-4]
 Ultimate MD – Dr. William Haney
 125 Fairfax Ave

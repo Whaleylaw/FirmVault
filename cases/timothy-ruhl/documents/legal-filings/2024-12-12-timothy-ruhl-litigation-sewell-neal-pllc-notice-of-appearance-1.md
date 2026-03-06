@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:7039c24e1f4b9a532bcb3f4c9407824e81b36b3e540258a436e77790483de348
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 ELECTRONICALLY FILED
 CASE NO. 24-CI-005896 JEFFERSON CIRCUIT COURT
 DIVISION NINE (9)

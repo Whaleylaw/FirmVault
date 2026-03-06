@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:5f20d933c62d547dff21b8abe36730285f8017be6e5eefffed8cf5d8a925eb99
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 CIVIL ACTION NO. 23-CI-005758
 JAMES KIPER
 Vv.

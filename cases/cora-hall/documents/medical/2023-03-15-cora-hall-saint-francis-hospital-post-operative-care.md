@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2022-12-05-OTH-001
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-Hall-WC-[DOB-17]/Medical/2023-03-15-Cora-Hall-Saint-Francis-Hospital-Post-operative-care.pdf"
 source_hash: "sha256:d6d26070492a37d0b997ffc5187de68a2732995dd796ac945a078fa2420158e3"

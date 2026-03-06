@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Hope-R
 source_hash: sha256:895eb6d359cf9401ec9064076c0402f6d6837b3c505976217de04532d493724c
 ---
 
+**Case:** [[cases/hope-renee-padgett/hope-renee-padgett|Hope Renee Padgett]]
+**Client:** [[cases/hope-renee-padgett/contacts/hope-renee-padgett|Hope Renee Padgett]]
+
 LINTON SPINE & JOINT CENTER
 Robert Linton, D.C., F.A.C.O.
 107 Brandon Way @ Mt. Sterling, KY 40353

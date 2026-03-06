@@ -1,8 +1,8 @@
 ---
 case_slug: davis-robinson
-created_at: 2026-02-16 22:56:02.984000+00:00
+created_at: {}
 document_category: insurance
-document_date: 2025-05-02
+document_date: {}
 document_type: insurance
 extraction_method: native_text
 legacy_case_id: 2025-05-02-SF-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 90
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-Robinson-SF-05-02-2025/Reports/extractions/2025-05-02-Davis-Robinson-Texas-Roadhouse-claim-investigation_extraction.json
 source_hash: sha256:713a047ea01bc238c7e8764bcf8a5864b2623f103d8c5ec88fd8730abc3c94a7
+contact: "[[cases/2025-05-02-sf-001/contacts/texas-roadhouse]]"
 ---
+
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 
 extraction.classification.bucket: Investigation
 extraction.classification.confidence: high

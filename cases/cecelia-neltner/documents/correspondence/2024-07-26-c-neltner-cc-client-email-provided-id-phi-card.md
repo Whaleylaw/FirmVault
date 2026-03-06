@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ceceli
 source_hash: sha256:3e3791802f9d33ec8a8fdbfc276bfae544194fd682681eb191dc1ebc7d4cf8f4
 ---
 
+**Case:** [[cases/cecelia-neltner/cecelia-neltner|Cecelia Neltner]]
+**Client:** [[cases/cecelia-neltner/contacts/cecelia-neltner|Cecelia Neltner]]
+
 Subject: Re: Your Written Discovery Requests from the Defense Attorney.
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

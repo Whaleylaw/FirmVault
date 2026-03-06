@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:989db895ceec5a6c27ff577f959f11c24fffe65c549f401c3f92ecae66786632
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 BAPTIST HEALTH’ Br
 Release of Information
 Baptist Health

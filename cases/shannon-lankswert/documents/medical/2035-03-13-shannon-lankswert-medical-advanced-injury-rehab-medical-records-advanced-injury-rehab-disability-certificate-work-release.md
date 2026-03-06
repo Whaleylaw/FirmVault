@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:d53091aa83a9091afcf786e5e4b95254ea68352f1a7b5837c354b24e7261bd44
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 ADVANCED INJURY REHAB
 402 Manor Ave Ste. 202, Bardstown KY, 40004
 Phone: [PHONE-4], Fax: [PHONE-3]. -

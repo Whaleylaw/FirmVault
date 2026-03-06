@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:8df7b63e507a40702b9667e31304c277e2eb03ce098aa284109ae67fd93614e4
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: medical
 date: 2018-04-21
 description: Hospital billing claim form for emergency room services, laboratory tests, and radiology for Chase Lindsey, service date 12/01/24, total charges $16,219.53

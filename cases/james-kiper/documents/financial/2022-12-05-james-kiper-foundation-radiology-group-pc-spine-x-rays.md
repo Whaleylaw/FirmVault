@@ -1,18 +1,22 @@
 ---
 case_slug: james-kiper
-created_at: 2026-02-16 23:51:51.303000+00:00
+created_at: {}
 document_category: financial
-document_date: 2022-12-05
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2022-12-05-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Kiper-MVA-12-5-2022/Old
-  Files/2022-12-05-James-Kiper-FOUNDATION-RADIOLOGY-GROUP-PC-Spine-X-rays.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Kiper-MVA-12-5-2022/Old Files/2022-12-05-James-Kiper-FOUNDATION-RADIOLOGY-GROUP-PC-Spine-X-rays.pdf
 source_hash: sha256:0bf52eec8bca2e9cc701724df08e2a19b7e55b32a01105e5fc9496d1d8a00cfd
+contact: "[[cases/2022-12-05-mva-001/contacts/foundation-radiology]]"
 ---
+
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 
 Make Checks Payable/Remit To:
 FOUNDATION RADIOLOGY GROUP PC

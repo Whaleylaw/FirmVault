@@ -1,6 +1,6 @@
 ---
 case_slug: wayne-weber
-created_at: 2026-02-17 00:40:20.480000+00:00
+created_at: {}
 document_category: medical
 document_type: medical
 extraction_method: native_text
@@ -8,10 +8,14 @@ legacy_case_id: 2022-01-01-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-Weber-MVA-01-01-2022/Medical/2025-08-28
-  - Medical - Anchorage Middletown Fire EMS - HIPAA Authorization - Wayne Weber.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-Weber-MVA-01-01-2022/Medical/2025-08-28 - Medical - Anchorage Middletown Fire EMS - HIPAA Authorization - Wayne Weber.pdf
 source_hash: sha256:50ad8726eb755c4af371f92f023a8c799253f9dc41260b60c7ea9475f3012ca4
+contact: "[[cases/2022-01-01-mva-001/contacts/anchorage-middletown-fire-ems]]"
 ---
+
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 
 Anchorage Middletown Fire & EMS
 108 Urton Lane

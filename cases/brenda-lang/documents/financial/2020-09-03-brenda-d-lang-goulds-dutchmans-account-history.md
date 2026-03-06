@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:2cba28f969428af7ae9794ccd9e74cc8c9689cf45f314ed4204208a60dd88f55
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 831 SUTCLIFFE AVE
 LOUISVILLE KY, 402112833 
 BRENDA LANG

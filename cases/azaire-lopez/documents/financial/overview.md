@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Azaire
 source_hash: sha256:adbe26691409c57c5954d9ce7860c3698df39c1f719047c91cb42768880678b9
 ---
 
+**Case:** [[cases/azaire-lopez/azaire-lopez|Azaire Lopez]]
+**Client:** [[cases/azaire-lopez/contacts/azaire-lopez|Azaire Lopez]]
+
 item_0.jsonb_agg[0].case_type: MVA
 item_0.jsonb_agg[0].client_name: A'zaire Lopez
 item_0.jsonb_agg[0].client_phone: [PHONE-1]

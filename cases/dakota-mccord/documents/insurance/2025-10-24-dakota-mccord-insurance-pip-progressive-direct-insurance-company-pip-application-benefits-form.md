@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dakota
 source_hash: sha256:5f00cd4cda5b68441738c6e70dd27743e7bd1e26ae7895502b65200de59ff190
 ---
 
+**Case:** [[cases/dakota-mccord/dakota-mccord|Dakota McCord]]
+**Client:** [[cases/dakota-mccord/contacts/dakota-mccord|Dakota McCord]]
+
 Underwritten by: Progressive Direct Insurance Company Claim Number: = 25-[POLICY-1] Loss Date: October 12, 2025
 
 APPLICATION FOR BENEFITS PERSONAL INJURY PROTECTION

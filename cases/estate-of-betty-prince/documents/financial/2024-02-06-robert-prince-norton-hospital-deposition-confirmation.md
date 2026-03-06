@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:1f6c9e10257d864a3bb8f510f14f03afb19b85b1f59c4dba4e1f343979177a15
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 Confirmation Kentuckiana Reporters
 P.O. Box 3983
 Louisville, KY 40201

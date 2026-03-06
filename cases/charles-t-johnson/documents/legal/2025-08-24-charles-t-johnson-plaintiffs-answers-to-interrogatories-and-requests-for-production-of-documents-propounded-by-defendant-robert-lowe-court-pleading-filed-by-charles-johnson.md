@@ -4,6 +4,9 @@ document_category: legal
 legacy_case_id: 2023-04-18-MVA-001
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charles-T-Johnson-MVA-4-18-2023/Court-Pleadings/2025-08-24-Charles-T-Johnson-PLAINTIFFS-ANSWERS-TO-INTERROGATORIES-AND-REQUESTS-FOR-PRODUCTION-OF-DOCUMENTS-PROPOUNDED-BY-DEFENDANT-ROBERT-LOWE-court-pleading-filed-by-CHARLES-JOHNSON.pdf"
 source_hash: "sha256:7a9a368f30501e0ee8a03e834ff4971e31d7f8173f9110e2634ca975676dc287"

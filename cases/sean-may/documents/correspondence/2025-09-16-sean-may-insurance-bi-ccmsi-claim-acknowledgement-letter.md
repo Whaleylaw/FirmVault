@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sean-M
 source_hash: sha256:901159526ad3f6ab3fa9382a621990d33dc3662087d316db288c0a1556981802
 ---
 
+**Case:** [[cases/sean-may/sean-may|Sean May]]
+**Client:** [[cases/sean-may/contacts/sean-may|Sean May]]
+
 Cannon Cochran Management Services, Inc.
 550 W Van Buren Street, Suite 1200  Chicago, IL 60607
 [PHONE-12]  [PHONE-11]  Fax: [PHONE-10]  www.ccmsi.com

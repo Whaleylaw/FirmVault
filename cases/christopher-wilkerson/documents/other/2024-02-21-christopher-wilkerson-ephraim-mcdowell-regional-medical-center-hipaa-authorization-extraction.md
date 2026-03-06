@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:3f0a2aba0fe426b0ffadd17d531db30de576a6ea2cc4524f21ced6222526f2ea
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 category: Medical
 confidence: high
 description: HIPAA authorization for Ephraim McDowell Regional Medical Center to release medical records to The Whaley Law Firm. Signed [DOB-1].

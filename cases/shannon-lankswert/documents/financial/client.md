@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:ff69566c7110e96a2669ba2c36924a93d742776ca1317f36b82ce3bc2bc64cf0
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 address: 118 Cumberland Court, Bardstown, KY 40004
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmon
 source_hash: sha256:570229ba1ec6486ce25f060c7ad6781ef81bb3c37fdd19a746f1ef85691fc595
 ---
 
+**Case:** [[cases/julmonzhae-moore/julmonzhae-moore|Julmonzhae Moore]]
+**Client:** [[cases/julmonzhae-moore/contacts/julmonzhae-moore|Julmonzhae Moore]]
+
 Page 1 of 1
 AmeriPro EMS of Indiana, LLC INVOICE
 Bill to:

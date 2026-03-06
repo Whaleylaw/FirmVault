@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:051a7d78ee5c5b8e1e8199ff43aa64dc22f4aad718d5a79df8caf816534aab57
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: Subpoena Duce Tecum - Metro PCS Cell Phone Records Request
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee
 source_hash: sha256:383bbedd730d901789e5a1a06cab55158b0430d508b2a70b5e63b951ec07d155
 ---
 
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 IDAVTT
 ft\, (r*tirn being first duly sworn on his&er oath, says that:
 {Name of records custodian/clerk)

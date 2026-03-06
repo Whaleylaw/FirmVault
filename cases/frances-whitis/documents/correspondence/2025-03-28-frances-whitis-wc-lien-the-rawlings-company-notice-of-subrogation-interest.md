@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/France
 source_hash: sha256:37d94c9fbafa0da15f8ef8d55e49f59c67317804805722de19353c2b6786773b
 ---
 
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 +18339448 730
 They. Rawlings Companyic
 Subrogation Dirvbas

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:f4e42e9dc87f2933eed5f9e2702a5984ed1f6cbd87fe530496bb6f0c74f88168
 ---
 
+**Case:** [[cases/shannon-colvin/shannon-colvin|Shannon Colvin]]
+**Client:** [[cases/shannon-colvin/contacts/shannon-colvin|Shannon Colvin]]
+
 COMMONWEALTH OF KENTUCKY 
 HARDIN CIRCUIT COURT 
 CIVIL ACTION NO. 24-CI-01568 

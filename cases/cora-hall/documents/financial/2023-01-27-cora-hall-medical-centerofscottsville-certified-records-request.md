@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:fce6dbde248e4fa8f409dfc0440eee7039d76e2219a4fb7c84e2e5683370144f
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 O1-27- 23 13:16 FROM- CHC CFR Cashiers [PHONE-19] T-835 PQQ] /0007 F-958
 FAX COVER SHEET
 DATE: TIME:

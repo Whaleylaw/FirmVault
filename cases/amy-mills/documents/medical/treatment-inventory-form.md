@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:d8791c185509740ce291a8a37264b374850337cf4c15c1099656d362ee0120bf
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 MEDICAL TREATMENT INVENTORY
 
 I.	Medical Care Providers listed in our records: 

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:67d43e61e1f8cbaa901953a471a3ffd36301ce2d124057c46803459f6fac8cec
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 Providing Insurance and Financial Services
 Home Office, Bloomington, IL
 October 2, 2024

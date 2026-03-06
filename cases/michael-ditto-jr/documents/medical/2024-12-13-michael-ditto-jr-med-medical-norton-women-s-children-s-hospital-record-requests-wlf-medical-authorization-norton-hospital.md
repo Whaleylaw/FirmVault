@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:f04f74f1b0105bb68c08084022b9277138c22d5bb6631911743412d8d4d2a9c5
 ---
 
+**Case:** [[cases/michael-ditto-jr/michael-ditto-jr|Michael Ditto Jr]]
+**Client:** [[cases/michael-ditto-jr/contacts/michael-ditto-jr|Michael Ditto Jr]]
+
 ***-**-3148
 Norton Women & Children’s Hospital
 4001 Dutchman Lane

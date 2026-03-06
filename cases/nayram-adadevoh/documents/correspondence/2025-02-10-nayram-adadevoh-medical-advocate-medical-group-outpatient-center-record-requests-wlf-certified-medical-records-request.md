@@ -2,7 +2,12 @@
 case_slug: nayram-adadevoh
 document_category: correspondence
 legacy_case_id: 2024-07-13-MVA-002
+contact: "[[cases/2024-07-13-mva-002/contacts/advocate-medical-group-outpatient-center]]"
 ---
+
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram-Adadevoh-MVA-7-13-2024/Medical/Advocate Medical Group Outpatient Center/Record Requests/2025-02-10-Nayram-Adadevoh-Medical-Advocate Medical Group Outpatient Center-Record-Requests-WLF-Certified-Medical-Records-Request.pdf"

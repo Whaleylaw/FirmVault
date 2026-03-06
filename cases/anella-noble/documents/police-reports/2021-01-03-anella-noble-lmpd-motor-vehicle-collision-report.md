@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:c83017f124d11640154c3f96cfba7bb8c6d1f6ac2283f44ba9a08edacc372bfc
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Skip to main content
 Public Record Requests
 Louisville Metro Government

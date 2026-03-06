@@ -1,23 +1,22 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:49:08.978000+00:00
+created_at: {}
 document_category: court-filings
 document_type: court_filing
-entities:
-- Jessica Gibbs
-- Kaitlin Collier
-- Kelli Corum
-- Aetna
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/PT
-  Pros Physical Therapy and Sports Center/Medical Bills/2019-10-14-Amy-Mills-Medical-PT
-  Pros Physical Therapy and Sports Center-Medical-Bills-PT-Pros-Corbin-Affidavit-and-Billing-Ledger-1.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/PT Pros Physical Therapy and Sports Center/Medical Bills/2019-10-14-Amy-Mills-Medical-PT Pros Physical Therapy and Sports Center-Medical-Bills-PT-Pros-Corbin-Affidavit-and-Billing-Ledger-1.pdf
 source_hash: sha256:8fb10e89eb76a295cb264ed63b5e193fce62bea0b9bc7704034032341b464a54
+contact: "[[cases/2019-04-26-prl-001/contacts/pt-pros-physical-therapy-and-sports-center]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 CERTIFICATION OF MEDICAL BILLING RECORDS AFFIDAVIT
 A Mt)U Kus Wf , being first duly sworn on his/her oath, says that:

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:c2e9016ccb10a95783d3e77c07b11c206d121c12224b3dd362dbfff1da5aae72
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 Subject: Request has been updated by Louisville Emergency Medicine Associates, P.S.C.
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

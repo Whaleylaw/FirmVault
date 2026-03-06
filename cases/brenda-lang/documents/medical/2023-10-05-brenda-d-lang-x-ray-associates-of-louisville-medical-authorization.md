@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:6910e354c6891e6715fd7802d64138fa69d4ef420a31d9cea1cdbff2f1eb2068
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 [DOB-24] 3 528969544 XRAY ASSOC OFLOU PAGE 01/12
 4-Nou-2624 19:33 +45aze949544 +[PHONE-2] pel
 Fox[PHONE-22]

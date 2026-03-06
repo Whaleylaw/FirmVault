@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:915d2a19d01542be074ad283940d94d99f5b817d4c8503e07460ed2d1f192a6b
 ---
 
+**Case:** [[cases/michae-guyton/michae-guyton|Michae Guyton]]
+**Client:** [[cases/michae-guyton/contacts/michae-guyton|Michae Guyton]]
+
 Justin Chumbley 
 Justin Chumbley
 Aaron G. Whaley, Esq.

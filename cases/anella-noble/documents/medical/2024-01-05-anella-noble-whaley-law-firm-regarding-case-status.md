@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:de68d9c1c351a1aadd321311b009388163d23c54af51f15ae1bf5eea747bc7dc
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 8 i [sl
 
 03 21| 03 08. 99212-25 ee 100 00 [PHONE-20]

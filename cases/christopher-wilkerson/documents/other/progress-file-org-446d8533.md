@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:28a36e9b5aae56189eeb34eac68a2ea17d5b6dc258c2f60c7a4757be90a9dbb3
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 case_folder: Christopher-Wilkerson-WC-MVA-[DOB-1]
 job_id: file-org-446d8533
 phases.Phase 2c: Naming.completed_at: 2026-02-04T01:24:18.084398

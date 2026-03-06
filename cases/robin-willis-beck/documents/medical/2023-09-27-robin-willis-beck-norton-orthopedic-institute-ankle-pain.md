@@ -1,14 +1,10 @@
 ---
 case_slug: robin-willis-beck
-created_at: 2026-02-17 00:17:08.885000+00:00
+created_at: {}
 document_category: medical
-document_date: 1972-12-16
+document_date: {}
 document_type: medical
-entities:
-- Dr. Drew Harston
-- Matthew Morris
-- VA Hospital
-- Norton Healthcare
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-09-21-PrL-001
 mime_type: application/pdf
@@ -16,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-Willis-Beck-Premise-09-21-2023/Medical-Records/2023-09-27-Robin-Willis-Beck-Norton-Orthopedic-Institute-ankle-pain.pdf
 source_hash: sha256:2f7cc8a9afc038e0ddf7b95f37918f0aa7c9a0818294c1d1ce2d459e619120de
+contact: "[[cases/2023-09-21-prl-001/contacts/norton-orthopedic-institute]]"
 ---
+
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 
 NORTON HEALTHCARE
 200 E Chestnut St

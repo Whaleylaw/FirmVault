@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-
 source_hash: sha256:f3320b19a7ed2624d1e641e906465ab123539b57bf6f2a8e7993a497e85f0b0c
 ---
 
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 affected_mappings[0].index: 1
 affected_mappings[0].issue: Date mismatch: 2023-09-18 vs 2025-08-15
 affected_mappings[0].new_filename: 2025-08-15_Medical_OrthoCincy-Professional-Services_001.pdf

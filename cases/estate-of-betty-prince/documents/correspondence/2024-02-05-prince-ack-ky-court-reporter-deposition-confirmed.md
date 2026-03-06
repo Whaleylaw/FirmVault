@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:5dbb0a673236864f16e9a3637d4cc6027a735b784ce04f17f84a51d9b3021b77
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 Subject: Re: Confirmation for 2/6/2024 (92885)
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

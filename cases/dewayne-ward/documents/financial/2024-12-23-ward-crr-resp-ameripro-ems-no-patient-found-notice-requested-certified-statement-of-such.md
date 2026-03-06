@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dewayn
 source_hash: sha256:0f060a8d94c7dee37addc6c4835464322ab6341ae494981eb3d338be1ea9b889
 ---
 
+**Case:** [[cases/dewayne-ward/dewayne-ward|Dewayne Ward]]
+**Client:** [[cases/dewayne-ward/contacts/dewayne-ward|Dewayne Ward]]
+
 Subject: Request has been updated by AmeriPro EMS of Kentucky, LLC
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

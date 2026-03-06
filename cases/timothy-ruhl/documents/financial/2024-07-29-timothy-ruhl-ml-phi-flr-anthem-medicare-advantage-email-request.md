@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:bbab66e5b05f1cb960deeeb998b89405ae7c8f53d05171efcc98bab2a2bca4e4
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 Subject: Final Lien Request - Timonthy Ruhl - Member XTG334W14307
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

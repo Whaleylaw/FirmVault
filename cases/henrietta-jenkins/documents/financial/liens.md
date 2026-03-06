@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Henrie
 source_hash: sha256:01582ad54847f0571255f35d41a6b8b9df552121f07cc1f4c88c911fb8619979
 ---
 
+**Case:** [[cases/henrietta-jenkins/henrietta-jenkins|Henrietta Jenkins]]
+**Client:** [[cases/henrietta-jenkins/contacts/henrietta-jenkins|Henrietta Jenkins]]
+
 item_0.holder_address: 309 Evergreen Road, Louisville, KY 40243
 item_0.holder_phone: [PHONE-1]
 item_0.lien_holder_name: Legal Funding Partners

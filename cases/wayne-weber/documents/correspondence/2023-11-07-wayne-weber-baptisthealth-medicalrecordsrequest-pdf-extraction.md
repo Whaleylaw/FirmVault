@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:87ca823b4cbd62f0b27e33f3640697565226aa275f72ed682bb9a7ff6506064d
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: medical_records_request
 extraction.date: 2023-11-07
 extraction.description: Medical records request sent to Baptist Health for Wayne Weber dated November 7, 2023.

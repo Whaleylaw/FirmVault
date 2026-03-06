@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:145460f15faf140054b04379d86347f673f975687c58e954fc3e9cad23a78014
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 item_0.jsonb_agg[0].full_name: Jimmy Ferguson
 item_0.jsonb_agg[0].project_name: Jimmy-Ferguson-MVA-5-30-2024
 item_0.jsonb_agg[0].roles[0]: client

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sean-M
 source_hash: sha256:747c0b93fa04200c2115b1aca7485aeca6e61116ede21a8b276dfdbfd4519804
 ---
 
+**Case:** [[cases/sean-may/sean-may|Sean May]]
+**Client:** [[cases/sean-may/contacts/sean-may|Sean May]]
+
 State Farm Mutual Automobile Insurance Company 42331-5-A MUTL VOL
 
 Bloomngion IL. 61702-2358 DECLARATIONS PAGE

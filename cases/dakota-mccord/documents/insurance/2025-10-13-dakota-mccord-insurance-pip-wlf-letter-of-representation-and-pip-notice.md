@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dakota
 source_hash: sha256:2c150b009bc8d31d21bf84fe56639f6023309aae793b567efe98391578db2796
 ---
 
+**Case:** [[cases/dakota-mccord/dakota-mccord|Dakota McCord]]
+**Client:** [[cases/dakota-mccord/contacts/dakota-mccord|Dakota McCord]]
+
 Justin Chumbley 
 Justin Chumbley
 NN Aaron G. Whaley, Esq.

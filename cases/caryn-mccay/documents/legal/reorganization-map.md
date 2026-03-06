@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-
 source_hash: sha256:27fc36196ca72c2fd5721a95c839edb7894f6e6a2756684b8aac46b30db65de8
 ---
 
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 item_0.bucket: Medical Records
 item_0.extraction_source: Reports/extractions/2023-07-13-Caryn-McCay-Dr-David-Smith-Medical-Clearance_extraction.json
 item_0.original_path: 2023-07-13-Caryn-McCay-Dr-David-Smith-Medical-Clearance.pdf

@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:1b30c2665265591e74d7b6da376d0633c5f752d41771815ffaa3bca717830939
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: insurance
 date: 2025-02-13
 description: Subrogation claim notice from BCBS of NC administered health plan for medical benefits paid, ERISA self-funded plan, claim reference 157804615

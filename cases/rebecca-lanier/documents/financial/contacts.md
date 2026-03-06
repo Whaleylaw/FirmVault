@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Rebecc
 source_hash: sha256:5e0e311ea5c04fa91b725adb98df17d86daab3bd2eebe9025378e4b1d123bafc
 ---
 
+**Case:** [[cases/rebecca-lanier/rebecca-lanier|Rebecca Lanier]]
+**Client:** [[cases/rebecca-lanier/contacts/rebecca-lanier|Rebecca Lanier]]
+
 item_0.jsonb_agg[0].address: 6103 Top Hat Ct
 item_0.jsonb_agg[0].email: [EMAIL-1]
 item_0.jsonb_agg[0].full_name: Rebecca Lanier

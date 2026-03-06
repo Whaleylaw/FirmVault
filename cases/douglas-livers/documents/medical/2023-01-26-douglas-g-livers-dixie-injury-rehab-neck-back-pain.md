@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:e661e20aee279bbccd5bf345a454ccff9f2520f57c575bb2266b1bd281b359c3
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 28-Nov-2023) 17:59 Dixie Injury & Rehab 15826987866 p.6
 Dixie Injury & Rehab
 4917 Dixie Highway

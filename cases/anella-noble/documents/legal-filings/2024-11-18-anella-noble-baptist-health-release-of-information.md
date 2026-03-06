@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:c445ce901bf2f0220be9b22972f1295beab46ec91300e032ebcfc2be0d73fcaf
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Release of Information
 Baptist Health
 2600 Stanley Gault Pkwy.

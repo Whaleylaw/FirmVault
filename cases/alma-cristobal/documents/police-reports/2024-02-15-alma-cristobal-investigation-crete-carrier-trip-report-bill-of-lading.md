@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:0f74d673c3e4261cc1e3046b312b2a762602944d9b56446411be7cf4a1720ad1
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 Crete Carrier® Shaifer Trucking© Hunt Transportation®
 Operations - [PHONE-17] Operations - [PHONE-16] Operations - [PHONE-15]
 Office - [PHONE-14] Office - [PHONE-13] Olfice - [PHONE-6]

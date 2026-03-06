@@ -1,11 +1,10 @@
 ---
 case_slug: caryn-mccay
-created_at: 2026-02-16 22:17:40.940000+00:00
+created_at: {}
 document_category: financial
-document_date: 2024-09-04
+document_date: {}
 document_type: financial
-entities:
-- Allstate
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-07-30-MVA-001
 mime_type: application/json
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 90
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-McCay-MVA-7-30-2023/Reports/2026-02-01-file-organization/extractions/2024-09-04-Caryn-McCay-Allstate-Consent-to-Settlement_extraction.json
 source_hash: sha256:dfccec8d8d4e9018f461fe65546013f8d4a99310132926e77d573e9fff78b3bb
+contact: "[[cases/2023-07-30-mva-001/contacts/caryn-mccay]]"
 ---
+
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 
 extraction.classification.bucket: Negotiation Settlement
 extraction.classification.confidence: high

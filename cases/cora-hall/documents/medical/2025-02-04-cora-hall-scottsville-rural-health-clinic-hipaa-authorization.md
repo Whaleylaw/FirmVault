@@ -1,11 +1,10 @@
 ---
 case_slug: cora-hall
-created_at: 2026-02-16 22:37:52.769000+00:00
+created_at: {}
 document_category: medical
-document_date: 2025-02-04
+document_date: {}
 document_type: medical
-entities:
-- Scottsville Rural Health Clinic
+entities: null
 extraction_method: native_text
 legacy_case_id: 2022-12-05-OTH-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-Hall-WC-12-05-2022/Medical/2025-02-04-Cora-Hall-Scottsville-Rural-Health-Clinic-HIPAA-Authorization.pdf
 source_hash: sha256:1925f8932b664ed6b3caef0fe95dd471a7d0ea45376bd94809ebf19cc797bc09
+contact: "[[cases/2022-12-05-oth-001/contacts/scottsville-rural-health-clinic]]"
 ---
+
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 
 [DOB-1]
 Scottsville Rural Health Clinic

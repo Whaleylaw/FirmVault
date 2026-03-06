@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:4eba73a282ec659fabf472df8845c56ccd7edb8ae87bc362726af79df0add8e7
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 [DOB-1]
 ***-**-7737 [DOB-1]
 OB Hospitalist Group

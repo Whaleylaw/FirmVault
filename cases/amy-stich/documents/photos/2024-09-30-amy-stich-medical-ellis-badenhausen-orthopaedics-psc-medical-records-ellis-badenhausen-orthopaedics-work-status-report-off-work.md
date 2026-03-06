@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:8a78c1e7c536f948adf0d57af24d24b5b82d0064cff1bd5306eb37c3ab59c4fa
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Stich-WC-[DOB-1]/Medical/Ellis & Badenhausen Orthopaedics, PSC/Medical Records/2024-09-30-Amy-Stich-Medical-Ellis & Badenhausen Orthopaedics, PSC-Medical-Records-Ellis--Badenhausen-Orthopaedics-Work-Status-Report-Off-Work.jpg

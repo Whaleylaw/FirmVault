@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:a89c2550032625b28d2d07af281bdaff65dad421c2cf9aa0fbc156da5fc61d29
 ---
 
+**Case:** [[cases/michael-johnston/michael-johnston|Michael Johnston]]
+**Client:** [[cases/michael-johnston/contacts/michael-johnston|Michael Johnston]]
+
 AUTHORIZATION FOR EMPLOYMENT,
 WAGE AND SALARY INFORMATION
 TO WHOM IT MAY CONCERN:

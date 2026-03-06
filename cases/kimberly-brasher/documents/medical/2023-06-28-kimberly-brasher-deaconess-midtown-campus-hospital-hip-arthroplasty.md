@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:6218aad2103c569e4664e62f29758c68126cad20f76fc8751ecf403a658bd73b
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 Tax Correa ——_€/bOo/eene m— if .00.08 Pit DAOC 11/9000
 ae DEACONESS MIDTOWN_ Brasher, Kimberly K
 CAMPUS HOSPITAL MRN: 469590, DOB: 3/25/1973, Sex: F

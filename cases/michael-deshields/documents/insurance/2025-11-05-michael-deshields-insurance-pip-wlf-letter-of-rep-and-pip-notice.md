@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:d18023afedf0af1aa19c7c26abacf9484c544a231fdf2e04be1f190618d29b72
 ---
 
+**Case:** [[cases/michael-deshields/michael-deshields|Michael Deshields]]
+**Client:** [[cases/michael-deshields/contacts/michael-deshields|Michael Deshields]]
+
 Justin Chumbley 
 Justin Chumbley
 NN Aaron G. Whaley, Esq.

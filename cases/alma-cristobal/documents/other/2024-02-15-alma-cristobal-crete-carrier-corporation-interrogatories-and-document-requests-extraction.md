@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:6e7e69a769c5b94e80226920b8a51d9b379ac2cbb917fb03ad9c96b57e4fc6ce
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 category: Litigation
 description: Interrogatories and document requests from Crete Carrier Corporation
 entities[0]: Alma Cristobal

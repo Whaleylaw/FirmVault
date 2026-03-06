@@ -1,6 +1,6 @@
 ---
 case_slug: abby-sitgraves
-created_at: 2026-02-16 21:22:15.271000+00:00
+created_at: {}
 document_category: financial
 document_type: financial
 extraction_method: native_text
@@ -8,11 +8,14 @@ legacy_case_id: 2024-07-13-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Abby-Sitgraves-MVA-7-13-2024/Medical/Foundation
-  Radiology/Medical Bills/2024-07-13 - Abby Sitgraves - Medical Record - Foundation
-  Radiology - Charges.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Abby-Sitgraves-MVA-7-13-2024/Medical/Foundation Radiology/Medical Bills/2024-07-13 - Abby Sitgraves - Medical Record - Foundation Radiology - Charges.pdf
 source_hash: sha256:d96be791477842d9d6839b27e2a1b47468c221d54f35e5be4ba731feb410d3e0
+contact: "[[cases/2024-07-13-mva-001/contacts/foundation-radiology]]"
 ---
+
+**Case:** [[cases/abby-sitgraves/abby-sitgraves|Abby Sitgraves]]
+**Client:** [[cases/abby-sitgraves/contacts/abby-sitgraves|Abby Sitgraves]]
+
 
 07/19/24
 SITGRAVES

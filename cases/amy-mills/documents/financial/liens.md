@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:86a70f76641b2f068710d604c4531e2436b06c2c54535c39bd9b47ff945468cd
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 item_0.amount_owed_from_settlement: 29121.89
 item_0.date_notice_received: 2022-01-25
 item_0.final_lien_amount: 29121.89

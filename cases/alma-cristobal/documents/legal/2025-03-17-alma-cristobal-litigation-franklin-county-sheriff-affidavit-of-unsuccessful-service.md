@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:f96013d7f2d39bc6a80bf987fbf002214b1008e22dcd65aa1622a4a78d1053d8
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 Franklin County Sheriff's Office
 Affidavit of Unsuccessful Service
 ALMA CRISTOBAL

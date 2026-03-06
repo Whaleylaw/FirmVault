@@ -1,8 +1,8 @@
 ---
 case_slug: nayram-adadevoh
-created_at: 2026-02-17 00:12:33.293000+00:00
+created_at: {}
 document_category: medical
-document_date: 1973-05-22
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2024-07-13-MVA-002
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 90
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram-Adadevoh-MVA-7-13-2024/Reports/extractions/_archived_md_conversions_2025-02-10-Nayram-Adadevoh-Foundation-Radiology-Medical-Records-Request.md_extraction.json
 source_hash: sha256:8da81f11fe052c1788f66015656b08b5e055ca617571319fa4b024d9f693339e
+contact: "[[cases/2024-07-13-mva-002/contacts/foundation-radiology]]"
 ---
+
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 
 extraction.classification.bucket: Medical Records
 extraction.classification.confidence: high

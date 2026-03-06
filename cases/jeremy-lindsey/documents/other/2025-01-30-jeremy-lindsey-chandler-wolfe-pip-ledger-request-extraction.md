@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:fe71cbf719fc5cfece5107021847b31e9ac14be5a707684c6e73b9c31dd816eb
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: legal
 date: 2025-01-30
 description: Letter requesting updated PIP ledger from Auto Owners Insurance for claim 300-[PHONE-1], date of loss 12/1/2024

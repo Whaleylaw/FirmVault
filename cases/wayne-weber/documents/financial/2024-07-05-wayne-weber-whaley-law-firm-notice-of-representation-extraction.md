@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:99859477fed9d2445668224f902239412d595bea9f5495c6791c5045913e0257
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: client_intake
 extraction.date: 2024-07-05
 extraction.description: Whaley Law Firm notice of representation for Wayne Weber dated July 5, 2024.

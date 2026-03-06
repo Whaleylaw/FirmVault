@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:750fe5f09c83aab184d4697cf22dbface3be42f18e0a68cede922027c883566e
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 category: Insurance
 confidence: high
 description: Medical Payments/PIP Summary from Progressive Insurance for injured party Abdullahi Kassim (named insured also Abdullahi Kassim). Shows detailed breakdown of medical bills from Starlite Injury for treatment dates August through October 2024. Total billed $8,030.00, total paid $6,000.00 under claim #24-711062492 for loss date 08/06/24.

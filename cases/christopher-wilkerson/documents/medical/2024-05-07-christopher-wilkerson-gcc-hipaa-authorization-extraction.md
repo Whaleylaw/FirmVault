@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:152366ebaa05ef904dacb07285255fb1f3abe80116c755a0e1b3eca261893a8c
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 category: Medical
 confidence: medium
 description: HIPAA authorization for Grant Chiropractic Center (GCC) to release medical records. Dated May 7, 2024.

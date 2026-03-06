@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:503f563bb197f1fbf9dba85e3fcb3b083201e4f78fd9043f3bc667bc9e04f37d
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 f Charles
 Taylor
 I have been put on notice of the above mentioned incident. It is myunderstanding you were treated

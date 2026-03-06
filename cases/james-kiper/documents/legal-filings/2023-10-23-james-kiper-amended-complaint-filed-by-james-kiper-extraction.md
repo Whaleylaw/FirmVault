@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:12d4ec32144aa3ce5e92f563bb3ed0caee033020ce42e81e97b0bc5011930197
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 category: Court Filing
 document_date: 2023-10-23
 entities.attorney: Aaron G. Whaley

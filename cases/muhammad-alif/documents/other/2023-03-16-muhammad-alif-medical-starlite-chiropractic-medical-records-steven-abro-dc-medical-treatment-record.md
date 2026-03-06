@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:e5bb896c710c68f7870236b56db09be67309323126a36f07821276b491049244
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 Apr. 3.2023) 9:59AM No.1598 =P.7/50
 Od "ergy venais =tepinorg
 TEUIO / STeuayey / suonepusuNOISy

@@ -1,8 +1,8 @@
 ---
 case_slug: james-kiper
-created_at: 2026-02-16 23:51:13.157000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1976-04-29
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2022-12-05-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Kiper-MVA-12-5-2022/Correspondence/2024-04-02-James-Kiper-Correspondence-Foundation-Radiology-Medical-Records-Request.pdf
 source_hash: sha256:4e01b2c2ee744d9d6d8bd188b04a879ab938001e539dcf3178e0a4ab1b5f2cb8
+contact: "[[cases/2022-12-05-mva-001/contacts/foundation-radiology]]"
 ---
+
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

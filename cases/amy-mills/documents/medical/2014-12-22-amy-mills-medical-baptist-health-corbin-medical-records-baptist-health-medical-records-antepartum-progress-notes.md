@@ -1,24 +1,23 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:48:02.543000+00:00
+created_at: {}
 document_category: medical
-document_date: 1983-12-28
+document_date: {}
 document_type: medical
-entities:
-- Christine Meece
-- Director Abdi Vaezy
-- Travis Gilbert
-- Ihe Hospital
-- Baptist Health
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Baptist
-  Health Corbin/Medical Records/2014-12-22-Amy-Mills-Medical-Baptist Health Corbin-Medical-Records-Baptist-Health-Medical-Records-Antepartum-Progress-Notes.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Baptist Health Corbin/Medical Records/2014-12-22-Amy-Mills-Medical-Baptist Health Corbin-Medical-Records-Baptist-Health-Medical-Records-Antepartum-Progress-Notes.pdf
 source_hash: sha256:c23249e3d805ea713f0c60ff45418151c62f51e64c895ea4c98171836e35b818
+contact: "[[cases/2019-04-26-prl-001/contacts/baptist-health-corbin]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 MILLS , AMY 70000241644 RRKKAS 522 of 862
 

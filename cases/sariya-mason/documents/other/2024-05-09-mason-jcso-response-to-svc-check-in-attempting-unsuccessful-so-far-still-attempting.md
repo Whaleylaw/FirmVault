@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya
 source_hash: sha256:2a1c6036bf5c2971f2322726cfeb9a672863179bfc694e590faf50f476749d59
 ---
 
+**Case:** [[cases/sariya-mason/sariya-mason|Sariya Mason]]
+**Client:** [[cases/sariya-mason/contacts/sariya-mason|Sariya Mason]]
+
 Subject: Case 23CI006039
 From: [EMAIL-5]
 To: Sarena@WhaleyLawFirm.com

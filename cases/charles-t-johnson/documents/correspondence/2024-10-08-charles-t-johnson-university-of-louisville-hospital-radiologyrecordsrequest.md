@@ -4,6 +4,9 @@ document_category: correspondence
 legacy_case_id: 2023-04-18-MVA-001
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charles-T-Johnson-MVA-4-18-2023/Correspondence/2024-10-08-Charles-T-Johnson-University-of-Louisville-Hospital-RadiologyRecordsRequest.pdf"
 source_hash: "sha256:8644cdb281b9e834bee184d6956162a66fab5b560c295d9590eed351e56c00c7"

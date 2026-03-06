@@ -25,6 +25,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cory-S
 source_hash: sha256:e35ccc2df6dea6a5b57733851f765bbf17c885aacecebe37e56f0637b7080fc4
 ---
 
+**Case:** [[cases/cory-stephenson/cory-stephenson|Cory Stephenson]]
+**Client:** [[cases/cory-stephenson/contacts/cory-stephenson|Cory Stephenson]]
+
 P O BOX 801988
 KANSAS CITY MO 64180
 UNITED STATES

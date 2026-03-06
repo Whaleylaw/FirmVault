@@ -1,23 +1,23 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:48:02.802000+00:00
+created_at: {}
 document_category: medical
-document_date: 1983-12-28
+document_date: {}
 document_type: medical
-entities:
-- Travis Gilbert
-- Last Taken Hospital
-- This Hospital
-- Baptist Health
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Baptist
-  Health Corbin/Medical Records/2015-03-19-Amy-Mills-Medical-Baptist Health Corbin-Medical-Records-Baptist-Health-Medical-Records-and-Discharge-Instructions.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Baptist Health Corbin/Medical Records/2015-03-19-Amy-Mills-Medical-Baptist Health Corbin-Medical-Records-Baptist-Health-Medical-Records-and-Discharge-Instructions.pdf
 source_hash: sha256:abec4cf37a2662ca6806562ad7a515ff3f61656bce4f33b583e93aedd3df8e83
+contact: "[[cases/2019-04-26-prl-001/contacts/baptist-health-corbin]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 MILLS , AMY 70000243836 aKEKA’ 508 of 862 ATAU ais, as 4000A Visit#: 70000243836 oat 720165
 

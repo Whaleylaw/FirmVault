@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:b12605d29f8c53b431da89168a4abff8a22bade605cb079e18df23192f9f922d
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 Sedgwick Claims Management Services, Inc.			Deerfield Office			PO Box 14439			Lexington, KY 40512-4439 				Phone:   FORMTEXT [PHONE-5]			Fax:  [PHONE-2]		 FORMTEXT October 09, 2023
 
  FORMTEXT The Whaley Law Firm

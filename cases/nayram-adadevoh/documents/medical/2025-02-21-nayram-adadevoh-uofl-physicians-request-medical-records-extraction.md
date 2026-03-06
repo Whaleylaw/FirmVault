@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:cc9560749bb5c70529a50110d336bfa69689875d60ebdc8f4718e5a2ee16be58
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: medical_records_request
 date: 2025-02-21
 description: Medical records request sent to UofL Physicians dated February 21, 2025.

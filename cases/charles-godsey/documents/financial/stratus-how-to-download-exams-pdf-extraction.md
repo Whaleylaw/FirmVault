@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:2e6b90a0ae794baafbed491f09f793730912fee8fe320c0510bb46096b98cdbd
 ---
 
+**Case:** [[cases/charles-godsey/charles-godsey|Charles Godsey]]
+**Client:** [[cases/charles-godsey/contacts/charles-godsey|Charles Godsey]]
+
 extraction.classification.bucket: Unknown
 extraction.classification.confidence: low
 extraction.classification.document_type: technical_documentation

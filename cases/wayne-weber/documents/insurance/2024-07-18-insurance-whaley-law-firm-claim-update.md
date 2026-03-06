@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:62a96fa18f796d4f5861096d07afe04afd38560aa991a5e114d5ebcbb80153d3
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 Kentucky Farm Bureau
 Mutual Insurance Company
 CLAIM NUMBER

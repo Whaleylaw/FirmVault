@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:78b4914569236826c61a1ea69d03ae3879d39bf270c3e7274c150cec9b2554b0
 ---
 
+**Case:** [[cases/james-lanier/james-lanier|James Lanier]]
+**Client:** [[cases/james-lanier/contacts/james-lanier|James Lanier]]
+
 address: 1962 Hirsch Court, Union, KY 41091
 date_of_birth: [DOB-1]
 imported_at: 2026-02-16T21:09:42.776Z

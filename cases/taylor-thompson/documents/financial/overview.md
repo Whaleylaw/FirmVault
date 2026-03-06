@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor
 source_hash: sha256:c803a5a8eb4e56d10292a81538902a0caa47ecc6d66902fa3b2a9a394badf173
 ---
 
+**Case:** [[cases/taylor-thompson/taylor-thompson|Taylor Thompson]]
+**Client:** [[cases/taylor-thompson/contacts/taylor-thompson|Taylor Thompson]]
+
 item_0.jsonb_agg[0].case_create_date: 1769715688335
 item_0.jsonb_agg[0].client_name: Taylor Thompson
 item_0.jsonb_agg[0].client_phone: [PHONE-1]

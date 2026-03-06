@@ -1,21 +1,23 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:48:49.864000+00:00
+created_at: {}
 document_category: medical
-document_date: 2020-01-20
+document_date: {}
 document_type: medical
-entities:
-- Norton Healthcare
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Norton
-  Neuroscience Institute Brownsboro/Medical Records/2020-01-20-Amy-Mills-Medical-Norton
-  Neuroscience Institute Brownsboro-Medical-Records-Norton-Hospital-After-Visit-Summary-Discharge-Instructions.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Norton Neuroscience Institute Brownsboro/Medical Records/2020-01-20-Amy-Mills-Medical-Norton Neuroscience Institute Brownsboro-Medical-Records-Norton-Hospital-After-Visit-Summary-Discharge-Instructions.pdf
 source_hash: sha256:65418b4a13342d21cb5bc3a1dffc4e958abb09f2d632252594d9468177f7e86b
+contact: "[[cases/2019-04-26-prl-001/contacts/norton-neuroscience-institute-brownsboro]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 Amy J. Mills (MRN: EP02256299) (CSN: 10080087152) • Printed at 1/21/20 10:33 AM Page 1 of 6   
 Amy J. Mills MRN: EP02256299 CSN: 10080087152

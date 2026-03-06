@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:8ab22aec1fdb128b7a43525ca3d40777e375c58e429319f9cca36eb797c3e688
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: legal
 date: 2024-12-01
 description: Multiple settlement payment advices for bodily injury claims, including $16,000 payments to Chase Lindsey and $16,000 to Elizabeth and Jeremy Lindsey, claim [POLICY-1]8, payment date [DOB-1]

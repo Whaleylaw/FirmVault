@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:bfdbe69912339a9a2bd7bdce28893dd1df867e451effa977b75aa23755f13ef8
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: settlement_demand
 extraction.date: 2025-09-23
 extraction.description: Settlement demand letter for Wayne Weber's case dated September 23, 2025.

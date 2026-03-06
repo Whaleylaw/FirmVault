@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-
 source_hash: sha256:8f002a1c54ddda4bfa712f875ff73cea9c6c9085646757eb2b0b7fdb24058db4
 ---
 
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 category: medical_records
 description: CT scan of abdomen and pelvis at Ephraim McDowell Central Kentucky Surgeons
 entities.organizations[0]: Ephraim McDowell Central Kentucky Surgeons

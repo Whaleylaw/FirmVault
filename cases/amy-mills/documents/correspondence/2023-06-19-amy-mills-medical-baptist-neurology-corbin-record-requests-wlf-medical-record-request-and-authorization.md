@@ -1,21 +1,23 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:48:22.236000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1983-12-28
+document_date: {}
 document_type: correspondence
-entities:
-- Dr. Arden Acob
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Baptist
-  Neurology Corbin/Record Requests/2023-06-19-Amy-Mills-Medical-Baptist Neurology
-  Corbin-Record-Requests-WLF-Medical-Record-Request-and-Authorization.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Baptist Neurology Corbin/Record Requests/2023-06-19-Amy-Mills-Medical-Baptist Neurology Corbin-Record-Requests-WLF-Medical-Record-Request-and-Authorization.pdf
 source_hash: sha256:41bfe8a92976ac58ec56cf121d6e478e18352557bb6c412402247f62bd8b44fd
+contact: "[[cases/2019-04-26-prl-001/contacts/baptist-neurology-corbin]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:8646e9eeda2dcbb39d61b8f0bff534f48560611e83ca7c70d428e5863431bece
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 CERTIFICATION OF MEDICAL RECORDS AFFIDAVIT.
 Dorota,Bir.17 tenes ty swomonhisher ath,stat
 ‘(Name of ‘custodian/clerky

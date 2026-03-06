@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:2c8c1b409e494732b1bb9a5d69f94acdaa586458030484d8fddf8e19b937aa95
 ---
 
+**Case:** [[cases/michael-deshields/michael-deshields|Michael Deshields]]
+**Client:** [[cases/michael-deshields/contacts/michael-deshields|Michael Deshields]]
+
 item_0.jsonb_agg[0].case_create_date: 1769716099641
 item_0.jsonb_agg[0].client_address: 5502 Branston Dr, Louisville, KY 40216
 item_0.jsonb_agg[0].client_email: [EMAIL-1]

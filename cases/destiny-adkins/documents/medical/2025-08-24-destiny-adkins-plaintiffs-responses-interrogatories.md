@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2021-04-16-MVA-001
 ---
 
+**Case:** [[cases/destiny-adkins/destiny-adkins|Destiny Adkins]]
+**Client:** [[cases/destiny-adkins/contacts/destiny-adkins|Destiny Adkins]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Destiny-Adkins-MVA-[DOB-1]/Legal-Documents/Discovery/2025-08-24-Destiny-Adkins-Plaintiffs-Responses-Interrogatories.pdf"
 source_hash: "sha256:15ad3b9447e9657d5a91c692f4808b2bf3914279803617cdc50775be7e9d21d5"

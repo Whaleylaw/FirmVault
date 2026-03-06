@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:24a3b701e37abaf23fd202962fde67319e3a21c717252605a718539e99c6079e
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 STATEMENT __...
 Account No. Date
 SER ot U C KY 14680 8/21/2024

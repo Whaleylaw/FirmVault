@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmon
 source_hash: sha256:38bfabd48cc8595939014a31cedda7b48e1eb36773d84c5fca1e0873ff1951c1
 ---
 
+**Case:** [[cases/julmonzhae-moore/julmonzhae-moore|Julmonzhae Moore]]
+**Client:** [[cases/julmonzhae-moore/contacts/julmonzhae-moore|Julmonzhae Moore]]
+
 Subject: #secure#RE: Certified Medical Records & Billing Request - Julmonzhae Moore 05.28.2004
 From: [EMAIL-2]
 To: sarena@whaleylawfirm.com

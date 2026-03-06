@@ -1,11 +1,10 @@
 ---
 case_slug: nayram-adadevoh
-created_at: 2026-02-17 00:12:42.019000+00:00
+created_at: {}
 document_category: medical
-document_date: 2024-07-13
+document_date: {}
 document_type: medical
-entities:
-- Jewish Hospital
+entities: null
 extraction_method: native_text
 legacy_case_id: 2024-07-13-MVA-002
 mime_type: application/json
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram-Adadevoh-MVA-7-13-2024/extractions/2024-07-14-Nayram-Adadevoh-JHL-Jewish-Hospital-MVC-ED-Physician-Notes.pdf_extraction.json
 source_hash: sha256:ee8fd4e29dfc035cd8571ea5c432feece6ac8f2472223a4cf8a0d3a359b28ad3
+contact: "[[cases/2024-07-13-mva-002/contacts/jewish-hospital]]"
 ---
+
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 
 category: medical_record
 confidence: high

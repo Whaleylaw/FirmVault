@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:38cf56354ffb72407e2afae830323e356dc6acc97d3bb9897030ff57eb387a5e
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 category: Client Protected Health Information
 document_date: 2024-01-25
 entities.client: James Kiper

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:cb62661a09d1510f15f5a2b9b7e2d4ec4e6b40b33d9e53253dd8a9ff45a49cd4
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 category: medical_records_request
 date: 2025-09-24
 description: Medical records request letter to Louisville Metro EMS dated 9/24/2025 for Torrey Green (DOB 1/5/1998, SSN [SSN-1]) requesting all records and itemized billing for dates 9/3/2025 through 9/24/2025

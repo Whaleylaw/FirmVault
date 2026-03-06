@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:48947d7ab811b828049a02df8129c2ecbb43b01f82fc61fd00d600c10d369c10
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 12/27/23, 11:16 AM USPS.com® - USPS Tracking® Results
 USPS Tracking’ FAQs>
 Tracking Number: Remove X

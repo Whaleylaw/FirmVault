@@ -1,8 +1,8 @@
 ---
 case_slug: jimmy-ferguson
-created_at: 2026-02-16 23:57:45.470000+00:00
+created_at: {}
 document_category: photos
-document_date: 2024-05-30
+document_date: {}
 document_type: photo
 extraction_method: image_proxy
 legacy_case_id: 2024-05-30-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 70
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-Ferguson-MVA-5-30-2024/Medical/2024-05-30_Elizabethtown-Emergency-Physicians_Medical-Bill.jpg
 source_hash: sha256:73ef97f704f50232d567536958604ae3d4ffd50adbe9012e6109269730ce854a
+contact: "[[cases/2024-05-30-mva-001/contacts/elizabethtown-emergency-physicians]]"
 ---
+
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 
 # Image Document
 

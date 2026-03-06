@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:d4d46cde37d39fd8e16e59da3c2ca9eccea8590f311a29823ccc0339634b35e7
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: court_filing_notice
 date: 2025-02-05
 description: Court filing notification (NCP) from Jefferson Circuit Court confirming acceptance of Report of Warning Order Attorney filed by Derek A. Harvey Jr. in case 25-CI-000133, Sitgraves v. Caal Worldwide. Date and Time Processed: February 5, 2025 at 1:48PM Eastern.

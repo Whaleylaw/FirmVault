@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:cbbdefc206e1e699ae2c2b0da423c03d6c669215e51a029157c9f9f71e48d276
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 Ellis & Badenhausen Orthopedics
 13151 Magisterial Drive #200
 Louisville, KY 40223

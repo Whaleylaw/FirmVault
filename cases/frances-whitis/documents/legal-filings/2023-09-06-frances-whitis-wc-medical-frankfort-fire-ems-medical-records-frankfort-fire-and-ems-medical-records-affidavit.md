@@ -1,6 +1,6 @@
 ---
 case_slug: frances-whitis
-created_at: 2026-02-16 23:42:37.609000+00:00
+created_at: {}
 document_category: court-filings
 document_type: court_filing
 extraction_method: native_text
@@ -8,11 +8,14 @@ legacy_case_id: 2024-09-06-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Frances-Whitis-WC-MVA-9-6-2024/Medical/Frankfort
-  Fire & EMS/Medical Records/2023-09-06-Frances-Whitis-WC-Medical-Frankfort Fire &
-  EMS-Medical-Records-Frankfort-Fire-and-EMS-Medical-Records-Affidavit.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Frances-Whitis-WC-MVA-9-6-2024/Medical/Frankfort Fire & EMS/Medical Records/2023-09-06-Frances-Whitis-WC-Medical-Frankfort Fire & EMS-Medical-Records-Frankfort-Fire-and-EMS-Medical-Records-Affidavit.pdf
 source_hash: sha256:de66ded7f57be5fcc55c17dba892d6ac8149aa03aa75d0dfc1149459e82d9827
+contact: "[[cases/2024-09-06-mva-001/contacts/frankfort-fire-ems]]"
 ---
+
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 
 CERTIFICATION OF MEDICAL RECORDS AFFIDAVIT
 2osisoh Sehashan , being first duly sworn on his/her oath, says that:

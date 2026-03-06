@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jonah-
 source_hash: sha256:e03034bf78f6c3820a9de73dfd9f9685a875ec6d4eaa99dd9ab2375fbf2f8447
 ---
 
+**Case:** [[cases/jonah-price/jonah-price|Jonah Price]]
+**Client:** [[cases/jonah-price/contacts/jonah-price|Jonah Price]]
+
 G
 PROGRESSIVE CLAIMS
 PO BOX 94621 PROGRESSIVE

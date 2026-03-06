@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:adbb7f9d5e45112dfd01d2d964d9dcd72a334449a9ae1ca298347d34f4f438b0
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 Subject: Re: Doctor's appt and treatment
 From: sarena@whaleylawfirm.com
 To: [EMAIL-6]

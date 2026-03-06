@@ -4,6 +4,9 @@ document_category: legal
 legacy_case_id: 2020-07-14-PrL-001
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate-of-Betty-Prince-Premise-7-14-2020/Medical/2022-06-20-Robert-Prince-Kidney-Care-Consultants-Subpoena-for-Medical-Records.pdf"
 source_hash: "sha256:14105bea77a6e47da69952e5373b8dea2b71d0e75b79ead1c5ca4fdae92b245a"

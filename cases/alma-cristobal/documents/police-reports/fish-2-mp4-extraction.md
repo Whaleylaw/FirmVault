@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:5771c9c4662c2a4ffab74bb9f7f45c4f78a11ce972e3ef65246dc2183537f635
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 bucket: Investigation
 content_summary: Bodycam or dashcam footage from Officer Garrett Fish (5481) regarding the accident on 2024-02-15. Shows scene management and party interactions.
 date: 2024-02-15

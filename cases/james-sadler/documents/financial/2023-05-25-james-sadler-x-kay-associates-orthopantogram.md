@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:32c0baf12c473d64c09c9c089da0166b98619775a5e897ef989f98f46787994c
 ---
 
+**Case:** [[cases/james-sadler/james-sadler|James Sadler]]
+**Client:** [[cases/james-sadler/contacts/james-sadler|James Sadler]]
+
 X-KAY ASSOCIATES OF LOUISVILLE
 P O BOX 7159
 LOUISVILLE, KY 40257-0159

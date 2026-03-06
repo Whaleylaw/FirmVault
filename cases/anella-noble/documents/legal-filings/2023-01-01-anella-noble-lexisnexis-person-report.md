@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:6ad6a80bca1001c4adecce16a24c84236aec526a65ca413f3372f5ad89bfaf0d
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 ( » LexisNexis
 Search: Public Records : SmartLinx® Comprehensive Person Report
 Terms: first-name(ALELA) last-name(LLOYD) middle-name(C) city(Louisville) state(KY) jurisdiction(ALL)

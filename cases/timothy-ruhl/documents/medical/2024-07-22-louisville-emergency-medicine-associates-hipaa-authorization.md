@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2023-09-14-PrL-001
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timothy-Ruhl-Premise-[DOB-1]/HIPAA-Authorizations/2024-07-22-Louisville-Emergency-Medicine-Associates-HIPAA-Authorization.pdf"
 source_hash: "sha256:7809ca6994d99547bd859dcd4a55cee7ad8770e92e290488cf794f42e3751261"

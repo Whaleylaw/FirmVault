@@ -1,11 +1,10 @@
 ---
 case_slug: estate-of-betty-prince
-created_at: 2026-02-16 23:40:02.033000+00:00
+created_at: {}
 document_category: insurance
-document_date: 2020-07-14
+document_date: {}
 document_type: insurance
-entities:
-- Humana
+entities: null
 extraction_method: native_text
 legacy_case_id: 2020-07-14-PrL-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate-of-Betty-Prince-Premise-7-14-2020/Insurance/2021-10-19-Robert-Prince-Humana-subrogation-notice.pdf
 source_hash: sha256:52069ee0ab298e91d3ccb5083294462f5a43fddfde29db5c529b9bb580588d22
+contact: "[[cases/2020-07-14-prl-001/contacts/humana]]"
 ---
+
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 
 Fax Server [DOB-1] 2:47:34 PM PAGE 1/003 Fax Server
 Humana.

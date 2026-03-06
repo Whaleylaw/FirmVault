@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:aeaf40c69f4835c5f03acc58cae419e2bcfbc30fe452f871175c178d67e39b83
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 Baptist Health - Urgent Care
 10216 Taylorsville Road #150
 Louisville, KY 40299

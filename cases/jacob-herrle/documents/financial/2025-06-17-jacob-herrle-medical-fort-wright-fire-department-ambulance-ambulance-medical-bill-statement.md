@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jacob-
 source_hash: sha256:3b787574c3b97ff1ece574d0dc016dab3833aa246c00f0ec5ebc4d50a183ae67
 ---
 
+**Case:** [[cases/jacob-herrle/jacob-herrle|Jacob Herrle]]
+**Client:** [[cases/jacob-herrle/contacts/jacob-herrle|Jacob Herrle]]
+
 Fort Wright Fire Department Ambulance [PHONE-7]
 836 4TH AVE M-F 8AM-4PM EST
 HUNTINGTON WV 25701-1407 http://www.mcabilling.com/patients

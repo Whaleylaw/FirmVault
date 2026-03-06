@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:e15fd056fffb6d05faeed7360d8b1150c667b4747527380030589e5846afa4ec
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 AOC-E-105 Sum Code: Cl
 Rev. 9-14, Case #: 24-Cl-002475
 Court: CIRCUIT

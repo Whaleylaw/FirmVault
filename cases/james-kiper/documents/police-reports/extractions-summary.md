@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:a6ccd52104e684776d15b3e05a6a28adbfbedbded96975cc305047fd2b0861aa
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 case_folder: James-Kiper-MVA-12-5-2022
 case_name: James Kiper MVA
 extracted_files[0].category: Fee Agreement

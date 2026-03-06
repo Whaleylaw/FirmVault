@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:7d5bb2b6816de3470fb3ef1c3098f4db0f45d71f0e6414f158b7f88954f9b70a
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 item_0.holder_address: 700 Broadway, Denver, CO 80273
 item_0.holder_phone: [PHONE-1]
 item_0.lien_holder_name: Anthem Blue Cross Blue Shield

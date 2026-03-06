@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor
 source_hash: sha256:33d08ed8cc3f2c553efc3d00e07ca5b887aff0593bc98e018994e3c812e23d47
 ---
 
+**Case:** [[cases/taylor-thompson/taylor-thompson|Taylor Thompson]]
+**Client:** [[cases/taylor-thompson/contacts/taylor-thompson|Taylor Thompson]]
+
 Subject: FW: *EXT*Fax Received from CSID: FSP45709  -  Pages received: 7
 From: [EMAIL-1]
 To: [EMAIL-8]

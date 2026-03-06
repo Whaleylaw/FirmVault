@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:6fbc2ab7c7b6b7264ce51fc9a2cb91e1185f4d2494bd7e4bcc8c3daaa23f4508
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: lien_correspondence
 extraction.date: 2024-10-18
 extraction.description: Forwarded email from attorney Bryce Koon to Sarena Tuttle regarding CMS (Centers for Medicare & Medicaid Services) new portal update information for Medicare lien tracking. File reference KY-101620247030.

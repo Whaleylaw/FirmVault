@@ -1,11 +1,10 @@
 ---
 case_slug: davis-robinson
-created_at: 2026-02-16 22:56:18.992000+00:00
+created_at: {}
 document_category: medical
-document_date: 2025-05-02
+document_date: {}
 document_type: medical
-entities:
-- Lima Memorial Health System
+entities: null
 extraction_method: native_text
 legacy_case_id: 2025-05-02-SF-001
 mime_type: application/json
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-Robinson-SF-05-02-2025/extractions/2025-06-20-Davis-Robinson-Emergency-Physicians-of-Northwest-Ohio-Medical-Records-Request_extraction.json
 source_hash: sha256:318307de1c03773396eeafe3e3b883f4f23990993ef0f08f2bf6263b94deccad
+contact: "[[cases/2025-05-02-sf-001/contacts/emergency-physicians-of-northwest-ohio]]"
 ---
+
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 
 category: medical_request
 date: 2025-06-20

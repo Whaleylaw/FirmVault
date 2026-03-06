@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Henrie
 source_hash: sha256:f7bd2ddc9b9aced1a4c7ab20959d623e333bf6b00dfa5ae715aa79a57b917ba8
 ---
 
+**Case:** [[cases/henrietta-jenkins/henrietta-jenkins|Henrietta Jenkins]]
+**Client:** [[cases/henrietta-jenkins/contacts/henrietta-jenkins|Henrietta Jenkins]]
+
 Underwritten by
 Root Insurance Company
 80 E Rich Street Suite 500

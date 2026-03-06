@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:d2f683db3921dbc05e645613df92e09fbe0ea67e2bdfb90f1ea7094b533b374d
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 category: negotiation
 date: 2026-01-23
 description: Demand package exhibits list for Torrey Green v. Cynthia McDonald claim dated January 23, 2026. Lists all exhibits including police report, medical records/bills from UofL Hospital ($22,884.58) and Starlite Chiropractic ($1,665.00), vehicle damage photos, and supporting documents. Total demand: $98,198.32.

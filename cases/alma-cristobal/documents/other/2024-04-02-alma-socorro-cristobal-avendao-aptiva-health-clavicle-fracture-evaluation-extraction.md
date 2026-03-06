@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:e965d461b5c4f2636a238e1d28a863c22ca1a0dee21c1c91ddc75de11037ef0b
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 category: Medical Records
 description: Clavicle fracture evaluation from Aptiva Health
 entities[0]: Alma Socorro Cristobal Avendaño

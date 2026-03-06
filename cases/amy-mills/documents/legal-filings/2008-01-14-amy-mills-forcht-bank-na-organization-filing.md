@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:72857a8c080dc8073545a01ad0e7d46e85cbe6ab230c966993e61421bac1098d
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 2/12/2020 Welcome to Fasttrack Organization Search
 https://app.sos.ky.gov/ftshow/(S(ekls0nwli5sjj54y4n1ygkre))/default.aspx?path=ftsearch&id=0682999&ct=10&cs=99999&ce=GdlPb3YWsjU77wlhmxL… 1/3
 FORCHT BANK, NA

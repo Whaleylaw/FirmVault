@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:0157d462776f7809124f0c2b2715ba5fbf94ca0d0cc054e3e19cf8cf36752f95
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 Riverside Orthopedics & Sports Medicine
 Dr. Chaitu Malempati, DO
 825 Second Ave East, Suite C2

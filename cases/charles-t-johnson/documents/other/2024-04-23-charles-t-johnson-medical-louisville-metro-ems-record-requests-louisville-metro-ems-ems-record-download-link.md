@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:f83389d34d1026bdfd29aab33807e69fe5a6d80fb0f0e2d628390ee20d05cb31
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 Subject: Secure File Transfer from Louisville Metro Government
 From: [EMAIL-2]
 To: sarena@whaleylawfirm.com

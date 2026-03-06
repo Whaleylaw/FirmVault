@@ -1,11 +1,10 @@
 ---
 case_slug: cecelia-neltner
-created_at: 2026-02-16 22:18:49.483000+00:00
+created_at: {}
 document_category: medical
-document_date: 2004-11-27
+document_date: {}
 document_type: medical
-entities:
-- St. Elizabeth
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-04-01-MVA-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecelia-Neltner-MVA-4-1-2023/Correspondence/2024-04-03-Cecelia-Neltner-St-Elizabeth-Physicians-Primary-Care-Medical-Authorization.pdf
 source_hash: sha256:a0968d6c737d3134d6a512b2d98f2305f80be7e6891f6dc94ed30ac008b8f788
+contact: "[[cases/2023-04-01-mva-001/contacts/st-elizabeth-physicians-primary-care]]"
 ---
+
+**Case:** [[cases/cecelia-neltner/cecelia-neltner|Cecelia Neltner]]
+**Client:** [[cases/cecelia-neltner/contacts/cecelia-neltner|Cecelia Neltner]]
+
 
 [DOB-1]
 ***-**-1112 [DOB-1]

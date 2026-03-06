@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:203aa93d31b8de9e4bb2b23a2a4f15dde9fa5386540943388a2804cc6d9761d4
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Commonwealth of Kentucky
 Cabinet for Health and Family Services
 Department for Aging and Independent Living & Department for Medicaid Services

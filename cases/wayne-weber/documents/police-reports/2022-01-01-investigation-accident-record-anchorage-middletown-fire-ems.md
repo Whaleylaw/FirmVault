@@ -1,21 +1,23 @@
 ---
 case_slug: wayne-weber
-created_at: 2026-02-17 00:40:03.582000+00:00
+created_at: {}
 document_category: police-reports
-document_date: 1947-07-13
+document_date: {}
 document_type: police_report
-entities:
-- Tim Welski
-- Norton Healthcare
+entities: null
 extraction_method: native_text
 legacy_case_id: 2022-01-01-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-Weber-MVA-01-01-2022/Investigation/2022-01-01
-  - Investigation - Accident Record - Anchorage Middletown Fire EMS.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-Weber-MVA-01-01-2022/Investigation/2022-01-01 - Investigation - Accident Record - Anchorage Middletown Fire EMS.pdf
 source_hash: sha256:b7d040f6fb8bf3852cc4014e883708efdd36a0e652517bf3335ae498de5c2125
+contact: "[[cases/2022-01-01-mva-001/contacts/anchorage-middletown-fire-ems]]"
 ---
+
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 
 Es
 !

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:3d7086167b6a9789da92d3af09df35d10b1e180d863a3a9502a3e5d9c9230719
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 Subject: ENCRYPT
 From: [EMAIL-5]
 To: sarena@whaleylawfirm.com

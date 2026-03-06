@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:8cfa042ee1e308e4d32d7aac44a60f03c83638de7d60cb1c5e4403d15394905e
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: client
 extraction.date: 2023-11-04
 extraction.description: HIPAA authorization form from The Whaley Law Firm PSC for Wayne Weber's medical records.

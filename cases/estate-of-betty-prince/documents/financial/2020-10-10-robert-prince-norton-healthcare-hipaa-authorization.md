@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:fd320d8934d34cd15cf561e8d904aa00418c5640403d4772fb16774f64b5ca5b
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 IN NORTON
 HEALTHCARE
 AUTHORIZATION TO DISCLOSE PROTECTED HEALTH INFORMATION

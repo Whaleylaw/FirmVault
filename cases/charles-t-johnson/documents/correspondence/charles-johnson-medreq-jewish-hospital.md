@@ -1,11 +1,10 @@
 ---
 case_slug: charles-t-johnson
-created_at: 2026-02-16 22:25:19.180000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1952-04-01
+document_date: {}
 document_type: correspondence
-entities:
-- Jewish Hospital
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-04-18-MVA-001
 mime_type: application/msword
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charles-T-Johnson-MVA-4-18-2023/Charles-Johnson-MedReq-Jewish-Hospital.doc
 source_hash: sha256:b49f82f33655e7c2118df1c2a7721cfc4285b9bd3f7410beb53414fc390a7dd7
+contact: "[[cases/2023-04-18-mva-001/contacts/jewish-hospital]]"
 ---
+
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 
 May 4, 2023
 

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:90423ae4e58b31ccccb6bfb7451a7f773ff0e96139c69091a91c806f649caf9d
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 category: Medical Records
 description: Lab report and patient visit records
 entities[0]: Alma Socorro Cristobal Avendaño

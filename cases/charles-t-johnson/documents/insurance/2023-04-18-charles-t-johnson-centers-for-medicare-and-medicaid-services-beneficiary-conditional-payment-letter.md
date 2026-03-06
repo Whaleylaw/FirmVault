@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:dabf622339175bd9bd18574ad9e016dff52057a5c6c6dc3870cac447323e857b
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 x9098C0000/6CPZ0CH?x
 iL
 CEMS CENTERS FOR MEDICARE & MEDICAID SERVICES" gordination of

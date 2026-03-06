@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:fa7806f53b9f4e80561f3c554bf28038e37dd94f2b38bd4e671ca2fb3ec2353d
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 CERTIFICATION OF MEDICAL RECORDS AFFIDAVIT
 Gy. he Labia , being first duly sworn on his/her oath, says that:
 ime off of record:s custodian/clerk)

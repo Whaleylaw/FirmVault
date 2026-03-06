@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:72a24e902e3cccbee0f832e8fe4f4244790cfb926947d0a0838d9f22d4edebdb
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 batch_number: 11
 count: 19
 files[0]: 2021-01-03-Anella-Noble-Louisville-Emerg-Med-Associates-PSC-MVA-Lumbar-Strain.pdf

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie
 source_hash: sha256:a291cad799bc3fe12b667120c5fbdb1898d86120db3d037d01e55626209b4b12
 ---
 
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 case_folder: Stevie-Hawks-MVA-3-8-2024
 job_id: file-org-acb467b8
 phases.extraction.notes: Starting Phase 2a: Extraction. Processing 48 PDFs with parallelized extraction agents (2 agents, batch size 4 max concurrent).

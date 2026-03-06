@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:77d53e96d0ce4f8eab492ca7054c2e2433df430a337d48c87c8e282124da44cd
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 case_folder: Torrey-Green-MVA-9-03-2025
 job_id: file-org-95b09fa5
 phases.inventory.notes: Starting file organization workflow - Phase 1: Inventory

@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:0f72e1b0c229029dd19602cf0a58d957dd2fbcfa5abf03fe0d3ea01065c5ba22
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 ©messes TAA TAANA TH AEN NT Te TaeT™ qarnaan Tees (esseses
 Orthopaedic Associates
 Fax Cover Sheet

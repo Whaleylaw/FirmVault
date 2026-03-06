@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:436be9c3531cbc73d3d2dd7dc84b980e0048f25c876b77dce775ab73feb68101
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 PIP/Med Pay Payment Ledger
 Claimant / Injured Party CECIL FINLEY
 Coverage PIP OOS - Medical Expense Per Person

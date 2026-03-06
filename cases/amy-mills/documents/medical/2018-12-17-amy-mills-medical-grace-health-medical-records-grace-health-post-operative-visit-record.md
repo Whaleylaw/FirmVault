@@ -1,21 +1,23 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:48:30.826000+00:00
+created_at: {}
 document_category: medical
-document_date: 1983-12-28
+document_date: {}
 document_type: medical
-entities:
-- Travis Gilbert
-- Grace Community Health Center
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Grace
-  Health/Medical Records/2018-12-17-Amy-Mills-Medical-Grace Health-Medical-Records-Grace-Health-Post-Operative-Visit-Record.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Grace Health/Medical Records/2018-12-17-Amy-Mills-Medical-Grace Health-Medical-Records-Grace-Health-Post-Operative-Visit-Record.pdf
 source_hash: sha256:6de3b8e9ce84d0dc70cf2f1e4f18cf50c5144ec15f02ebce1e197a1ec04cc633
+contact: "[[cases/2019-04-26-prl-001/contacts/grace-health]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 Mills, Amy 000000023359 [DOB-33] [DOB-33] 10:45 AM Page: 1/5
 PATIENT: Amy Mills

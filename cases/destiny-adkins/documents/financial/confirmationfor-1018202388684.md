@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Destin
 source_hash: sha256:821e86cf99e8c259276bdc238e42086c4b8b718ced95cc04d32ba6af3ce5dfb3
 ---
 
+**Case:** [[cases/destiny-adkins/destiny-adkins|Destiny Adkins]]
+**Client:** [[cases/destiny-adkins/contacts/destiny-adkins|Destiny Adkins]]
+
 Subject: Confirmation for [DOB-1] (88684)
 From: [EMAIL-2]
 To: Sarena@WhaleyLawFirm.com, [EMAIL-3]

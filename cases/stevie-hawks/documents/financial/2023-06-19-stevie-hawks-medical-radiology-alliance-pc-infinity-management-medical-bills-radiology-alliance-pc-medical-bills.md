@@ -1,19 +1,22 @@
 ---
 case_slug: stevie-hawks
-created_at: 2026-02-17 00:23:54.090000+00:00
+created_at: {}
 document_category: financial
-document_date: 2023-06-19
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2024-03-08-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie-Hawks-MVA-3-8-2024/Medical/Radiology
-  Alliance, PC (Infinity Management)/Medical Bills/2023-06-19-Stevie-Hawks-Medical-Radiology
-  Alliance, PC (Infinity Management)-Medical-Bills-Radiology-Alliance-PC-Medical-Bills.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie-Hawks-MVA-3-8-2024/Medical/Radiology Alliance, PC (Infinity Management)/Medical Bills/2023-06-19-Stevie-Hawks-Medical-Radiology Alliance, PC (Infinity Management)-Medical-Bills-Radiology-Alliance-PC-Medical-Bills.pdf
 source_hash: sha256:610cbcda40061c98f614da3f5632632186ecfa4063b76280b535c770ac10ee23
+contact: "[[cases/2024-03-08-mva-001/contacts/radiology-alliance-pc-infinity-management]]"
 ---
+
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 
 _________________________________________________________________________________________________________
  This report has been Reproduced from the Original

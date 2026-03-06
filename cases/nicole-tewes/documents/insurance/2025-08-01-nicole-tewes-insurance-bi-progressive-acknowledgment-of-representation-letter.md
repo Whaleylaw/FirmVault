@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nicole
 source_hash: sha256:b61afc9d865b8ab5a7d202f1d114c1d60ab6ad6d2b7e876680d944cbcdf88558
 ---
 
+**Case:** [[cases/nicole-tewes/nicole-tewes|Nicole Tewes]]
+**Client:** [[cases/nicole-tewes/contacts/nicole-tewes|Nicole Tewes]]
+
 PROGRESSIVE CLAIMS PO BOX 94670 CLEVELAND, OH 44101-9919
 
 Underwritten by:

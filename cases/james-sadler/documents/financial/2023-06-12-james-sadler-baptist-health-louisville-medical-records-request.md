@@ -4,6 +4,9 @@ document_category: financial
 legacy_case_id: 2023-04-07-MVA-001
 ---
 
+**Case:** [[cases/james-sadler/james-sadler|James Sadler]]
+**Client:** [[cases/james-sadler/contacts/james-sadler|James Sadler]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Sadler-MVA-4-07-2023/Medical-Records-Requests/2023-06-12-James-Sadler-Baptist-Health-Louisville-Medical-Records-Request.pdf"
 source_hash: "sha256:a4a2a2e41f5b7ca26548072a18620eff8a14d9eac0a2713aa9f0afb38b3c6f38"

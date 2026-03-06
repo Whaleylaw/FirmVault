@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julian
 source_hash: sha256:9b01f787533279e6f895c4f95ad7edd185a736c2ca9125f966b1454b3affca90
 ---
 
+**Case:** [[cases/julian-wilson/julian-wilson|Julian Wilson]]
+**Client:** [[cases/julian-wilson/contacts/julian-wilson|Julian Wilson]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julian-Wilson-MVA-[DOB-1]/Investigation/2025-10-12-Julian-Wilson-Investigation-Client-Provider-Search-Screenshot.jpg

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:5849942eabb65ccf6460b9e0d25103a625561d212da0ada8def19529e30e0cd2
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 Subject: New Voice Message from WEBER,PEGGY [PHONE-5] on [DOB-2] 3:24 PM
 From: [EMAIL-3]
 To: Sarena@whaleylawfirm.com

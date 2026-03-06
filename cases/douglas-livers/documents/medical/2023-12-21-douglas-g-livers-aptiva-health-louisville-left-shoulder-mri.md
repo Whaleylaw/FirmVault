@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:4bf7fb9e9aaa7a46b551fe7505b0b3a52573b9b88644bbf608e67ef2c0dcd817
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 3615 Newburg Road
 Louisville, Kentucky 40218
 Phone: 1502-909-0772

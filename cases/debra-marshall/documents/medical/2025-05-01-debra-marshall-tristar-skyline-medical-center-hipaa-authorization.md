@@ -1,10 +1,9 @@
 ---
 case_slug: debra-marshall
-created_at: 2026-02-16 23:05:01.338000+00:00
+created_at: {}
 document_category: medical
 document_type: medical
-entities:
-- TriStar Skyline Medical Center
+entities: null
 extraction_method: native_text
 legacy_case_id: 2022-12-03-MVA-001
 mime_type: application/pdf
@@ -12,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-Marshall-MVA-12-3-2022/Records-Requests/2025-05-01-Debra-Marshall-TriStar-Skyline-Medical-Center-HIPAA-Authorization.pdf
 source_hash: sha256:36e5a4372389789656ba527f39064ed9d9fa1d2cce0b120bb7393c6e05ca6260
+contact: "[[cases/2022-12-03-mva-001/contacts/tristar-skyline-medical-center]]"
 ---
+
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 
 TriStar Skyline Medical Center
 3441 Dickerson Pike 

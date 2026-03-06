@@ -1,21 +1,23 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:49:00.917000+00:00
+created_at: {}
 document_category: medical
-document_date: 1983-12-28
+document_date: {}
 document_type: medical
-entities:
-- Brian Jones
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Norton
-  Orthopedic Institute/Medical Records/2020-01-20-Amy-Mills-Medical-Norton Orthopedic
-  Institute-Medical-Records-Norton-Hospital-Radiology-Report-XR-Spine.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Norton Orthopedic Institute/Medical Records/2020-01-20-Amy-Mills-Medical-Norton Orthopedic Institute-Medical-Records-Norton-Hospital-Radiology-Report-XR-Spine.pdf
 source_hash: sha256:1b6ece5d93222bb7dd27d4aac3a2da16e4ff3f0d47aa4fb6e0707b246c89d02f
+contact: "[[cases/2019-04-26-prl-001/contacts/norton-orthopedic-institute]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 MyChart • Teat Details 
 Name: Amy Jo Mills I DOB: [DOB-5] I MRN: EP02256299 I PCP: Provider Not In System 

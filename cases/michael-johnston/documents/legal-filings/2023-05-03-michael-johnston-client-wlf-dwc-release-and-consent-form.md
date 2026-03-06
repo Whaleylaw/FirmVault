@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:30dd494f4e35dfeb5f450e4c28880025c68c53ba2ff4cad0f940cfd9f4eb9d1b
 ---
 
+**Case:** [[cases/michael-johnston/michael-johnston|Michael Johnston]]
+**Client:** [[cases/michael-johnston/contacts/michael-johnston|Michael Johnston]]
+
 RELEASE AND CONSENT TO DISCLOSURE
 I, __________________________________, ________________, _________-____-__________ 
  (Printed Name) (Birth Date) (Social Security Number)

@@ -1,12 +1,10 @@
 ---
 case_slug: samuel-clites
-created_at: 2026-02-17 00:17:46.724000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1967-09-15
+document_date: {}
 document_type: correspondence
-entities:
-- Blue Cross
-- Anthem
+entities: null
 extraction_method: native_text
 legacy_case_id: 2024-04-23-MVA-001
 mime_type: application/pdf
@@ -14,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Samuel-Clites-MVA-4-23-2024/Liens/2024-09-26-Samuel-Clites-Lien-Anthem-Subrogation-Notice-and-Itemization.pdf
 source_hash: sha256:0f14a432fe652b62f045e802a9eb8fcdd58dca60ad696ab89222011d4bbdc3c2
+contact: "[[cases/2024-04-23-mva-001/contacts/anthem]]"
 ---
+
+**Case:** [[cases/samuel-clites/samuel-clites|Samuel Clites]]
+**Client:** [[cases/samuel-clites/contacts/samuel-clites|Samuel Clites]]
+
 
 © [DOB-11] 3:23 PM Fax Services -> Attorney Aries Penaflor pg 1of 3
 To: Attorney Aries Penaflor

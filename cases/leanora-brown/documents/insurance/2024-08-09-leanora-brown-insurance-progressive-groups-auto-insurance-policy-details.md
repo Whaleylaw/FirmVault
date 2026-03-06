@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Leanor
 source_hash: sha256:27efc2f09a14d02bea0250dbc5bc9e00b768c36b2065d6aab824620864873db2
 ---
 
+**Case:** [[cases/leanora-brown/leanora-brown|Leanora Brown]]
+**Client:** [[cases/leanora-brown/contacts/leanora-brown|Leanora Brown]]
+
 Current Policy Back to Top ⬆
 CURRENT POL: 984928602AA162408
 CARRIER: PROGRESSIVE GROUPS AMB: 90525

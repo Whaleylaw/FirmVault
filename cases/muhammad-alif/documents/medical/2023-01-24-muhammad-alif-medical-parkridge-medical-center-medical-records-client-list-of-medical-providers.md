@@ -2,7 +2,12 @@
 case_slug: muhammad-alif
 document_category: medical
 legacy_case_id: 2022-11-08-MVA-001
+contact: "[[cases/2022-11-08-mva-001/contacts/parkridge-medical-center]]"
 ---
+
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-[DOB-1]/Medical/Parkridge Medical Center/Medical Records/2023-01-24-Muhammad-Alif-Medical-Parkridge Medical Center-Medical-Records-Client-List-of-Medical-Providers.eml"

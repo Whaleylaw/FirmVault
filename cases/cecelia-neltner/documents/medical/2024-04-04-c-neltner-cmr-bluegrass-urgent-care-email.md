@@ -1,6 +1,6 @@
 ---
 case_slug: cecelia-neltner
-created_at: 2026-02-16 22:18:52.215000+00:00
+created_at: {}
 document_category: medical
 document_type: medical
 extraction_method: native_text
@@ -10,7 +10,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecelia-Neltner-MVA-4-1-2023/Correspondence/2024.04.04-C-Neltner-CMR-Bluegrass-Urgent-Care-Email.eml
 source_hash: sha256:3b9286cebdde3655d749811b5878f43dfc382b9991054f5a49ff2f1d3de99f79
+contact: "[[cases/2023-04-01-mva-001/contacts/bluegrass-urgent-care]]"
 ---
+
+**Case:** [[cases/cecelia-neltner/cecelia-neltner|Cecelia Neltner]]
+**Client:** [[cases/cecelia-neltner/contacts/cecelia-neltner|Cecelia Neltner]]
+
 
 Subject: Medical Records Request
 From: [EMAIL-1]

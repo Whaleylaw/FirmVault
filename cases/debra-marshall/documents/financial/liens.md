@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:901309159642c37e777cbad76346a43d2af6f708e1ac0eb03bc0e6b04c966486
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 item_0.amount_owed_from_settlement: 10157.36
 item_0.date_notice_received: 2024-05-17
 item_0.final_lien_amount: 10157.36

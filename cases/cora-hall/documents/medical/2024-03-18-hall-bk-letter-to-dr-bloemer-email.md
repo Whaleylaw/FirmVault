@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:18f010040cf8f7cc20f4efecf05fb0dafe77065979b3f1ef69cd1aa3d9b3d508
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 Subject: Re: New Appointment: STANDARD-IME (%Patient Name%) on Tuesday, March 26, 2024 11:30am EDT with (Louisville, KY) Gary F. Bloemer, MD (Orthopedic Surgeon)
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

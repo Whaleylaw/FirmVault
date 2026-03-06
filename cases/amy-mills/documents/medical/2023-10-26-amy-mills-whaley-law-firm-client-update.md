@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:fbf1d2ecc244a55aa22f244edc12f85976c043e012e5ccf57741d6a283ac1a17
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 MILLS , AMY 70000308089 RAKKAS 34 of 862
 
 MUN

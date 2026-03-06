@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:9b21fa839a59f7a042910b6cee8ebaae111d6c9c3edd243ee54cc7eb1974b872
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: legal
 date: 2024-12-01
 description: Full Release of All Property Damage Claims with Indemnity for $25,000.00, claim #24-902741838, accident 12/1/2024 at Mt Zion Road and Biltmore Boulevard, Florence, KY

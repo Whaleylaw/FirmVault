@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:84fd744cc1742dc90e557c5366856b95b8fe18c0d819d9a346bb42808a54a480
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 item_0.extension: .md
 item_0.name: 2024-11-12-Jeremy-Lindsey-Progressive-Auto-Insurance-Renewal.md
 item_0.path: 2024-11-12-Jeremy-Lindsey-Progressive-Auto-Insurance-Renewal.md

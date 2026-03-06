@@ -1,11 +1,10 @@
 ---
 case_slug: christopher-wilkerson
-created_at: 2026-02-16 22:26:51.604000+00:00
+created_at: {}
 document_category: insurance
-document_date: 2024-02-15
+document_date: {}
 document_type: insurance
-entities:
-- Kentucky Farm Bureau
+entities: null
 extraction_method: native_text
 legacy_case_id: 2024-02-15-MVA-002
 mime_type: application/json
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 90
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christopher-Wilkerson-WC-MVA-02-15-2024/Reports/extractions/2024-05-08-Christopher-Wilkerson-Shellie-Cooper-Wage-Claim-Information_extraction.json
 source_hash: sha256:3cba05d03a0c39b4e39656bb658d5d882e0c88b26587d553e86a201f2dd4a9df
+contact: "[[cases/2024-02-15-mva-002/contacts/shellie-cooper]]"
 ---
+
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 
 extraction.classification.bucket: Insurance
 extraction.classification.confidence: high

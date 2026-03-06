@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:a53fe9b47460ccf1c90993e84d187fc91c7759fc83e2d55aafd9232a4e21e3b4
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 CERTIFICATION OF MEDICAL RECORDS
 | am the medical records custodian for Q n and | certify
 the attached pages of medical records of J AMes Kw totaling

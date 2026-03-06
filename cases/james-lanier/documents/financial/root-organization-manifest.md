@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:0835837b6752c8505cb27b63c2d3a310bce980c5b30ab025261fc1153a9fd5fa
 ---
 
+**Case:** [[cases/james-lanier/james-lanier|James Lanier]]
+**Client:** [[cases/james-lanier/contacts/james-lanier|James Lanier]]
+
 accident_date: 2025-06-28
 case_type: MVA
 client_name: James-Lanier

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:65f6571a37b5b419100cd4fdb7cd98171829998a6f2a6da0f40b023e1ec7c822
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 category: Medical Records
 description: Accident-related medical records from St Mary and Elizabeth Hospital
 entities[0]: Alma Socorro Cristobal Avendaño

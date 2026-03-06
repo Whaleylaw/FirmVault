@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jensen
 source_hash: sha256:dd747bd514c56ac251eac78b94c3a65ac7c066562942baadebb43c93dfc78e57
 ---
 
+**Case:** [[cases/jensen-ott/jensen-ott|Jensen Ott]]
+**Client:** [[cases/jensen-ott/contacts/jensen-ott|Jensen Ott]]
+
 accident_date: 2025-08-06
 case_type: MVA
 client_name: Jensen-Ott

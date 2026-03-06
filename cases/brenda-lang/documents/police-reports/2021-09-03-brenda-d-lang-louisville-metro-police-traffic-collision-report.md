@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:5f5f54ac17110c4aa1240ed4c025c5575510f56b2aa2b4bf991a3edba18dbc8f
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 INVESTIGATOR BEAT OR POST #
 TOTAL LANES
 NO

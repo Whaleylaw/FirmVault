@@ -19,6 +19,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor
 source_hash: sha256:f4af28ae4a2529ba01009af155e2f041f21e67c54585af0b054dd421c5233257
 ---
 
+**Case:** [[cases/taylor-thompson/taylor-thompson|Taylor Thompson]]
+**Client:** [[cases/taylor-thompson/contacts/taylor-thompson|Taylor Thompson]]
+
 June 30, 2025 PLEASE BE ADVISED THAT THER 
 LETTER CONTAINS A TIME 
 SENSITIVE SETTLEMENT OFFER. 

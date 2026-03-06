@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Mohama
 source_hash: sha256:21a0a7e6ff80ae4a66b842338b316a722290b9eeffcff7a8db731d058bb688b2
 ---
 
+**Case:** [[cases/mohamad-daud-shaheen/mohamad-daud-shaheen|Mohamad Daud Shaheen]]
+**Client:** [[cases/mohamad-daud-shaheen/contacts/mohamad-daud-shaheen|Mohamad Daud Shaheen]]
+
 item_0.jsonb_agg[0].case_create_date: 1769716099651
 item_0.jsonb_agg[0].client_address: 2827 S 4th St, Apt f1, Louisville, KY 40208
 item_0.jsonb_agg[0].client_name: Mohamad Daud Shaheen

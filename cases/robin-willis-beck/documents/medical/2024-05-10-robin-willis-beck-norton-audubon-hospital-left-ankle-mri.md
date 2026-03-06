@@ -1,11 +1,10 @@
 ---
 case_slug: robin-willis-beck
-created_at: 2026-02-17 00:17:14.329000+00:00
+created_at: {}
 document_category: medical
-document_date: 1977-07-27
+document_date: {}
 document_type: medical
-entities:
-- Wesley Bryson
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-09-21-PrL-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-Willis-Beck-Premise-09-21-2023/Medical-Records/2024-05-10-Robin-Willis-Beck-Norton-Audubon-Hospital-left-ankle-MRI.pdf
 source_hash: sha256:26280dce0cc1a890a8d2f96c1732dde7c50d3bba4639c14d008a25fc5f6657c5
+contact: "[[cases/2023-09-21-prl-001/contacts/norton-audubon-hospital]]"
 ---
+
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 
 REVIEWING YOUR TEST RESULTS IN MYNORTONCHART IS NOT A SUBSTITUTE FOR DISCUSSING THOSE 
 RESULTS WITH YOUR HEALTH CARE PROVIDER. PLEASE CONTACT YOUR PROVIDER VIA MYNORTONCHART 

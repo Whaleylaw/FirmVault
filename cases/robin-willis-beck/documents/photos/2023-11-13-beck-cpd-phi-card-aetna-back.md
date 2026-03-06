@@ -4,6 +4,9 @@ document_category: photos
 legacy_case_id: 2023-09-21-PrL-001
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-Willis-Beck-Premise-[DOB-1]/Photos/2023.11.13-Beck-CPD-PHI-Card-Aetna-Back.jpg"
 source_hash: "sha256:b8f82806ea284eb35148d71b7cfa7fa204979ffc778e65010b7f27006ddc73ce"

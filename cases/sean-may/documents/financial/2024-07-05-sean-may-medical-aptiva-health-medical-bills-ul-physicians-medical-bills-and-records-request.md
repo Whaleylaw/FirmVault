@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sean-M
 source_hash: sha256:534b14fd92194a25eaf12e79fff254d926ee95d11f559476c7f753d056bca757
 ---
 
+**Case:** [[cases/sean-may/sean-may|Sean May]]
+**Client:** [[cases/sean-may/contacts/sean-may|Sean May]]
+
 U of L Dhycioianc 0/15/2025 4.57.42 DM EDT DACE 1/008 Fax Server
 FAX
 To: [EMAIL-1]

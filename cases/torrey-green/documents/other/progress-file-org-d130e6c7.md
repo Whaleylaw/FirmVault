@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:568c39b385199329678bbdbd6957566d7c247fb8f62ca7a6b9935b83c3c4d101
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 case_folder: Torrey-Green-MVA-9-03-2025
 job_id: file-org-d130e6c7
 phases.inventory.notes: Starting Phase 1: Inventory generation

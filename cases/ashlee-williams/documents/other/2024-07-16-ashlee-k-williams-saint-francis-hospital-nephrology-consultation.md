@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee
 source_hash: sha256:44999dbd069b40f9668acb9985904393cbbaa8ed24723eb13777e7217f9cf43e
 ---
 
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 Oct.19.2023 12:00 AM [PHONE-1]
 
 ‘MET [RIAPI} PUR ajeys JopuN sayjeuad oF yoalqns sr ApTETUSpIUOS

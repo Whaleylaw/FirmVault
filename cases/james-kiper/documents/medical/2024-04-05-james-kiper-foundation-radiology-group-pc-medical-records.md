@@ -1,6 +1,6 @@
 ---
 case_slug: james-kiper
-created_at: 2026-02-16 23:52:10.446000+00:00
+created_at: {}
 document_category: medical
 document_type: medical
 extraction_method: native_text
@@ -8,10 +8,14 @@ legacy_case_id: 2022-12-05-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Kiper-MVA-12-5-2022/Old
-  Files/2024-04-05-James-Kiper-Foundation-Radiology-Group-PC-Medical-Records.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Kiper-MVA-12-5-2022/Old Files/2024-04-05-James-Kiper-Foundation-Radiology-Group-PC-Medical-Records.pdf
 source_hash: sha256:626a16e53f7e19adbc691ad10ca75e91dc730cfb9bd495fc391898dd2a05884b
+contact: "[[cases/2022-12-05-mva-001/contacts/foundation-radiology]]"
 ---
+
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 
 Karrie Raymond
 Foundation Radiology Group, PC

@@ -1,6 +1,6 @@
 ---
 case_slug: caryn-mccay
-created_at: 2026-02-16 22:16:43.277000+00:00
+created_at: {}
 document_category: photos
 document_type: photo
 extraction_method: image_proxy
@@ -10,7 +10,12 @@ page_count: 1
 quality_score: 70
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-McCay-MVA-7-30-2023/Expenses/2024-08-16-Caryn-McCay-All-State-Wages-Salary-form.jpg
 source_hash: sha256:19d9608fa6aa583417295ef48ff4c9cecc89fdbe652116d5bed269b9703e71c4
+contact: "[[cases/2023-07-30-mva-001/contacts/caryn-mccay]]"
 ---
+
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 
 # Image Document
 

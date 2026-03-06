@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:537fa57b966d9f468c6f42bdbc8d86b7e5b3cb0eb922530c7097ad1efa221a1b
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 INVESTIGATOR BEAT OR POST #
 TOTAL LANES
 NO

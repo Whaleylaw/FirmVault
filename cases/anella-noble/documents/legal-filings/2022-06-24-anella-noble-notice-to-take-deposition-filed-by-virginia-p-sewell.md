@@ -1,11 +1,10 @@
 ---
 case_slug: anella-noble
-created_at: 2026-02-16 22:02:41.822000+00:00
+created_at: {}
 document_category: court-filings
-document_date: 2022-06-21
+document_date: {}
 document_type: court_filing
-entities:
-- State Farm
+entities: null
 extraction_method: native_text
 legacy_case_id: 2021-01-03-MVA-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella-Noble-MVA-01-03-2021/Discovery/2022-06-24-Anella-Noble-Notice-to-Take-Deposition-filed-by-Virginia-P-Sewell.pdf
 source_hash: sha256:4fb65460c43edee22b1298e5eb9136582e151b557defcb7ba664ea4fc48d51f0
+contact: "[[cases/2021-01-03-mva-001/contacts/virginia-p-sewell]]"
 ---
+
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 
 NO. 21-CI-004985 JEFFERSON CIRCUIT COURT
  THE HON. MARY SHAW

@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:ab4458961d70f8f60c80e7a18023f0af66f503f8ea2c9e378534a269ac837672
 ---
 
+**Case:** [[cases/james-lanier/james-lanier|James Lanier]]
+**Client:** [[cases/james-lanier/contacts/james-lanier|James Lanier]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Lanier-MVA-6-28-2025/Medical/OrthoCincy -NKU/Medical Records/2025-09-02-James-Lanier-Medical-OrthoCincy -NKU-Medical-Records-St-Elizabeth-Healthcare-Procedure-Orders-Joint-Injection.jpg

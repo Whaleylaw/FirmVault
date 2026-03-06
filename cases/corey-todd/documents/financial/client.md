@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Corey-
 source_hash: sha256:d228d41559e41170276577a18ac07bcd3aaffe5992d7444aacc5d6079036c400
 ---
 
+**Case:** [[cases/corey-todd/corey-todd|Corey Todd]]
+**Client:** [[cases/corey-todd/contacts/corey-todd|Corey Todd]]
+
 address: 107 N 44th St, Louisville, KY 40212
 date_of_birth: [DOB-1]
 imported_at: 2026-02-16T21:09:42.783Z

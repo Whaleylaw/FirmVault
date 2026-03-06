@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:faf3e6d509c8149134f2135dfba96ff42ecc4e8f16004a2b2423c1a72fb87fa6
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 COMMONWEALTH OF KENTUCKY MORGAN CIRCUIT COURT CIVIL ACTION NO. 24-Cl-00065
 
 Electronically Filed MICHAEL CRADER PLAINTIFF VS. NOTICE OF SERVICE MEGAN COMBS DEFENDANT

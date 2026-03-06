@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:befd4f5e25df742b2b57ea4b96bca8aba2a378518672db9425e7bf44f8e9c62a
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 Subject: Here is that paystub
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

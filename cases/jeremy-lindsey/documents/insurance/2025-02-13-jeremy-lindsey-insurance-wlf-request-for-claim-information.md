@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:cef1f5da374e2802c4a119e4f679afe2c5092c67d1f357933d368b09fa468406
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 +[POLICY-1] 729
 REQUEST FOR CLAIM INFORMATION
 Member/Patient: Elizabeth Lindsey/Jeremy Lindsey

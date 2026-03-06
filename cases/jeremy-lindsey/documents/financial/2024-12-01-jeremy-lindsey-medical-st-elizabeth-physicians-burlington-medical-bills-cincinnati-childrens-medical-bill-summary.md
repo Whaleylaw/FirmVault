@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:76d1bd50712af6eab88baf0fe2b1153292381264f451008b5010063283a13b19
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 Cincinnati Children's
 3333 BURNET AVENUE
 CINCINNATI, OH 45229-3039

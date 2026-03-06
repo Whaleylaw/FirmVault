@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:3882e5d9734887fb77a41e7a8547a1c35d89f63954459302f4ca8b97edd07377
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 Aaron G. Whaley, Esq. 712 Lyndon Lane
 
 JHE P Louisville, KY 40222 H A L F VY Ph: [PHONE-25] } Fax: [PHONE-24] LAX W FIRM July 23, 2024

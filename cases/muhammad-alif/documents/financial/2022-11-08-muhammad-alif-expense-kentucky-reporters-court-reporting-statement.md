@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:ecb63917948587367e10240e395302bb346a3a150594ad6534947c1c5418b09e
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 4 STATEMENT lofi
 a S Account No. Date vy KK “Ner UCKY C14680 7/18/2024
 ae OG. T REPORTER -

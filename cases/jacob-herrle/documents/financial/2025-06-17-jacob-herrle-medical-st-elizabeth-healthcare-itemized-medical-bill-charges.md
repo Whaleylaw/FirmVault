@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jacob-
 source_hash: sha256:fd99b346de5c705674d1d2edc97b4bcbf3ab9f58c96aa7b436933d68cf0a5e6a
 ---
 
+**Case:** [[cases/jacob-herrle/jacob-herrle|Jacob Herrle]]
+**Client:** [[cases/jacob-herrle/contacts/jacob-herrle|Jacob Herrle]]
+
 BANNER PAGE - DETAIL BILL BEGINS ON PAGE 2
 Printed by 130780
 GSt. Elizabeth

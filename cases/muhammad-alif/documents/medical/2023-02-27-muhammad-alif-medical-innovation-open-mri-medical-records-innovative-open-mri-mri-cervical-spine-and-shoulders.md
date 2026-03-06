@@ -1,18 +1,22 @@
 ---
 case_slug: muhammad-alif
-created_at: 2026-02-17 00:11:14.138000+00:00
+created_at: {}
 document_category: medical
-document_date: 1961-04-16
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2022-11-08-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Innovation
-  Open MRI/Medical Records/2023-02-27-Muhammad-Alif-Medical-Innovation Open MRI-Medical-Records-Innovative-Open-MRI-MRI-Cervical-Spine-And-Shoulders.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Innovation Open MRI/Medical Records/2023-02-27-Muhammad-Alif-Medical-Innovation Open MRI-Medical-Records-Innovative-Open-MRI-MRI-Cervical-Spine-And-Shoulders.pdf
 source_hash: sha256:7964fb3110d2f2128bc8b128069bd4994556f033c02e439faf812cdca84a8bf6
+contact: "[[cases/2022-11-08-mva-001/contacts/innovation-open-mri]]"
 ---
+
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 
 3/423, 3:57 PM ALIFAMUHAMMAD | M j 4/16/1967 | 61¥
 - Innovative

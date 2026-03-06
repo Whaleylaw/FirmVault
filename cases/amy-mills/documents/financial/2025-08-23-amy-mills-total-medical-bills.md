@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:37f1f6a7ae64f6aa0518efc6d42429f4ca63b6141a5a85d751523eb0bf7ff8b0
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 TOTAL MED BILLS
 $120.00
 $350.00

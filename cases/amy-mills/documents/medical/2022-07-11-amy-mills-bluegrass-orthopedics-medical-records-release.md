@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:15f086948e42e6b3350c24ed51df5901f06a1c3667e3fe1b983c99529d839fbf
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 [DOB-1]
 Amy Jo Mills ***-**-1644 [DOB-1]
 Bluegrass Orthopedics

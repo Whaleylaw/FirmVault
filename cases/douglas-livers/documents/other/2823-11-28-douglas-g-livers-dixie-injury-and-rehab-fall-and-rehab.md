@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:28b429410fcf4bb65b4d28bd2e6562743baa76f940572e33d1b4648f1c7a34ab
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 28-Nov-2823 17:55 Dixie Injury & Rehab 15826987866 p.2
 35 RIRI RI SIS SISISlirBlalalBla NI NP MIP NN] uty =a5eS G = OM] oO] ©] OD] Mm] Oo] a] Oia] a|]o|] wm] g oO € on x
 2 OlOlM/ Ol] oO] oO] GOP oOlLo] ol] o] B S| SB EAN

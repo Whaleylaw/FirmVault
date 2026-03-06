@@ -1,6 +1,6 @@
 ---
 case_slug: muhammad-alif
-created_at: 2026-02-17 00:11:18.463000+00:00
+created_at: {}
 document_category: correspondence
 document_type: correspondence
 extraction_method: native_text
@@ -8,11 +8,14 @@ legacy_case_id: 2022-11-08-MVA-001
 mime_type: message/rfc822
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/KORT
-  Physical Therapy - Shelbyville/Record Requests/2024-08-05-Muhammad-Alif-Medical-KORT
-  Physical Therapy - Shelbyville-Record-Requests-ChartSwap-Medical-Record-Request-Fulfillment.eml
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/KORT Physical Therapy - Shelbyville/Record Requests/2024-08-05-Muhammad-Alif-Medical-KORT Physical Therapy - Shelbyville-Record-Requests-ChartSwap-Medical-Record-Request-Fulfillment.eml
 source_hash: sha256:a42747eca7d16356f3ca2c3446df84f2442d70c9d8fa55280e50c3196c49f1a1
+contact: "[[cases/2022-11-08-mva-001/contacts/kort-physical-therapy-shelbyville]]"
 ---
+
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 
 Subject: Your Record Request Has Been Fulfilled
 From: [EMAIL-2]

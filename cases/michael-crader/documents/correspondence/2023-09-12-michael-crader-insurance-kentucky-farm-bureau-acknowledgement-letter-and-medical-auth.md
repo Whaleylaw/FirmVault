@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:972dda5aa9c9b9552e43ce6564db469e1e65ea2667c1eb5007578634fecc4ca4
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 CLAIM NUMBER 04863358
 
 POLICY NUMBER [PHONE-3]

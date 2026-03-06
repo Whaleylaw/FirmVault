@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:a98fa4651261cbb7748c668911d93cea9b976e3c31bee9f384beef1e19511354
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 (oy Nae
 ORDER OF PROTECTION Case No. 119:0-502945-001 15-D-502945-001 oe |
 [4] Domestic VIOLENCE ORDER Court Family Court9

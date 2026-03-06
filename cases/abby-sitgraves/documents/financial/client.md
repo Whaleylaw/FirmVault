@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Abby-S
 source_hash: sha256:590be15feb2a7c5a5de9588470ed75301e63c8ea5ecbb3ca1cfbadd52c420091
 ---
 
+**Case:** [[cases/abby-sitgraves/abby-sitgraves|Abby Sitgraves]]
+**Client:** [[cases/abby-sitgraves/contacts/abby-sitgraves|Abby Sitgraves]]
+
 address: 3421 Heatherfield Dr., Louisville, KY 40216
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

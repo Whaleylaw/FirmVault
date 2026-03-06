@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Raysha
 source_hash: sha256:1a5001888d8f06b5dbb882e83d570a230852be2ba350bb93e8febc639049c4de
 ---
 
+**Case:** [[cases/rayshawn-wilson/rayshawn-wilson|Rayshawn Wilson]]
+**Client:** [[cases/rayshawn-wilson/contacts/rayshawn-wilson|Rayshawn Wilson]]
+
 iT at T Mhieriantane B/19 /9AOR 2.A1. oA NM ONT narte 1/AHK Paw Gawrar
 N
 N

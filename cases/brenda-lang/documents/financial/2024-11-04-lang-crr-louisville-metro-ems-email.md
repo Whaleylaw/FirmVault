@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:3d12139a17b0f45d8edf917d4c6a75bce507622f06b6c0a53d9a067cbe228f32
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 Subject: Certified Medical Records & Billing Request - Brenda Lang 09.01.1952
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

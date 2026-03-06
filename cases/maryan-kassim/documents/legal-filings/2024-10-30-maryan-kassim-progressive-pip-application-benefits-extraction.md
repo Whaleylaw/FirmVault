@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:3498763bd133a013aec7ad04f328f4cda2cd47273f8412a7d1a297b24da73c49
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 category: Insurance
 description: Application for Personal Injury Protection (PIP) benefits under Kentucky No-Fault for Maryan Kassim, filed with Progressive for accident on August 6, 2024.
 entities[0]: Maryan Kassim

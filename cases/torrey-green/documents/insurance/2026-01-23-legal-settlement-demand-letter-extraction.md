@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:5be1ad5038b24923f00678415280ff8225798dc2d9666c19ce1a032fc233c04a
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 category: negotiation
 date: 2026-01-23
 description: Organized copy of settlement demand letter dated January 23, 2026 from Whaley Law Firm to Elco Insurance demanding policy limits for bodily injury claim.

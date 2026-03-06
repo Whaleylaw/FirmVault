@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:df2de8a12802aa7a789694102225a15c3d3f0147621e26ddb849d71833b1ad26
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Changes in Regulation 907 KAR 1:835 
 Michelle P. Waiver Services and Reimbursement
 Effective 6/3/2016

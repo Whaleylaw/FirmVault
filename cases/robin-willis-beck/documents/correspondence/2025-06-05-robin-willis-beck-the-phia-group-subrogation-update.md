@@ -1,8 +1,8 @@
 ---
 case_slug: robin-willis-beck
-created_at: 2026-02-17 00:16:48.314000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 2023-09-21
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2023-09-21-PrL-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-Willis-Beck-Premise-09-21-2023/Insurance/2025-06-05-Robin-Willis-Beck-The-Phia-Group-Subrogation-Update.pdf
 source_hash: sha256:56e30a935d8cde8b9b1ba935ac214e8d91c6aab501689cac2243dacbae8d8d52
+contact: "[[cases/2023-09-21-prl-001/contacts/the-phia-group]]"
 ---
+
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 
 From: Phia Group Fax: [PHONE-1] To: Fax: [PHONE-19] Page: 1 of 2 [DOB-3] 12:00 PM
 THE

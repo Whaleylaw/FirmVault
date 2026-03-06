@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:f21aced3e156328f4d69597771c7e3e0cfc481ec67fa4db215499a106839c78a
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 category: Photographic Evidence
 document_date: 2022-12-08
 entities.client: James Kiper

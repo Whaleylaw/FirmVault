@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2024-01-24-MVA-001
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-Finley-MVA-1-24-2024/Medical-Records/2024-01-24-Cecil-Finley-Southeastern-Emergency-Services-Initial-ER-Visit.pdf"
 source_hash: "sha256:651b28bfcc0bbf87c6d3987b5c[PHONE-157]ff175f8eef81b1a28450e6b12d14"

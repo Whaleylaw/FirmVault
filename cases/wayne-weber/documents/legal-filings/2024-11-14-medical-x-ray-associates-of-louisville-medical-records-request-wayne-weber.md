@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:921d34483316bcd29edb7da1940c06ce058f0eee86c6786506d9d5c02f7b00cb
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 li/ld/282d 13:42 [PHONE-2] aRAY ASSOC OF LOU PAGE 4/16
 14-Nov-2824 «15:29 415829949544 +158223979207 p.4
 CER TION OQ CAL REC FIDAYI

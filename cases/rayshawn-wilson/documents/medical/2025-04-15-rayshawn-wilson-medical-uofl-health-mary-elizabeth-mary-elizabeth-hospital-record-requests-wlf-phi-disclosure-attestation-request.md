@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Raysha
 source_hash: sha256:5ac67b87c318e4e4fb36792d1ce0ed385d9ef794f9b584e57793c9a4b2b9af54
 ---
 
+**Case:** [[cases/rayshawn-wilson/rayshawn-wilson|Rayshawn Wilson]]
+**Client:** [[cases/rayshawn-wilson/contacts/rayshawn-wilson|Rayshawn Wilson]]
+
 uUsef L DPhyototono 1a/30/8468R48 1295.45.40 DM rem pAaL BfOhoe Treaiar Coarrroir
 Heal
 Attestation Regarding a Requested Use or Disclosure of Protected Health Information

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:f24f812eff8edfc6f187eb0ebfc4d89ffd589d0d1a1beae387e745d38d20091b
 ---
 
+**Case:** [[cases/james-sadler/james-sadler|James Sadler]]
+**Client:** [[cases/james-sadler/contacts/james-sadler|James Sadler]]
+
 Subject: NCP (for eFiler) JEFFERSON Circuit 25-CI-000116, SADLER, JAMES VS. TAFESSE, EYOB                              Envelope # 10595467
 From: [EMAIL-5]
 To: [EMAIL-4], Sarena@WhaleyLawFirm.com, [EMAIL-3]

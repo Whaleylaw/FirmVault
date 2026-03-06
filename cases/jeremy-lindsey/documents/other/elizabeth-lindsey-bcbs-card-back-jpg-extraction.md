@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:7d718c1b519d2fc584a9c9a32bcf3811eac74da95040d8f57b4ad544b6f14a6c
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: insurance
 description: Back of Blue Cross Blue Shield of North Carolina insurance card for Elizabeth Lindsey.
 entities[0]: Elizabeth Lindsey

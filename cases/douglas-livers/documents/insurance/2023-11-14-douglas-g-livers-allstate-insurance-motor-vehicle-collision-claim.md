@@ -1,11 +1,10 @@
 ---
 case_slug: douglas-livers
-created_at: 2026-02-16 23:29:33.494000+00:00
+created_at: {}
 document_category: insurance
-document_date: 2023-01-19
+document_date: {}
 document_type: insurance
-entities:
-- Allstate
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-01-19-MVA-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Douglas-Livers-MVA-1-19-2023/Insurance/2023-11-14-Douglas-G-Livers-Allstate-Insurance-Motor-Vehicle-Collision-Claim.pdf
 source_hash: sha256:7709bd1fe7c88a63dc43287d3d8fda08681e89dce3ce6bfed703e6b6a5c771a2
+contact: "[[cases/2023-01-19-mva-001/contacts/allstate-insurance]]"
 ---
+
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 
 Aaron G. Whaley, Esq.
 712 Lyndon Lane

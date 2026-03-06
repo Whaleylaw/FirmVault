@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:be6ae4ae6c534ba29f7e06e108bdd8d592c821d317e0e50e4d9b94cb6c4c23bb
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 This information has been prepared and distributed for law enforcement and public safety organizations. All information 
 contained herein should be considered and handled as confidential.
  

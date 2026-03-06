@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:cc9938aca9967899301d149bca07a81d6d62bca3b778e3412c2f1e77fa271dc5
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: insurance_policy
 extraction.date: 2017-01-01
 extraction.description: State Farm automobile policy endorsement for Wayne Weber dated 2017.

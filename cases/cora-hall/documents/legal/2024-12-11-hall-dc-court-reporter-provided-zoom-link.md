@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:1e500b0cebe00fb2e0789ed7b4e8ef8a493d79263c854a1da3dbc87f62f2f0e8
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 Subject: 12.12.24 - Zoom - Hall vs. Sonic
 From: [EMAIL-1]
 To: [EMAIL-2]

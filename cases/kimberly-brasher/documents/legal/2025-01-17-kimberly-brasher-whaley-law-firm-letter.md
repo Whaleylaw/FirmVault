@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:55374cbd0f5a4468761d4da552c78820d46c13ab22be7259fb1d7dcd616436e7
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 Stephen P. Ryan
 Ann O’Malley Shake
 James M. Shake

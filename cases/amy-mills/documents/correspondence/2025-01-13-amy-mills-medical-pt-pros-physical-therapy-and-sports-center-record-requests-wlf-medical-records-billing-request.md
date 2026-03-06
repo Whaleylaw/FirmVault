@@ -1,19 +1,22 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:49:15.313000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1983-12-28
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: message/rfc822
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/PT
-  Pros Physical Therapy and Sports Center/Record Requests/2025-01-13-Amy-Mills-Medical-PT
-  Pros Physical Therapy and Sports Center-Record-Requests-WLF-Medical-Records-Billing-Request.eml
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/PT Pros Physical Therapy and Sports Center/Record Requests/2025-01-13-Amy-Mills-Medical-PT Pros Physical Therapy and Sports Center-Record-Requests-WLF-Medical-Records-Billing-Request.eml
 source_hash: sha256:a6b17df09791713a2565c993ea4c8d296421d5e58d0eea051c37137ea50892dd
+contact: "[[cases/2019-04-26-prl-001/contacts/pt-pros-physical-therapy-and-sports-center]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 Subject: Certified Medical Records & Billing Request - Amy Mills DOB [DOB-1]
 From: sarena@whaleylawfirm.com

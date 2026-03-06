@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:aa2a84b291f21782c8d6ff9ade1184cb630578a578045fa734a741d82e775773
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 ULTIMATE
 Date: 5-30-24
 Re: Jerome Hedinger 2-3-72

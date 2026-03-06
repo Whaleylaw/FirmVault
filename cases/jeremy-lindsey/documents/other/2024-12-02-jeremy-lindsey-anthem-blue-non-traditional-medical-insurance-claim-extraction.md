@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:7e19dec718e8e852414311d8d0c0c6bb000b12d4ee773780c5aa314cf2c96423
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: insurance
 date: 2024-12-02
 description: Health Insurance Claim Form for Chase Lindsey, DOB [DOB-2], accident-related injury on [DOB-2], claim for office visit charges $287.00

@@ -1,19 +1,22 @@
 ---
 case_slug: michael-johnston
-created_at: 2026-02-17 00:07:03.189000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1978-04-21
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2023-05-03-OTH-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michael-Johnston-WC-05-03-2023/Medical/KORT
-  Physical Therapy/Record Requests/2022-05-03-Michael-Johnston-Medical-KORT Physical
-  Therapy-Record-Requests-WLF-Medical-Record-Request.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michael-Johnston-WC-05-03-2023/Medical/KORT Physical Therapy/Record Requests/2022-05-03-Michael-Johnston-Medical-KORT Physical Therapy-Record-Requests-WLF-Medical-Record-Request.pdf
 source_hash: sha256:6ad0bc9c3d24dab17f8905375cb7e12ce1ab4dd26f1e8091cc002eaff89835ec
+contact: "[[cases/2023-05-03-oth-001/contacts/kort-physical-therapy]]"
 ---
+
+**Case:** [[cases/michael-johnston/michael-johnston|Michael Johnston]]
+**Client:** [[cases/michael-johnston/contacts/michael-johnston|Michael Johnston]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:bcf8a23ba7d87795b941e9d024df329203ceaea7ace9c3681674b63a3f6df191
 ---
 
+**Case:** [[cases/james-sadler/james-sadler|James Sadler]]
+**Client:** [[cases/james-sadler/contacts/james-sadler|James Sadler]]
+
 rom: Fax Line Fax: 15023649363 To; Fax; [PHONE-13] Page: 2 of 3 [DOB-12] 11:16 AM
 Aaron G. Whaley, Esq.
 712 Lyndon Lane

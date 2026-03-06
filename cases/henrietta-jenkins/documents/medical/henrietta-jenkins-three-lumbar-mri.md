@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Henrie
 source_hash: sha256:3e1b7cf1620c173fec074820b984965d0c0c0666452ddd3c7246bc877c9dba7b
 ---
 
+**Case:** [[cases/henrietta-jenkins/henrietta-jenkins|Henrietta Jenkins]]
+**Client:** [[cases/henrietta-jenkins/contacts/henrietta-jenkins|Henrietta Jenkins]]
+
 SYNERGY
 SYNERGY 825 South 6th Street
 INJURY CARE Louisville, KY 40203

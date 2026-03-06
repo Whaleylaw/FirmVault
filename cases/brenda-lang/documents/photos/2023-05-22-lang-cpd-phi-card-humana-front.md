@@ -1,8 +1,8 @@
 ---
 case_slug: brenda-lang
-created_at: 2026-02-16 22:09:34.361000+00:00
+created_at: {}
 document_category: photos
-document_date: 2020-01-14
+document_date: {}
 document_type: photo
 extraction_method: image_proxy
 legacy_case_id: 2021-09-03-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 70
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda-Lang-MVA-09-03-2021/Investigation/Photos/2023.05.22-Lang-CPD-PHI-Card-Humana-Front.jpg
 source_hash: sha256:c207c171ecf4a259aca61aa8f57b05cff067751d09d76117aedd13816d8867df
+contact: "[[cases/2021-09-03-mva-001/contacts/humana]]"
 ---
+
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 
 # Image Document
 

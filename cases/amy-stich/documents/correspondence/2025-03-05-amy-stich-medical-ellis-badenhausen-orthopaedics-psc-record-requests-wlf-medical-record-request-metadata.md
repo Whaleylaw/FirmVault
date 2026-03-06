@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:5b4f13ecef14645eeb314635173da990e2d1cd8d07d4d5e96ab7a1dbd01ecb1f
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 content_length_chars: 1726
 document_metadata.authors[0]: Bryce Koon
 document_metadata.created_at: 2025-03-05T12:47:10Z

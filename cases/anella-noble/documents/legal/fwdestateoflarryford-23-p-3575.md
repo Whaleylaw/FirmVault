@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:e5cf676ca3db6d84a9eb133825ef265a8e16a9944d269503d245e51b9f4af149
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: Fwd: Estate of Larry Ford - 23-P-3575
 From: [EMAIL-1]
 To: [EMAIL-2], sarena@whaleylawfirm.com

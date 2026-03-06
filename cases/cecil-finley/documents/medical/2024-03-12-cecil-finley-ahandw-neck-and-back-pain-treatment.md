@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:888040a0db2d58211b4a2564736540dd97d772a55f530e2ff953a3b4cd0a1d84
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 06-15~ 24 12:16 FROM- AH&W Dr A Anderson 024257658 T-178 POQO12/0042 F184 1
 Name: ean ©oeal Dane ofViste O4- 02.229 vie_2S
 ‘iste Type: {]FollowUp [Reevaluation

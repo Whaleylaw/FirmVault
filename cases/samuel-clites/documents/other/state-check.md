@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Samuel
 source_hash: sha256:4c26b5b39105e5c18cb10dfd1d2b74b8914080884742ecc75cba2b9d4986c0be
 ---
 
+**Case:** [[cases/samuel-clites/samuel-clites|Samuel Clites]]
+**Client:** [[cases/samuel-clites/contacts/samuel-clites|Samuel Clites]]
+
 STATE CHECK - Manual Analysis
 
 Expected from inventory:

@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:ce43440fc8709c9277805da3a72d24eff17d5a81cb866106bd1aa390cf4ba356
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 BAPTIST HEALTH DC1 [DOB-1] 10:57:32 AM PAGE 959/059 Fax Server
 WS
 WAYNE WEBER Guarantor ID: 839075

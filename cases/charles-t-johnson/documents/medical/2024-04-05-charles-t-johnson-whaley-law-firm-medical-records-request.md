@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:8ba67c7eb575a33242218f1e936a206345e1217030eb72937189256d5263c045
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 UofL Physicians 4/29/2024 12:58:31 PM PAGE 1/006 Fax Server
 Fax Transmission
 UL Health| vofL Physicians

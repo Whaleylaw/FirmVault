@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:d43e930852635c7b200793b1017a13fff6a406e11569ed897ed3c0a6aaf7ecc4
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 Subject: NEF, (for eFiler) JEFFERSON Circuit 23-CI-005758, KIPER, JAMES VS. AMANI, MUSIMBI Envelope # 7578453
 From: [EMAIL-1]
 To: [EMAIL-4], Sarena@WhaleyLawFirm.com, [EMAIL-3]

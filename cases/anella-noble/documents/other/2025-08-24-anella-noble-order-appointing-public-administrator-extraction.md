@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:ac11519caf4c9c7295b13b34f5d29feb9fbbde4cd3aed17048eb1ee14870ffba
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 category: Litigation
 description: ORDER-APPOINTING-PUBLIC-ADMINISTRATOR
 entities[0]: Anella Noble

@@ -1,11 +1,10 @@
 ---
 case_slug: nayram-adadevoh
-created_at: 2026-02-17 00:12:30.068000+00:00
+created_at: {}
 document_category: financial
-document_date: 2024-07-23
+document_date: {}
 document_type: financial
-entities:
-- Jewish Hospital
+entities: null
 extraction_method: native_text
 legacy_case_id: 2024-07-13-MVA-002
 mime_type: application/json
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 90
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram-Adadevoh-MVA-7-13-2024/Reports/extractions/_archived_md_conversions_2024-07-23-Nayram-Adadevoh-Jewish-Hospital-HIPAA-Authorization.md_extraction.json
 source_hash: sha256:49eb3b0981a0c89fb6c573660fc0b2fd4313a71e7f4789946e95e8a00d2de2a1
+contact: "[[cases/2024-07-13-mva-002/contacts/jewish-hospital]]"
 ---
+
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 
 extraction.classification.bucket: Client
 extraction.classification.confidence: high

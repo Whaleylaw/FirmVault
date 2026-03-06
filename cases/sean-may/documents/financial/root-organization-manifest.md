@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sean-M
 source_hash: sha256:eeebf28565b7494ede798f0846b6faf611f591321eecc35dc94bfc106f8fccfb
 ---
 
+**Case:** [[cases/sean-may/sean-may|Sean May]]
+**Client:** [[cases/sean-may/contacts/sean-may|Sean May]]
+
 accident_date: 2025-08-19
 case_type: MVA
 client_name: Sean-May

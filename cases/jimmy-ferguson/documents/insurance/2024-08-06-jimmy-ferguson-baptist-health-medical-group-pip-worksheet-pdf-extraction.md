@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:e70b456e6f20c8107b4c81ed642cdcd5b2db1f8499120a8f321499ea6f72a1e4
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 category: Insurance
 date: 2024-08-06
 description: PIP worksheet from Kentucky Farm Bureau showing medical payments for Jimmy Ferguson, claim 04979889 for 5/30/2024 loss, total medical paid $5,688.00 as of [DOB-1].

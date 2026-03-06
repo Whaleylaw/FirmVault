@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:3111c1857435c8fc8726814c18fab3296d05a6cc5f3b92da10e4cfed114890dc
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 LIGHT IMPERIL
 
 FOURTH €oO1ITIO'N

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:46dd4f6731a9c72d03a95c90104ccf0b622cbff32ad874d116d4d6e500a507c4
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 Filed 1-P-Hon2 H429-2021 Stacy Bruner. Trimb ircuit Clerk
 AOC-807 Doc. Code: CQ
 Rev. Page6-10

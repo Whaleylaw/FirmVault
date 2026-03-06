@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:f205c04a024f0de9168098219b379b9ee0b2322a3edee47208ab5807667bd905
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 Auto-Owners Ins 6/29/2023 8:55:13 AM EDT PAGE 1/004 Fax server
 Auto-Owners
 FAX INSURANCE

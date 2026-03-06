@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:279528c948a26a1e44e07066d0b523b123a3dce6e01bf2d14186cd95addb9cc3
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 accident_date: 2023-09-21
 case_type: Premise
 client_name: Robin-Willis-Beck

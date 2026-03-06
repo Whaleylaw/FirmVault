@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:763341d8b342ba42396fc1a523af2b47b83c7e8779b5578f7386d502e9e10084
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 Pa
 Tendered 24-Ci-00012 | 7/11/2024 Taylor Skaggs, Mc_ a Circuit Clerk ty
 COMMONWEALTH OF KENTUCKY

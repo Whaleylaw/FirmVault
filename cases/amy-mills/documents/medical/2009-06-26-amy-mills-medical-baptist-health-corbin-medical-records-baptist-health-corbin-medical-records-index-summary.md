@@ -1,21 +1,22 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:48:01.184000+00:00
+created_at: {}
 document_category: medical
 document_type: medical
-entities:
-- Janak Ramesh Talwalkar
-- Baptist Health Medical Group
-- Baptist Health
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Baptist
-  Health Corbin/Medical Records/2009-06-26-Amy-Mills-Medical-Baptist Health Corbin-Medical-Records-Baptist-Health-Corbin-Medical-Records-Index-Summary.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Baptist Health Corbin/Medical Records/2009-06-26-Amy-Mills-Medical-Baptist Health Corbin-Medical-Records-Baptist-Health-Corbin-Medical-Records-Index-Summary.pdf
 source_hash: sha256:cce61d5bbb7c86b41ad4a6fba7418a0652d59f1484d21ed237481fb38856b5be
+contact: "[[cases/2019-04-26-prl-001/contacts/baptist-health-corbin]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 Amy Mills Medical Records
 

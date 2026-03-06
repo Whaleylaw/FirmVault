@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmon
 source_hash: sha256:902e96b7120ae80b11348dea1579b02600fc7f7139652581fd0e70bb8c421ffc
 ---
 
+**Case:** [[cases/julmonzhae-moore/julmonzhae-moore|Julmonzhae Moore]]
+**Client:** [[cases/julmonzhae-moore/contacts/julmonzhae-moore|Julmonzhae Moore]]
+
 WHALEY MORY & McDONNER PSC it-i2..., oo £607.
 ATTY TRT ACCT pss
 712 LYNDON LN LOUISVILLE, KY40222-4642 DATE v/:¢/ A J Sie snr

@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor
 source_hash: sha256:f2d2854db8f990bdf728f37320d0560a56f95eee0df7d383c62b8fe4d52ca979
 ---
 
+**Case:** [[cases/taylor-thompson/taylor-thompson|Taylor Thompson]]
+**Client:** [[cases/taylor-thompson/contacts/taylor-thompson|Taylor Thompson]]
+
 426 Bank Street, Suite 300, New Albany, IN 47150 | [PHONE-8] | ForThePeople.com
 August 25, 2025
 16945402

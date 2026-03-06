@@ -19,6 +19,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:87b14d6ba67d86e8e0f108435315c3198848a7ecc6ad3559ab883735d6cf1d4a
 ---
 
+**Case:** [[cases/michae-guyton/michae-guyton|Michae Guyton]]
+**Client:** [[cases/michae-guyton/contacts/michae-guyton|Michae Guyton]]
+
 item_0.episode_type: communication
 item_0.note: Sent email to Justin Chumbley ([EMAIL-1]) requesting status updates on four items: (1) Current treatment status for client, (2) Whether records requests have been sent to UofL Hospital and Starlight Chiropractic, (3) Confirmation of BI coverage limits with Auto Owners Insurance (Claim #[PHONE-2]-2025), (4) Status of accident/police report from November 14, 2025 incident. Email sent to complete File Setup phase requirements.
 item_0.note_summary: Email Sent to Attorney Justin - Status Update Request

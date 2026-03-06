@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Malcom
 source_hash: sha256:47ae4c982e4127c2b5d99af8e1d730e58f56b626415a55eae6ce04dd79227bce
 ---
 
+**Case:** [[cases/malcom-glass-jones/malcom-glass-jones|Malcom Glass Jones]]
+**Client:** [[cases/malcom-glass-jones/contacts/malcom-glass-jones|Malcom Glass Jones]]
+
 item_0.author_name: Aaron Whaley
 item_0.episode_type: imported
 item_0.last_activity: 2025-09-16T00:00:00

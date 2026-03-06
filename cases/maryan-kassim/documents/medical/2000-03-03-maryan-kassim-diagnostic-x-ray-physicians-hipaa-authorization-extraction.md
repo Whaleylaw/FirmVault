@@ -1,8 +1,8 @@
 ---
 case_slug: maryan-kassim
-created_at: 2026-02-17 00:05:06.630000+00:00
+created_at: {}
 document_category: medical
-document_date: 2000-03-03
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2024-08-06-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan-Kassim-MVA-08-06-2024/extractions/2000-03-03-Maryan-Kassim-Diagnostic-X-Ray-Physicians-HIPAA-Authorization_extraction.json
 source_hash: sha256:12f693917f8a3872e07c78eeeefbc4b148e84c71755506c23d0c3d0cb2d0c855
+contact: "[[cases/2024-08-06-mva-001/contacts/diagnostic-x-ray-physicians]]"
 ---
+
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 
 extraction.category: Client
 extraction.confidence: high

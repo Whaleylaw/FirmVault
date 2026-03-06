@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:9842b97fd335ea4137d3dabd0e21f1bddb556cdddff9639cf376ef366fed7178
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 S~® State Farm:
 
 Please read the policy carefully. If there is an accident, contact your State Farm agent or one of our Claim Offices at once. (See “INSURED’S DUTIES’ in this policy booklet.)

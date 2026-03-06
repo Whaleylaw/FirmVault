@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor
 source_hash: sha256:da8b65e0eaf3688111891e4696caee43bb1d48e3f4c3919d1dd69f8e19740300
 ---
 
+**Case:** [[cases/taylor-thompson/taylor-thompson|Taylor Thompson]]
+**Client:** [[cases/taylor-thompson/contacts/taylor-thompson|Taylor Thompson]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor-Thompson-MVA-[DOB-1]/Correspondence/2024-12-06-Taylor-Thompson-Correspondence-Client-Text-Messages-Regarding-Withdrawal.jpeg

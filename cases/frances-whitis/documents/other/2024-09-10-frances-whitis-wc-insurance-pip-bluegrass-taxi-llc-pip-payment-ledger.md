@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/France
 source_hash: sha256:44b2fb262b51b6851cfa719dc6bfb7b40aa6075d8b78fd7b9ad26d3d7f5bae77
 ---
 
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 Bluegrass Taxi Llc
 
 Frances Whitis 24-727042794 09/07/24

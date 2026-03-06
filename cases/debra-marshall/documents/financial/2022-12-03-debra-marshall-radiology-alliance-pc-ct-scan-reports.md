@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:b60e788318b11087787e0fb6d83766bda865fbd656fd64dfef4c23a3df233969
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 RADIOLOGY ALLIANCE PC
 P.O, BOX 200627
 DALLAS TX 75320

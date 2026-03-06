@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:3f2cc0461affcf8feaa158f9ca93dfd17eae1e1094ba795eed103d7399db1abf
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 NO. 23-CI-00659 BARREN COUNTY CIRCUIT COURT 
 DIVISION ONE (1) 
 JUDGE HON. JOHN T. ALEXANDER 

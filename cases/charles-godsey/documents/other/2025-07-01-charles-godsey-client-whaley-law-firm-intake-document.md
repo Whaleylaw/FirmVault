@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:a744db4bc92318d24a76633b0bf24a2152f4c13daa81b0cfcc7b661d5ad506ee
 ---
 
+**Case:** [[cases/charles-godsey/charles-godsey|Charles Godsey]]
+**Client:** [[cases/charles-godsey/contacts/charles-godsey|Charles Godsey]]
+
 Verification Complete
 The document has been officially verified.
 Recipient1

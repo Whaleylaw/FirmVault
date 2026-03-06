@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/France
 source_hash: sha256:66259e7fb0de0c53125659a2a0f7eee1cb45ad4cd9cc402bb796761f48cbc7c6
 ---
 
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 Thank you for insuring with us! Here are your identification cards for proof of insurance.
 
 birect

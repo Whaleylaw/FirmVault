@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2019-04-26-PrL-001
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-[DOB-1]/Review_Needed/2025.02.27-Mills-Suppl-Resp-to-DC-Forcht-3rd-4th-Request.pdf"
 source_hash: "sha256:514829854cd2a25d2b8c18728686cc8e455895d857bd519b278565aefd1d18ce"

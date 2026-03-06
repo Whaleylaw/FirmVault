@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:4697d3d2b83afc1a6616b4e7ed6565ad7f2c4253e0eea948f0abb001d5384c56
 ---
 
+**Case:** [[cases/shannon-colvin/shannon-colvin|Shannon Colvin]]
+**Client:** [[cases/shannon-colvin/contacts/shannon-colvin|Shannon Colvin]]
+
 KENTUCKY UNIFORM POLICE
 TRAFFIC COLLISION REPORT DRAFT MASTER FILE #
 INVESTIGATING AGENCY

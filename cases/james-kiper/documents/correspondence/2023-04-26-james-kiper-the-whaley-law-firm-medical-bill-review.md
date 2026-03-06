@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:ccd701e7f9740e9e69af512f22d98b6f00bb59ea0b69b6aed4db3c4f1526a91d
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 rN
 TRAVELERS) 1928
 THE STANDARD FIRE INSURANCE COMPANY

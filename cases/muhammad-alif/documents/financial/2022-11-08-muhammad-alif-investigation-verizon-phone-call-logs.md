@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:538d6180395a3f57a59f2ec4c86ea87cb8fea272b8673d87bd5f540af7034c3a
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 verizon’
 PO BOX 489
 NEWARK, NJ 07101-0489

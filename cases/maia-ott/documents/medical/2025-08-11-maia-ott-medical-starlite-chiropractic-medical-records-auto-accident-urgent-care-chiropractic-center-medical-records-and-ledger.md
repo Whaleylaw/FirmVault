@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maia-O
 source_hash: sha256:ec8710e14cbb770e46d3082adca9d7968ffcfadbdcad0e29d5bbb5788e7c91ce
 ---
 
+**Case:** [[cases/maia-ott/maia-ott|Maia Ott]]
+**Client:** [[cases/maia-ott/contacts/maia-ott|Maia Ott]]
+
 Nov.11.2025 02:51 PM Tri-State [PHONE-16] P 1/22
 
 ‘ ; ‘ ‘ i; ¥ Nghe ne hi ae t Yat Vi i \ ates a ty i i} it th srurrumbaywnyy era! i x “UAW Bg E ne Fl i fy OE ene ™ —aynsiee TNE Ge re th eRe j Nl A 5 i 1 H t ! 4 ij i t F iy i i i ’ H , H ! H r H 4 ! ‘ i ) \ q f ; > i ¢ f ’ H ‘ A H ; 4 , : H . . ' H i f] ‘ { \ i 7 . 4 ; ‘ a q ‘ ' : ;

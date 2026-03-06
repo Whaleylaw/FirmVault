@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-
 source_hash: sha256:2919da6c48d0ed844b573205edbfddebde3e53eee329547f4f1535915324a8a1
 ---
 
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 RESPONSIBLE PARTY ACCOUNT # BILL DATE
 [DOB-1]
 CINCINNATI, OH 45263-8133

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Malcom
 source_hash: sha256:c9d2c8f5262ad0e75b2660d9509973a611e592f489eba1a5e5c724f47a6f6c55
 ---
 
+**Case:** [[cases/malcom-glass-jones/malcom-glass-jones|Malcom Glass Jones]]
+**Client:** [[cases/malcom-glass-jones/contacts/malcom-glass-jones|Malcom Glass Jones]]
+
 EXPLANATION OF BENEFITS - PAY LOG
 Page 1 of 1
  

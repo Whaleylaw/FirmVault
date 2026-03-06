@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:56ad1a4ba82c9b63a88b200db2fb014d7f89a3c5d631c1c492bfe5434fba4089
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 Subject: Re: Muhammad Alif v Jacquelyn Wickcliffe - IME Scheduling
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

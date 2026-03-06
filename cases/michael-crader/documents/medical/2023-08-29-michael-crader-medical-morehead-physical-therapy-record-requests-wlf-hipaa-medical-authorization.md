@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:b260f734e918ee30ec02e9c44b02d32622a4538a9ac17c16c4b424edfda8f967
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 Morehead Physical Therapy
 226 Stone Street
 Morehead, KY 40351

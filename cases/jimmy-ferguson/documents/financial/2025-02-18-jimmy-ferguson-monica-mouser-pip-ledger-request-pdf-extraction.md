@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:60cd5b62b5cc6d781d471eb5ec322bb73207d81433016032e134401b5702bbe0
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 category: Insurance
 date: 2025-02-18
 description: Letter dated 2/18/2025 from Whaley Law Firm to Monica Mouser requesting updated PIP ledger for Jimmy Ferguson's claim 04979889, including status of any denied bills or pending investigations.

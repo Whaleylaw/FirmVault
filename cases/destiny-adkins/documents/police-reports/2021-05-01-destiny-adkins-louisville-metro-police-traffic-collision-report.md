@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Destin
 source_hash: sha256:5cfeb93232beea92ed214d9f85048f828cc8cddea9b311bd387a2519eef24ada
 ---
 
+**Case:** [[cases/destiny-adkins/destiny-adkins|Destiny Adkins]]
+**Client:** [[cases/destiny-adkins/contacts/destiny-adkins|Destiny Adkins]]
+
 INVESTIGATOR BEAT OR POST #
 TOTAL LANES
 NO

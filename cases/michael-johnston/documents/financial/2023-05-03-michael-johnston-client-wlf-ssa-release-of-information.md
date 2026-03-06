@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:868257af01f3396acc980756595ac72967ea7bb99e28dbaa47bd324e3a2b62b8
 ---
 
+**Case:** [[cases/michael-johnston/michael-johnston|Michael Johnston]]
+**Client:** [[cases/michael-johnston/contacts/michael-johnston|Michael Johnston]]
+
 Social Security Administration Form Approved
 Consent for Release of Information OMB No. 0960-0566
 You must complete all required fields. We will not honor your request unless all required fields are completed. (*Signifies a

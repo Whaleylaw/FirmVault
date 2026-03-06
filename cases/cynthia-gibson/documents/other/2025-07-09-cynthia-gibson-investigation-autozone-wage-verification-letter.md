@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cynthi
 source_hash: sha256:c30f4ec02d2e1e9ca576bd3f49002e509c807bd5966e578075d25995b7c01d68
 ---
 
+**Case:** [[cases/cynthia-gibson/cynthia-gibson|Cynthia Gibson]]
+**Client:** [[cases/cynthia-gibson/contacts/cynthia-gibson|Cynthia Gibson]]
+
 To: Whaley Law Firm X
 Fax number: [PHONE-16]
 From: Auto Accident Urgent Care &

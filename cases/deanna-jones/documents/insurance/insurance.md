@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Deanna
 source_hash: sha256:32079508700d9bfaa27647129f8eb00c7458e18db4c273405c5c1d5a3866ac15
 ---
 
+**Case:** [[cases/deanna-jones/deanna-jones|Deanna Jones]]
+**Client:** [[cases/deanna-jones/contacts/deanna-jones|Deanna Jones]]
+
 item_0.adjuster_phone: [PHONE-1]
 item_0.claim_number: 25ATKY446076413
 item_0.insurance_adjuster_name: Kimberlyn Holden

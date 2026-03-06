@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:5f4312b78d3dbe6d9b3870a00188e02eace029c8f776a1989ce253127b67c387
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 ALERT: FLOODING AND SEVERE WEATHER IN THE SOUTHERN AND CENTRAL U.S. MAY IMPACT DELIVERY, WITH SPECIFIC IMPACTS IN HOUSTON. READ MORE >(...
 USPS Tracking’
 Track Packages

@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2023-06-15-MVA-001
 ---
 
+**Case:** [[cases/robin-wilder-hamilton/robin-wilder-hamilton|Robin Wilder Hamilton]]
+**Client:** [[cases/robin-wilder-hamilton/contacts/robin-wilder-hamilton|Robin Wilder Hamilton]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-Wilder-Hamilton-MVA-6-15-2023/Negotiation/2025.10.02 Updated Demand package.pdf"
 source_hash: "sha256:a8e00e0d40528524e2bf08ddabecaf77deb3af8dbd14a463e84db0ccad901757"

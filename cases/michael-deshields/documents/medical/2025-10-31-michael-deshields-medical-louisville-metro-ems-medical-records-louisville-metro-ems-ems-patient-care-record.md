@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2025-10-31-MVA-001
 ---
 
+**Case:** [[cases/michael-deshields/michael-deshields|Michael Deshields]]
+**Client:** [[cases/michael-deshields/contacts/michael-deshields|Michael Deshields]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michael-Deshields-MVA-[DOB-83]/Medical/Louisville Metro EMS/Medical Records/2025-10-31-Michael-Deshields-Medical-Louisville Metro EMS-Medical-Records-Louisville-Metro-EMS-EMS-Patient-Care-Record.pdf"
 source_hash: "sha256:be156efcb555bc011390750358d4851efb90552e380e22fd28290aa67e541c44"

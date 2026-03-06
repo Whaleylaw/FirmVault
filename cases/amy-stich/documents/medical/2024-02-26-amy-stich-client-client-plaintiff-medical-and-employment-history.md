@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2024-01-17-OTH-001
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Stich-WC-[DOB-1]/Client/2024-02-26-Amy-Stich-Client-Client-Plaintiff-Medical-and-Employment-History.pdf"
 source_hash: "sha256:1bfc3e8225517f3de9543c7bcffacf1ed96446de10a119e05ea40f052e3f2eee"

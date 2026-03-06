@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:4e79792081a661821d3964a16c0c39692ffb88e3b56000874f5ce04cb93bff07
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 Subject: Your Upcoming Deposition has been scheduled for February 19th, 2025 at 1:00pm.
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

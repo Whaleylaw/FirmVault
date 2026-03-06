@@ -1,18 +1,22 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:47:52.395000+00:00
+created_at: {}
 document_category: financial
-document_date: 2018-08-20
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/20:20
-  Eye Center/Medical Bills/2019-08-20-Amy-Mills-Medical-20:20 Eye Center-Medical-Bills-20-20-Eyecare-of-London-Medical-Statement-of-Charges.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/20:20 Eye Center/Medical Bills/2019-08-20-Amy-Mills-Medical-20:20 Eye Center-Medical-Bills-20-20-Eyecare-of-London-Medical-Statement-of-Charges.pdf
 source_hash: sha256:d8b912cac9eecfc690c911ad6c7ceb09168f884b5e3cb3b3488b4eced5ace178
+contact: "[[cases/2019-04-26-prl-001/contacts/20-20-eye-center]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 20/20 Eyecare ofLondon, LAC, Statement of Charges and Payments
 103 Chera-Lyn Lane

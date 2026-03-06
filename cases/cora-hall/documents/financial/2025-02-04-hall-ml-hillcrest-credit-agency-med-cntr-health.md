@@ -1,6 +1,6 @@
 ---
 case_slug: cora-hall
-created_at: 2026-02-16 22:37:08.221000+00:00
+created_at: {}
 document_category: financial
 document_type: financial
 extraction_method: native_text
@@ -10,7 +10,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-Hall-WC-12-05-2022/Correspondence/2025.02.04-Hall-ML-Hillcrest-Credit-Agency-Med-Cntr-Health.eml
 source_hash: sha256:fad9a541ab1549daec4aa086007ed5f5885c686fe9467a772b54a8dc2e5ed1ae
+contact: "[[cases/2022-12-05-oth-001/contacts/hillcrest-credit-agency]]"
 ---
+
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 
 Subject: Cora M. Payne (Formerly Cora Hall) Certified Billing Request
 From: sarena@whaleylawfirm.com

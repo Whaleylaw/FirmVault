@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:c0848cbfa3b2e68ebfa23278601b9e2a4ecedf02cfe5b5b53e744f9aa25dee3e
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 item_0.amount_owed_from_settlement: 15.09
 item_0.date_notice_received: 2024-06-21
 item_0.final_lien_amount: 15.09

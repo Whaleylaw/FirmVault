@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2022-12-03-MVA-001
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-Marshall-MVA-12-3-2022/Medical-Records/2015-07-21-Debra-Marshall-Kaiser-Permanente-Annual-Checkup.pdf"
 source_hash: "sha256:e9f27925d59dab129acd3f2d33305103a97d7f40cbc152b[PHONE-176]f74742d"

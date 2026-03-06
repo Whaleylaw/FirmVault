@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:b0f95374983a9c1f4ea62204fa29def811f3075a29ecca4408a81fb08494a173
 ---
 
+**Case:** [[cases/robin-wilder-hamilton/robin-wilder-hamilton|Robin Wilder Hamilton]]
+**Client:** [[cases/robin-wilder-hamilton/contacts/robin-wilder-hamilton|Robin Wilder Hamilton]]
+
 content_summary: Letter of representation from The Whaley Law Firm to medical records department requesting all medical records and billing information for Robin Wilder-Hamilton related to an accident on 6/15/2023, including HIPAA authorization.
 document_date: 2024-05-08
 entities[0]: Robin Wilder-Hamilton

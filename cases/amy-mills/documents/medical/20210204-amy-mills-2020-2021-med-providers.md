@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2019-04-26-PrL-001
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-[DOB-1]/Review_Needed/20210204-Amy-Mills-2020-2021-med-providers.docx"
 source_hash: "sha256:dad38191114e2a4774b662f79b1bdbf8734f5ccbcf9cf5e0ac8aa815a172eb64"

@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Collie
 source_hash: sha256:15a74954058142bfc8e4ca5dc52ec002803dfd6e41d76cda4a84d3ccbf02b241
 ---
 
+**Case:** [[cases/collie-williams-sr/collie-williams-sr|Collie Williams Sr]]
+**Client:** [[cases/collie-williams-sr/contacts/collie-williams-sr|Collie Williams Sr]]
+
 address: 607 Compton St, Louisville, KY 40208
 date_of_birth: [DOB-1]
 imported_at: 2026-02-16T21:09:42.785Z

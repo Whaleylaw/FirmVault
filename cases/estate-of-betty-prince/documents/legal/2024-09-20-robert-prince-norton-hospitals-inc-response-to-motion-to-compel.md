@@ -4,6 +4,9 @@ document_category: legal
 legacy_case_id: 2020-07-14-PrL-001
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate-of-Betty-Prince-Premise-7-14-2020/Medical/2024-09-20-Robert-Prince-Norton-Hospitals-Inc-Response-to-Motion-to-Compel.pdf"
 source_hash: "sha256:45a5ff974000d2a1364d655aee46e781d0cc9242f5a1f686b9b5ed3dabe035d3"

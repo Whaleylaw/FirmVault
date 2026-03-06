@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:4a9a226c1b4feff37a5f85ebf9f4db3d6aa3455414bf59aab1312fe5ae0dfc1e
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 [DOB-1]
 Norton Arm and Hand Institute
 9880 Angies Way, Suite 350

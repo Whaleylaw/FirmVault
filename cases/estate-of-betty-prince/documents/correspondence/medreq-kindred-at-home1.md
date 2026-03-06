@@ -1,8 +1,8 @@
 ---
 case_slug: estate-of-betty-prince
-created_at: 2026-02-16 23:40:34.679000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1941-03-01
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2020-07-14-PrL-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate-of-Betty-Prince-Premise-7-14-2020/Medical/MedReq-Kindred-at-Home1.doc
 source_hash: sha256:05c1f5cf6e28176aef70463cb05f239bfcc58aad2fb4341c2ba6f089676f32fc
+contact: "[[cases/2020-07-14-prl-001/contacts/kindred-at-home]]"
 ---
+
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 
 April 13, 2022
 

@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2024-04-23-MVA-001
 ---
 
+**Case:** [[cases/samuel-clites/samuel-clites|Samuel Clites]]
+**Client:** [[cases/samuel-clites/contacts/samuel-clites|Samuel Clites]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Samuel-Clites-MVA-4-23-2024/Client/2024-04-25-Samuel-Clites-Client-Client-Medical-Authorization.pdf"
 source_hash: "sha256:87253b96d39b1c8c5cd5de0246c19b3967dbade23cb943710cbc3a88be5ad0c5"

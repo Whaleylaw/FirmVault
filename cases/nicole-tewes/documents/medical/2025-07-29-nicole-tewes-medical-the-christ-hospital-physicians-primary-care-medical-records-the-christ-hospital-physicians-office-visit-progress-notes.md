@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2025-07-05-MVA-001
 ---
 
+**Case:** [[cases/nicole-tewes/nicole-tewes|Nicole Tewes]]
+**Client:** [[cases/nicole-tewes/contacts/nicole-tewes|Nicole Tewes]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nicole-Tewes-MVA-7-5-2025/Medical/The Christ Hospital Physicians - Primary Care/Medical Records/2025-07-29-Nicole-Tewes-Medical-The Christ Hospital Physicians - Primary Care-Medical-Records-The-Christ-Hospital-Physicians-Office-Visit-Progress-Notes.pdf"
 source_hash: "sha256:417a1107dddf2a2fef395efb30a7f36b4c009271b8a65a8df526861718d14668"

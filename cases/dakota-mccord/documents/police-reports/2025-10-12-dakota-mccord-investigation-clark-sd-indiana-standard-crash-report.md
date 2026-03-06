@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dakota
 source_hash: sha256:1be5814fbb337e6b16101bc718aa9f2dc40a2a424923913647b3cd3b85aca01c
 ---
 
+**Case:** [[cases/dakota-mccord/dakota-mccord|Dakota McCord]]
+**Client:** [[cases/dakota-mccord/contacts/dakota-mccord|Dakota McCord]]
+
 Official copy obtained through BuyCrash.co
 State Id
 Indiana Officer's Standard Crash Report Hit and Run 904817292

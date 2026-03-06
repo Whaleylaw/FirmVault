@@ -1,8 +1,8 @@
 ---
 case_slug: james-kiper
-created_at: 2026-02-16 23:52:40.554000+00:00
+created_at: {}
 document_category: financial
-document_date: 2022-06-13
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2022-12-05-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Kiper-MVA-12-5-2022/extractions/2024-06-18-James-Kiper-Conduent-Lien-Information_extraction.json
 source_hash: sha256:326256431f8b83a52db659a4cc46b4d0e031675228659becb77d209b42921c1e
+contact: "[[cases/2022-12-05-mva-001/contacts/conduent]]"
 ---
+
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 
 category: Lien Document
 document_date: 2024-06-18

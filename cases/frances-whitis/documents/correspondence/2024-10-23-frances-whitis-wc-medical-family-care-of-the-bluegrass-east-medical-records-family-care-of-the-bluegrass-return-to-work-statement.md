@@ -1,19 +1,22 @@
 ---
 case_slug: frances-whitis
-created_at: 2026-02-16 23:42:35.803000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1970-04-18
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2024-09-06-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Frances-Whitis-WC-MVA-9-6-2024/Medical/Family
-  Care Of The Bluegrass - East/Medical Records/2024-10-23-Frances-Whitis-WC-Medical-Family
-  Care Of The Bluegrass - East-Medical-Records-Family-Care-of-the-Bluegrass-Return-to-Work-Statement.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Frances-Whitis-WC-MVA-9-6-2024/Medical/Family Care Of The Bluegrass - East/Medical Records/2024-10-23-Frances-Whitis-WC-Medical-Family Care Of The Bluegrass - East-Medical-Records-Family-Care-of-the-Bluegrass-Return-to-Work-Statement.pdf
 source_hash: sha256:480cadafa959767b6578c16991a0c3c8ca6d98abf43410e8a1596df4d3f99567
+contact: "[[cases/2024-09-06-mva-001/contacts/family-care-of-the-bluegrass-east]]"
 ---
+
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 
 From TATEMS 18889724812 9/19/2025 10:17:31 PDT Page 1 of 1
 FAMILY CARE OF THE BLUEGRASS

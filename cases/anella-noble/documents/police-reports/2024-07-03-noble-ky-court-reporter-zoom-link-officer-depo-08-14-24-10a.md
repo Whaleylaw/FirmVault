@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:462944a91cfda6bd0e31b900b109d6803399f0682f8f5e10235db5e9cac05add
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: * REVISED * 8/14 depo of Officer Nathaniel Lovewell; Anella Noble | ZOOM link
 From: [EMAIL-8]
 To: [EMAIL-2], [EMAIL-3], [EMAIL-5], [EMAIL-5], sarena@whaleylawfirm.com

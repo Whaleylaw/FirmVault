@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:eb308ed3e0f0443bdc3e1a722fb7e38042fb44100b046f4840f6ad3fc885b3d2
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 CERTIFICATION OF MEDICAL RECORDS AFFIDAVIT
 Ge Phani¢ TrayiS , being first duly sworn on his/her oath, says that:
 (Name ofrecords custodian/clerk)

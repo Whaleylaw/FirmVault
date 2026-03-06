@@ -22,6 +22,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee
 source_hash: sha256:f49a5d1904d7a8299f5dbbf6390f8800e41636b33112bee23c58acb8cffef302
 ---
 
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 item_0.author_name: Bryce Koon
 item_0.episode_type: imported
 item_0.last_activity: 2025-11-13T00:00:00

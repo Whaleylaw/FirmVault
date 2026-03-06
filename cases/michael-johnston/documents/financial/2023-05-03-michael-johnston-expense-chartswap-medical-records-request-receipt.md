@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:e2a97e6efc631b0e2ea8dbc62431874753f7b3b6b22425071752058c2817d3c7
 ---
 
+**Case:** [[cases/michael-johnston/michael-johnston|Michael Johnston]]
+**Client:** [[cases/michael-johnston/contacts/michael-johnston|Michael Johnston]]
+
 ChartSwap
 2951 Marina Bay Drive
 Suite 130-132

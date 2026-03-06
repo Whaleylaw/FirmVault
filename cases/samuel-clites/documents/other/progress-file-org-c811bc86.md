@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Samuel
 source_hash: sha256:3b8e1e19b8991860166e3585097b4d4594daeddd9995e885adba61305bd95313
 ---
 
+**Case:** [[cases/samuel-clites/samuel-clites|Samuel Clites]]
+**Client:** [[cases/samuel-clites/contacts/samuel-clites|Samuel Clites]]
+
 case_folder: Samuel-Clites-MVA-4-23-2024
 job_id: file-org-c811bc86
 phases.execution.completed_at: 2026-02-04T05:00:25.336549

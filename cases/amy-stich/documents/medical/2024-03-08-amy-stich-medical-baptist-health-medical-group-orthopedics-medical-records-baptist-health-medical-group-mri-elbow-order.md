@@ -20,6 +20,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:3e35ae1274cd31836e08e3e1d20ee96a8f1816f178228295c0878d4e91c751bb
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 Mari19/2024 2:23:40 PM Louisville Bone and Joint [PHONE-17] 12.
 Baptist Health Medical Group
 Orthopaedic Surgery

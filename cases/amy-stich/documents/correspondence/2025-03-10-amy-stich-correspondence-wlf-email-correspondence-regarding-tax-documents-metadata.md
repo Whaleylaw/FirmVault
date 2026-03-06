@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:7cc53ea66401d9f7e8194d1fd80aa9f350bbe2217f66a2aa1ac2d714869bf91f
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 content_length_chars: 4228
 document_metadata.attachments[0]: 2025.02.17 Stich CC Resp to Client - Cannot Choose IME Dr based on Location_parking lot size - Can get copy of file once resolved - Will get Tax Docs from Employer & WC.pdf
 document_metadata.cc_emails[0]: [EMAIL-7]

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:80211a234a870ccb1b8d9ca872f7ba3d1ea25076b556b95b06ba5cddea7054a6
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 case_folder: James-Kiper-MVA-12-5-2022
 job_id: file-org-220d63f9
 phases.extraction.notes: Batch 2 (files 24-45) extraction complete. 22 files processed with 100% success rate."

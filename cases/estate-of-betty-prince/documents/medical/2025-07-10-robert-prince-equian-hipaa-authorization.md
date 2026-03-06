@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:410b3bad7d5745a41b52be59b6e3c94f9730faf206f991e1184b50d10cb8fcc1
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 AUTHORJZATION TO RELEASE PROTECTED HEALTH CARE INFOR.i'vfATIOt'-i 
 TO: 
 Pursuant to the Heal,h Insurance Portability and Accountability Act (HIPAA) Privacy Regulations, 

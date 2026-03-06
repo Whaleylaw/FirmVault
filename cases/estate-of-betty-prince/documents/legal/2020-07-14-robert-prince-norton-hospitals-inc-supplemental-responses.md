@@ -4,6 +4,9 @@ document_category: legal
 legacy_case_id: 2020-07-14-PrL-001
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate-of-Betty-Prince-Premise-7-14-2020/Medical/2020-07-14-Robert-Prince-Norton-Hospitals-Inc-Supplemental-Responses.pdf"
 source_hash: "sha256:64b9d149750cfc382bd93bd8f795d3b30c6f8aaca364418e58174073860614ad"

@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:8772c872e1c5b0105f07e1b5d55d537967671aec43697292391d37bd5e99ef4f
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 address: 7857 US 460 W, Mize, KY 41352
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

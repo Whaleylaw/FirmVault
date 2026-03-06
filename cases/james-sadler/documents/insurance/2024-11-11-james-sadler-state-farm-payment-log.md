@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:dfceda2c9049db516be715d802df728bbe226a647e21d8ac0c3f97579d42133d
 ---
 
+**Case:** [[cases/james-sadler/james-sadler|James Sadler]]
+**Client:** [[cases/james-sadler/contacts/james-sadler|James Sadler]]
+
 1007048 Page 1 of 2 2007 148026 207 [DOB-18]
 RBZ000FJ State Farm®
 Payment Log

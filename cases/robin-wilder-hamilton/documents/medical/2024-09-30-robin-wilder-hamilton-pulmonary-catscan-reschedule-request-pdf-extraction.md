@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:6d6dd3badcb1a2908fc8b7dcbc4ad457a1b5894a8a43678066b3ba736b74ff6b
 ---
 
+**Case:** [[cases/robin-wilder-hamilton/robin-wilder-hamilton|Robin Wilder Hamilton]]
+**Client:** [[cases/robin-wilder-hamilton/contacts/robin-wilder-hamilton|Robin Wilder Hamilton]]
+
 content_summary: VA Medical Center progress notes from [DOB-1] regarding Robin Wilder-Hamilton's request to reschedule a CT scan appointment due to car breakdown, with correspondence from pulmonary case manager Pamela Thompson and Ketan Buch M.D.
 document_date: 2024-09-30
 entities[0]: Robin Wilder-Hamilton

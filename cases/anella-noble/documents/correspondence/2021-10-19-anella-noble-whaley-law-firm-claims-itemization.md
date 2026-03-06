@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:e50d23da8d3ebf8ee001c659f8fe4ae28917151fc86384bf92848f3aec49839f
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Fax Server M20102 
 J\niliemt, 
 October 19, 2021 

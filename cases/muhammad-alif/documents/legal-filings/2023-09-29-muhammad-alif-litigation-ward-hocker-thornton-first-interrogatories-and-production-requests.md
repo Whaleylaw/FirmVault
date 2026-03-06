@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:155d66a9769ead2a6ae175f5018add58b6cd2f0ab1acdf54a868af985b3e5857
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 COMMONWEALTH OF KENTUCKY
 
 JEFFERSON CIRCUIT COURT DIVISION 7 CIVIL ACTION NO. 23-CI-005509 MUHAMMAD ALIF PLAINTIFF ¥, DEFENDANTS’ FIRST SET OF INTERROGATORIES

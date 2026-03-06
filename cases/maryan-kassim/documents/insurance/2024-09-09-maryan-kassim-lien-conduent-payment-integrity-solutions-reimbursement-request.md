@@ -1,11 +1,10 @@
 ---
 case_slug: maryan-kassim
-created_at: 2026-02-17 00:04:52.456000+00:00
+created_at: {}
 document_category: insurance
-document_date: 2024-08-06
+document_date: {}
 document_type: insurance
-entities:
-- Progressive
+entities: null
 extraction_method: native_text
 legacy_case_id: 2024-08-06-MVA-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan-Kassim-MVA-08-06-2024/Lien/Conduent-Payment-Integrity-Solutions/2024-09-09-Maryan-Kassim-Lien-Conduent-Payment-Integrity-Solutions-Reimbursement-Request.pdf
 source_hash: sha256:a17277e3e9009ca987fc8f09d79e9cef2cad1e2935d29c9a293a781d42b61d81
+contact: "[[cases/2024-08-06-mva-001/contacts/conduent]]"
 ---
+
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 
 7276 1010 BI SIN 0910 NNNNNNNN 004887 NA 973037 (20f2)
 CONDUENT

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Deanna
 source_hash: sha256:9078e4f69d185f517ea573657943cd7ff340f822931028f498f3358eeaed5b40
 ---
 
+**Case:** [[cases/deanna-jones/deanna-jones|Deanna Jones]]
+**Client:** [[cases/deanna-jones/contacts/deanna-jones|Deanna Jones]]
+
 57.7 WEST J,-,11,BR!K)N 9TRE&'l 
 LOU!!iVli,LE, Ka�TUCI(Y 40202 
 11r1 I l. I II\.• 

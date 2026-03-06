@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:5dd9f3d392657221c96bcb1c337c76f738ebbf4c691fc7b152b97c280e233392
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 CASE NO. _____________ JEFFERSON CIRCUIT COURT 
  DIVISION ___ ( ) 
 JAMES KIPER PLAINTIFF 

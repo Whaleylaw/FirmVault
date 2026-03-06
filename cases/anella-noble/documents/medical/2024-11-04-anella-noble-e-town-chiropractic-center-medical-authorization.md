@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:1b123a2c2bb6003e7f2796da94906554e3e058769bb54cdac177102d3c631001
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 [DOB-1]
 ***-**-7737 [DOB-1]
 E-Town Chiropractic Center

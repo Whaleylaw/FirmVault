@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:49eac6153345a64a3d6678c9dea869453b77590e421190cd0fb044b11caccb4b
 ---
 
+**Case:** [[cases/robin-wilder-hamilton/robin-wilder-hamilton|Robin Wilder Hamilton]]
+**Client:** [[cases/robin-wilder-hamilton/contacts/robin-wilder-hamilton|Robin Wilder Hamilton]]
+
 Claimant: 
 This letter is asking for information in connection with a claim submitted by you or your representative. 
 The Medicare, Medicaid and SCHIP Extension Act of 2007 (MMSEA), Section 111 is a federal law that 

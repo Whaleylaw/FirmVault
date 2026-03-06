@@ -1,8 +1,8 @@
 ---
 case_slug: brenda-lang
-created_at: 2026-02-16 22:09:29.626000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 2021-09-03
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2021-09-03-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda-Lang-MVA-09-03-2021/Insurance/2023-08-21-Brenda-D-Lang-Steve-Campbell-PIP-Ledger-Request.pdf
 source_hash: sha256:91ab3025eeba552c01450f59580e67643f5df7e12cfddb1488f999a6562c2a42
+contact: "[[cases/2021-09-03-mva-001/contacts/steve-campbell]]"
 ---
+
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 
 Aaron G. Whaley, Esq.
 712 Lyndon Lane

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:236b6a4db8c8bce23bdff2320b6d320a1caf7a880a7083e45b475a6f1fa79026
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 REORGANIZATION MAP VALIDATION - AUTOMATED CHECKS
 ================================================
 

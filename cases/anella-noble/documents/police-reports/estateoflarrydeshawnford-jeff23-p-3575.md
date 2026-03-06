@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:949720ec66da25cb5c654ffede039172b3db21351fba52dc93b3c6433d39ef3f
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: Estate of Larry Deshawn Ford - Jeff 23-P-3575
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

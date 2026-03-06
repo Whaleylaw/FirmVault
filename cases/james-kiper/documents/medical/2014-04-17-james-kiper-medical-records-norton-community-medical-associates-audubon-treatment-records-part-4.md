@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:b93b299a741d093713a6804f4fb5ec5bb708a35cc8136a8bd542cdf6cd0ea174
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 NORTON PHYSICIANS 
 SERVICES
 1930 Bishop Ln

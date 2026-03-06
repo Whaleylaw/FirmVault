@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:12c72071ac5e42270fa0d03fa002357a90a634338eb0aad88ee909f2086462b3
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 1-Oct-2824 15:36 UTC SpanDSP Fax Header
 REQ-18879353 CHART SWAP
 ALMA CRISTOBAL

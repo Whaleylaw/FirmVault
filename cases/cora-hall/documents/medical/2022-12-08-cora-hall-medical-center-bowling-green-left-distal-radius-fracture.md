@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2022-12-05-OTH-001
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-Hall-WC-[DOB-1]/Medical/2022-12-08-Cora-Hall-Medical-Center-Bowling-Green-Left-distal-radius-fracture.pdf"
 source_hash: "sha256:1ec240e17d4bbbc95e42d6f63e3b73a4127c18c4a30df871dea07c4718c0d764"

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:af90e17900211819185d28ee2dd679fa2d754d61aedbba37886fe967cfbc226a
 ---
 
+**Case:** [[cases/shannon-colvin/shannon-colvin|Shannon Colvin]]
+**Client:** [[cases/shannon-colvin/contacts/shannon-colvin|Shannon Colvin]]
+
 January 31, 2024
 Whaley Law Firm
 712 Lyndon Ln

@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel
 source_hash: sha256:94d90466b91f8d370b974b3d41368c557683f3077bbddf9e52cddeaf273d6ada
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 clear Ail Elelgs KENTUCKY NO FAULT [save Fite |
 
 IMPORTANT: A. TOENABLE US TO DETERMINE IF YOU ARE ENTITLED TO BENEFITS, YOU MUST COMPLETE AND SIGN THIS FORM. B. YOU MUST ALSO SIGN THE ATTACHED AUTHORIZATION (S). C. RETURN PROMPTLY WITH ANY MEDICAL BILLS YOU HAVE RECEIVED TO DATE.

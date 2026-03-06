@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:cd8a4a2730eff56237fffe2c19dfbc3f146286e0aaff26096e3fecaed3aa3836
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 PROGRESSIVE CLAIMS
 P.O. BOX 2930
 CLINTON, IA 52733-9934

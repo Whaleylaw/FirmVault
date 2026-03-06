@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmon
 source_hash: sha256:81d78637e41fcbdb8769b7668bc8215f42a409d1946031c1c1720007dc210e0a
 ---
 
+**Case:** [[cases/julmonzhae-moore/julmonzhae-moore|Julmonzhae Moore]]
+**Client:** [[cases/julmonzhae-moore/contacts/julmonzhae-moore|Julmonzhae Moore]]
+
 item_0.jsonb_agg[0].full_name: Julmonzhae Moore
 item_0.jsonb_agg[0].project_name: Julmonzhae-Moore-MVA-8-29-2023
 item_0.jsonb_agg[0].roles[0]: client

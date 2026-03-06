@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:54865248fe65ffef3bfc6ba7a6794b71d39588a076b53352ea120f7cc92ef2e2
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 Tendered 23-Cl-0, 99 [DOB-3] David L. Nick on, Jefferson Circuit Clerk
 COMMONWEALTH OF KENTUCKY
 JEFFERSON CIRCUIT COURT

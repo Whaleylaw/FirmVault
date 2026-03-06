@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:6df79e1f99c2d99f99da0296c5340c11d724936f424b998547beaa9323325c63
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 Aaron G. Whaley, Esq.
 
 ST EE ; 712 Lyndon Lane H A L F Y Louisville, KY 40222 LAW FIRM Fax: [PHONE-1]

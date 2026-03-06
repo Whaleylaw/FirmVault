@@ -4,6 +4,9 @@ document_category: police-reports
 legacy_case_id: 2021-09-24-MVA-001
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel-W-Volk-MVA-[DOB-1]/Medical/2024-04-23-Daniel-W-Volk-Whaley-Settlement-Demand-Letter.pdf"
 source_hash: "sha256:7703ef496c5c48c23cdbe0819559ff2998acc12ecb6a89accca6f365a794f0bb"

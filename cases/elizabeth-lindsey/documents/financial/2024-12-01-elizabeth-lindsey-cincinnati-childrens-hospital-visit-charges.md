@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Elizab
 source_hash: sha256:a17d07ab1b6e1bbd8b4c93a9c20bf1b809f91b6b6f3d2afb80b7d3d79cf9d5bf
 ---
 
+**Case:** [[cases/elizabeth-lindsey/elizabeth-lindsey|Elizabeth Lindsey]]
+**Client:** [[cases/elizabeth-lindsey/contacts/elizabeth-lindsey|Elizabeth Lindsey]]
+
 Cincinnati Children's
 3333 BURNET AVENUE
 CINCINNATI, OH 45229-3039

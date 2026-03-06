@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:e324454816a5f497472f3d9e904938ec77abadd2bdce35d7190ec459a450f041
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 CHILDRENS HOS MED CTR-CH [CHILD HOS MED CTR COM am#| [PHONE-2] ae
 3333 BURNET AVENUE 3337 SOLUTIONS CTR Ree# (11772261 Q137
 CINCINNATI OH 452293039 |CHICAGO IL 606773003 __|SFED.TAXNO.SIO AMENT COVERS PERIOD 7

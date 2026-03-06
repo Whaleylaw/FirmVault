@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:283d2cf0456b1cce900219273ab1577c4808383b2e4040601dcc4e20095dae4b
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: lien
 extraction.date: 2024-07-18
 extraction.description: Whaley Law Firm confirmation of no lien for Wayne Weber dated July 18, 2024.

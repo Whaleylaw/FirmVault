@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jasmin
 source_hash: sha256:5e58c8df8071eb21a221d054929099759551ab9f1b17c22d57df5e891b3720c6
 ---
 
+**Case:** [[cases/jasmine-wilson/jasmine-wilson|Jasmine Wilson]]
+**Client:** [[cases/jasmine-wilson/contacts/jasmine-wilson|Jasmine Wilson]]
+
 accident_date: 2025-10-12
 case_type: MVA
 client_name: Jasmine-Wilson

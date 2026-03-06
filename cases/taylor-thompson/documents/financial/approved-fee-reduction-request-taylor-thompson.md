@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor
 source_hash: sha256:4f7151af21c533fa9b3de7c9dd3e59c76a5de6830b7f1fdcd42d465d38f930ae
 ---
 
+**Case:** [[cases/taylor-thompson/taylor-thompson|Taylor Thompson]]
+**Client:** [[cases/taylor-thompson/contacts/taylor-thompson|Taylor Thompson]]
+
 Subject: FEE REDUCTION REQUEST TAYLOR THOMPSON
 From: /O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=4E6DA913E93A46618013E4ED242E094A-JOHN SMITH_
 To: Jonathan Rabinowitz x7811

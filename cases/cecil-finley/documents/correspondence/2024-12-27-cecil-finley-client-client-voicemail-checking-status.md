@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:612e53a236f30200052c48ed3b8b8c21a798c16a0690f6d4a8d85c680904c7d2
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 Subject: Fwd: New Voice Message from FINLEY,ZENA [PHONE-12] on [DOB-2] 11:36 AM
 From: [EMAIL-3]
 To: sarena@whaleylawfirm.com, [EMAIL-9], [EMAIL-5]

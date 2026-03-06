@@ -1,11 +1,10 @@
 ---
 case_slug: kimberly-brasher
-created_at: 2026-02-17 00:02:23.812000+00:00
+created_at: {}
 document_category: financial
-document_date: 2024-02-21
+document_date: {}
 document_type: financial
-entities:
-- Deaconess Henderson Hospital
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-02-25-PrL-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimberly-Brasher-Premise-2-25-2023/Medical/2024-03-05-Kimberly-Brasher-Deaconess-Henderson-Hospital-Medical-Records-Request.pdf
 source_hash: sha256:dfeb101731578b5bba5564fe50323353963847a4d45da5413b098e8683d3db19
+contact: "[[cases/2023-02-25-prl-001/contacts/deaconess-henderson-hospital]]"
 ---
+
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 
 Aaron G. Whaley, Esq.
 712 Lyndon Lane E THE Louisville, KY 40222

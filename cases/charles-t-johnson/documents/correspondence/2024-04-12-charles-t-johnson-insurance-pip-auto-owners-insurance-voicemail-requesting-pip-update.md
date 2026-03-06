@@ -1,8 +1,8 @@
 ---
 case_slug: charles-t-johnson
-created_at: 2026-02-16 22:25:32.330000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 2024-04-12
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2023-04-18-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charles-T-Johnson-MVA-4-18-2023/Insurance/2024-04-12-Charles-T-Johnson-Insurance-PIP-Auto-Owners-Insurance-Voicemail-Requesting-PIP-Update.eml
 source_hash: sha256:a67c83a33a309acc4be3d6acc1b8f8becad8be530b090aa9500e442ab7718d71
+contact: "[[cases/2023-04-18-mva-001/contacts/auto-owners-insurance]]"
 ---
+
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 
 Subject: New Voice Message from AUTOOWNERSINSUR [PHONE-6] on [DOB-2] 10:26 AM
 From: [EMAIL-3]

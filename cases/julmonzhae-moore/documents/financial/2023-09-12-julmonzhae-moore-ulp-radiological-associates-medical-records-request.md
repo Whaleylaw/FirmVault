@@ -1,11 +1,10 @@
 ---
 case_slug: julmonzhae-moore
-created_at: 2026-02-16 23:59:33.635000+00:00
+created_at: {}
 document_category: financial
-document_date: 2004-05-28
+document_date: {}
 document_type: financial
-entities:
-- Jonathan Kedar Joshi
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-08-29-MVA-003
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmonzhae-Moore-MVA-8-29-2023/Correspondence/2023-09-12-Julmonzhae-Moore-ULP-Radiological-Associates-Medical-Records-Request.pdf
 source_hash: sha256:6e6de92fb421e56d6dd45a8658bc9632ce3d45761f9dec442522a7e397dc2da0
+contact: "[[cases/2023-08-29-mva-003/contacts/ulp-radiological-associates]]"
 ---
+
+**Case:** [[cases/julmonzhae-moore/julmonzhae-moore|Julmonzhae Moore]]
+**Client:** [[cases/julmonzhae-moore/contacts/julmonzhae-moore|Julmonzhae Moore]]
+
 
 UofL Physicians 9/12/2023 3:59:44 PM PAGE 1/006 Fax server
 FAX

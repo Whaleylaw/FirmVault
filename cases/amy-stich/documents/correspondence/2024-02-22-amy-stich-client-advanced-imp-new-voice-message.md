@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:25df567f469edcd724bd705567c4cadcc23fe655d6f3466f9e29b2a69ef9c447
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 Subject: New Voice Message from ADVANCED IMP [PHONE-6] on [DOB-2] 2:15 PM
 From: [EMAIL-3]
 To: Sarena@whaleylawfirm.com

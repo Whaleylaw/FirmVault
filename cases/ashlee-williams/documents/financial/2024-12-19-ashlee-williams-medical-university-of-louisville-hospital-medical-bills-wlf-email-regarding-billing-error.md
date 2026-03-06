@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee
 source_hash: sha256:d6427ea49d05676ae097d5ed5f3bfa55ac71e8b0ca00d223cfd653aac3f97e57
 ---
 
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 Subject: Ashlee Williams Certified Medical Billing Error
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1], [EMAIL-2]

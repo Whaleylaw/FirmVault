@@ -1,19 +1,22 @@
 ---
 case_slug: frances-whitis
-created_at: 2026-02-16 23:42:35.122000+00:00
+created_at: {}
 document_category: photos
-document_date: 2024-09-16
+document_date: {}
 document_type: photo
 extraction_method: image_proxy
 legacy_case_id: 2024-09-06-MVA-001
 mime_type: image/jpeg
 page_count: 1
 quality_score: 70
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Frances-Whitis-WC-MVA-9-6-2024/Medical/Family
-  Care Of The Bluegrass - East/Medical Records/2024-09-10-Frances-Whitis-WC-Medical-Family
-  Care Of The Bluegrass - East-Medical-Records-Family-Care-of-the-Bluegrass-Work-School-Excuse.jpg
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Frances-Whitis-WC-MVA-9-6-2024/Medical/Family Care Of The Bluegrass - East/Medical Records/2024-09-10-Frances-Whitis-WC-Medical-Family Care Of The Bluegrass - East-Medical-Records-Family-Care-of-the-Bluegrass-Work-School-Excuse.jpg
 source_hash: sha256:8f9db0ac075032333976735d3d40c8a4e98612f74e45d03b5292198bb9769f0e
+contact: "[[cases/2024-09-06-mva-001/contacts/family-care-of-the-bluegrass-east]]"
 ---
+
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 
 # Image Document
 

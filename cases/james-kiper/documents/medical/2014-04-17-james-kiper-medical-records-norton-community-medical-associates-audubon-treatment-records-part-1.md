@@ -34,6 +34,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:839dbd3a9d16aca61c30dcc8c8cb6ccba984d6d950235c9b5bbbcd5300ac4b02
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 J.KIPER-M-000012
 IX NORTON’
 HEALTHCARE MEDICAL RECORDS CERTIFICATION RID 183891517

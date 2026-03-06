@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Azaire
 source_hash: sha256:f675d326e27fedb722efe7625fe567ac75b82c8c18a3a535f2733cc40225b2b0
 ---
 
+**Case:** [[cases/azaire-lopez/azaire-lopez|Azaire Lopez]]
+**Client:** [[cases/azaire-lopez/contacts/azaire-lopez|Azaire Lopez]]
+
 date_of_birth: [DOB-1]
 imported_at: 2026-02-16T21:09:42.778Z
 name: A'zaire Lopez

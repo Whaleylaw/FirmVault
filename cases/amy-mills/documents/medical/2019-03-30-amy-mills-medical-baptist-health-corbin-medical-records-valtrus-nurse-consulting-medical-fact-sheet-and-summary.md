@@ -1,39 +1,23 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:48:04.925000+00:00
+created_at: {}
 document_category: medical
-document_date: 2019-04-26
+document_date: {}
 document_type: medical
-entities:
-- Dr. Christopher Shields
-- Dr. Janak Tawalkar
-- Dr. Cyna Khalily
-- Dr. Gregory Nazar
-- Dr. Alexander Landfield
-- Esther Graco
-- Charles Marcum
-- Morgan Birch
-- Melissa Hale
-- Jill Delair
-- Amy Sheldrake
-- Phillip Tibbs
-- Travis Gilbert
-- Alexander Landfield
-- Christopher Shields
-- John Johnson
-- Cyna Khalily
-- Janak Tawalkar
-- Vasudeva Ayer
-- Gregory Nazar
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Baptist
-  Health Corbin/Medical Records/2019-03-30-Amy-Mills-Medical-Baptist Health Corbin-Medical-Records-Valtrus-Nurse-Consulting-Medical-Fact-Sheet-and-Summary.docx
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Baptist Health Corbin/Medical Records/2019-03-30-Amy-Mills-Medical-Baptist Health Corbin-Medical-Records-Valtrus-Nurse-Consulting-Medical-Fact-Sheet-and-Summary.docx
 source_hash: sha256:08415bba3701f446e52261f451a9ad226bb15ecc0f5a0c6672b7c8adecf7c932
+contact: "[[cases/2019-04-26-prl-001/contacts/baptist-health-corbin]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 ---
 

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:94e9abf8587f2e4f6f005b5cf4ccbac4f411e589a06897f921208afea5919ea4
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 MELINDA PRATER
 GOULD'S DISCOUNT MEDICAL/ADAPT HEALTH
 BRENDA LANG

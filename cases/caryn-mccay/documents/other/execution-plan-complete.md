@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-
 source_hash: sha256:c4b924789e87eeb7e0defa274ed5307986eed515f967a9b4dbf9db64b93f9f06
 ---
 
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 case_name: Caryn-McCay-MVA-7-30-2023
 execution_date: 2025-02-01
 total_steps: 189

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Samuel
 source_hash: sha256:548ac40d81b9fc49ecc238a8fac5c6710252105944764a07815845bf5f2ad0f0
 ---
 
+**Case:** [[cases/samuel-clites/samuel-clites|Samuel Clites]]
+**Client:** [[cases/samuel-clites/contacts/samuel-clites|Samuel Clites]]
+
 April 30, 2024
 Whaley Law Firm
 712 Lyndon Ln

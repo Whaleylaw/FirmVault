@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:d5ef72fadbc40a070b54e1e2d62eb518b8b5025b82bbb723e0600d5e300968c0
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 item_0.jsonb_agg[0].full_name: Jerome Hedinger
 item_0.jsonb_agg[0].project_name: Jerome-Hedinger-Premise-DB-[DOB-4]
 item_0.jsonb_agg[0].roles[0]: client

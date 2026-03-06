@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:72fb2e7a800e1e9be8e57dd2eace0490a62bbfe65842876d1932efa655f44ab2
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 Subject: You have a new encrypted message from [EMAIL-3]
 From: [EMAIL-2]
 To: sarena@whaleylawfirm.com

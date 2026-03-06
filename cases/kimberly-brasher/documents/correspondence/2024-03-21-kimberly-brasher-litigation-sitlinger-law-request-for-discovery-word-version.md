@@ -1,8 +1,8 @@
 ---
 case_slug: kimberly-brasher
-created_at: 2026-02-17 00:01:59.462000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 2024-03-21
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2023-02-25-PrL-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimberly-Brasher-Premise-2-25-2023/Litigation/2024-03-21-Kimberly-Brasher-Litigation-Sitlinger-Law-Request-for-Discovery-Word-Version.eml
 source_hash: sha256:66ab1074a45080bf556c7b9875da80405d48d877f2caae1ed260163bac7b188b
+contact: "[[cases/2023-02-25-prl-001/contacts/sitlinger-law]]"
 ---
+
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 
 Subject: Fwd: Kimberly Brasher v. Networks USA XIV, Inc., et al.
 From: [EMAIL-1]

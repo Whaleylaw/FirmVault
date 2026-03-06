@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dewayn
 source_hash: sha256:21c5e0dbcff1ddc879baeeef388cca5d7b808d75c828e462fa6d8e786ef054c1
 ---
 
+**Case:** [[cases/dewayne-ward/dewayne-ward|Dewayne Ward]]
+**Client:** [[cases/dewayne-ward/contacts/dewayne-ward|Dewayne Ward]]
+
 Entteadered 2ARBOOTIO, HIRING bs Tard: Buvall, Wat, AGheeaitGons
 
 COMMONWEALTH OF KENTUCKY WARREN CIRCUIT COURT DIVISION FIVE (3)

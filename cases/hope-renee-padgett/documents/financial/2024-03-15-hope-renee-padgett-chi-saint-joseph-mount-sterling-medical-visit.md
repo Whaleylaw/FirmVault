@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Hope-R
 source_hash: sha256:adfd4b6261f819ebe3cb3bb9b35eea4c39de216d109bf4540f6d9ee5fedca15d
 ---
 
+**Case:** [[cases/hope-renee-padgett/hope-renee-padgett|Hope Renee Padgett]]
+**Client:** [[cases/hope-renee-padgett/contacts/hope-renee-padgett|Hope Renee Padgett]]
+
 Be . Page 2 of 2
 “AJ CHI Saint Joseph
 Health

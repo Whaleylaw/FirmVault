@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Lori-H
 source_hash: sha256:a074e9b05c0dcf92a900788cf1f0160976f421ca99348a5fe08c9fff3d17e6a0
 ---
 
+**Case:** [[cases/lori-house/lori-house|Lori House]]
+**Client:** [[cases/lori-house/contacts/lori-house|Lori House]]
+
 item_0.jsonb_agg[0].case_create_date: 1769716099614
 item_0.jsonb_agg[0].client_address: 1502 W Muhammed Ali blvd, , Louisville, KY 40211
 item_0.jsonb_agg[0].client_email: [EMAIL-1]

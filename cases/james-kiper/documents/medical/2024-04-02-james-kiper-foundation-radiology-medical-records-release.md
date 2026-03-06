@@ -1,18 +1,22 @@
 ---
 case_slug: james-kiper
-created_at: 2026-02-16 23:52:07.256000+00:00
+created_at: {}
 document_category: medical
-document_date: 1976-04-29
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2022-12-05-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Kiper-MVA-12-5-2022/Old
-  Files/2024-04-02-James-Kiper-Foundation-Radiology-Medical-Records-Release.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Kiper-MVA-12-5-2022/Old Files/2024-04-02-James-Kiper-Foundation-Radiology-Medical-Records-Release.pdf
 source_hash: sha256:a4da0423a6109e87b33be8c21031cc3a9aecda819c825e64f5ed2c8a07981c75
+contact: "[[cases/2022-12-05-mva-001/contacts/foundation-radiology]]"
 ---
+
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 
 James Kiper
 [DOB-1]

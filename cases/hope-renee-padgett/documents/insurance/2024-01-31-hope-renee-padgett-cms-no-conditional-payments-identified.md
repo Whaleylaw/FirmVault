@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Hope-R
 source_hash: sha256:678755c459e333ea85f8bbfe4465812a2dcc1238a56a10128c5acaa9eaeaa840
 ---
 
+**Case:** [[cases/hope-renee-padgett/hope-renee-padgett|Hope Renee Padgett]]
+**Client:** [[cases/hope-renee-padgett/contacts/hope-renee-padgett|Hope Renee Padgett]]
+
 COB:R Coordination of (CENTERS FORMEDICARE &MEDICAID SERVICES Benefits and Recovery
 January 31, 2024
 Wyoggee toltof aly ged Hotta *COPY*

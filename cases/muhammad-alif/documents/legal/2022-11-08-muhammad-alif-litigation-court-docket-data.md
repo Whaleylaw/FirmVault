@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:60b60ad05366b09a44d1f4085e78e33d2e78b5ba6c4f049c60b32d8156b5748c
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 case_info.caption: ALIF, MUHAMMAD VS. WICKCLIFFE, JACQUELYN B. ET AL
 case_info.case_number: 23-CI-005509
 case_info.case_type: AUTOMOBILE

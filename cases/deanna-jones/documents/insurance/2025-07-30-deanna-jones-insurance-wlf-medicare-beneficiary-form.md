@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Deanna
 source_hash: sha256:de2c4edcf93a3a01228989abce0f6cb607e09ad32cae308317bfd103705d9c21
 ---
 
+**Case:** [[cases/deanna-jones/deanna-jones|Deanna Jones]]
+**Client:** [[cases/deanna-jones/contacts/deanna-jones|Deanna Jones]]
+
 Page 1 of 2
 The Centers for Medicare & Medicaid Services (CMS) is the federal agency that oversees the Medicare 
 program. Many Medicare beneficiaries have other insurance in addition to their Medicare benefits. Sometimes, 

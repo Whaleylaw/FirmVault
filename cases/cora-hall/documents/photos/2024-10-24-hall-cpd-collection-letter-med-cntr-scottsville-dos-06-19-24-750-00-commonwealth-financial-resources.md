@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:7997190ad05d3a317facc01968b1d9bc8d86139b244fbff74418277386035355
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-Hall-WC-[DOB-1]/Photos/2024.10.24-Hall-CPD-Collection-Letter-Med-Cntr-Scottsville-DOS-06.19.24-750.00-Commonwealth-Financial-Resources.jpg

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:5a53b164ef718cd5083a8bfacf9d4a5d25606defbd37c0b8c38320953142561e
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Subject: Re: FW: Mills v. Forcht Bank; Knox Circuit Court; Case No.: 20-CI-00112
 From: [EMAIL-1]
 To: [EMAIL-2]

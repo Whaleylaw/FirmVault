@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor
 source_hash: sha256:182c9728c6fa017d5c8849c0628434755be3a2f1be52d8f1b0392e0ba12a95e2
 ---
 
+**Case:** [[cases/taylor-thompson/taylor-thompson|Taylor Thompson]]
+**Client:** [[cases/taylor-thompson/contacts/taylor-thompson|Taylor Thompson]]
+
 MORGAN & MORGAN
 December 13, 2024
 16945402

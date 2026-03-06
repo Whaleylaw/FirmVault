@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Malcom
 source_hash: sha256:a3cd9bf716dbcb07c007eca65c3a029017f13275207923a2c5e3ca582fbdc781
 ---
 
+**Case:** [[cases/malcom-glass-jones/malcom-glass-jones|Malcom Glass Jones]]
+**Client:** [[cases/malcom-glass-jones/contacts/malcom-glass-jones|Malcom Glass Jones]]
+
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane
 Louisville, KY 40222

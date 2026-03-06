@@ -4,6 +4,9 @@ document_category: court-filings
 legacy_case_id: 2019-04-26-PrL-001
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-[DOB-24]/Review_Needed/2025-08-23-Amy-Mills-Knox-County-Circuit-Court-Plaintiffs-Disclosure-of-Expert-Witnesses.pdf"
 source_hash: "sha256:e8abd0b269a6c5f89daa2edf677b7b0fd419aef42781dc1c23ec89ee199dbb6f"

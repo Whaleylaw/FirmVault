@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dewayn
 source_hash: sha256:f8925c4c01f4c3a8a336fbea4aa337688b58c0e85a29c6cdbdec342bc71f0a74
 ---
 
+**Case:** [[cases/dewayne-ward/dewayne-ward|Dewayne Ward]]
+**Client:** [[cases/dewayne-ward/contacts/dewayne-ward|Dewayne Ward]]
+
 Jessica Bottorff
 Aaron G. Whaley, Esq.
 THE 712 Lyndon Lane

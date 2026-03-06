@@ -1,18 +1,22 @@
 ---
 case_slug: sariya-mason
-created_at: 2026-02-17 00:20:44.494000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 2010-04-18
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2022-08-19-DB-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya-Mason-DB-08-19-2022/Medical
-  Bills/2023-06-19-Schrice-Thomas-Passport-Health-by-Molina-dog-bite-treatment-request.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya-Mason-DB-08-19-2022/Medical Bills/2023-06-19-Schrice-Thomas-Passport-Health-by-Molina-dog-bite-treatment-request.pdf
 source_hash: sha256:8db8420637eb5bbb1a9df5f31a3510315592541590cc8de55159c4b0e5c8fc4b
+contact: "[[cases/2022-08-19-db-001/contacts/passport-health-by-molina]]"
 ---
+
+**Case:** [[cases/sariya-mason/sariya-mason|Sariya Mason]]
+**Client:** [[cases/sariya-mason/contacts/sariya-mason|Sariya Mason]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

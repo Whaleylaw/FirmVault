@@ -4,6 +4,9 @@ document_category: court-filings
 legacy_case_id: 2022-12-05-OTH-001
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-Hall-WC-[DOB-1]/Medical/2023-01-26-Cora-Hall-Med-Conte-Heattt-medical-records.pdf"
 source_hash: "sha256:ab5aa12b4f571159a68d977ea74550428f7db264d759f5333d202b[PHONE-2]"

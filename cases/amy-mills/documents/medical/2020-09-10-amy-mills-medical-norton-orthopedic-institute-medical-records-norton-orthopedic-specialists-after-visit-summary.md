@@ -1,22 +1,23 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:49:05.525000+00:00
+created_at: {}
 document_category: medical
-document_date: 1983-12-28
+document_date: {}
 document_type: medical
-entities:
-- Cyna Khalily
-- Norton Healthcare
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Norton
-  Orthopedic Institute/Medical Records/2020-09-10-Amy-Mills-Medical-Norton Orthopedic
-  Institute-Medical-Records-Norton-Orthopedic-Specialists-After-Visit-Summary.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Norton Orthopedic Institute/Medical Records/2020-09-10-Amy-Mills-Medical-Norton Orthopedic Institute-Medical-Records-Norton-Orthopedic-Specialists-After-Visit-Summary.pdf
 source_hash: sha256:9ed15dd4a301bb3a76e9b087a5619f325a53468d9e0d9b13a96d9f7ff25404b5
+contact: "[[cases/2019-04-26-prl-001/contacts/norton-orthopedic-institute]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 Amy Mills DoB: [DOB-1] 9/10/2020  1:15 PM Norton Orthopedic Institute [PHONE-3]
 Amy Mills ([DOB-1]) • Printed at 9/10/20  1:43 PM Page 1 of 3   

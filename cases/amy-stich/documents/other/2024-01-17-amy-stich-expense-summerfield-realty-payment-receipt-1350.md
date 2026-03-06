@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:02829831e5cec6055f401b229c10bce7351e2a6d59d9fd1385b25ee78dc340bb
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 Summerfield Realty
 1350
 Amy Stich [DOB-1]

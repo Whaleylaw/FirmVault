@@ -1,11 +1,10 @@
 ---
 case_slug: hope-renee-padgett
-created_at: 2026-02-16 23:48:36.786000+00:00
+created_at: {}
 document_category: insurance
-document_date: 2023-01-17
+document_date: {}
 document_type: insurance
-entities:
-- Progressive
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-01-16-MVA-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Hope-Renee-Padgett-MVA-1-16-2023/Liens/2023-12-19-Hope-Renee-Padgett-Progressive-Medicare-Notice-of-Lien.pdf
 source_hash: sha256:da9e2d944ce4d31594d5322b38deafc561bed4cfce727d39ff22faaf51007002
+contact: "[[cases/2023-01-16-mva-001/contacts/medicare]]"
 ---
+
+**Case:** [[cases/hope-renee-padgett/hope-renee-padgett|Hope Renee Padgett]]
+**Client:** [[cases/hope-renee-padgett/contacts/hope-renee-padgett|Hope Renee Padgett]]
+
 
 PROGRESSIVE CLAIMS PROGRE.fSIVE
 PO BOX 94670

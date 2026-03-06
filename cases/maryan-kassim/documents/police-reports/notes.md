@@ -20,6 +20,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:a31d7ce728660eeade42d2fd8a0cff7d8a8f0835b6190ff6b5f76b5a0dcb1f4f
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 item_0.author_name: Aaron Whaley
 item_0.episode_type: imported
 item_0.last_activity: 2025-10-29T00:00:00

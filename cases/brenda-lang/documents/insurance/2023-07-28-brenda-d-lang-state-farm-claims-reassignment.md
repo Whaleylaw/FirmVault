@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:ca6d9fc15bbbe75e63539d2f955825db9761c45d6c7969ee4d9cd759bfd4ba4b
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 Providing Insurance and Financial Services S&S StateFarim
 Home Office, Bloomington, IL
 July 28, 2023

@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:dab210e565ade10dc6e7ad40a63d789944d503bf788ee92179534f65581bc795
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 item_0.holder_address: 700 Broadway, Denver, CO 80273
 item_0.holder_phone: [PHONE-1]
 item_0.lien_holder_name: Anthem Blue Cross Blue Shield

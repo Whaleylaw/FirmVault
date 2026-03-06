@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:1bb2e8323d975af1c418c4795d07c49eb75044303f993808c178e21a8afe17aa
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 Subject: Fwd: Shannon Lankswert DOI [DOB-1] - Claim Information Request
 From: sarena@whaleylawfirm.com
 To: [EMAIL-2]

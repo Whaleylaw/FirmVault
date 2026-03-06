@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:7ae645eb93ae9743278eb09741399c726a0c9d08988052dd79455b80fe26b98d
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 Subject: Fwd: Nichole M. Priddy shared the folder "EXTERNAL USE ONLY - James Kiper Medical Records" with you
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com, [EMAIL-6], [EMAIL-5]

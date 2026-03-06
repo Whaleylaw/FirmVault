@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ceceli
 source_hash: sha256:e4e72f79e282302a7eb10d7bcd083e1dc5d6d15ff7adba42d22601c47c95d4af
 ---
 
+**Case:** [[cases/cecelia-neltner/cecelia-neltner|Cecelia Neltner]]
+**Client:** [[cases/cecelia-neltner/contacts/cecelia-neltner|Cecelia Neltner]]
+
 ‘NELTNER
 2CECELIAMARIE
 317 W13TH ST

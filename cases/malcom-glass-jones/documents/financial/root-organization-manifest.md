@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Malcom
 source_hash: sha256:eb224186ab075e742af686ba19af58074f98483a4cb41e67d60d9d3444517015
 ---
 
+**Case:** [[cases/malcom-glass-jones/malcom-glass-jones|Malcom Glass Jones]]
+**Client:** [[cases/malcom-glass-jones/contacts/malcom-glass-jones|Malcom Glass Jones]]
+
 accident_date: 2024-10-02
 case_type: MVA
 client_name: Malcom-Glass-Jones

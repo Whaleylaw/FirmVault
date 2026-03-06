@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:ecb116369dc4d351fd56d5d380ae633c60f876714a2ed00001068c44a51b094f
 ---
 
+**Case:** [[cases/christopher-lanier/christopher-lanier|Christopher Lanier]]
+**Client:** [[cases/christopher-lanier/contacts/christopher-lanier|Christopher Lanier]]
+
 item_0.extension: .md
 item_0.name: lanier c ledger.md
 item_0.path: lanier c ledger.md

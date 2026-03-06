@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:2f2e305c8984450792c7d13dbf7d55833d22042782e69259a0c07354fe276e62
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 WVMPR2Z02U1MAPO1 7/18/2024 11:37:44 AM EDT PAGE 1/002 Fax server
 vaetna
 Fax

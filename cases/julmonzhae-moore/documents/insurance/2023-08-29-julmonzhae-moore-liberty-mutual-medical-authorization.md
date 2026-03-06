@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmon
 source_hash: sha256:7ec9836e8d8529f793109abb659180c89cc8b962356ce26b717fb4d22a686a13
 ---
 
+**Case:** [[cases/julmonzhae-moore/julmonzhae-moore|Julmonzhae Moore]]
+**Client:** [[cases/julmonzhae-moore/contacts/julmonzhae-moore|Julmonzhae Moore]]
+
 Explanation of Benefits
 The following explains benefits available to you.
 Your Coverage Personal Injury Protection Coverage is intended to cover medical expenses 

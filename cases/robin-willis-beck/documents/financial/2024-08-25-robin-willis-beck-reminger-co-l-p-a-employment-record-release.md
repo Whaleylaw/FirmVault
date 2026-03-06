@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:ce8ce5d11613814e1caa6a76b62bc4a1edb74d3941559c67a661694cfa564d69
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 AUTHORIZATION
 FOR RELEASE OF EMPLOYMENT RECORDS
 TO:

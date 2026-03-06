@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:f459cd4f24b02b20ebb8b91c2a58196722b0ea43148278c3ce3f8b5b2c722a2e
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 ~Nosiine Horm =§(2-Qo- 9a
 ‘EmilyBoyer =[PHONE-1]
 “HomiinProperty Seruces —

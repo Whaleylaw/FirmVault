@@ -13,5 +13,8 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brigid
 source_hash: sha256:a637b0917b21070d1193a8266d1ac8ed12cdf5269c9347cb995e61d6752ea26c
 ---
 
+**Case:** [[cases/brigido-gonzalez-martinez/brigido-gonzalez-martinez|Brigido Gonzalez Martinez]]
+**Client:** [[cases/brigido-gonzalez-martinez/contacts/brigido-gonzalez-martinez|Brigido Gonzalez Martinez]]
+
 item_0.project_name: Brigido-Gonzalez-Martinez-MVA-[DOB-1]
 item_0.provider_full_name: Starlite Chiropractic

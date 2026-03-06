@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Collee
 source_hash: sha256:e4add0ab4fa7a42048dab4c529e81bd8e8745e03516b23dbed52696ada63dc4a
 ---
 
+**Case:** [[cases/colleen-colvin/colleen-colvin|Colleen Colvin]]
+**Client:** [[cases/colleen-colvin/contacts/colleen-colvin|Colleen Colvin]]
+
 Certificate Of Completion
 Envelope Id: D4313042EB3542B783D4989AF31322DB Status: Completed
 Subject: The Whaley Law Firm has requested your signature. Follow the prompts to execute the attached.

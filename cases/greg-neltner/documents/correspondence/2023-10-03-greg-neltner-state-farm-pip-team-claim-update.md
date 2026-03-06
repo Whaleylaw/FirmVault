@@ -1,11 +1,10 @@
 ---
 case_slug: greg-neltner
-created_at: 2026-02-16 23:44:07.383000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 2023-04-01
+document_date: {}
 document_type: correspondence
-entities:
-- State Farm
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-04-01-MVA-002
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-Neltner-MVA-4-1-2023/Insurance/2023-10-03-Greg-Neltner-State-Farm-PIP-Team-Claim-Update.pdf
 source_hash: sha256:3ca4c618d8d2c340b4ce4c9ff6e6effd1b75461cc0b16317576e1bedf6366b1d
+contact: "[[cases/2023-04-01-mva-002/contacts/state-farm-pip-team]]"
 ---
+
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 
 Aaron G. Whaley, Esq.
 712 Lyndon Lane

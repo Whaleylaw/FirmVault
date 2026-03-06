@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:0df1621403acd235d8ed8b29703c68ec6c3e663dd59e248efdfbaa9c5435bde3
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 category: Insurance
 description: PIP direction to pay letter to Kentucky Farm Bureau
 entities[0]: Alma Cristobal

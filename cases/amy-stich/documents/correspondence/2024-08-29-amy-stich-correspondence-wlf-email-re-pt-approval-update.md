@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:36c08f22eea4ffa88325edcec2d6f471ce2fd0c094fd6b42e5aa3e80261fb6f6
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 Subject: Re: PT Approval
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

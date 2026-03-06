@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:f57b065cf4dd1b6f5e151e1087184409718074c9f7e92f758cda006fc43727d9
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 KNOX CIRCUIT COURT
 DIVISION _____
 JUDGE ____________________

@@ -4,6 +4,9 @@ document_category: financial
 legacy_case_id: 2019-04-26-PrL-001
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-[DOB-241]/Review_Needed/2022-12-15-Amy-Mills-GCHC-Bishop-Street-Cl-Office-Visit.pdf"
 source_hash: "sha256:c70cd41799b68c840f1eedf4968e6d36340e441bb231c7b2ce40e37aa4904f18"

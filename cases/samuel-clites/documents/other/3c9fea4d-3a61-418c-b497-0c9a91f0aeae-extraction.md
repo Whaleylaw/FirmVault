@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Samuel
 source_hash: sha256:70a44860657f38849a160731f3b8d1e6d8817d195959aed9ed4c065e6ff61f54
 ---
 
+**Case:** [[cases/samuel-clites/samuel-clites|Samuel Clites]]
+**Client:** [[cases/samuel-clites/contacts/samuel-clites|Samuel Clites]]
+
 category: accident_scene
 confidence: 0.8
 date: 2024-04-23

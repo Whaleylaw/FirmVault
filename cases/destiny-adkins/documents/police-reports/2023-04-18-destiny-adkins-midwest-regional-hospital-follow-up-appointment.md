@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Destin
 source_hash: sha256:c5fa78d8e8bdc70d351acae670e1311f95a1536d4ab2ff91a5506f3f1c453a68
 ---
 
+**Case:** [[cases/destiny-adkins/destiny-adkins|Destiny Adkins]]
+**Client:** [[cases/destiny-adkins/contacts/destiny-adkins|Destiny Adkins]]
+
 ety KENTUCKY UNIFORM POLICE is TRAFFIC COLLISION REPORT
 
 INVESTIGATING AGENCY LOUISVILLE METRO POLICE DEPT

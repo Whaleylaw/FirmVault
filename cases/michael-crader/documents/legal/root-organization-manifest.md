@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:c5bb304f21e6fcacf05504dbc48bb264d106c2aa8cb6a072936836d531e7b91e
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 accident_date: 2023-05-19
 case_type: MVA
 client_name: Michael-Crader

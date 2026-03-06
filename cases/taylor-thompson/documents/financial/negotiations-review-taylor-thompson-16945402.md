@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor
 source_hash: sha256:4386071096a4714fcaccb03794fba03376e068dd332eab3d878f17e6372f4b92
 ---
 
+**Case:** [[cases/taylor-thompson/taylor-thompson|Taylor Thompson]]
+**Client:** [[cases/taylor-thompson/contacts/taylor-thompson|Taylor Thompson]]
+
 Subject: NEGOTIATIONS REVIEW - Taylor Thompson 16945402
 From: /O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=4E6DA913E93A46618013E4ED242E094A-JOHN SMITH_
 To: Jacob Lashley x28112

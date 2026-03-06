@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Azaire
 source_hash: sha256:1289eb8bc2e98d0b9bdcafccf25d7abc24eed15cc192c2d390a7bed26eab9c69
 ---
 
+**Case:** [[cases/azaire-lopez/azaire-lopez|Azaire Lopez]]
+**Client:** [[cases/azaire-lopez/contacts/azaire-lopez|Azaire Lopez]]
+
 item_0.project_name: Azaire-Lopez-MVA-[DOB-2]
 item_0.provider_full_name: Starlite Chiropractic
 item_1.parent_facility: UofL Health

@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:6278e8b139cecfb2cbe297d5d73dd89a35fe6afeb27921e6ffe3a055cbed0150
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 category: Medical
 description: Itemized hospital bill from Norton Audubon Hospital for emergency department visit on August 6, 2024, totaling $16,984.79 for CT scans, x-rays, laboratory tests, and emergency services.
 entities[0]: Norton Healthcare

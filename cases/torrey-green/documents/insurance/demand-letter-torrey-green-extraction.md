@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:8f2d6cca44968052d1392eff4d4ea288fb98e0a2430568013b1fccf81c6efe70
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 category: settlement_demand
 date: 2026-01-23
 description: Settlement demand letter dated 1/23/2026 to Elco Insurance demanding full bodily injury policy limits for injuries sustained by Torrey Green in 9/3/2025 collision caused by insured Cynthia McDonald at Newburg Rd and Champions Trace Lane

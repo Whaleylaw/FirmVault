@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brigid
 source_hash: sha256:367ee46fa0a9ea1f98102a990e53748b5b713b78a059336210f35dae8ebd8f94
 ---
 
+**Case:** [[cases/brigido-gonzalez-martinez/brigido-gonzalez-martinez|Brigido Gonzalez Martinez]]
+**Client:** [[cases/brigido-gonzalez-martinez/contacts/brigido-gonzalez-martinez|Brigido Gonzalez Martinez]]
+
 item_0.jsonb_agg[0].case_type: MVA
 item_0.jsonb_agg[0].client_name: Brigido Gonzalez Martinez
 item_0.jsonb_agg[0].client_phone: [PHONE-1]

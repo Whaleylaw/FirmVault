@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jasmin
 source_hash: sha256:7aa9a5da72d0530aa57c89e543fbbda9d8d64783d380b61d87d03198317f8317
 ---
 
+**Case:** [[cases/jasmine-wilson/jasmine-wilson|Jasmine Wilson]]
+**Client:** [[cases/jasmine-wilson/contacts/jasmine-wilson|Jasmine Wilson]]
+
 address: 9406 Doral Ct, Apt 4, Louisville, KY 40220
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

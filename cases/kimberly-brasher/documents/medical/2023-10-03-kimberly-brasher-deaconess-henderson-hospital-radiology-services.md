@@ -1,6 +1,6 @@
 ---
 case_slug: kimberly-brasher
-created_at: 2026-02-17 00:02:19.174000+00:00
+created_at: {}
 document_category: medical
 document_type: medical
 extraction_method: native_text
@@ -10,7 +10,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimberly-Brasher-Premise-2-25-2023/Medical/2023-10-03-Kimberly-Brasher-Deaconess-Henderson-Hospital-Radiology-Services.pdf
 source_hash: sha256:2917c56601ed9495b01e0d3f7705b01eba927b59746f6e7301628cb2285451e4
+contact: "[[cases/2023-02-25-prl-001/contacts/deaconess-henderson-hospital]]"
 ---
+
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 
 Eline
 &

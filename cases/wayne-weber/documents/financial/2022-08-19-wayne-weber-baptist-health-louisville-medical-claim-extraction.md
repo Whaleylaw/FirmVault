@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:cc3ed46faa69df09a55d55ef3caf812016249d2c2b6e97ee05210142448de218
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: medical_billing
 extraction.date: 2022-08-19
 extraction.description: Medical billing claim from Baptist Health Louisville for services provided to Wayne Weber on August 19, 2022 for accident-related treatment.

@@ -1,6 +1,6 @@
 ---
 case_slug: robin-willis-beck
-created_at: 2026-02-17 00:17:02.880000+00:00
+created_at: {}
 document_category: financial
 document_type: financial
 extraction_method: native_text
@@ -8,11 +8,14 @@ legacy_case_id: 2023-09-21-PrL-001
 mime_type: message/rfc822
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-Willis-Beck-Premise-09-21-2023/Medical/Norton
-  Orthopedic Institute/Medical Bills/2024-04-03-Robin-Willis-Beck-Medical-Norton Orthopedic
-  Institute-Medical-Bills-WLF-Email-Regarding-Ortho-Lien-Provider.eml
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-Willis-Beck-Premise-09-21-2023/Medical/Norton Orthopedic Institute/Medical Bills/2024-04-03-Robin-Willis-Beck-Medical-Norton Orthopedic Institute-Medical-Bills-WLF-Email-Regarding-Ortho-Lien-Provider.eml
 source_hash: sha256:e10346a8e169455c4feb791c41163f0192eb8c1b22d36f924471437e0171656e
+contact: "[[cases/2023-09-21-prl-001/contacts/norton-orthopedic-institute]]"
 ---
+
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 
 Subject: Robin Beck - Unable to Treat Currently
 From: sarena@whaleylawfirm.com

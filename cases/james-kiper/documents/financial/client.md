@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:2e7d4aff1e9782957213b5cbdfcd02d29e49706a3f581a12258f2b4a5ae45c09
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 address: 4115 S. 2nd St, , Louisville, KY 40214
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

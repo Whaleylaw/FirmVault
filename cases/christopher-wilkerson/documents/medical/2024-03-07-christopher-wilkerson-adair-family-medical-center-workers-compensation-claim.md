@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2024-02-15-MVA-002
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christopher-Wilkerson-WC-MVA-[DOB-1]/Medical Records/2024-03-07-Christopher-Wilkerson-Adair-Family-Medical-Center-Workers-Compensation-Claim.pdf"
 source_hash: "sha256:421b66806f1d4ecc24a65a77d825f5ec20cbe137d24f80db97477ae7b8158df7"

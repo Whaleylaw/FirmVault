@@ -1,6 +1,6 @@
 ---
 case_slug: stevie-hawks
-created_at: 2026-02-17 00:23:54.387000+00:00
+created_at: {}
 document_category: financial
 document_type: financial
 extraction_method: native_text
@@ -8,11 +8,14 @@ legacy_case_id: 2024-03-08-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie-Hawks-MVA-3-8-2024/Medical/The
-  Medical Center At Bowling Green/Medical Bills/2023-06-19-Stevie-Hawks-Medical-The
-  Medical Center At Bowling Green-Medical-Bills-Commonwealth-Financial-Resources-Medical-Bills.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie-Hawks-MVA-3-8-2024/Medical/The Medical Center At Bowling Green/Medical Bills/2023-06-19-Stevie-Hawks-Medical-The Medical Center At Bowling Green-Medical-Bills-Commonwealth-Financial-Resources-Medical-Bills.pdf
 source_hash: sha256:710db5a00102489adc6c6b3c34dda7849c8207dfbae967ab12821d0d1f140859
+contact: "[[cases/2024-03-08-mva-001/contacts/the-medical-center-at-bowling-green]]"
 ---
+
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 
 10-04 24 17:33 FROM- CHC CFR Cashiers [PHONE-6] T-789 PQQ] /0008 F-368
 FAX COVER SHEET

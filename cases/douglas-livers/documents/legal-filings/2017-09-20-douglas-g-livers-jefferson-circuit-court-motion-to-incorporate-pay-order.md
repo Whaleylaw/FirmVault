@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:6ed4f36fcdf46c7b892f8f7a620622bd78a7b25550623316197c306c45cbe02f
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 IV-D# [PHONE-9]
 NO. 16CI500096 JEFFERSON CIRCUIT COURT
 MIT ORAS os

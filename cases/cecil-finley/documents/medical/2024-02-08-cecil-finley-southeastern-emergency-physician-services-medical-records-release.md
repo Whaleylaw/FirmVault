@@ -1,8 +1,8 @@
 ---
 case_slug: cecil-finley
-created_at: 2026-02-16 22:20:43.984000+00:00
+created_at: {}
 document_category: medical
-document_date: 1985-07-03
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2024-01-24-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-Finley-MVA-1-24-2024/Medical-Records/2024-02-08-Cecil-Finley-Southeastern-Emergency-Physician-Services-Medical-Records-Release.pdf
 source_hash: sha256:a667d1be8296024892dd83b7cecb7102e23e0fda0cbe8ed9d5c9ad84cd11c0f8
+contact: "[[cases/2024-01-24-mva-001/contacts/southeastern-emergency-physician-services]]"
 ---
+
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 
 Cecil Finley
 [DOB-1]

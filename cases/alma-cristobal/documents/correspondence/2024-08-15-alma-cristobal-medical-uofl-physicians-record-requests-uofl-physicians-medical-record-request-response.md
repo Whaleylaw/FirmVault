@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:be2f1e0c05cf303519f133087232a59290b46a609de787eb62131cad3a84dc3e
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 UofL Physicians 8/15/2024 1:48:25 PM PAGE 1/007 Fax server
 Fax Transmission
 UL Health| vofL Physicians

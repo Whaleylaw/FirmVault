@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:098fe8412d282ad0c696921409c3fda6febf32a3ede161d179a13e136cfe37f2
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 PO BOX 634706 _ '
 CINCINNATI,OH 45263-4706 \AA350 Mail PATIENT STATEMENT
 - ACCOUNT NUMBER | STATEMENT DATE

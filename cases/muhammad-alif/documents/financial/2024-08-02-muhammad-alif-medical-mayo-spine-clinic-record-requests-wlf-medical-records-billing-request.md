@@ -1,19 +1,22 @@
 ---
 case_slug: muhammad-alif
-created_at: 2026-02-17 00:11:25.179000+00:00
+created_at: {}
 document_category: financial
 document_type: financial
-entities:
-- Alif CRR Mayo Spine Clinic
+entities: null
 extraction_method: native_text
 legacy_case_id: 2022-11-08-MVA-001
 mime_type: message/rfc822
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Mayo
-  Spine Clinic/Record Requests/2024-08-02-Muhammad-Alif-Medical-Mayo Spine Clinic-Record-Requests-WLF-Medical-Records-Billing-Request.eml
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Mayo Spine Clinic/Record Requests/2024-08-02-Muhammad-Alif-Medical-Mayo Spine Clinic-Record-Requests-WLF-Medical-Records-Billing-Request.eml
 source_hash: sha256:8a8bffef0817eaf2a3b24af9748a6c3454eeedb95fef55f5e1bd4fbd151a1629
+contact: "[[cases/2022-11-08-mva-001/contacts/mayo-spine-clinic]]"
 ---
+
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 
 Subject: Certified Medical Records & Billing Request - Muhammad Alif
 From: sarena@whaleylawfirm.com

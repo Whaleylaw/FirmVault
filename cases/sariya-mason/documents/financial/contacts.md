@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya
 source_hash: sha256:d1f4e9d8b0130e06014b2b2b6ca6b08c9f31620ac098f00416e12154fb8d380d
 ---
 
+**Case:** [[cases/sariya-mason/sariya-mason|Sariya Mason]]
+**Client:** [[cases/sariya-mason/contacts/sariya-mason|Sariya Mason]]
+
 item_0.jsonb_agg[0].full_name: Schrice Thomas
 item_0.jsonb_agg[0].project_name: Sariya-Mason-DB-[DOB-13]
 item_0.jsonb_agg[0].roles[0]: client

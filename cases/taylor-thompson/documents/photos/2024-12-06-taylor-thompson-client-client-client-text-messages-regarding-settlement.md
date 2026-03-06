@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor
 source_hash: sha256:22bf7c9528b12a89a34ea0f362b3facfa407544d866aba9d285538f7ff804566
 ---
 
+**Case:** [[cases/taylor-thompson/taylor-thompson|Taylor Thompson]]
+**Client:** [[cases/taylor-thompson/contacts/taylor-thompson|Taylor Thompson]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor-Thompson-MVA-[DOB-1]/Client/2024-12-06-Taylor-Thompson-Client-Client-Client-Text-Messages-Regarding-Settlement.jpeg

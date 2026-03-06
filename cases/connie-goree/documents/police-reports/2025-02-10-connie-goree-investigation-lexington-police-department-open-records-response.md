@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Connie
 source_hash: sha256:a717a2ebcc5f83a2367387154238e3419dcadbcced0af9da450a5c3ec764d2e6
 ---
 
+**Case:** [[cases/connie-goree/connie-goree|Connie Goree]]
+**Client:** [[cases/connie-goree/contacts/connie-goree|Connie Goree]]
+
 MAYOR LINDA GORTON LAWRENCE WEATHERS 
 CHIEF
 LEXINGTON POLICE DEPT. 

@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:3c9d2feca397e18a1e860be68eaaa41b624f05b3f239a67a0edc0676bea71afc
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 02-06-25 09:04 FROM- CHC CFR Cashiers [PHONE-30] T-883 PQQ01 /0012 F-760
 « Commonstealith
 Financial Resources

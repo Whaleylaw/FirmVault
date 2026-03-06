@@ -1,8 +1,8 @@
 ---
 case_slug: daniel-w-volk
-created_at: 2026-02-16 22:54:55.808000+00:00
+created_at: {}
 document_category: medical
-document_date: 1964-02-22
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2021-09-24-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel-W-Volk-MVA-09-24-2021/Medical/2020-07-31-Daniel-W-Volk-BAPTIST-HEALTH-MEDICAL-GROUP-SPORTS-MEDICINE-Skin-lesion.pdf
 source_hash: sha256:110bbc910d703557541f225c47f8552c654d912369ec99457af6c4385c019194
+contact: "[[cases/2021-09-24-mva-001/contacts/baptist-health-medical-group-sports-medicine]]"
 ---
+
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 
 BAPTIST HEALTH’
 aa

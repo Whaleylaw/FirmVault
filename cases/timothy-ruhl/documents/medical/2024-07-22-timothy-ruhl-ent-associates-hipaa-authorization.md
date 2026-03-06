@@ -1,12 +1,10 @@
 ---
 case_slug: timothy-ruhl
-created_at: 2026-02-17 00:35:37.685000+00:00
+created_at: {}
 document_category: medical
-document_date: 1966-08-05
+document_date: {}
 document_type: medical
-entities:
-- Dr. Michael Brown
-- Michael Brown
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-09-14-PrL-001
 mime_type: application/pdf
@@ -14,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timothy-Ruhl-Premise-09-14-2023/HIPAA-Authorizations/2024-07-22-Timothy-Ruhl-ENT-Associates-HIPAA-Authorization.pdf
 source_hash: sha256:4cdc3200cab59c7bb7e3544dcc33bd04b90c17cd302fcaeadf9227d6e845a006
+contact: "[[cases/2023-09-14-prl-001/contacts/ent-associates]]"
 ---
+
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 
 Timothy Ruhl
 [DOB-1]

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Connie
 source_hash: sha256:845d2f11967a45b1090584593f358f758944316a934ee8d916106f7568b2efa8
 ---
 
+**Case:** [[cases/connie-goree/connie-goree|Connie Goree]]
+**Client:** [[cases/connie-goree/contacts/connie-goree|Connie Goree]]
+
 For Customer Support refer to the = oe . ‘re iate platform below: LexisNexis appropria
 C Police Records Retrieval
 RISK SOLUTIONS [PHONE-20]

@@ -22,6 +22,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:08f8f792dd44d94cf1c214ee73fd2a158b7e1ecfa95d80a37bc3ea962846e763
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 EO
 ORTHOPAEDICS
 101 Windsor Path, Suite 1Georgetown, KY 40324 Tel: [PHONE-2] Fax: [PHONE-2]

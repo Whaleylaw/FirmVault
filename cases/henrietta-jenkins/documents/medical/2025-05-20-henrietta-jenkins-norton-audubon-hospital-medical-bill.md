@@ -1,12 +1,10 @@
 ---
 case_slug: henrietta-jenkins
-created_at: 2026-02-16 23:46:52.342000+00:00
+created_at: {}
 document_category: medical
-document_date: 2025-05-20
+document_date: {}
 document_type: medical
-entities:
-- Norton Audubon Hospital
-- Norton Healthcare
+entities: null
 extraction_method: native_text
 legacy_case_id: 2025-05-20-MVA-001
 mime_type: application/pdf
@@ -14,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Henrietta-Jenkins-MVA-5-20-2025/Medical/2025-05-20-Henrietta-Jenkins-Norton-Audubon-Hospital-medical-bill.pdf
 source_hash: sha256:97db89cadb562cf33b855d0b3eab3089fd05a7659e851da4ffb96beab3bee596
+contact: "[[cases/2025-05-20-mva-001/contacts/norton-audubon-hospital]]"
 ---
+
+**Case:** [[cases/henrietta-jenkins/henrietta-jenkins|Henrietta Jenkins]]
+**Client:** [[cases/henrietta-jenkins/contacts/henrietta-jenkins|Henrietta Jenkins]]
+
 
 Patient: Jenkins,Henrietta Irene
 Account ID: 255571667

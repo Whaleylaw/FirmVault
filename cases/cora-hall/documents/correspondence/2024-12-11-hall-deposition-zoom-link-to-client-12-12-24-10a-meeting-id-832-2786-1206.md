@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:64a8b021b5d2050b7de7d43acdec121a193334fc8a00eb39f9e6359a14a1421b
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 Subject: Your Upcoming Deposition - Zoom Link - December 12, 2024 10a
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

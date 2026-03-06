@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Abby-S
 source_hash: sha256:5a8ca88568fdca2f8fbf63ff31a4c4681aa5ddc694f2c1908ed7fe598519cfed
 ---
 
+**Case:** [[cases/abby-sitgraves/abby-sitgraves|Abby Sitgraves]]
+**Client:** [[cases/abby-sitgraves/contacts/abby-sitgraves|Abby Sitgraves]]
+
 item_0.amount_owed_from_settlement: 358.51
 item_0.date_notice_received: 2025-04-21
 item_0.final_lien_amount: 358.51

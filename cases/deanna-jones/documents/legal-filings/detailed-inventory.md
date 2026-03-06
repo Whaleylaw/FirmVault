@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Deanna
 source_hash: sha256:12d079000d32794df896b86dd66bd6239c4be5ea27d93afafa6a9ceeaf86c691
 ---
 
+**Case:** [[cases/deanna-jones/deanna-jones|Deanna Jones]]
+**Client:** [[cases/deanna-jones/contacts/deanna-jones|Deanna Jones]]
+
 ================================================================================
 DETAILED CASE FILE INVENTORY
 ================================================================================

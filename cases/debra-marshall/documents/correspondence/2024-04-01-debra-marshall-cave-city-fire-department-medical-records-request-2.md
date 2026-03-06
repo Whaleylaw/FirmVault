@@ -1,8 +1,8 @@
 ---
 case_slug: debra-marshall
-created_at: 2026-02-16 23:04:56.650000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1956-02-21
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2022-12-03-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-Marshall-MVA-12-3-2022/Records-Requests/2024-04-01-Debra-Marshall-Cave-City-Fire-Department-Medical-Records-Request-2.pdf
 source_hash: sha256:e316ddcac6bbbe07bb401a0169b534d7e09f0d4b833f92ff7097cd171ffc2994
+contact: "[[cases/2022-12-03-mva-001/contacts/cave-city-fire-department]]"
 ---
+
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 
 Fax Confirmation
 To: [PHONE-10] From: [PHONE-9]

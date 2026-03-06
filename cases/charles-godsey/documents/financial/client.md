@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:6cc90133a5dcf7ba5a07f7f47cccdf98ba58e61f0f575e46f4bd03e67c88691f
 ---
 
+**Case:** [[cases/charles-godsey/charles-godsey|Charles Godsey]]
+**Client:** [[cases/charles-godsey/contacts/charles-godsey|Charles Godsey]]
+
 address: 4408 Hazlewood Ave, Louisville, KY 40215
 date_of_birth: [DOB-1]
 imported_at: 2026-02-16T21:09:42.773Z

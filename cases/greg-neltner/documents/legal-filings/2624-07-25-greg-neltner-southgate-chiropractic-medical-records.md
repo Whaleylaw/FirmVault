@@ -1,6 +1,6 @@
 ---
 case_slug: greg-neltner
-created_at: 2026-02-16 23:44:27.466000+00:00
+created_at: {}
 document_category: court-filings
 document_type: court_filing
 extraction_method: native_text
@@ -10,7 +10,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-Neltner-MVA-4-1-2023/Medical-Records/2624-07-25-Greg-Neltner-Southgate-Chiropractic-Medical-Records.pdf
 source_hash: sha256:eb7e3ce1087c36052757c3ab7b25aa73c0b8e421de0aba690d232852754a8899
+contact: "[[cases/2023-04-01-mva-002/contacts/southgate-chiropractic]]"
 ---
+
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 
 25-Jul-2624 16:34 [PHONE-2] [PHONE-2] p.4
 CERTIFICATION OF MEDICAL RECORDS AFFIDAVIT

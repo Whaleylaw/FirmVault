@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:fca07d0942b371e33a0b4553b995355b1d87e2a18d66274116a131411aa13353
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 © [DOB-160] 9:41 AM Fax Services >W. BRYCE KOON pg 1of 24
 To: W. BRYCE KOON
 Company: WHALEY LAW

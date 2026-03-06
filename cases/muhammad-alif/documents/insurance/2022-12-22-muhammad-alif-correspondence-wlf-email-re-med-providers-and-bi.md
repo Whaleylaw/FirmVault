@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:bef12971f1b8d2323f53bd3483f0e700a1899a8cf3a05312cb330bf862847827
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 Subject: Your Motor Vehicle Accident November 8, 2022
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

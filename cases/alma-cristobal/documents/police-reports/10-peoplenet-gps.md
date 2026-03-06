@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:3ae76d7dc2203e91e2ba157a5064fe9fe0e3a7cf68b5b9d577cb7086453fdfda
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 GPS Location Report for Vehicle 46259 (Vehicle 46259) (Driver: All Drivers) generated for Crete Carrier Corporat on Apr. 1, 2024 at 10:03 (GMT -5)
 Vehicle Name Date & Time Speed HD Ignition GPS Quality Odometer Location ECM Odometer ECM Fuel ECM Speed ECM Idle Time Total PTO Driver 1 Driver 1 Duty Status Driver 2 Driver 2 Duty Status Trailer ID 1 Trailer ID 2 Fuel Tank 1 % Fuel Tank 2 % Ambient Temp PACOS ID
 46259 Vehicle 46259 2/15/2024 23:51 0 ST Off Good 0 Simpsonville, KY; 214186.1 28139.125 0 24990936 N/A HAMROY Off Duty N/A N/A N/A N/A 41.2 0 45 N/A

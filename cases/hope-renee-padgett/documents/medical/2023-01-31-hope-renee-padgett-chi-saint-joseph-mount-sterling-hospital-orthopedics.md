@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2023-01-16-MVA-001
 ---
 
+**Case:** [[cases/hope-renee-padgett/hope-renee-padgett|Hope Renee Padgett]]
+**Client:** [[cases/hope-renee-padgett/contacts/hope-renee-padgett|Hope Renee Padgett]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Hope-Renee-Padgett-MVA-1-16-2023/Medical/2023-01-31-Hope-Renee-Padgett-CHI-Saint-Joseph-Mount-Sterling-Hospital-Orthopedics.pdf"
 source_hash: "sha256:723f23d8a8ebb337fe81d5306abef4aad44c74b4ecc48defeae681a5842e7f76"

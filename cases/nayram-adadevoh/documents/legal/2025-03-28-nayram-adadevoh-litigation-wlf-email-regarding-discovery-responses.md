@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:08bf08d7226524312288ebafbd7c99144c58cbe51de6b3129146c1f442f7bbf4
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 Subject: Re: Abby Sitgraves, et al. v. Caal Worldwide, et al.
 From: [EMAIL-1]
 To: [EMAIL-2], [EMAIL-3]

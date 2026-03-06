@@ -1,8 +1,8 @@
 ---
 case_slug: caryn-mccay
-created_at: 2026-02-16 22:17:18.270000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1972-11-30
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2023-07-30-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-McCay-MVA-7-30-2023/Medical/2024-08-07-Caryn-McCay-EphraimMcDowellFamilyandInternalMedicine-MedicalRecordsRequest.pdf
 source_hash: sha256:31fa28d0f9b6e90538b1a73013be28c1e45de637b3d353693d8013e40a0f3b19
+contact: "[[cases/2023-07-30-mva-001/contacts/caryn-mccay]]"
 ---
+
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

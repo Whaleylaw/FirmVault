@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:5146d4dc1b603b1510889cb65cb465d0edcf7c2cd0b05e7200fe210b30ade96b
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 8/20/24, 7:07 AM Stich, Amy (MR#EP01553455) Printed by GRAY, MICHAEL [1850]
 Stich, Amy (MRN EP01553455) Encounter Date: [DOB-3]
 ° MRN: EP01553455 Stich, Amy

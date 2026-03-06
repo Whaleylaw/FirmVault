@@ -11,3 +11,6 @@ quality_score: 0
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Review_Needed/2023-10-10-Amy-Mills-St-Lukes-Medical-Center-New-Patient-Visit.pdf
 source_hash: sha256:e8ddb310ac30b8648c94bb01de3b3a4a81bb4ad556dabe7bcde6bd5965720bf9
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]

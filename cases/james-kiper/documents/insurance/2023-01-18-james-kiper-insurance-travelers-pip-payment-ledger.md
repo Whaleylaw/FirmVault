@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:7130844549889afb9f8cab22b47eb8c3d07d72cc342d339e8fc01f8bc83bcd53
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 ## Sheet1
 
 | IZX7996:Auto, Property and Liability Payment Detail |  |  |  |  |  |  |  |  |  |

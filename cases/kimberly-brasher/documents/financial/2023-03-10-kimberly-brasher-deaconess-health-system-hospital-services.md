@@ -4,6 +4,9 @@ document_category: financial
 legacy_case_id: 2023-02-25-PrL-001
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimberly-Brasher-Premise-2-25-2023/Medical/2023-03-10-Kimberly-Brasher-Deaconess-Health-System-Hospital-Services.pdf"
 source_hash: "sha256:5dc5fcfa6951d6356455f967c805def15979a33dac518808aaf9efadd65516fb"

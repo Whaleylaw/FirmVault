@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:29687a633550c7a21dcd3970596a42107ef31e145ab58da413bf27a77726e296
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 Commonwealth of Kentucky
 Taylor Skaggs, McLean Circuit Clerk
 Received From: AARON WHALEY Account Of: AARON WHALEY

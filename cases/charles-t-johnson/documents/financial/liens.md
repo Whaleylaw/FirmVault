@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:ce98fd41f19dda92780d32b0f9cb5bb1389f123bf1bd9617e657551c426499fb
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 item_0.holder_address: NGHP P.O. Box 138832, , Oklahoma City, OK 73113
 item_0.holder_phone: 1-[PHONE-1] (BCRC) Main
 item_0.lien_holder_name: Medicare

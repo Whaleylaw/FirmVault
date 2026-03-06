@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2022-12-05-MVA-001
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Kiper-MVA-12-5-2022/Litigation/2024-04-17-James-Kiper-Litigation-Jefferson-Circuit-Court-Notice-of-Filing.pdf"
 source_hash: "sha256:3b2baa5e9d82054fe826de3a84d5ec88a07e8ca464db8c2b130e2bc1b1a55ab6"

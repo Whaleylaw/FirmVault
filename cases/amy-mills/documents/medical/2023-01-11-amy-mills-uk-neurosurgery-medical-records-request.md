@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:ee115c3f0dc0ab7ae3042b51f44fc33f415fb8de5b179d42f9a3edc25305615a
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Mar.27.2023 9:43AM No.7642 P. 1/6
 University of Kentucky
 Retail and Community

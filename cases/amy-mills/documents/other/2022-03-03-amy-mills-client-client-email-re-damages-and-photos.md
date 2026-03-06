@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:ee900baf1eeb65edac6504e98a5a7d3db166c60afe552186a221c9b2a40fbc5f
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Subject: I’m looking for pics now (this is the stuff I missed out on that hurts the worst)
 From: [EMAIL-1]
 To: Sarena@whaleylawfirm.com

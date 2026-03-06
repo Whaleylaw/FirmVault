@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:1babfebcf19c3cfb54bd102951f86f441d301bbd7fdb52f4e0186dd06e826f41
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 Jan 07 25, 06:33p p.1
 FAX COVER SHEET
 Taylor County Chiropractic & Rehabilitation

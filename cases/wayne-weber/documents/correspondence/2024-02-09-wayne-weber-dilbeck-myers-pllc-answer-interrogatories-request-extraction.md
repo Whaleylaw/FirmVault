@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:f5a14a77de2ac3ad9cdf2f793960e2d2f12b47449f8090e09cfad946b0788e4a
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: litigation
 extraction.date: 2024-02-09
 extraction.description: Dilbeck Myers PLLC answer to interrogatories request for Wayne Weber dated February 9, 2024.

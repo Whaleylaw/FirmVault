@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:ace0a5ec282f406a6b36b6bf9a51e51288ca6908a899cafd6ae890c456641245
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: insurance
 extraction.date: 2023-11-08
 extraction.description: Claim evaluation request submitted to State Farm for Wayne Weber's case.

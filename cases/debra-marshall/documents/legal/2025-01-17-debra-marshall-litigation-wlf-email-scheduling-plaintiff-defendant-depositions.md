@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:d23e5cea76f6eb1f1e0cb11fe46c28205fc45522d24960c5a7af4295d5738f14
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 Subject: Re: Debra Marshall v Jasmine Reed - Barren Co. Circuit Court 23-CI-00659
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:48a342bcfb688cb44b8886655fa0c71fa944765d7101e6e0523a47317a2fc860
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 Subject: Root Claim #LXCJB2KY -
 From: [EMAIL-3]
 To: sarena@whaleylawfirm.com

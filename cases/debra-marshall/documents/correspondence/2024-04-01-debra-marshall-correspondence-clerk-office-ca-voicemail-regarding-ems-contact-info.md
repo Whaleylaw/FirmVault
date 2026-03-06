@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:2dafa537441ffd2ed930b727e82044abeb5d7d13deb2b66ef0555ddd818fd1e2
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 Subject: New Voice Message from CLERK OFFICE CA [PHONE-6] on [DOB-2] 4:00 PM
 From: [EMAIL-3]
 To: Sarena@whaleylawfirm.com

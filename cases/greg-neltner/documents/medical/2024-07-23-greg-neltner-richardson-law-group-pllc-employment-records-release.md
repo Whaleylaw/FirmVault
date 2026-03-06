@@ -1,8 +1,8 @@
 ---
 case_slug: greg-neltner
-created_at: 2026-02-16 23:44:16.081000+00:00
+created_at: {}
 document_category: medical
-document_date: 2024-07-23
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2023-04-01-MVA-002
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-Neltner-MVA-4-1-2023/Legal-Documents/Discovery/2024-07-23-Greg-Neltner-Richardson-Law-Group-PLLC-Employment-Records-Release.pdf
 source_hash: sha256:d852b86635daf82e6c996e4fb2b205c16bdc9dcb378f9b84669a036ddf4123b3
+contact: "[[cases/2023-04-01-mva-002/contacts/richardson-law-group-pllc]]"
 ---
+
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 
 Docusign Envelope ID: 37C1AD2D-CB25-427 1-AAEF-60A62FOFFC58
 RELEASE AND CONSENT TO DISCLOSURE

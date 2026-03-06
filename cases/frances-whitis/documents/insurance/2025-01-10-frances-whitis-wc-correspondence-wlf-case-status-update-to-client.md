@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/France
 source_hash: sha256:1f4915a6b7357aadfd2abeab6951f991f497099bf1630f0aa83bfe3e8472f38a
 ---
 
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 Subject: Your Current Claim Status - Please read attached Documents
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

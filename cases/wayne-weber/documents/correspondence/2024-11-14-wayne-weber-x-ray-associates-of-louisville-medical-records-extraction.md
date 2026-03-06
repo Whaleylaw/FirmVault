@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:e1ceda402af66589943fa8bc0ed6556833f589d14b1db2e0311439d7bdb3bbe6
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: medical_requests
 extraction.date: 2024-11-14
 extraction.description: X Ray Associates of Louisville medical records request for Wayne Weber dated November 14, 2024.

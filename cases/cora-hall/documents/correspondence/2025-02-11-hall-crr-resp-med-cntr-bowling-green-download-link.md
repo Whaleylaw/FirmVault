@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:b3b33deb76091346826396614a09dadc0ad0765344900f7f2e37cfccfd684093
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 Subject: Smart Request Status Notification
 From: [EMAIL-3]
 To: Sarena@whaleylawfirm.com

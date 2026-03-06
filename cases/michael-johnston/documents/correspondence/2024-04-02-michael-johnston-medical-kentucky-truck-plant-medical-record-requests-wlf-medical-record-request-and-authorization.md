@@ -1,19 +1,22 @@
 ---
 case_slug: michael-johnston
-created_at: 2026-02-17 00:07:06.177000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1978-04-21
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2023-05-03-OTH-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michael-Johnston-WC-05-03-2023/Medical/Kentucky
-  Truck Plant Medical/Record Requests/2024-04-02-Michael-Johnston-Medical-Kentucky
-  Truck Plant Medical-Record-Requests-WLF-Medical-Record-Request-and-Authorization.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michael-Johnston-WC-05-03-2023/Medical/Kentucky Truck Plant Medical/Record Requests/2024-04-02-Michael-Johnston-Medical-Kentucky Truck Plant Medical-Record-Requests-WLF-Medical-Record-Request-and-Authorization.pdf
 source_hash: sha256:029310ee92ede189c4bdb478768a1b143d8b531082a53b3664374d48ecd6048e
+contact: "[[cases/2023-05-03-oth-001/contacts/kentucky-truck-plant-medical]]"
 ---
+
+**Case:** [[cases/michael-johnston/michael-johnston|Michael Johnston]]
+**Client:** [[cases/michael-johnston/contacts/michael-johnston|Michael Johnston]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

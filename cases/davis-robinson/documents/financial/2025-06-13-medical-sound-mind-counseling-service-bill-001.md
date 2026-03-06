@@ -4,6 +4,9 @@ document_category: financial
 legacy_case_id: 2025-05-02-SF-001
 ---
 
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-Robinson-SF-[DOB-15]/Medical-Records/2025-06-13_Medical_Sound-Mind-Counseling-Service-Bill_001.pdf"
 source_hash: "sha256:b2f75576f368d68525e09630e5e61c861c96f31ac5462a277e7326325e53bf52"

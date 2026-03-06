@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julian
 source_hash: sha256:0829eda0ea543b9f06a2a09d77abbf68c72fda324c587b7e8bb6d9945256350b
 ---
 
+**Case:** [[cases/julian-wilson/julian-wilson|Julian Wilson]]
+**Client:** [[cases/julian-wilson/contacts/julian-wilson|Julian Wilson]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julian-Wilson-MVA-[DOB-1]/Client/2010-12-16-Julian-Wilson-Client-Social-Security-Administration-Social-Security-Card.jpg

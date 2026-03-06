@@ -1,8 +1,8 @@
 ---
 case_slug: sariya-mason
-created_at: 2026-02-17 00:20:35.858000+00:00
+created_at: {}
 document_category: court-filings
-document_date: 2025-02-11
+document_date: {}
 document_type: court_filing
 extraction_method: native_text
 legacy_case_id: 2022-08-19-DB-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya-Mason-DB-08-19-2022/Litigation/2025-02-11-Sariya-Mason-Litigation-Barnes-Maloney-PLLC-Notice-To-Take-Depositions.pdf
 source_hash: sha256:971c51053a63bfae5b0a3da0681fa6d5fc5ffce704a0962e3faeaaa1e4b9b410
+contact: "[[cases/2022-08-19-db-001/contacts/barnes-maloney-pllc]]"
 ---
+
+**Case:** [[cases/sariya-mason/sariya-mason|Sariya Mason]]
+**Client:** [[cases/sariya-mason/contacts/sariya-mason|Sariya Mason]]
+
 
 CIVIL ACTION NO. 23-CI-006039 JEFFERSON CIRCUIT COURT 
 DIVISION SEVEN (7)

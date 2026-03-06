@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:4a124028f0e2c3f141bc1acd14f263b37d8c0ad6e4dca9812e716aea670c254a
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 _________________________________________ PLAINTIFF
  VS 
 _________________________________________ DEFENDANT

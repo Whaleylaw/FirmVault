@@ -4,6 +4,9 @@ document_category: legal
 legacy_case_id: 2023-04-01-MVA-002
 ---
 
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-Neltner-MVA-4-1-2023/Legal-Documents/Discovery/2023-04-01-Greg-Neltner-Trinity-Cohara-Answers-to-Interrogatories.pdf"
 source_hash: "sha256:c5299c5c7981ff8861ab7af84f171477435476031e9e7d08e2aa93f265d93bf4"

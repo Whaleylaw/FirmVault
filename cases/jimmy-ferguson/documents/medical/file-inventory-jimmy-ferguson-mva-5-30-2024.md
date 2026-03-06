@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:9f20c7b93802ff01635e5137394800eca12e5d8b7a0a3cbbf640f0e89c642cb3
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 item_0.extension: .pdf
 item_0.name: 2024-11-27-Jimmy-Ferguson-Whaley-Law-Firm-Acknowledging-Representation.pdf
 item_0.path: 2024-11-27-Jimmy-Ferguson-Whaley-Law-Firm-Acknowledging-Representation.pdf

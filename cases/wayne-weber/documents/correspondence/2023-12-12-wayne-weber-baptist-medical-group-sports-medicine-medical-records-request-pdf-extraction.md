@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:0c8b304dfe3e5b3ab6d938664e62fe35680fbd64cd9ef8a158a4a86004197ab6
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: medical_requests
 extraction.date: 2023-12-12
 extraction.description: Medical records request to Baptist Medical Group Sports Medicine for Wayne Weber.

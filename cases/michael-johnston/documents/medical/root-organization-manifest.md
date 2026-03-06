@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:b3b1682bf4bee252e552f049cad05c90ec88df379b867766e0cbb72ec234fa7b
 ---
 
+**Case:** [[cases/michael-johnston/michael-johnston|Michael Johnston]]
+**Client:** [[cases/michael-johnston/contacts/michael-johnston|Michael Johnston]]
+
 accident_date: 2023-05-03
 case_type: WC
 client_name: Michael-Johnston

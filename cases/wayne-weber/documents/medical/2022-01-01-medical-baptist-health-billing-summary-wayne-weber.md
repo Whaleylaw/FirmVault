@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:662d00ee6d092279d552404b662dbb7a476d0e8cccc80a75b80b37580c96e020
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 WVMPR2Z02U1MAPO2 [DOB-65] 11:12:59 AM EDT PAGE 2/016 Fax Server Deductible till We, htTee OY Ml
 :
 Approved

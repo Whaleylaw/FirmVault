@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Hope-R
 source_hash: sha256:f8d1b5dc4434767826e2116b222c281dec1863ba91db704edb9e3caa77b37495
 ---
 
+**Case:** [[cases/hope-renee-padgett/hope-renee-padgett|Hope Renee Padgett]]
+**Client:** [[cases/hope-renee-padgett/contacts/hope-renee-padgett|Hope Renee Padgett]]
+
 item_0.jsonb_agg[0].full_name: Hope Renee Padgett
 item_0.jsonb_agg[0].project_name: Hope-Renee-Padgett-MVA-1-16-2023
 item_0.jsonb_agg[0].roles[0]: client

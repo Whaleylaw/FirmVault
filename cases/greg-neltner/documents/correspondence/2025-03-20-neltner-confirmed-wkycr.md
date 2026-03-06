@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-N
 source_hash: sha256:3e8e1c6943dd2ff1b249a67306955e482e631c844d72b91044f0b7da57f1fe5e
 ---
 
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 Subject: Re: Confirmation for 3/21/2025 (112645)
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

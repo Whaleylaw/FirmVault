@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:c7ce5afa50771f775e2e4f7886abff44293593c3d1aec763c69479a9ecdc2c68
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 action_summary.delete_actions: 6
 action_summary.move_actions: 23
 action_summary.post_execution_unique_files: 22

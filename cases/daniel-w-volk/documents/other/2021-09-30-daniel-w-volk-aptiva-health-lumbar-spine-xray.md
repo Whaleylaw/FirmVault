@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel
 source_hash: sha256:6a1f5906dc22e2a9b43518b3bb6dea1290f2af4342f29bdc8d0447083280adce
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 Louisville - East:
 3615 Newburg Road
 Louisville, KY 40218

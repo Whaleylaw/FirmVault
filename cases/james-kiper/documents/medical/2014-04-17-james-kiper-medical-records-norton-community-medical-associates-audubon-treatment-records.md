@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2022-12-05-MVA-001
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Kiper-MVA-12-5-2022/Medical/2014-04-17-James-Kiper-Medical-Records-Norton-Community-Medical-Associates-Audubon-Treatment-Records.pdf"
 source_hash: "sha256:fb9362ce2f96cc3cdd017026cb8f52bca34a43d09d8106bbdc2baec508571183"

@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:67bd316f8d1cf18e12d641ead4aea5d8766c337db2acafa528e80ecb3c40534f
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 Client Information
 Client Name: Wayne E Weber
 Phone Number: [PHONE-1]

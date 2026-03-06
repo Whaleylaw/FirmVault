@@ -1,10 +1,9 @@
 ---
 case_slug: debra-marshall
-created_at: 2026-02-16 23:04:59.087000+00:00
+created_at: {}
 document_category: medical
 document_type: medical
-entities:
-- The Medical Center
+entities: null
 extraction_method: native_text
 legacy_case_id: 2022-12-03-MVA-001
 mime_type: application/pdf
@@ -12,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-Marshall-MVA-12-3-2022/Records-Requests/2024-05-01-Debra-Marshall-The-Medical-Center-At-Caverna-HIPAA-Authorization.pdf
 source_hash: sha256:e057561e1503aa0b06ecdc9330c769eee73a2ef112924e41509c0f3d965e6a32
+contact: "[[cases/2022-12-03-mva-001/contacts/the-medical-center-at-caverna]]"
 ---
+
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 
 The Medical Center At Caverna
 1501 S. Dixie Street

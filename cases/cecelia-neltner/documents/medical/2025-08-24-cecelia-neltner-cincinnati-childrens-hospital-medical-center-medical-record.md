@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2023-04-01-MVA-001
 ---
 
+**Case:** [[cases/cecelia-neltner/cecelia-neltner|Cecelia Neltner]]
+**Client:** [[cases/cecelia-neltner/contacts/cecelia-neltner|Cecelia Neltner]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecelia-Neltner-MVA-4-1-2023/Medical-Records/2025-08-24-Cecelia-Neltner-Cincinnati-Childrens-Hospital-Medical-Center-medical-record.pdf"
 source_hash: "sha256:e47445c4b2d6e2e07c7778661cb50be98f45fc91cc9a9fa14cb4d00e2e5df31f"

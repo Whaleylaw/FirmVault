@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Rebecc
 source_hash: sha256:0dc10c3f2d0371858c476376f138f21daa11d5ac595ac90ba4a3ac356d16db25
 ---
 
+**Case:** [[cases/rebecca-lanier/rebecca-lanier|Rebecca Lanier]]
+**Client:** [[cases/rebecca-lanier/contacts/rebecca-lanier|Rebecca Lanier]]
+
 item_0.jsonb_agg[0].accident_date: 2025-06-28
 item_0.jsonb_agg[0].case_create_date: 2025-12-26T19:49:38.501823
 item_0.jsonb_agg[0].case_type: MVA

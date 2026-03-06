@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:e4231611bbb0b7ba4c7ffd3e1cdec5ac56600eabbb8cedd7ef6f343071ccfc18
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 case_folder: Nayram-Adadevoh-MVA-7-13-2024
 job_id: file-org-216eacdf
 phases.extraction.completed_at: 2026-02-04T09:07:55.938525

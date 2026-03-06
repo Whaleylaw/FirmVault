@@ -2,7 +2,12 @@
 case_slug: abby-sitgraves
 document_category: financial
 legacy_case_id: 2024-07-13-MVA-001
+contact: "[[cases/2024-07-13-mva-001/contacts/jewish-hospital]]"
 ---
+
+**Case:** [[cases/abby-sitgraves/abby-sitgraves|Abby Sitgraves]]
+**Client:** [[cases/abby-sitgraves/contacts/abby-sitgraves|Abby Sitgraves]]
+
 
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Abby-Sitgraves-MVA-7-13-2024/Medical/Jewish Hospital/Medical Bills/2024-07-13 - Abby Sitgraves - Medical Record - Jewish Hospital - ER Bill.pdf"

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:dc65056eb01fb2eb56de938aa48ed4f0b18639028f2ff0be835128c43bb22047
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 category: Insurance
 date: 2024-08-06
 description: Letter dated 8/6/2024 from Kentucky Farm Bureau acknowledging receipt of 7/8/2024 representation letter, honoring benefits direction, identifying PIP and UIM adjusters, and reserving subrogation rights.

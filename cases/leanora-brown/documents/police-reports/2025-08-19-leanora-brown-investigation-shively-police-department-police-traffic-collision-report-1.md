@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Leanor
 source_hash: sha256:790b81af9dca1146ab0a2fab60aac4a27e2166912e5085a6dfdc8573e01901af
 ---
 
+**Case:** [[cases/leanora-brown/leanora-brown|Leanora Brown]]
+**Client:** [[cases/leanora-brown/contacts/leanora-brown|Leanora Brown]]
+
 INVESTIGATOR BEAT OR POST #
 TOTAL LANES
 NO

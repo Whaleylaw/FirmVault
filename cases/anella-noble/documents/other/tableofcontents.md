@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:b46b625366c6cc0ea85484f77e2848012cea16871144aa9ebcd8e96c1f3e0ef4
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 ## Evidence Table of Contents
 
 | File Name | ID | Title | File Type | File Size | Evidence Duration | Date Recorded | Uploader, First Name | Uploader, Last Name | Owner, First Name | Owner, Last Name | Agency Name |

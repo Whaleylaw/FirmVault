@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:85cf8b9ffe99cd4a434c65901b48cd34cc0d5c1ae7ca271a715ec6a802046ce9
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 category: client
 date: 2025-09-24
 description: Organized copy of VineSign document verification certificate showing intake document was signed and verified by Torrey Green on [DOB-1].

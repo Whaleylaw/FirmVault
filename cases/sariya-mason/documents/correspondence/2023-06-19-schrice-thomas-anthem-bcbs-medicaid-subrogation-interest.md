@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya
 source_hash: sha256:be3626e5578718e2000ee9d0814e2564041d2c88419e4f9af852d7e8fd696a8f
 ---
 
+**Case:** [[cases/sariya-mason/sariya-mason|Sariya Mason]]
+**Client:** [[cases/sariya-mason/contacts/sariya-mason|Sariya Mason]]
+
 Fax Confirmation
 To: [PHONE-10] From: [PHONE-9]
 Doc:

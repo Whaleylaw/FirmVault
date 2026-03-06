@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:5ded81bf6531297dc727ee2035bd11d823d4e5ef0363d3d733e5ace19cbeee95
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 1. MEDICARE MEDICAID TRICARE CHAMPVA GROUP
 HEALTH PLAN
 FECA

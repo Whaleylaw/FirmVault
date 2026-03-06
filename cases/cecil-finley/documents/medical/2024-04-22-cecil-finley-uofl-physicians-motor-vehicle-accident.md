@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2024-01-24-MVA-001
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-Finley-MVA-1-24-2024/Medical-Records/2024-04-22-Cecil-Finley-UofL-Physicians-Motor-Vehicle-Accident.pdf"
 source_hash: "sha256:dfae1675c8a74f44fec70c7606b978fa908c9c80b86e648b0f58578278ff1db9"

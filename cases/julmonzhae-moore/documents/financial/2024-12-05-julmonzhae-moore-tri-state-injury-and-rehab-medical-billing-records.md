@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmon
 source_hash: sha256:af556ddefa8f81f99662541a57ede818fce047f26e0bb64d2d13fffdcdc26851
 ---
 
+**Case:** [[cases/julmonzhae-moore/julmonzhae-moore|Julmonzhae Moore]]
+**Client:** [[cases/julmonzhae-moore/contacts/julmonzhae-moore|Julmonzhae Moore]]
+
 Dec.18.2024 11:06AM Tri State Injury and Rehab No.0081 PL3
 CERTIFICATION AON OFOFMEDICAL MEDICALBILLING BILLINGRECORDS RECORDSAFFIDAVIT AFFIDAVIT
 bE) being first duly sworn onhis/her oath, saysthat:

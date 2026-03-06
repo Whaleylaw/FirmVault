@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:7348404e0bb2fdfd1fd9529de06834e207795c26171b5dd304e6dfc599ec3bb1
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 artifacts_created[0]: /Volumes/X10 Pro/projects/Brenda-Lang-MVA-[DOB-9]/reports/extractions/.gitkeep
 artifacts_created[1]: /Brenda-Lang-MVA-[DOB-8]/reports/
 artifacts_created[2]: /Brenda-Lang-MVA-[DOB-7]/reports/case_facts.md

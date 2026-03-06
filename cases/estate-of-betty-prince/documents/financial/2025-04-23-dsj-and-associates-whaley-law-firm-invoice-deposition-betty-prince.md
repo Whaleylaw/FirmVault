@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:41e0f9bffd39f93c964d4f8759981a5c51af6a6b6b49ab55c10ddc43bf8adc67
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 DSJ & ASSOCIATES
 412 HIDDEN LAKES LANE
 Brunswick, GA 31525

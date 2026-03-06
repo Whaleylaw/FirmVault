@@ -4,6 +4,9 @@ document_category: legal
 legacy_case_id: 2020-07-14-PrL-001
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate-of-Betty-Prince-Premise-7-14-2020/Medical/2019-11-14-Robert-Prince-Norton-Healthcare-Medical-Staff-Bylaws.pdf"
 source_hash: "sha256:e736ad66f812f15337d98763f10c6ed0079043b4ac52cbace35e02df3e0051ae"

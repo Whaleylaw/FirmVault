@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:9a855ce049b80ccfc97e9631dc232fbe567f0f1d2f4430cca4521f4d82a7c6a0
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: lien_correspondence
 extraction.date: 2023-11-09
 extraction.description: Motor vehicle accident claim notification sent to Medicare/CMS informing them of Wayne Weber's pending personal injury claim for potential recovery coordination.

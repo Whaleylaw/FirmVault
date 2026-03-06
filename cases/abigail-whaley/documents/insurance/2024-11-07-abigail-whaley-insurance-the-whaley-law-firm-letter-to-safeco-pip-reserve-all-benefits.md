@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Abigai
 source_hash: sha256:1415f74e41bae5cb9c8c8bd2a3f8972e9bfbb37bf79f3ca662dad815a2dbc517
 ---
 
+**Case:** [[cases/abigail-whaley/abigail-whaley|Abigail Whaley]]
+**Client:** [[cases/abigail-whaley/contacts/abigail-whaley|Abigail Whaley]]
+
 Justin Chumbley 
 Justin Chumbley
 Aaron G. Whaley, Esq.

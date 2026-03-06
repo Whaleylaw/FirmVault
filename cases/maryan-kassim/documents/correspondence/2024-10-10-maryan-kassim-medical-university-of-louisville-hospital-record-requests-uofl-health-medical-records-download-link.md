@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:7c7f6cc643aed7c58762e84c67a01d9294d564dba5dfa66ddf10179574c4b925
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 Subject: New Package Notification
 From: [EMAIL-1]
 To: SARENA@WHALEYLAWFIRM.COM

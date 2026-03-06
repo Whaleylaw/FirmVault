@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:272e35c7d0f3c124573a0f9950678f536aaccff6fe6d6839446332ba24b62512
 ---
 
+**Case:** [[cases/christopher-lanier/christopher-lanier|Christopher Lanier]]
+**Client:** [[cases/christopher-lanier/contacts/christopher-lanier|Christopher Lanier]]
+
 address: 1962 Hirsch Court, Union, KY 41091
 date_of_birth: [DOB-1]
 imported_at: 2026-02-16T21:09:42.776Z

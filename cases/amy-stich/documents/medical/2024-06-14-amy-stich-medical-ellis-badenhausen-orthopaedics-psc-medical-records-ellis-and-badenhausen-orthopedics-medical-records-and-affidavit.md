@@ -19,6 +19,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:29a652bb2b05758ead44d5dc131e702579a3aba8dc00f43444045b007e9a0a1a
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 13-Jan-2025 16:01 [PHONE-152] [PHONE-151] p.5
 CERTIFICATION OF MEDICAL RECORDS AFFIDAVIT |
 LU:Choe / Grad ,being first duly sworn on his/her oath, says that:

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:054b937fcdc42d325e165a04786313b835d70fc2b2d5ccf8250ad2be30aee20b
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: legal_correspondence
 date: 2025-03-31
 description: Notice of representation from Coghlan Law LLC dated March 31, 2025.

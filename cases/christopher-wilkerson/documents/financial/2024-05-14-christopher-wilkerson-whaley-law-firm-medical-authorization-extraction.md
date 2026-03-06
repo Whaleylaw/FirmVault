@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:d9a9166f58176fa22ef61bc2e0b9ded615a62510e81b73948f76b9d1959741d0
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 category: Client
 confidence: high
 description: Medical authorization form from Whaley Law Firm requesting payment for services provided or expenses incurred. DocuSign document. Dated May 14, 2024.

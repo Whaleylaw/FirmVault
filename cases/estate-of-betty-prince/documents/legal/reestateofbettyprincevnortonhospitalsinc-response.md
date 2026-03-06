@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:8ccc5ce0f1485cdf13da81ef713330dfbb74082afc10c9a41778be29caea60b9
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 Subject: Re: Estate of Betty Prince v Norton Hospitals Inc - Response to RFA/Interrogatory
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:7377f3310783edf4fbbc141fc90bde3729ac148c8b4689e55c5388d3e5a1668c
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 Social Security Administration Form Approved
 Consent for Release of Information OMB No. 0960-0566
 You must complete all required fields. We will not honor your request unless all required fields are completed. (*signifies a

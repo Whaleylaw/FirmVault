@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:e3a4d07232bbbcbdb0be317b13fcd6d665ff45e1f674ffb3be4a73f0f23093a2
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 Subject: Completed: Complete with DocuSign: 2021 Whaley MVA Fee Agreement.pdf, 2021 Whaley Medical Authorization (H...
 From: [EMAIL-2]
 To: [EMAIL-2]

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:2b182bc41279478a4863e84158b078a9addc689e99a10e82c4f5ff3f476743e6
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 Subject: The Defense Counsel's Discovery Requests
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

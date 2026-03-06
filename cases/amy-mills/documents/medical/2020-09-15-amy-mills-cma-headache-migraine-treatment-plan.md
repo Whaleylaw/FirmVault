@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:18c47a2e031e5f0976058158d702ee0e4117ee8f1266f48fce925e0e57e3686f
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Taking
 « Diclofenac Sodium 75 MG Tablet Delayed
 Release Oral

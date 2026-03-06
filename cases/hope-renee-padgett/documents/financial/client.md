@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Hope-R
 source_hash: sha256:ea99984eaa6193bfc6690a67059158801a080185bed535681209cfd29c54fe0f
 ---
 
+**Case:** [[cases/hope-renee-padgett/hope-renee-padgett|Hope Renee Padgett]]
+**Client:** [[cases/hope-renee-padgett/contacts/hope-renee-padgett|Hope Renee Padgett]]
+
 address: 2112 Robin Ln, , Mount Sterling, KY 40353
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

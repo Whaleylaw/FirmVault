@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:c8cea3d50c1c90d84dd10f1f9811cb747edff0090ba38d1d29c30ff49a1802e9
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 08-13 24 15:18 FROM- CHC CFR Cashiers [PHONE-27] T-275 PQQ] /0010 F-844.
 FAX COVER SHEET
 DATE: TIME:

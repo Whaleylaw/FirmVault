@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Connie
 source_hash: sha256:04f8785431a148d23ac737d35af056a904fa517cfda7c6522c36023a6129e95b
 ---
 
+**Case:** [[cases/connie-goree/connie-goree|Connie Goree]]
+**Client:** [[cases/connie-goree/contacts/connie-goree|Connie Goree]]
+
 [POLICY-1] PPG 
 %%DPS::DUPLEX 
 AAATTDTTTFDADATAFTTAAFFATFTDAFTTDATDTTDTFAFFAFAAFFTDFTTDTAAAAAFDA

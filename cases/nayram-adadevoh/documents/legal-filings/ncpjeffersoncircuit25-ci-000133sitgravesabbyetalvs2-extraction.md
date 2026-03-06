@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:435a5d0fc83454b841b35e86872f200f60f69a5b8ab33a47cb1703a3309be639
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: court_filing_notice
 date: 2025-03-24
 description: Court filing notification (NCP) from Jefferson Circuit Court confirming acceptance of Notice of Service filed by Samuel Leffert (attorney for defendant) in case 25-CI-000133, Sitgraves v. Caal Worldwide. Date and Time Processed: March 24, 2025 at 12:54PM Eastern.

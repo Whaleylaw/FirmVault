@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/France
 source_hash: sha256:bf2cd50ae8e1d86d2c02a196460a8e910c3177a9f838ac2cc8a33ee57384bce0
 ---
 
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Frances-Whitis-WC-MVA-9-6-2024/Litigation/2025-01-16-Frances-Whitis-WC-Litigation-KY-Dept-Workers-Claims-Notice-of-Filing-of-Application.jpg

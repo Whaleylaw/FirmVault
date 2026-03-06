@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:55d784ed566363f8241f0f3fb54e18b5a9220f28bc32ce0aed3f75b5d744aa4f
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 USPS Tracking’ FAQs >
 Track Packages Get the free Informed Delivery® feature to receive
 Anytime, Anywhere automated notifications on your packages

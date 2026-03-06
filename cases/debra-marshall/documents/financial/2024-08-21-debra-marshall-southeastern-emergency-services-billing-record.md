@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:97d9c8a765a42ff0aeba7d149ba72997c5f8e224668617f5ca3d62d0746c3179
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 Southeastern Emergency Services, LLC
 Make check payable to:
 ChartSwap

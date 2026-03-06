@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:62e7f9cb4282699f09d36124bdfd210c1db349440ada9578605af14ef20bb789
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Subject: Appt. Request Acknowledgement - Thu, Jul 14 2022
 From: [EMAIL-5]
 To: Sarena@WhaleyLawFirm.com

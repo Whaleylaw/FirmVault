@@ -1,11 +1,10 @@
 ---
 case_slug: anella-noble
-created_at: 2026-02-16 22:02:36.404000+00:00
+created_at: {}
 document_category: court-filings
-document_date: 2023-04-17
+document_date: {}
 document_type: court_filing
-entities:
-- State Farm
+entities: null
 extraction_method: native_text
 legacy_case_id: 2021-01-03-MVA-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella-Noble-MVA-01-03-2021/Court-Pleadings/2023-03-27-Anella-Noble-Motion-to-Substitute-Defendant-Unknown-Driver.pdf
 source_hash: sha256:9dac6682a0365a11b143ae73f682499672d8d4f97d8573557cb363296fb58e22
+contact: "[[cases/2021-01-03-mva-001/contacts/unknown-driver]]"
 ---
+
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 
 NO. 21-CI-004985 JEFFERSON COUNTY CIRCUIT COURT 
 DIVISION FIVE (5)

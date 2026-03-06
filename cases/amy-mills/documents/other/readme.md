@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:2fc50e5b2718db85f3c2a2e5d11e36165037ff7353d2f403e95f1e7753818d55
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 CPHub Records Directory
 
 The Records directory contains all files related to a case that you wish to store.

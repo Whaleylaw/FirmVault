@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:d19f745eb5b7b19148fe3d910b229bb129eb045f6c9117c1fb5e326df2118bc4
 ---
 
+**Case:** [[cases/james-sadler/james-sadler|James Sadler]]
+**Client:** [[cases/james-sadler/contacts/james-sadler|James Sadler]]
+
 XXXXX4855
 Patient Total:
 Lien Type:

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:720ed65c288c830274dded2bbb2db5d75b2e16b3b18648623d9b8a340637aa46
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 a. LEGAL FUNDING PARTNERS, LLC
 al =m= ASSIGNMENT AND PURCHASE AGREEMENT
 Assignee/Purchaser: Legal Funding Partners, LLC (“LF”)

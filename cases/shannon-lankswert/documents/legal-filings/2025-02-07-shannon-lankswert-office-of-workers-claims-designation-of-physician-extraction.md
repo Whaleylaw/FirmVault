@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:3712e49f170d32683c0d998b1afec5dfac00e547c1b5ee7d35ece0855927bf39
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 extraction.category: Client
 extraction.date: 2025-02-07
 extraction.description: Designation of Physician form for workers compensation claim

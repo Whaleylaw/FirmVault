@@ -1,20 +1,23 @@
 ---
 case_slug: muhammad-alif
-created_at: 2026-02-17 00:10:56.892000+00:00
+created_at: {}
 document_category: medical
-document_date: 1961-04-16
+document_date: {}
 document_type: medical
-entities:
-- Claude Fortin
+entities: null
 extraction_method: native_text
 legacy_case_id: 2022-11-08-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Axon
-  Medical Centers/Medical Records/2025-01-30-Muhammad-Alif-Medical-Axon Medical Centers-Medical-Records-Claude-Fortin-MD-Posturography-Test-Results.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Axon Medical Centers/Medical Records/2025-01-30-Muhammad-Alif-Medical-Axon Medical Centers-Medical-Records-Claude-Fortin-MD-Posturography-Test-Results.pdf
 source_hash: sha256:cee17417c958b8a05f56ae659fdaae42414144d481d731b8595610f495564a8d
+contact: "[[cases/2022-11-08-mva-001/contacts/axon-medical-centers]]"
 ---
+
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 
 Computerized Dynamic Posturography
 Patient Name: MUHAMMAD ALIF

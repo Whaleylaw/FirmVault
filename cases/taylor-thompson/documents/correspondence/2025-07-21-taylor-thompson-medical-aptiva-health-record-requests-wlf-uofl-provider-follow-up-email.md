@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor
 source_hash: sha256:36425c9971665edd428ce6b6dc7239409863f7cf492121374e131b8cc4d52cc8
 ---
 
+**Case:** [[cases/taylor-thompson/taylor-thompson|Taylor Thompson]]
+**Client:** [[cases/taylor-thompson/contacts/taylor-thompson|Taylor Thompson]]
+
 Subject: Re: 16945402 - Thompson, Taylor v Rita Beechler UofL Follow up
 From: [EMAIL-1]
 To: [EMAIL-2]

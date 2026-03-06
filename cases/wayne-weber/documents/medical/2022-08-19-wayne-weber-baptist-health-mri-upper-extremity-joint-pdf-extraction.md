@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:2bf3697515e9c8a7bf0737941f8c18230899c6b9ae28eee24e006cd49992ce12
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: medical_record
 extraction.date: 2022-08-19
 extraction.description: MRI imaging record of upper extremity joint from Baptist Health for patient Wayne Weber dated August 19, 2022.

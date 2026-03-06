@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:7c9b9d429240142f0bbd7afe484956ada690022e070268c7122f5860dc72bb48
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 category: medical
 date: 1998-11-05
 description: Organized copy of HIPAA medical authorization form for Louisville Metro EMS dated 11/5/1998.

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:4496b7d40b2ff8e6be209280aaacddf3cc7d79928cc24eadf3fbcae5e1e3497f
 ---
 
+**Case:** [[cases/shannon-colvin/shannon-colvin|Shannon Colvin]]
+**Client:** [[cases/shannon-colvin/contacts/shannon-colvin|Shannon Colvin]]
+
 sharecare
 CERTIFICATION EEREEEVALINOFOFMEDICAL MEDICAL RECORDS RECORDS
 As the Release of Information service provider for: Baptist Health Hardin

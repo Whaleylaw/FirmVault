@@ -21,6 +21,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:462fac938e212b1cdde4ce57ed7fba735a6a18d6502aee6e4a32956887993d4c
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 item_0.author_name: Fuel Digital RingCentral Integration Service Account
 item_0.episode_type: imported
 item_0.last_activity: 2025-10-27T00:00:00

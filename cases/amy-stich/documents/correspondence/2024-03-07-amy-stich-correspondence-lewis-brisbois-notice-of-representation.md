@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:abbd49c182a4bc06dfe5c12c4379e566bf853afb5730574127bcb3b9a708c638
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 Judd R. Uhl
 2333 Alexandria Drive
 Lexington, KY 45404

@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:facec337a14d68ee467ec6c985f5107372c3fb0c1da7a617854ef0cf1002c72b
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 item_0.amount_owed_from_settlement: 46260.51
 item_0.date_notice_received: 2023-12-05
 item_0.final_lien_amount: 46260.51

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:1c0ec45fbc4cd26af4649775e6f2def215b9d48cbdccf76e6b12c259d115df8d
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 extraction.category: Insurance
 extraction.date: 2025-02-08
 extraction.description: Workers Compensation First Report of Injury filed by employer

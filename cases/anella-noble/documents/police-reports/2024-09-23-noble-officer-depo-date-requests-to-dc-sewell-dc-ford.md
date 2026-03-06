@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:7762db3c5cda0a74e5f74ec4277e18575b4b5ad5145d9ebf196ddb09f76b63ad
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: Anella Noble v Virginia Sewell - Officer Depositions - Office Lovewell & Office Bond
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

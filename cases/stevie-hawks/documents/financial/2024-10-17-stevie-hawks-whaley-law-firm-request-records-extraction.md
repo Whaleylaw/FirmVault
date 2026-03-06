@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie
 source_hash: sha256:5b70b3bffde7f05ad2e0932e1874abad098ea5f2303a49b7c69ada98a6f315f5
 ---
 
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 category: Medical Records Request
 date: 2024-10-17
 description: Letter from Whaley Law Firm to Med Center Health Primary requesting itemized billing and medical records for Stevie Hawks from 3/6/2024 to [DOB-1]

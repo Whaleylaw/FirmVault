@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:3195c0248642ba125d05988edc838252b24eb10de216dbb6da33a75e0823ea57
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 Aaron G. Whaley, Esq. 712 Lyndon Lane aus Louisville, KY 40222
 
 | A | Ph: [PHONE-1] : Fax: [PHONE-2]

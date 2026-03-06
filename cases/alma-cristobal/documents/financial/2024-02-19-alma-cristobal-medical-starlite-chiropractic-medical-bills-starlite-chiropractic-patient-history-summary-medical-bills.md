@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:53ca60b9988a5cdf727e20957858378382099ff6ba7d2e85b04e0faac4e5d06b
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 Oct.07.2024 12:04 AM [PHONE-1] Fol
 
 eHe mi te Pana ane acm miild xf H ’ e Fy ¥ } Mi 5 t ; i 4 4 ' Hog | } Wt j y * 1 | ‘ i \ j ut Wi 3 i } at Y i) ‘ 4

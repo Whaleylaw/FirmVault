@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:1e696e9da8cb4b64435ec555725905e0bd5f326490935dadd6131f4ec037b64a
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 date: 2024-05-30
 description: Photo showing damage to the passenger side of Jimmy Ferguson's red Toyota Camry, taken at the scene.
 original_path: Jimmy-Ferguson-MVA-5-30-2024/dcb02314-b4fd-43c1-ac60-b150aa14beb2.jpg

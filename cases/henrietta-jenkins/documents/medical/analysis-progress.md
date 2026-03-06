@@ -19,6 +19,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Henrie
 source_hash: sha256:f037915c8f85072734cc7b13d5f7fd06ed91d63aa368d56edd17eac95165162e
 ---
 
+**Case:** [[cases/henrietta-jenkins/henrietta-jenkins|Henrietta Jenkins]]
+**Client:** [[cases/henrietta-jenkins/contacts/henrietta-jenkins|Henrietta Jenkins]]
+
 artifacts_created[0]: /Volumes/X10 Pro/projects/Henrietta-Jenkins-MVA-5-20-2025/reports/extractions/
 artifacts_created[1]: /Henrietta-Jenkins-MVA-5-20-2025/reports
 artifacts_created[2]: /Volumes/X10 Pro/projects/Henrietta-Jenkins-MVA-5-20-2025/reports/case_facts.md

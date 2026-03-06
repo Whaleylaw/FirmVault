@@ -1,6 +1,6 @@
 ---
 case_slug: muhammad-alif
-created_at: 2026-02-17 00:11:17.204000+00:00
+created_at: {}
 document_category: medical
 document_type: medical
 extraction_method: native_text
@@ -8,11 +8,14 @@ legacy_case_id: 2022-11-08-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/KORT
-  Physical Therapy - Shelbyville/Medical Records/2022-12-12-Muhammad-Alif-Medical-KORT
-  Physical Therapy - Shelbyville-Medical-Records-Kort-Partners-in-Physical-Therapy-Medical-Records-Affidavit.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/KORT Physical Therapy - Shelbyville/Medical Records/2022-12-12-Muhammad-Alif-Medical-KORT Physical Therapy - Shelbyville-Medical-Records-Kort-Partners-in-Physical-Therapy-Medical-Records-Affidavit.pdf
 source_hash: sha256:d270217e1f483aa249ad77d37fc533cfe45f0613a0d19f8db85cae54f53d4c7e
+contact: "[[cases/2022-11-08-mva-001/contacts/kort-physical-therapy-shelbyville]]"
 ---
+
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 
 CERTIFICATION OF MEDICAL RECORDS AFFIDAVIT
 Mariel Sosa ,being first duly sworn on his/her oath, says that:

@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:168629f4eef6738bc9108be3f2c55eae057edb69b8fb5ca6eff2b9df8fba6ca7
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 item_0.extension: .md
 item_0.name: 2025-06-10-timothy-ruhl-depo-notice-to-plaintiff 1.md
 item_0.path: 2025-06-10-timothy-ruhl-depo-notice-to-plaintiff 1.md

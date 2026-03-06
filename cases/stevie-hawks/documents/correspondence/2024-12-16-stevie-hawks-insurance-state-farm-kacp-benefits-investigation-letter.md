@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Stevie
 source_hash: sha256:1a34ee98d12e9358140f272172217b0212a85850f7beacb59017df2c1be39408
 ---
 
+**Case:** [[cases/stevie-hawks/stevie-hawks|Stevie Hawks]]
+**Client:** [[cases/stevie-hawks/contacts/stevie-hawks|Stevie Hawks]]
+
 Providing insurance and Financial Services SSStateFarin
 Home Office, Bloomington, IL __
 December 16, 2024

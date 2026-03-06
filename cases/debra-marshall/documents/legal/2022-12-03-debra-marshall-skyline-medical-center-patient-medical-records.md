@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:e4b505039400618e033d025ec9226c94fe60cf776fdaea8f3e713ca362690eab
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 Patient: Debra Marshall Medical Record Number: G001075275
 Facility; Skyline Medical Center Phone Number: [PHONE-1]
 Address: _3441 Dickerson Pike City/State: _Nashville, TN Zip: 37207

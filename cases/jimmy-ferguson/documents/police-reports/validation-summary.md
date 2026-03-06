@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:0dbdf867c038ec0a833286498c16bd0c0de4eecd3d3316a82dc44c3098b83861
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 action_items[0].action: Review mapping line 74 - Baptist Health Hardin date mismatch
 action_items[0].assigned_to: Case Manager
 action_items[0].priority: CRITICAL

@@ -1,11 +1,10 @@
 ---
 case_slug: james-sadler
-created_at: 2026-02-16 23:55:17.992000+00:00
+created_at: {}
 document_category: medical
-document_date: 2023-05-22
+document_date: {}
 document_type: medical
-entities:
-- Dr. Taryn Wilson
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-04-07-MVA-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Sadler-MVA-4-07-2023/Medical/2023-07-19-James-Sadler-Aiken-Family-Dentistry-TMJ-Pain-Treatment.pdf
 source_hash: sha256:5ae6c49e8742839ad2dc26fd2f73d9e2889da56dd9e7fbf2fc8dc953285a7345
+contact: "[[cases/2023-04-07-mva-001/contacts/aiken-family-dentistry]]"
 ---
+
+**Case:** [[cases/james-sadler/james-sadler|James Sadler]]
+**Client:** [[cases/james-sadler/contacts/james-sadler|James Sadler]]
+
 
 TIME 2:03 PM Aiken Family Dentistry PSC DATE 7/19/2023
 Patient Notes Master

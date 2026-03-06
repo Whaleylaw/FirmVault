@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:3a88ecaef04faea774242ed24895ef2274ea95889f093782316d8e25994609cb
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 address: 1249 Race Track Road, , Milton, KY 40045
 date_of_birth: [DOB-1]
 imported_at: 2026-02-16T21:09:46.035Z

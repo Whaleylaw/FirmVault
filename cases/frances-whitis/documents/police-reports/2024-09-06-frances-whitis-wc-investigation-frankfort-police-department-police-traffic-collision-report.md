@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/France
 source_hash: sha256:43be5507fda93c518726aa354565eb1b2fcde654ba98f1fe6c60b96709727943
 ---
 
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 INVESTIGATOR BEAT OR POST #
 TOTAL LANES
 NO

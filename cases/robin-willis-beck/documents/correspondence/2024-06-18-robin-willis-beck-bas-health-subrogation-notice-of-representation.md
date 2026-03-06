@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:c8538d57b741d7d0b52bd72000c4d06dbc4fdd714243296c14320025f2ba7aab
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 712 Lyndon Lane ● Louisville, KY 40222 ● Phone: [PHONE-6] ● Fax: [PHONE-2] 
 June 18, 2024 
 Sent via fax to: [PHONE-3] 

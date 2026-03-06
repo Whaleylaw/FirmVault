@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:2291d68e94459d8e110c6ed4c92289e9ce886d109945b2feb721e30692930e50
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 category: Medical
 description: Hospital billing statement for emergency room services, diagnostic radiology (knee x-ray), and self-administered drugs from August 6, 2024, totaling $1,612.00 with managed Medicaid payment adjustments.
 entities[0]: Maryan Kassim

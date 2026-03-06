@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:db7e9d707831b85221605db009c35ac57f890d3ab5426af04ef4d447380e3c18
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 CONTRACT FOR LEGAL SERVICES
 
 Douglas Livers ; i _ I, ~ousee , hereby retain and employ the law office of THE WHALEY LAW FIRM (hereinafter “Law Office’ *) as my attomeys to represent me in my claims

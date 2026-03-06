@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:4d18297889468e7b0b8b72056d579b0822eda940defd197febf4ec85c3799b8a
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 AUTHORIZATION TO RELEASE PROTECTED HEALTH CARE INFORMATION
 
 TO: Aetna Better Health of Kentucky

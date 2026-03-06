@@ -1,12 +1,10 @@
 ---
 case_slug: destiny-adkins
-created_at: 2026-02-16 23:26:20.799000+00:00
+created_at: {}
 document_category: court-filings
-document_date: 2021-04-16
+document_date: {}
 document_type: court_filing
-entities:
-- State Farm
-- Allstate
+entities: null
 extraction_method: native_text
 legacy_case_id: 2021-04-16-MVA-001
 mime_type: application/pdf
@@ -14,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Destiny-Adkins-MVA-04-16-2021/Legal-Documents/Pleadings/2022-07-14-Destiny-Adkins-Allstate-Insurance-Company-Motion-for-Judgment-on-Pleadings.pdf
 source_hash: sha256:f6cc1094d09f56ae45036623f0e119830b385ac70659106b0627d034c9d50ecc
+contact: "[[cases/2021-04-16-mva-001/contacts/allstate-insurance]]"
 ---
+
+**Case:** [[cases/destiny-adkins/destiny-adkins|Destiny Adkins]]
+**Client:** [[cases/destiny-adkins/contacts/destiny-adkins|Destiny Adkins]]
+
 
 erson Circuit Clerk
 NO. 22-C]-002878 JEFFERSON CIRCUIT COURT

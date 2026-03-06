@@ -1,12 +1,10 @@
 ---
 case_slug: hope-renee-padgett
-created_at: 2026-02-16 23:48:49.159000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1966-07-24
+document_date: {}
 document_type: correspondence
-entities:
-- Baptist Health Medical Group
-- Baptist Health
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-01-16-MVA-001
 mime_type: application/pdf
@@ -14,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Hope-Renee-Padgett-MVA-1-16-2023/Medical/2024-08-05-Hope-Renee-Padgett-Baptist-Health-Medical-Group-Neurology-Request-for-records.pdf
 source_hash: sha256:ddce42a941ebe29cc41ffc84082ed0d0e5873e81b0ab17f0252fc94668a01725
+contact: "[[cases/2023-01-16-mva-001/contacts/baptist-health-medical-group-neurology]]"
 ---
+
+**Case:** [[cases/hope-renee-padgett/hope-renee-padgett|Hope Renee Padgett]]
+**Client:** [[cases/hope-renee-padgett/contacts/hope-renee-padgett|Hope Renee Padgett]]
+
 
 BAPTIST HEALTH DC1 8/20/2024 12:03:44 PM PAGE 1/006 Fax Server
 Nd BAPTIST HEALTH’ BA

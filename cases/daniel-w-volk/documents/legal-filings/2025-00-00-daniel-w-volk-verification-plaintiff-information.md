@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel
 source_hash: sha256:231b0067ca506fa015c58c757299f4c25299e697ff38b373841dcea429524dd4
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 VERIFICATION 
 I hereby certify that the information contained in the foregoing answers and responses are 
 true and correct to the best of my knowledge. 

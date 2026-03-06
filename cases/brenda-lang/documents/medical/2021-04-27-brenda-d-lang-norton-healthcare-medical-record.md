@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:f0393c977100b95e9c3fdf7501130049487d780b086bece72199d1844dded8ba
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 Patient: Lang,Brenda D
 Account ID: 207037254
 Norton Healthcare

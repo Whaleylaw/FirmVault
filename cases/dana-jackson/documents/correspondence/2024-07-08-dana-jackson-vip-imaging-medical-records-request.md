@@ -1,8 +1,8 @@
 ---
 case_slug: dana-jackson
-created_at: 2026-02-16 22:39:46.764000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1971-06-20
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2024-01-24-MVA-002
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dana-Jackson-MVA-1-24-2024/Medical-Records/2024-07-08-Dana-Jackson-VIP-Imaging-Medical-Records-Request.pdf
 source_hash: sha256:dea66efd3815c4f4ee3c166ab031aa8c877b75cabb7024b72662f12fda625170
+contact: "[[cases/2024-01-24-mva-002/contacts/vip-imaging]]"
 ---
+
+**Case:** [[cases/dana-jackson/dana-jackson|Dana Jackson]]
+**Client:** [[cases/dana-jackson/contacts/dana-jackson|Dana Jackson]]
+
 
 Aaron G. Whaley, Esq.
 712 Lyndon Lane

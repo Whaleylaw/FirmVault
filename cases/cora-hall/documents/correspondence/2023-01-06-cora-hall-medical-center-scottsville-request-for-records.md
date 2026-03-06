@@ -4,6 +4,9 @@ document_category: correspondence
 legacy_case_id: 2022-12-05-OTH-001
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-Hall-WC-[DOB-1]/Medical/2023-01-06-Cora-Hall-Medical-Center-Scottsville-Request-for-records.pdf"
 source_hash: "sha256:e7b47ecb3a5d6eebb442af0992985a88f91f37afdb992c0359f713caa92c9c8a"

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maia-O
 source_hash: sha256:ac103499038df537fb7598aa7dbebcd7b37d99adebe87d77edc4ab94ce42b0c7
 ---
 
+**Case:** [[cases/maia-ott/maia-ott|Maia Ott]]
+**Client:** [[cases/maia-ott/contacts/maia-ott|Maia Ott]]
+
 accident_date: 2025-08-06
 case_type: MVA
 client_name: Maia-Ott

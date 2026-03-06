@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:2effa738df50212dfaab6d04692ff8d67bfc11f0651392242d9018ac841786ad
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 IMAGING
 PATIENT: CRISTOBAL-AVENDANO, 
 ALMA

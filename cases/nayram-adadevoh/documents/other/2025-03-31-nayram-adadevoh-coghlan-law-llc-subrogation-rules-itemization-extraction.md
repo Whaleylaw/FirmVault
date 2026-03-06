@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:610f74eed5828caa5acc49d8c9fb723e6692cd2ec9399b003c25f6707b409647
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: legal_correspondence
 date: 2025-03-31
 description: Subrogation rules and itemization document from Coghlan Law LLC dated March 31, 2025.

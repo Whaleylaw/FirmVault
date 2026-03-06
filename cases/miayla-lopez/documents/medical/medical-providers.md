@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Mi'Ayl
 source_hash: sha256:652b64f2a2fc06d2ec19c6e679b84f06d37d7e8b06a02c693f1111e3f909b127
 ---
 
+**Case:** [[cases/miayla-lopez/miayla-lopez|Mi'Ayla Lopez]]
+**Client:** [[cases/miayla-lopez/contacts/miayla-lopez|Mi'Ayla Lopez]]
+
 item_0.project_name: Mi'Ayla-Lopez-MVA-[DOB-2]
 item_0.provider_full_name: Starlite Chiropractic
 item_1.parent_facility: UofL Health

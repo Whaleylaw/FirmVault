@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:5ddbac558743a8810c4d174d7cd4f11393a7e13c80ab4390a66479acafa0f8d4
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 UKHC 3/20/2023 8:45:27 AM EDT PAGE 1/015 Fax server
 Efealtihntlare
 Fax Transmission

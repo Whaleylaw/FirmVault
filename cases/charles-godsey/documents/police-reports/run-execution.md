@@ -21,6 +21,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:7f85f19e573e09f34fec491ac219edd901ed7cfe7ad70578be6f1fcff4a6e3d6
 ---
 
+**Case:** [[cases/charles-godsey/charles-godsey|Charles Godsey]]
+**Client:** [[cases/charles-godsey/contacts/charles-godsey|Charles Godsey]]
+
 ================================================================================
 EXECUTION COMMAND
 ================================================================================

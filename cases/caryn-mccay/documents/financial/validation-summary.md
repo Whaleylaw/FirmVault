@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-
 source_hash: sha256:698821d616ec56f05ad41c33f1ac176567883736a849748147a2d3bf0c0c37a4
 ---
 
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 automated_validation_results.bucket_validation.bucket_distribution.Case Information: 1
 automated_validation_results.bucket_validation.bucket_distribution.Client: 8
 automated_validation_results.bucket_validation.bucket_distribution.Expenses: 7

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:1574cfea3d8cb1058a061bfc5a48865656e7a75ccfde49e01e13fc56af7f0ecb
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 Norton Hospital – Downtown Louisville
 200 E. Chestnut Street
 Louisville, KY 40202

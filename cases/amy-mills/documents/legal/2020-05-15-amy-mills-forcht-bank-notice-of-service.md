@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:e2ed3140944f62ba38d28b9142c046454f8d9c910b7f4fe7246cef76040cc899
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 COMMONWEALTH OF KENTUCKY KNOX CIRCUIT COURT DIVISION TWO CIVIL ACTION NO. 20-CI-00112 (Filed Electronically)
 
 AMY MILLS PLAINTIFF V. NOTICE OF SERVICE FORCHT BANK DEFENDANT

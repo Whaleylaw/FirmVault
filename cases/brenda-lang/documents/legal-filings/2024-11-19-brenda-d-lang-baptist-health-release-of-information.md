@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:9be7c556062f3776122b7073ea53d451d8fffbf9de39e3946992f9fb79897f9f
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 Release of Information
 Baptist Health
 2600 Stanley Gault Pkwy.

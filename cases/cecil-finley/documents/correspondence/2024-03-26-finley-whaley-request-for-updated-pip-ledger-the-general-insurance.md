@@ -1,8 +1,8 @@
 ---
 case_slug: cecil-finley
-created_at: 2026-02-16 22:20:25.632000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 2024-01-24
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2024-01-24-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-Finley-MVA-1-24-2024/Insurance/2024.03.26-Finley-Whaley-Request-for-Updated-PIP-Ledger-The-General-Insurance.docx
 source_hash: sha256:c2dbea8b61c62409cbaa41530d5342a6b998a9d8ccaa3ba2eb0864bb13f1af86
+contact: "[[cases/2024-01-24-mva-001/contacts/the-general-insurance]]"
 ---
+
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 
 *Aaron G. Whaley, Esq.*
 *712 Lyndon Lane*

@@ -19,6 +19,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:24cd7f4c6ae2649193c27f9b26a62966ae7b3cf3814af97af072f1d0ca0a272a
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 case_name: Maryan-Kassim-MVA-[DOB-1]
 generated_at: 2026-02-04T19:46:46.275144Z
 mappings[0].action: MOVE

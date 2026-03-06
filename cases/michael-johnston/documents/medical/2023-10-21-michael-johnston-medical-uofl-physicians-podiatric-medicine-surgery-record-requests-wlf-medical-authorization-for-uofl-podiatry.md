@@ -1,21 +1,23 @@
 ---
 case_slug: michael-johnston
-created_at: 2026-02-17 00:07:09.732000+00:00
+created_at: {}
 document_category: medical
-document_date: 1978-04-21
+document_date: {}
 document_type: medical
-entities:
-- University of Louisville
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-05-03-OTH-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michael-Johnston-WC-05-03-2023/Medical/UofL
-  Physicians - Podiatric Medicine & Surgery/Record Requests/2023-10-21-Michael-Johnston-Medical-UofL
-  Physicians - Podiatric Medicine & Surgery-Record-Requests-WLF-Medical-Authorization-for-UofL-Podiatry.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michael-Johnston-WC-05-03-2023/Medical/UofL Physicians - Podiatric Medicine & Surgery/Record Requests/2023-10-21-Michael-Johnston-Medical-UofL Physicians - Podiatric Medicine & Surgery-Record-Requests-WLF-Medical-Authorization-for-UofL-Podiatry.pdf
 source_hash: sha256:fa9dec458b8d686711f9a396f02077ebb24901ccefa4b046e1765a2eebc2e9b8
+contact: "[[cases/2023-05-03-oth-001/contacts/uofl-physicians-podiatric-medicine-surgery]]"
 ---
+
+**Case:** [[cases/michael-johnston/michael-johnston|Michael Johnston]]
+**Client:** [[cases/michael-johnston/contacts/michael-johnston|Michael Johnston]]
+
 
 [DOB-1]
 ***-**-1727 [DOB-1]

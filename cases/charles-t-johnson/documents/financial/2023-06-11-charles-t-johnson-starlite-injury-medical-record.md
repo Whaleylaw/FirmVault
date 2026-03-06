@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:a4fa112e46364c0451dd6ff47f74852cad25e4afe023015a0de54d1e79717c9e
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 07-24"a3°11 FROM
 1/207 20; 4 ByDateof Service Patient History
 - Summary

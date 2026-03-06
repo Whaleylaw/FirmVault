@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:8301910907569825637c352050acf3a17d829f4c7fc4d6c7773d425ffb8a7637
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 Certificate Of Completion
 Envelope Id: 53875103-F51B-4ACB-8773-F74EA729DB73 Status: Completed
 Subject: The Whaley Law Firm has requested your signature. Follow the prompts to execute the attached. 

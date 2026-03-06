@@ -19,6 +19,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-
 source_hash: sha256:4d3b9d7a1b169cee35e6f272100806bc006a337283482710c480da63082800c9
 ---
 
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 category: medical_bill
 date: 2025-05-15
 description: Anesthesia bill for knee surgery on 5/15/2025. Services provided by CRNA and MD at Orthopaedic Surgery Center. Total charges after insurance: $641.71 due. Statement dated 6/7/2025.

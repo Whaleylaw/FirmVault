@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ceceli
 source_hash: sha256:b5ff85ef1bdc5d5ea194e826ac0159d1c60e1f41ec46a307faab0f84fc70197c
 ---
 
+**Case:** [[cases/cecelia-neltner/cecelia-neltner|Cecelia Neltner]]
+**Client:** [[cases/cecelia-neltner/contacts/cecelia-neltner|Cecelia Neltner]]
+
 Providing Insurance and Financial Services S&SStateFarm:
 Home Office, Bloomington, IL
 April 3, 2024

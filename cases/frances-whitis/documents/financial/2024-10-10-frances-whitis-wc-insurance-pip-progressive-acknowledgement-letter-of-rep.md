@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/France
 source_hash: sha256:efec83fff6c0b9ceb2696b4539b8bd728658d03fc09e1257ae9d9574592a386a
 ---
 
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 PROGRESSIVE CLAIMS
 P.O. BOX 2930
 CLINTON, IA 52733-9934

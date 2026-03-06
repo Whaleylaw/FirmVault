@@ -19,6 +19,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:b3417dd670e4e92a9a01c6bd084602f04190a117d19eae36381f2e2d46d63a9b
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Patient Information
 Last NOBLE Address 1900 S Floyd
 First ANELLA Address 2 521

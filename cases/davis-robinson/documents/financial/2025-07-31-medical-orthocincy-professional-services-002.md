@@ -1,6 +1,6 @@
 ---
 case_slug: davis-robinson
-created_at: 2026-02-16 22:56:00.868000+00:00
+created_at: {}
 document_category: financial
 document_type: financial
 extraction_method: native_text
@@ -10,7 +10,12 @@ page_count: 1
 quality_score: 95
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-Robinson-SF-05-02-2025/Medical-Records/2025-07-31_Medical_OrthoCincy-Professional-Services_002.pdf
 source_hash: sha256:87df7a11d3db50384eafe74ec867cd75afd93438557c8f9c1886c1f2762a635f
+contact: "[[cases/2025-05-02-sf-001/contacts/orthocincy]]"
 ---
+
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 
 Guarantor
 

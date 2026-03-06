@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:20a8f19b919a8ef21b989296dfb84e87720cbe40c5cd4992ba59ee36655111aa
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 category: Client
 description: HIPAA compliant medical authorization form from Whaley Law Firm authorizing University of Louisville Hospital to release protected healthcare information for Maryan Kassim (note: date appears to be placeholder/template date).
 entities[0]: Aaron G. Whaley

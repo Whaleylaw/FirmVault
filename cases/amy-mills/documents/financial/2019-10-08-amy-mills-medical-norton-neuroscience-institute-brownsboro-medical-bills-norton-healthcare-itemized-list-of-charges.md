@@ -1,22 +1,23 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:48:47.160000+00:00
+created_at: {}
 document_category: financial
-document_date: 2019-12-19
+document_date: {}
 document_type: financial
-entities:
-- Aetna
-- Norton Healthcare
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Norton
-  Neuroscience Institute Brownsboro/Medical Bills/2019-10-08-Amy-Mills-Medical-Norton
-  Neuroscience Institute Brownsboro-Medical-Bills-Norton-Healthcare-Itemized-List-of-Charges.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Norton Neuroscience Institute Brownsboro/Medical Bills/2019-10-08-Amy-Mills-Medical-Norton Neuroscience Institute Brownsboro-Medical-Bills-Norton-Healthcare-Itemized-List-of-Charges.pdf
 source_hash: sha256:1bec9a3cc2d388af4a6e963c3cac61fc49e3cae2ca39274cfcdd57b487177415
+contact: "[[cases/2019-04-26-prl-001/contacts/norton-neuroscience-institute-brownsboro]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 Patient: Mills,Amy
 Account ID: 125885000

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:a9cdc718b87b0e06c6cfe31a7d41eaa00f0b18591facb0ed09c4305f2cfeb8ed
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 Subject: Lawsuit filed?
 From: [EMAIL-1]
 To: Sarena@whaleylawfirm.com

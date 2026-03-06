@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ceceli
 source_hash: sha256:b13bb95abb201aad7a3f88ed4c26a80a3f48a068d34a701867b7f45f2470f1a3
 ---
 
+**Case:** [[cases/cecelia-neltner/cecelia-neltner|Cecelia Neltner]]
+**Client:** [[cases/cecelia-neltner/contacts/cecelia-neltner|Cecelia Neltner]]
+
 BUC INDEPENDENCE LLC Date: [DOB-1]
 Patient Acct: 4981169 CECELIA NELTNER Patient DOB: [DOB-1]
 8982 SUPREME CT 

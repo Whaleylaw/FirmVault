@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:20b2008e1595724ae4b79b685a28d31b79c3b0d7379f5fa114adcb35a242a271
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 CABINET FOR HEALTH AND FAMILY SERVICES OEPARTMENT FOR MEDICAID SERVICES
 
 Andy Beshear 275 East Main Street, 6E-A Erie. C. Friedlander Govemor Frankfort, KY 40621 Acting Secretary www.chis.ky.gov

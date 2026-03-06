@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:d5b21a1ace02d25aadb1f3739635717a3d7c29c64e3a87f9e1be50e060ddd79b
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 AOC-E-105 Sum Code: Cl
 Rev. 9-14 Case #: 24.Cl-006943
 Court: CIRCUIT

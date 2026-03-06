@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:1a29ea4484a615c65a7f25d1b95e092e32b1697f4d8336018a09384849825bda
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 CASE NO. 23-CI-005931       JEFFERSON CIRCUIT COURT
 
 DIVISION NINE (9)

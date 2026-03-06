@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:4ab157dbfea77f6841924150a1eb872374f5f51363cbb0b9fe500fbd9451ef7f
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 Page 1 of 1
 Radiology Alliance, PC INVOICE
 Make check payable to:

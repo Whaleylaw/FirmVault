@@ -4,6 +4,9 @@ document_category: financial
 legacy_case_id: 2022-12-05-OTH-001
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-Hall-WC-[DOB-1]/Medical/2022-12-08-Cora-Hall-Med-Center-Health-Anesthesia-Lower-Arm-Surgery.pdf"
 source_hash: "sha256:033cad4772eceb3cb9b4e5f4bfd1c85f80a35ce63e8a27476984485dbd032118"

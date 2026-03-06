@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:417b65db15c0ad4e31babb51699c822a899614ca02ad9dab2edbfabd2799a399
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 date: 2024-05-30
 description: Photo from the accident scene showing the final rest position of Jimmy Ferguson's vehicle on Town Mall Access.
 original_path: Jimmy-Ferguson-MVA-5-30-2024/ece6c082-aa29-4f7a-af01-7baca1c5df8c.jpg

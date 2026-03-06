@@ -1,6 +1,6 @@
 ---
 case_slug: christopher-wilkerson
-created_at: 2026-02-16 22:26:23.994000+00:00
+created_at: {}
 document_category: other
 document_type: other
 extraction_method: native_text
@@ -10,7 +10,12 @@ page_count: 1
 quality_score: 95
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christopher-Wilkerson-WC-MVA-02-15-2024/Insurance/2024-03-06-Christopher-Wilkerson-WC-Insurance-Debbie-Smith-LOR-Acknowledgement-Letter.eml
 source_hash: sha256:d5c14f78fc62728eca8244cccece800991463321114159645fc560ac455f43dc
+contact: "[[cases/2024-02-15-mva-002/contacts/debbie-smith]]"
 ---
+
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 
 Subject: Christopher Wilkerson 238042
 From: [EMAIL-1]

@@ -34,6 +34,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee
 source_hash: sha256:cf55068b3e2d46af3ec1054157c1eeec9d4f700ff2dd90205ed23c291c4a0592
 ---
 
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 Exhibit 1 - University of Louisville Hospital - Records
 
 

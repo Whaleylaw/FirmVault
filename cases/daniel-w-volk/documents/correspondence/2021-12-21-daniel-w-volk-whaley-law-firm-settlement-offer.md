@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel
 source_hash: sha256:f67985fd8ec0f52afbb466b60662eb1f6f8fbe5c542ecfd8edbe3931d477cd6f
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 TEMP-RETURN SERVICE REQUESTED
 Whaley Law Firm
 712 LYNDON LANE

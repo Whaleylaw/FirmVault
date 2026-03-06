@@ -1,21 +1,23 @@
 ---
 case_slug: frances-whitis
-created_at: 2026-02-16 23:42:36.478000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1970-04-18
+document_date: {}
 document_type: correspondence
-entities:
-- Aetna
+entities: null
 extraction_method: native_text
 legacy_case_id: 2024-09-06-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Frances-Whitis-WC-MVA-9-6-2024/Medical/Family
-  Care Of The Bluegrass - East/Record Requests/2024-09-16-Frances-Whitis-WC-Medical-Family
-  Care Of The Bluegrass - East-Record-Requests-WLF-Medical-Authorization-And-Insurance-Cards.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Frances-Whitis-WC-MVA-9-6-2024/Medical/Family Care Of The Bluegrass - East/Record Requests/2024-09-16-Frances-Whitis-WC-Medical-Family Care Of The Bluegrass - East-Record-Requests-WLF-Medical-Authorization-And-Insurance-Cards.pdf
 source_hash: sha256:65a87f0a2322509c8e1015aa1d82ca82abdfc925dd8e655160804eb48f60b91f
+contact: "[[cases/2024-09-06-mva-001/contacts/family-care-of-the-bluegrass-east]]"
 ---
+
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

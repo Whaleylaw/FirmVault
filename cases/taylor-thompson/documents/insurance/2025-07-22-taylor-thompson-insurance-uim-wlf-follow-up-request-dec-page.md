@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor
 source_hash: sha256:8a8a8071e58d82bc9572c3a506f3b86dc43b7494ff7eb1bd3370a55d0a7f6bfa
 ---
 
+**Case:** [[cases/taylor-thompson/taylor-thompson|Taylor Thompson]]
+**Client:** [[cases/taylor-thompson/contacts/taylor-thompson|Taylor Thompson]]
+
 ** SENDING NOTIFICATION : FAX SENT SUCCESSFULLY **
 TIME SENT REMOTE CSID DURATION PAGES STATUS
 July 22, 2025 at 12:23:38 PM EDT 271 4 Sent

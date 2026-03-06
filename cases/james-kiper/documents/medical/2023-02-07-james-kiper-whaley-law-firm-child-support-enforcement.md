@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:56742dc6546877471017bc2adfff6a052d6dd7c2023bf023aa0751310fd0b01f
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 CERTIFICATION OF MEDICAL RECORDS
 
 | am the medical records custodian for The Siete Pharma “/__, and | certify

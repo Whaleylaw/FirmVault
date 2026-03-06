@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:00456e17c3a5c5546a5d137346b476697a97cc3eefe74446e1ae41d7c25615f8
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 Fax Confirmation
 To: [PHONE-11] From: [PHONE-10]
 Doc:

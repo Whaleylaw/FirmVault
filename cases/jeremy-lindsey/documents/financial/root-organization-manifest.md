@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:9a66d6e4b943da6c51a1cf391ac0d3b8407d79c70b2f49b7643d8da255be0dc6
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 accident_date: 2024-12-01
 case_type: MVA
 client_name: Jeremy-Lindsey

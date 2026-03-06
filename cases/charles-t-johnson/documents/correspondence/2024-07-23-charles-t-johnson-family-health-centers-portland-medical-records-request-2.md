@@ -1,8 +1,8 @@
 ---
 case_slug: charles-t-johnson
-created_at: 2026-02-16 22:25:53.127000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1952-04-01
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2023-04-18-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charles-T-Johnson-MVA-4-18-2023/Medical-Records/2024-07-23-Charles-T-Johnson-Family-Health-Centers-Portland-Medical-Records-Request-2.pdf
 source_hash: sha256:ddf0750ed16661e3e3cc47ee3a0a9015cc39c73c231d53e9eaf6c978e5d121ba
+contact: "[[cases/2023-04-18-mva-001/contacts/family-health-centers-portland]]"
 ---
+
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

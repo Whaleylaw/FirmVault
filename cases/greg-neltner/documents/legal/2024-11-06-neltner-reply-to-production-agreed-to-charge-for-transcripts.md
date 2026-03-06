@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-N
 source_hash: sha256:05ff5b0fc4af428e32c6914530ff268d77c4b3aeab80d3a666816f627ad4196e
 ---
 
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 Subject: Re: Plaintiff Depositions 09.17.2024 - Greg & Cecelia Nelter - Boone Cir Crt 24-CI-00452 (103602)
 From: sarena@whaleylawfirm.com
 To: [EMAIL-7]

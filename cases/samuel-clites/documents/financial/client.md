@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Samuel
 source_hash: sha256:ac3bbfbcf482b958d01462750c03249893ae23eb54a464cd46247123a4acf19f
 ---
 
+**Case:** [[cases/samuel-clites/samuel-clites|Samuel Clites]]
+**Client:** [[cases/samuel-clites/contacts/samuel-clites|Samuel Clites]]
+
 address: 8101 Brixton Rd, Apt 5, Louisville, KY 40222
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

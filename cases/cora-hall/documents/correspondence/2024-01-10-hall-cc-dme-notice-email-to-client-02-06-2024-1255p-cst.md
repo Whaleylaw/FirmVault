@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:0abcda9204d38f9dd65f1621269359ceef653f20c23c3b767e8a5c273f5c33d3
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 Subject: Your Upcoming Defense Medical Exam - February 6, 2024 12:55p CST
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

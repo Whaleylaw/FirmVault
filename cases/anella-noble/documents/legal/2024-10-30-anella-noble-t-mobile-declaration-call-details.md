@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:92a9efd188b8ffbfc7be59adf208b31a62efe7e40acdcf9f57489b11f558cf64
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Legal & Emergency Response
 4 Sylvan Way, Parsippany, N.J. 07054
 Phone: [PHONE-1] Fax: [PHONE-2] October 30, 2024

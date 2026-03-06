@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Collee
 source_hash: sha256:b2486bb5197abc248c1039e2c79bb8ae06761781308c740a9a079ece943090fc
 ---
 
+**Case:** [[cases/colleen-colvin/colleen-colvin|Colleen Colvin]]
+**Client:** [[cases/colleen-colvin/contacts/colleen-colvin|Colleen Colvin]]
+
 Subject: New Voice Message from COLVIN COLLEEN [PHONE-6] on [DOB-2] 9:20 AM
 From: [EMAIL-3]
 To: Sarena@whaleylawfirm.com

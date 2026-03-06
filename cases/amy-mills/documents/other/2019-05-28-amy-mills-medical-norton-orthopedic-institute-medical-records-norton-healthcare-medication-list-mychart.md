@@ -1,19 +1,22 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:49:00.669000+00:00
+created_at: {}
 document_category: other
-document_date: 1983-12-28
+document_date: {}
 document_type: other
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Norton
-  Orthopedic Institute/Medical Records/2019-05-28-Amy-Mills-Medical-Norton Orthopedic
-  Institute-Medical-Records-Norton-Healthcare-Medication-List-MyChart.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Norton Orthopedic Institute/Medical Records/2019-05-28-Amy-Mills-Medical-Norton Orthopedic Institute-Medical-Records-Norton-Healthcare-Medication-List-MyChart.pdf
 source_hash: sha256:11a87dc2d52275fa21e84ab6274c77496bf2ff974ab33d0075ef62af996451d3
+contact: "[[cases/2019-04-26-prl-001/contacts/norton-orthopedic-institute]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 1114/2020 MyChart -Medications
 Name: Amy Mills| DOB: [DOB-1] |MRN: EP02256299| PCP: Paul R Smith

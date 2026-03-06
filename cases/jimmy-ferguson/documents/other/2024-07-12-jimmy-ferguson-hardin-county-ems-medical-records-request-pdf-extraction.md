@@ -1,8 +1,8 @@
 ---
 case_slug: jimmy-ferguson
-created_at: 2026-02-16 23:58:04.462000+00:00
+created_at: {}
 document_category: other
-document_date: 2024-06-30
+document_date: {}
 document_type: other
 extraction_method: native_text
 legacy_case_id: 2024-05-30-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 95
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-Ferguson-MVA-5-30-2024/extractions/2024-07-12-Jimmy-Ferguson-Hardin-County-EMS-Medical-Records-Request.pdf_extraction.json
 source_hash: sha256:736cc21e15592d5fc78fc4dc588e4343b7f7d9148b589362df0784ea024bddb1
+contact: "[[cases/2024-05-30-mva-001/contacts/hardin-county-ems]]"
 ---
+
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 
 category: Medical
 date: 2024-07-12

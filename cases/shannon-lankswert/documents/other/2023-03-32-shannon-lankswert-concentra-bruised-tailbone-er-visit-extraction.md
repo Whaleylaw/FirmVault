@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:df878a73035e5fb045edcc55b7519fcd84c69c7edb27d5a750a4f40e2921bcd5
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 extraction.category: Medical
 extraction.date: 2023-03-30
 extraction.description: Text message conversation screenshots regarding ER visit and Concentra follow-up for bruised tailbone. Patient went to ER, then saw Concentra, received note excusing from work until Friday. Date likely March 2023 (filename shows 03-32 which is invalid date)

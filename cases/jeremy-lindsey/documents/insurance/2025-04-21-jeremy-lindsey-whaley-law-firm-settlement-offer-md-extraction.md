@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:33ea52d0f18e12eb2da1b7c4eab092259c0713343b43da4f3a0cfab4d25908be
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: settlement
 date: 2025-04-21
 description: Updated bodily injury settlement offer from Progressive with $49,500 to be distributed among Whaley Law Firm clients after $500 to Dominic Lehmann

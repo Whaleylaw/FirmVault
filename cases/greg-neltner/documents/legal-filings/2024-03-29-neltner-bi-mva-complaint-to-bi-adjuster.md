@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-N
 source_hash: sha256:6e6dd7c284ed2d470c72089ce680ae223cc23aadbf450f8357ed7efe25d213f3
 ---
 
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 Subject: Greg and Ceclelia Neltner (23-6275504)
 From: [EMAIL-1]
 To: [EMAIL-2]

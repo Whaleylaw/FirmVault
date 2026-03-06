@@ -1,18 +1,22 @@
 ---
 case_slug: wayne-weber
-created_at: 2026-02-17 00:40:12.605000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1947-07-13
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2022-01-01-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-Weber-MVA-01-01-2022/Medical/2022-01-01
-  - Medical - Anchorage Middletown Fire EMS - Emergency Services - Wayne Weber.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-Weber-MVA-01-01-2022/Medical/2022-01-01 - Medical - Anchorage Middletown Fire EMS - Emergency Services - Wayne Weber.pdf
 source_hash: sha256:4f47f5ddd18067f49d637e1c25d3c4035acb16555474d8fc188008dd384830cb
+contact: "[[cases/2022-01-01-mva-001/contacts/anchorage-middletown-fire-ems]]"
 ---
+
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 
 *% TNBOUND NOTIFICATION ; FAX RECEIVED SUCCESSFULLY **
 

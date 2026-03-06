@@ -1,17 +1,10 @@
 ---
 case_slug: daniel-w-volk
-created_at: 2026-02-16 22:54:42.238000+00:00
+created_at: {}
 document_category: legal
-document_date: 1964-02-22
+document_date: {}
 document_type: legal
-entities:
-- Christopher Pitcock
-- Anthony Karem
-- Norton Brownsboro Hospital
-- Norton Audubon Hospital
-- Anthem
-- Baptist Health
-- Norton Healthcare
+entities: null
 extraction_method: native_text
 legacy_case_id: 2021-09-24-MVA-001
 mime_type: application/pdf
@@ -19,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel-W-Volk-MVA-09-24-2021/Insurance/2021-09-24-Daniel-W-Volk-Safeco-Insurance-Company-of-Illinois-Interrogatories-and-Production-Responses.pdf
 source_hash: sha256:8db36bac4bf621489ef35805f909aed2b9659d3147aadf63523470510972504b
+contact: "[[cases/2021-09-24-mva-001/contacts/safeco-insurance-company]]"
 ---
+
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 
 COMMONWEALTH OF KENTUCKY 
 OLDHAM CIRCUIT COURT 

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:81f2b0c21439fb8246121937a383851b2c72297c0fbd29a3cd2dc2c439a7e12c
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: Tasks for T-Mobile US, Inc. Tracking ID: 5297404
 From: [EMAIL-1]
 To: [EMAIL-2], sarena@whaleylawfirm.com

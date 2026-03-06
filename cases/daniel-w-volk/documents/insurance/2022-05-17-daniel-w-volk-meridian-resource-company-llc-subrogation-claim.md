@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel
 source_hash: sha256:6c2103fd666bc01864424c558b530b754f345a3f9b714f65477654a33e4a5cb5
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 00 Fax Server M20103 5/17/2022 2:26:54 PM PAGE 2/006 Fax Server
 Liye
 “MERIDIAN

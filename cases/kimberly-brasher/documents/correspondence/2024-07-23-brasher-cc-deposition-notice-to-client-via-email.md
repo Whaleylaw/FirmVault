@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:45b07db1be1fb4e6d0c3c002c103d0b787c57be67184d2c54d2ad4e97e506eba
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 Subject: Your Deposition has been Scheduled - October 1, 2024 10a via Zoom
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

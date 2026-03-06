@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:4d0f4736dd60f67af498b822795456545dba566bae12f31a70a1f8016603733a
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 item_0.certificate_of_service: 2023-09-27
 item_0.filing_party_name: The Whaley Law Firm
 item_0.pleading_type: Summons

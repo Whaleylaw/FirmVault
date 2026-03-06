@@ -1,24 +1,23 @@
 ---
 case_slug: cynthia-gibson
-created_at: 2026-02-16 22:38:42.172000+00:00
+created_at: {}
 document_category: insurance
-document_date: 2025-09-03
+document_date: {}
 document_type: insurance
-entities:
-- Louisville Hospital
-- Response Mode Emergent Destination Hospital
-- Closest Hospital
-- State Farm
-- University of Louisville
+entities: null
 extraction_method: native_text
 legacy_case_id: 2025-07-09-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cynthia-Gibson-MVA-7-9-2025/Medical/Bullitt
-  County EMS/Medical Records/2025-07-09-Cynthia-Gibson-Medical-Bullitt County EMS-Medical-Records-Bullitt-County-EMS-Patient-Care-Record.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cynthia-Gibson-MVA-7-9-2025/Medical/Bullitt County EMS/Medical Records/2025-07-09-Cynthia-Gibson-Medical-Bullitt County EMS-Medical-Records-Bullitt-County-EMS-Patient-Care-Record.pdf
 source_hash: sha256:6c7c944a1858eb69885a678d28e0329cef4f966687cf633d006817cb9759f1f6
+contact: "[[cases/2025-07-09-mva-001/contacts/bullitt-county-ems]]"
 ---
+
+**Case:** [[cases/cynthia-gibson/cynthia-gibson|Cynthia Gibson]]
+**Client:** [[cases/cynthia-gibson/contacts/cynthia-gibson|Cynthia Gibson]]
+
 
 Bullitt County EMS 
 Patient Care Record 

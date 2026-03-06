@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:9f48b20dd65a1ce3397efa86f5eb707cd3ba2b7d3886e7929b0ffed85d99c56a
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 category: Legal
 confidence: high
 description: Permanent Partial Disability calculator for workers compensation

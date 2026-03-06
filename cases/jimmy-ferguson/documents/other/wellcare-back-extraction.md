@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:e7e87dd9bdce895238869d630f7b40bfd736016a9d5c14b67b2737318c7db6dd
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 date: 2024-07-08
 description: Photo showing the back of Jimmy Ferguson's Wellcare of Kentucky insurance card, including contact information and coverage details.
 original_path: Jimmy-Ferguson-MVA-5-30-2024/Wellcare-Back.jpg

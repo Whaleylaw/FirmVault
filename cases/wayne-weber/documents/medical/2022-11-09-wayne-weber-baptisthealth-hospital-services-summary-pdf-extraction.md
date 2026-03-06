@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:4d269e72c3e1950bbf1f349a92cf75bfe6bc277ed255303649af3884cd622516
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: medical_billing
 extraction.date: 2022-11-09
 extraction.description: Hospital services billing summary from Baptist Health for patient Wayne Weber dated November 9, 2022.

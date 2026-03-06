@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:b1da4fe25db51eb17ce0f838a24da54cb4f2fb7d6d6c467e4b9e89c91055edb0
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: lien
 date: 2025-01-15
 description: Subrogation notice from Rawlings Company regarding possible health plan recovery rights for Elizabeth Lindsey's medical benefits

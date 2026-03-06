@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmon
 source_hash: sha256:5cda9d32d62859e7470380c1cbedbe3bec13019e18479f0879255d14d03d38b5
 ---
 
+**Case:** [[cases/julmonzhae-moore/julmonzhae-moore|Julmonzhae Moore]]
+**Client:** [[cases/julmonzhae-moore/contacts/julmonzhae-moore|Julmonzhae Moore]]
+
 Liberty Mutual Personal Insurance Company
 P.O. Box 5014
 Scranton PA 18505-5014

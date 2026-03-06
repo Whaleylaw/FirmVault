@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:8383141450ba1258d4ed2827e385b839e82c8215f14ff3e2dca46c316e1234d7
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 J.KIPER-M&B-000001
 The State Pharmacy825 S 6". StreetLouisville, KY 40203Name:[PHONE-28]
 James R Kiper

@@ -24,6 +24,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:f945bef4057ed1d64c55ea1ce3a425afbb9d81368f22178298c38123c71efb7c
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 3/1/2023 10:08 AM FROM: AF Group TO: [PHONE-82] P. 41
 
 so msn » AF Group

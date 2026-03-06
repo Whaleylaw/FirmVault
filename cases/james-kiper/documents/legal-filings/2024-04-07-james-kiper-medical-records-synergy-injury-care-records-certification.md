@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:0491b3541022a41663e4628ec6b18ecdb674ecda4e2df36b0cc964800698ae6b
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 CERTIFICATION OF MEDICAL RECORDS AFFIDAVIT
 () WuyQ? OnowO ,being first duly sworn on his/her oath, says that:
 (Name ofrecords custodian/clerk)

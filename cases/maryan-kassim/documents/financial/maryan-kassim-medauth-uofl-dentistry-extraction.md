@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:c1a15fcebad11dbfeeb25d816406f075ea580b5a44f75c8ff5568d1fd6b6be49
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 category: Client
 description: HIPAA-compliant medical authorization form authorizing University of Louisville School of Dentistry to release protected health care information to Whaley Law Firm.
 entities[0]: University of Louisville School of Dentistry

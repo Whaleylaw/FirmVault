@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:6a7379083d40aac17f133ef750fd2b3f4e80e65b0224257395b5cdddbe99b8a0
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 Certificate Of Completion
 Envelope Id: 3E1F204303184D9689079FBFC79530EB Status: Completed
 Subject: The Whaley Law Firm has requested your signature. Please follow the prompts to execute the attached.

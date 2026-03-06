@@ -4,6 +4,9 @@ document_category: financial
 legacy_case_id: 2019-04-26-PrL-001
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-[DOB-1]/Review_Needed/2025.01.21-Mills-CMB-CHI-St-Joseph-Ortho-Dr.Kevin-Magone-797.00.pdf"
 source_hash: "sha256:64c6920f18929275cbd81afe17297040da9e2bd9448763f36402ff5ec61c9182"

@@ -1,10 +1,9 @@
 ---
 case_slug: destiny-adkins
-created_at: 2026-02-16 23:26:11.922000+00:00
+created_at: {}
 document_category: court-filings
 document_type: court_filing
-entities:
-- Allstate
+entities: null
 extraction_method: native_text
 legacy_case_id: 2021-04-16-MVA-001
 mime_type: application/pdf
@@ -12,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Destiny-Adkins-MVA-04-16-2021/Legal-Documents/Court-Orders/2023-11-14-Destiny-Adkins-ENTRY-OF-APPEARANCE-filed-by-Allstate-Insurance-Company.pdf
 source_hash: sha256:2f[POLICY-1]5645b96d836ed5e1bf0641dc1fcf0802c[POLICY-2]11601
+contact: "[[cases/2021-04-16-mva-001/contacts/allstate-insurance]]"
 ---
+
+**Case:** [[cases/destiny-adkins/destiny-adkins|Destiny Adkins]]
+**Client:** [[cases/destiny-adkins/contacts/destiny-adkins|Destiny Adkins]]
+
 
 CASE NO. 22-CI-002878 JEFFERSON CIRCUIT COURT 
  DIVISION ONE (1) 

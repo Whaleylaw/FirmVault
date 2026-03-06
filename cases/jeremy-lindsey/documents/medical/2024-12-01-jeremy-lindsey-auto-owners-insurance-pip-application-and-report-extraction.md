@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:cef21cc4b8ab065bef541e2bbf1ee8015128eee2237477f7d1b9168b32e1e108
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: insurance
 date: 2024-12-01
 description: Kentucky No-Fault PIP Application for Benefits for Owen Lindsey, laceration to spleen and liver, inpatient at Cincinnati Children's Hospital, accident 12/1/2024, claim [PHONE-1]-2024

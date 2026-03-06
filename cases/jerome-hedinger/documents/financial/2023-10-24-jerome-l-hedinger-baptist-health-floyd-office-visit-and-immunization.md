@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:7cb258ac472eed9f9c922d5e56a6c0bff260e5bb997b5866e0ffea9c059db12c
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 Page 1 of 3
 Aetna Life Insurance Company
 P.O. BOX 14079

@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:fcdd54c7776a6dec0a320835b623083638d6ff24cf4388118d41a5047a194a35
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 Jul 16 2024 2:23pm GCC [PHONE-12] 1
 _—— DR. Anthony Grant
 GRANT 908 Russell Road

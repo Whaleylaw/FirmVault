@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:96e5d930859400bd1298f5015dff02e654bfd4c91e648fc4399df45caa2d69f0
 ---
 
+**Case:** [[cases/michae-guyton/michae-guyton|Michae Guyton]]
+**Client:** [[cases/michae-guyton/contacts/michae-guyton|Michae Guyton]]
+
 item_0.jsonb_agg[0].case_type: MVA
 item_0.jsonb_agg[0].client_address: 5056 Minette Court, Apt 3, Louisville, Ky 40258
 item_0.jsonb_agg[0].client_name: Michae Guyton

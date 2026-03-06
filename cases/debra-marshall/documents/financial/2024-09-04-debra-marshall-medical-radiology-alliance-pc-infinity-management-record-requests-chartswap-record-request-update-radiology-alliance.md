@@ -1,6 +1,6 @@
 ---
 case_slug: debra-marshall
-created_at: 2026-02-16 23:04:42.033000+00:00
+created_at: {}
 document_category: financial
 document_type: financial
 extraction_method: native_text
@@ -8,11 +8,14 @@ legacy_case_id: 2022-12-03-MVA-001
 mime_type: message/rfc822
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-Marshall-MVA-12-3-2022/Medical/Radiology
-  Alliance, PC (Infinity Management)/Record Requests/2024-09-04-Debra-Marshall-Medical-Radiology
-  Alliance, PC (Infinity Management)-Record-Requests-Chartswap-Record-Request-Update-Radiology-Alliance.eml
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-Marshall-MVA-12-3-2022/Medical/Radiology Alliance, PC (Infinity Management)/Record Requests/2024-09-04-Debra-Marshall-Medical-Radiology Alliance, PC (Infinity Management)-Record-Requests-Chartswap-Record-Request-Update-Radiology-Alliance.eml
 source_hash: sha256:a3608f8aa0d14cae6ecc175a2c924998b8fb8a7a16cdf869542c599c47169af5
+contact: "[[cases/2022-12-03-mva-001/contacts/radiology-alliance-pc-infinity-management]]"
 ---
+
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 
 Subject: Request has been updated by Radiology Alliance, PC
 From: [EMAIL-1]

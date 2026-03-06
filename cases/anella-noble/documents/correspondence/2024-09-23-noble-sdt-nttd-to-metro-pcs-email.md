@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:cd5bbc2f51193635fdbd0cd52f0fa249a918fa48c10fbf22f8506a913c7d5b7c
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: Outstanding SDT - Original 03.23.2023 - Please expedite
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

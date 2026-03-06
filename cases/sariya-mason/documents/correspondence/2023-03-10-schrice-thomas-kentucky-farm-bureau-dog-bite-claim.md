@@ -1,11 +1,10 @@
 ---
 case_slug: sariya-mason
-created_at: 2026-02-17 00:20:18.314000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 2022-08-19
+document_date: {}
 document_type: correspondence
-entities:
-- Kentucky Farm Bureau
+entities: null
 extraction_method: native_text
 legacy_case_id: 2022-08-19-DB-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya-Mason-DB-08-19-2022/Insurance/2023-03-10-Schrice-Thomas-Kentucky-Farm-Bureau-dog-bite-claim.pdf
 source_hash: sha256:f66bbc641ccd2d9b11e0ceb89e27a761e17bb3a1099c389162d08b32b8f3e9f8
+contact: "[[cases/2022-08-19-db-001/contacts/kentucky-farm-bureau]]"
 ---
+
+**Case:** [[cases/sariya-mason/sariya-mason|Sariya Mason]]
+**Client:** [[cases/sariya-mason/contacts/sariya-mason|Sariya Mason]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

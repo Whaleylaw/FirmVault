@@ -1,8 +1,8 @@
 ---
 case_slug: daniel-w-volk
-created_at: 2026-02-16 22:55:38.734000+00:00
+created_at: {}
 document_category: financial
-document_date: 2023-12-14
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2021-09-24-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 90
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel-W-Volk-MVA-09-24-2021/Reports/extractions/2023-12-14-Daniel-W-Volk-results-physiotherapy_extraction.json
 source_hash: sha256:be851f02e2489c8c7e009488d84e0dad3f268b7bb6664f7d1a15b88edebf0e08
+contact: "[[cases/2021-09-24-mva-001/contacts/results-physiotherapy]]"
 ---
+
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 
 extraction.classification.bucket: Medical Records
 extraction.classification.confidence: high

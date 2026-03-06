@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee
 source_hash: sha256:927d93afbf6edb517f7b2fa1ec12bda917ca8e92ee45e1883bafde883f368020
 ---
 
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 Daily SOAP Note - SL Dr. L. Anthony Sears, DC
 
 PATIENT NAME: Phe Wi i pate: (0s /24 23 Ra

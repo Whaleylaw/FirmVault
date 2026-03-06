@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:47d11087c9f0ddf783544410bcd7c685d15acc99e6c606e59702b47567436d8f
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 acceptance_criteria.actual_error_rate: 0%
 acceptance_criteria.error_rate_threshold: 5%
 acceptance_criteria.result: PASS

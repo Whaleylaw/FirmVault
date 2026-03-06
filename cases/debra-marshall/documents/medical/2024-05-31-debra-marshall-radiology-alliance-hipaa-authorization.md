@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:a7f5d71509d4f887176bf3b082b3c61c0da4c210e82b59b1b44d61da715f3d6a
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 Radiology Alliance
 210 25th Ave North #1204
 Nashville, TN 37203

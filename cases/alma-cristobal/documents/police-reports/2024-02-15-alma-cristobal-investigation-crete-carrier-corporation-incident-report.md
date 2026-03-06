@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:4b8497122ac32a9e91bf4f0e1e3c04264c1d2b08ef4ec838238dba980ab55a1a
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 1 / 1 7/24/2024
 Crete Carrier Corporation  
 Incident Report  

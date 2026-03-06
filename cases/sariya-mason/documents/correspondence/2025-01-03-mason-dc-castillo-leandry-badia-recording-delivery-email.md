@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya
 source_hash: sha256:c2967fda78c07134d337ece8da397bd8363e2b541a3cb68a0b8f637b92a6e165
 ---
 
+**Case:** [[cases/sariya-mason/sariya-mason|Sariya Mason]]
+**Client:** [[cases/sariya-mason/contacts/sariya-mason|Sariya Mason]]
+
 Subject: RE: Thomas v. Castillo
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

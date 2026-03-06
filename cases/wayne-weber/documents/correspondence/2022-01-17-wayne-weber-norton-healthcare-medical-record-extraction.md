@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:505b38c65cd4a1a250494a00b3203e2248c75acf5c9f1f864b58de65bc4ff77c
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: medical_records
 extraction.date: 2022-01-17
 extraction.description: Norton Healthcare medical record for Wayne Weber dated January 17, 2022.

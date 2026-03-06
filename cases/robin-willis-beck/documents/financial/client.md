@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:5129b9609b6e9dcf9ed5ea98de04b0a6f90eb95e7a8576ce540535c008216d3a
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 address: 1214 Pigeon Pass Road, Louisville, KY 40213
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:6e917cdccaf70126159da52147e79c73ec1e8e9c966f8823b4ebf62201d52133
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 DILBECK & MYERS, PLLC 
  Attorneys at Law 
  8005 Lyndon Centre Way, Suite 201 

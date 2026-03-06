@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:f39a23e7045e73fc41c2aa7395891b817e7a964a930475dff10b4b0a026a63ed
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 Subject: Jerome Hedinger (17N8360G8)
 From: [EMAIL-1]
 To: [EMAIL-2]

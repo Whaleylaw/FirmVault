@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:07f2270251a41a1f6e2936d6ce9b3efb3380045218434e735f9d4f154b80028c
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Nov, 27. 2019 19:20AM No, BUYZ oT. 470
 
 Padent Amy Mills

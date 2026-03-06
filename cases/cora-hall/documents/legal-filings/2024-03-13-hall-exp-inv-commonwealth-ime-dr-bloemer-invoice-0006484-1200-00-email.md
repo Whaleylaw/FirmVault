@@ -1,18 +1,22 @@
 ---
 case_slug: cora-hall
-created_at: 2026-02-16 22:38:03.630000+00:00
+created_at: {}
 document_category: court-filings
-document_date: 2024-03-20
+document_date: {}
 document_type: court_filing
 extraction_method: native_text
 legacy_case_id: 2022-12-05-OTH-001
 mime_type: message/rfc822
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-Hall-WC-12-05-2022/Medical
-  Bills/2024.03.13-Hall-Exp-Inv-Commonwealth-IME-Dr.Bloemer-Invoice-0006484-1200.00-Email.eml
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-Hall-WC-12-05-2022/Medical Bills/2024.03.13-Hall-Exp-Inv-Commonwealth-IME-Dr.Bloemer-Invoice-0006484-1200.00-Email.eml
 source_hash: sha256:3ca8d4869854812749a111bdf520aaa287b74c7d1c65ecd89198b011154187a4
+contact: "[[cases/2022-12-05-oth-001/contacts/commonwealth-ime]]"
 ---
+
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 
 Subject: Commonwealth IME sent you an invoice (0006484)Cora Hall (Payne) 3/26/24
 From: [EMAIL-1]

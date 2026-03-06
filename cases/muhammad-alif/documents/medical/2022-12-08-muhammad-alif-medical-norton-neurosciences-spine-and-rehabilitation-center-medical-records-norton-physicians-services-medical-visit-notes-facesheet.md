@@ -1,19 +1,22 @@
 ---
 case_slug: muhammad-alif
-created_at: 2026-02-17 00:11:32.313000+00:00
+created_at: {}
 document_category: medical
-document_date: 1961-04-16
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2022-11-08-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Norton
-  Neurosciences Spine And Rehabilitation Center/Medical Records/2022-12-08-Muhammad-Alif-Medical-Norton
-  Neurosciences Spine And Rehabilitation Center-Medical-Records-Norton-Physicians-Services-Medical-Visit-Notes-Facesheet.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Norton Neurosciences Spine And Rehabilitation Center/Medical Records/2022-12-08-Muhammad-Alif-Medical-Norton Neurosciences Spine And Rehabilitation Center-Medical-Records-Norton-Physicians-Services-Medical-Visit-Notes-Facesheet.pdf
 source_hash: sha256:33729c355b237254f46919e2a19ec7c81035ebd979d9f1cd94b89524d438a8ce
+contact: "[[cases/2022-11-08-mva-001/contacts/norton-neurosciences-spine-and-rehabilitation-center]]"
 ---
+
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 
 NORTON HEALTHCARE
 200 E Chestnut St

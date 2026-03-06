@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Rebecc
 source_hash: sha256:6301dc764a864c1e0d2fb60a1cced78cfbc38edb909080ec403895447f891e65
 ---
 
+**Case:** [[cases/rebecca-lanier/rebecca-lanier|Rebecca Lanier]]
+**Client:** [[cases/rebecca-lanier/contacts/rebecca-lanier|Rebecca Lanier]]
+
 date_of_birth: [DOB-1]
 email: [EMAIL-1]
 imported_at: 2026-02-16T21:09:42.776Z

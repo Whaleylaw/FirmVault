@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:632f83b32ed4798dd48d0f16054c7370cc9dbf6f4064d14b17907e921c75725a
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: lien
 extraction.date: 2024-07-10
 extraction.description: Medicare Secondary Payer Rights and Responsibilities document for Wayne Weber from CMS.

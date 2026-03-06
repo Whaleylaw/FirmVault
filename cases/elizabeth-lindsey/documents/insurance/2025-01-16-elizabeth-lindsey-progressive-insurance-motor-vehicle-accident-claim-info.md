@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Elizab
 source_hash: sha256:df8e5671ecc79335b2f76a41e1b54321677536c9564e3a70e2675232a47bf18c
 ---
 
+**Case:** [[cases/elizabeth-lindsey/elizabeth-lindsey|Elizabeth Lindsey]]
+**Client:** [[cases/elizabeth-lindsey/contacts/elizabeth-lindsey|Elizabeth Lindsey]]
+
 [PHONE-1]
 REQUEST FOR CLAIM INFORJ\,IATION 
 Member/Patient: Elizabeth Lindsey/Elizabeth Lindsey 

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:6caf150e081982c9024f23d3ccbe04dee0ed531b3960ee01d1e7d5690e06b426
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 Providing Insurance and Financial Services S&S StateFarm:
 Home Office, Bloomington, IL
 March 29, 2024

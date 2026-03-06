@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:c575a9188b59fc9b88d6ca25d2b68186aab478db7a9aeefe3250e107cf5d386b
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Subject: Fwd: Transcript Files | Virginia Sewell
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

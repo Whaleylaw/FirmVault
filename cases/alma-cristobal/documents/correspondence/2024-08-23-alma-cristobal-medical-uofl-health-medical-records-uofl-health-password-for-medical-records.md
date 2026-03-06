@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:add46142ffb0cfe19910cbe6ee32ce5dd614586c8bf9db9c830f7a2843359ded
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 Subject: Package Credentials Notification
 From: [EMAIL-1]
 To: SARENA@WHALEYLAWFIRM.COM

@@ -1,22 +1,23 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:48:51.728000+00:00
+created_at: {}
 document_category: medical
-document_date: 1983-12-28
+document_date: {}
 document_type: medical
-entities:
-- Advanced Practice
-- Norton Healthcare
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Norton
-  Neuroscience Institute Brownsboro/Medical Records/2020-02-20-Amy-Mills-Medical-Norton
-  Neuroscience Institute Brownsboro-Medical-Records-Norton-Physicians-Services-Office-Visit-Facesheet-and-Notes.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Norton Neuroscience Institute Brownsboro/Medical Records/2020-02-20-Amy-Mills-Medical-Norton Neuroscience Institute Brownsboro-Medical-Records-Norton-Physicians-Services-Office-Visit-Facesheet-and-Notes.pdf
 source_hash: sha256:7adf26ad9883fe38fee64c5fe786f89b9842d1f8880fe2b83895e2999fe6291d
+contact: "[[cases/2019-04-26-prl-001/contacts/norton-neuroscience-institute-brownsboro]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 NORTON PHYSICIANS 
 SERVICES

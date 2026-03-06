@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cynthi
 source_hash: sha256:94cc8cb59527e0413d9397d17f74a5c4d746a11706fbb791c8b164645fb0ba6f
 ---
 
+**Case:** [[cases/cynthia-gibson/cynthia-gibson|Cynthia Gibson]]
+**Client:** [[cases/cynthia-gibson/contacts/cynthia-gibson|Cynthia Gibson]]
+
 6129Z 
 Page 1 of 9 
 ©, Copyright, State Farm Mutual Automobile Insurance Company, 2022 

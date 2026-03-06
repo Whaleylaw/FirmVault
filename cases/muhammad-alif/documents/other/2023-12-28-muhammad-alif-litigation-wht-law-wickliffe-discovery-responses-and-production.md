@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:2613da5a55969985061b5300215ae5182035e2aa3ef654dddb0ecb94ce76e9f5
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 Subject: Misty Harmon shared these documents with you
 From: [EMAIL-4]
 To: [EMAIL-3], sarena@whaleylawfirm.com, [EMAIL-3], [EMAIL-4]

@@ -2,7 +2,12 @@
 case_slug: henrietta-jenkins
 document_category: medical
 legacy_case_id: 2025-05-20-MVA-001
+contact: "[[cases/2025-05-20-mva-001/contacts/norton-audubon-hospital]]"
 ---
+
+**Case:** [[cases/henrietta-jenkins/henrietta-jenkins|Henrietta Jenkins]]
+**Client:** [[cases/henrietta-jenkins/contacts/henrietta-jenkins|Henrietta Jenkins]]
+
 
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Henrietta-Jenkins-MVA-5-20-2025/Medical/2025-05-20-Henrietta-Jenkins-NORTON-AUDUBON-HOSPITAL-MVA-Emergency-Visit.pdf"

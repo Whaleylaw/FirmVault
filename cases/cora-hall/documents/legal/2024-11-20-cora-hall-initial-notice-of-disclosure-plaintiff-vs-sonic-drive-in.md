@@ -4,6 +4,9 @@ document_category: legal
 legacy_case_id: 2022-12-05-OTH-001
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-Hall-WC-[DOB-1]/Pleadings/2024-11-20-Cora-Hall-Initial-Notice-of-Disclosure-Plaintiff-vs-Sonic-Drive-In.pdf"
 source_hash: "sha256:b285720599dcd70f258b4b7958196a12841f70297bc7e433b6e6d57e48cba2b9"

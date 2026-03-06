@@ -1,12 +1,10 @@
 ---
 case_slug: samuel-clites
-created_at: 2026-02-17 00:17:47.412000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 2024-04-23
+document_date: {}
 document_type: correspondence
-entities:
-- Blue Cross
-- Anthem
+entities: null
 extraction_method: native_text
 legacy_case_id: 2024-04-23-MVA-001
 mime_type: application/pdf
@@ -14,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Samuel-Clites-MVA-4-23-2024/Liens/2024-11-04-Samuel-Clites-Lien-Anthem-Subrogation-Reimbursement-Notice.pdf
 source_hash: sha256:b75aeafc3a0236cf1c6e580c94b209d634df8d762fad36ee64b20b0df0ba705f
+contact: "[[cases/2024-04-23-mva-001/contacts/anthem]]"
 ---
+
+**Case:** [[cases/samuel-clites/samuel-clites|Samuel Clites]]
+**Client:** [[cases/samuel-clites/contacts/samuel-clites|Samuel Clites]]
+
 
 © [DOB-6] 3:12 PM Fax Services >Aries pg 2 of 3
 Anthem.2'9

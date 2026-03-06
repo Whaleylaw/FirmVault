@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:788f7c04c16990ee9f1b1391b066fe207190dee1712eae36d412603180a8d858
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 item_0.holder_address: PO Box 2000, , LaGrange, KY 40031
 item_0.holder_phone: [PHONE-1]
 item_0.lien_holder_name: Rawlings Company

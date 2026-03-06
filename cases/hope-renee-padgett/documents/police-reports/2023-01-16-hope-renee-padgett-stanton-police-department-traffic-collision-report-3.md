@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Hope-R
 source_hash: sha256:6f32fd786695fbaeb3bcad9355dcfd91043891accc61721f3b7a5c5eafa482a8
 ---
 
+**Case:** [[cases/hope-renee-padgett/hope-renee-padgett|Hope Renee Padgett]]
+**Client:** [[cases/hope-renee-padgett/contacts/hope-renee-padgett|Hope Renee Padgett]]
+
 INVESTIGATOR BEAT OR POST #
 TOTAL LANES
 NO

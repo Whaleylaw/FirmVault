@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor
 source_hash: sha256:8f6b5b438911dd18492728819279d8fc49626daad97969964ec4442170cff1f8
 ---
 
+**Case:** [[cases/taylor-thompson/taylor-thompson|Taylor Thompson]]
+**Client:** [[cases/taylor-thompson/contacts/taylor-thompson|Taylor Thompson]]
+
 ** SENDING NOTIFICATION : FAX SENT SUCCESSFULLY **
 TIME SENT REMOTE CSID DURATION PAGES STATUS
 December 13, 2024 at 11:58:30 AM EST American Family Insu 542 8 Sent

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:828fdaef2367363c8aa63a84d4ca1a93146cd254706c9fc9848096b49c225ece
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 Page 1 of 1
 1011493 2000 157822 200 [DOB-5]
 Certified Policy Record 

@@ -11,3 +11,6 @@ quality_score: 0
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-Finley-MVA-1-24-2024/Misc/2025-08-24-Cecil-Finley-AGED-Baa-fi-xo-eS-er.pdf
 source_hash: sha256:ec3120e2e321c4b856f2bd6ddfc97570cad2608a409de75dbd870722fc2558c5
 ---
+
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]

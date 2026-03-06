@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:6b3727de73de56a7240d8faba3614e6ab8416b87da7b34a0f26c5a5dfc628b7b
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 Subject: Checking In
 From: [EMAIL-1]
 To: Sarena@whaleylawfirm.com

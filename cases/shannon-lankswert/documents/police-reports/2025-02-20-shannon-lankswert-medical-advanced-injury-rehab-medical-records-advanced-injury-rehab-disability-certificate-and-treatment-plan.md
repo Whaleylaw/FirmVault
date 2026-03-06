@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:7055cbefec43f445bde0eab8487bdc0781beabc88db98e4fdef131b5aa77442f
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 e ADVANCED INJURY RHHAR
 102 Manot Ave Ste. 202 Batdstown fk Y, 40004
 Phone: [PHONE-4], Pax [PHONE-3]

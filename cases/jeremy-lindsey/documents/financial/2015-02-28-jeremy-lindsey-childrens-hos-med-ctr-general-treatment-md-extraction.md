@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:3d4e5ee2be413119bfdd2bd749dd2cfa6da426988ee3941a6e5fafaaad2c3f03
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: medical
 date: 2015-02-28
 description: Medical billing statement from Cincinnati Children's Hospital for general treatment services

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:76538f78178a0bd38f2a5e729cc192051b3ae6465f59c33516c90befea27f80d
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 +18339448 738
 They. Rawlings Companyic
 Subrogation Dirvbas

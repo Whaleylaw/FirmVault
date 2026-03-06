@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:33dfa1ccae1862eb800dd5072a74d2922affca745723e9c9e2f55aaf28a88232
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 address: 391 Barricks Road, Lot 302B, Louisville, KY 40229
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:8b7f3379ed3a116c789331c88abb37a0283eb87ef9d51927986bb879f3875002
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 category: Insurance
 date: 2024-08-01
 description: Letter dated 8/1/2024 from Kentucky Farm Bureau acknowledging representation of Jimmy Ferguson, identifying Monica Mouser as UIM claim adjuster and Ashley McNeese as PIP adjuster, includes declaration page.

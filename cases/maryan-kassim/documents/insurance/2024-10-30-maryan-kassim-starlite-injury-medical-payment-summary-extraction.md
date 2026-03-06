@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:d7bdd343cec27ed4a6e092e48f5f83c78201892285283781e48714f1526e20dd
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 category: Insurance
 description: Progressive PIP payment summary showing $6,000 paid out of $10,000 policy limit for medical expenses from Starlite Injury and Amins Family Practice for dates August-October 2024.
 entities[0]: Maryan Kassim

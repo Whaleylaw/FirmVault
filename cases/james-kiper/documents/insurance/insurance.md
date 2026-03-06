@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:b7aa5a1331dcbf722dca1bdfd170dd208a322c1d482926d15a4c4c8315a6938d
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 item_0.adjuster_phone: [PHONE-3]
 item_0.claim_number: IZX7996
 item_0.coverage_confirmation: Coverage Confirmed

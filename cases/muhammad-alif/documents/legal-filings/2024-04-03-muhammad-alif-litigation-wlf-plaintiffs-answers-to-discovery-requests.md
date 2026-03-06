@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:d3ae6a7cfbc8179815434c52cad597d370fd47a9f3b5f7a5068bf95022bd5e5f
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 Aaron G.Whaley, Esq.
 712 Lyndon Lane
 Louisville, KY 40222

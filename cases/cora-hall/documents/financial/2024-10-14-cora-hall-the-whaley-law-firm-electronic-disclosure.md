@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:46172c6708d235d97f594cf3b3bcb983ea24508f5006b2451559b5fffa304eb8
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 Certificate Of Completion
 Envelope Id: 443DD1D8793E467E9F740EA7DC60FCE1 Status: Completed
 Subject: The Whaley Law Firm has requested your signature. Follow the prompts to execute the attached.

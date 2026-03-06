@@ -1,12 +1,10 @@
 ---
 case_slug: samuel-clites
-created_at: 2026-02-17 00:17:46.495000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 2024-04-23
+document_date: {}
 document_type: correspondence
-entities:
-- State Farm
-- Anthem
+entities: null
 extraction_method: native_text
 legacy_case_id: 2024-04-23-MVA-001
 mime_type: application/pdf
@@ -14,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Samuel-Clites-MVA-4-23-2024/Liens/2024-09-26-Samuel-Clites-Lien-Anthem-Notice-of-Subrogation-Claim.pdf
 source_hash: sha256:6f7e3cca2668b61e2ababdbf560ea8611b317510f542eaff3e56c2e5141c4df2
+contact: "[[cases/2024-04-23-mva-001/contacts/anthem]]"
 ---
+
+**Case:** [[cases/samuel-clites/samuel-clites|Samuel Clites]]
+**Client:** [[cases/samuel-clites/contacts/samuel-clites|Samuel Clites]]
+
 
 © [DOB-1] 10:43AM Fax Services >Rebecca Riehl po2of3
 Anthem.2

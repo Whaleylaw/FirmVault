@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:158296a59af94bfde6878948ec3c4eaf243d010a8c5146b9ea78873c19b6b7b3
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: court_filing_notification
 date: 2025-01-08
 description: NEF (Notice of Electronic Filing) from Kentucky Court of Justice for eFiler in SITGRAVES, ABBY ET AL VS. CAAL WORLDWIDE, INC. ET AL case. Date and Time of Filing: January 8, 2025 at 3:06PM Eastern. Envelope #9604953.

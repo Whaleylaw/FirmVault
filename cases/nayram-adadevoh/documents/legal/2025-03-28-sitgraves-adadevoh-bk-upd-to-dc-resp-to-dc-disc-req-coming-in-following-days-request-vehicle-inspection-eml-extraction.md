@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:a9d1ece07be6081f18cae52f7a39d6d20bbc0cd3ed4151ea676de36f41bf32ef
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: Litigation
 date: 2025-03-28
 description: Email correspondence between attorneys regarding case Abby Sitgraves et al. v. Caal Worldwide et al. Bryce Koon (Whaley Law Firm) responding to Sam Leffert (defense counsel) on March 28, 2025. Promises discovery responses coming in following days and requests photographs of vehicle and availability for vehicle inspection.

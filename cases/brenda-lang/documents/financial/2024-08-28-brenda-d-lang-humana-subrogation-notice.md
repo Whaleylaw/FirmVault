@@ -1,11 +1,10 @@
 ---
 case_slug: brenda-lang
-created_at: 2026-02-16 22:09:36.041000+00:00
+created_at: {}
 document_category: financial
-document_date: 2021-09-03
+document_date: {}
 document_type: financial
-entities:
-- Humana
+entities: null
 extraction_method: native_text
 legacy_case_id: 2021-09-03-MVA-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda-Lang-MVA-09-03-2021/Liens/2024-08-28-Brenda-D-Lang-Humana-Subrogation-notice.pdf
 source_hash: sha256:ac4e799c67a974d183dc8f1bebe38cbd27e407812f48c90577c4ab0e4da1160d
+contact: "[[cases/2021-09-03-mva-001/contacts/humana]]"
 ---
+
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 
 © [DOB-1] 12:42 PM
 To:

@@ -21,6 +21,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:1be87f77999dd653a4839c7e6f916d9b1a15e3b676776545c508a9f83cadbb67
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 item_0.episode_type: litigation
 item_0.note_summary: Third Motion to Compel Discovery Granted
 item_0.project_name: Estate-of-Betty-Prince-Premise-7-14-2020

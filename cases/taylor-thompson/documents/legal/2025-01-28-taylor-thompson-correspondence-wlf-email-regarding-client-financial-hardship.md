@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor
 source_hash: sha256:6f7f7dafb0ba1b131f2e69646478b5bb89ee8b2ddea861e7c81532370853b9ce
 ---
 
+**Case:** [[cases/taylor-thompson/taylor-thompson|Taylor Thompson]]
+**Client:** [[cases/taylor-thompson/contacts/taylor-thompson|Taylor Thompson]]
+
 Subject: FW: Incoming Message Alert from 360 SMS App for Salesforce
 From: [EMAIL-1]
 To: [EMAIL-2]

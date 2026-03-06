@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmon
 source_hash: sha256:f0ed1f7463d5d0e0a2ff411b12e993843c8a1026e0d5af43d83da3a7d4334810
 ---
 
+**Case:** [[cases/julmonzhae-moore/julmonzhae-moore|Julmonzhae Moore]]
+**Client:** [[cases/julmonzhae-moore/contacts/julmonzhae-moore|Julmonzhae Moore]]
+
 Alan Jenkins
 AmeriPro EMS
 Julmonzhae Moore

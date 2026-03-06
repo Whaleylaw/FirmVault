@@ -1,8 +1,8 @@
 ---
 case_slug: daniel-w-volk
-created_at: 2026-02-16 22:55:29.905000+00:00
+created_at: {}
 document_category: medical
-document_date: 2022-04-29
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2021-09-24-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 90
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel-W-Volk-MVA-09-24-2021/Reports/extractions/2022-04-29-Daniel-W-Volk-Norton-Neuroscience-Institute-Brain-tumor-surgery-discussion.md_extraction.json
 source_hash: sha256:c2abde642fe76b6d8fffff5448472b92e91dc80da44752c91b4c751f049e0bc0
+contact: "[[cases/2021-09-24-mva-001/contacts/norton-neuroscience-institute]]"
 ---
+
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 
 extraction.classification.bucket: Medical Records
 extraction.classification.confidence: high

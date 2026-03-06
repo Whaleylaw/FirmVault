@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:acb6faee308e927e7d3208328c120dd3601867da185c66505da35e969028a9da
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 Subject: Re: MRI
 From: sarena@whaleylawfirm.com
 To: [EMAIL-4]

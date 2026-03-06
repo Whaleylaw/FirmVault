@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:6e750704793903e8698e03858211a6411296f098828cc09d056f400981fc27e1
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 case_folder: Shannon-Lankswert-WC-[DOB-3]
 job_id: job_[PHONE-2]_Shannon-Lankswert-WC-[DOB-3]
 phases.Phase 2a: Extraction.completed_at: 2026-02-04T04:21:43.952092

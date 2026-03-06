@@ -19,6 +19,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:dc08c3381d89896a15f9efbb97d64ff82963ae92207396ce8699684b1662a9d8
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 7 ia e. - A : . PF. . : : f . : e. : IL , ‘ ‘ 2 - ’ 1 ' , , Q - n - ~™e, : .
 
 ’ oo . oe WICK_000004 “

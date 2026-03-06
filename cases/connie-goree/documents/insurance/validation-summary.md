@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Connie
 source_hash: sha256:328ba920c0d2ee57bafccc023c719c75b9372a7955679b9c0c6e49a5409085e7
 ---
 
+**Case:** [[cases/connie-goree/connie-goree|Connie Goree]]
+**Client:** [[cases/connie-goree/contacts/connie-goree|Connie Goree]]
+
 decision_path: Error rate 10% overall, but critical file missing issue (40% of move actions will fail) → Recommend BLOCK pending clarification and correction
 error_rate: 10.0
 failed_validations: 3

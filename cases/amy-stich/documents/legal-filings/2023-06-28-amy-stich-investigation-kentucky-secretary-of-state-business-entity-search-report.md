@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:d17929aee36a19457af57a9740faed4ef9e5004cb1c63080262ab57776bfee4f
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 Kentucky.gov
 Kentucky Secretary of State
 Michael G. Adams

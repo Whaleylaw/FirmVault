@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:3252db199b13f058fdab44b3f8a516f5a74af2edc41856b2a8d6be2ce8bf0084
 ---
 
+**Case:** [[cases/james-sadler/james-sadler|James Sadler]]
+**Client:** [[cases/james-sadler/contacts/james-sadler|James Sadler]]
+
 item_0.adjuster_phone: [PHONE-2] Main
 item_0.claim_number: 1748B202X
 item_0.coverage_confirmation: Coverage Confirmed

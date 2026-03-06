@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:423214e065808940d0df277da56f39ed5e8bd2d31d491054e108c5c99550a84f
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 1/14/2020 MyChart - Medications Name: Amy Mills | DOB: [DOB-1] | MRN: EP02256299 } PCP; Paul R Smith
 
 Medications

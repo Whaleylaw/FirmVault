@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:b934bcdcb2417ea6516b2b8f89e1218462b74a059c6c51168e3395746e9657fb
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 Fax server [DOB-12] 1:48:56 PM PAGE 1/004 Fax Server
 To: [EMAIL-2]
 Company:

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:76111e0b2b3212a62c0c05b2da684bb2b68a0568d00d48f27793d82e347fec42
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: lien
 extraction.date: 2023-11-09
 extraction.description: HIPAA authorization form for CMS NGHP portal access to resolve Medicare lien matters, dated November 9, 2023.

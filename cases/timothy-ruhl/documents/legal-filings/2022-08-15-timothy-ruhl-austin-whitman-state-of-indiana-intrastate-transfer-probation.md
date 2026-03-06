@@ -4,6 +4,9 @@ document_category: court-filings
 legacy_case_id: 2023-09-14-PrL-001
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timothy-Ruhl-Premise-[DOB-61]/Public-Records/2022-08-15-timothy-ruhl-Austin-Whitman-State-of-Indiana-Intrastate-Transfer-Probation.pdf"
 source_hash: "sha256:7ba8e4219e18cfe23999c909f55695a1af8b01a502cb42974cc0763bd5dd12f4"

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:d591f5a38cdd9003c5fb7485b3a8cd58a3d1e136d71cfeabdbac3cc1ac1b51fb
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 [DOB-1]
 Norton Audubon Sports Medicine
 3 Audubon Plaza Dr

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:ade593818a8c4db6eaabf47f33a151c86d32321bad50f08293530cb0ab1fbdca
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 To:
 13-0ct-2aZ3
 je:05 of 23 2023-10-20 15:38:11 PDT 18007133438 From: MedicalRecords [PHONE-1]

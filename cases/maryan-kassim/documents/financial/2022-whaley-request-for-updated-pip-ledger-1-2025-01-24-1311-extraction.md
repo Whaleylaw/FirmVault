@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:a7eedd2261ce8b1bd9f6da11c56279fe573028a0585e9651564b4e59e6f151e7
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 category: Insurance
 date_extracted: 2025-01-24
 description: Template letter from Whaley Law Firm requesting updated PIP ledger from insurance company. Dated January 24, 2025. Form 2022 template requesting payment logs and PIP benefits status for client Maryan Kassim.

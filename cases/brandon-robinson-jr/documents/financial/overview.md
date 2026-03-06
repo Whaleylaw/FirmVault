@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brando
 source_hash: sha256:b8870ea5d65d5e36d653ea70094a517001a5b206dfc205cc984c65902ed2d039
 ---
 
+**Case:** [[cases/brandon-robinson-jr/brandon-robinson-jr|Brandon Robinson Jr]]
+**Client:** [[cases/brandon-robinson-jr/contacts/brandon-robinson-jr|Brandon Robinson Jr]]
+
 item_0.jsonb_agg[0].accident_date: 2025-12-23
 item_0.jsonb_agg[0].case_type: MVA
 item_0.jsonb_agg[0].client_address: 2028 Macarthur Drive, New Albany, IN 47150

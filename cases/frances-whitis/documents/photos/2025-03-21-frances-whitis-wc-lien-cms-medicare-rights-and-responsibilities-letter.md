@@ -1,8 +1,8 @@
 ---
 case_slug: frances-whitis
-created_at: 2026-02-16 23:42:23.548000+00:00
+created_at: {}
 document_category: photos
-document_date: 2024-09-06
+document_date: {}
 document_type: photo
 extraction_method: image_proxy
 legacy_case_id: 2024-09-06-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 70
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Frances-Whitis-WC-MVA-9-6-2024/Liens/2025-03-21-Frances-Whitis-WC-Lien-CMS-Medicare-Rights-and-Responsibilities-Letter.jpg
 source_hash: sha256:02de15c5d3df51fc3d6595dd206037b6c8c8cd9f88fe08c068d36ad9ca7608f8
+contact: "[[cases/2024-09-06-mva-001/contacts/medicare]]"
 ---
+
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 
 # Image Document
 

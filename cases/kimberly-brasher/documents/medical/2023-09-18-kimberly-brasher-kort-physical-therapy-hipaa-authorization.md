@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:12490b29c9a19dafcac80d357632bbc79112ee4d15059a0fb15e26f3de6181d1
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 KORT Physical Therapy – Madisonville
 24 Madison Square Drive
 Madisonville, KY 42431

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:2ac4d573dcf3d1c90bddd78cf4135dfcadd053ed6a61df189a904af0bc8732eb
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 item_0.extension: .eml
 item_0.name: 2025.03.28-Sitgraves-Adadevoh-BK-Upd-to-DC-Resp-to-DC-Disc-Req-Coming-in-following-days-Request-Vehicle-Inspection.eml
 item_0.path: 2025.03.28-Sitgraves-Adadevoh-BK-Upd-to-DC-Resp-to-DC-Disc-Req-Coming-in-following-days-Request-Vehicle-Inspection.eml

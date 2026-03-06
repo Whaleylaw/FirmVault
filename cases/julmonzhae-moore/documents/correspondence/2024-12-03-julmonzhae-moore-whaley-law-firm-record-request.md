@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmon
 source_hash: sha256:26f68bc2dbe0a208d1ff9b56c383f46751848e5cd8471693714a8d381a7b9a83
 ---
 
+**Case:** [[cases/julmonzhae-moore/julmonzhae-moore|Julmonzhae Moore]]
+**Client:** [[cases/julmonzhae-moore/contacts/julmonzhae-moore|Julmonzhae Moore]]
+
 Fax Confirmation
 To: [PHONE-8] From: [PHONE-2]
 Doc:

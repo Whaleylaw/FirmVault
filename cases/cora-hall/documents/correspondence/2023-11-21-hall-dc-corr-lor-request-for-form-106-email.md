@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:28879d8eb60f6295580ba02b969ae3eb7bf16c233d3c5f3f0430a83a67db1814
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 Subject: Cora Hall v. Sonic (AFC230577703) - Letter of Rep. and Request for Form 106
 From: [EMAIL-7]
 To: [EMAIL-6], sarena@whaleylawfirm.com

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Connie
 source_hash: sha256:14c9c8c9912f2dd575ed963a821a7b6dcae312886149ad17421683a01b03567b
 ---
 
+**Case:** [[cases/connie-goree/connie-goree|Connie Goree]]
+**Client:** [[cases/connie-goree/contacts/connie-goree|Connie Goree]]
+
 extraction.classification.bucket: Medical Records
 extraction.classification.confidence: low
 extraction.classification.document_type: medical_records

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:4a8b7ab8f103c1af122ee34a6845b3b8923c09e9c174f6da26b636aa0181d795
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 16/38/26 15:23:14 RFC/ CORP > 18335123788 RFC/ CORP Page 441
 i | CHANGE NASHVILLE, sssenceTN 37214
 HEALTHCARE” T[PHONE-4]

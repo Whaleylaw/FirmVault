@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Deanna
 source_hash: sha256:15cb3f9cff8e3d995674dee3a72e9fffdb95f06ebf963465454e6fbb0949d7a2
 ---
 
+**Case:** [[cases/deanna-jones/deanna-jones|Deanna Jones]]
+**Client:** [[cases/deanna-jones/contacts/deanna-jones|Deanna Jones]]
+
 item_0.jsonb_agg[0].address: 1216 Homeview Dr, Louisville, KY
 item_0.jsonb_agg[0].full_name: Deanna Jones
 item_0.jsonb_agg[0].phone: [PHONE-6]

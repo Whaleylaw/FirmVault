@@ -1,10 +1,9 @@
 ---
 case_slug: greg-neltner
-created_at: 2026-02-16 23:44:25.015000+00:00
+created_at: {}
 document_category: insurance
 document_type: insurance
-entities:
-- State Farm
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-04-01-MVA-002
 mime_type: application/pdf
@@ -12,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-Neltner-MVA-4-1-2023/Medical-Records/2023-09-25-Greg-Neltner-Southgate-Chiropractic-Medical-Payments.pdf
 source_hash: sha256:cfa0950f1cb6f9e5fdc7cad57ed7c49f2d94ab29d93d36ecc144e26e7c2d6f68
+contact: "[[cases/2023-04-01-mva-002/contacts/southgate-chiropractic]]"
 ---
+
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 
 1007048 Page 1 of 3 2005 148026 205 [DOB-132]
 RBZ000FJ State Farm®

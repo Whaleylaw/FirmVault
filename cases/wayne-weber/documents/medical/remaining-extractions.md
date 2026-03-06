@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:991c35a906ef733c08129bfc2951aadf88bf37f90fc6450c982771512c81bef4
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 Wayne-Weber-MVA-[DOB-79]/2024-07-18-Wayne-Weber-The-Whaley-Law-Firm-Claim-Update.pdf
 Wayne-Weber-MVA-[DOB-78]/2022-01-20-Wayne-Weber-SOUTHERN-EMERGENCY-MEDICAL-health-insurance-claim.pdf
 Wayne-Weber-MVA-[DOB-77]/2024-07-10-Wayne-Weber-CENTERS-FOR-MEDICARE-MEDICAID-SERVICES-Medicare-Secondary-Payer-Rights-and-Responsibilities.pdf

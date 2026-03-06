@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:b57e4ea1f2ca1152ba624d8dd922a8dc5d3c1ed4ada08e423a948ffdfa8c7777
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 1-Oct-2824 15:36 SpanDSP Fax Header [PHONE-4] p.2
 Location
 Unit Response junit Call Sign EMS[PHONE-3]

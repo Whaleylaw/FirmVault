@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:155011c7b0eee4b4110a678608a9265002eb891c8b6f6bcd49dd6864791047ad
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 case_folder: Anella-Noble-MVA-[DOB-2]
 job_id: file-org-a0d6da0e
 phases.extraction.completed_at: 2026-02-02T11:21:38.396591

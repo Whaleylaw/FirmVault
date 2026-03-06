@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jonah-
 source_hash: sha256:673b8863f4f88039c628c2de800f2b87b0c19ee2de696ba16e176d86ca4fb793
 ---
 
+**Case:** [[cases/jonah-price/jonah-price|Jonah Price]]
+**Client:** [[cases/jonah-price/contacts/jonah-price|Jonah Price]]
+
 item_0.jsonb_agg[0].full_name: Jonah Price
 item_0.jsonb_agg[0].project_name: Jonah-Price-MVA-8-25-2025
 item_0.jsonb_agg[0].roles[0]: client

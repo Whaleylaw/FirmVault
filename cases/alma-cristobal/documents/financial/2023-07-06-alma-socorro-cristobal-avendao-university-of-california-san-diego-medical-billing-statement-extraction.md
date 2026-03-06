@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:f50859187935f4ecc0ba41eb31b0d3343bbe0de3d3a5aae69b7f853b93205371
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 category: Medical Bills
 description: Medical billing statement from UCSD
 entities[0]: Alma Socorro Cristobal Avendaño

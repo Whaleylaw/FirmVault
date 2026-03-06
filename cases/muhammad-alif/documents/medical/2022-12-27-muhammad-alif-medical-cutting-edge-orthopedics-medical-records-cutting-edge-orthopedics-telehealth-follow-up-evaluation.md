@@ -1,18 +1,22 @@
 ---
 case_slug: muhammad-alif
-created_at: 2026-02-17 00:11:10.242000+00:00
+created_at: {}
 document_category: medical
-document_date: 1961-04-16
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2022-11-08-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Cutting
-  Edge Orthopedics/Medical Records/2022-12-27-Muhammad-Alif-Medical-Cutting Edge Orthopedics-Medical-Records-Cutting-Edge-Orthopedics-Telehealth-Follow-Up-Evaluation.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Cutting Edge Orthopedics/Medical Records/2022-12-27-Muhammad-Alif-Medical-Cutting Edge Orthopedics-Medical-Records-Cutting-Edge-Orthopedics-Telehealth-Follow-Up-Evaluation.pdf
 source_hash: sha256:7e52f3ff839487db7cb937fd20271fcc83fcb5ef6cbbe65a91e5d7e8b233e18c
+contact: "[[cases/2022-11-08-mva-001/contacts/cutting-edge-orthopedics]]"
 ---
+
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 
 Phone (Primary): [PHONE-1]
 Phone (Secondary): n/a

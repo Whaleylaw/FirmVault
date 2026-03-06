@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:e509b44e8d91589a966d70d9b2df4e96f79b66a2d31450c2d054be4850990c34
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: legal_document
 date: 2025-05-09
 description: Plaintiff Abby Sitgraves' Responses to Defendants' First Set of Interrogatories and Requests for Production of Documents in case 25-CI-000133. Certificate of Service dated May 9, 2025.

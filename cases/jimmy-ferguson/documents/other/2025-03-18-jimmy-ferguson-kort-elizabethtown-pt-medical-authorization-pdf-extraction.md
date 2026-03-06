@@ -1,8 +1,8 @@
 ---
 case_slug: jimmy-ferguson
-created_at: 2026-02-16 23:58:07.416000+00:00
+created_at: {}
 document_category: other
-document_date: 2025-03-18
+document_date: {}
 document_type: other
 extraction_method: native_text
 legacy_case_id: 2024-05-30-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 95
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-Ferguson-MVA-5-30-2024/extractions/2025-03-18-Jimmy-Ferguson-KORT-Elizabethtown-PT-Medical-Authorization.pdf_extraction.json
 source_hash: sha256:ba5241e20bfba21dfb762495b2452263e097f981699ef3d70cdfa3e12c7a68be
+contact: "[[cases/2024-05-30-mva-001/contacts/kort-elizabethtown-pt]]"
 ---
+
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 
 category: Medical
 date: 2025-03-18

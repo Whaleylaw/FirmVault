@@ -1,8 +1,8 @@
 ---
 case_slug: charles-t-johnson
-created_at: 2026-02-16 22:25:20.866000+00:00
+created_at: {}
 document_category: insurance
-document_date: 2023-04-18
+document_date: {}
 document_type: insurance
 extraction_method: native_text
 legacy_case_id: 2023-04-18-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charles-T-Johnson-MVA-4-18-2023/Correspondence/2023-04-21-Charles-T-Johnson-Auto-Owners-Insurance-Letter-to-Insurer.pdf
 source_hash: sha256:f686ae1b618388dee6665819abdbea53e7b849ca25b12e4fd345eaf8ace36aab
+contact: "[[cases/2023-04-18-mva-001/contacts/auto-owners-insurance]]"
 ---
+
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 
 Justin Chumbley
 Aaron G. Whaley, Esq.

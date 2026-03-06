@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Collee
 source_hash: sha256:eb3ecfc93fa90251c9a2003e38bb958adb5754e4c004c29e4af58c4cd27dfc20
 ---
 
+**Case:** [[cases/colleen-colvin/colleen-colvin|Colleen Colvin]]
+**Client:** [[cases/colleen-colvin/contacts/colleen-colvin|Colleen Colvin]]
+
 Subject: Re: Colleen & Shannon Colvin v Paul Rafferty - Hardin 24-CI-01568
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

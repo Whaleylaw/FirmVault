@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:dd0299fb990fb685db7a0ba7dc5ce425acd64f7792eab49db77a9c5f6aacf431
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 Kentucky Farm Bureau
 Mutual Insurance Company
 CLAIM NUMBER

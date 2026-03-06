@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Samuel
 source_hash: sha256:2bc596e0631a57b9fab8f2de3b4507177cfa0a1a55d51f3bb94908c4e8bac61b
 ---
 
+**Case:** [[cases/samuel-clites/samuel-clites|Samuel Clites]]
+**Client:** [[cases/samuel-clites/contacts/samuel-clites|Samuel Clites]]
+
 Verification Complete
 The document has been officially verified.
 Recipient1

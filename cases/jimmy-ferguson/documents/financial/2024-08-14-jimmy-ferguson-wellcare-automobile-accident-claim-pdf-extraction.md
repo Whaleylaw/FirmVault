@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:f1ef67893ad3b3947771239e2a1fdc03c087e0cfb89587ce3a123473605d0592
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 category: Lien
 date: 2024-08-14
 description: Letter dated 8/14/2024 from Whaley Law Firm to WellCare of Kentucky notifying of representation for Jimmy Ferguson's 5/30/2024 accident, requesting subrogation interest amount and payment ledger.

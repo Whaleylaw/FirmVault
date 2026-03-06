@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:6a435ce0c5a84060678104fd761cd0ebce037956bd3390cbf33eda371725a8a3
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: lien
 extraction.date: 2024-07-10
 extraction.description: Centers for Medicare Medicaid Services Medicare Secondary Payer Rights and Responsibilities for Wayne Weber dated July 10, 2024.

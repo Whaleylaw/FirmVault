@@ -1,11 +1,10 @@
 ---
 case_slug: daniel-w-volk
-created_at: 2026-02-16 22:55:22.599000+00:00
+created_at: {}
 document_category: legal
-document_date: 1964-02-22
+document_date: {}
 document_type: legal
-entities:
-- Baptist Health
+entities: null
 extraction_method: native_text
 legacy_case_id: 2021-09-24-MVA-001
 mime_type: application/json
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel-W-Volk-MVA-09-24-2021/Reports/extractions/2021-09-24-Daniel-W-Volk-Safeco-Insurance-Company-of-Illinois-Interrogatories-and-Production-Responses_extraction.json
 source_hash: sha256:b9ff62444271436fb5ca10551dbe7e4d816c079fa3b56cd9785fbd3d135468a1
+contact: "[[cases/2021-09-24-mva-001/contacts/safeco-insurance-company]]"
 ---
+
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 
 extraction.classification.bucket: Litigation
 extraction.classification.confidence: high

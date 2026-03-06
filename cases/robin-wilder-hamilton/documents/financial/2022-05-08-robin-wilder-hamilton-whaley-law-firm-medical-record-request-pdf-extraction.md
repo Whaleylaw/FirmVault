@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:5cfb17fb6258db6af808d9429aa8281d25d70a7d1d82c00d82c189140492c443
 ---
 
+**Case:** [[cases/robin-wilder-hamilton/robin-wilder-hamilton|Robin Wilder Hamilton]]
+**Client:** [[cases/robin-wilder-hamilton/contacts/robin-wilder-hamilton|Robin Wilder Hamilton]]
+
 content_summary: Letter of representation from Whaley Law Firm dated May 8, 2024 requesting medical records and billing information for Robin Wilder-Hamilton for accident on 6/15/2023, sent to Portsmouth OH facility.
 document_date: 2024-05-08
 entities[0]: Robin Wilder-Hamilton

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:bf4279c627a47f081e729f588c49183625056f75e82f706a443144080711ea42
 ---
 
+**Case:** [[cases/michae-guyton/michae-guyton|Michae Guyton]]
+**Client:** [[cases/michae-guyton/contacts/michae-guyton|Michae Guyton]]
+
 accident_date: 2025-11-14
 case_type: MVA
 client_name: Michae-Guyton

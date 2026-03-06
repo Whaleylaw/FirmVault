@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dana-J
 source_hash: sha256:18bbe9f72b267c5c367b266c313b0eb322b4fff941ade6e9b2e82d9005e265e7
 ---
 
+**Case:** [[cases/dana-jackson/dana-jackson|Dana Jackson]]
+**Client:** [[cases/dana-jackson/contacts/dana-jackson|Dana Jackson]]
+
 Certificate Of Completion
 Envelope Id: E6E93574-B028-49EA-95E5-B2F70120491D Status: Completed
 Subject: The Whaley Law Firm has requested your signature. Follow the prompts to execute the attached.

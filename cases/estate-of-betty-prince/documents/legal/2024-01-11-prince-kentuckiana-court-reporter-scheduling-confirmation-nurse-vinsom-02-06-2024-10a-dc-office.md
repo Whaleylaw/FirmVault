@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:535b662d39f2d1b06caec5c51fb40c8b998665b772ada18f023c588fce4b9373
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 Subject: Re: New submission from 20 Second Scheduler
 From: [EMAIL-11]
 To: sarena@whaleylawfirm.com

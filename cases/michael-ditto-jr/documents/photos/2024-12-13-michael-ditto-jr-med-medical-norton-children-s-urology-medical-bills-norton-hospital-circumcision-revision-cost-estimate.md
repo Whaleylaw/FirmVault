@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:dd6c7a2bb40179feb2cd82e471672616279a51b8d9aa7224ca404821f471b9b2
 ---
 
+**Case:** [[cases/michael-ditto-jr/michael-ditto-jr|Michael Ditto Jr]]
+**Client:** [[cases/michael-ditto-jr/contacts/michael-ditto-jr|Michael Ditto Jr]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michael-Ditto-Jr-Med-Mal-[DOB-1]/Medical/Norton Children's Urology/Medical Bills/2024-12-13-Michael-Ditto-Jr-Med-Medical-Norton Children's Urology-Medical-Bills-Norton-Hospital-Circumcision-Revision-Cost-Estimate.png

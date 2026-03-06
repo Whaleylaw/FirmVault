@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:5ed422697fb6a9c32786efb0317342b95c2b56f950d7474bf1b7bfacb37e4c48
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 + [DOB-1] 2:34 PM Fax Services W. BRYCE KOON, ESQ pg 1 of 3
 FAX
 To: W. BRYCE KOON, ESQ

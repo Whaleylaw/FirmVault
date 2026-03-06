@@ -34,6 +34,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:0bb2de5e1d07e17f39a2704db294786aba33b67d2a0bf6987aa69c549cab6e48
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 APTIST HEALTH’ oa?
 
 Release of Information Baptist Health

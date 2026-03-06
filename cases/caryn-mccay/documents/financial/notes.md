@@ -19,6 +19,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-
 source_hash: sha256:bca2134431ca3fdb7fa16a57b1f997a754dda0e86d5a2e3feffabf719ef768d6
 ---
 
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 item_0.author_name: Aaron
 item_0.episode_type: case_note
 item_0.last_activity: 2025-08-22

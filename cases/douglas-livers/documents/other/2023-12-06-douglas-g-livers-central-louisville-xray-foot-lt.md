@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:00c97382909bddbe459c67d8528a97f8b454ca21b6c71ddf4340398d5baf6d21
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 IMAGING
 PATIENT: LIVERS, DOUGLAS DOB: 14-Aug-1965
 REFERRED BY: ZEUS LEE ARNP AGE: 58 years 

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:ea1218695e248094fb497a77d796386adc44c609fe1b50f3d1202d654a3d8dba
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 wn
 THE WHALEY LAW FIRM
 INITIAL CLIENT INTAKE FORM

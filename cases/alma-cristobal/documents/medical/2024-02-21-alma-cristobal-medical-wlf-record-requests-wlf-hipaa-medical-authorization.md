@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:83ea5324118fc577d49a279483e6ee0e1aa44a0f87686b4fd19597756f80106f
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 University of Louisville Hospital
 530 S. Jackson Street
 Louisville, KY 40202

@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2024-02-15-MVA-002
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christopher-Wilkerson-WC-MVA-[DOB-5]/Medical Records/2024-11-12_Medical_Narrative-Report-Request_Taylor-County-Chiropractic_v2.pdf"
 source_hash: "sha256:799a94e2503ba9da8893a9e166736278ec2fffed96f7b0e2f22827fbeb611261"

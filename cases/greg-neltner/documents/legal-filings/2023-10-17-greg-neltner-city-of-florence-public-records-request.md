@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-N
 source_hash: sha256:b94826db36d2bacf38fc7f763a215fc15b9bdf848eb0544f9ff09586ee9e3c8d
 ---
 
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 REQUEST TO INSPECT PUBLIC RECORDS
 Pursuant to the Kentucky Open Records Act (“the Act”), KRS 61.870 et. seq., the undersigned requests to inspect the 
 public records which are described below.

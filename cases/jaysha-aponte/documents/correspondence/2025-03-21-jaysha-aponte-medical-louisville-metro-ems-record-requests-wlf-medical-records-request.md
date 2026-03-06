@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jaysha
 source_hash: sha256:c6e61f7b0a7460a3fb02a8438eea1d013fd3bc16aa9058da52725b495ecc49aa
 ---
 
+**Case:** [[cases/jaysha-aponte/jaysha-aponte|Jaysha Aponte]]
+**Client:** [[cases/jaysha-aponte/contacts/jaysha-aponte|Jaysha Aponte]]
+
 Aaron G. Whaley, Esq.
 THE 712 Lyndon Lane
 H A F Y Louisville, KY 40222

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:e17b2e7f0c30bc042a1b9258ea4f78fbac4b2a9a243caeacfd4f8136af6125d0
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Release of Information
 Baptist Health
 2600 Stanley Gault Pkwy.

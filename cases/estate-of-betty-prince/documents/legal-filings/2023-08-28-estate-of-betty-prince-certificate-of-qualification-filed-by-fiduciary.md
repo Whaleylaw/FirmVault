@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:915665a07b2b5180f31ceae2c8433f9db03397678d71e3f46faaa716863b4a1a
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 IN Re: Estate of _______________________________________________________________________________
 	 Proper petition having been filed and the Court having appointed _____________________________________
 ____________________________________________________ as ________________________________________

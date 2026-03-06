@@ -1,18 +1,22 @@
 ---
 case_slug: forrest-muss
-created_at: 2026-02-16 23:41:26.155000+00:00
+created_at: {}
 document_category: medical
-document_date: 1980-02-20
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2025-07-20-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Forrest-Muss-MVA-07-20-2025/Medical/Little
-  Clinic/Medical Records/2025-07-20-Forrest-Muss-Medical-Little Clinic-Medical-Records-Tejah-Strickland-PA-Medical-Progress-Notes.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Forrest-Muss-MVA-07-20-2025/Medical/Little Clinic/Medical Records/2025-07-20-Forrest-Muss-Medical-Little Clinic-Medical-Records-Tejah-Strickland-PA-Medical-Progress-Notes.pdf
 source_hash: sha256:4e4db0383a6812c03b3e4bbb87227c07f116e97309100a59ddb06fe2347cfeb7
+contact: "[[cases/2025-07-20-mva-001/contacts/little-clinic]]"
 ---
+
+**Case:** [[cases/forrest-muss/forrest-muss|Forrest Muss]]
+**Client:** [[cases/forrest-muss/contacts/forrest-muss|Forrest Muss]]
+
 
 MUSS, Forrest DOB: [DOB-1] (45 yo M) Acc No. 1795704 DOS: [DOB-1]
 Progress Notes

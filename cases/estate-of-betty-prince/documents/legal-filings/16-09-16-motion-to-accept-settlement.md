@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:7611e960ac063111d4426fe1f7fc27b0366855131c4a5223f0913dbf748851a2
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 CASENO.: 16-P-0233 COMMONWEALTH OF KENTUCKY
 
 BULLITT COUNTY DISCTRICT COURT

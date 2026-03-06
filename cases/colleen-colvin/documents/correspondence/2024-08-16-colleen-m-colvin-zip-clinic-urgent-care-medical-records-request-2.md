@@ -2,7 +2,12 @@
 case_slug: colleen-colvin
 document_category: correspondence
 legacy_case_id: 2023-10-01-MVA-001
+contact: "[[cases/2023-10-01-mva-001/contacts/zip-clinic-urgent-care]]"
 ---
+
+**Case:** [[cases/colleen-colvin/colleen-colvin|Colleen Colvin]]
+**Client:** [[cases/colleen-colvin/contacts/colleen-colvin|Colleen Colvin]]
+
 
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Colleen-Colvin-MVA-[DOB-1]/Medical-Records/2024-08-16-Colleen-M-Colvin-Zip-Clinic-Urgent-Care-Medical-Records-Request-2.pdf"

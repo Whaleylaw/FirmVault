@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:4169aba3d1c6cf886696141d137912e8e1080822ebca8d4f0201f05afe0f788c
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 The Whaley Law Firm
 712 Lyndon Lane
 Louisville, KY 40222

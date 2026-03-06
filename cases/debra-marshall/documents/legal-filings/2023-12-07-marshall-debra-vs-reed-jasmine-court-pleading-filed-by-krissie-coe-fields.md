@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:669b2f8eb4369c43ae32da11b3154d3457e5e2b53146ea97f83f450a5f3dc011
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 Commonwealth of Kentucky
 Krissie Coe Fields, Barren Circuit Clerk
 Received From: AARON WHALEY Account Of: AARON WHALEY

@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:fc49547eb3df71b31816c0a783575c488d0d08a7983c6e63677578226e3908f9
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 Patient: Kassim,Maryan
 Account ID: 244244367
 Norton Healthcare

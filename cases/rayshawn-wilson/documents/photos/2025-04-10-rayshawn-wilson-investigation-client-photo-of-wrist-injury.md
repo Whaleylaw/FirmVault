@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Raysha
 source_hash: sha256:b40b17e2087785902e391a2c02670d9763eb1e606921c2a47d676d26c55df896
 ---
 
+**Case:** [[cases/rayshawn-wilson/rayshawn-wilson|Rayshawn Wilson]]
+**Client:** [[cases/rayshawn-wilson/contacts/rayshawn-wilson|Rayshawn Wilson]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Rayshawn-Wilson-MVA-4-10-2025/Investigation/2025-04-10-Rayshawn-Wilson-Investigation-Client-Photo-of-wrist-injury.jpg

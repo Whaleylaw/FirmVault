@@ -1,8 +1,8 @@
 ---
 case_slug: ashlee-williams
-created_at: 2026-02-16 22:08:18.655000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 2002-12-01
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2023-08-29-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee-Williams-MVA-08-29-2023/Medical-Records/2024-11-26-Ashlee-K-Williams-Kentucky-Pain-Associates-Medical-Records-Request.pdf
 source_hash: sha256:9b37790a3cc0155fce680af9963fd76b39d6c612a0db8446091570b52ef5f0d2
+contact: "[[cases/2023-08-29-mva-001/contacts/kentucky-pain-associates]]"
 ---
+
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

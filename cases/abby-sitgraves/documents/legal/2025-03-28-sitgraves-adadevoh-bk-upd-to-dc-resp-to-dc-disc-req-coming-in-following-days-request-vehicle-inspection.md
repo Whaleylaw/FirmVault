@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Abby-S
 source_hash: sha256:08bf08d7226524312288ebafbd7c99144c58cbe51de6b3129146c1f442f7bbf4
 ---
 
+**Case:** [[cases/abby-sitgraves/abby-sitgraves|Abby Sitgraves]]
+**Client:** [[cases/abby-sitgraves/contacts/abby-sitgraves|Abby Sitgraves]]
+
 Subject: Re: Abby Sitgraves, et al. v. Caal Worldwide, et al.
 From: [EMAIL-1]
 To: [EMAIL-2], [EMAIL-3]

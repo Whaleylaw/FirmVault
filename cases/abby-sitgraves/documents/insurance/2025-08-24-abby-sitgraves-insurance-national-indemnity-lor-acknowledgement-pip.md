@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Abby-S
 source_hash: sha256:a384cf8244e1faaac31c8926e432ef2b389b32c6f46914aa3805d5bb5368c944
 ---
 
+**Case:** [[cases/abby-sitgraves/abby-sitgraves|Abby Sitgraves]]
+**Client:** [[cases/abby-sitgraves/contacts/abby-sitgraves|Abby Sitgraves]]
+
 aii National Indemnity
 group of insurance companies
 National Indemnity Company National Fire & Marine Insurance Company National Liability & Fire Insurance Company

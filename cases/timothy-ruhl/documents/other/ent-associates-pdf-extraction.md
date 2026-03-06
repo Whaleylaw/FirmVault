@@ -1,6 +1,6 @@
 ---
 case_slug: timothy-ruhl
-created_at: 2026-02-17 00:36:38.206000+00:00
+created_at: {}
 document_category: other
 document_type: other
 extraction_method: native_text
@@ -10,7 +10,12 @@ page_count: 1
 quality_score: 85
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timothy-Ruhl-Premise-09-14-2023/Reports/extractions/ENT-Associates.pdf_extraction.json
 source_hash: sha256:1ba9cb18144ab3f15d0b235e780958920cb3e67b13dd77e1c276c9e5104b7483
+contact: "[[cases/2023-09-14-prl-001/contacts/ent-associates]]"
 ---
+
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 
 content_analysis.category: Medical Records
 content_analysis.description: Medical provider reference

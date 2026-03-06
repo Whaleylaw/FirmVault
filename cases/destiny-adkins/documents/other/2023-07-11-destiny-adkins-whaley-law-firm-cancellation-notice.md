@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Destin
 source_hash: sha256:32085d2c44e9031dadff1859b6cb136f233614a75393122cf1297247c075fa55
 ---
 
+**Case:** [[cases/destiny-adkins/destiny-adkins|Destiny Adkins]]
+**Client:** [[cases/destiny-adkins/contacts/destiny-adkins|Destiny Adkins]]
+
 CANCELLATION Kentuckiana Reporters
 P.O. Box 3983
 Louisville, KY 40201

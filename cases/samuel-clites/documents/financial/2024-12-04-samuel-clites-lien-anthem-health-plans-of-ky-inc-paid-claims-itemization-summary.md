@@ -1,11 +1,10 @@
 ---
 case_slug: samuel-clites
-created_at: 2026-02-17 00:17:47.899000+00:00
+created_at: {}
 document_category: financial
-document_date: 1967-09-15
+document_date: {}
 document_type: financial
-entities:
-- Anthem
+entities: null
 extraction_method: native_text
 legacy_case_id: 2024-04-23-MVA-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Samuel-Clites-MVA-4-23-2024/Liens/2024-12-04-Samuel-Clites-Lien-Anthem-Health-Plans-of-KY-Inc-Paid-Claims-Itemization-Summary.pdf
 source_hash: sha256:e7257346b04a8275633de47012e347557a86e4d57369a9bc2438bba8f486c93e
+contact: "[[cases/2024-04-23-mva-001/contacts/anthem]]"
 ---
+
+**Case:** [[cases/samuel-clites/samuel-clites|Samuel Clites]]
+**Client:** [[cases/samuel-clites/contacts/samuel-clites|Samuel Clites]]
+
 
 XXXXX4032
 Patient Total:

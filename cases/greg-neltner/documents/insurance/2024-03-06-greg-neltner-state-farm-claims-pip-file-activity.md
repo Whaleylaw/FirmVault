@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-N
 source_hash: sha256:80771aee434659b098d88b7915bb958635e0ca1e2831840bbddd74a0aec4ad09
 ---
 
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 March 6, 2024
 Whaley Law Firm
 712 Lyndon Ln

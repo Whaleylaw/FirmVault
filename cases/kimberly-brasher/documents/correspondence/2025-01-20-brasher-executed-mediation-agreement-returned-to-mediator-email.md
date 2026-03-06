@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:5f754a739d0d9477b2eb3711e334e04688450c58d0d93883d2b13ac71fa8c9f7
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 Subject: Re: Brasher v. Walgreen Co. - Feb. 25
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

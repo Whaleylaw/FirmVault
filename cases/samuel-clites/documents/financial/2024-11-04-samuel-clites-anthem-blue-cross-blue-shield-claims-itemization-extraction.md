@@ -1,12 +1,10 @@
 ---
 case_slug: samuel-clites
-created_at: 2026-02-17 00:18:24.638000+00:00
+created_at: {}
 document_category: financial
-document_date: 2024-11-04
+document_date: {}
 document_type: financial
-entities:
-- Blue Cross
-- Anthem
+entities: null
 extraction_method: native_text
 legacy_case_id: 2024-04-23-MVA-001
 mime_type: application/json
@@ -14,7 +12,12 @@ page_count: 1
 quality_score: 90
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Samuel-Clites-MVA-4-23-2024/extractions/2024-11-04-Samuel-Clites-Anthem-Blue-Cross-Blue-Shield-Claims-Itemization_extraction.json
 source_hash: sha256:7ccfa5c8e92c3c6b68bc7c4af8849d8302a9f279ead111204dc76d04760e928e
+contact: "[[cases/2024-04-23-mva-001/contacts/anthem]]"
 ---
+
+**Case:** [[cases/samuel-clites/samuel-clites|Samuel Clites]]
+**Client:** [[cases/samuel-clites/contacts/samuel-clites|Samuel Clites]]
+
 
 extraction.classification.bucket: Lien
 extraction.classification.confidence: high

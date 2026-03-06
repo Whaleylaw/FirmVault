@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:62b5cb71509c55a8845e1764bdb7515c38a7d8d8bc9acd9199c89af8b30fb97c
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 CASE NO. 21-CI-004985 JEFFERSON CIRCUIT COURT 
 DIVISION FIVE (5) 
 HON. JUDGE TRACY DAVIS 

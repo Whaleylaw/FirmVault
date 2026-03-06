@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Malcom
 source_hash: sha256:0ede53f2b340c46cc03df5974df8111c00bff4dd6eb1cbff6f434fbf9a230675
 ---
 
+**Case:** [[cases/malcom-glass-jones/malcom-glass-jones|Malcom Glass Jones]]
+**Client:** [[cases/malcom-glass-jones/contacts/malcom-glass-jones|Malcom Glass Jones]]
+
 [PHONE-13] Bias Mar.19.2025 11:23 AMTri-State
 Starlite Chiropractic, PLLC
 Fax Cover Sheet

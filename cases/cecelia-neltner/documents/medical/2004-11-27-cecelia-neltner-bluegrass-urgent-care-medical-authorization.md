@@ -1,11 +1,10 @@
 ---
 case_slug: cecelia-neltner
-created_at: 2026-02-16 22:18:47.302000+00:00
+created_at: {}
 document_category: medical
-document_date: 2004-11-27
+document_date: {}
 document_type: medical
-entities:
-- Bluegrass Urgent Care
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-04-01-MVA-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecelia-Neltner-MVA-4-1-2023/Correspondence/2004-11-27-Cecelia-Neltner-Bluegrass-Urgent-Care-Medical-Authorization.pdf
 source_hash: sha256:a65681c439efdde77a41740f1767bd2396bd94c414b8d871f8cbedb1a76a9a28
+contact: "[[cases/2023-04-01-mva-001/contacts/bluegrass-urgent-care]]"
 ---
+
+**Case:** [[cases/cecelia-neltner/cecelia-neltner|Cecelia Neltner]]
+**Client:** [[cases/cecelia-neltner/contacts/cecelia-neltner|Cecelia Neltner]]
+
 
 [DOB-1]
 ***-**-1112 [DOB-1]

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:ee9c72dd3a8bef838a99daeeeec1ceb1149318aa99fe1a767877bbf0a8249041
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 Subject: Fwd: New Voice Message from [PHONE-13] on [DOB-2] 3:01 PM
 From: [EMAIL-3]
 To: sarena@whaleylawfirm.com, [EMAIL-4], [EMAIL-9]

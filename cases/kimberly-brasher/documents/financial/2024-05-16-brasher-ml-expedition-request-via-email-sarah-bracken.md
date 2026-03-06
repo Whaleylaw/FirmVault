@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:363d2de05772ea2df34f693c01b0f361a7a95be89d3bb6c6b2c3926b916f83a4
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 Subject: PHIA Reference: 20240514-001078 Kimberly Brasher
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

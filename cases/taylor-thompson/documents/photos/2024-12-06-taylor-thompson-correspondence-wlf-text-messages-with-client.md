@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor
 source_hash: sha256:7e991e502c5a1ca122b0692eabb8fb054113c48b1f5d5efddbe40510be03c466
 ---
 
+**Case:** [[cases/taylor-thompson/taylor-thompson|Taylor Thompson]]
+**Client:** [[cases/taylor-thompson/contacts/taylor-thompson|Taylor Thompson]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor-Thompson-MVA-[DOB-1]/Correspondence/2024-12-06-Taylor-Thompson-Correspondence-WLF-Text-Messages-With-Client.jpeg

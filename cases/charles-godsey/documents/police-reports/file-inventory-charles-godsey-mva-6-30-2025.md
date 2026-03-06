@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:7fa1da779dd84be5853ebcd8ade197e8c4eb23ea0a16014bef2473ebd144338c
 ---
 
+**Case:** [[cases/charles-godsey/charles-godsey|Charles Godsey]]
+**Client:** [[cases/charles-godsey/contacts/charles-godsey|Charles Godsey]]
+
 item_0.extension: .md
 item_0.name: Copier Scans_[POLICY-1]_132534.md
 item_0.path: Copier Scans_20251001_132534.md

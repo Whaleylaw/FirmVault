@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:569cba51fd3a478173a017343d4d6a89510cfcdb5a0e771242dba9b685525bfa
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: medical_requests
 extraction.date: 2023-11-06
 extraction.description: HIPAA authorization for medical records request to Baptist Health Medical Group Internal Medicine for Wayne Weber.

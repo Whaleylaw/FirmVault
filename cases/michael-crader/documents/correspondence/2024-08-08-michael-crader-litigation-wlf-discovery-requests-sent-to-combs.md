@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:10633f87a90504009430f5005b9e89cea3e91e21a2acbbe52bdd436840f68bf3
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 Subject: Re: Combs
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

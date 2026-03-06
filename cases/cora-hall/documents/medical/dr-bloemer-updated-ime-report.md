@@ -20,6 +20,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:b49c597b44c981991e626491f37ecb5f00e03b703694620e40b1f970b4df863f
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 COMMONWEALTH OF KENTUCKY OFFICE OF WORKERS’ CLAIMS CLAIM NO. 2022-51050 BEFORE: HON. W. GREG HARVEY, ALJ CORA PAYNE PLAINTIFF
 
 v. PLAINTIFF’S NOTICE OF SERVICE OF MEDICAL REPORT OF DR. GARY BLOEMER

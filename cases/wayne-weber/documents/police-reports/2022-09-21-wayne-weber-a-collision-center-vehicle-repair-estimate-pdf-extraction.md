@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:29ad61b12fbb701a61f717049aefb3cfffcca9df845eba68f3246b92624c6feb
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: expenses
 extraction.date: 2022-09-21
 extraction.description: Vehicle repair estimate from A Collision Center for Wayne Weber's vehicle damage.

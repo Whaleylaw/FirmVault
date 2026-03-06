@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:46cf9c7a8b44c25f27dda93764832fb9b17249751c3d619648bf8ea3e3895498
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 Datavant Release of Information
 Patient Name: CORA PAYNE
 Date of Birth: 9/22/1989

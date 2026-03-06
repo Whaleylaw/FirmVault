@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:b26ef2cf3dbebe796f960696564e90b620b527bde6472fdc1b4a36dedff99b5a
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 Subject: Alif v. Harbor House and Wickliffe
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

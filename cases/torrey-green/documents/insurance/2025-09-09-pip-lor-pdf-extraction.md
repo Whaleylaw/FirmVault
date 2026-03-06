@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Torrey
 source_hash: sha256:d961098cd7cdff0a326f2d3784aa5648fc47d4a338be5d96e0d2e86f135f89fa
 ---
 
+**Case:** [[cases/torrey-green/torrey-green|Torrey Green]]
+**Client:** [[cases/torrey-green/contacts/torrey-green|Torrey Green]]
+
 extracted_data.category: insurance
 extracted_data.date: 2025-09-09
 extracted_data.description: Letter of Representation from The Whaley Law Firm to Elco Insurance dated September 9, 2025 regarding PIP benefits for clients Cory Stepheson and Torrey Green related to motor vehicle collision on 9/3/2025 (Claim #23016864). Letter requests holding $4,000 in reserve benefits and using $6,000 to pay bills except hospital-related bills. Also reserves rights for under-insured/uninsured motorist claims.

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:56444b227dc9cdc4002a21b90edf1043a63647df0e19899f536156f587ff6358
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: litigation_discovery
 extraction.date: 2022-01-01
 extraction.description: Plaintiff's first set of interrogatories and requests for production of documents served to defendant in Wayne Weber MVA litigation case.

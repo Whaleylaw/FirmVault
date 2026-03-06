@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:27e461750c4df4135150c60653ad3d57788ac59ab91750ac009f9c7ccc2e86c2
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Kiper-MVA-12-5-2022/Accident-Investigation/2022-12-08-James-Kiper-Accident-Investigation-Scene-Photo-Temp-Tag-B704426.jpg

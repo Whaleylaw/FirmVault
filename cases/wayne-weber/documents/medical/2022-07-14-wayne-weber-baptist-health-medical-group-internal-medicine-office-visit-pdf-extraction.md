@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:7f87e1adf6452d9b6d6cbf0c61d86e02558c7b30a6345c81282c5c8739dd1d65
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: medical_record
 extraction.date: 2022-07-14
 extraction.description: Office visit medical record from Baptist Health Medical Group Internal Medicine for patient Wayne Weber dated July 14, 2022.

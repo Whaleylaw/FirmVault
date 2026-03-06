@@ -4,6 +4,9 @@ document_category: correspondence
 legacy_case_id: 2019-04-26-PrL-001
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-[DOB-1]/Review_Needed/2023-01-11-Amy-Mills-Kentucky-Orthopedic-Clinic-Medical-Records-Request.pdf"
 source_hash: "sha256:ebdb5c8c2ec7366b7bb86a61393dc6c7411719c741fc05935148e38b111a002a"

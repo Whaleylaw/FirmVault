@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dana-J
 source_hash: sha256:34f3fffaab4528a7614b564c535a44bb29b1d30ca89af2c0eec2c2d9998c5b0a
 ---
 
+**Case:** [[cases/dana-jackson/dana-jackson|Dana Jackson]]
+**Client:** [[cases/dana-jackson/contacts/dana-jackson|Dana Jackson]]
+
 Subject: Dana Jackson (Cecil Finley Companion) - Legal Lending Request - $1500.00
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

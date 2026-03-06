@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:dbd8f02043b102fdf15885bb0472fb76f762dcb957cc848d8b0282ba676b8ec2
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: medical_records
 extraction.date: 2022-07-14
 extraction.description: Baptist Health outpatient services record for Wayne Weber dated July 14, 2022.

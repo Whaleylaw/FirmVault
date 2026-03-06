@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dewayn
 source_hash: sha256:33dde1163de33595e3418d861406eb187360255e7bdbb1f5c7ddb29d6fa0e064
 ---
 
+**Case:** [[cases/dewayne-ward/dewayne-ward|Dewayne Ward]]
+**Client:** [[cases/dewayne-ward/contacts/dewayne-ward|Dewayne Ward]]
+
 Subject: New Voice Message from WIRELESS CALLER [PHONE-7] on [DOB-2] 9:58 AM
 From: [EMAIL-3]
 To: Sarena@whaleylawfirm.com

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Taylor
 source_hash: sha256:5b2e8b95031382400b40dbb41e074284d29612fa6e45edc2e80e6a630e4e30bf
 ---
 
+**Case:** [[cases/taylor-thompson/taylor-thompson|Taylor Thompson]]
+**Client:** [[cases/taylor-thompson/contacts/taylor-thompson|Taylor Thompson]]
+
 Subject: NEGOTIATIONS REVIEW - Taylor Thompson 16945402
 From: [EMAIL-1]
 To: [EMAIL-15]

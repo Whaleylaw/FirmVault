@@ -1,13 +1,10 @@
 ---
 case_slug: caryn-mccay
-created_at: 2026-02-16 22:17:04.447000+00:00
+created_at: {}
 document_category: medical
-document_date: 1972-11-30
+document_date: {}
 document_type: medical
-entities:
-- Dr. Nicholas Leverette
-- Nicholas Leverette
-- Allstate
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-07-30-MVA-001
 mime_type: application/pdf
@@ -15,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-McCay-MVA-7-30-2023/Medical/2023-11-14-Caryn-McCay-Revive-Chiropractic-Back-knee-pain-evaluation.pdf
 source_hash: sha256:0e42988a9940a4c0d373e00504e7e1c85da310163e2e5cb9ff3024e09f798d60
+contact: "[[cases/2023-07-30-mva-001/contacts/caryn-mccay]]"
 ---
+
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 
 Subjective:
 The patient indicates they have discomfort in the mid back. Since her last visit she reports feeling 

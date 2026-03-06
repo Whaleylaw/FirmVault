@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:9336ea87ee12349afab02e05639dd91dc277324598a37e00927b6974e0034596
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 1
 NO. 23-CI-005509 JEFFERSON COUNTY CIRCUIT COURT 
  DIVISION: SEVEN (7) 

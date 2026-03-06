@@ -1,10 +1,9 @@
 ---
 case_slug: caryn-mccay
-created_at: 2026-02-16 22:16:50.235000+00:00
+created_at: {}
 document_category: legal
 document_type: legal
-entities:
-- Allstate
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-07-30-MVA-001
 mime_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
@@ -12,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-McCay-MVA-7-30-2023/Litigation/2024-11-04-Caryn-McCay-Disc-Req-PP-to-Def-Allstate.docx
 source_hash: sha256:27f1a437475bede28b2ddfcfcae8dd15298a9a4af764221ff89257074caef49f
+contact: "[[cases/2023-07-30-mva-001/contacts/caryn-mccay]]"
 ---
+
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 
 COMMONWEALTH OF KENTUCKY
 

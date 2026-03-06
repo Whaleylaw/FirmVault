@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:844650aaa4e116cdfa0aa958de9bd139b2580a83f2295e0f0d56895b10181625
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 Case Memo 23-CI005662
 Parties 23-CI005662
 23-CI-005662

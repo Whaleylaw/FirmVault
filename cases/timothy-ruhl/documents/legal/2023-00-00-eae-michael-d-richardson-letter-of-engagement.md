@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:027cec0ef74e0925bf8184ca187989fbbd639ef8b6591a92fd4536c725c30580
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 eae ns.
 -~LAW GROUP, PLLC —
 LETTER OF ENGAGEMENT

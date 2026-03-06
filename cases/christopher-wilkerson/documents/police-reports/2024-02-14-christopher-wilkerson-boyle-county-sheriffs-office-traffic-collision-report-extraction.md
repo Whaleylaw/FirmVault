@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:63c866c354e0f10a403b769abe2f3f78a9993d528ddb56a283dd7c55311dc890
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 category: Investigation
 confidence: high
 description: Traffic collision report from Boyle County Sheriff's Office. Overturned dump truck on US-127 near Lincoln County line. Operator transported to Ephraim McDowell Hospital for minor injuries. Witnesses reported tailgating incident. 2 pages. Dated February 14, 2024.

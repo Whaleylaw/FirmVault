@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jasmin
 source_hash: sha256:bff0fad6271ab3b15273dedddc121e72ca443bd830dbd4df9d99e38fb9039317
 ---
 
+**Case:** [[cases/jasmine-wilson/jasmine-wilson|Jasmine Wilson]]
+**Client:** [[cases/jasmine-wilson/contacts/jasmine-wilson|Jasmine Wilson]]
+
 Justin Chumbley 
 Justin Chumbley
 Aaron G. Whaley, Esq.

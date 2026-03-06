@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:4c65818a5baad26fbdef231c867243b03b6b10ce27833bff648a0ad1cd2ce2ef
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 CIVIL ACTION NO.: 21-CI-004985   JEFFERSON CIRCUIT COURT
 
 **Electronically Filed****        ****    **DIVISION 5 (FIVE)

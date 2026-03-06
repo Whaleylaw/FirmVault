@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:8efa63970e912747c94c63a2965eef19103a02798152965c4e7acdc2addd16dc
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 +VV80C0000L2LVZ0CAPs
 
 CCMS COB:R

@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2024-02-15-MVA-001
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-Cristobal-MVA-2-15-2024/Medical Records/ULH-University-of-Louisville-Hospital/Medical Records/2024-03-16-Alma-Cristobal-Medical-ULH-University-of-Louisville-Hospital-Medical-Records-ULH-University-of-Louisville-Hospital-Emergency-Department-Medical-Records.pdf"
 source_hash: "sha256:d118497bd5372e13abbacbffee81dd04e9aaa1163ada7de1462a4e98b141509b"

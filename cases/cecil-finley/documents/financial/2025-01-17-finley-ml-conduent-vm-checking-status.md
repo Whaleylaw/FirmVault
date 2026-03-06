@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:1b27be7acc705bbc10b1e0daf56e7f75b36cf6ce08c2bd4794e9c5de179a7e3f
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 Subject: New Voice Message from CONDUENT        [PHONE-6] on [DOB-2] 10:19 AM
 From: [EMAIL-3]
 To: Sarena@whaleylawfirm.com

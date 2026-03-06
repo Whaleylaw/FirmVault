@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:9fa56a146fe9590aa72dfed3be8704613936ebc8b287d78d849691726b0d5bda
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 category: Lien
 date: 2024-08-15
 description: Notice of lien from Rawlings Company on behalf of Ambetter from Wellcare of Kentucky for medical benefits paid related to 5/30/2024 injury, requiring cooperation in protecting health plan's subrogation interest.

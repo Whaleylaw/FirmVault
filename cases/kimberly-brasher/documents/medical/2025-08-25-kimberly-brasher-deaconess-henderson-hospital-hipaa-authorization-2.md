@@ -1,10 +1,9 @@
 ---
 case_slug: kimberly-brasher
-created_at: 2026-02-17 00:02:29.339000+00:00
+created_at: {}
 document_category: medical
 document_type: medical
-entities:
-- Deaconess Henderson Hospital
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-02-25-PrL-001
 mime_type: application/pdf
@@ -12,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimberly-Brasher-Premise-2-25-2023/Medical/2025-08-25-Kimberly-Brasher-Deaconess-Henderson-Hospital-HIPAA-Authorization-2.pdf
 source_hash: sha256:e2110bc5ac7f5f634ceb6ab7a8e6e2619947a723f67898123714da2e2832048e
+contact: "[[cases/2023-02-25-prl-001/contacts/deaconess-henderson-hospital]]"
 ---
+
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 
 AUTHORIZATION TO RELEASE PROTECTED HEALTH CARE INFOR.MATION 
 TO:

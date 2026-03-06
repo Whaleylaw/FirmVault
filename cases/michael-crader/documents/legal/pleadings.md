@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:94de5cec608ebf72df6747aaae04f008ab9dbc9e7ff971718da16ab5c0db08ec
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 item_0.certificate_of_service: 2024-05-21
 item_0.filing_party_name: Bryce Koon
 item_0.pleading_type: Complaint

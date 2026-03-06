@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Elizab
 source_hash: sha256:7200effaa63e7d6188d230c02ad6cf8e64bb2d01d6f3033d283195e0eeda61db
 ---
 
+**Case:** [[cases/elizabeth-lindsey/elizabeth-lindsey|Elizabeth Lindsey]]
+**Client:** [[cases/elizabeth-lindsey/contacts/elizabeth-lindsey|Elizabeth Lindsey]]
+
 accident_date: 2024-12-01
 case_type: MVA
 client_name: Elizabeth-Lindsey

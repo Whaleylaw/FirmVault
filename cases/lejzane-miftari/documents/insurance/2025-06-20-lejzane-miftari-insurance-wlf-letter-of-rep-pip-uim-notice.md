@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Lejzan
 source_hash: sha256:fa17eb1e33012b03f77763574cfde3df8683ae07a07415a57379b4e733fb20b1
 ---
 
+**Case:** [[cases/lejzane-miftari/lejzane-miftari|Lejzane Miftari]]
+**Client:** [[cases/lejzane-miftari/contacts/lejzane-miftari|Lejzane Miftari]]
+
 Justin Chumbley 
 Justin Chumbley
 Aaron G. Whaley, Esq.

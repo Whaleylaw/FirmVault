@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:60ed31fdf33d46e0cfacdc2a8e392354b2902d0dfc86882649eb6476597d69db
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 Subject: CONFIDENTIAL PREPAY INVOICE
 From: [EMAIL-1]
 To: sarena@WhaleyLawFirm.com

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:e363231a06cb38e1188f5a5b2f655fbdd4bc434b47f749a3098c54ec2c61a7da
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 AUTHORIZATION TO RELEASE PROTECTED HEALTH CARE INFOR.MATION
 TO:
 Per my electronic signature below, and pursuant to the Health Insurance Portability and

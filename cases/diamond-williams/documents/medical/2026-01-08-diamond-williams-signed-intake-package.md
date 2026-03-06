@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Diamon
 source_hash: sha256:f933bc476471f3c9ba4d3808caf1e0b708489834e0d5a26a0719f2ea398adad8
 ---
 
+**Case:** [[cases/diamond-williams/diamond-williams|Diamond Williams]]
+**Client:** [[cases/diamond-williams/contacts/diamond-williams|Diamond Williams]]
+
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 
 Louisville, KY 40222 

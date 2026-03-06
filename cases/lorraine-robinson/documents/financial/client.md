@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Lorrai
 source_hash: sha256:bd4effee170ef0e972dafd0fb898bf40bb1630a2c64f01028b7f3ae1cd355dbc
 ---
 
+**Case:** [[cases/lorraine-robinson/lorraine-robinson|Lorraine Robinson]]
+**Client:** [[cases/lorraine-robinson/contacts/lorraine-robinson|Lorraine Robinson]]
+
 address: 4523 Broadleaf Dr, #2, Louisville, KY
 date_of_birth: [DOB-1]
 imported_at: 2026-02-16T21:09:42.781Z

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:31e0c9a0664d3d295147b0759446f275b22bd6c212ff0d6ca34a16b03cb7a076
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 220 WEST MAIN STREET, SUITE 2150, LOUISVILLE, KY 40202 [PHONE-1] 
 NATIONAL HEADQUARTERS [PHONE-2] 
 WWW.VOCECON.COM

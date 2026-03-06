@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee
 source_hash: sha256:6eb1606ef4179ea831e0509dc1afbe6ad2a8f224bb073c499ae89cde15ce3dc1
 ---
 
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 Agreement Creating Lien and Assignment by Patient of Proceeds of Recovery
 1, ASn\ee Will GQWS (“Patient”), understand and acknowledge thatI am
 fully and directly responsible to Kentucky Pain Associates, hereinafter referred to as

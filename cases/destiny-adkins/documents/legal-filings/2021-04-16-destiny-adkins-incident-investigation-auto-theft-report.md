@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Destin
 source_hash: sha256:372ea135a88f6bbb723b585e11c1ddc690c37f2ccb7cbfe352393233dc99b963
 ---
 
+**Case:** [[cases/destiny-adkins/destiny-adkins|Destiny Adkins]]
+**Client:** [[cases/destiny-adkins/contacts/destiny-adkins|Destiny Adkins]]
+
 @ LexisNexis
 PAGE COUNT: 2
 For Customer Support refer to the

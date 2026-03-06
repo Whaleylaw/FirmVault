@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:8d0d2d11389dd529398b3c4b77f60d26bc49a9e7a53a111d48ace35e5cfda014
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 item_0.date_notice_received: 2023-08-02
 item_0.holder_address: 13988 Diplomat Drive #100A-1, Farmers Branch, TX 75234
 item_0.holder_phone: [PHONE-1]

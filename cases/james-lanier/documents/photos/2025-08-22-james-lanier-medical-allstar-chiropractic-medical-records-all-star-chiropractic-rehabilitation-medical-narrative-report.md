@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:fed3cb560f722343385cdeb7599f91a343f2818c03fe07fe502cae1e223b4704
 ---
 
+**Case:** [[cases/james-lanier/james-lanier|James Lanier]]
+**Client:** [[cases/james-lanier/contacts/james-lanier|James Lanier]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Lanier-MVA-6-28-2025/Medical/Allstar Chiropractic/Medical Records/2025-08-22-James-Lanier-Medical-Allstar Chiropractic-Medical-Records-All-Star-Chiropractic--Rehabilitation-Medical-Narrative-Report.jpg

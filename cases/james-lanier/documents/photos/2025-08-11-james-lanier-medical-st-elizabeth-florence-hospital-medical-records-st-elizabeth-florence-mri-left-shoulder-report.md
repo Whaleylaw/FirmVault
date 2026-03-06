@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:15777febbe583e58446e9ae875d757bf84454e82cda7e3b503bfb00e2d2d4b80
 ---
 
+**Case:** [[cases/james-lanier/james-lanier|James Lanier]]
+**Client:** [[cases/james-lanier/contacts/james-lanier|James Lanier]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Lanier-MVA-6-28-2025/Medical/St. Elizabeth Florence Hospital/Medical Records/2025-08-11-James-Lanier-Medical-St. Elizabeth Florence Hospital-Medical-Records-St-Elizabeth-Florence-MRI-Left-Shoulder-Report.jpg

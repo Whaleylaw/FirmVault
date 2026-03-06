@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmon
 source_hash: sha256:f83fb1fb92b09c12ffae82e41d7e30f508c61c88ff2c4ae988327badce0c0287
 ---
 
+**Case:** [[cases/julmonzhae-moore/julmonzhae-moore|Julmonzhae Moore]]
+**Client:** [[cases/julmonzhae-moore/contacts/julmonzhae-moore|Julmonzhae Moore]]
+
 9Qq ‘saeag Auoyjuy “7 4q saunyeubis
 
 eae JO [YI JO} paajou [|

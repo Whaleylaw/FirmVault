@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:8961429070bf89a27483201fcf5e110e6ffb58aa187d369d4463e14fa8aff0d8
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 The President and Trustees of the College upon recommendation of the Faculty have conferred upon
 
 Amp Jo Mills the Degree of

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:c4c1a3fec381ea974bdfd7180ea879bc2f255509aeebcbbddedfad1017bd0a61
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 For Customer Support refer to the = oe . ‘re iate platform below: LexisNexis appropria
 C Police Records Retrieval
 RISK SOLUTIONS [PHONE-1]

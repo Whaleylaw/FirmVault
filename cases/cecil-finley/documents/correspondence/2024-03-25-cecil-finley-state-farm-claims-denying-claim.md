@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:0c89e90a10ed1ca86ee9ad243d9216005f0fec6434420b5f47bdba5d651fadc6
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 March 25, 2024
 Cecil Finley
 836 S 41st St

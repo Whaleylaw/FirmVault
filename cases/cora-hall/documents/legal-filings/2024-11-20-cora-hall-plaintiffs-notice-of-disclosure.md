@@ -4,6 +4,9 @@ document_category: court-filings
 legacy_case_id: 2022-12-05-OTH-001
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-Hall-WC-[DOB-1]/Pleadings/2024-11-20-Cora-Hall-Plaintiffs-Notice-of-Disclosure.pdf"
 source_hash: "sha256:23d640becafd627429b99a3673b6e7e217a268b3264a00fb9b6b1dc02ef73d15"

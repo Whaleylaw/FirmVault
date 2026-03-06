@@ -1,8 +1,8 @@
 ---
 case_slug: maryan-kassim
-created_at: 2026-02-17 00:04:54.513000+00:00
+created_at: {}
 document_category: financial
-document_date: 2024-08-06
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2024-08-06-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan-Kassim-MVA-08-06-2024/Medical/2024-08-06-Maryan-Kassim-Medical-Records-Diagnostic-X-Ray-Physicians-CT-Scans.pdf
 source_hash: sha256:83439af3355be33ec96e9d0d2597abf8a6ee4360a8b0f73be58dc545d15699c2
+contact: "[[cases/2024-08-06-mva-001/contacts/diagnostic-x-ray-physicians]]"
 ---
+
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 
 DATE REF. DOCTOR DOCTOR PROCEDURE MODIFIER ICD CHARGES PAYMENTS ADJUSTMENTS BALANCE PAYSOURCE
  [DOB-1] MILLER, RHONDA 

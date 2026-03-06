@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:1b2718b712bb8336e254f2d4d350dd50b8b9abcf5c0f316932ecd4f1416e1866
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 Aaron G. Whaley, Esq.
 THE 712 Lyndon Lane
 H A L E Y Louisville, KY 40222

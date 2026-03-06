@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:e771573fd0e63f32bf5d97db8033af278cfc389d3a0493298c9c8444c348ad7c
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: medical_records_request_response
 extraction.date: 2023-12-21
 extraction.description: Records request response from Louisville Metro EMS indicating no records available for Wayne Weber, dated December 21, 2023.

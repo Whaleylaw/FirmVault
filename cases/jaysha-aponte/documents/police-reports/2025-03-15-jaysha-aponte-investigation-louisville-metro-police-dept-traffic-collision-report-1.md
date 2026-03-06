@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jaysha
 source_hash: sha256:db78ac8b1c69b506dc3bd90c488927e9fb18407225ca793605b2fbf59f84beb5
 ---
 
+**Case:** [[cases/jaysha-aponte/jaysha-aponte|Jaysha Aponte]]
+**Client:** [[cases/jaysha-aponte/contacts/jaysha-aponte|Jaysha Aponte]]
+
 INVESTIGATOR BEAT OR POST #
 TOTAL LANES
 NO

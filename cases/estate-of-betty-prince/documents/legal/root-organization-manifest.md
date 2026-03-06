@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:ab314953ca9c11c6cc437418f83a58e8194ffbd177763a179d34d440a5078817
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 accident_date: 2020-07-14
 case_type: Premise
 client_name: Estate-of-Betty-Prince

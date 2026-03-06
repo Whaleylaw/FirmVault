@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:985b7f302ac30cf8a3d2fbbc1297a12b14b5c4cefa37c81efeeca1fb4d8d822f
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 FULL RELEASE OF ALL PROPERTY DAMAGE CLAIMS WITH INDEMNITY
 Claim #: 24-[POLICY-1]
 The undersigned, Jeremy Lindey, (“Releasor”), being of lawful age, for and in consideration of the sum of twenty five thousand 

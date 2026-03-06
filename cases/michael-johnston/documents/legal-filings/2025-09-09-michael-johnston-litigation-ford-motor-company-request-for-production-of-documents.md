@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:2991f5d77f8e6280d0093a5cbf6b763718d2d3c5751a9c013225b55ff78a70c2
 ---
 
+**Case:** [[cases/michael-johnston/michael-johnston|Michael Johnston]]
+**Client:** [[cases/michael-johnston/contacts/michael-johnston|Michael Johnston]]
+
 COMMONWEALTH OF KENTUCKY
 
 DEPARTMENT OF WORKERS’ CLAIMS

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:cd0c214de4455dfd7bd775c9e47265b766f16502c9a21513a98a45b2f5fd2e3b
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 Subject: Invoice from Jefferson Animal Hospitaland Regional Emergency Center for Client: Jerome Hedinger.
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

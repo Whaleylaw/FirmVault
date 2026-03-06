@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Lejzan
 source_hash: sha256:7d693790320c988b451b3d2ab337284855e79d7d6e9618dac0ed9e95a184d04a
 ---
 
+**Case:** [[cases/lejzane-miftari/lejzane-miftari|Lejzane Miftari]]
+**Client:** [[cases/lejzane-miftari/contacts/lejzane-miftari|Lejzane Miftari]]
+
 case_folder: Lejzane-Miftari-MVA-6-18-2025
 job_id: file-org-e72a1a2a
 phases.inventory.notes: Starting Phase 1: Inventory generation

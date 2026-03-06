@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:115cfed71d0f4e3266dff312740d667609ee73bd1012eea99d1ab93c21421d67
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 02-15-"24 14:18 FROM- Bluegrass HomeMed, [PHONE-1] T102 POOOT /0085 F-238
 CERTIFICATION OFMEDICAL RECORDS AFFIDAVIT .
 $F VD nod being first duly sworn on his/her oath, says tha (Name of records custodian/clerk)

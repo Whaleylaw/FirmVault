@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:f3929b81eb8263c5319529a5da9ca83a6d2f41d9c40e4ede3e008ccca086a9ce
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 content_length_chars: 7511
 document_metadata.attachments[0]: 2024.02.28 Stich WC Ortho Approval - Fax Coversheet for Claims 237484 - 7454227 2272024 21417 PM.DOC
 document_metadata.attachments[1]: Conf_Fax_2024.02.28 Stich WC Ortho Approval - Fax Coversheet for Claims 237484 - 7454227 2272024 21417 PM_2024-02-29-0842-PST.pdf

@@ -1,6 +1,6 @@
 ---
 case_slug: muhammad-alif
-created_at: 2026-02-17 00:10:53.565000+00:00
+created_at: {}
 document_category: correspondence
 document_type: correspondence
 extraction_method: native_text
@@ -8,10 +8,14 @@ legacy_case_id: 2022-11-08-MVA-001
 mime_type: message/rfc822
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Axon
-  Medical Centers/Medical Bills/2025-02-17-Muhammad-Alif-Medical-Axon Medical Centers-Medical-Bills-Axon-Medical-Centers-Medical-Bill-and-Test-Results.eml
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Axon Medical Centers/Medical Bills/2025-02-17-Muhammad-Alif-Medical-Axon Medical Centers-Medical-Bills-Axon-Medical-Centers-Medical-Bill-and-Test-Results.eml
 source_hash: sha256:5bbdc302772387bcb3fed54b888025675bc8ea91bee37f131413b32c58e95da1
+contact: "[[cases/2022-11-08-mva-001/contacts/axon-medical-centers]]"
 ---
+
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 
 Subject: MUHAMMAD ALIF - Healix test results and facility bill
 From: [EMAIL-1]

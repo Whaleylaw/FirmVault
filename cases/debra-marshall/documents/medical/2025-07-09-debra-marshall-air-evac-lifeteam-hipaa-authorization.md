@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:61fa7cf3bfc53d523d8c53669be6edea114f696a6a8c791a73e3f2cb16a7099b
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 Dur
 Aaron G. Whaley, Esq.
 iz ; 712 Lyndon Lane

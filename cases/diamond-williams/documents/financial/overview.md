@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Diamon
 source_hash: sha256:1a7f257648c69496e4352607026dbb96caf54a5279a2d109ed3b87f7c8256583
 ---
 
+**Case:** [[cases/diamond-williams/diamond-williams|Diamond Williams]]
+**Client:** [[cases/diamond-williams/contacts/diamond-williams|Diamond Williams]]
+
 item_0.jsonb_agg[0].accident_date: 2025-12-23
 item_0.jsonb_agg[0].case_type: MVA
 item_0.jsonb_agg[0].client_address: 2028 Macarthur Drive

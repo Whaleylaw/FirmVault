@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:169f50e93b27ec2886e7cb60745c648ffdfcd161b79e3ff6f80c4bf08d9b2da0
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 Subject: Fwd: Workman's Comp claim
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

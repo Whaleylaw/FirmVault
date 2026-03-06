@@ -1,11 +1,10 @@
 ---
 case_slug: robin-willis-beck
-created_at: 2026-02-17 00:17:10.047000+00:00
+created_at: {}
 document_category: medical
-document_date: 2023-11-07
+document_date: {}
 document_type: medical
-entities:
-- Norton Audubon Hospital
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-09-21-PrL-001
 mime_type: application/pdf
@@ -13,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-Willis-Beck-Premise-09-21-2023/Medical-Records/2023-11-07-Robin-Willis-Beck-Norton-Audubon-Hospital-Medical-Authorization.pdf
 source_hash: sha256:549662deacd76e61a2ce06a9c23e212b8f01f5bb7b52cb2ad5b6834515e1a8b1
+contact: "[[cases/2023-09-21-prl-001/contacts/norton-audubon-hospital]]"
 ---
+
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 
 Norton Audubon Hospital
 1 Audubon Plaza Drive

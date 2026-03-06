@@ -35,6 +35,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:2b7a0f1d4363d7bfbb1c9784aeb45851e0ffdb7c4ec8787d8058b4f9da8f7a3e
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 item_0.episode_type: communication
 item_0.note: Sent email to Muhammad Alif scheduling phone call for January 23, 2026 at 1:00 PM to discuss and finalize expert witness list for trial. Acknowledged client's flight cancellation to Dallas. Emphasized need to make final decisions on expert witness list to coordinate depositions with defense counsel and meet March 31, 2026 deadline. Will call client at [PHONE-1]. Meeting agenda: (1) Decide whether to keep original 3 experts (Dr. Hwang, Dr. Van Boven, Dr. Fortin) or replace; (2) Discuss adding Dallas providers (Dr. Sean Quaidoo, Christopher Stanfield, Dr. Mark Lynn); (3) Identify any additional experts based on current treatment; (4) Coordinate deposition scheduling. Email copied to co-counsel Harry O'Donnell. Calendar events created in both knowledge graph calendar and Google Calendar for January 23, 2026 at 1:00 PM.
 item_0.note_summary: Email to Client - Phone Meeting Scheduled for Expert Witness Discussion

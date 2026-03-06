@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:ae679288255cd859aa3adf490af81708cc1c084d707425ceca648d192ea5bfd5
 ---
 
+**Case:** [[cases/michael-johnston/michael-johnston|Michael Johnston]]
+**Client:** [[cases/michael-johnston/contacts/michael-johnston|Michael Johnston]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michael-Johnston-WC-[DOB-1]/Insurance/2023-05-17-Michael-Johnston-Insurance-UniCare-Disability-Benefit-Approval-Letter.jpg

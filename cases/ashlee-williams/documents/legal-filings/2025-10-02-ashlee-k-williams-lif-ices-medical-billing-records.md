@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee
 source_hash: sha256:60c431e08a6b6af18ebec39635f4b48f0a44bb2f5e49c10de74a8a8b179f1b3a
 ---
 
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 CERTIFICATION OF MEDICAL BILLING RECORDS AFFIDAVIT
 Wm NM JON , being first duly sworn on his/her oath, says that:
 (Name ofrecords custodian/clerk)

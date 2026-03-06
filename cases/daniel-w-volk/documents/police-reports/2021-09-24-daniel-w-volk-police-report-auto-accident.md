@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Daniel
 source_hash: sha256:d1df54d815695d934dba8ce6e9fca58e23aae890a466fe7a080d1cdc51884b54
 ---
 
+**Case:** [[cases/daniel-w-volk/daniel-w-volk|Daniel W Volk]]
+**Client:** [[cases/daniel-w-volk/contacts/daniel-w-volk|Daniel W Volk]]
+
 For Customer Support refer to the @ZZ 0 : oe appropriate platform below: LexisNexis ee eee,
 olice Recor etrieva
 RISK SOLUTIONS [PHONE-11] ° mv

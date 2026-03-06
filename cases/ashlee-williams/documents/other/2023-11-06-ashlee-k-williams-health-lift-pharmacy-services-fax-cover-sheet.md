@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee
 source_hash: sha256:9b514152d9169422fcf678767e4d048220ad1bdd0ad43d6e57e3a337859e1885
 ---
 
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 To: Page: 1 of 2 2023-11-06 12:30:31 MST 18013271500
 FAX COVER SHEET
 From: Health Lift Pharmacy Services

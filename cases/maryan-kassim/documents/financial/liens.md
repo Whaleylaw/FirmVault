@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:9a9385cacd66ccd2f689973bf64205394e28a014a9564b302c8344a3c6f330fe
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 item_0.amount_owed_from_settlement: 3830.39
 item_0.date_notice_received: 2024-09-13
 item_0.final_lien_amount: 3830.39

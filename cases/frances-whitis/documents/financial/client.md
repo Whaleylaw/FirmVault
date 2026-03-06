@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/France
 source_hash: sha256:c74d92fea1d63037789545d2cbbe9e66b0c7b11f0d544f29fc438509c2bf0b92
 ---
 
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 address: 117 Redbud Lane, Frankfort, KY 40601
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

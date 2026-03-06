@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Hope-R
 source_hash: sha256:f5b4e8728753260c336abc353ac3312d4933d18ef4ee0fea9c8a1e75f1519cba
 ---
 
+**Case:** [[cases/hope-renee-padgett/hope-renee-padgett|Hope Renee Padgett]]
+**Client:** [[cases/hope-renee-padgett/contacts/hope-renee-padgett|Hope Renee Padgett]]
+
 Subject: NCP (for eFiler) POWELL 25-CI-00044, PADGETT, HOPE VS. PROGRESSIVE CASUALTY INSURANCE COMPANY Envelope # 10045272
 From: [EMAIL-4]
 To: [EMAIL-3], Sarena@WhaleyLawFirm.com, [EMAIL-3]

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:69bd224eb8e4a3cae7a9a295711e051eab494205daaf81975489540531d9ca47
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 Subject: C HALL  9/22/1989
 From: [EMAIL-1]
 To: Sarena@WhaleyLawFirm.com

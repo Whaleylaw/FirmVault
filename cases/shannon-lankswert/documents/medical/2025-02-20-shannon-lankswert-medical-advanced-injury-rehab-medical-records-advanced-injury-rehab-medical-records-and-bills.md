@@ -20,6 +20,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:21757bc27bdd71af7be0380204d41b17f395a156ef962b3915eda61c7dc32590
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 4/28/25, 2:49 PM o~ Shannon Lankswert (04/28/2698)
 Date: [DOB-1] Seen By: Dawn Wietfeidt
 Facility Name: Advanced Injury Rehab Provider NPI: [PHONE-420]

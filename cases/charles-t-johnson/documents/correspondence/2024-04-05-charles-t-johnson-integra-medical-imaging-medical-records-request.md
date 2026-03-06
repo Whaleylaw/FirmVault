@@ -1,8 +1,8 @@
 ---
 case_slug: charles-t-johnson
-created_at: 2026-02-16 22:25:51.480000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1952-04-01
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2023-04-18-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charles-T-Johnson-MVA-4-18-2023/Medical-Records/2024-04-05-Charles-T-Johnson-Integra-Medical-Imaging-Medical-Records-Request.pdf
 source_hash: sha256:96c71df1464d09f91e9fff6dbddaf88223edcac2c7bd82e90bcad6b31216d463
+contact: "[[cases/2023-04-18-mva-001/contacts/integra-medical-imaging]]"
 ---
+
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 
 Fax Confirmation
 To: [PHONE-11] From: [PHONE-10]

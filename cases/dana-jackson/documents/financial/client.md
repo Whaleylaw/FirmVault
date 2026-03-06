@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dana-J
 source_hash: sha256:766bb1d8a5f4f19c7cf8f01ad76f06795ce71d5d0ed9419a6cd8dbaf42bbfce8
 ---
 
+**Case:** [[cases/dana-jackson/dana-jackson|Dana Jackson]]
+**Client:** [[cases/dana-jackson/contacts/dana-jackson|Dana Jackson]]
+
 address: 4906 Goddin Ct., Richmond, VA 23231
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

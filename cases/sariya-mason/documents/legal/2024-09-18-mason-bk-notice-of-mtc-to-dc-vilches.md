@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya
 source_hash: sha256:1f9e3587a21c2457f656c9e5bb95ab9f1d164fb789c995182e640264ab265ac4
 ---
 
+**Case:** [[cases/sariya-mason/sariya-mason|Sariya Mason]]
+**Client:** [[cases/sariya-mason/contacts/sariya-mason|Sariya Mason]]
+
 Subject: Re: Sariya Mason v. Surelis Castillo, et al.
 From: [EMAIL-1]
 To: [EMAIL-2]

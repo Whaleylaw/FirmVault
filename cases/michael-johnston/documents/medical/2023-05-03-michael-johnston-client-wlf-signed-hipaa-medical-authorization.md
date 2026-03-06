@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:aa52860182f55fd58538ad7fbdbcfb4e9ad589a698d3a57b3db0bf0132833618
 ---
 
+**Case:** [[cases/michael-johnston/michael-johnston|Michael Johnston]]
+**Client:** [[cases/michael-johnston/contacts/michael-johnston|Michael Johnston]]
+
 Aaron G. Whaley, Esq.
 712 Lyndon Lane
 H A L F Y Louisville, KY 40222

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:c0cd4f2d9d226d7590bb134aa0d2858f4a9e282ba21e731f65d2f80ff5c762ef
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 Pleasure Ridge Park Fire/EMS
 9500 Stonestreet Road
 Louisville, KY 40272

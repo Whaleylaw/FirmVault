@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Destin
 source_hash: sha256:e3ae772b2d45f89d136200958ea3be61890172b64cfe4ca0c5eff495d935d51c
 ---
 
+**Case:** [[cases/destiny-adkins/destiny-adkins|Destiny Adkins]]
+**Client:** [[cases/destiny-adkins/contacts/destiny-adkins|Destiny Adkins]]
+
 David L. Nicholson, Jefferson Circuit Clerk 22-CI-002878 [DOB-2] Filed
 David L. Nicholson, Jefferson Circuit Clerk 22-CI-002878 [DOB-2] Filed
 COR : 000001 of 000001 97B4BFDE-C3E7-400D-A088-AF5E29113590 : 000001 of 000001

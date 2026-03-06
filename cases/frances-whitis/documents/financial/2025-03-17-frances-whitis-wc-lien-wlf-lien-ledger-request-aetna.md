@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/France
 source_hash: sha256:61cb1be9693a060a7f68d519c9c16bd34fc29436e00b07bcf0e789038290cf46
 ---
 
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 Subject: Lien Request - Frances A. Whitis - ID 101552491900
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

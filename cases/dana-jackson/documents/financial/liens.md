@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dana-J
 source_hash: sha256:1538ba90eb5594b8a412b81c62f52ee8327b80109d02515d221e056e2ce4a927
 ---
 
+**Case:** [[cases/dana-jackson/dana-jackson|Dana Jackson]]
+**Client:** [[cases/dana-jackson/contacts/dana-jackson|Dana Jackson]]
+
 item_0.amount_owed_from_settlement: 607.41
 item_0.date_notice_received: 2024-12-03
 item_0.final_lien_amount: 607.41

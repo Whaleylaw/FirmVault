@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:37db67553e4d1ec447ee86e5874895b11da7517dd069c361732182f7cf4c02b7
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 3 Pages FAXED Thu, 13 Feb 2025 17:21:19 GMT
 [PHONE-7]
 THE Post Office Box MY

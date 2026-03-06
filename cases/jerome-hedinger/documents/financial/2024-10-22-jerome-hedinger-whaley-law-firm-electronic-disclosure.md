@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jerome
 source_hash: sha256:754af99bc39e64a8bd720e996659324e18a5c9eed49ad18cefadfa3c04962399
 ---
 
+**Case:** [[cases/jerome-hedinger/jerome-hedinger|Jerome Hedinger]]
+**Client:** [[cases/jerome-hedinger/contacts/jerome-hedinger|Jerome Hedinger]]
+
 Certificate Of Completion
 Envelope Id: 1C1C186CA6A0410F858C75B9FF5EC60B Status: Completed
 Subject: The Whaley Law Firm has requested your signature. Follow the prompts to execute the attached. 

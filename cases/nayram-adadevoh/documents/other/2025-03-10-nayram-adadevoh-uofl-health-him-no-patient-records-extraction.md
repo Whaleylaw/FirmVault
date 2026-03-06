@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:f315285ceb877de9a9a9587b444fd18b1c64c2c6a7ef6d2202885b4f93209fba
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 category: medical_records_correspondence
 date: 2025-03-10
 description: Letter from UofL Health HIM stating no patient records found, dated March 10, 2025.

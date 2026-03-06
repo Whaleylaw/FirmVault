@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-H
 source_hash: sha256:57c29dd7981df30f37fac94f0d595032397b32404c91c7d337d8852660b47547
 ---
 
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 [DOB-16]
 Electronically via DocuSign 19th December 23
 Workers' Compensation Paralegal

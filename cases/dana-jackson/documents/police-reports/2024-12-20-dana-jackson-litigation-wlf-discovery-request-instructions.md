@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dana-J
 source_hash: sha256:fd1a3bee168adf18a81a187e0cbea47967dcb9873dbe03fd34a7d099c7741213
 ---
 
+**Case:** [[cases/dana-jackson/dana-jackson|Dana Jackson]]
+**Client:** [[cases/dana-jackson/contacts/dana-jackson|Dana Jackson]]
+
 Subject: The Defense Counsel's Discovery Request - Due back by January 10, 2025
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

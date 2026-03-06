@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:e56a09a0093195c48d523afbadd94fc54684852b8e28498272f623813b143e3d
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 Subject Document Document Id Recipients
 The Whaley Law Firm has requested 2021 Whaley Medical Authorization 881acc75-39d4-4214-8600- Wayne Weber
 your signature. Follow the prompts to (HIPAA).pdf accdbeb798f0

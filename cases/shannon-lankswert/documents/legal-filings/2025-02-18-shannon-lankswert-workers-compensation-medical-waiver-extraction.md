@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:c965c027d7df431f5c19256646ec0eb3b19e842514583898e2f2a2ef85cdc6b0
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 extraction.category: Client
 extraction.date: 2025-02-18
 extraction.description: Medical waiver and consent form for workers compensation claim

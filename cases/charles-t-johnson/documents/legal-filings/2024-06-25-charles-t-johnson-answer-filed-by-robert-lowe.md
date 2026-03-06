@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:2e396a51acd2e1f928b99fb84a429f039b4859e2e9831525b400ced574a5c180
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 NO. 24-CI-2475 JEFFERSON CIRCUIT COURT
 DIVISION TEN (10)
 HON. JUDGE PATRICIA “TISH” MORRIS

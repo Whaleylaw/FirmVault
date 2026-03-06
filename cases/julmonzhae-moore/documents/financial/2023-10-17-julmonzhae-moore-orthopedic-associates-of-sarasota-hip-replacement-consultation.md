@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmon
 source_hash: sha256:fd0b49078abf741df12764fb8836f03857f84a5fc07e0755ee72a9737f6756f2
 ---
 
+**Case:** [[cases/julmonzhae-moore/julmonzhae-moore|Julmonzhae Moore]]
+**Client:** [[cases/julmonzhae-moore/contacts/julmonzhae-moore|Julmonzhae Moore]]
+
 *4008000 [PHONE-18] [PHONE-17]*
 
 *000189* m=z Liberty Mutual Personal Insurance Company

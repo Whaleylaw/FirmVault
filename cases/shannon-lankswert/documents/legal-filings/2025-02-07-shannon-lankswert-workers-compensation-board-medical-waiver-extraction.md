@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:74fc1da0338be687becb53aa76de7baeab206926aef11f3eab0e1499f22f27f6
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 extraction.category: Client
 extraction.date: 2025-02-07
 extraction.description: Workers' Compensation Medical Waiver and Consent form (Form 106) waiving physician-patient privilege for work injury claim dated [DOB-1]

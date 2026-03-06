@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shanno
 source_hash: sha256:d9ff4223cd5d1c4c36d2e42a50291ea561395b55e4216ffcfa13d6585f3e668c
 ---
 
+**Case:** [[cases/shannon-lankswert/shannon-lankswert|Shannon Lankswert]]
+**Client:** [[cases/shannon-lankswert/contacts/shannon-lankswert|Shannon Lankswert]]
+
 Certificate Of Completion
 Envelope Id: B696B456-7C16-4F11-B822-61E5A1B86BA7 Status: Completed
 Subject: Thank you for Choosing The Whaley Law Firm

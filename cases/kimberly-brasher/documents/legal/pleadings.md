@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:d6537b6a76f103d57688d84076731933dc0870c1740b309c67ae59ed850a6b62
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 item_0.certificate_of_service: 2024-02-14
 item_0.filing_party_name: The Whaley Law Firm
 item_0.pleading_type: Complaint

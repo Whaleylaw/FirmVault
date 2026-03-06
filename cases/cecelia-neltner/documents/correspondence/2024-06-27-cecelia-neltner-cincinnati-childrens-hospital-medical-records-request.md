@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ceceli
 source_hash: sha256:2357c68afbc98fdfe1ab750eba72e28b66f3e991b9007692edafe41aae75a0e1
 ---
 
+**Case:** [[cases/cecelia-neltner/cecelia-neltner|Cecelia Neltner]]
+**Client:** [[cases/cecelia-neltner/contacts/cecelia-neltner|Cecelia Neltner]]
+
 Fax Confirmation
 To: [PHONE-11] From: [PHONE-10]
 Doc:

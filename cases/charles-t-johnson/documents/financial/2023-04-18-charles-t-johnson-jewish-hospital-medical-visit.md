@@ -1,12 +1,10 @@
 ---
 case_slug: charles-t-johnson
-created_at: 2026-02-16 22:25:47.660000+00:00
+created_at: {}
 document_category: financial
-document_date: 1952-04-01
+document_date: {}
 document_type: financial
-entities:
-- AtScene Jewish Hospital
-- Jewish Hospital
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-04-18-MVA-001
 mime_type: application/pdf
@@ -14,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charles-T-Johnson-MVA-4-18-2023/Medical-Records/2023-04-18-Charles-T-Johnson-JEWISH-HOSPITAL-Medical-Visit.pdf
 source_hash: sha256:e9dbd786c2a27f8f86f6eb7871ecff0315e5dea93b4c1bbf5a4d718fd4aa6362
+contact: "[[cases/2023-04-18-mva-001/contacts/jewish-hospital]]"
 ---
+
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 
 This image rendered from received data
 MNCs

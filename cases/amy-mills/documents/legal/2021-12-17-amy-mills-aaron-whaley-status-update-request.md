@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:51eb4262ce5291f65d1a0ce01e97abf4cd3a265ae0dae0821c73c37c44d438a1
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 (9 [DOB-4] 9:18 AM Fax Services 
 €0.UIAN 
 [DOB-2]

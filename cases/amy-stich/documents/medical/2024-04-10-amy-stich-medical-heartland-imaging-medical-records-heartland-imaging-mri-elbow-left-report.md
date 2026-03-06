@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:a1787775c924a7c71efe1410623bc863ce3aa4717b542799794720d6ed121b1a
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 To:
 eS eee ee es a ee
 7807 SHELBYVILLE ROAD

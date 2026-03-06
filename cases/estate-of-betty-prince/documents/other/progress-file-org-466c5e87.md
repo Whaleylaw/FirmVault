@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:dcb2cef8b0ba121ca21c3bec043344d06c92439c8a1537c6adbc67420ca2bb09
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 case_folder: Estate-of-Betty-Prince-Premise-7-14-2020
 job_id: file-org-466c5e87
 phases.extraction.completed_at: 2026-02-02T10:55:38.053955

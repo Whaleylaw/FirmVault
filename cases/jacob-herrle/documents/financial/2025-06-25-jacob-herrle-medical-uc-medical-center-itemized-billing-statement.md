@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jacob-
 source_hash: sha256:9d14aed7dc3ad42aafe24f9b5a5d9ca75d883c2bf71a23e5d1f112562df4ef34
 ---
 
+**Case:** [[cases/jacob-herrle/jacob-herrle|Jacob Herrle]]
+**Client:** [[cases/jacob-herrle/contacts/jacob-herrle|Jacob Herrle]]
+
 THIS IS NOT A BILL
 Jacob Herrle
 3032 ALDERBROOK DR

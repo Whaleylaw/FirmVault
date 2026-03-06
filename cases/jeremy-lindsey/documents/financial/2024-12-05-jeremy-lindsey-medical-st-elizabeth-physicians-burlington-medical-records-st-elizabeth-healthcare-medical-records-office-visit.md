@@ -19,6 +19,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:13a48f2496daab7a4b2a4771f84bac2bbbbc6bab051240c65e2c727bf05d4c66
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 Fax server 1/93/2025 10:48:03 AM AEST PAGE 1/008 Fax Server
 ST. ELIZABETH HEALTHCARE
 pi ~ i 1Medical Village Drive,

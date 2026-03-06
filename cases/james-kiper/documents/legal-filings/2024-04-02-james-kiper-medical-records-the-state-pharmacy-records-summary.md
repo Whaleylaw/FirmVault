@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:b4fd1ed7087e726e7000facc300f341b2018c6c367cb348d4a22637f045c15dd
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 CERTIFICATION OF MEDICAL RECORDS AFFIDAVIT
 Seohkanfee S, HH, kx , being first duly sworn on his/her oath, says that:
 (Name ofrecords custodian/clerk)

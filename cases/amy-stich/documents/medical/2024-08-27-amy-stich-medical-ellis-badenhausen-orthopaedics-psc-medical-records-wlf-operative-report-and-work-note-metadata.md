@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:1abcf3653658e776e000583503b380a3589c133395238481b280577303e49859
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 content_length_chars: 2081
 document_metadata.attachments[0]: 2024.08.27 Stich LW Updated OWN_Restrictions.pdf
 document_metadata.attachments[1]: 2024.08.27 Stich MR E&B Final Operative Report.pdf

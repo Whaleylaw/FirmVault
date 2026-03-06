@@ -1,18 +1,22 @@
 ---
 case_slug: julmonzhae-moore
-created_at: 2026-02-16 23:59:46.267000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 2023-08-30
+document_date: {}
 document_type: correspondence
 extraction_method: native_text
 legacy_case_id: 2023-08-29-MVA-003
 mime_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmonzhae-Moore-MVA-8-29-2023/Insurance/2023.08.30
-  Moore ML PHI Initial Lien Request - TeamCare.docx
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmonzhae-Moore-MVA-8-29-2023/Insurance/2023.08.30 Moore ML PHI Initial Lien Request - TeamCare.docx
 source_hash: sha256:8fb114ccbd14d18791b27497a0c9cb634d7fe297bd853924957f12e62edadffb
+contact: "[[cases/2023-08-29-mva-003/contacts/teamcare]]"
 ---
+
+**Case:** [[cases/julmonzhae-moore/julmonzhae-moore|Julmonzhae Moore]]
+**Client:** [[cases/julmonzhae-moore/contacts/julmonzhae-moore|Julmonzhae Moore]]
+
 
 *Aaron G. Whaley, Esq.*
 *712 Lyndon Lane*

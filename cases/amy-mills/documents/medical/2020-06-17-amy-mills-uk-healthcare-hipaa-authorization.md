@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2019-04-26-PrL-001
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-[DOB-1]/Client/2020-06-17-Amy-Mills-UK-HealthCare-HIPAA-Authorization.pdf"
 source_hash: "sha256:f2ba97d5602fd82c733481c8d5bca55ee13fe259848c3146cab9398f2d36e131"

@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:bc1e51627de8fd9b104c5a651f341cdb58bc9cc693707fe22f7671ebec79f387
 ---
 
+**Case:** [[cases/michael-johnston/michael-johnston|Michael Johnston]]
+**Client:** [[cases/michael-johnston/contacts/michael-johnston|Michael Johnston]]
+
 [DOB-1]
 ***-**-1727 [DOB-1]
 University of Louisville Hospital

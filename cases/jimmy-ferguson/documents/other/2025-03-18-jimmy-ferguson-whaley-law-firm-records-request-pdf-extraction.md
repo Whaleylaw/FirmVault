@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:04056ab0464d653d7c9889691a93c5d93074e74c1ee6dc61b4f41a947755f2a2
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 category: Medical
 date: 2025-03-18
 description: Medical records request letter from Whaley Law Firm to KORT Elizabethtown PT for Jimmy Ferguson's records from accident date 5/30/2024 through 3/18/2025.

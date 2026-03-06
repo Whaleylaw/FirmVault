@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2024-05-30-MVA-001
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-Ferguson-MVA-5-30-2024/Medical/2025-01-02_Baptist-Health-Neurology-and-Neurosurgery_Neck-Pain-Evaluation.pdf"
 source_hash: "sha256:3e1225ae4e267eee8fd023a3fb7e65951a23814d6aaab4b12a294ea455dc24ba"

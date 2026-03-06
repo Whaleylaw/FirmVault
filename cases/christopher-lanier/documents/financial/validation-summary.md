@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:81462e933cd8406a94f03aa0b3446f2bef00e26b72e86078db19674b74235e75
 ---
 
+**Case:** [[cases/christopher-lanier/christopher-lanier|Christopher Lanier]]
+**Client:** [[cases/christopher-lanier/contacts/christopher-lanier|Christopher Lanier]]
+
 case_name: Christopher-Lanier-MVA-6-28-2025
 error_breakdown.critical_errors: 0
 error_breakdown.error_percentage: 5%

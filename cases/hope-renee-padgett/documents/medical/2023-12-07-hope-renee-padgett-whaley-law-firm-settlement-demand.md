@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2023-01-16-MVA-001
 ---
 
+**Case:** [[cases/hope-renee-padgett/hope-renee-padgett|Hope Renee Padgett]]
+**Client:** [[cases/hope-renee-padgett/contacts/hope-renee-padgett|Hope Renee Padgett]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Hope-Renee-Padgett-MVA-1-16-2023/Settlement/2023-12-07-Hope-Renee-Padgett-Whaley-Law-Firm-Settlement-Demand.pdf"
 source_hash: "sha256:86f7f0ddd8bd26e146d76718c83ec21c83d82eae9884e85212a1794550b435cc"

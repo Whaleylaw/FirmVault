@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Deanna
 source_hash: sha256:3a78d4ba4fb41ff0cc9fb53e6cfa0d258fd93994a7d44e001fcdd21badc8fe28
 ---
 
+**Case:** [[cases/deanna-jones/deanna-jones|Deanna Jones]]
+**Client:** [[cases/deanna-jones/contacts/deanna-jones|Deanna Jones]]
+
 INVESTIGATOR BEAT OR POST #
 TOTAL LANES
 NO

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/France
 source_hash: sha256:85d096db88e[POLICY-1]9c2593ec8b347fbfdb405e27d9366e74f69982b92aa
 ---
 
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 Subject: New Voice Message from FRANKFORT    KY [PHONE-5] on [DOB-2] 1:29 PM
 From: [EMAIL-3]
 To: Sarena@whaleylawfirm.com

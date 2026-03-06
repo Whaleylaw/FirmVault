@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Elizab
 source_hash: sha256:88358d78461df44be6dedfd212eab5794717db766cd8d294216cfb1bbcaca726
 ---
 
+**Case:** [[cases/elizabeth-lindsey/elizabeth-lindsey|Elizabeth Lindsey]]
+**Client:** [[cases/elizabeth-lindsey/contacts/elizabeth-lindsey|Elizabeth Lindsey]]
+
 Claim: [PHONE-36]-2024
 Open Pol: 54-370882-01Ins: JEREMY LINDSEY... (See Policy)DoL: 12/01/2024Adj: EMILY PERNICEGrp: SOUTH CENTRAL
 BODILY INJURY View Dec Page

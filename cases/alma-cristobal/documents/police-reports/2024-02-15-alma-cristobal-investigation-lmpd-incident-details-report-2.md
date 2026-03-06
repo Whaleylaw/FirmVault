@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:1784be6cbf1aff6799e87e2b7d97bcd83bde5793ba3a600eb69df8de8675df58
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 Incident Details
 Incident Number: LMPD240051184
 Incident Status: Closed

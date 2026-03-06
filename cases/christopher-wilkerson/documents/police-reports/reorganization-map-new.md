@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:05684703dd67201075117a45ae9f4fcc6f76c5a79b56a260086ed624fc2fcf47
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 item_0.action: MOVE
 item_0.confidence: high
 item_0.full_path: Accident Scene & Evidence/2024-02-14 Accident Report - Boyle County Sheriffs Office.pdf

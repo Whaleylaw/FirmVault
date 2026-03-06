@@ -1,21 +1,23 @@
 ---
 case_slug: frances-whitis
-created_at: 2026-02-16 23:42:40.638000+00:00
+created_at: {}
 document_category: financial
-document_date: 2024-09-06
+document_date: {}
 document_type: financial
-entities:
-- Frankfort Regional Hospital
+entities: null
 extraction_method: native_text
 legacy_case_id: 2024-09-06-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Frances-Whitis-WC-MVA-9-6-2024/Medical/Frankfort
-  Regional Medical Center/Medical Bills/2024-09-06-Frances-Whitis-WC-Medical-Frankfort
-  Regional Medical Center-Medical-Bills-Frankfort-Regional-Medical-Center-Financial-Assistance-Application-Request.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Frances-Whitis-WC-MVA-9-6-2024/Medical/Frankfort Regional Medical Center/Medical Bills/2024-09-06-Frances-Whitis-WC-Medical-Frankfort Regional Medical Center-Medical-Bills-Frankfort-Regional-Medical-Center-Financial-Assistance-Application-Request.pdf
 source_hash: sha256:479471d3e0dd7cd6ded2e34fd002bdb313521c3f9fe516565308bc0ed9b2a80b
+contact: "[[cases/2024-09-06-mva-001/contacts/frankfort-regional-medical-center]]"
 ---
+
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 
 & Frankfort “ony
 REGIONAL MEDICAL CENTER 5/20/2025 Page 1

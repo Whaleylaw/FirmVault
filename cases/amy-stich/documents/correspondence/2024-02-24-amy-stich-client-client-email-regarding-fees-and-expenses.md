@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:f31ecaa3d2a28ea66c78c511f6a9635728fd43d14c76286b9b1916382f690cf8
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 Subject: Re: Your Workers Compensation Claim DOI [DOB-1] Moe's Southwest Grill
 From: [EMAIL-2]
 To: sarena@whaleylawfirm.com

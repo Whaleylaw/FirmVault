@@ -21,6 +21,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:f27abfa6e12184d2aae9b5387581d0a291eaf1e7ec597aadfdba94278a0d3a41
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 Stephen Anvar, M.D. Ranjit S. Bagga, M.D. Robert O. Buse, Jr., M.D. Gregory S. Elliott, M.D. David Jolgren M.D., PhD Anna Kogan, M.D.
 
 Curt Liebman, M.D. Lawrence Mason, M.D. Timothy Newcomer, M.D. John D. Rothpletz, M.D.

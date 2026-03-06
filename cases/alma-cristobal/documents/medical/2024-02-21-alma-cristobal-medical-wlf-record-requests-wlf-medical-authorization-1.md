@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:eec10520951bca5ae14be68f4ee3f054607c78e9d2872f5b09e8bb4cee6a3409
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 Heartland Imaging
 5227 Dixie Highway #100
 Louisville, KY 40216

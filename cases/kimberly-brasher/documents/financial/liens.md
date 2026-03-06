@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:7e5e4aec45d2c5ae5160f108a35e2dfad95258052eb5989df7a6e445bfd0377a
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 item_0.amount_owed_from_settlement: 35169.71
 item_0.final_lien_amount: 35169.71
 item_0.holder_address: PO Box 190394, Brooklyn, NY 11219

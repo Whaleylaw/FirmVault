@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Mi'Ayl
 source_hash: sha256:bb02f77643b925d24f90e9b14564527c2a8b24c25c8bf37d890ee707723553b7
 ---
 
+**Case:** [[cases/miayla-lopez/miayla-lopez|Mi'Ayla Lopez]]
+**Client:** [[cases/miayla-lopez/contacts/miayla-lopez|Mi'Ayla Lopez]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Mi'Ayla-Lopez-MVA-[DOB-1]/Investigation/2025-11-14-Mi'Ayla-Lopez-Investigation-Commonwealth-of-Kentucky-Civilian-Traffic-Collision-Report-3.png

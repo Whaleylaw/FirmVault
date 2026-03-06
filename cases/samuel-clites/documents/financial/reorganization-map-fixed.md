@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Samuel
 source_hash: sha256:ff6a1920298a21360400eda2f64700f8b63386a5047ec6cd0921a696f51fabef
 ---
 
+**Case:** [[cases/samuel-clites/samuel-clites|Samuel Clites]]
+**Client:** [[cases/samuel-clites/contacts/samuel-clites|Samuel Clites]]
+
 mappings[0].action: MOVE
 mappings[0].category: Medical_Records
 mappings[0].confidence: 0.95

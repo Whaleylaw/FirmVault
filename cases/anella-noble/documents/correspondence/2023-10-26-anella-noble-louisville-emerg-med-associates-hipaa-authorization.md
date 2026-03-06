@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:a84755d6adacdb9ed871748837808230dd2571eb870d7c22af8fa27573f4e51c
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 .-l.L'THORJZA T!ON TO RELEASE PROTECTED HEAL TH CA RE fNFOR.i\fA T!ON 
 TO: 
 Pursua:1: to the He2.!:h lP.s·.1rance Portability ar:d Accoun12.biliry Act ('"t--f!PAA) Privacy Regulaticr.s, 

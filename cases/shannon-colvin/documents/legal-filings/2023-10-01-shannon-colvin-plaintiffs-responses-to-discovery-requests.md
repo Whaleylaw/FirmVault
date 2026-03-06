@@ -4,6 +4,9 @@ document_category: court-filings
 legacy_case_id: 2023-10-01-MVA-002
 ---
 
+**Case:** [[cases/shannon-colvin/shannon-colvin|Shannon Colvin]]
+**Client:** [[cases/shannon-colvin/contacts/shannon-colvin|Shannon Colvin]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Shannon-Colvin-MVA-10-1-2023/Legal-Documents/2023-10-01-Shannon-Colvin-Plaintiffs-Responses-to-Discovery-Requests.pdf"
 source_hash: "sha256:3b80bae5ae207ec453f12812c54e835749a20e4155e4e13ae1d433bab0b37197"

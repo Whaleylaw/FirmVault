@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:6c58c88f7673ce2f3e8503dd4c5a8c98828385f311de6abe07cb2e8df641793a
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 Invoice - 13778753
 Federal Tax ID 36-4581087 
 Invoice Date [DOB-1]

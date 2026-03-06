@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:69b76724b90938b2d5fa43daf4a95607ed5550109fb6d4649c6e1a33ad3fa43f
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 item_0.adjuster_email: [EMAIL-1]
 item_0.adjuster_phone: 708-3117 Main
 item_0.claim_number: 410220052

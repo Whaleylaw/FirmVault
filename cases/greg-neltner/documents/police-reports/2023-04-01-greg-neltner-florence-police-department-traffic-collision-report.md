@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-N
 source_hash: sha256:f84ad023236082c80f98133af5b2dc10a3a6305379af510d58121371b593acc7
 ---
 
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 INVESTIGATOR BEAT OR POST #
 TOTAL LANES
 NO

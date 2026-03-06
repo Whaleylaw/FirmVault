@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:1af79ab0f87720bdb644194b864d1c21c4d84d5256292a34342a08f22d1fb5d8
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: lien
 extraction.date: 2023-11-09
 extraction.description: Initial Medicare lien request submitted to SGIC (Section 111 Group Health Plan) portal, dated November 9, 2023.

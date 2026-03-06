@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:21ea2e64a133861855ba3a6cade75407372018d01dd80cb7afff063d4fd88300
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 Patient: JOHNSON, Charles DOB: Apr 1, 1952
 23-Jul-2024 19:53 [PHONE-2] [PHONE-2] “p.4
 CERTIFICATION OF MEDICAL RECORDS AFFIDAVIT

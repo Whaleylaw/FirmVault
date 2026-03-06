@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Connie
 source_hash: sha256:c1d9acc8f07260502aa701ba0f4fcdeaca1d2ade5c9f34afc0db85e0f2cb91d7
 ---
 
+**Case:** [[cases/connie-goree/connie-goree|Connie Goree]]
+**Client:** [[cases/connie-goree/contacts/connie-goree|Connie Goree]]
+
 Lexington Police Department
 DATE [DOB-28]
 TIME 14:04:45

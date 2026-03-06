@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-
 source_hash: sha256:5f26fe3fe747ca9ac8973bfdcadeab52343a01be0cae6e726f95b721a29d76af
 ---
 
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 category: legal_documents
 description: ROI Plus records retrieval by Whaley Law Firm
 entities.organizations[0]: Whaley Law Firm

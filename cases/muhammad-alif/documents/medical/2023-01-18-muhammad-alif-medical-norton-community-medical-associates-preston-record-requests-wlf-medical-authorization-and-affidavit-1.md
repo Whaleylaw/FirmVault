@@ -1,21 +1,23 @@
 ---
 case_slug: muhammad-alif
-created_at: 2026-02-17 00:11:29.566000+00:00
+created_at: {}
 document_category: medical
-document_date: 1961-04-16
+document_date: {}
 document_type: medical
-entities:
-- Dr. Stephen Patton
+entities: null
 extraction_method: native_text
 legacy_case_id: 2022-11-08-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Norton
-  Community Medical Associates - Preston/Record Requests/2023-01-18-Muhammad-Alif-Medical-Norton
-  Community Medical Associates - Preston-Record-Requests-WLF-Medical-Authorization-And-Affidavit-1.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Medical/Norton Community Medical Associates - Preston/Record Requests/2023-01-18-Muhammad-Alif-Medical-Norton Community Medical Associates - Preston-Record-Requests-WLF-Medical-Authorization-And-Affidavit-1.pdf
 source_hash: sha256:21dfe30d73f445d610b89f3fd16f088b3bec452e31165bdfb72fddecda28bfd4
+contact: "[[cases/2022-11-08-mva-001/contacts/norton-community-medical-associates-preston]]"
 ---
+
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

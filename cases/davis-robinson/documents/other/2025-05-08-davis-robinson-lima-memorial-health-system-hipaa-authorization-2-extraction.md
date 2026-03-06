@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-
 source_hash: sha256:e121f7212305fbdd9e11c510ade204721d736484bbf88b56ee1c3e9d1c481ebc
 ---
 
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 category: medical_request
 date: 2025-05-08
 description: HIPAA Compliant Medical Authorization form for Lima Memorial Health System. Signed by Davis Robinson on 5/8/2025. Authorizes release of all medical records to Whaley Law Firm.

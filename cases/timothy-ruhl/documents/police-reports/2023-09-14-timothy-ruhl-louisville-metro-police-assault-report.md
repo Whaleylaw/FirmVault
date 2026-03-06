@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:7a9a289fc28ca4490eff356823e7f2509e78c316bdfd991690b954d9a4b50f1a
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 Louisville Metro Police Department
 Report Number LMPD23086598 - Incident Report
 =Sep t4¢2023°1t:59—

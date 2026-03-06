@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:403a7f8565e13ac49a802d8461c9db04f067c08ba9342d3b8b061afcfe3c6c47
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 Subject: Re: Claim: 04943051 Christopher Wilkerson
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

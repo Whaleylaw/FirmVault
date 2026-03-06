@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:5b456a9fc8b1d3b203754a307691e1034397959b8f7bb07856dc036b173cb3ac
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 O7-24- 24 10:10 FROM- AH&W Dr A Anderson 024257658 T-848 PQ002/0042 F-337
 CERTIFICATION OF MEDICAL RECORDS AFFIDAVIT
 GadDeas being first duly swom on his/her oath, says that:

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:977e1759503cde741335086907980ff438f6480d3b4efcd5b932d72705a85679
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 category: Client
 description: HIPAA-compliant medical authorization form authorizing Starlite Chiropractic to release protected health care information to Whaley Law Firm.
 entities[0]: Starlite Chiropractic

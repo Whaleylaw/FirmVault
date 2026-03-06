@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:2fc4e6e278282564cdf90b4396baa3eeac86bfa6b66807fd08900d9a6146d4af
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 category: Lien
 description: Letter from Conduent requesting accident report and third-party insurance information regarding Medicaid lien reimbursement for date of loss August 6, 2024.
 entities[0]: Conduent Payment Integrity Solutions

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:a06a740ad4f715a1f463481a63524ba542f889224ac5eb60a89c5de70b5be96f
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 Subject: NCP - RETURNED (for eFiler) JEFFERSON Circuit , MARSHALL,  DEBRA VS. REED,  JASMINE Envelope # 6996362
 From: [EMAIL-4]
 To: [EMAIL-3], Sarena@WhaleyLawFirm.com, [EMAIL-3]

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee
 source_hash: sha256:83d3816a8d712399ccd8b448de78848ce53b926e3a5ec36a8309430b8e48b64c
 ---
 
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 © [DOB-6] 9:24 AM Fax Services >Jessa
 FAX
 To: Jessa

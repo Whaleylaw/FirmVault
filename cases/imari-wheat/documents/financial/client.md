@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Imari-
 source_hash: sha256:928adde4ad0d4ea311377d7d8954d228b6ebf2bb12a331c4714d6d9af1881655
 ---
 
+**Case:** [[cases/imari-wheat/imari-wheat|Imari Wheat]]
+**Client:** [[cases/imari-wheat/contacts/imari-wheat|Imari Wheat]]
+
 address: 8350 Grand Trevi Drive, Louisville, KY 40228
 date_of_birth: [DOB-1]
 imported_at: 2026-02-16T21:09:42.784Z

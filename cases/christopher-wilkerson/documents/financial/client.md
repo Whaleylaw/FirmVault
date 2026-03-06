@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:fa0764cf9e7f8ac85b97d53e3ef97b2985ae1d510534a22f160afc9d969de283
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 address: 7300 Greensburg Road, Greensburg, KY 42743
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

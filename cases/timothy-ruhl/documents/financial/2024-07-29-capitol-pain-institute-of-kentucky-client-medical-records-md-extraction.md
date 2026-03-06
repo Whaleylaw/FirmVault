@@ -1,8 +1,8 @@
 ---
 case_slug: timothy-ruhl
-created_at: 2026-02-17 00:36:21.161000+00:00
+created_at: {}
 document_category: financial
-document_date: 2022-09-14
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2023-09-14-PrL-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timothy-Ruhl-Premise-09-14-2023/Reports/extractions/2024-07-29-Capitol-Pain-Institute-of-Kentucky-client-medical-records.md_extraction.json
 source_hash: sha256:4b8b4b18db1080479db7fb263eb4d4c1e3bd67362335230ac906403fa2257c54
+contact: "[[cases/2023-09-14-prl-001/contacts/capitol-pain-institute-of-kentucky]]"
 ---
+
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 
 content_analysis.category: Medical Records
 content_analysis.date: 2024-07-29

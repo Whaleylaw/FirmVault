@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:8f55c795fea4f0c9916125ee4a53ce3730c436e99a1d3665b706116e6ec263ac
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 Subject: Alma Cristobal - New Appointment Request
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

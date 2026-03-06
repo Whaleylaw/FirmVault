@@ -1,8 +1,8 @@
 ---
 case_slug: julmonzhae-moore
-created_at: 2026-02-16 23:59:32.072000+00:00
+created_at: {}
 document_category: medical
-document_date: 2004-05-28
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2023-08-29-MVA-003
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmonzhae-Moore-MVA-8-29-2023/Correspondence/2023-08-30-Julmonzhae-Moore-ULP-Radiological-Associates-Medical-Records.pdf
 source_hash: sha256:4e8fe73683262cd5969212d663b80e2690150170ea877199742759b09dfd24ea
+contact: "[[cases/2023-08-29-mva-003/contacts/ulp-radiological-associates]]"
 ---
+
+**Case:** [[cases/julmonzhae-moore/julmonzhae-moore|Julmonzhae Moore]]
+**Client:** [[cases/julmonzhae-moore/contacts/julmonzhae-moore|Julmonzhae Moore]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

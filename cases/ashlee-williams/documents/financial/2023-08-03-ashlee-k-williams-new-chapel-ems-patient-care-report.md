@@ -1,8 +1,8 @@
 ---
 case_slug: ashlee-williams
-created_at: 2026-02-16 22:08:10.379000+00:00
+created_at: {}
 document_category: financial
-document_date: 2008-08-23
+document_date: {}
 document_type: financial
 extraction_method: native_text
 legacy_case_id: 2023-08-29-MVA-001
@@ -11,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee-Williams-MVA-08-29-2023/Medical-Records/2023-08-03-Ashlee-K-Williams-New-Chapel-EMS-Patient-Care-Report.pdf
 source_hash: sha256:3d3c1adcebb05c9bbad6e21baddbdb825dd4ced2e94b6804a3b4ca973a582a86
+contact: "[[cases/2023-08-29-mva-001/contacts/new-chapel-ems]]"
 ---
+
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 
 Feb.1.2024 10:01AM Utica Twnshp Fire Dept No.0337 P.
 New Chapel EMS

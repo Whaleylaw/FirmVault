@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:179a44452700d1e52a0b0b734cfe5ee29d9c8858d26d3c79933c1eb52c2005cb
 ---
 
+**Case:** [[cases/james-lanier/james-lanier|James Lanier]]
+**Client:** [[cases/james-lanier/contacts/james-lanier|James Lanier]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-Lanier-MVA-6-28-2025/Medical/OrthoCincy -NKU/Medical Records/2025-09-02-James-Lanier-Medical-OrthoCincy -NKU-Medical-Records-OrthoCincy-Office-Visit-Progress-Notes.jpg

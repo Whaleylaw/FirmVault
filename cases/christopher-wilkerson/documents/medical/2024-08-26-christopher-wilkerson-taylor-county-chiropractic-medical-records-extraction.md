@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:710e5675baf839abdd03f114259f85f6ba0a3f189c6eb8c4ada25aadd4f65a09
 ---
 
+**Case:** [[cases/christopher-wilkerson/christopher-wilkerson|Christopher Wilkerson]]
+**Client:** [[cases/christopher-wilkerson/contacts/christopher-wilkerson|Christopher Wilkerson]]
+
 category: Medical
 confidence: high
 description: Fax cover sheet and certification of medical records affidavit from Taylor County Chiropractic. Medical records for Christopher Wilkerson sent to Whaley Law Firm. 10 pages total. Dated August 26, 2024.

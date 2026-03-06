@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:7fcd39ba93f10e6e3685f0be2518b971bba9f24d1bc82477e96420cb68828246
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 VERIFICATION
 
 I, AMY MILLS, hereby verify that I have reviewed the foregoing answers to the Defendant’s Interrogatories and Requests for Production of Documents. These answers are

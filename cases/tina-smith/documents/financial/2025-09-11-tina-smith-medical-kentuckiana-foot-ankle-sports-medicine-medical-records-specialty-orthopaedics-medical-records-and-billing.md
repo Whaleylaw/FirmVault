@@ -18,6 +18,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Tina-S
 source_hash: sha256:b9fe3b5466f3398d95d904e1ca5c84376f835682ee24695139eb291af9d72964
 ---
 
+**Case:** [[cases/tina-smith/tina-smith|Tina Smith]]
+**Client:** [[cases/tina-smith/contacts/tina-smith|Tina Smith]]
+
 Oct. 2.2025 10:10AM Specialty Orthopaedics, P. S.C. No. 8314 P. 1/6
 FAX COVER SHEET
 SO-04 (Rev. 4-12-17)

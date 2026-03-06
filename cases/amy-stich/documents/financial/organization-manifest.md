@@ -19,6 +19,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:bb579ea9814cfbf063481c32f35a04719ce33cce254b82c155b7a4297007a57e
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 accident_date: 2024-01-17
 case_type: WC
 client_name: Amy-Stich

@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:2fed8a848ace1eb2e40d09d06e33f62ad099ae3bd4913e930af2c72a2bc6a661
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 Amended auto policy declarations 
 Policy number: 1811335 791 I 
 Policy effective date: October 20, 2022 Page 3 of 8 

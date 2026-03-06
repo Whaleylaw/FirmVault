@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Collee
 source_hash: sha256:c198f0d18485c85d66880d531b7db1f3efedef4e2f29e627fd86c51bc33a02eb
 ---
 
+**Case:** [[cases/colleen-colvin/colleen-colvin|Colleen Colvin]]
+**Client:** [[cases/colleen-colvin/contacts/colleen-colvin|Colleen Colvin]]
+
 Subject: The Defense Counsel's Discovery Request to You & Shannon
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

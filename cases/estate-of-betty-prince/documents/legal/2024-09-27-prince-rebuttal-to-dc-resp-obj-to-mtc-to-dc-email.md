@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:16beba2b850c8cb2fe64905d9a934ae3ba4c466d2c26ba3828875361bf192322
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 Subject: Re: Betty Prince v. Norton
 From: [EMAIL-1]
 To: [EMAIL-2], [EMAIL-3]

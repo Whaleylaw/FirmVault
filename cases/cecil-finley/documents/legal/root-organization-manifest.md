@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:64f57df9daf9981825a258adee80514e32f5373de01aabc0d51d23de71efb650
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 accident_date: 2024-01-24
 case_type: MVA
 client_name: Cecil-Finley

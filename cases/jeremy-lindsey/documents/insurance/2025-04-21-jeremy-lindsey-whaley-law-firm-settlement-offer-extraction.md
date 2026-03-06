@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:aa9b0e0db692336011c129d8cc97abb89c59f4d98846099f67266c9564909343
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: legal
 date: 2025-04-21
 description: Global settlement offer of $50,000 bodily injury limit to be divided among multiple injured parties, claim 24-[POLICY-1]

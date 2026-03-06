@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:02ee2002f6dbeb303d7b4c7b8c33a4413651a5b543f60e68a3c0ac3468e6121e
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 RF-PFHQ 9/1/2023 8:47:58 AM PAGE 1/003 Fax server
 &® StateFarm
 Facsimile Cover Sheet Confidential Business

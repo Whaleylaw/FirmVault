@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:bbd31aaf6c8d8af739eb2664ba91f6596c400a3cf0f5fc5196d4e3ff0b10eb40
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 Subject: RE: Kimberly Brasher (20240514-001078
 From: [EMAIL-22]
 To: sarena@whaleylawfirm.com

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:f666d559dc35da2d7704c2286f9e8ab101c1200e2b2ff516c93015d62b2d94dd
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 AOC-805 Doc. Code: PPW
 Rev. 10-05 or PWF
 Page 1of 3

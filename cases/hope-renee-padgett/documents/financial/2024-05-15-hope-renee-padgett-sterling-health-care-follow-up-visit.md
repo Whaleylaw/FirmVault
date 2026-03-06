@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Hope-R
 source_hash: sha256:19a196e07301e553cca073b79c7e95fc95956feefc6b882a8844798d127f2ac7
 ---
 
+**Case:** [[cases/hope-renee-padgett/hope-renee-padgett|Hope Renee Padgett]]
+**Client:** [[cases/hope-renee-padgett/contacts/hope-renee-padgett|Hope Renee Padgett]]
+
 athena 7/8/2024 11:04:41 a a1b14572-b1fa-4634-81 3b-1 ded3b586fb3
 Sterling Heatth Care +44 Water Street, Owingsvile KY 40360-8944
 Page: 01 / 57

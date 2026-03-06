@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:f059f0773c2fa40005d4dd9a12c862a7452e3245e3db249b1296965fe40798d7
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 Jessica Bottorff
 Aaron G. Whaley, Esq.
 THE 712 Lyndon Lane

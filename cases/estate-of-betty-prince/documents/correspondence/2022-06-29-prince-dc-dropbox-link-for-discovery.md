@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:03b68d2213054873f51adbd03d7b28626f87b7ff38b4bd53ddf8ca966a27d749
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 Subject: Fwd: Prince v. Norton Hospitals- Discovery Production Dropbox Link
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

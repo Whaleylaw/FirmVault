@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2024-01-17-OTH-001
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Stich-WC-[DOB-442]/Medical/Heartland Imaging/Medical Records/2024-01-18-Amy-Stich-Medical-Heartland Imaging-Medical-Records-Baptist-Health-Medical-Records-and-MRI-Report.pdf"
 source_hash: "sha256:48bc0ce9a40a104463af44f7c4d58617027ddb843ac4d2f08a82d2157b21e579"

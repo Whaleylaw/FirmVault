@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Greg-N
 source_hash: sha256:0c62987b42abbcb81772e82802afbd6d0b5b62f246f64312c4cbfed21915bed1
 ---
 
+**Case:** [[cases/greg-neltner/greg-neltner|Greg Neltner]]
+**Client:** [[cases/greg-neltner/contacts/greg-neltner|Greg Neltner]]
+
 item_0.certificate_of_service: 2024-03-29
 item_0.filing_party_name: The Whaley Law Firm
 item_0.pleading_type: Complaint

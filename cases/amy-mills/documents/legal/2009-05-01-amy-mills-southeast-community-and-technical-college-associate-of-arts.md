@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:5b2f76ca453df5538ff18f24c4e7fac5cd378acb09b71c441eacf6e3678c4a1b
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Amy Jo Mills
 SouthEast Community and Technical College
 May, 2009

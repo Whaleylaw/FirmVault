@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:d70bcc7e4cf48bacefd1f72cecf877cc885de1bfde92b81ccec54850e1497a7b
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 O7-24— 24 10:10 FROM- A&W Dr A Anderson [PHONE-110] 01/0042 F-337
 
 { bus map te a peng see eo SESEES EARS i ‘ : i ‘ Hie Hit i a iH t ' ay

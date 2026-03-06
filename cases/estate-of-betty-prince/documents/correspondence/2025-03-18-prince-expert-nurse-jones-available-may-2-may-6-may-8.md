@@ -4,6 +4,9 @@ document_category: correspondence
 legacy_case_id: 2020-07-14-PrL-001
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate-of-Betty-Prince-Premise-7-14-2020/Medical/2025.03.18-Prince-Expert-Nurse-Jones-Available-May-2-May-6-May-8.eml"
 source_hash: "sha256:120909435f280362cf7b7f698ebfc7476b8d286cbc4a8406bf6b21b9885d01e9"

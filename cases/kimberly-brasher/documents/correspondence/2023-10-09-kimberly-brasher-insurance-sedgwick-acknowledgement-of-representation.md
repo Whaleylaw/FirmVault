@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Kimber
 source_hash: sha256:a2f62a7923409561a57ca74038a9df2623a4d5629531515c348a43a0a190c03c
 ---
 
+**Case:** [[cases/kimberly-brasher/kimberly-brasher|Kimberly Brasher]]
+**Client:** [[cases/kimberly-brasher/contacts/kimberly-brasher|Kimberly Brasher]]
+
 Sedgwick Claims Management Services, Inc.
 Deerfield Office @
 PO Box 14439

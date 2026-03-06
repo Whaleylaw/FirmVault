@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate
 source_hash: sha256:4a5f8de563c881bf65a9e485117f871ca738bc255de9ca59175256207203ddef
 ---
 
+**Case:** [[cases/estate-of-evangeline-young/estate-of-evangeline-young|Estate of Evangeline Young]]
+**Client:** [[cases/estate-of-evangeline-young/contacts/estate-of-evangeline-young|Estate of Evangeline Young]]
+
 address: 8506 Gregory Way, Louisville, KY 40219
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

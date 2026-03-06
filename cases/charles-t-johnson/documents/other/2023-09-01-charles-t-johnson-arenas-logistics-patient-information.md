@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:475017e992e7f3577996abb33ac3a02b11ccf11cad4055e6fe3874ab369cafc6
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 9/1/2023 4:01 PM FROM: FedEx Office TO: [PHONE-5] Pp. 1
 Arena’s Logistics
 x) Pages including Cover

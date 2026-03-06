@@ -1,10 +1,9 @@
 ---
 case_slug: caryn-mccay
-created_at: 2026-02-16 22:17:07.340000+00:00
+created_at: {}
 document_category: other
 document_type: other
-entities:
-- Allstate
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-07-30-MVA-001
 mime_type: application/pdf
@@ -12,7 +11,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Caryn-McCay-MVA-7-30-2023/Medical/2023-11-28-Caryn-McCay-ReviveChiropractic-Medical-Billing-Summary.pdf
 source_hash: sha256:fcc059ab5ddb83993038450b21b3df0fdb31fff1c19034bf07ac14cfc7d676a8
+contact: "[[cases/2023-07-30-mva-001/contacts/caryn-mccay]]"
 ---
+
+**Case:** [[cases/caryn-mccay/caryn-mccay|Caryn McCay]]
+**Client:** [[cases/caryn-mccay/contacts/caryn-mccay|Caryn McCay]]
+
 
 Allstate
 PO Box 2874

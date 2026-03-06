@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dakota
 source_hash: sha256:e8b8a4c01c60cf0258e63f46f1fd77f96bfd789c86d81590a2f880967b2012af
 ---
 
+**Case:** [[cases/dakota-mccord/dakota-mccord|Dakota McCord]]
+**Client:** [[cases/dakota-mccord/contacts/dakota-mccord|Dakota McCord]]
+
 Form_SCTNID_CTGRY.KY[POLICY-1]_DECPAGE
 [POLICY-2] E IC64918 INS DECPAGE E POLWHITEFONT I67QNOXLOHPNUSKRLRLZ637S6C0001 RPUID TRACWHITEFONT BDF_AA
 Policy Number: [POLICY-2]

@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:97aa46c4849f36a8d9055769a9ded869bd85f70eed55db221b289af6debffba6
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 Filed
 Filed
 24-Cl-00065 [DOB-7] Geannie H. Wright, Morgan Circuit Clerk

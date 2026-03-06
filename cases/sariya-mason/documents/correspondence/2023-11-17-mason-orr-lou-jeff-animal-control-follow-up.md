@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Sariya
 source_hash: sha256:d87068ea9c70b9d47d9a897aade30f143c2912fe679d3f27101002b120e729ea
 ---
 
+**Case:** [[cases/sariya-mason/sariya-mason|Sariya Mason]]
+**Client:** [[cases/sariya-mason/contacts/sariya-mason|Sariya Mason]]
+
 Subject: Re: Open Records Request - 2326 Quinn Drive, Louisville, KY 40216
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

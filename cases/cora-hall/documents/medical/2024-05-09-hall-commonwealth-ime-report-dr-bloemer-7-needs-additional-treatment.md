@@ -1,16 +1,10 @@
 ---
 case_slug: cora-hall
-created_at: 2026-02-16 22:37:47.442000+00:00
+created_at: {}
 document_category: medical
-document_date: 1989-09-22
+document_date: {}
 document_type: medical
-entities:
-- Dr. Chaitanya Malempati
-- Chaitanya Malempati
-- Jeffrey Hazlewood
-- Josh Nagode
-- Eric Vessels
-- Abigal Debusk
+entities: null
 extraction_method: native_text
 legacy_case_id: 2022-12-05-OTH-001
 mime_type: application/msword
@@ -18,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cora-Hall-WC-12-05-2022/Medical/2024.05.09-Hall-Commonwealth-IME-Report-Dr.Bloemer-7-Needs-additional-Treatment.doc
 source_hash: sha256:900081a5dc11f3f4c5666bf8922b2d66531757d4ee69eee10485019e70ca39cc
+contact: "[[cases/2022-12-05-oth-001/contacts/commonwealth-ime]]"
 ---
+
+**Case:** [[cases/cora-hall/cora-hall|Cora Hall]]
+**Client:** [[cases/cora-hall/contacts/cora-hall|Cora Hall]]
+
 
 INDEPENDENT MEDICAL EVALUATION
 

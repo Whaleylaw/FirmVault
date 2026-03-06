@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:4a3069fad42d81123bf397176e57089770df1fc913c63681dcb9bfe885c9df35
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 Subject: Motion to Set Trial Date - August 12, 2024
 From: sarena@whaleylawfirm.com
 To: [EMAIL-1]

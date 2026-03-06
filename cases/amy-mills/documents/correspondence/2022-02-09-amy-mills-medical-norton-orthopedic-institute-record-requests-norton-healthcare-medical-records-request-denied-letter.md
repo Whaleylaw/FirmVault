@@ -1,21 +1,23 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:49:07.987000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1983-12-28
+document_date: {}
 document_type: correspondence
-entities:
-- Norton Healthcare
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Norton
-  Orthopedic Institute/Record Requests/2022-02-09-Amy-Mills-Medical-Norton Orthopedic
-  Institute-Record-Requests-Norton-Healthcare-Medical-Records-Request-Denied-Letter.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Norton Orthopedic Institute/Record Requests/2022-02-09-Amy-Mills-Medical-Norton Orthopedic Institute-Record-Requests-Norton-Healthcare-Medical-Records-Request-Denied-Letter.pdf
 source_hash: sha256:e343824ac747cd2793a89e944e29f9330fa01174eca2f880124b3d2edc9a611c
+contact: "[[cases/2019-04-26-prl-001/contacts/norton-orthopedic-institute]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 2/9/22
 THE WHALEY LAW FIRM

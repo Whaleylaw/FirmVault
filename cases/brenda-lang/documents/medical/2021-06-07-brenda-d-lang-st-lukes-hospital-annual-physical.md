@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2021-09-03-MVA-001
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda-Lang-MVA-[DOB-1]/Medical/2021-06-07-Brenda-D-Lang-St-Lukes-Hospital-Annual-Physical.pdf"
 source_hash: "sha256:a744fe6387cec48c1875942ac58a2be481f35b92f10b93331aec76e0c5dc9e01"

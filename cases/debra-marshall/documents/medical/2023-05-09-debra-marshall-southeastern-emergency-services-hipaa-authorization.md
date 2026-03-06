@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:c19e742616d7105e91591fc2eb5a110e6d919e9c1d05e6f094ba1eb34bce6472
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 Southeastern Emergency Services
 3429 Regal Drive
 Alcoa, TN 37701

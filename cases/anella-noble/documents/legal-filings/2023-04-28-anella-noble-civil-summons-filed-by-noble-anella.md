@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:726c2d2c4b6a0fe491ad9b194bc001aec13d9a59614d514b922eb9decfa052fe
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 AOC-E-105 Sum Code: Cl
 Rev. 9-14 Case #: 24-Cl-004985
 Court: CIRCUIT

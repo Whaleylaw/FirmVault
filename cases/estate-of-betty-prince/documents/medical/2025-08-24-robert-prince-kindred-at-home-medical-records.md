@@ -2,7 +2,12 @@
 case_slug: estate-of-betty-prince
 document_category: medical
 legacy_case_id: 2020-07-14-PrL-001
+contact: "[[cases/2020-07-14-prl-001/contacts/kindred-at-home]]"
 ---
+
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate-of-Betty-Prince-Premise-7-14-2020/Medical/2025-08-24-Robert-Prince-Kindred-at-Home-Medical-Records.pdf"

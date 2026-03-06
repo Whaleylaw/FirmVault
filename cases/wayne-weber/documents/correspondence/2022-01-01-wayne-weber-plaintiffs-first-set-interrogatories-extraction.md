@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:ec8d47d1fb5485afb89d6635bc0eb95f697d5e333b80e2144709efb61edbd630
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: litigation
 extraction.date: 2022-01-01
 extraction.description: Plaintiff's first set of interrogatories for Wayne Weber case dated January 1, 2022.

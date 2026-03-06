@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Davis-
 source_hash: sha256:d910e8357d98be5f126e660db58eff3982e6e9736595b19be6c75dc47834e5fc
 ---
 
+**Case:** [[cases/davis-robinson/davis-robinson|Davis Robinson]]
+**Client:** [[cases/davis-robinson/contacts/davis-robinson|Davis Robinson]]
+
 category: legal_client
 date: 2021-01-01
 description: Legal client intake documents including Non-Solicitation Affidavit and Personal Injury Fee Agreement. Attorney fee is 33.33% pre-lawsuit, 40% post-lawsuit. 12 page document dated 2021.

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Joseph
 source_hash: sha256:ea02f8cb96d1a7ca21c3cb3e94507c2eeaf126a3cd5b74b4ffb5a350d0122a14
 ---
 
+**Case:** [[cases/joseph-ott/joseph-ott|Joseph Ott]]
+**Client:** [[cases/joseph-ott/contacts/joseph-ott|Joseph Ott]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Joseph-Ott-MVA-8-06-2025/Client/2025-08-11-Joseph-Ott-Client-Client-Text-Message-Providing-SSN-Info.jpg

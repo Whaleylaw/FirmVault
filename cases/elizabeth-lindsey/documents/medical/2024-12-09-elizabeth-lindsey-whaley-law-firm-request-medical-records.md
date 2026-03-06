@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2024-12-01-MVA-001
 ---
 
+**Case:** [[cases/elizabeth-lindsey/elizabeth-lindsey|Elizabeth Lindsey]]
+**Client:** [[cases/elizabeth-lindsey/contacts/elizabeth-lindsey|Elizabeth Lindsey]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Elizabeth-Lindsey-MVA-[DOB-1]/Correspondence/2024-12-09-Elizabeth-Lindsey-Whaley-Law-Firm-Request-Medical-Records.pdf"
 source_hash: "sha256:017ad48cbbf33313081c9ef9532e59671fbba40cf7458ffb4fe8291b6ed601ad"

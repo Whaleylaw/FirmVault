@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2019-04-26-PrL-001
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-[DOB-12]/Negotiation_Settlement/2023-06-16-Amy-Mills-Whaley-Law-Firm-Settlement-Demand.pdf"
 source_hash: "sha256:2f290b2f906a5f7b56b98d9b7de5dd9a533b95f73297a6bce526367055ca7c05"

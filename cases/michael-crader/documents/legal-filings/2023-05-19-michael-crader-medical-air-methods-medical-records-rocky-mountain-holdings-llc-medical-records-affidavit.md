@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:271e6bcced49e638a010ea24a72684e661612ab6cb47f36d68dab792082416b0
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 CERTIFICATION OF MEDICAL RECORDS AFFIDAVIT
 Jeffrey Loew , being first duly sworn on his/her oath, says that:
 (Name ofrecords custodian/clerk)

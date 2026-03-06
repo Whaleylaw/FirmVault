@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:496a42371dc54e5ce1241cf26b58d15fc0d670ce6d3002c4749e3d7429eb876c
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 o >
 3a PAT. CHILDRENS HOS MED CTR-CH [CHILD HOS MED CTR COM art#| [PHONE-2] ae
 3333 BURNET AVENUE 3337 SOLUTIONS CTR Rees (11772261 @131

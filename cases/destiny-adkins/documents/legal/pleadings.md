@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Destin
 source_hash: sha256:a5052237a3ee9b6f7822ff0db2e25a6652b3ff3d1f111627258997d7fc7c78ce
 ---
 
+**Case:** [[cases/destiny-adkins/destiny-adkins|Destiny Adkins]]
+**Client:** [[cases/destiny-adkins/contacts/destiny-adkins|Destiny Adkins]]
+
 item_0.certificate_of_service: 2022-05-11
 item_0.filing_party_name: The Whaley Law Firm
 item_0.pleading_type: Complaint

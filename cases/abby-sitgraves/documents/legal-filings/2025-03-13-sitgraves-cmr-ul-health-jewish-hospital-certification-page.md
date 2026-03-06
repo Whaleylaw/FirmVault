@@ -1,6 +1,6 @@
 ---
 case_slug: abby-sitgraves
-created_at: 2026-02-16 21:22:17.459000+00:00
+created_at: {}
 document_category: court-filings
 document_type: court_filing
 extraction_method: native_text
@@ -8,11 +8,14 @@ legacy_case_id: 2024-07-13-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Abby-Sitgraves-MVA-7-13-2024/Medical/Jewish
-  Hospital/Medical Records/2025.03.13 Sitgraves CMR UL Health - Jewish Hospital -
-  Certification Page.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Abby-Sitgraves-MVA-7-13-2024/Medical/Jewish Hospital/Medical Records/2025.03.13 Sitgraves CMR UL Health - Jewish Hospital - Certification Page.pdf
 source_hash: sha256:929865d5259d2a9de2baf426c0844ee0cf6f59854968aee1c9fd07c78e9e160c
+contact: "[[cases/2024-07-13-mva-001/contacts/jewish-hospital]]"
 ---
+
+**Case:** [[cases/abby-sitgraves/abby-sitgraves|Abby Sitgraves]]
+**Client:** [[cases/abby-sitgraves/contacts/abby-sitgraves|Abby Sitgraves]]
+
 
 UL Health
 AFFIDAVIT OF CUSTODIAN OF RECORDS

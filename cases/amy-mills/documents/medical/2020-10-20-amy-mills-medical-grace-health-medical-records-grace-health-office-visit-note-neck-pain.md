@@ -1,21 +1,23 @@
 ---
 case_slug: amy-mills
-created_at: 2026-02-17 02:48:35.053000+00:00
+created_at: {}
 document_category: medical
-document_date: 1983-12-28
+document_date: {}
 document_type: medical
-entities:
-- Plan Orders
-- Grace Community Health Center
+entities: null
 extraction_method: native_text
 legacy_case_id: 2019-04-26-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Grace
-  Health/Medical Records/2020-10-20-Amy-Mills-Medical-Grace Health-Medical-Records-Grace-Health-Office-Visit-Note-Neck-Pain.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-04-26-2019/Medical/Grace Health/Medical Records/2020-10-20-Amy-Mills-Medical-Grace Health-Medical-Records-Grace-Health-Office-Visit-Note-Neck-Pain.pdf
 source_hash: sha256:feaa5d4cb181f18d67fe2ce81667ae2e8a4c7e127c82a88799f9fc16b64f0aaa
+contact: "[[cases/2019-04-26-prl-001/contacts/grace-health]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 Mills, Amy 000000023359 [DOB-65] [DOB-65] 08:30 AM 1/7
 PATIENT: Amy Mills 

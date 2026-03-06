@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Destin
 source_hash: sha256:ddc5e58ee41858c256d5cbb3ebd7cfd4419e6ccc7229a69e131e47e9df01cf79
 ---
 
+**Case:** [[cases/destiny-adkins/destiny-adkins|Destiny Adkins]]
+**Client:** [[cases/destiny-adkins/contacts/destiny-adkins|Destiny Adkins]]
+
 February 23, 2022
 
 Sent Via Fax: [PHONE-1]

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:16aecfe282c8eda5cb14a55a87b405680a1428405e50bc53b69e07895ffdc5be
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 0
 CINCINNATLOH BOX634706 45260-4706
 91161932-400-18851

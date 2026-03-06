@@ -36,6 +36,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Leanor
 source_hash: sha256:674e8f0f0b7204ec25792c04f77df142e39d2a82bb7968f8e3e3edf3d3674f9c
 ---
 
+**Case:** [[cases/leanora-brown/leanora-brown|Leanora Brown]]
+**Client:** [[cases/leanora-brown/contacts/leanora-brown|Leanora Brown]]
+
 ULH University of Louisville Hospital
 530 S. Jackson Street
 Louisville, KY 40202-1675

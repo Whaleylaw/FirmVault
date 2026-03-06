@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:5d3af6dce922ae2e57b11f0e36ffa79ad120d5bb32f92f02e4685ac8e4d9ad21
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 <u>**Expert **</u><u>**Witness Fee Schedule**</u>
 
 Name:Kate L. Smith BSN, RN, CNLCP, LCP-C

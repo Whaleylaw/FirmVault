@@ -4,6 +4,9 @@ document_category: financial
 legacy_case_id: 2025-09-03-MVA-001
 ---
 
+**Case:** [[cases/cory-stephenson/cory-stephenson|Cory Stephenson]]
+**Client:** [[cases/cory-stephenson/contacts/cory-stephenson|Cory Stephenson]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cory-Stephenson-MVA-9-3-2025/Medical/University of Louisville Hospital/Medical Bills/2025-09-03-Cory-Stephenson-Medical-University of Louisville Hospital-Medical-Bills-U-of-L-Hospital-Itemized-Statement-of-Charges.pdf"
 source_hash: "sha256:a6a400ac01f1998b5dd0ff03746bcf4d9dac137022477943adc5fe7f95d4c0d7"

@@ -1,18 +1,22 @@
 ---
 case_slug: jimmy-ferguson
-created_at: 2026-02-16 23:57:33.161000+00:00
+created_at: {}
 document_category: medical
-document_date: 1974-09-16
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2024-05-30-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-Ferguson-MVA-5-30-2024/Client
-  Documents/2024-07-08_Wellcare-of-Kentucky_HIPAA-Authorization.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-Ferguson-MVA-5-30-2024/Client Documents/2024-07-08_Wellcare-of-Kentucky_HIPAA-Authorization.pdf
 source_hash: sha256:31ad48fa1da62cb46c20d374076ecaf29e0b736204c644c2ea9e5c769dfaf828
+contact: "[[cases/2024-05-30-mva-001/contacts/wellcare-of-kentucky]]"
 ---
+
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

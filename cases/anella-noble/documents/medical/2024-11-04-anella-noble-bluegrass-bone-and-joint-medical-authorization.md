@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:984b93cdc870ca2a9831b7a3c1c89c583060b2df76542ac8f91f8f50121e40e0
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 From: Malissa Stinson Fax: 15029019955 To: Fax: [PHONE-1] Page: 1 of 6 [DOB-2] 1:10 PM
 cyacsimile
 Note:

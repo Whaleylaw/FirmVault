@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:4bc19aa2a23e2857e50b27bd246cf9a05c78622700ad92326c92efd665caa49b
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 Sep.18.2024 11:23 PM [PHONE-12] Pod
 7 |
 ash mily by

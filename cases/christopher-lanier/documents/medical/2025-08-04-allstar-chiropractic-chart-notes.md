@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Christ
 source_hash: sha256:23557b5c987306f2f043eaf6ff1fe46922bad46712acc26ba629cc0572fe0a43
 ---
 
+**Case:** [[cases/christopher-lanier/christopher-lanier|Christopher Lanier]]
+**Client:** [[cases/christopher-lanier/contacts/christopher-lanier|Christopher Lanier]]
+
 Patient: Lanier, Christopher"Chris" 
 Ins Co: State Farm Pol #: Insured ID: 17-87C9-86K
 Acct #: 224888 DOB: [DOB-94]

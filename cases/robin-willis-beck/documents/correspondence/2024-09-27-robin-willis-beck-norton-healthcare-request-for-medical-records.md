@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:2aa8f307a1cb6aaf8a39aa3d0d53d65c024c6d729a946f8d6a832a6069eafa96
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 INN NORTON
 Real people. Remarkable care.
 10/16/24

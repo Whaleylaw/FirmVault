@@ -1,18 +1,22 @@
 ---
 case_slug: deanna-jones
-created_at: 2026-02-16 22:56:28.447000+00:00
+created_at: {}
 document_category: medical
-document_date: 2025-07-30
+document_date: {}
 document_type: medical
 extraction_method: native_text
 legacy_case_id: 2025-07-30-MVA-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Deanna-Jones-MVA-7-30-2025/Medical/1st
-  Diagnostics/Medical Records/2025-08-19-Deanna-Jones-Medical-1st Diagnostics-Medical-Records-1st-Diagnostics-MRI-Lumbar-Spine.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Deanna-Jones-MVA-7-30-2025/Medical/1st Diagnostics/Medical Records/2025-08-19-Deanna-Jones-Medical-1st Diagnostics-Medical-Records-1st-Diagnostics-MRI-Lumbar-Spine.pdf
 source_hash: sha256:be4e3c05972f3411ea0a7f907648b3ace9a1874017b415f579b6ba30b6a3ba2c
+contact: "[[cases/2025-07-30-mva-001/contacts/1st-diagnostics]]"
 ---
+
+**Case:** [[cases/deanna-jones/deanna-jones|Deanna Jones]]
+**Client:** [[cases/deanna-jones/contacts/deanna-jones|Deanna Jones]]
+
 
 PATIENT: JONES, DEANNA MRN: 1152-40E
 REFERRED BY: RICHARD MCPHERSON, D.C. DOB: [DOB-12]

@@ -17,6 +17,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:2aa5a8198e148c6662a490966ae37b5a35f04072e33d9643f88b122c88ff59d6
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 accident_date: 2024-07-13
 case_type: MVA
 client_name: Nayram-Adadevoh

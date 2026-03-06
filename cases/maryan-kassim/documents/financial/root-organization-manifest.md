@@ -19,6 +19,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:be5013d514ad57eff7ab954dd55fdec98e08cbd0c9534abbed2c90dd21e1dac4
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 accident_date: 2024-08-06
 case_type: MVA
 client_name: Maryan-Kassim

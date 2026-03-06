@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:cf8507a2d0107183c5e38c03917d78a7cce265885305cb390e093a3f3a7191f3
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 extraction.category: medical_billing
 extraction.date: 2022-07-26
 extraction.description: Medical claim from Baptist Health Medical Group for Wayne Weber dated July 26, 2022.

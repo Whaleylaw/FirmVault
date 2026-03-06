@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:a4d5f5db0eac55c9910e88e8f85be536ac8591b627c2bce03c4614f09353029d
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 2° 38 2 Bo
 CERTIFICATION OF MEDICAL RECORDS AFFIDAVIT
 SHERMAN STRAWN , being first duly swom on his/her oath, says that:

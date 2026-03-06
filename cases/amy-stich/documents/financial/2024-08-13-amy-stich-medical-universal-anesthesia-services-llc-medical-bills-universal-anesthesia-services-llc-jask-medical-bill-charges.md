@@ -4,6 +4,9 @@ document_category: financial
 legacy_case_id: 2024-01-17-OTH-001
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Stich-WC-[DOB-1]/Medical/Universal Anesthesia Services LLC/Medical Bills/2024-08-13-Amy-Stich-Medical-Universal Anesthesia Services LLC-Medical-Bills-Universal-Anesthesia-Services-LLC-JASK-Medical-Bill-Charges.pdf"
 source_hash: "sha256:5e766cac1860e1e96816ca1f48cd29cbdfc3f5ed274016870432278afdc82105"

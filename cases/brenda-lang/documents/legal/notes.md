@@ -20,6 +20,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Brenda
 source_hash: sha256:80c0f5acd7079c1df0061ef543f80d24a012cc95cd9b9a2eed19875ad2807e84
 ---
 
+**Case:** [[cases/brenda-lang/brenda-lang|Brenda Lang]]
+**Client:** [[cases/brenda-lang/contacts/brenda-lang|Brenda Lang]]
+
 item_0.author_name: Fuel Digital RingCentral Integration Service Account
 item_0.episode_type: imported
 item_0.last_activity: 2025-11-06T00:00:00

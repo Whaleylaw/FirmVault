@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charle
 source_hash: sha256:5fe28dbec5fd72503f507155c12364ce34481c229cd24e0bcb4c0d91cc26800f
 ---
 
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 OLZS90000PrOrZ0ZdPr»
 COB:R Coordination of ‘CENTERS FORMEDICARE &MEDICAID SERVICES Benefits and Recovery
 February 20, 2024

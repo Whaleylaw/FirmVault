@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Ashlee
 source_hash: sha256:95a9e0f31d6fa12227e363158493b0071a61062dc04048112b015fd8ba904877
 ---
 
+**Case:** [[cases/ashlee-williams/ashlee-williams|Ashlee Williams]]
+**Client:** [[cases/ashlee-williams/contacts/ashlee-williams|Ashlee Williams]]
+
 Oct 38 2023 15:11:82 EDT MSG# [PHONE-3]-Bd6-1 Page 81 DFBAZ
 Libe
 Metual.

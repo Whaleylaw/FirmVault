@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:d6ae4a11423931bf545fd7e900aa377fcc3fdd4da40fa1fed1e33d8d695fcc21
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 Certificate Of Completion
 Envelope Id: DF115D1B11D147E3BEB5899A7F5DC8D9 Status: Completed
 Subject: The Whaley Law Firm has requested your signature. Follow the prompts to execute the attached. 

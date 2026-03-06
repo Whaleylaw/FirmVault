@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Debra-
 source_hash: sha256:b3c8c08f7c9cd1c864dc4440cc2d1c98ad9e35cd56d84f29db851962eefe9940
 ---
 
+**Case:** [[cases/debra-marshall/debra-marshall|Debra Marshall]]
+**Client:** [[cases/debra-marshall/contacts/debra-marshall|Debra Marshall]]
+
 [PHONE-30]
 
 The ps Rawlings Company tic

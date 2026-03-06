@@ -2,7 +2,12 @@
 case_slug: amy-mills
 document_category: correspondence
 legacy_case_id: 2019-04-26-PrL-001
+contact: "[[cases/2019-04-26-prl-001/contacts/clark-clinic-neurology]]"
 ---
+
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mills-Premise-[DOB-9]/Medical/Clark Clinic Neurology/Record Requests/2022-11-28-Amy-Mills-Medical-Clark Clinic Neurology-Record-Requests-WLF-Medical-Records-Request-and-Authorization.pdf"

@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/France
 source_hash: sha256:f891caa18a417fe698fc173c225c9fb2efd94e28fb36431c4b8feb1fc92e1d76
 ---
 
+**Case:** [[cases/frances-whitis/frances-whitis|Frances Whitis]]
+**Client:** [[cases/frances-whitis/contacts/frances-whitis|Frances Whitis]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Frances-Whitis-WC-MVA-9-6-2024/Insurance/2024-10-16-Frances-Whitis-WC-Insurance-PIP-Progressive-Email-Regarding-PIP-Application.jpg

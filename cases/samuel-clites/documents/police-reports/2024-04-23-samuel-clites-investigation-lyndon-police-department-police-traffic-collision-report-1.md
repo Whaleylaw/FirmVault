@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Samuel
 source_hash: sha256:4a99053ac0a79bc81379484a87c7468a61a09bca8fa2f22ecaa7d26c38fb5b02
 ---
 
+**Case:** [[cases/samuel-clites/samuel-clites|Samuel Clites]]
+**Client:** [[cases/samuel-clites/contacts/samuel-clites|Samuel Clites]]
+
 INVESTIGATOR BEAT OR POST #
 TOTAL LANES
 NO

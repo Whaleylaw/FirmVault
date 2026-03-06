@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:52ae29a1772ada1dd9ae912f22e265376f009061cffa52fe900df83252605259
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: insurance
 date: 2024-12-01
 description: Kentucky No-Fault PIP Application for Benefits for Chase Lindsey, neck and chest pain, on neck brace and cast, emergency treatment at Cincinnati Children's Hospital, accident 12/1/2024, claim [PHONE-1]-2024

@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dana-J
 source_hash: sha256:d2eb53647d987a21b05d5494980015c4a84295836a113df733d93c3d6ad2aa68
 ---
 
+**Case:** [[cases/dana-jackson/dana-jackson|Dana Jackson]]
+**Client:** [[cases/dana-jackson/contacts/dana-jackson|Dana Jackson]]
+
 Subject: New Package Notification
 From: [EMAIL-1]
 To: Sarena@WhaleyLawFirm.com

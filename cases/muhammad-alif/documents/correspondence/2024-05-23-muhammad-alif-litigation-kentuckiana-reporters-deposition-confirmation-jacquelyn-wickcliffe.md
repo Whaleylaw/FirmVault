@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:212954b17a13c6be5878619d66150205eefee3d5ce057e9735a727ac281764ee
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 Subject: Re: Confirmation for 5/23/2024 (98559)
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

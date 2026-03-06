@@ -2,7 +2,12 @@
 case_slug: robin-wilder-hamilton
 document_category: medical
 legacy_case_id: 2023-06-15-MVA-001
+contact: "[[cases/2023-06-15-mva-001/contacts/va-medical-center-lexington]]"
 ---
+
+**Case:** [[cases/robin-wilder-hamilton/robin-wilder-hamilton|Robin Wilder Hamilton]]
+**Client:** [[cases/robin-wilder-hamilton/contacts/robin-wilder-hamilton|Robin Wilder Hamilton]]
+
 
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-Wilder-Hamilton-MVA-6-15-2023/Medical/2023-12-22-Robin-Wilder-Hamilton-VA-Medical-Center-Lexington-Medical-Records-Request.pdf"

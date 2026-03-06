@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:37b75271c5f075a1cdf1b26444f52db6c69f5a71be9d3c8a01dd2ffef8276d70
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 ——eea_aQeaEwt”
 
 R. JOHN ELLIS, JR., M.D. 3 SEAN M. GRIFFIN, M.D. MARK G. SMITH, M.D. Huda ee BRENT J. SINICROPE, M.D. G. JEFFREY POPHAM, M.D. EVAN B. RHEA, M.D.

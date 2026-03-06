@@ -19,6 +19,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:ea8c9f8e3c0eb6ceb09d20eed0312ba40b4e6f8dbe271fb991b256492dc6f554
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 UkKHealthCare.
 Patient Name: AmyJ. Mills
 DOB:[DOB-4]

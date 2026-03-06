@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Henrie
 source_hash: sha256:2f1ad9ffdbc78002b35c93a4fb1fd32e690bfc31685952e8ace44df03d4f360a
 ---
 
+**Case:** [[cases/henrietta-jenkins/henrietta-jenkins|Henrietta Jenkins]]
+**Client:** [[cases/henrietta-jenkins/contacts/henrietta-jenkins|Henrietta Jenkins]]
+
 address: 3508 Fern Lea Rd, #21, Louisville, KY 40216
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

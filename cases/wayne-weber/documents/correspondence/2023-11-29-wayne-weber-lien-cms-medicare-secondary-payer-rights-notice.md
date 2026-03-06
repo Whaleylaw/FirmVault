@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Wayne-
 source_hash: sha256:7e0a3af940cc90312b2aeac214943ed52eaf1b7e75a394370e2622f1267bc7eb
 ---
 
+**Case:** [[cases/wayne-weber/wayne-weber|Wayne Weber]]
+**Client:** [[cases/wayne-weber/contacts/wayne-weber|Wayne Weber]]
+
 COB:R Coordination of CENTERS FORMEDICARE&MEDICAID SERVICES Benefits and Recovery
 November 29, 2023 5
 Hofdettees teddyhyp *COPY*

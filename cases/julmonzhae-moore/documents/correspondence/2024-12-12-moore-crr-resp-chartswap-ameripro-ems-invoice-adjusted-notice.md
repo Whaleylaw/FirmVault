@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Julmon
 source_hash: sha256:fe947b7bb0e7fc005bf2dc45b1a30bf70ae96d25edbca977191e93b54dad5936
 ---
 
+**Case:** [[cases/julmonzhae-moore/julmonzhae-moore|Julmonzhae Moore]]
+**Client:** [[cases/julmonzhae-moore/contacts/julmonzhae-moore|Julmonzhae Moore]]
+
 Subject: ChartSwap: Issue Addressed by AmeriPro EMS of Indiana, LLC
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com

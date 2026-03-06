@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:a6fb1bb64470bc6b7fb05fde8ee7af2ad9dbe30761d09731778e782ae52c3f07
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 category: Medical Requests
 description: Medical records request to ULP Radiology Associates
 entities[0]: Alma Socorro Cristobal Avendaño

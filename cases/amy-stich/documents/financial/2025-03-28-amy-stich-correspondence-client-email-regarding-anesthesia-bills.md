@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:3a96252bf43c0b1305105fa3850e931b82a6945628ed829d93470940d9b21978
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 Subject: Still getting messages about bills from the anesthesia place.
 From: [EMAIL-1]
 To: sarena@whaleylawfirm.com, [EMAIL-2]

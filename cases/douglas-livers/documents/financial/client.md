@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:a1d28e9da24acdfd9532485a0ddd9f40e26e5f9f98a58ac52920c122a12f55c3
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 address: 9510 Rustling Tree Way #202, Louisville, KY 40291
 date_of_birth: [DOB-1]
 email: [EMAIL-1]

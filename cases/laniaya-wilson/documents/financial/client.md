@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Laniay
 source_hash: sha256:7a45a95402b3f2987175d214889ef27f17ed65e626e5b27dbcde83d924aefa62
 ---
 
+**Case:** [[cases/laniaya-wilson/laniaya-wilson|Laniaya Wilson]]
+**Client:** [[cases/laniaya-wilson/contacts/laniaya-wilson|Laniaya Wilson]]
+
 address: 137 Westbrook Circle, Louisville, KY 40229
 date_of_birth: [DOB-1]
 imported_at: 2026-02-16T21:09:42.786Z

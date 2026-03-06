@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Maryan
 source_hash: sha256:f224f9c1417482cd38a0e0c2122a61a4f094c637efc1f8f3109377b47520f58b
 ---
 
+**Case:** [[cases/maryan-kassim/maryan-kassim|Maryan Kassim]]
+**Client:** [[cases/maryan-kassim/contacts/maryan-kassim|Maryan Kassim]]
+
 case_folder: Maryan-Kassim-MVA-[DOB-1]
 job_id: file-org-b20436bd
 phases.extraction.notes: Phase 2a: Starting extraction of 56 PDFs. Spawning 2 extraction agents (28 files each) to process in parallel.

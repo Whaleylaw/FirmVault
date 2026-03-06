@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:788d3387d4c7e749c03ec1470ef49d5d8e21aca914b8a5d99a8ea90d5f972516
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 category: police_report
 confidence: high
 date: 2022-12-05

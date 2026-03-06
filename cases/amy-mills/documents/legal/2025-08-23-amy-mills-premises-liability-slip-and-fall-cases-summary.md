@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-Mi
 source_hash: sha256:8a265d03c6cbe5f55fbb5a5fbfe3f8985b671e3993ac3e3b301749533d61299f
 ---
 
+**Case:** [[cases/amy-mills/amy-mills|Amy Mills]]
+**Client:** [[cases/amy-mills/contacts/amy-mills|Amy Mills]]
+
 Premises Liability Verdicts at a Glance
 A Snapshot Summary of the 2000 to 2022 Premises Liability/Slip & Fall Cases. 
 Current year cases in bold. Results sorted by verdict size.

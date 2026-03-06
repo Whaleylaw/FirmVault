@@ -1,22 +1,23 @@
 ---
 case_slug: timothy-ruhl
-created_at: 2026-02-17 00:35:56.464000+00:00
+created_at: {}
 document_category: medical
-document_date: 1966-08-05
+document_date: {}
 document_type: medical
-entities:
-- Scott Babin
-- South Hospital
-- University of Louisville
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-09-14-PrL-001
 mime_type: application/pdf
 page_count: 1
 quality_score: 100
-source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timothy-Ruhl-Premise-09-14-2023/Medical-Records/ENT
-  Associates.pdf
+source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timothy-Ruhl-Premise-09-14-2023/Medical-Records/ENT Associates.pdf
 source_hash: sha256:2cd01538a2afa0039bd5d9567e120c60141dbcfa42e489e503a767361d10945c
+contact: "[[cases/2023-09-14-prl-001/contacts/ent-associates]]"
 ---
+
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 
 CERTIFICATION OF MEDICAL RECORDS
 

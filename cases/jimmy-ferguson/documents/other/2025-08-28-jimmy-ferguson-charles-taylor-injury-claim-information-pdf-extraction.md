@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jimmy-
 source_hash: sha256:3540f45f7ebacd25e36d62cb17821b72edb9879c3ba935e73e08830c994004bc
 ---
 
+**Case:** [[cases/jimmy-ferguson/jimmy-ferguson|Jimmy Ferguson]]
+**Client:** [[cases/jimmy-ferguson/contacts/jimmy-ferguson|Jimmy Ferguson]]
+
 category: Insurance
 date: 2025-08-28
 description: Injury claim information request form from Charles Taylor TPA dated 8/28/2025 requesting medical treatment details and MMSEA compliance information from Jimmy Ferguson to resolve injury claim.

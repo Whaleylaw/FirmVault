@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Jeremy
 source_hash: sha256:fc8755e31f85c555e48f223cbbf4b3a3961b8550cf35a7100e7338e16e619b80
 ---
 
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Client:** [[cases/jeremy-lindsey/contacts/jeremy-lindsey|Jeremy Lindsey]]
+
 category: legal
 date: 2024-12-01
 description: Full Release of All Property Damage Claims with Indemnity for accident on [DOB-1], claim #24-902741838, payment of $262.52

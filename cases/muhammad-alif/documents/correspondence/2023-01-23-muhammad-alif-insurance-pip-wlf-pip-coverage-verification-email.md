@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhamm
 source_hash: sha256:0f0eeb0dfccdcf2e6a634f6c683d45ecea46192c98e3280f1a55d878e7433bf8
 ---
 
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 Subject: Re: Muhammad Alif
 From: sarena@whaleylawfirm.com
 To: [EMAIL-15]

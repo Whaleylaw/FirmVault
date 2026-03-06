@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/James-
 source_hash: sha256:c2e1d7d37a07a0695889482107ee60661526a0a7114f112a9865f9ef3473549c
 ---
 
+**Case:** [[cases/james-kiper/james-kiper|James Kiper]]
+**Client:** [[cases/james-kiper/contacts/james-kiper|James Kiper]]
+
 Filed 23-CI-005758 [DOB-12] David L. Nicholson, Jefferson Circuit Clerk
 NOT ORIGINAL DOCUMEN
 [DOB-11] 10:10:33 AM

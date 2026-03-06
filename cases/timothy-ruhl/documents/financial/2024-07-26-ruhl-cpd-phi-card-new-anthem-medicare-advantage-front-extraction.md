@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:6c3b78cb5e3f226290739c1813ba19917b8635c8ef105e1a1725ff3969c75b15
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 content_analysis.category: Client
 content_analysis.description: Health-Insurance-Card-Front
 content_analysis.entities[0]: Timothy Ruhl

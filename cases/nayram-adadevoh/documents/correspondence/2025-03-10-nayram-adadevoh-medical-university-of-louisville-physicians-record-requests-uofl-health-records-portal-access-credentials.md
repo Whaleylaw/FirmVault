@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Nayram
 source_hash: sha256:2b4e7c371dd36b02aa357038d956ceab68c9a64f348c79a6d243e9c86d9d00cd
 ---
 
+**Case:** [[cases/nayram-adadevoh/nayram-adadevoh|Nayram Adadevoh]]
+**Client:** [[cases/nayram-adadevoh/contacts/nayram-adadevoh|Nayram Adadevoh]]
+
 Subject: Package Credentials Notification
 From: [EMAIL-1]
 To: Sarena@WhaleyLawFirm.com

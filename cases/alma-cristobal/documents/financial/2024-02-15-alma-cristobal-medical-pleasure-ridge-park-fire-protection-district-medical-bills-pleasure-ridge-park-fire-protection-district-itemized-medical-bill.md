@@ -14,6 +14,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Alma-C
 source_hash: sha256:83a3350b365b8105b02acb02e03f8b2306e86e3d94edd5f0dc0ad6f2e566f6c5
 ---
 
+**Case:** [[cases/alma-cristobal/alma-cristobal|Alma Cristobal]]
+**Client:** [[cases/alma-cristobal/contacts/alma-cristobal|Alma Cristobal]]
+
 1-Oct-2824 15:39 UTC SpanDSP Fax Header [PHONE-1] p.4
 leas
 OTAL DUE; FoTaL Due]

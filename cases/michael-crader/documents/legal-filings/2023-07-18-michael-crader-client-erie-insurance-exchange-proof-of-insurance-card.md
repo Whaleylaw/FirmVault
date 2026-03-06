@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:cc23cfe362debdbb89eb7f6606b666a611e4e5b3da4102cd45b9f18d85275fb8
 ---
 
+**Case:** [[cases/michael-crader/michael-crader|Michael Crader]]
+**Client:** [[cases/michael-crader/contacts/michael-crader|Michael Crader]]
+
 INSTRUCTIONS TO POLICYHOLDER
 ACORD 50 KY (2006/01) © ACORD CORPORATION 1994-2006
 COMPANY # COMPANY NAME AND ADDRESS

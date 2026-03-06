@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Amy-St
 source_hash: sha256:91e0f8b4b823fdbd272e5e2a97611238d86c70d4b92c55f71ec16056d54841ea
 ---
 
+**Case:** [[cases/amy-stich/amy-stich|Amy Stich]]
+**Client:** [[cases/amy-stich/contacts/amy-stich|Amy Stich]]
+
 content_length_chars: 6433
 document_metadata.attachments[0]: 2024.07.11 Stich CPD Ellis & Badenhausen Office Notes.pdf
 document_metadata.cc_emails[0]: [EMAIL-7]

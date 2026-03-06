@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Cecil-
 source_hash: sha256:b9d75745a57de98dafc1f54b5d7d6f6f02b8cece41cb0819131506e2da7e1ee4
 ---
 
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Client:** [[cases/cecil-finley/contacts/cecil-finley|Cecil Finley]]
+
 OG-15 24 12:13 FROM Anal Or AAnderson = [PHONE-4] T-178 POO /NOd2 F184
 | Starlite Chiropractic, PLLC
 ' ‘Fax Cover Sheet

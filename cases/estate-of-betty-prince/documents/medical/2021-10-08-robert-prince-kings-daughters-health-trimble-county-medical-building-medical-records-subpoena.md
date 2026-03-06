@@ -4,6 +4,9 @@ document_category: medical
 legacy_case_id: 2020-07-14-PrL-001
 ---
 
+**Case:** [[cases/estate-of-betty-prince/estate-of-betty-prince|Estate of Betty Prince]]
+**Client:** [[cases/estate-of-betty-prince/contacts/estate-of-betty-prince|Estate of Betty Prince]]
+
 ---
 source_file: "/Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Estate-of-Betty-Prince-Premise-7-14-2020/Medical/2021-10-08-Robert-Prince-Kings-Daughters-Health-Trimble-County-Medical-Building-medical-records-subpoena.pdf"
 source_hash: "sha256:26e0bc3f6fa16d6b6239af5d7f96ad7fc8e6fa9b5ab95fec115d9c821e9a6e29"

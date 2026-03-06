@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Anella
 source_hash: sha256:df2beba315675709bca03b95ac2dac6f478732c0359485959303c8f01afa7a59
 ---
 
+**Case:** [[cases/anella-noble/anella-noble|Anella Noble]]
+**Client:** [[cases/anella-noble/contacts/anella-noble|Anella Noble]]
+
 INVESTIGATOR BEAT OR POST #
 TOTAL LANES
 NO

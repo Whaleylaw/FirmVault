@@ -12,6 +12,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michae
 source_hash: sha256:1c0d44ee31c45902728a6db97a75fa5c86a3080c2c8f4024f0ef68a67896e3df
 ---
 
+**Case:** [[cases/michael-johnston/michael-johnston|Michael Johnston]]
+**Client:** [[cases/michael-johnston/contacts/michael-johnston|Michael Johnston]]
+
 # Image Document
 
 **Original file:** /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Michael-Johnston-WC-[DOB-1]/Insurance/2023-05-19-Michael-Johnston-Insurance-Dearborn-Disability-Service-Center-Explanation-of-Benefits.jpg

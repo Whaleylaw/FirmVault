@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Dougla
 source_hash: sha256:b32e59f186b6188fb79023e5a1b797672d5b4de650ab3361a91758ef90c8e933
 ---
 
+**Case:** [[cases/douglas-livers/douglas-livers|Douglas Livers]]
+**Client:** [[cases/douglas-livers/contacts/douglas-livers|Douglas Livers]]
+
 ALLSTATE CLAIMS
 P.O. BOX 660636 SM
 DALLAS, TX 75266-0636

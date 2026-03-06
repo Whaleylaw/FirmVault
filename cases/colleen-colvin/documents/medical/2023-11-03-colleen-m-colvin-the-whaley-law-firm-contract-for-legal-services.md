@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Collee
 source_hash: sha256:a2dbc63acffefee7dbb58b51adcc1aad6cac3e988f28c0f3d6d12472a32a3f2a
 ---
 
+**Case:** [[cases/colleen-colvin/colleen-colvin|Colleen Colvin]]
+**Client:** [[cases/colleen-colvin/contacts/colleen-colvin|Colleen Colvin]]
+
 Colleen Colvin
 CONTRACT FOR LEGAL SERVICES
 L, ; hereby retain and employ the law office of THE

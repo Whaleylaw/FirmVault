@@ -1,12 +1,10 @@
 ---
 case_slug: muhammad-alif
-created_at: 2026-02-17 00:10:05.291000+00:00
+created_at: {}
 document_category: medical
-document_date: 2022-11-08
+document_date: {}
 document_type: medical
-entities:
-- Dr. Michael Norman
-- Norton Suburban Hospital
+entities: null
 extraction_method: native_text
 legacy_case_id: 2022-11-08-MVA-001
 mime_type: application/pdf
@@ -14,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Muhammad-Alif-MVA-11-08-2022/Litigation/2023-03-14-Muhammad-Alif-Litigation-American-Transit-Insurance-Company-Examination-Under-Oath-Transcript.pdf
 source_hash: sha256:f201f0040991a316df75a1584d06893d4b2cda542a9bb993a2ede5ef8f3fa6e9
+contact: "[[cases/2022-11-08-mva-001/contacts/american-transit-insurance]]"
 ---
+
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Client:** [[cases/muhammad-alif/contacts/muhammad-alif|Muhammad Alif]]
+
 
 1
 EMESE CAMANELLI

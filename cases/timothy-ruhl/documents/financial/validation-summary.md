@@ -13,6 +13,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Timoth
 source_hash: sha256:c4ba9d6ac01baaf43d704d5d62613da7cb6c075ab912a3629607d240d1dc88f6
 ---
 
+**Case:** [[cases/timothy-ruhl/tasks|Timothy Ruhl]]
+**Client:** [[cases/timothy-ruhl/contacts/timothy-ruhl|Timothy Ruhl]]
+
 case_name: Timothy-Ruhl-Premise-[DOB-1]
 decision_logic.actual_error_rate: 6.5%
 decision_logic.error_rate_threshold_1: 5.0%

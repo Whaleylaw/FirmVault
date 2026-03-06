@@ -1,12 +1,10 @@
 ---
 case_slug: charles-t-johnson
-created_at: 2026-02-16 22:25:52.357000+00:00
+created_at: {}
 document_category: correspondence
-document_date: 1952-04-01
+document_date: {}
 document_type: correspondence
-entities:
-- UL Jewish Hospital
-- Jewish Hospital
+entities: null
 extraction_method: native_text
 legacy_case_id: 2023-04-18-MVA-001
 mime_type: application/pdf
@@ -14,7 +12,12 @@ page_count: 1
 quality_score: 100
 source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Charles-T-Johnson-MVA-4-18-2023/Medical-Records/2024-04-05-Charles-T-Johnson-UL-Jewish-Hospital-Medical-Records-Request.pdf
 source_hash: sha256:5177df87ca18dff9901d7a5f14f540683f7f1dec98e0a233dc5accc6d62ac87e
+contact: "[[cases/2023-04-18-mva-001/contacts/jewish-hospital]]"
 ---
+
+**Case:** [[cases/charles-t-johnson/charles-t-johnson|Charles T Johnson]]
+**Client:** [[cases/charles-t-johnson/contacts/charles-t-johnson|Charles T Johnson]]
+
 
 Aaron G. Whaley, Esq. 
 712 Lyndon Lane 

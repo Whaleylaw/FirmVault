@@ -16,6 +16,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Hope-R
 source_hash: sha256:14f9da9bfc1c8d564ace4c5f93a8d3df52bf0c42ba878a92da6874b136e9de35
 ---
 
+**Case:** [[cases/hope-renee-padgett/hope-renee-padgett|Hope Renee Padgett]]
+**Client:** [[cases/hope-renee-padgett/contacts/hope-renee-padgett|Hope Renee Padgett]]
+
 artifacts_created[0]: /Volumes/X10 Pro/projects/Hope-Renee-Padgett-MVA-1-16-2023/reports/extractions/
 artifacts_created[1]: /Volumes/X10 Pro/projects/Hope-Renee-Padgett-MVA-1-16-2023/reports/case_facts.md
 artifacts_created[2]: /Volumes/X10 Pro/projects/Hope-Renee-Padgett-MVA-1-16-2023/reports/inventory.md

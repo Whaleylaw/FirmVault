@@ -15,6 +15,9 @@ source_file: /Users/aaronwhaley/Whaley Law Firm Dropbox/Litigation/Active/Robin-
 source_hash: sha256:986350630a626d460e16f140a8427754b9863772546f4205c5098d82c209fbb6
 ---
 
+**Case:** [[cases/robin-willis-beck/robin-willis-beck|Robin Willis Beck]]
+**Client:** [[cases/robin-willis-beck/contacts/robin-willis-beck|Robin Willis Beck]]
+
 BAPTIST HEALTH WC1 [DOB-1] 11:22:32 AM PAGE 1/008 Fax Server
 Nd BAPTIST HEALTH’ BA
 Fax Transmission/Information Sheet
