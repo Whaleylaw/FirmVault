@@ -29,7 +29,7 @@ date_of_incident: "2023-04-01"
 - [[contacts/trinity-cohara|Trinity Cohara]]
 
 ## Insurance Claims
-- [[claims/bi-progressive-insurance-company|BI — Progressive Insurance Company]] — Claim #23-6275504 (no_demand)
+- [[claims/bi-progressive-insurance-company|BI — Progressive Insurance Company]] — Claim #23-6275504 (negotiating — $5K demand / $500 offer)
 - [[claims/pip-state-farm-insurance-company|PIP — State Farm Insurance Company]] — Claim #1747Q474T (no_demand)
 
 ## Expenses
