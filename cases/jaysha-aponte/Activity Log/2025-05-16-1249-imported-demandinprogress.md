@@ -1,0 +1,19 @@
+---
+schema_version: 2
+case_id: e80ee2ab-17f3-48b3-9da3-80af6623e41c
+date: "2025-05-16"
+time: "12:49:51"
+category: imported
+subcategory: filevine_demandinprogress
+---
+
+# Filevine activity (demandinprogress) — 2025-05-16 12:49
+
+**Case:** [[cases/jaysha-aponte/jaysha-aponte|Jaysha Aponte]]
+**Source:** Filevine demandinprogress export
+**Timestamp:** 2025-05-16T12:49:51
+
+__Attn Billing__
+From:  [justin@whaleylawfirm.com](mailto:justin@whaleylawfirm.com)
+To: [5024345903@rcfax.com](mailto:5024345903@rcfax.com)
+Date: Fri May 16 2025 12:49:47 GMT-04:00

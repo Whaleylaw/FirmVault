@@ -1,0 +1,16 @@
+---
+schema_version: 2
+case_id: 2db40cb9-4f48-4fef-8d9b-d2371f91b592
+date: "2023-01-23"
+time: "16:41:34"
+category: imported
+subcategory: filevine_negotiation
+---
+
+# Filevine activity (negotiation) — 2023-01-23 16:41
+
+**Case:** [[cases/muhammad-alif/muhammad-alif|Muhammad Alif]]
+**Source:** Filevine negotiation export
+**Timestamp:** 2023-01-23T16:41:34
+
+Alif stopped in twice today - Once around 10:30a stated he had appointment to meet w/AW - Asked if he planned to attend his 11:00a appt w/Aptiva - He left & returned at 12:45 - Completed F2F w/AW #cc

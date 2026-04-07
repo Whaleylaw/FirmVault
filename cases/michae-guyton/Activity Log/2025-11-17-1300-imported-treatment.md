@@ -1,0 +1,17 @@
+---
+schema_version: 2
+case_id: 2fda9b49-d3a6-445d-91bf-a504a0e9cbc6
+date: "2025-11-17"
+time: "13:00:13"
+category: imported
+subcategory: filevine_treatment
+---
+
+# Filevine activity (treatment) — 2025-11-17 13:00
+
+**Case:** [[cases/michae-guyton/michae-guyton|Michae Guyton]]
+**Source:** Filevine treatment export
+**Timestamp:** 2025-11-17T13:00:13
+
+Contact Michae Guyton at 502-701-5196 and do Welcome Call and send Welcome Email(if able). 
+Confirm treatment providers and enter any in system that have not been entered.

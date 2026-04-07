@@ -1,0 +1,19 @@
+---
+schema_version: 2
+case_id: 0da3b407-8692-46de-8491-7f1549f119ae
+date: "2025-09-16"
+time: "13:09:37"
+category: imported
+subcategory: filevine_negotiation
+---
+
+# Filevine activity (negotiation) — 2025-09-16 13:09
+
+**Case:** [[cases/deanna-jones/deanna-jones|DeAnna Jones]]
+**Source:** Filevine negotiation export
+**Timestamp:** 2025-09-16T13:09:37
+
+__CC Request__
+From:  [justin@whaleylawfirm.com](mailto:justin@whaleylawfirm.com)
+To: [5025843906@rcfax.com](mailto:5025843906@rcfax.com)
+Date: Tue Sep 16 2025 01:09:33 GMT-04:00

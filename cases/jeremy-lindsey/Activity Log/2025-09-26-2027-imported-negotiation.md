@@ -1,0 +1,28 @@
+---
+schema_version: 2
+case_id: 9bd21a97-0256-454c-abe3-d0e32c1410d2
+date: "2025-09-26"
+time: "20:27:23"
+category: imported
+subcategory: filevine_negotiation
+---
+
+# Filevine activity (negotiation) — 2025-09-26 20:27
+
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Source:** Filevine negotiation export
+**Timestamp:** 2025-09-26T20:27:23
+
+A missed call for aaron  whaley was logged at 2025-09-26 17:44:49.351000+00:00 . #missedcall
+
+Caller Info: 5024240049 
+
+Caller ID: 502-424-0049 
+
+Caller Name: Jeremy Lindsey 
+
+Caller Email  
+
+Link to Filevine Contact https://louisvilleaccidentlawyer.filevineapp.com/#/addressbook/617/contact/20829734 
+
+Voicemail Transcription:

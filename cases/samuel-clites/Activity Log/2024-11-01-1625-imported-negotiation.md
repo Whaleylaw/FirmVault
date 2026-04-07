@@ -1,0 +1,16 @@
+---
+schema_version: 2
+case_id: b6d0e4ba-420e-47cd-813d-876bf70ab89f
+date: "2024-11-01"
+time: "16:25:39"
+category: imported
+subcategory: filevine_negotiation
+---
+
+# Filevine activity (negotiation) — 2024-11-01 16:25
+
+**Case:** [[cases/samuel-clites/samuel-clites|Samuel Clites]]
+**Source:** Filevine negotiation export
+**Timestamp:** 2024-11-01T16:25:39
+
+@aries1 Please send the Baptist Health Hospital bill to PIP with direction to pay

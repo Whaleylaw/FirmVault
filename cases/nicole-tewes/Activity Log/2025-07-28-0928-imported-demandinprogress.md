@@ -1,0 +1,17 @@
+---
+schema_version: 2
+case_id: 7715ceb2-ead7-463c-8ad5-f81ea5d93fa9
+date: "2025-07-28"
+time: "09:28:45"
+category: imported
+subcategory: filevine_demandinprogress
+---
+
+# Filevine activity (demandinprogress) — 2025-07-28 09:28
+
+**Case:** [[cases/nicole-tewes/nicole-tewes|Nicole Lynn Tewes]]
+**Source:** Filevine demandinprogress export
+**Timestamp:** 2025-07-28T09:28:45
+
+Contact Nicole Lynn Tewes at 859-652-1483 and do Welcome Call and send Welcome Email(if able). 
+Confirm treatment providers and enter any in system that have not been entered.
