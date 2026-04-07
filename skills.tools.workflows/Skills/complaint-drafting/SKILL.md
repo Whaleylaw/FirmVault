@@ -1,11 +1,10 @@
 ---
 name: complaint-drafting
 description: >
-  Draft Kentucky circuit court complaints for personal injury cases using the
-  unified document generation system. Uses complaint_library for template selection
-  with decision trees for MVA, premises, and combined claims. Copy appropriate template
-  to Litigation folder, fill agent sections, then run generate_document.py for auto-fill
-  and PDF generation.
+  Draft a Kentucky state-court personal-injury complaint. Picks the right firm
+  template (MVA basic / standard / UM / premises), fills agent-supplied sections
+  from the vault case file, and writes the draft to the case documents folder.
+  Use when the attorney has decided to file suit and needs a complaint on file.
 allowed-tools:
   - Read
   - Edit
@@ -14,202 +13,51 @@ allowed-tools:
   - Grep
 ---
 
-# Complaint Drafting Skill
+# Complaint Drafting
 
-## Overview
+Drafts the initial pleading that opens a personal-injury matter in Kentucky circuit court. Pick a firm template, populate it from the vault, deliver a docx draft for attorney review.
 
-Generate properly formatted Kentucky circuit court complaints using the complaint library's
-decision tree to select the appropriate template, then fill and generate the final document.
+## When to use
 
-## Complaint Library
+Attorney has decided to litigate (`cases/<slug>/<slug>.md` frontmatter `litigation_decision_date` is set or `status: litigation`). Not for federal filings, administrative proceedings, or small claims.
 
-**Location:** `complaint_library/`
+## Template selection
 
-The complaint library provides:
-- **11 Base Templates** - Complete complaints for common case types
-- **8 Count Modules** - Mix-and-match legal theories for custom complaints
-- **Decision Tree** - Flowchart for template selection
+The firm keeps four complaint templates in `Templates/`. Use [`references/decision-tree.md`](references/decision-tree.md) for edge cases; most matters land in one of these:
 
-### Quick Template Selection
+| Case shape | Template |
+|---|---|
+| Standard MVA, adequate BI coverage | `Templates/mva-complaint-standard.docx` |
+| Simple MVA, minimal factual wrinkles | `Templates/mva-complaint-basic.docx` |
+| MVA with UM/UIM claim against client's own carrier | `Templates/mva-complaint-um.docx` |
+| Premises liability (slip/fall, dog bite, unsafe condition) | `Templates/premise-liability-complaint-template.docx` |
 
-| Case Type | Template |
-|-----------|----------|
-| Standard MVA | `mva_standard.md` |
-| MVA + Underinsured | `mva_uim.md` |
-| MVA + Uninsured | `mva_um.md` |
-| MVA + Employer Liable | `mva_vicarious_liability.md` |
-| MVA + Owner Entrusted | `mva_negligent_entrustment.md` |
-| MVA + Stolen Vehicle Fraud | `mva_stolen_vehicle_fraud.md` |
-| Slip/Fall | `premises_standard.md` |
-| Dog Bite | `premises_dog_bite.md` |
-| Government Defendant | `premises_government_entity.md` |
-| Bad Faith by Carrier | `bi_with_bad_faith.md` |
-| Bad Faith + UIM | `bi_bad_faith_uim.md` |
-
-**Full Decision Tree:** See `complaint_library/decision_tree.md`
-
-## When to Use
-
-Use when:
-- Filing new personal injury lawsuit
-- Need complaint with all required sections
-- Must comply with Kentucky Civil Rules
-
-DO NOT use if:
-- Federal court filing (different format)
-- Administrative proceeding
-- Small claims court
+None of these fit (bad faith, vicarious liability against employer, government defendant, etc.)? Start from `mva-complaint-standard.docx` and add the extra counts by hand using [`references/cause-action-templates.md`](references/cause-action-templates.md). Flag it in the activity log so the attorney knows the draft is non-standard.
 
 ## Workflow
 
-```
-1. ANALYZE CASE → SELECT TEMPLATE
-   └── Review case facts
-   └── Follow complaint_library/decision_tree.md
-   └── Select appropriate base template OR build custom with modules
+1. Read `cases/<slug>/<slug>.md` — client name, DOI, jurisdiction, case type, named defendants, insurance carriers. Read any linked contact stubs under `cases/<slug>/contacts/` for defendant addresses.
+2. Pick the template per the table above.
+3. Copy the template to `cases/<slug>/documents/complaint-draft.docx`. Never edit the source in `Templates/`.
+4. Fill the sections the template prompts for: venue county, parties and addresses, factual narrative, injuries, negligent acts, damages, jury demand. Caption format lives in [`references/caption-format.md`](references/caption-format.md); Kentucky pleading rules (CR 8 / 10 / 11, venue, filing fees) in [`references/court-rules.md`](references/court-rules.md).
+5. Log the drafting event: `cases/<slug>/Activity Log/<YYYY-MM-DD-HHMM>-legal.md` with a bullet summary and a wikilink to the draft.
+6. Leave the draft in place for attorney review. Do not update `complaint_file_date` or `case_number` — those are set by the e-filing step, not this skill.
 
-2. COPY TEMPLATE TO DESTINATION
-   └── Copy selected template from complaint_library/templates/base/ to /{project}/Litigation/
-   └── Name: Complaint.md
+## Outputs
 
-3. FILL AGENT SECTIONS
-   └── [COUNTY]: Venue county
-   └── [FACTS]: Accident narrative
-   └── [INJURIES]: List of injuries
-   └── [NEGLIGENT ACTS]: List of negligent acts
-   └── [DAMAGES]: Damages sought
-
-3. CALL GENERATE_DOCUMENT
-   └── Tool: generate_document.py
-   └── Input: Path to saved Complaint.md
-   └── Auto-fills: {{client.name}}, {{defendant.name}}, {{incidentDate}}, firm info
-
-4. VERIFY OUTPUT
-   └── Complaint.docx created
-   └── Complaint.pdf created
-   └── All placeholders filled
-```
-
-## Step-by-Step Instructions
-
-### Step 0: Select Template Using Decision Tree
-
-1. Open `complaint_library/decision_tree.md`
-2. Follow the flowchart based on case facts:
-   - Case type? (MVA / Premises / Other)
-   - Insurance status? (Insured / Underinsured / Uninsured)
-   - Special circumstances? (Employment / Entrustment / Bad Faith / etc.)
-3. Identify the appropriate template
-
-**Example:** Standard MVA case → `mva_standard.md`
-
-### Step 1: Copy Template to Destination
-
-```python
-import shutil
-from pathlib import Path
-
-# Complaint library location
-library_dir = Path("workflows/phase_7_litigation/subphases/7_1_complaint/complaint_library/templates/base")
-
-# Select template based on decision tree
-# Options: mva_standard.md, mva_uim.md, mva_vicarious_liability.md, etc.
-selected_template = library_dir / "mva_standard.md"
-
-# Destination (project's Litigation folder)
-project = "John-Doe-MVA-01-01-2025"
-dest_folder = Path(f"{project}/Litigation")
-dest_folder.mkdir(parents=True, exist_ok=True)
-
-# Copy template
-shutil.copy(selected_template, dest_folder / "Complaint.md")
-```
-
-### Building Custom Complaints
-
-If no base template fits, build using modules:
-
-1. Start with `count_negligence.md` from `complaint_library/templates/modules/`
-2. Add applicable count modules (UIM, Bad Faith, Vicarious Liability, etc.)
-3. Combine into single document following structure in `complaint_library/README.md`
-
-### Step 2: Fill Agent Sections
-
-Open the copied `Complaint.md` and fill in:
-
-| Section | Agent Fills |
-|---------|-------------|
-| `[COUNTY]` | Jefferson, Fayette, etc. |
-| `[DIVISION NUMBER]` | Court division if known |
-| `[CLIENT ADDRESS]` | Client's street address |
-| `[CITY]` | City of residence |
-| `[DEFENDANT ADDRESS]` | Defendant's address |
-| `[LOCATION/ACTIVITY]` | Where plaintiff was at incident |
-| `[DESCRIBE DEFENDANT'S CONDUCT]` | What defendant was doing |
-| `[DESCRIBE HOW INCIDENT OCCURRED]` | How accident happened |
-| `[SPECIFIC NEGLIGENT ACT]` | Acts of negligence |
-| `[LIST INJURIES]` | Injuries sustained |
-| `[ADDITIONAL DAMAGES]` | Other damages if applicable |
-
-**Auto-fill fields** (handled by tool):
-- `{{client.name}}` - From `cases/<slug>/<slug>.md` (frontmatter)
-- `{{defendant.name}}` - From `cases/<slug>/contacts/`
-- `{{incidentDate}}` - From `cases/<slug>/<slug>.md` (frontmatter)
-- `{{firm.attorney}}`, `{{firm.barNumber}}`, etc. - From firm config
-
-### Step 3: Generate Document
-
-```bash
-# Call unified document generator
-python Tools/document_generation/generate_document.py \
-    "John-Doe-MVA-01-01-2025/Litigation/Complaint.md" \
-    --pretty
-```
-
-**Python Usage**:
-
-```python
-import sys
-sys.path.insert(0, "Tools/document_generation")
-from generate_document import generate_document
-
-result = generate_document(
-    "John-Doe-MVA-01-01-2025/Litigation/Complaint.md"
-)
-
-if result["status"] == "success":
-    print(f"DOCX: {result['docx_path']}")
-    print(f"PDF: {result['pdf_path']}")
-```
-
-## Output
-
-- `Complaint.md` - Filled markdown (saved for reference)
-- `Complaint.docx` - Word document
-- `Complaint.pdf` - PDF for filing/service
-- Location: `/{project}/Litigation/`
-
-## Key Formatting Rules
-
-- Number paragraphs consecutively
-- Uppercase section headers
-- Proper indentation for subparagraphs
-- Include jury demand
-
-**See:** `references/court-rules.md` for Kentucky requirements
+- `cases/<slug>/documents/complaint-draft.docx` — filled draft, attorney-review ready
+- `cases/<slug>/Activity Log/<YYYY-MM-DD-HHMM>-legal.md` — activity entry
+- After attorney sign-off + e-filing, frontmatter gets `litigation_decision_date` and eventually `complaint_file_date` + `case_number`, which satisfies the `complaint_filed` landmark in `workflows/PHASE_DAG.yaml`
 
 ## References
 
-- **Complaint Library** → `complaint_library/README.md`
-- **Decision Tree** → `complaint_library/decision_tree.md`
-- **Base Templates** → `complaint_library/templates/base/`
-- **Count Modules** → `complaint_library/templates/modules/`
-- **Court rules** → `references/court-rules.md`
-- **Caption format** → `references/caption-format.md`
-- **Causes of action** → `references/cause-action-templates.md`
-- **Unified tool** → `/Tools/document_generation/generate_document.py`
+- [`references/decision-tree.md`](references/decision-tree.md) — template selection flowchart including non-standard scenarios
+- [`references/caption-format.md`](references/caption-format.md) — caption layout, party naming, Doe defendants
+- [`references/cause-action-templates.md`](references/cause-action-templates.md) — reusable counts (negligence, gross negligence, negligent entrustment, respondeat superior, damages, prayer)
+- [`references/court-rules.md`](references/court-rules.md) — CR 8/10/11, venue, filing fees, complaint checklist
 
-## Related Skills
+## What this skill does NOT do
 
-- `service-of-process` - For serving the filed complaint
-- `answer-analysis` - For reviewing defendant's response
+- **E-filing the complaint** — filing through eFlex and recording the case number belongs to a separate filing task.
+- **Drafting the summons or serving defendants** — see `service-of-process`.
+- **Responding to the defendant's answer** — see `answer-analysis`.

@@ -1,10 +1,10 @@
 ---
 name: discovery-response
 description: >
-  Prepare responses to defendant's written discovery. Drafts answers to
-  interrogatories, responses to RFPs, and responses to RFAs. Identifies
-  proper objections and prepares document productions. Use when responding
-  to discovery within 30-day deadline.
+  Respond to defendant's written discovery in Kentucky personal-injury
+  litigation. Drafts answers to interrogatories, responses to RFPs and RFAs,
+  asserts proper objections, and prepares any privilege log. Use when the
+  defendant has served discovery and the 30-day clock is running.
 allowed-tools:
   - Read
   - Edit
@@ -13,75 +13,44 @@ allowed-tools:
   - Grep
 ---
 
-# Discovery Response Skill
+# Discovery Response
 
-## Overview
+Produce complete, timely responses to the defendant's discovery without waiving objections or handing over privileged material. Miss the 30-day CR 36 clock on RFAs and they are deemed admitted; miss the CR 33/34 clock and you risk a motion to compel.
 
-Prepare complete, timely responses to defendant's discovery requests while protecting privileged information.
+## When to use
 
-## When to Use
-
-Use when:
-- Responding to interrogatories
-- Responding to requests for production
-- Responding to requests for admission
-- Need to assert objections
-
-DO NOT use if:
-- Propounding discovery (use discovery-drafting skill)
-- Responding to subpoena (different process)
+Defendant served interrogatories, RFPs, or RFAs on the client. The incoming paper is in `cases/<slug>/documents/discovery/` or flagged in the activity log. Response is due 30 days after service (plus 3 if mailed).
 
 ## Workflow
 
-### Step 1: Review Each Request
+1. Read the incoming discovery and `cases/<slug>/<slug>.md` for case facts. Pull medical records and the accident report from `cases/<slug>/documents/` as needed.
+2. Walk each request and classify:
+   - **Answer in full** — standard request, nothing privileged, information is available.
+   - **Answer subject to objection** — borderline scope, but we can answer partially.
+   - **Object only** — improper on its face, privileged, or outside discoverable scope.
+3. For objections, pull the correct language block from [`references/common-objections.md`](references/common-objections.md): vague/ambiguous, overly broad, unduly burdensome, not reasonably calculated, attorney-client, work product, HIPAA, compound, assumes facts. Every objection must be specific — boilerplate invites sanctions. When objecting, still answer substantively where possible using "subject to and without waiving the foregoing objection".
+4. For document requests, identify responsive materials in `cases/<slug>/documents/`. Bates-stamp the production; flag any documents to withhold on privilege.
+5. If withholding anything on privilege, build a privilege log per [`references/privilege-log.md`](references/privilege-log.md): date, author, recipient, description (general — do not reveal substance), privilege claimed. One row per document, no blanket entries.
+6. Assemble the response document (one per vehicle), get attorney sign-off, serve, and file a Notice of Service.
+7. Save drafts to `cases/<slug>/documents/discovery/<YYYY-MM-DD>-plaintiff-response-to-<type>.docx`. Log service as `cases/<slug>/Activity Log/<YYYY-MM-DD-HHMM>-legal.md`.
 
-For each request, determine:
-- Is it objectionable?
-- What information is required?
-- Are documents responsive?
+## Outputs
 
-### Step 2: Identify Valid Objections
+- `cases/<slug>/documents/discovery/<YYYY-MM-DD>-plaintiff-response-to-interrogatories.docx`
+- `cases/<slug>/documents/discovery/<YYYY-MM-DD>-plaintiff-response-to-rfps.docx`
+- `cases/<slug>/documents/discovery/<YYYY-MM-DD>-plaintiff-response-to-rfas.docx`
+- `cases/<slug>/documents/discovery/<YYYY-MM-DD>-privilege-log.docx` (if anything is withheld)
+- Bates-numbered document production in `cases/<slug>/documents/discovery/production-<YYYY-MM-DD>/`
+- Activity log entry on service
+- Contributes to the `discovery_completed` landmark in `workflows/PHASE_DAG.yaml` (our incoming half)
 
-Common objections:
-- Vague and ambiguous
-- Overly broad
-- Unduly burdensome
-- Privileged
+## References
 
-**See:** `references/common-objections.md` for objection language.
+- [`references/common-objections.md`](references/common-objections.md) — standard objection language, when to object vs. answer, objections to avoid
+- [`references/privilege-log.md`](references/privilege-log.md) — privilege log format, attorney-client and work-product elements, common mistakes, waiver rules
 
-### Step 3: Draft Responses
+## What this skill does NOT do
 
-- Answer fully subject to objections
-- "Subject to and without waiving" objections
-- Don't volunteer extra information
-
-### Step 4: Prepare Privilege Log
-
-If withholding documents on privilege:
-- Document date, author, recipient
-- Nature of document
-- Privilege claimed
-
-**See:** `references/privilege-log.md` for format.
-
-## Output Format
-
-```markdown
-## Response to [Discovery Type]
-
-**From:** [Defendant Name]
-**Received:** [Date]
-**Response Due:** [Date]
-**Served:** [Date]
-
-### Response to Request No. [X]
-[Objection if any]
-[Substantive response]
-```
-
-## Related Skills
-
-- `discovery-drafting` - For propounding our discovery
-- `response-analysis` - For reviewing their responses
-
+- **Propounding our own discovery** — see `discovery-drafting`.
+- **Analyzing the defendant's responses to our discovery** — see `response-analysis`.
+- **Responding to a third-party subpoena** — different procedure (CR 45); not covered here.

@@ -1,10 +1,10 @@
 ---
 name: service-of-process
 description: >
-  Execute proper service of process under Kentucky law. Use when serving
-  complaints, determining service methods, tracking service attempts,
-  or filing proof of service. Covers personal service, certified mail,
-  warning orders, and service on corporations.
+  Serve defendants under Kentucky CR 4 after the complaint is filed. Picks the
+  right service method per defendant type, tracks attempts, files proof, and
+  calendars the answer deadline. Use once the complaint has been filed and the
+  summons has issued.
 allowed-tools:
   - Read
   - Edit
@@ -13,74 +13,51 @@ allowed-tools:
   - Grep
 ---
 
-# Service of Process Skill
+# Service of Process
 
-## Overview
+Get the summons and complaint into the defendant's hands (or a statutorily-valid substitute), file proof, and calendar the answer deadline. This skill covers everything from picking the method to satisfying the `service_completed` landmark in `workflows/PHASE_DAG.yaml`.
 
-Properly serve defendants under Kentucky Civil Rules, track attempts, and document completion.
+## When to use
 
-## When to Use
+The complaint has been filed (`cases/<slug>/<slug>.md` frontmatter has `complaint_file_date` and `case_number`), the clerk has issued a summons, and at least one defendant is not yet served.
 
-Use when:
-- Need to serve complaint on defendant
-- Determining proper service method
-- Defendant evading service
-- Serving corporate or out-of-state defendant
+## Pick the method
 
-DO NOT use if:
-- Defendant already served
-- Need to serve discovery (different rules)
+| Defendant | First choice | Fallback |
+|---|---|---|
+| Individual in Kentucky | Sheriff personal service (CR 4.04) | Certified mail restricted delivery (CR 4.01) |
+| Individual out of state | Personal service via process server | Secretary of State under long-arm (CR 4.04(7)) |
+| Kentucky corporation | Registered agent | Officer or managing agent |
+| Foreign corporation | Registered agent in Kentucky | Secretary of State |
+| Defendant cannot be located after diligent search | Warning order (CR 4.05) | — |
+| Jefferson Co., sheriff has failed repeatedly | Special Bailiff by court order | — |
+
+Full rule text, corporate-agent lookup, Special Bailiff procedure, and problem-resolution table are in [`references/service-methods.md`](references/service-methods.md).
 
 ## Workflow
 
-### Step 1: Identify Service Method
+1. Read `cases/<slug>/<slug>.md` to identify every defendant and their last-known address. Read `cases/<slug>/contacts/` for any prior address research.
+2. Pick a method per defendant from the table above.
+3. Draft/send instructions to the sheriff, process server, or certified-mail submission. Track the 90-day service window from filing (CR 4.01(2)) — miss it and the case is dismissible.
+4. Log each attempt as `cases/<slug>/Activity Log/<YYYY-MM-DD-HHMM>-legal.md` with defendant, date, method, result.
+5. When service succeeds, file proof of service with the court. Format requirements per defendant type are in [`references/proof-of-service.md`](references/proof-of-service.md).
+6. Update the case file: add a `## Service` section (if not present) with a bullet per defendant showing served date, method, and answer deadline. Add the served date to the matching defendant entry so the `service_completed` landmark predicate (`all(d.served_date for d in case.defendants)`) can flip true.
+7. Calendar the answer deadline (20 days from personal service / certified delivery; longer for Secretary of State; per court order for warning order).
 
-| Defendant Type | Primary Method | Alternative |
-|----------------|----------------|-------------|
-| Individual (KY) | Personal / Sheriff | Certified mail |
-| Individual (out-of-state) | Personal | Secretary of State |
-| Corporation (KY) | Registered agent | Officer/managing agent |
-| Corporation (out-of-state) | Secretary of State | Personal |
-| Unknown location | Warning order | - |
+## Outputs
 
-**See:** `references/service-methods.md` for detailed requirements.
+- Per-defendant service attempts and results in the activity log
+- Filed proof of service for each served defendant (copy in `cases/<slug>/documents/`)
+- `## Service` section in `cases/<slug>/<slug>.md` with per-defendant served date and answer deadline
+- Frontmatter updates that satisfy the `service_completed` landmark in `workflows/PHASE_DAG.yaml`
 
-### Step 2: Execute Service
+## References
 
-- Contact sheriff or process server
-- Provide summons and complaint
-- Track 90-day deadline from filing
+- [`references/service-methods.md`](references/service-methods.md) — CR 4 rules, corporate service, Secretary of State long-arm, warning orders, Special Bailiff
+- [`references/proof-of-service.md`](references/proof-of-service.md) — affidavit templates, green-card handling, answer-deadline chart
 
-### Step 3: Document Result
+## What this skill does NOT do
 
-Record for each attempt:
-- Date
-- Method
-- Result (served/not served)
-- Notes
-
-### Step 4: File Proof
-
-Once served, file proof of service with court.
-
-**See:** `references/proof-of-service.md` for requirements.
-
-## Output Format
-
-```markdown
-## Service Status: [Defendant Name]
-
-| Attempt | Date | Method | Result |
-|---------|------|--------|--------|
-| 1 | [date] | [method] | [result] |
-
-**Status:** [Pending/Completed]
-**Proof Filed:** [Yes/No]
-**Answer Deadline:** [date]
-```
-
-## Related Skills
-
-- `complaint-drafting` - For the document being served
-- `answer-analysis` - For processing the response
-
+- **Drafting the complaint** — see `complaint-drafting`.
+- **Serving discovery or subpoenas** — different rules (CR 5, CR 45); not covered here.
+- **Analyzing the answer once received** — see `answer-analysis`.

@@ -136,5 +136,5 @@ From date of service:
 - [ ] Proof filed with court
 - [ ] Answer deadline calculated
 - [ ] Calendar event created
-- [ ] litigation.json updated with service date
+- [ ] Served date recorded on the defendant entry in `cases/<slug>/<slug>.md` (see DATA_CONTRACT.md)
 
