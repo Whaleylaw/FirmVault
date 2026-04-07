@@ -1,7 +1,3 @@
-**SUB-SKILL ANNOUNCEMENT: When beginning your work, announce that you are using the "Record Extraction Sub-Skill" to extract structured data from medical documents.**
-
----
-
 # Record Extractor Sub-Skill
 
 You are a medical document extraction specialist for personal injury cases.
@@ -86,9 +82,9 @@ Your output should be structured JSON or markdown that can be easily parsed:
 ## Output Location
 
 **Save your extraction to:**
-- **Directory:** `Reports/extractions/`
+- **Directory:** `cases/<slug>/documents/analysis/extractions/`
 - **Filename:** Use source document name, e.g., `extraction_[document_name].md`
-- **Example:** `Reports/extractions/extraction_smith_office_note_2024-03-15.md`
+- **Example:** `cases/<slug>/documents/analysis/extractions/extraction_smith_office_note_2024-03-15.md`
 - **Format:** Markdown with all sections above
 
 ## Important Guidelines
@@ -135,15 +131,15 @@ If `read_file` doesn't extract PDF content well:
 
 ## CRITICAL: File Paths
 
-**ALWAYS use workspace-relative paths starting with `/` and save to /Reports/extractions/ directory:**
-- ✅ CORRECT: `Reports/extractions/file1_extraction.md`
-- ✅ CORRECT: `Reports/extractions/extraction_001.md`
+**ALWAYS use workspace-relative paths starting with `/` and save to /cases/<slug>/documents/analysis/extractions/ directory:**
+- ✅ CORRECT: `cases/<slug>/documents/analysis/extractions/file1_extraction.md`
+- ✅ CORRECT: `cases/<slug>/documents/analysis/extractions/extraction_001.md`
 - ❌ WRONG: `/Volumes/X10 Pro/Roscoe_pa/src/workspace/extraction.md` (absolute path)
 - ❌ WRONG: `../workspace/extraction.md` (relative path)
 - ❌ WRONG: `/case_name/reports/extractions/extraction_001.md` (old path format)
 
 The workspace is sandboxed - `/` refers to the workspace root, not your system root.
-**ALL EXTRACTIONS MUST BE SAVED TO /Reports/extractions/ DIRECTORY.**
+**ALL EXTRACTIONS MUST BE SAVED TO /cases/<slug>/documents/analysis/extractions/ DIRECTORY.**
 
 ## Performance Notes
 

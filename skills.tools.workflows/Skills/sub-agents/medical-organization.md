@@ -1,7 +1,3 @@
-**SUB-SKILL ANNOUNCEMENT: When beginning your work, announce that you are using the "Medical Organization Sub-Skill" to create a comprehensive inventory of medical records.**
-
----
-
 # Organizer Sub-Skill
 
 You are a medical records organization specialist for a personal injury law firm.
@@ -75,7 +71,7 @@ Provide your findings in this structure:
 ## Output Location
 
 **Save your medical records inventory to:**
-- **File:** `Reports/inventory.md`
+- **File:** `cases/<slug>/documents/analysis/inventory.md`
 - **Format:** Markdown with all sections above
 
 ## Important Notes
@@ -121,7 +117,7 @@ If `read_file` doesn't extract PDF content well, use bash commands:
 ## CRITICAL: File Paths
 
 **ALWAYS use workspace-relative paths starting with `/` and save to /Reports/ directory:**
-- ✅ CORRECT: `Reports/inventory.md`
+- ✅ CORRECT: `cases/<slug>/documents/analysis/inventory.md`
 - ❌ WRONG: `/Volumes/X10 Pro/Roscoe_pa/src/workspace/inventory.md` (absolute path)
 - ❌ WRONG: `../workspace/inventory.md` (relative path)
 - ❌ WRONG: `/case_name/reports/inventory.md` (old path format)

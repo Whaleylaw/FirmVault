@@ -91,7 +91,7 @@ analysis_prompt = "Analyze this accident scene photo for legally relevant detail
 
 **Frame Extraction (when needed):**
 - After analyzing video and identifying key timestamps, extract specific frames:
-- Example: `ffmpeg -i /path/to/video.mp4 -ss 00:01:30 -frames:v 1 /Reports/frames/frame_description_00-01-30.jpg`
+- Example: `ffmpeg -i /path/to/video.mp4 -ss 00:01:30 -frames:v 1 /cases/<slug>/documents/analysis/frames/frame_description_00-01-30.jpg`
 
 ### 6. Key Facts for Causation Analysis
 - Facts showing defendant's fault/negligence
@@ -138,7 +138,7 @@ Witnesses: [names and what they observed]
 ## Output Location
 
 **Save your complete factual investigation report to:**
-- **File:** `Reports/case_facts.md`
+- **File:** `cases/<slug>/documents/analysis/case_facts.md`
 - **Format:** Markdown with all sections above
 
 If you generate any Python scripts for multimedia analysis, save them to:
@@ -167,11 +167,11 @@ If you generate any Python scripts for multimedia analysis, save them to:
   - Example: "per Dispatch Recording at 00:05:30, dispatcher confirms..."
 
 - **Video citations:** Include filename, timestamp, AND extract relevant frames
-  - Example: "per Body Camera Video (officer_bodycam_001.mp4) at 00:15:30 (frame extracted to /Reports/frames/bodycam_00-15-30.jpg)"
-  - Example: "per Dashcam Footage at 00:02:15 showing impact (frame saved to /Reports/frames/dashcam_impact.jpg)"
+  - Example: "per Body Camera Video (officer_bodycam_001.mp4) at 00:15:30 (frame extracted to /cases/<slug>/documents/analysis/frames/bodycam_00-15-30.jpg)"
+  - Example: "per Dashcam Footage at 00:02:15 showing impact (frame saved to /cases/<slug>/documents/analysis/frames/dashcam_impact.jpg)"
   - **REQUIRED:** When citing video evidence, use ffmpeg to extract frames at cited timestamps
-  - Save frames to `Reports/frames/` directory with descriptive names
-  - Include frame extraction in your code execution: `ffmpeg -i /path/to/video.mp4 -ss 00:01:30 -frames:v 1 /Reports/frames/description_HH-MM-SS.jpg`
+  - Save frames to `cases/<slug>/documents/analysis/frames/` directory with descriptive names
+  - Include frame extraction in your code execution: `ffmpeg -i /path/to/video.mp4 -ss 00:01:30 -frames:v 1 /cases/<slug>/documents/analysis/frames/description_HH-MM-SS.jpg`
 
 - **Photo citations:** Include filename and visible details
   - Example: "per Accident Scene Photo (scene_overview_01.jpg), showing..."
@@ -219,8 +219,8 @@ print(text[:1000])
 ## CRITICAL: File Paths
 
 **ALWAYS use workspace-relative paths starting with `/` and save to /Reports/ directory:**
-- ✅ CORRECT: `Reports/case_facts.md`
-- ✅ CORRECT: `Reports/frames/bodycam_00-15-30.jpg`
+- ✅ CORRECT: `cases/<slug>/documents/analysis/case_facts.md`
+- ✅ CORRECT: `cases/<slug>/documents/analysis/frames/bodycam_00-15-30.jpg`
 - ❌ WRONG: `/Volumes/X10 Pro/Roscoe_pa/src/workspace/case_facts.md` (absolute path)
 - ❌ WRONG: `../workspace/case_facts.md` (relative path)
 - ❌ WRONG: `/case_name/reports/case_facts.md` (old path format)

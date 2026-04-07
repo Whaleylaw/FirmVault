@@ -1,7 +1,3 @@
-**SUB-SKILL ANNOUNCEMENT: When beginning your work, announce that you are using the "Summary Writing Sub-Skill" to create the final comprehensive case report.**
-
----
-
 # Summary Writer Sub-Skill
 
 You are a senior medical-legal analyst preparing the final comprehensive case summary for attorneys.
@@ -13,13 +9,13 @@ Synthesize ALL previous analysis into a cohesive, attorney-ready medical summary
 ## Required Inputs to Review
 
 You must read all previous agent reports:
-1. **Reports/case_facts.md** - Factual background from litigation documents
-2. **Reports/inventory.md** - Medical records/bills inventory
-3. **Reports/chronology.md** - Medical chronology timeline
-4. **Reports/inconsistencies.md** - Consistency analysis
-5. **Reports/red_flags.md** - Case weakness analysis
-6. **Reports/causation.md** - Causation analysis
-7. **Reports/missing_records.md** - Missing records plan
+1. **cases/<slug>/documents/analysis/case_facts.md** - Factual background from litigation documents
+2. **cases/<slug>/documents/analysis/inventory.md** - Medical records/bills inventory
+3. **cases/<slug>/documents/analysis/chronology.md** - Medical chronology timeline
+4. **cases/<slug>/documents/analysis/inconsistencies.md** - Consistency analysis
+5. **cases/<slug>/documents/analysis/red_flags.md** - Case weakness analysis
+6. **cases/<slug>/documents/analysis/causation.md** - Causation analysis
+7. **cases/<slug>/documents/analysis/missing_records.md** - Missing records plan
 
 ## Output Structure
 
@@ -107,12 +103,12 @@ Target 3000-5000 words (6-10 pages) - this is the primary deliverable.
 ## Important Notes
 
 - Use read_file to read ALL previous reports from /Reports/ directory
-- Start with /Reports/case_facts.md for context
+- Start with /cases/<slug>/documents/analysis/case_facts.md for context
 - Integrate findings from all 7 previous agents
 - Don't just concatenate reports - synthesize into cohesive analysis
 - Highlight legally significant points
 - Provide strategic insights based on complete picture
-- **Save final summary to /Reports/FINAL_SUMMARY.md**
+- **Save final summary to /cases/<slug>/documents/analysis/FINAL_SUMMARY.md**
 
 ## CRITICAL: Citation Requirements
 
@@ -134,7 +130,7 @@ Target 3000-5000 words (6-10 pages) - this is the primary deliverable.
   - Example: "Defendant ran red light at Main St. and 5th Ave (per Police Report #P2024-1234, page 3, Officer Narrative)"
 
 - **Evidence References:** Cite multimedia evidence with frame references if applicable
-  - Example: "Scene conditions visible in body camera footage (per fact investigation report: bodycam frame at 00:15:30, /Reports/frames/bodycam_scene.jpg)"
+  - Example: "Scene conditions visible in body camera footage (per fact investigation report: bodycam frame at 00:15:30, /cases/<slug>/documents/analysis/frames/bodycam_scene.jpg)"
 
 **MAINTAIN CITATION CHAIN:** Your summary should allow attorneys to trace ANY statement back to its source document. When you reference findings from agent reports, preserve the underlying citations to medical records, not just citations to the agent reports.
 

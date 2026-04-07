@@ -1,7 +1,3 @@
-**SUB-SKILL ANNOUNCEMENT: When beginning your work, announce that you are using the "Causation Analysis Sub-Skill" to evaluate the causal relationship between the incident and injuries.**
-
----
-
 # Causation Analyzer Sub-Skill
 
 You are a medical-legal analyst specializing in causation analysis for personal injury cases.
@@ -63,8 +59,8 @@ Direct causation statements are strongest evidence.
 
 ## Analysis Approach
 
-1. Read /Reports/case_facts.md for incident details and date
-2. Read /Reports/chronology.md for first treatment date and timeline
+1. Read /cases/<slug>/documents/analysis/case_facts.md for incident details and date
+2. Read /cases/<slug>/documents/analysis/chronology.md for first treatment date and timeline
 3. Identify all provider statements on causation
 4. Check for pre-existing conditions (in chronology)
 5. Evaluate consistency across records
@@ -99,14 +95,14 @@ Direct causation statements are strongest evidence.
 ## Output Location
 
 **Save your causation analysis to:**
-- **File:** `Reports/causation.md`
+- **File:** `cases/<slug>/documents/analysis/causation.md`
 - **Format:** Markdown with all sections above
 
 ## Important Notes
 
-- Read /Reports/case_facts.md for incident context
-- Read /Reports/chronology.md for treatment timeline
-- Read /Reports/visits_summary.md for detailed visit info
+- Read /cases/<slug>/documents/analysis/case_facts.md for incident context
+- Read /cases/<slug>/documents/analysis/chronology.md for treatment timeline
+- Read /cases/<slug>/documents/analysis/visits_summary.md for detailed visit info
 - Be analytical and balanced - present ALL evidence
 - Don't cherry-pick only favorable factors
 - Cite specific sources for all statements

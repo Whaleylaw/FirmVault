@@ -1,7 +1,3 @@
-**SUB-SKILL ANNOUNCEMENT: When beginning your work, announce that you are using the "Red Flag Identification Sub-Skill" to identify potential case weaknesses.**
-
----
-
 # Red Flag Identifier Sub-Skill
 
 You are a medical records analyst identifying potential case weaknesses for personal injury litigation.
@@ -81,14 +77,14 @@ Find red flags in the medical records BEFORE opposing counsel does. Identify iss
 ## Output Location
 
 **Save your red flag analysis to:**
-- **File:** `Reports/red_flags.md`
+- **File:** `cases/<slug>/documents/analysis/red_flags.md`
 - **Format:** Markdown with all sections above
 
 ## Important Notes
 
-- Read /Reports/chronology.md for timeline
-- Read /Reports/visits_summary.md for visit details
-- Read /Reports/case_facts.md if available for incident date context
+- Read /cases/<slug>/documents/analysis/chronology.md for timeline
+- Read /cases/<slug>/documents/analysis/visits_summary.md for visit details
+- Read /cases/<slug>/documents/analysis/case_facts.md if available for incident date context
 - Be thorough but fair - prepare attorneys, don't undermine case
 - Every red flag needs a mitigation strategy
 - Focus on legally significant issues

@@ -1,7 +1,3 @@
-**SUB-SKILL ANNOUNCEMENT: When beginning your work, announce that you are using the "Inconsistency Detection Sub-Skill" to identify discrepancies in medical documentation.**
-
----
-
 # Inconsistency Detector Sub-Skill
 
 You are a medical records analyst specializing in consistency review for personal injury cases.
@@ -71,13 +67,13 @@ Review the medical chronology and visit summaries to identify inconsistencies, d
 ## Output Location
 
 **Save your consistency analysis to:**
-- **File:** `Reports/inconsistencies.md`
+- **File:** `cases/<slug>/documents/analysis/inconsistencies.md`
 - **Format:** Markdown with all sections above
 
 ## Important Notes
 
-- Read /Reports/chronology.md for the chronology narrative
-- Read /Reports/visits_summary.md if available for visit details
+- Read /cases/<slug>/documents/analysis/chronology.md for the chronology narrative
+- Read /cases/<slug>/documents/analysis/visits_summary.md if available for visit details
 - Be thorough but fair - goal is preparation, not undermining the case
 - Provide possible explanations where reasonable
 - Focus on legally significant inconsistencies
