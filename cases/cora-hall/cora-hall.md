@@ -25,6 +25,23 @@ date_of_incident: "2022-12-05"
 - [[contacts/riverside-vascular-surgery|Riverside Vascular Surgery]]
 - [[contacts/scottsville-rural-health-clinic|Scottsville Rural Health Clinic]]
 - [[contacts/the-medical-center-at-bowling-green|The Medical Center At Bowling Green]]
+- [[contacts/riverside-orthopedics-and-sports-medicine|Riverside Orthopedics & Sports Medicine]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Orthopedics Plus Physical Therapy |  |  |  |  | 2025-02-04 |  | 2025-02-04 |  |
+| Scottsville Rural Health Clinic |  |  |  |  |  | 2025-02-10 |  | 2025-02-10 |
+| Commonwealth Pain Associates | Actively Treating |  |  |  |  | 2025-02-06 |  | 2025-02-06 |
+| Riverside Vascular Surgery | Actively Treating | 2024-08-14 |  |  | 2024-08-22 |  | 2024-08-22 |  |
+| The Medical Center At Bowling Green | Treatment Complete | 2022-12-08 | 2022-12-08 | $37,188.55 |  | 2025-01-24 |  | 2025-02-11 |
+| Imaging Consultants of Kentucky | Treatment Complete |  |  |  |  | 2025-01-31 |  | 2025-01-31 |
+| Interventional Pain Specialists (Riverside) | Treatment Complete |  |  |  | 2024-12-13 |  | 2024-12-13 |  |
+| Orthopedic Plus Physical Therapy | Actively Treating |  |  |  | 2024-12-13 |  |  | 2024-12-26 |
+| Riverside Orthopedics & Sports Medicine | Actively Treating | 2022-12-05 |  |  |  | 2025-02-10 |  | 2024-12-20 |
+| Medical Center Of Scottsville | Treatment Complete | 2022-12-05 | 2022-12-05 |  |  | 2025-01-07 |  | 2024-12-18 |
+<!-- roscoe-medical-end -->
 
 ## Adjusters
 - [[contacts/inez-richardson|Inez Richardson]]

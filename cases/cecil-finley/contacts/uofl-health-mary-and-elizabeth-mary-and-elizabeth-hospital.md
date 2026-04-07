@@ -1,0 +1,17 @@
+---
+schema_version: 2
+directory_id: ec31f327-c94d-4739-858e-e4aa18e09f2d
+master_card: "[[Contacts/Medical/uofl-health-mary-and-elizabeth-mary-and-elizabeth-hospital]]"
+case_link: "[[cases/cecil-finley/cecil-finley]]"
+role: treating_provider
+tags: [contact/medical-provider]
+---
+
+# UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital
+
+**Role:** treating_provider
+**Master card:** [[Contacts/Medical/uofl-health-mary-and-elizabeth-mary-and-elizabeth-hospital|UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital]]
+**Case:** [[cases/cecil-finley/cecil-finley|Cecil Finley]]
+**Phone:** (502) 587-4925 Main
+**Email:** ulhcustomerservice@uoflhealth.org
+**Address:** St. Mary and Elizabeth Hospital, 1850 Bluegrass Ave, Louisville, KY 40215

@@ -21,6 +21,18 @@ date_of_incident: "2023-02-05"
 - [[contacts/southeastern-emergency-physician-services|Southeastern Emergency Physician Services]]
 - [[contacts/white-house-clinics-berea|White House Clinics Berea]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Central Kentucky Radiology | Treatment Complete |  |  | $891.00 | 2024-05-01 | 2024-05-01 |  |  |
+| King's Eye Care | Treatment Complete | 2023-05-11 | 2023-05-11 | $535.00 | 2024-03-14 | 2024-03-26 | 2024-03-14 |  |
+| White House Clinics Berea | Treatment Complete | 2023-04-03 | 2023-10-11 | $582.00 | 2024-03-15 | 2024-03-21 | 2024-02-09 | 2024-03-14 |
+| H2 Health- Berea, KY | Treatment Complete | 2023-09-11 | 2024-02-07 | $3,280.00 | 2024-01-19 | 2024-02-09 | 2024-01-19 |  |
+| Southeastern Emergency Physician Services | Treatment Complete | 2023-02-05 | 2023-02-05 | $993.00 | 2023-06-05 | 2023-06-28 |  |  |
+| Saint Joseph Berea | Treatment Complete | 2023-02-05 | 2023-04-28 | $4,605.75 | 2023-06-01 | 2023-10-17 | 2023-06-01 | 2023-06-07 |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/peter-longo|Peter Longo]]
 - [[contacts/torian-leach|Torian Leach]]

@@ -20,6 +20,17 @@ date_of_incident: "2024-06-13"
 - [[contacts/university-of-louisville-hospital-radiology|University Of Louisville Hospital Radiology]]
 - [[contacts/university-of-louisville-physicians|University Of Louisville Physicians]]
 - [[contacts/university-of-louisville-hospital|University of Louisville Hospital]]
+- [[contacts/anchorage-middletown-fire-and-ems|Anchorage Middletown Fire & EMS]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Anchorage Middletown Fire & EMS | Treatment Complete | 2024-06-13 | 2024-06-13 | $1,118.20 | 2025-01-27 | 2025-01-29 | 2025-01-27 | 2025-01-29 |
+| University Of Louisville Hospital Radiology | Treatment Complete | 2024-06-13 | 2024-06-13 | $539.00 |  | 2024-10-10 |  |  |
+| University Of Louisville Physicians | Treatment Complete |  |  |  | 2024-09-23 |  |  |  |
+| University of Louisville Hospital | Treatment Complete |  |  | $19,061.30 | 2024-08-19 | 2024-12-10 | 2024-08-19 | 2024-10-24 |
+<!-- roscoe-medical-end -->
 
 ## Adjusters
 - [[contacts/abigail-jett|Abigail Jett]] (State Farm Insurance Company)

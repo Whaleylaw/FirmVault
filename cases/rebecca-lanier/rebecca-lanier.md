@@ -16,6 +16,13 @@ date_of_incident: "2025-06-28"
 ## Medical Providers
 - [[contacts/allstar-chiropractic|Allstar Chiropractic]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Allstar Chiropractic | Treatment Complete | 2025-07-29 | 2025-09-05 | $2,145.00 | 2025-10-30 | 2025-10-30 | 2025-10-30 | 2025-10-30 |
+<!-- roscoe-medical-end -->
+
 ## Insurance Claims
 - [[claims/bi-progressive-insurance-company|BI — Progressive Insurance Company]] — Claim #25-471551085 (no_demand)
 - [[claims/pip-state-farm-insurance-company|PIP — State Farm Insurance Company]] — Claim #17-87C986K (no_demand)

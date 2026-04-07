@@ -16,6 +16,13 @@ date_of_incident: "2024-12-01"
 ## Medical Providers
 - [[contacts/st-elizabeth-physicians-burlington|St. Elizabeth Physicians- Burlington]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| St. Elizabeth Physicians- Burlington | Treatment Complete | 2024-12-05 | 2024-12-05 | $307.00 | 2025-01-08 | 2025-01-08 | 2025-01-08 | 2025-01-09 |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/emily-pernice|Emily Pernice]]
 - [[contacts/jennifer-howard|Jennifer Howard]]

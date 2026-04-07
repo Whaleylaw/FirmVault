@@ -16,6 +16,15 @@ date_of_incident: "2025-12-21"
 ## Medical Providers
 - [[contacts/chambers-medical-group|Chambers Medical Group]]
 - [[contacts/uofl-health-mary-elizabeth-mary-elizabeth-hospital|UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital]]
+- [[contacts/uofl-health-mary-and-elizabeth-mary-and-elizabeth-hospital|UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Chambers Medical Group | Actively Treating |  |  |  |  |  |  |  |
+| UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital | Treatment Complete |  |  |  | 2026-01-21 |  | 2026-01-21 |  |
+<!-- roscoe-medical-end -->
 
 ## Adjusters
 - [[contacts/patasha-tarkhuft|Patasha Tarkhuft]] (Allstate Insurance)

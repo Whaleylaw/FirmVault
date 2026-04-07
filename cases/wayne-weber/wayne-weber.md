@@ -35,6 +35,35 @@ date_of_incident: "2022-01-01"
 - [[contacts/retina-associates-of-ky|Retina Associates Of KY]]
 - [[contacts/southern-emergency-medical-specialists|Southern Emergency Medical Specialists]]
 - [[contacts/xray-associates-of-louisville|Xray Associates of Louisville]]
+- [[contacts/kentucky-indiana-foot-and-ankle|Kentucky Indiana Foot & Ankle]]
+- [[contacts/anchorage-middletown-fire-and-ems|Anchorage Middletown Fire & EMS]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Nephrology Associates of Kentuckiana |  |  |  |  | 2025-03-13 |  |  | 2025-03-14 |
+| Clinical Associates |  |  |  |  | 2025-03-13 |  | 2025-03-13 |  |
+| Kentucky Indiana Foot & Ankle |  |  |  |  | 2025-03-13 |  | 2025-03-13 |  |
+| One Anesthesia, PLLC |  |  |  |  |  |  |  |  |
+| Louisville Emergency Medical Associates |  |  |  |  | 2025-03-13 |  | 2025-03-13 |  |
+| Commonwealth Anesthesia | Unrelated |  |  |  |  | 2025-03-25 |  | 2025-03-25 |
+| Louisville Hospitalist Associates PLLC |  |  |  |  |  | 2025-03-21 |  | 2025-03-25 |
+| Baptist Health Vascular Surgery |  |  |  |  | 2025-03-13 |  |  | 2025-03-31 |
+| Premier Surgery Center of Louisville | Unrelated |  |  |  |  | 2025-03-18 |  | 2025-03-18 |
+| Baptist Health La Grange |  |  |  |  |  | 2025-03-28 |  | 2025-03-28 |
+| Gould's Discount Medical |  | 2023-01-03 |  |  | 2025-03-13 |  | 2025-03-13 |  |
+| Cassol Eye |  | 2022-04-05 |  |  | 2025-03-13 |  | 2025-03-13 |  |
+| Retina Associates Of KY |  |  |  |  | 2025-03-13 |  | 2025-03-13 |  |
+| Diagnostic Imaging Alliance Of Louisville, PSC | No Records Found | 2022-01-01 | 2022-01-17 | $139.00 |  | 2024-12-26 |  | 2024-12-26 |
+| Baptist Health Medical Group Orthopedics - Floyd |  |  |  |  | 2025-03-05 |  | 2025-03-05 |  |
+| Baptist Health Medical Group Sports Medicine | Treatment Complete |  |  | $202.00 |  | 2025-03-20 |  | 2025-03-20 |
+| Anchorage Middletown Fire & EMS | Treatment Complete | 2022-01-01 | 2022-01-04 | $1,757.95 |  | 2024-11-14 |  | 2024-11-14 |
+| Southern Emergency Medical Specialists | Treatment Complete | 2022-01-01 | 2022-01-01 | $570.00 | 2025-03-13 |  | 2025-03-13 |  |
+| Baptist Health Medical Group - Eastpoint | Treatment Complete | 2022-08-19 | 2022-08-08 | $3,668.75 | 2025-03-05 |  | 2025-03-05 |  |
+| Xray Associates of Louisville | Treatment Complete | 2022-08-19 | 2022-08-19 | $345.00 | 2025-03-05 |  | 2025-03-05 |  |
+| Norton Brownsboro Hospital | Treatment Complete | 2022-01-01 | 2022-01-01 | $4,488.00 |  | 2025-03-25 |  | 2025-03-25 |
+<!-- roscoe-medical-end -->
 
 ## Adjusters
 - [[contacts/ashley-mcneese|Ashley Mcneese]]

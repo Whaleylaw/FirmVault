@@ -21,6 +21,17 @@ date_of_incident: "2024-03-08"
 - [[contacts/the-medical-center-at-bowling-green|The Medical Center At Bowling Green]]
 - [[contacts/tristar-skyline-medical-center|TriStar Skyline Medical Center]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Air Evac Lifeteam 62 | Treatment Complete | 2025-03-08 |  | $66,738.50 | 2025-03-13 | 2025-04-07 | 2025-03-13 | 2025-04-07 |
+| Med Center Health Primary Care | Treatment Complete |  |  |  | 2024-10-17 |  | 2024-10-17 | 2024-10-17 |
+| Radiology Alliance, PC (Infinity Management) | Treatment Complete |  |  |  | 2024-09-23 |  | 2024-09-23 |  |
+| The Medical Center At Bowling Green | Prior | 2023-06-19 | 2023-06-19 |  | 2024-09-23 | 2024-10-07 | 2024-09-22 |  |
+| TriStar Skyline Medical Center | Treatment Complete |  |  |  | 2024-10-07 |  | 2024-10-07 |  |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/brad-murray|Brad Murray]]
 

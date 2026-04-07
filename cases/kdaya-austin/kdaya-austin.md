@@ -17,6 +17,15 @@ date_of_incident: "2026-02-05"
 - [[contacts/starlite-chiropractic|Starlite Chiropractic]]
 - [[contacts/university-of-louisville-hospital|University of Louisville Hospital]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Starlite Chiropractic | Actively Treating |  |  |  |  |  |  |  |
+| Anchorage EMS | Treatment Complete |  |  |  |  |  |  |  |
+| University of Louisville Hospital | Treatment Complete |  |  |  |  |  |  |  |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/brooke-ryan|Brooke Ryan]] (Progressive Insurance Company)
 - [[contacts/heather-cornell|Heather Cornell]] (State Farm Insurance Company)

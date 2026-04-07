@@ -17,6 +17,14 @@ date_of_incident: "2023-01-19"
 - [[contacts/aptiva-health|Aptiva Health]]
 - [[contacts/dixie-injury-and-rehab|Dixie Injury And Rehab]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Aptiva Health | Treatment Complete | 2023-12-06 |  | $16,020.00 |  | 2024-10-16 |  | 2024-10-16 |
+| Dixie Injury And Rehab | Treatment Complete | 2023-01-26 | 2023-01-30 | $1,215.00 | 2023-11-15 | 2023-11-28 | 2023-11-15 | 2023-11-28 |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/allstate-insurance|Allstate Insurance]]
 - [[contacts/angela-casey|Angela Casey]]

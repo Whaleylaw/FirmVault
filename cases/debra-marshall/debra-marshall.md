@@ -25,6 +25,22 @@ date_of_incident: "2022-12-03"
 - [[contacts/the-medical-center-at-caverna|The Medical Center At Caverna]]
 - [[contacts/tristar-skyline-medical-center|TriStar Skyline Medical Center]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Cave City Prescription Center |  |  |  |  |  |  |  |  |
+| Cave City Fire Department |  |  |  |  |  |  |  |  |
+| Doverside Emergency Physicians, PLLC | Treatment Complete |  |  | $1,886.00 |  | 2024-12-23 |  | 2024-12-23 |
+| Southeastern Emergency Physician Services | Treatment Complete | 2022-12-08 | 2022-12-08 | $1,662.00 |  | 2024-09-05 |  | 2024-09-05 |
+| The Medical Center At Caverna | Treatment Complete | 2022-12-08 | 2022-12-08 | $7,686.00 |  | 2024-08-13 |  | 2024-07-24 |
+| Ambulance Service Corp | Treatment Complete | 2022-12-03 | 2022-12-08 | $1,916.00 |  | 2024-04-08 |  | 2024-04-08 |
+| TriStar Skyline Medical Center | Treatment Complete |  |  | $77,640.85 |  | 2024-04-09 |  | 2024-04-29 |
+| T.J. Health Pavilion | Treatment Complete |  |  | $10,952.02 |  | 2024-04-08 |  | 2024-04-11 |
+| Radiology Alliance, PC (Infinity Management) | Treatment Complete | 2022-12-03 | 2022-12-04 | $5,455.00 |  | 2024-09-30 |  | 2024-09-30 |
+| Air Evac EMS Inc Prestonsburg | Treatment Complete | 2022-12-03 | 2022-12-03 | $72,568.50 |  | 2024-04-17 |  | 2024-04-17 |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/jason-osboe|Jason Osboe]]
 - [[contacts/kentucky-farm-bureau|Kentucky Farm Bureau]]

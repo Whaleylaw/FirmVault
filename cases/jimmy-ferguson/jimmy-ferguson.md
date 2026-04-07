@@ -22,6 +22,20 @@ date_of_incident: "2024-05-30"
 - [[contacts/legacy-healthcare|Legacy Healthcare]]
 - [[contacts/radiology-associates|Radiology Associates]]
 - [[contacts/wellcare-of-kentucky|Wellcare of Kentucky]]
+- [[contacts/baptist-health-medical-group-neurology-and-neurosurgery|Baptist Health Medical Group Neurology & Neurosurgery]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Radiology Associates | Treatment Complete | 2024-05-30 | 2024-05-30 | $102.00 | 2024-11-26 | 2024-12-16 |  |  |
+| Elizabethtown Emergency Physicians | Treatment Complete | 2024-05-30 | 2024-05-30 | $595.00 | 2024-11-26 | 2024-11-29 |  |  |
+| KORT Elizabethtown PT | Treatment Complete |  |  |  | 2025-10-27 |  | 2025-10-27 |  |
+| Legacy Healthcare | Treatment Complete |  |  |  |  |  |  |  |
+| Baptist Health Medical Group Neurology & Neurosurgery | Treatment Complete |  |  |  |  | 2025-04-01 | 2025-03-18 | 2025-04-01 |
+| Baptist Health Hardin | Treatment Complete | 2024-05-30 | 2024-05-30 | $6,446.82 | 2024-07-12 | 2024-10-17 | 2024-07-12 | 2024-08-12 |
+| Hardin County EMS | No Records Found |  |  |  | 2024-07-12 |  | 2024-07-12 |  |
+<!-- roscoe-medical-end -->
 
 ## Adjusters
 - [[contacts/ashley-mcneese|Ashley Mcneese]]

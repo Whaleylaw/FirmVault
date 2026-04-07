@@ -18,6 +18,15 @@ date_of_incident: "2023-04-01"
 - [[contacts/cincinnati-childrens-hospital|Cincinnati Children's Hospital]]
 - [[contacts/st-elizabeth-physicians-primary-care|St. Elizabeth Physicians Primary Care]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| St. Elizabeth Physicians Primary Care | Unrelated |  |  | $0.00 |  |  |  | 2024-04-05 |
+| Cincinnati Children's Hospital | Prior |  |  |  |  | 2024-05-01 |  | 2024-05-01 |
+| Bluegrass Urgent Care | Treatment Complete | 2023-04-12 | 2023-04-12 | $200.00 |  | 2024-04-04 |  | 2024-04-04 |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/amy-morris|Amy Morris]] (Progressive Insurance Company)
 - [[contacts/state-farm-pip-team|State Farm PIP Team]]

@@ -21,6 +21,20 @@ date_of_incident: "2023-05-19"
 - [[contacts/troy-bowling-campus-va-clinic|Troy Bowling Campus (VA Clinic)]]
 - [[contacts/uk-albert-chandler-hospital|UK Albert Chandler Hospital]]
 - [[contacts/west-liberty-physical-therapy-sports-medicine|West Liberty Physical Therapy & Sports Medicine]]
+- [[contacts/west-liberty-physical-therapy-and-sports-medicine|West Liberty Physical Therapy & Sports Medicine]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Troy Bowling Campus (VA Clinic) |  |  |  |  | 2024-12-20 |  | 2024-12-20 |  |
+| West Liberty Physical Therapy & Sports Medicine | Treatment Complete | 2024-01-08 | 2024-04-04 | $2,905.00 |  | 2024-12-23 |  | 2024-12-23 |
+| Morehead Physical Therapy | Actively Treating |  |  |  | 2024-06-07 |  | 2024-06-07 |  |
+| Air Methods | Treatment Complete |  |  | $82,859.12 |  | 2024-06-19 |  | 2024-06-19 |
+| Morehead VA Clinic | Actively Treating |  |  |  | 2024-06-07 |  |  | 2024-11-21 |
+| UK Albert Chandler Hospital | Treatment Complete |  |  | $37,316.90 |  | 2024-07-01 |  | 2024-06-21 |
+| Morgan County Ambulance Services | Treatment Complete | 2023-05-19 | 2023-05-19 | $1,331.20 |  | 2024-06-10 |  | 2024-06-10 |
+<!-- roscoe-medical-end -->
 
 ## Adjusters
 - [[contacts/frank-smith|Frank Smith]]

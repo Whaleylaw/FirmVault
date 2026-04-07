@@ -19,6 +19,16 @@ date_of_incident: "2025-07-05"
 - [[contacts/st-elizabeth-florence-hospital|St. Elizabeth Florence Hospital]]
 - [[contacts/the-christ-hospital-physicians-primary-care|The Christ Hospital Physicians - Primary Care]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Radiology Associates of Northern Kentucky, PLLC | Treatment Complete |  |  | $183.00 |  | 2025-11-20 |  |  |
+| Compass Emergency Physicians | Treatment Complete |  |  | $582.00 |  | 2025-09-02 |  |  |
+| St. Elizabeth Florence Hospital | Treatment Complete |  |  | $1,397.89 | 2025-10-29 | 2025-10-29 | 2026-01-05 |  |
+| The Christ Hospital Physicians - Primary Care | Treatment Complete |  |  |  | 2026-01-05 |  | 2026-01-05 | 2026-01-19 |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/leigh-king|Leigh King]]
 - [[contacts/nachand-downs|Nachand Downs]]

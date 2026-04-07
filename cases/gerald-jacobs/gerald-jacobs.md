@@ -17,6 +17,16 @@ date_of_incident: "2025-10-23"
 - [[contacts/kentucky-pain-associates|Kentucky Pain Associates]]
 - [[contacts/starlite-chiropractic|Starlite Chiropractic]]
 - [[contacts/uofl-health-mary-elizabeth-mary-elizabeth-hospital|UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital]]
+- [[contacts/uofl-health-mary-and-elizabeth-mary-and-elizabeth-hospital|UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Kentucky Pain Associates | Actively Treating |  |  |  |  |  |  |  |
+| UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital | Treatment Complete |  |  | $7,154.00 | 2026-01-21 | 2026-01-22 | 2026-01-21 | 2026-01-22 |
+| Starlite Chiropractic | Actively Treating |  |  |  |  |  |  |  |
+<!-- roscoe-medical-end -->
 
 ## Insurance Claims
 - [[claims/pip-shelter-insurance|PIP — Shelter Insurance]] — Claim #AT0000004020136 (no_demand)

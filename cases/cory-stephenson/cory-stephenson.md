@@ -17,6 +17,16 @@ date_of_incident: "2025-09-03"
 - [[contacts/fern-creek-fire-ems|Fern Creek Fire & EMS]]
 - [[contacts/starlite-chiropractic|Starlite Chiropractic]]
 - [[contacts/university-of-louisville-hospital|University of Louisville Hospital]]
+- [[contacts/fern-creek-fire-and-ems|Fern Creek Fire & EMS]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Fern Creek Fire & EMS | Treatment Complete | 2025-09-03 | 2025-09-03 | $1,404.40 | 2026-01-20 | 2026-01-29 | 2026-01-20 | 2026-01-29 |
+| Starlite Chiropractic | Treatment Complete | 2025-09-04 | 2025-09-22 | $4,520.00 |  | 2025-11-11 |  | 2025-11-11 |
+| University of Louisville Hospital | Treatment Complete | 2025-09-03 | 2025-09-03 | $20,847.00 | 2025-10-10 | 2025-11-11 | 2025-10-10 | 2025-11-07 |
+<!-- roscoe-medical-end -->
 
 ## Adjusters
 - [[contacts/cheryl-washington|Cheryl Washington]]

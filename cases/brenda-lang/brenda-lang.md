@@ -24,6 +24,21 @@ date_of_incident: "2021-09-03"
 - [[contacts/southern-medical-specialist|Southern Medical Specialist]]
 - [[contacts/xray-associates-of-louisville|Xray Associates of Louisville]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Southern Medical Specialist |  |  |  |  | 2024-11-04 |  | 2024-11-04 |  |
+| Louisville Emergency Medical Associates | Treatment Complete | 2021-09-03 | 2021-09-12 | $1,642.00 |  | 2024-11-15 |  | 2024-11-15 |
+| Louisville Metro EMS | Treatment Complete | 2021-09-12 | 2021-09-12 | $821.40 | 2024-11-04 |  | 2024-11-04 |  |
+| Baptist Health Hardin | No Records Found |  |  | $0.00 |  | 2024-11-13 |  | 2024-11-13 |
+| Okolona Fire/EMS | Treatment Complete |  |  | $1,095.60 |  | 2024-11-05 |  | 2024-11-05 |
+| Gould's Discount Medical | Treatment Complete | 2021-09-03 | 2021-09-03 | $357.04 |  | 2024-12-06 |  | 2024-12-06 |
+| Xray Associates of Louisville | Treatment Complete |  |  | $1,749.50 |  | 2024-11-12 |  | 2024-11-12 |
+| Norton Hospital Downtown | Unrelated |  |  |  |  | 2024-11-27 |  | 2024-11-27 |
+| Baptist Health Louisville | Treatment Complete |  |  | $20,569.18 |  | 2024-11-19 |  | 2024-11-19 |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/humana|Humana]]
 - [[contacts/humana|Humana]]

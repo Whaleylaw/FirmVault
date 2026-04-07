@@ -16,6 +16,15 @@ date_of_incident: "2023-04-01"
 ## Medical Providers
 - [[contacts/southgate-chiropractic-massage-wellness-center|Southgate Chiropractic & Massage Wellness Center]]
 - [[contacts/st-elizabeth-physicians-primary-care|St. Elizabeth Physicians Primary Care]]
+- [[contacts/southgate-chiropractic-and-massage-wellness-center|Southgate Chiropractic & Massage Wellness Center]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| St. Elizabeth Physicians Primary Care |  |  |  |  | 2025-03-13 |  | 2025-03-13 |  |
+| Southgate Chiropractic & Massage Wellness Center | Treatment Complete | 2023-04-12 | 2023-08-21 | $8,605.00 |  | 2024-07-31 |  | 2024-07-31 |
+<!-- roscoe-medical-end -->
 
 ## Adjusters
 - [[contacts/amy-morris|Amy Morris]]

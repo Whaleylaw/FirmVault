@@ -18,6 +18,15 @@ date_of_incident: "2026-02-08"
 ## Medical Providers
 - [[contacts/starlite-chiropractic|Starlite Chiropractic]]
 - [[contacts/university-of-louisville-hospital|University of Louisville Hospital]]
+- [[contacts/auto-accident-urgent-care|Auto Accident Urgent Care]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Auto Accident Urgent Care | Treatment Complete | 2026-02-11 | 2026-03-26 | $12,485.00 |  | 2026-04-02 |  | 2026-04-02 |
+| University of Louisville Hospital | Treatment Complete |  |  |  | 2026-03-17 |  | 2026-03-17 | 2026-03-31 |
+<!-- roscoe-medical-end -->
 
 ## Adjusters
 - [[contacts/jasmine-price|Jasmine Price]] (Travelers Insurance)

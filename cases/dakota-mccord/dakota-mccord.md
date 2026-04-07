@@ -19,6 +19,16 @@ date_of_incident: "2025-10-12"
 - [[contacts/ulp-emergency|ULP Emergency]]
 - [[contacts/university-of-louisville-hospital|University of Louisville Hospital]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| ULP Emergency | Treatment Complete |  |  | $945.00 |  | 2026-02-17 |  |  |
+| Heartland Ambulance | Treatment Complete |  |  | $1,916.50 |  |  |  |  |
+| Starlite Chiropractic | Treatment Complete |  |  | $6,085.00 |  | 2026-02-05 |  |  |
+| University of Louisville Hospital | Treatment Complete |  |  | $8,666.00 | 2025-10-13 | 2026-02-17 | 2025-10-13 |  |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/robert-alexander|Robert Alexander]]
 - [[contacts/jeremy-mathis|Jeremy Mathis]]

@@ -16,6 +16,13 @@ date_of_incident: "2025-12-23"
 ## Medical Providers
 - [[contacts/prorehab-physical-therapy|ProRehab Physical Therapy]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| ProRehab Physical Therapy | Treatment Complete |  |  |  |  |  |  |  |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/sarah-munson|Sarah Munson]] (Progressive Insurance Company)
 - [[contacts/sarah-riggs|Sarah Riggs]] (Kentucky Farm Bureau)

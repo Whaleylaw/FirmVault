@@ -11,6 +11,18 @@ date_of_incident: "2025-08-19"
 **Status:** intake | **Type:** auto_accident
 
 ## Medical Providers
+- [[contacts/university-of-louisville-hospital|University of Louisville Hospital]]
+- [[contacts/louisville-metro-ems|Louisville Metro EMS]]
+- [[contacts/starlite-chiropractic|Starlite Chiropractic]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| University of Louisville Hospital | Treatment Complete | 2025-08-19 | 2025-08-19 | $4,914.00 | 2025-10-29 | 2025-12-01 | 2025-10-29 | 2025-11-21 |
+| Louisville Metro EMS | Treatment Complete | 2025-08-19 | 2025-08-19 | $667.40 | 2025-10-29 | 2025-10-31 | 2025-10-29 | 2025-10-31 |
+| Starlite Chiropractic | Treatment Complete | 2025-08-25 | 2025-10-15 | $10,815.00 | 2025-10-30 | 2025-11-20 | 2025-10-30 | 2025-11-20 |
+<!-- roscoe-medical-end -->
 
 ## Adjusters
 

@@ -16,6 +16,13 @@ date_of_incident: "2025-07-20"
 ## Medical Providers
 - [[contacts/little-clinic|Little Clinic]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Little Clinic | Treatment Complete | 2025-07-20 | 2025-07-20 | $99.00 |  | 2025-07-31 |  | 2025-07-31 |
+<!-- roscoe-medical-end -->
+
 ## Insurance
 - [[contacts/north-american-risk-services|North American Risk Services]]
 

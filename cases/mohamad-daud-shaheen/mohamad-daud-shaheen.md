@@ -19,6 +19,19 @@ date_of_incident: "2025-12-24"
 - [[contacts/priority-radiology|Priority Radiology]]
 - [[contacts/starlite-chiropractic|Starlite Chiropractic]]
 - [[contacts/university-of-louisville-hospital|University of Louisville Hospital]]
+- [[contacts/ortho-louisville|Ortho Louisville]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Ortho Louisville | Actively Treating |  |  |  |  |  |  |  |
+| Louisville Metro EMS | Treatment Complete |  |  | $870.60 |  |  |  |  |
+| Priority Radiology | Actively Treating |  |  |  |  |  |  |  |
+| Norton Immediate Care | Treatment Complete |  |  |  |  |  |  |  |
+| Starlite Chiropractic | Treatment Complete |  |  | $12,360.00 | 2026-03-17 | 2026-03-18 | 2026-03-17 | 2026-03-18 |
+| University of Louisville Hospital | Treatment Complete |  |  | $20,643.00 | 2026-01-21 | 2026-02-13 | 2026-01-21 | 2026-02-04 |
+<!-- roscoe-medical-end -->
 
 ## Adjusters
 - [[contacts/gary-mccaslin|Gary McCaslin]] (Progressive Insurance Company)

@@ -21,6 +21,20 @@ date_of_incident: "2021-01-03"
 - [[contacts/louisville-metro-ems|Louisville Metro EMS]]
 - [[contacts/ob-hospitalist-group|OB Hospitalist Group]]
 - [[contacts/the-injury-centers|The Injury Centers]]
+- [[contacts/bluegrass-bone-and-joint-pllc|Bluegrass Bone & Joint, PLLC]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Bluegrass Bone & Joint, PLLC | No Records Found |  |  |  |  | 2024-11-18 |  | 2024-11-18 |
+| The Injury Centers | Treatment Complete |  |  | $5,093.00 | 2024-11-05 |  | 2024-11-05 |  |
+| Louisville Metro EMS | Treatment Complete | 2021-01-03 | 2021-01-03 | $786.40 |  | 2024-11-05 |  | 2024-11-05 |
+| Baptist Health Louisville | Treatment Complete | 2021-01-03 | 2021-01-03 | $3,597.99 |  | 2024-11-18 |  | 2024-11-18 |
+| Louisville Emergency Medical Associates | Treatment Complete |  |  | $433.00 |  | 2024-11-15 |  | 2024-11-15 |
+| OB Hospitalist Group | Treatment Complete | 2021-01-03 | 2021-01-17 | $497.00 | 2024-11-04 |  | 2024-11-04 |  |
+| Etown Chiropractic Center | Treatment Complete |  |  |  |  |  |  | 2024-11-05 |
+<!-- roscoe-medical-end -->
 
 ## Adjusters
 - [[contacts/bobby-jo-lade|Bobby Jo Lade]] (Anthem Medicaid Health Plans Of KY Inc.)

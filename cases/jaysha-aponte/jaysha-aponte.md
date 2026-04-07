@@ -21,6 +21,18 @@ date_of_incident: "2025-03-15"
 - [[contacts/ulp-emergency|ULP Emergency]]
 - [[contacts/university-of-louisville-hospital|University of Louisville Hospital]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| East Broadway Family Health Center | Treatment Complete |  |  |  | 2026-01-12 | 2026-01-14 | 2026-01-12 | 2026-01-14 |
+| Family Health Centers-Portland | Treatment Complete | 2025-03-21 |  | $901.18 | 2025-05-16 | 2025-05-27 | 2025-05-16 |  |
+| Louisville Metro EMS | Treatment Complete | 2025-03-15 | 2025-03-15 | $640.80 | 2025-03-21 | 2025-04-02 | 2025-03-21 | 2025-04-02 |
+| ULP Emergency | Treatment Complete | 2025-03-15 | 2025-03-15 | $403.00 | 2025-04-11 | 2025-05-28 |  |  |
+| Starlite Chiropractic | Treatment Complete | 2025-03-17 | 2025-04-28 | $2,690.00 |  | 2025-11-13 |  | 2025-11-13 |
+| University of Louisville Hospital | Treatment Complete | 2025-03-15 | 2025-03-15 | $5,649.00 | 2025-03-17 | 2025-04-16 |  | 2025-04-16 |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/hannah-snow|Hannah Snow]]
 - [[contacts/monica-jones|Monica Jones]]

@@ -13,6 +13,20 @@ date_of_incident: "2023-10-24"
 **Status:** litigation | **Type:** premises_liability | **Jurisdiction:** KY
 **Case #:** 2023-10-24-PrL-001
 
+## Medical Providers
+- [[contacts/baptist-health-er-and-urgent-care|Baptist Health ER & Urgent Care]]
+- [[contacts/ultimate-md|Ultimate  MD]]
+- [[contacts/jefferson-animal-hospital-and-regional-emergency-center|Jefferson Animal Hospital & Regional Emergency Center]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Baptist Health ER & Urgent Care | Treatment Complete | 2023-10-24 | 2023-10-24 | $1,889.59 |  | 2024-06-13 |  | 2024-06-13 |
+| Ultimate  MD | Treatment Complete | 2023-10-24 | 2023-10-24 |  |  | 2024-05-30 |  | 2024-05-30 |
+| Jefferson Animal Hospital & Regional Emergency Center | Treatment Complete | 2023-10-24 | 2023-10-24 | $525.58 |  | 2024-05-31 |  | 2024-05-24 |
+<!-- roscoe-medical-end -->
+
 ## Insurance Claims
 - [[claims/bi-unknown|BI]] — Claim #17-N836-0G8 (demand_pending)
 - [[claims/bi-state-farm-fire-and-casualty-company|BI — State Farm Fire & Casualty Company]]

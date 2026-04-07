@@ -25,6 +25,21 @@ date_of_incident: "2021-09-24"
 - [[contacts/osf-promptcare|OSF PromptCare]]
 - [[contacts/results-physiotherapy|Results Physiotherapy]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Baptist Health Medical Group Internal Medicine | Treatment Complete | 2022-04-13 | 2023-08-22 | $478.00 |  |  |  |  |
+| Norton Audubon Hospital | Treatment Complete | 2022-01-07 | 2022-01-07 | $8,767.85 |  | 2024-01-30 |  | 2024-01-30 |
+| Baptist Health Medical Group Sports Medicine | Treatment Complete | 2021-10-16 | 2022-02-16 | $581.00 |  | 2024-01-04 |  | 2024-01-04 |
+| Norton Brownsboro Hospital | Treatment Complete | 2022-06-06 | 2023-01-18 | $141,322.09 | 2023-11-16 | 2023-12-11 | 2023-11-16 | 2023-12-11 |
+| Norton Cancer Institute - Brownsboro | Treatment Complete | 2021-12-13 | 2023-02-06 | $1,315.00 | 2023-11-16 | 2023-12-11 | 2023-11-16 | 2023-12-11 |
+| Norton Neuroscience Institute | Treatment Complete | 2022-04-29 | 2022-04-29 | $305.00 | 2023-11-16 |  | 2023-11-16 | 2023-12-11 |
+| OSF PromptCare | Treatment Complete | 2021-09-24 | 2021-09-24 | $257.00 | 2022-11-23 | 2022-11-23 | 2022-11-03 | 2022-01-18 |
+| Results Physiotherapy | Treatment Complete | 2021-10-12 | 2022-04-07 | $15,954.00 | 2022-11-23 | 2022-01-10 | 2022-11-23 | 2022-08-04 |
+| Aptiva Health | Treatment Complete | 2021-09-30 | 2022-12-20 | $7,115.00 | 2022-11-23 | 2022-01-10 | 2022-11-23 | 2022-11-23 |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/bethany-pineda|Bethany Pineda]]
 - [[contacts/grange-insurance|Grange Insurance]]

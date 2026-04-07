@@ -16,6 +16,13 @@ date_of_incident: "2024-12-06"
 ## Medical Providers
 - [[contacts/aptiva-health|Aptiva Health]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Aptiva Health | Treatment Complete | 2025-01-30 | 2025-02-10 | $10,795.00 |  |  |  |  |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/daniel-castillon|Daniel Castillon]] (USAA Insurance Company)
 - [[contacts/kristen-carlson|Kristen Carlson]]

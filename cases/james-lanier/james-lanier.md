@@ -19,6 +19,16 @@ date_of_incident: "2025-06-28"
 - [[contacts/orthocincy-nku|OrthoCincy -NKU]]
 - [[contacts/st-elizabeth-florence-hospital|St. Elizabeth Florence Hospital]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| St. Elizabeth Florence Hospital | Treatment Complete |  |  |  |  |  |  |  |
+| OrthoCincy -NKU | Actively Treating |  |  |  |  |  |  |  |
+| OrthoCincy | Actively Treating |  |  |  |  |  |  |  |
+| Allstar Chiropractic | Treatment Complete |  |  | $7,170.00 | 2025-10-30 | 2025-10-30 | 2025-10-30 | 2025-10-30 |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/everado-valle|Everado Valle]]
 - [[contacts/mckenna-marshall|McKenna Marshall]]

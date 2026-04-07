@@ -18,6 +18,14 @@ date_of_incident: "2025-11-14"
 - [[contacts/university-of-louisville-hospital|University of Louisville Hospital]]
 - [[contacts/uofl-health|UofL Health]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Starlite Chiropractic | Actively Treating |  |  |  |  |  |  |  |
+| University of Louisville Hospital | Treatment Complete |  |  |  |  |  |  |  |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/sarah-foye|Sarah Foye]]
 - [[contacts/dietrich-rudolph|Dietrich Rudolph]]

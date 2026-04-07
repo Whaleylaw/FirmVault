@@ -24,6 +24,22 @@ date_of_incident: "2021-06-10"
 - [[contacts/university-diagnostic|University Diagnostic]]
 - [[contacts/walmart-pharmacy|Walmart Pharmacy]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Walmart Pharmacy |  |  |  |  |  |  |  |  |
+| James H. Quillen VA Medical Center | Actively Treating |  |  |  | 2024-07-11 |  |  | 2024-07-25 |
+| Fast Pace Urgent Care | Treatment Complete |  |  |  | 2024-07-11 |  | 2024-07-11 |  |
+| Fast Pace Urgent Care | Treatment Complete |  |  |  | 2024-07-11 |  | 2024-07-11 |  |
+| BenchMark Physical Therapy | Treatment Complete |  |  | $6,917.00 |  | 2024-06-04 |  | 2024-06-04 |
+| University Diagnostic | No Records Found |  |  |  |  | 2025-01-02 | 2025-01-02 |  |
+| M. Joseph Medical | Treatment Complete |  |  | $46.86 |  | 2024-02-02 |  | 2024-02-02 |
+| Knoxville Orthopedic Clinic | Treatment Complete |  |  | $2,754.00 |  | 2024-02-05 |  | 2024-02-05 |
+| Baptist Health La Grange | Treatment Complete |  |  | $5,206.20 |  | 2024-02-14 |  | 2024-02-14 |
+| Henry County EMS | Treatment Complete |  |  | $1,377.98 |  | 2024-02-19 |  | 2024-02-19 |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/jillian-prikle|Jillian Prikle]]
 

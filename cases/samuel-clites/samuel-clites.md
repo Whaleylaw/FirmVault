@@ -18,6 +18,15 @@ date_of_incident: "2024-04-23"
 - [[contacts/louisville-emergency-medical-associates|Louisville Emergency Medical Associates]]
 - [[contacts/xray-associates-of-louisville|Xray Associates of Louisville]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Louisville Emergency Medical Associates | Treatment Complete | 2024-04-25 | 2024-04-25 | $907.00 | 2024-08-19 | 2024-08-21 | 2024-08-19 | 2024-08-21 |
+| Xray Associates of Louisville | Treatment Complete | 2024-04-25 | 2024-04-25 | $139.76 |  | 2024-07-02 |  |  |
+| Baptist Health Louisville | Treatment Complete | 2024-04-25 | 2024-04-25 | $4,730.98 | 2024-04-29 | 2024-05-13 | 2024-04-29 | 2024-05-13 |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/calandra-turner|Calandra Turner]]
 

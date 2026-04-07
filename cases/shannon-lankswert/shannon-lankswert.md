@@ -19,6 +19,16 @@ date_of_incident: "2025-02-07"
 - [[contacts/flaget-memorial-hospital|Flaget Memorial Hospital]]
 - [[contacts/the-injury-centers|The Injury Centers]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| The Injury Centers | Treatment Complete |  |  |  | 2025-02-28 |  | 2025-02-28 |  |
+| Advanced Injury Rehab | Treatment Complete | 2025-02-20 | 2025-04-28 |  |  |  |  |  |
+| Flaget Memorial Hospital | Treatment Complete | 2025-02-11 | 2025-02-11 | $2,879.00 |  | 2025-03-27 |  | 2025-02-25 |
+| Concentra Medical Center | Treatment Complete | 2025-02-08 | 2025-02-17 | $1,144.36 |  | 2025-02-24 |  | 2025-02-24 |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/george-stewart|George Stewart]]
 

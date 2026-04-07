@@ -17,6 +17,14 @@ date_of_incident: "2025-08-25"
 - [[contacts/starlite-chiropractic|Starlite Chiropractic]]
 - [[contacts/university-of-louisville-hospital|University of Louisville Hospital]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Starlite Chiropractic | Treatment Complete |  |  | $5,080.00 |  | 2026-02-17 |  |  |
+| University of Louisville Hospital | Treatment Complete |  |  | $3,141.00 | 2026-01-20 |  | 2026-01-20 | 2026-01-30 |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/kiosha-robinson|Kiosha Robinson]]
 

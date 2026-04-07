@@ -26,6 +26,16 @@ date_of_incident: "2024-07-13"
 - [[contacts/uofl-physicians-orthopedics|UofL Physicians - Orthopedics]]
 - [[contacts/uofl-physicians-orthopedics|UofL Physicians – Orthopedics]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| University of Louisville Physicians | Treatment Complete | 2024-07-13 | 2024-07-14 | $405.00 |  | 2025-03-26 |  | 2025-03-26 |
+| Foundation Radiology | Treatment Complete | 2024-07-13 | 2024-07-14 | $67.00 | 2025-02-10 |  | 2025-02-10 |  |
+| UofL Physicians - Orthopedics | Treatment Complete | 2024-08-06 | 2024-08-06 | $390.00 | 2025-02-10 |  | 2025-02-10 |  |
+| Jewish Hospital | Treatment Complete | 2024-07-13 | 2024-07-14 | $3,223.00 | 2025-02-10 |  |  | 2025-03-13 |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/jordan-bahr|Jordan Bahr]]
 

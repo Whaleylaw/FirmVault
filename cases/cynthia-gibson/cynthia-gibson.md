@@ -19,6 +19,16 @@ date_of_incident: "2025-07-09"
 - [[contacts/starlite-chiropractic|Starlite Chiropractic]]
 - [[contacts/university-of-louisville-hospital|University of Louisville Hospital]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Baptist Health Occupational Medicine - Fern Valley | Treatment Complete |  |  |  | 2026-03-02 |  | 2026-03-02 |  |
+| Starlite Chiropractic | Treatment Complete |  |  | $9,455.00 |  | 2025-11-05 |  | 2025-11-05 |
+| Bullitt County EMS | Treatment Complete |  |  | $1,556.80 | 2025-07-15 | 2025-07-24 | 2025-07-15 | 2025-07-24 |
+| University of Louisville Hospital | Treatment Complete | 2025-07-09 | 2025-07-09 | $6,664.00 |  | 2025-10-10 | 2026-03-02 | 2026-03-12 |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/courtney-heinnickel|Courtney Heinnickel]]
 - [[contacts/gary-jones|Gary Jones]]

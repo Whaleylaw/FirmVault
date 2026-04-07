@@ -22,6 +22,20 @@ date_of_incident: "2023-04-07"
 - [[contacts/louisville-endodontics|Louisville Endodontics]]
 - [[contacts/prorehab|ProRehab]]
 - [[contacts/x-ray-associates-of-louisville|X-ray Associates of Louisville]]
+- [[contacts/kentuckiana-oral-maxillofacial-and-dental-implant-surgery|Kentuckiana Oral Maxillofacial & Dental Implant Surgery]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Kentuckiana Oral Maxillofacial & Dental Implant Surgery | Treatment Complete | 2023-10-30 | 2024-03-12 | $4,240.00 | 2023-11-06 |  | 2023-11-06 |  |
+| Louisville Endodontics | Treatment Complete |  |  | $358.00 | 2023-11-06 | 2023-11-09 | 2023-11-06 | 2023-11-09 |
+| Baptist Health Medical Group Primary Care | Treatment Complete | 2023-05-25 | 2023-05-25 | $243.00 | 2023-08-04 | 2023-08-17 | 2023-08-04 | 2023-08-17 |
+| ProRehab | Treatment Complete | 2023-06-12 | 2023-07-19 | $1,635.00 | 2023-07-18 | 2023-08-30 | 2023-07-18 | 2023-08-30 |
+| Baptist Health Louisville | Treatment Complete |  |  | $1,332.18 | 2023-06-12 | 2023-06-22 | 2023-06-12 | 2023-07-27 |
+| X-ray Associates of Louisville | Treatment Complete | 2023-05-25 | 2023-05-25 | $40.00 | 2023-06-12 | 2023-07-21 |  |  |
+| Aiken Family Dentistry | Treatment Complete | 2023-05-22 | 2023-07-10 | $418.00 | 2023-07-19 | 2023-07-20 | 2023-07-19 | 2023-07-20 |
+<!-- roscoe-medical-end -->
 
 ## Adjusters
 - [[contacts/doris-kenyon|Doris Kenyon]]

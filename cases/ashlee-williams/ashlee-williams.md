@@ -18,6 +18,20 @@ date_of_incident: "2023-08-29"
 - [[contacts/starlite-chiropractic|Starlite Chiropractic]]
 - [[contacts/university-of-louisville-hospital|University of Louisville Hospital]]
 - [[contacts/university-of-louisville-physicians|University of Louisville Physicians]]
+- [[contacts/health-lift-pharmacy-service-llc|Health Lift Pharmacy Service, LLC]]
+- [[contacts/kentucky-pain-associates|Kentucky Pain Associates]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| New Chapel EMS | Treatment Complete | 2023-08-29 | 2023-08-29 | $684.00 |  | 2024-11-26 |  | 2024-11-26 |
+| Health Lift Pharmacy Service, LLC | Treatment Complete |  |  | $13.68 |  | 2024-11-27 |  | 2024-11-27 |
+| Kentucky Pain Associates | Treatment Complete |  |  | $1,439.56 |  | 2024-11-27 |  | 2024-11-27 |
+| University of Louisville Physicians | Treatment Complete |  |  | $1,084.00 |  | 2024-12-20 |  | 2024-12-20 |
+| Starlite Chiropractic | Treatment Complete | 2023-08-30 | 2023-10-12 | $10,945.00 |  | 2024-12-19 |  | 2024-12-19 |
+| University of Louisville Hospital | Treatment Complete |  |  | $20,972.00 | 2024-11-26 |  | 2024-12-23 |  |
+<!-- roscoe-medical-end -->
 
 ## Adjusters
 - [[contacts/aaron-lovato|Aaron Lovato]]

@@ -17,6 +17,14 @@ date_of_incident: "2025-12-18"
 - [[contacts/jewish-hospital|Jewish Hospital]]
 - [[contacts/starlite-chiropractic|Starlite Chiropractic]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Starlite Chiropractic | Treatment Complete | 2025-12-22 | 2026-03-05 | $11,995.00 | 2026-03-05 | 2026-03-09 | 2026-03-05 |  |
+| Jewish Hospital | Treatment Complete |  |  | $13,607.00 | 2026-01-21 |  | 2026-01-21 | 2026-02-02 |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/cassandra-ladd|Cassandra Ladd]] (Kentucky Farm Bureau)
 - [[contacts/noel-wilson|Noel Wilson]] (Erie Insurance Group)

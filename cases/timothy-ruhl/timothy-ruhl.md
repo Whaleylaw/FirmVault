@@ -30,6 +30,28 @@ date_of_incident: "2023-09-14"
 - [[contacts/vip-imaging-pllc|VIP Imaging, PLLC]]
 - [[contacts/x-ray-associates-of-louisville|X-ray Associates of Louisville]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| ENT Associates | Actively Treating |  |  |  |  |  |  |  |
+| Louisville Orthopaedic Clinic | Treatment Complete |  |  |  |  |  |  |  |
+| Baptist Healthcare | Treatment Complete |  |  |  |  |  |  |  |
+| Kroger Pharmacy | Treatment Complete |  |  |  |  |  |  |  |
+| Southeastern Emergency Physician Services | Treatment Complete | 2023-09-20 | 2023-09-20 | $1,001.00 |  | 2025-03-04 |  | 2025-03-04 |
+| X-ray Associates of Louisville | Treatment Complete | 2023-09-14 | 2023-09-14 | $1,254.00 |  | 2025-01-29 |  | 2025-01-29 |
+| UL Health Medical Center - South | Treatment Complete | 2024-10-03 | 2024-10-03 |  | 2025-03-13 |  | 2025-03-13 |  |
+| Louisville Orthopaedic Clinic | Unrelated |  |  |  | 2024-12-20 |  |  | 2024-12-23 |
+| ENT Associates | Unrelated | 2024-09-18 | 2024-09-18 |  |  | 2025-02-04 |  | 2025-02-04 |
+| VIP Imaging, PLLC | No Records Found |  |  |  |  | 2025-03-10 |  | 2025-03-10 |
+| Pain Management Centers Of America | Treatment Complete | 2023-09-21 | 2023-11-10 | $4,527.00 |  | 2024-12-23 |  | 2024-12-23 |
+| Capitol Pain Institute of Kentucky | No Records Found |  |  |  |  | 2024-10-07 |  | 2024-10-07 |
+| Louisville Emergency Medical Associates | Treatment Complete | 2023-09-14 | 2023-09-14 | $1,334.00 |  | 2024-10-07 |  | 2024-10-07 |
+| Baptist Health Medical Group Internal Medicine | Treatment Complete | 2023-09-22 | 2023-09-22 | $243.00 |  | 2024-08-08 |  | 2024-08-08 |
+| UofL Medical Center East | Treatment Complete | 2023-09-20 | 2023-09-20 | $4,221.00 |  | 2024-08-21 |  | 2024-08-21 |
+| Baptist Hospital East | Treatment Complete | 2023-09-14 | 2023-09-14 | $18,834.73 |  | 2024-08-12 |  | 2024-08-12 |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/sharon-wills|Sharon Wills]]
 

@@ -19,6 +19,19 @@ date_of_incident: "2025-09-24"
 - [[contacts/starlite-chiropractic|Starlite Chiropractic]]
 - [[contacts/synergy-injury-care-rehab-diagnostics|Synergy Injury Care & Rehab Diagnostics]]
 - [[contacts/uofl-health-mary-elizabeth-mary-elizabeth-hospital|UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital]]
+- [[contacts/synergy-injury-care-and-rehab-diagnostics|Synergy Injury Care & Rehab Diagnostics]]
+- [[contacts/uofl-health-mary-and-elizabeth-mary-and-elizabeth-hospital|UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Art Jacob Prescription Shoppe | Treatment Complete |  |  | $244.44 |  | 2026-01-27 |  |  |
+| Synergy Injury Care & Rehab Diagnostics | Treatment Complete |  |  | $4,768.00 | 2026-02-09 | 2026-02-13 | 2026-02-09 |  |
+| Southeastern Emergency Physician Services | Treatment Complete | 2025-09-24 | 2025-09-24 | $1,266.00 |  | 2025-10-23 |  |  |
+| UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital | Treatment Complete | 2025-09-24 | 2025-09-24 | $3,967.00 |  | 2025-10-23 |  | 2025-11-04 |
+| Starlite Chiropractic | Treatment Complete | 2025-09-30 | 2025-11-04 | $6,240.00 |  |  |  | 2026-02-11 |
+<!-- roscoe-medical-end -->
 
 ## Adjusters
 - [[contacts/valerie-marlatt|Valerie Marlatt]]

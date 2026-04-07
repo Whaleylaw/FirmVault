@@ -17,6 +17,16 @@ date_of_incident: "2025-04-02"
 - [[contacts/kentuckiana-foot-ankle-sports-medicine|Kentuckiana Foot & Ankle Sports Medicine]]
 - [[contacts/norton-orthopedic-institute-audubon|Norton Orthopedic Institute - Audubon]]
 - [[contacts/uk-albert-chandler-hospital|UK Albert Chandler Hospital]]
+- [[contacts/kentuckiana-foot-and-ankle-sports-medicine|Kentuckiana Foot & Ankle Sports Medicine]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Norton Orthopedic Institute - Audubon | Treatment Complete | 2025-04-08 | 2025-04-08 |  | 2025-07-10 |  | 2025-07-10 |  |
+| UK Albert Chandler Hospital | Treatment Complete | 2025-04-02 | 2025-04-02 | $5,560.68 | 2025-06-17 | 2025-07-22 | 2025-06-17 | 2025-07-22 |
+| Kentuckiana Foot & Ankle Sports Medicine | Treatment Complete | 2025-04-07 | 2025-05-08 | $2,172.00 |  |  |  |  |
+<!-- roscoe-medical-end -->
 
 ## Insurance Claims
 - [[claims/bi-west-bend-mutual-insurance|BI — West Bend Mutual Insurance]] — Claim #AS13802 (no_demand)

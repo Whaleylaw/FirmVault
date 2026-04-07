@@ -20,6 +20,17 @@ date_of_incident: "2025-07-30"
 - [[contacts/a-plus-chiropractic|A Plus Chiropractic]]
 - [[contacts/primary-express-care-wellness|Primary Express Care + Wellness]]
 - [[contacts/primary-express-care-wellness|Primary Express Care + Wellness]]
+- [[contacts/art-jacob-prescription-shoppe|Art Jacob Prescription Shoppe]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Art Jacob Prescription Shoppe | Treatment Complete |  |  | $294.98 |  | 2026-03-19 |  |  |
+| 1st Diagnostics | Treatment Complete |  |  |  |  |  |  | 2025-10-01 |
+| Primary Express Care + Wellness | Treatment Complete | 2025-09-09 | 2025-11-20 | $5,349.00 |  | 2025-12-01 |  | 2025-12-01 |
+| A Plus Chiropractic | Treatment Complete | 2025-08-05 | 2025-09-22 | $7,812.00 | 2026-01-28 |  | 2026-01-28 | 2026-01-28 |
+<!-- roscoe-medical-end -->
 
 ## Adjusters
 - [[contacts/kimberlyn-holden|Kimberlyn Holden]]

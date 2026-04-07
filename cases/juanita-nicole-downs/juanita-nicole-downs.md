@@ -24,6 +24,21 @@ date_of_incident: "2021-04-16"
 - [[contacts/university-of-louisville-hospital|University of Louisville Hospital]]
 - [[contacts/university-of-louisville-physicians|University of Louisville Physicians]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Modern Chiropractic And Injury Care | Treatment Complete |  |  | $0.00 | 2023-03-30 | 2023-03-30 | 2023-03-30 | 2023-03-30 |
+| KORT Physical Therapy | Treatment Complete | 2021-05-11 | 2021-07-20 | $2,568.00 | 2023-03-30 | 2023-04-07 | 2023-03-30 | 2023-04-07 |
+| ULP Podiatry | Treatment Complete |  |  |  | 2023-03-30 |  | 2023-03-30 |  |
+| University of Louisville Physicians |  |  |  |  |  |  |  |  |
+| University Of Louisville Hospital Radiology |  |  |  | $44.00 | 2023-03-30 |  | 2023-03-30 |  |
+| University of Louisville Hospital | Treatment Complete | 2021-04-16 | 2021-04-19 | $55,669.41 | 2023-03-30 |  | 2023-03-30 |  |
+| Louisville Metro EMS |  |  |  | $632.40 | 2023-03-30 |  | 2023-03-30 |  |
+| Kentucky Injury Chiropractic And Rehabilitation | Treatment Complete |  | 2021-11-22 |  | 2021-11-22 |  | 2023-03-30 |  |
+| Gould's Discount Medical | Treatment Complete |  |  | $229.72 | 2023-03-30 |  | 2023-03-30 |  |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/beth-freeman|Beth Freeman]]
 - [[contacts/patrice-gaines|Patrice Gaines]]

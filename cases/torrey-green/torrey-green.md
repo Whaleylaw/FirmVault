@@ -18,6 +18,15 @@ date_of_incident: "2025-09-03"
 - [[contacts/starlite-chiropractic|Starlite Chiropractic]]
 - [[contacts/university-of-louisville-hospital|University of Louisville Hospital]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| University of Louisville Hospital | Treatment Complete |  |  | $22,884.58 | 2025-11-06 | 2025-12-01 | 2025-11-06 | 2025-12-01 |
+| Starlite Chiropractic | Treatment Complete |  |  | $1,665.00 |  | 2025-10-06 |  | 2025-10-06 |
+| Louisville Metro Emergency Medical Service | Treatment Complete |  |  |  | 2025-09-24 |  | 2025-09-24 |  |
+<!-- roscoe-medical-end -->
+
 ## Attorneys
 - [[contacts/the-whaley-law-firm|The Whaley Law Firm]]
 

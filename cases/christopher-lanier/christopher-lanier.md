@@ -16,6 +16,13 @@ date_of_incident: "2025-06-28"
 ## Medical Providers
 - [[contacts/allstar-chiropractic|Allstar Chiropractic]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Allstar Chiropractic | Treatment Complete | 2025-08-04 | 2025-08-15 | $1,130.00 | 2025-10-30 | 2025-11-06 | 2025-10-30 | 2025-11-06 |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/national-general|National General]]
 - [[contacts/everado-valle|Everado Valle]]

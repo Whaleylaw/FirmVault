@@ -17,6 +17,14 @@ date_of_incident: "2025-08-02"
 - [[contacts/starlite-chiropractic|Starlite Chiropractic]]
 - [[contacts/university-of-louisville-hospital|University of Louisville Hospital]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Starlite Chiropractic | Actively Treating |  |  |  |  |  |  |  |
+| University of Louisville Hospital | Treatment Complete | 2025-08-02 | 2025-08-02 | $20,933.00 | 2025-08-05 | 2025-09-04 | 2025-08-05 | 2025-09-04 |
+<!-- roscoe-medical-end -->
+
 ## Insurance Claims
 - [[claims/bi-allstate-insurance|BI — Allstate Insurance]] (no_demand)
 

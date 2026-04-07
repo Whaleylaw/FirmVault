@@ -25,6 +25,26 @@ date_of_incident: "2023-05-03"
 - [[contacts/university-of-louisville-hospital|University of Louisville Hospital]]
 - [[contacts/university-of-louisville-physicians|University of Louisville Physicians]]
 - [[contacts/uofl-physicians-podiatric-medicine-surgery|UofL Physicians - Podiatric Medicine & Surgery]]
+- [[contacts/louisville-bone-and-joint-specialists|Louisville Bone & Joint Specialists]]
+- [[contacts/anchorage-middletown-fire-and-ems|Anchorage Middletown Fire & EMS]]
+- [[contacts/uofl-physicians-podiatric-medicine-and-surgery|UofL Physicians - Podiatric Medicine & Surgery]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Mohana Arla | Actively Treating |  |  |  | 2024-12-26 |  |  | 2025-02-28 |
+| Louisville Bone & Joint Specialists | Prior |  |  |  |  | 2025-01-08 |  | 2025-01-08 |
+| University of Louisville Physicians |  |  |  |  |  | 2024-09-21 |  |  |
+| M. Joseph Medical |  |  |  |  | 2024-09-19 |  | 2024-09-19 |  |
+| ULP Radiological Associates | Treatment Complete |  |  | $269.00 |  | 2024-10-18 |  | 2024-10-18 |
+| Anchorage Middletown Fire & EMS | Treatment Complete | 2023-05-03 | 2023-05-03 | $1,007.90 |  | 2024-09-30 |  | 2024-09-30 |
+| Kentucky Truck Plant Medical | Treatment Complete |  |  | $0.00 | 2024-04-02 |  |  | 2024-04-11 |
+| KORT Physical Therapy | Treatment Complete |  |  | $3,460.00 |  | 2024-04-11 |  | 2024-04-11 |
+| University of Louisville Hospital | Treatment Complete | 2023-05-03 | 2023-05-04 |  | 2024-04-02 |  |  | 2024-04-23 |
+| OasisSpace | Treatment Complete |  |  |  | 2024-04-02 |  | 2024-04-02 |  |
+| UofL Physicians - Podiatric Medicine & Surgery | Actively Treating |  |  |  | 2024-04-02 |  |  | 2024-07-01 |
+<!-- roscoe-medical-end -->
 
 ## Adjusters
 - [[contacts/dana-ballinger|Dana Ballinger]]

@@ -19,6 +19,16 @@ date_of_incident: "2024-12-01"
 - [[contacts/university-of-cincinnati-medical-center|University of Cincinnati Medical Center]]
 - [[contacts/university-of-cincinnati-physicians|University of Cincinnati Physicians]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| University of Cincinnati Physicians | Treatment Complete |  |  |  | 2025-01-06 |  |  | 2025-10-29 |
+| Radiology Associates of Northern Kentucky, PLLC | No Records Found |  |  |  |  |  |  |  |
+| Aptiva Health | Treatment Complete | 2024-12-13 | 2025-03-17 | $9,555.00 |  |  |  |  |
+| University of Cincinnati Medical Center | Treatment Complete | 2024-12-01 | 2024-12-01 | $12,990.37 | 2024-12-09 | 2025-01-03 | 2024-12-09 | 2025-01-03 |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/emily-pernice|Emily Pernice]]
 - [[contacts/jennifer-howard|Jennifer Howard]]

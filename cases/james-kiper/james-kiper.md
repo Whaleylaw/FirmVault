@@ -19,6 +19,19 @@ date_of_incident: "2022-12-05"
 - [[contacts/synergy-injury-care-rehab-diagnostics|Synergy Injury Care & Rehab Diagnostics]]
 - [[contacts/the-state-pharmacy-inc|The State Pharmacy, Inc.]]
 - [[contacts/uofl-health-mary-elizabeth-mary-elizabeth-hospital|UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital]]
+- [[contacts/synergy-injury-care-and-rehab-diagnostics|Synergy Injury Care & Rehab Diagnostics]]
+- [[contacts/uofl-health-mary-and-elizabeth-mary-and-elizabeth-hospital|UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Foundation Radiology | Treatment Complete | 2022-12-05 | 2022-12-05 | $88.00 |  | 2024-04-03 |  | 2024-04-03 |
+| Southeastern Emergency Physician Services | Treatment Complete | 2022-12-05 | 2022-12-05 | $1,673.00 | 2024-04-02 |  | 2024-04-02 |  |
+| The State Pharmacy, Inc. | Treatment Complete | 2022-12-12 | 2023-02-20 | $465.25 |  | 2024-04-02 |  | 2024-04-02 |
+| Synergy Injury Care & Rehab Diagnostics | Treatment Complete | 2022-12-08 | 2023-03-23 | $13,401.00 |  | 2024-04-08 |  | 2024-04-08 |
+| UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital | Treatment Complete | 2022-12-05 | 2022-12-05 | $2,598.00 | 2024-04-02 |  |  | 2024-04-24 |
+<!-- roscoe-medical-end -->
 
 ## Adjusters
 - [[contacts/conduent|Conduent]]

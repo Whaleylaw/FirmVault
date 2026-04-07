@@ -19,6 +19,20 @@ date_of_incident: "2023-08-29"
 - [[contacts/university-of-louisville-hospital|University of Louisville Hospital]]
 - [[contacts/university-of-louisville-physicians|University of Louisville Physicians]]
 - [[contacts/virtual-radiologic-professionals|Virtual Radiologic Professionals]]
+- [[contacts/ameripro-ems-of-kentucky-and-indiana|AmeriPro EMS Of Kentucky & Indiana]]
+- [[contacts/ulp-radiological-associates|ULP Radiological Associates]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| AmeriPro EMS Of Kentucky & Indiana | Treatment Complete | 2023-08-29 | 2023-08-29 | $2,279.00 |  | 2024-12-27 |  | 2024-12-27 |
+| Virtual Radiologic Professionals | Treatment Complete |  |  | $353.00 | 2024-12-03 |  | 2024-12-03 |  |
+| ULP Radiological Associates | Treatment Complete | 2023-08-29 | 2023-08-29 | $24.00 | 2024-12-03 |  |  | 2024-12-10 |
+| University of Louisville Physicians | Treatment Complete |  |  | $680.00 | 2024-12-03 |  | 2024-12-03 |  |
+| Starlite Chiropractic | Treatment Complete | 2023-08-30 | 2023-10-12 | $10,970.00 |  | 2024-12-19 |  | 2024-12-19 |
+| University of Louisville Hospital | Treatment Complete | 2023-08-29 | 2023-08-29 | $17,065.40 | 2024-12-03 |  | 2024-12-03 |  |
+<!-- roscoe-medical-end -->
 
 ## Adjusters
 - [[contacts/aaron-lovato|Aaron Lovato]]

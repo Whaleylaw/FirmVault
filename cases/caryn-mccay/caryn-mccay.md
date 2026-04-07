@@ -27,6 +27,30 @@ date_of_incident: "2023-07-30"
 - [[contacts/revive-chiropractic-centers|Revive Chiropractic Centers]]
 - [[contacts/uk-albert-chandler-hospital|UK Albert Chandler Hospital]]
 - [[contacts/uk-good-samaritan-hospital|UK Good Samaritan Hospital]]
+- [[contacts/cardinal-hill-physical-medicine-and-rehabilitation|Cardinal Hill Physical Medicine & Rehabilitation]]
+- [[contacts/danville-orthopaedic-and-sports-medicine|Danville Orthopaedic & Sports Medicine]]
+- [[contacts/commonwealth-hand-and-physical-therapy|Commonwealth Hand & Physical Therapy]]
+- [[contacts/lexington-fire-and-ems|Lexington Fire & EMS]]
+- [[contacts/ephraim-mcdowell-family-and-internal-medicine|Ephraim McDowell Family & Internal Medicine]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Cardinal Hill Physical Medicine & Rehabilitation | Treatment Complete | 2024-03-19 | 2024-04-16 |  | 2024-06-19 |  | 2024-06-19 | 2024-07-15 |
+| UK Good Samaritan Hospital | No Records Found |  |  |  | 2024-06-19 |  | 2024-06-19 |  |
+| Lexington Diagnostic Center | Treatment Complete | 2024-02-05 | 2024-03-12 | $2,985.80 | 2024-04-16 | 2024-04-16 | 2024-04-16 | 2024-04-16 |
+| Ephraim McDowell Regional Medical Center | Treatment Complete |  |  | $4,646.75 |  |  |  |  |
+| Danville Orthopaedic & Sports Medicine | No Records Found |  |  |  | 2024-01-29 |  | 2024-01-29 |  |
+| Ephraim McDowell Central Kentucky Surgeons | Treatment Complete | 2024-01-11 | 2024-01-25 | $320.00 |  | 2024-01-26 |  | 2024-01-26 |
+| Commonwealth Hand & Physical Therapy | Treatment Complete | 2023-10-30 | 2023-12-14 | $3,453.00 | 2024-03-11 | 2024-04-09 | 2024-03-11 | 2024-04-09 |
+| Revive Chiropractic Centers | Treatment Complete |  |  | $4,360.00 | 2024-02-13 | 2024-02-22 | 2024-02-13 | 2024-02-22 |
+| Lexington Fire & EMS | Treatment Complete | 2023-07-30 | 2023-07-30 | $911.25 | 2023-10-12 | 2023-10-20 | 2023-10-12 | 2023-10-20 |
+| Athletico Physical Therapy - Lexington | No Records Found |  |  |  | 2023-11-21 |  | 2023-11-21 |  |
+| Kentucky Medical Services Foundation | Treatment Complete | 2023-07-30 | 2023-07-30 | $2,202.00 | 2023-10-03 | 2023-10-06 |  |  |
+| UK Albert Chandler Hospital | Treatment Complete | 2023-07-30 | 2023-07-31 | $45,830.64 |  | 2023-09-28 |  | 2023-10-06 |
+| Ephraim McDowell Family & Internal Medicine | Treatment Complete |  |  | $320.00 | 2024-03-26 | 2023-10-27 |  | 2023-10-27 |
+<!-- roscoe-medical-end -->
 
 ## Adjusters
 - [[contacts/daniel-long|Daniel Long]]

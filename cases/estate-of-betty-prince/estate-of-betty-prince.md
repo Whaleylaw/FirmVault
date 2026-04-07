@@ -20,6 +20,16 @@ date_of_incident: "2020-07-14"
 - [[contacts/norton-hospital-downtown|Norton Hospital Downtown]]
 - [[contacts/southern-emergency-medical-specialists|Southern Emergency Medical Specialists]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Kindred at Home | Treatment Complete | 2020-07-23 | 2021-03-29 | $19,484.81 | 2022-04-13 |  | 2022-03-09 | 2022-05-16 |
+| Diagnostic Imaging Alliance of Louisville | Treatment Complete | 2020-07-14 | 2020-07-29 | $428.00 |  |  |  |  |
+| Norton Hospital Downtown | Treatment Complete | 2020-07-14 | 2020-07-29 | $23,396.09 |  |  |  |  |
+| Southern Emergency Medical Specialists | Treatment Complete | 2020-07-14 | 2020-07-14 | $1,225.00 |  |  |  |  |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/humana|Humana]]
 - [[contacts/humana|Humana]]

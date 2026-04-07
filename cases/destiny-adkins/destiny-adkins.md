@@ -18,6 +18,15 @@ date_of_incident: "2021-04-16"
 - [[contacts/university-of-louisville-hospital|University of Louisville Hospital]]
 - [[contacts/university-of-louisville-physicians|University of Louisville Physicians]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| University of Louisville Physicians | Treatment Complete | 2021-04-17 | 2021-04-17 | $1,084.00 | 2022-02-23 |  |  |  |
+| University Of Louisville Hospital Radiology |  |  |  |  | 2022-02-23 |  |  |  |
+| University of Louisville Hospital | Treatment Complete | 2021-04-17 | 2021-04-17 | $18,943.91 | 2022-03-30 | 2022-04-07 | 2022-02-23 | 2022-03-02 |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/allstate-insurance|Allstate Insurance]]
 - [[contacts/conduent|Conduent]]

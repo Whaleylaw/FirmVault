@@ -20,6 +20,19 @@ date_of_incident: "2023-01-16"
 - [[contacts/linton-spine-joint-chiropractic-center|Linton Spine & Joint Chiropractic Center]]
 - [[contacts/st-joseph-hospital-mount-sterling|St. Joseph Hospital Mount Sterling]]
 - [[contacts/sterling-health-care-mt-sterling|Sterling Health Care - Mt. Sterling]]
+- [[contacts/linton-spine-and-joint-chiropractic-center|Linton Spine & Joint Chiropractic Center]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| St. Joseph Hospital Mount Sterling | Treatment Complete | 2024-03-15 | 2024-03-15 | $10,110.00 | 2024-07-30 | 2024-09-10 | 2024-07-30 | 2024-08-01 |
+| Baptist Health Medical Group Neurology | No Records Found |  |  |  | 2024-08-05 |  | 2024-08-05 |  |
+| Sterling Health Care - Mt. Sterling | Unrelated | 2024-07-14 | 2024-05-15 |  | 2024-07-05 |  | 2024-07-05 |  |
+| Linton Spine & Joint Chiropractic Center | Treatment Complete | 2023-12-21 | 2024-03-15 | $918.00 | 2023-12-29 | 2024-02-22 | 2023-12-29 |  |
+| Clark Emergency Physicians | Treatment Complete | 2023-01-17 | 2023-01-17 | $247.00 |  | 2023-06-29 |  |  |
+| Clark Regional Medical Center | Treatment Complete | 2023-01-17 | 2023-01-17 | $32,087.09 | 2023-01-25 | 2023-01-26 | 2023-01-25 | 2023-01-26 |
+<!-- roscoe-medical-end -->
 
 ## Adjusters
 - [[contacts/alyssa-howland|Alyssa Howland]]

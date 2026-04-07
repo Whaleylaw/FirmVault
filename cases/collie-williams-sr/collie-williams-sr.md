@@ -17,6 +17,14 @@ date_of_incident: "2025-11-24"
 - [[contacts/starlite-chiropractic|Starlite Chiropractic]]
 - [[contacts/university-of-louisville-hospital|University of Louisville Hospital]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Starlite Chiropractic | Treatment Complete |  |  | $14,125.00 |  | 2026-03-02 |  | 2026-03-02 |
+| University of Louisville Hospital | Treatment Complete |  |  | $4,348.00 | 2026-01-21 | 2026-02-11 | 2026-01-21 | 2026-02-02 |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/heather-risch|Heather Risch]] (State Farm Insurance Company)
 - [[contacts/state-farm-pip-team|State Farm PIP Team]] (State Farm Insurance Company)

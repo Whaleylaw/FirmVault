@@ -16,6 +16,13 @@ date_of_incident: "2024-10-02"
 ## Medical Providers
 - [[contacts/starlite-chiropractic|Starlite Chiropractic]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Starlite Chiropractic | Treatment Complete |  |  | $1,280.00 |  | 2025-06-27 |  |  |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/cole-barnes|Cole Barnes]]
 - [[contacts/emily-friedrich|Emily Friedrich]]

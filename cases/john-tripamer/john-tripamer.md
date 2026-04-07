@@ -20,6 +20,15 @@ date_of_incident: "2026-02-06"
 - [[contacts/starlite-chiropractic|Starlite Chiropractic]]
 - [[contacts/university-of-louisville-hospital|University of Louisville Hospital]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Starlite Chiropractic | Actively Treating |  |  |  |  |  |  |  |
+| Louisville Metro EMS | Treatment Complete |  |  |  |  |  |  |  |
+| University of Louisville Hospital | Treatment Complete |  |  | $5,654.00 |  | 2026-03-12 |  |  |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/paul-stice|Paul Stice]] (Erie Insurance Group)
 - [[contacts/rayshawnna-shelby|Rayshawnna Shelby]]

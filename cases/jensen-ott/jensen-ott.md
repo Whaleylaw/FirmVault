@@ -16,6 +16,13 @@ date_of_incident: "2025-08-06"
 ## Medical Providers
 - [[contacts/starlite-chiropractic|Starlite Chiropractic]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Starlite Chiropractic | Treatment Complete | 2025-08-13 | 2025-10-15 | $3,270.00 |  | 2025-11-11 |  | 2025-11-11 |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/josh-white|Josh White]]
 

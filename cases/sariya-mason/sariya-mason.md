@@ -16,6 +16,15 @@ date_of_incident: "2022-08-19"
 ## Medical Providers
 - [[contacts/thr-pediatrics-wellness-center|THR PEDIATRICS & WELLNESS CENTER]]
 - [[contacts/ul-msw-medical-center-southwest|UL MSW Medical Center Southwest]]
+- [[contacts/thr-pediatrics-and-wellness-center|THR PEDIATRICS & WELLNESS CENTER]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| THR PEDIATRICS & WELLNESS CENTER | Treatment Complete | 2022-08-25 | 2022-08-25 | $120.00 | 2023-05-26 | 2023-06-01 | 2022-12-13 | 2022-12-14 |
+| UL MSW Medical Center Southwest | Treatment Complete |  |  | $1,205.00 | 2023-05-29 | 2023-06-07 | 2023-05-29 |  |
+<!-- roscoe-medical-end -->
 
 ## Adjusters
 - [[contacts/anthem-blue-cross-blue-shield|Anthem Blue Cross Blue Shield]]

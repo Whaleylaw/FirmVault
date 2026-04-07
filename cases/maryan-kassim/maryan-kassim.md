@@ -23,6 +23,19 @@ date_of_incident: "2024-08-06"
 - [[contacts/university-of-louisville-hospital|University of Louisville Hospital]]
 - [[contacts/university-of-louisville-school-of-dentistry|University of Louisville School of Dentistry]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Diagnostic X-ray Physicians | Treatment Complete | 2024-08-06 | 2024-08-06 | $852.00 | 2024-11-11 | 2024-11-19 |  |  |
+| University Of Louisville Hospital Radiology | Treatment Complete | 2024-08-07 | 2024-08-07 | $29.00 | 2024-11-04 |  |  |  |
+| University of Louisville Hospital | Treatment Complete | 2024-08-06 | 2024-08-06 | $1,612.00 |  | 2024-10-10 |  | 2024-10-10 |
+| Starlite Chiropractic | Treatment Complete | 2024-08-08 | 2024-10-10 | $8,185.00 | 2024-10-18 | 2024-11-04 | 2024-10-18 | 2024-11-04 |
+| University of Louisville School of Dentistry | Treatment Complete |  |  |  | 2025-10-29 | 2025-11-12 | 2025-10-29 | 2025-11-12 |
+| Norton Audubon Hospital | Treatment Complete | 2024-08-06 | 2024-08-06 | $17,545.79 | 2024-08-14 | 2024-09-11 | 2024-08-14 | 2024-09-11 |
+| Louisville Metro Emergency Medical Service | Treatment Complete | 2024-08-06 | 2024-08-06 | $642.20 | 2024-08-14 | 2024-09-11 | 2024-08-14 | 2024-09-11 |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/brandi-chappell-haggard|Brandi Chappell-Haggard]]
 - [[contacts/keri-hall|Keri Hall]]

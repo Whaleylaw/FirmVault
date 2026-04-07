@@ -16,6 +16,13 @@ date_of_incident: "2025-05-27"
 ## Medical Providers
 - [[contacts/starlite-chiropractic|Starlite Chiropractic]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Starlite Chiropractic |  |  |  |  |  |  |  |  |
+<!-- roscoe-medical-end -->
+
 ## Insurance Claims
 - [[claims/pip-unknown|PIP]] (no_demand)
 - [[claims/-elco-insurance| — Elco Insurance]]

@@ -17,6 +17,16 @@ date_of_incident: "2025-06-18"
 - [[contacts/southeastern-emergency-services-llc|Southeastern Emergency Services, LLC]]
 - [[contacts/starlite-chiropractic|Starlite Chiropractic]]
 - [[contacts/uofl-health-mary-elizabeth-mary-elizabeth-hospital|UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital]]
+- [[contacts/uofl-health-mary-and-elizabeth-mary-and-elizabeth-hospital|UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Southeastern Emergency Services, LLC | Treatment Complete | 2025-06-18 | 2025-06-18 | $1,798.00 |  | 2025-07-08 |  |  |
+| UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital | Treatment Complete |  |  | $10,838.20 | 2025-10-29 | 2025-10-31 | 2025-10-29 | 2025-11-24 |
+| Starlite Chiropractic | Treatment Complete |  |  | $10,360.00 |  | 2025-09-10 |  | 2025-09-10 |
+<!-- roscoe-medical-end -->
 
 ## Adjusters
 - [[contacts/danelle-lendsey|Danelle Lendsey]]

@@ -26,6 +26,21 @@ date_of_incident: "2024-02-15"
 - [[contacts/uofl-health-mary-elizabeth-mary-elizabeth-hospital|UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital]]
 - [[contacts/uofl-health-mary-elizabeth-hospital|UofL Health – Mary & Elizabeth Hospital]]
 - [[contacts/uofl-health-uofl-hospital-emergency-room|UofL Health – UofL Hospital Emergency Room]]
+- [[contacts/uofl-health-mary-and-elizabeth-mary-and-elizabeth-hospital|UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| University of Louisville Physicians | No Records Found |  |  |  |  |  |  |  |
+| UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital | Treatment Complete | 2024-02-15 | 2024-02-15 | $8,730.00 | 2024-08-26 |  |  | 2024-09-24 |
+| ULP Radiological Associates | Treatment Complete |  |  | $359.00 |  | 2025-01-21 |  | 2024-08-20 |
+| Pleasure Ridge Park Fire/EMS | Treatment Complete | 2024-02-15 | 2024-02-15 | $721.00 |  | 2024-10-01 |  | 2024-10-01 |
+| Heartland Imaging - Dixie | Treatment Complete | 2024-03-14 | 2024-03-14 |  | 2024-07-23 |  |  | 2024-08-20 |
+| Aptiva Health | Treatment Complete | 2024-04-02 | 2024-09-18 | $5,480.00 |  | 2024-09-30 |  | 2024-09-30 |
+| University of Louisville Hospital | Treatment Complete | 2024-03-16 | 2024-03-16 | $1,302.00 |  | 2024-08-26 |  | 2024-08-26 |
+| Starlite Chiropractic | Treatment Complete |  |  | $7,915.00 |  | 2024-10-07 |  | 2024-10-07 |
+<!-- roscoe-medical-end -->
 
 ## Adjusters
 - [[contacts/brenna-rine|Brenna Rine]]

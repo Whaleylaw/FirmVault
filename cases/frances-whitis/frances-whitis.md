@@ -19,6 +19,16 @@ date_of_incident: "2024-09-06"
 - [[contacts/frankfort-fire-ems|Frankfort Fire & EMS]]
 - [[contacts/frankfort-regional-medical-center|Frankfort Regional Medical Center]]
 - [[contacts/medicare|Medicare]]
+- [[contacts/frankfort-fire-and-ems|Frankfort Fire & EMS]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Family Care Of The Bluegrass - East | Treatment Complete | 2024-09-10 | 2024-12-05 | $858.00 |  | 2025-03-10 |  | 2025-03-10 |
+| Frankfort Fire & EMS | Treatment Complete |  |  |  | 2025-02-28 |  |  | 2025-03-06 |
+| Frankfort Regional Medical Center | Treatment Complete | 2024-09-06 | 2024-09-19 | $31,414.07 | 2025-02-28 | 2025-06-10 |  | 2025-03-12 |
+<!-- roscoe-medical-end -->
 
 ## Adjusters
 - [[contacts/amanda-clemons|Amanda Clemons]]

@@ -18,6 +18,17 @@ date_of_incident: "2025-04-10"
 - [[contacts/southeastern-emergency-services-llc|Southeastern Emergency Services, LLC]]
 - [[contacts/starlite-chiropractic|Starlite Chiropractic]]
 - [[contacts/uofl-health-mary-elizabeth-mary-elizabeth-hospital|UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital]]
+- [[contacts/uofl-health-mary-and-elizabeth-mary-and-elizabeth-hospital|UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Foundation Radiology Group, PC | Treatment Complete |  |  |  |  | 2025-04-15 |  | 2025-04-15 |
+| Southeastern Emergency Services, LLC | Treatment Complete |  |  |  | 2025-04-15 |  | 2025-04-15 |  |
+| Starlite Chiropractic | Actively Treating |  |  |  |  |  |  |  |
+| UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital | Treatment Complete |  |  |  | 2025-04-15 |  | 2025-04-15 |  |
+<!-- roscoe-medical-end -->
 
 ## Insurance Claims
 - [[claims/pip-progressive-insurance-company|PIP — Progressive Insurance Company]] — Claim #25806894629 (no_demand)

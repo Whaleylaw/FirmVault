@@ -21,6 +21,18 @@ date_of_incident: "2024-10-24"
 - [[contacts/prorehab-prospect|ProRehab Prospect]]
 - [[contacts/william-haney|William Haney]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Norton Hospital Emergency Medical Associates (ER) | Treatment Complete | 2024-10-24 | 2024-10-24 | $381.00 |  |  |  |  |
+| Diagnostic Imaging Alliance of Louisville | Treatment Complete | 2024-10-24 | 2024-10-24 | $346.00 | 2026-01-13 | 2026-01-15 |  |  |
+| William Haney | Treatment Complete |  |  |  | 2026-01-13 |  | 2026-01-13 |  |
+| Baptist Health Medical Group Neurology | Treatment Complete |  |  |  | 2026-01-13 |  | 2026-01-13 |  |
+| ProRehab Prospect | Treatment Complete | 2024-12-17 | 2025-01-20 | $6,232.00 | 2026-01-12 | 2026-01-20 | 2026-01-12 |  |
+| Norton Hospital - Brownsboro | Treatment Complete | 2024-10-24 | 2024-10-24 | $10,965.55 | 2026-01-13 | 2026-01-27 | 2026-01-13 | 2026-01-27 |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/american-family-insurance|American Family Insurance]]
 - [[contacts/laura-zahringer|Laura Zahringer]]

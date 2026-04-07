@@ -22,6 +22,19 @@ date_of_incident: "2023-04-18"
 - [[contacts/university-of-louisville-hospital-radiology|University Of Louisville Hospital Radiology]]
 - [[contacts/university-of-louisville-physicians|University of Louisville Physicians]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| University Of Louisville Hospital Radiology | Treatment Complete | 2023-04-18 | 2023-04-18 |  | 2024-10-08 |  | 2024-10-08 |  |
+| Family Health Centers - Portland | Prior |  |  |  |  | 2024-09-16 |  | 2024-09-16 |
+| Integra Medical Imaging | Treatment Complete | 2023-06-07 | 2023-06-07 | $3,300.00 |  | 2024-04-09 |  | 2024-04-09 |
+| University of Louisville Physicians | Treatment Complete | 2023-04-18 | 2023-04-18 | $680.00 | 2024-04-05 |  | 2024-04-05 |  |
+| Jewish Hospital | Treatment Complete | 2023-04-18 | 2023-04-18 | $1,780.00 |  | 2024-04-24 |  | 2024-06-11 |
+| Starlite Chiropractic | Treatment Complete | 2023-04-20 | 2023-06-21 | $7,240.00 |  | 2024-07-24 |  | 2024-07-24 |
+| Louisville Metro EMS | Treatment Complete | 2023-04-18 | 2023-04-18 | $646.40 |  | 2024-04-23 |  | 2024-04-23 |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/amy-cox|Amy Cox]]
 - [[contacts/auto-owners-insurance|Auto Owners Insurance]]

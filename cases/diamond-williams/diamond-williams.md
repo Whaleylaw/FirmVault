@@ -17,6 +17,16 @@ date_of_incident: "2025-12-23"
 - [[contacts/baptist-health-medical-group-orthopedics-sports-medicine|Baptist Health Medical Group Orthopedics & Sports Medicine]]
 - [[contacts/norton-hospital-downtown|Norton Hospital Downtown]]
 - [[contacts/prorehab|ProRehab]]
+- [[contacts/baptist-health-medical-group-orthopedics-and-sports-medicine|Baptist Health Medical Group Orthopedics & Sports Medicine]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| ProRehab |  |  |  |  |  |  |  |  |
+| Baptist Health Medical Group Orthopedics & Sports Medicine | Actively Treating |  |  |  |  |  |  |  |
+| Norton Hospital Downtown | Treatment Complete |  |  |  |  |  |  |  |
+<!-- roscoe-medical-end -->
 
 ## Adjusters
 - [[contacts/sarah-munson|Sarah Munson]] (Progressive Insurance Company)

@@ -18,6 +18,13 @@ date_of_incident: "2020-12-07"
 ## Medical Providers
 - [[contacts/dr-david-winslow|Dr. David Winslow]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Dr. David Winslow | Treatment Complete |  |  |  | 2022-05-27 |  | 2022-05-27 |  |
+<!-- roscoe-medical-end -->
+
 ## Insurance Claims
 - [[claims/bi-unknown|BI]] (no_demand)
 

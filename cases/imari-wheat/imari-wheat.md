@@ -13,6 +13,16 @@ date_of_incident: "2026-01-23"
 **Status:** onboarding | **Type:** auto_accident | **Jurisdiction:** KY
 **Case #:** 2026-01-23-MVA-001
 
+## Medical Providers
+- [[contacts/starlite-chiropractic|Starlite Chiropractic]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Starlite Chiropractic | Actively Treating |  |  |  | 2026-03-24 |  | 2026-03-24 |  |
+<!-- roscoe-medical-end -->
+
 ## Insurance Claims
 - [[claims/bi-state-farm-insurance-company|BI — State Farm Insurance Company]] — Claim #1795T529B (no_demand)
 - [[claims/pip-usaa-insurance-company|PIP — USAA Insurance Company]]

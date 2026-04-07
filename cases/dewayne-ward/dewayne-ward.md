@@ -17,6 +17,16 @@ date_of_incident: "2023-08-29"
 - [[contacts/ameripro-ems-of-kentucky-indiana|AmeriPro EMS Of Kentucky & Indiana]]
 - [[contacts/starlite-chiropractic|Starlite Chiropractic]]
 - [[contacts/university-of-louisville-hospital|University of Louisville Hospital]]
+- [[contacts/ameripro-ems-of-kentucky-and-indiana|AmeriPro EMS Of Kentucky & Indiana]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| AmeriPro EMS Of Kentucky & Indiana | No Records Found |  |  |  | 2024-12-20 |  | 2024-12-20 |  |
+| University of Louisville Hospital |  |  |  |  | 2024-12-20 |  | 2024-12-20 |  |
+| Starlite Chiropractic | Treatment Complete | 2023-08-30 | 2023-10-30 | $12,130.00 | 2024-12-20 |  | 2024-12-20 |  |
+<!-- roscoe-medical-end -->
 
 ## Adjusters
 - [[contacts/aaron-lovato|Aaron Lovato]]

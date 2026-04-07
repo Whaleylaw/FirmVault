@@ -16,6 +16,15 @@ date_of_incident: "2025-10-24"
 ## Medical Providers
 - [[contacts/starlite-chiropractic|Starlite Chiropractic]]
 - [[contacts/uofl-health-mary-elizabeth-mary-elizabeth-hospital|UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital]]
+- [[contacts/uofl-health-mary-and-elizabeth-mary-and-elizabeth-hospital|UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital | Treatment Complete |  |  |  |  |  |  |  |
+| Starlite Chiropractic | Actively Treating |  |  |  |  |  |  |  |
+<!-- roscoe-medical-end -->
 
 ## Adjusters
 - [[contacts/kristi-hanks|Kristi Hanks]] (State Farm Insurance Company)

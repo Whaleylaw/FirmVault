@@ -20,6 +20,17 @@ date_of_incident: "2023-10-01"
 - [[contacts/ul-health-primary-care|UL Health Primary Care]]
 - [[contacts/zip-clinic-urgent-care|Zip Clinic Urgent Care]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Radiology Associates Inc | Unrelated |  |  | $0.00 |  | 2024-12-27 |  |  |
+| Elizabethtown Emergency Physicians |  |  |  |  | 2024-08-28 |  | 2024-08-28 |  |
+| Baptist Health Hardin |  |  |  |  |  | 2024-11-26 |  | 2024-11-26 |
+| Zip Clinic Urgent Care | Treatment Complete |  |  | $245.00 | 2024-08-28 |  | 2024-08-28 |  |
+| UL Health Primary Care | Treatment Complete |  |  |  |  | 2024-11-19 |  | 2024-11-19 |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/ben-taylor|Ben Taylor]]
 - [[contacts/state-farm-pip-team|State Farm PIP Team]]

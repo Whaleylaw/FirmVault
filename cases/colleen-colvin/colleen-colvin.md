@@ -23,6 +23,19 @@ date_of_incident: "2023-10-01"
 - [[contacts/radiology-associates|Radiology Associates]]
 - [[contacts/zip-clinic-urgent-care|Zip Clinic Urgent Care]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Concentra Medical Center |  |  |  |  |  |  |  |  |
+| Chambers Medical Group |  |  |  |  |  |  |  |  |
+| Norton Community Medical Associates-Barret Ave. | Treatment Complete |  |  | $0.00 |  | 2025-01-29 |  | 2025-01-29 |
+| Elizabethtown Emergency Physicians | Treatment Complete |  |  | $595.00 | 2024-08-28 |  | 2024-08-28 |  |
+| Radiology Associates | Treatment Complete | 2023-10-05 | 2023-10-05 | $46.00 | 2024-08-01 |  | 2024-08-01 |  |
+| Zip Clinic Urgent Care | Treatment Complete |  |  | $155.00 | 2024-08-28 |  | 2024-08-28 |  |
+| Baptist Health Hardin | Treatment Complete | 2023-10-05 | 2023-10-05 | $5,023.89 | 2024-08-28 |  | 2024-08-28 |  |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/ben-taylor|Ben Taylor]]
 - [[contacts/randy-carney|Randy Carney]] (State Farm Insurance Company)

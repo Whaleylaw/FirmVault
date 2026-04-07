@@ -19,6 +19,16 @@ date_of_incident: "2023-06-15"
 - [[contacts/the-body-shop-physical-therapy|The Body Shop Physical Therapy]]
 - [[contacts/va-medical-center-lexington|VA Medical Center Lexington]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| The Body Shop Physical Therapy | Treatment Complete | 2024-11-07 | 2024-12-20 | $1,245.00 | 2025-02-25 | 2025-03-04 | 2025-02-25 | 2025-03-04 |
+| SCIOTO VALLEY CHIROPRACTIC AND REHAB CENTER, LLC | Treatment Complete | 2024-02-01 | 2024-03-27 | $685.00 | 2024-05-08 | 2024-05-29 | 2024-05-08 | 2024-05-29 |
+| THOMPSON CHIROPRACTIC CENTER | Treatment Complete |  |  |  | 2023-12-06 |  | 2023-12-06 |  |
+| VA Medical Center Lexington | Treatment Complete | 2023-06-17 | 2023-06-17 | $7,824.64 | 2023-12-22 | 2024-12-06 | 2023-12-22 |  |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/chris-williams|Chris Williams]]
 - [[contacts/devon-clark|Devon Clark]]

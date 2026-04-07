@@ -18,6 +18,15 @@ date_of_incident: "2025-08-19"
 - [[contacts/miispine|MiiSpine]]
 - [[contacts/starlite-chiropractic|Starlite Chiropractic]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Aptiva Health | Treatment Complete |  |  | $4,392.20 |  |  |  |  |
+| MiiSpine | Treatment Complete |  |  | $16,504.90 | 2026-03-02 | 2026-03-03 | 2026-03-02 | 2026-03-03 |
+| Starlite Chiropractic | Treatment Complete |  |  | $15,285.00 |  | 2026-02-10 |  | 2026-02-10 |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/dominique-mccraney|Dominique McCraney]]
 - [[contacts/summer-garrett|Summer Garrett]]

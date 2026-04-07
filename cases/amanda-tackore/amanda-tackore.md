@@ -16,6 +16,17 @@ date_of_incident: "2026-01-24"
 ## Medical Providers
 - [[contacts/louisville-metro-ems|Louisville Metro EMS]]
 - [[contacts/uofl-health-mary-elizabeth-mary-elizabeth-hospital|UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital]]
+- [[contacts/starlite-chiropractic|Starlite Chiropractic]]
+- [[contacts/uofl-health-mary-and-elizabeth-mary-and-elizabeth-hospital|UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Starlite Chiropractic | Treatment Complete |  |  | $10,315.00 | 2026-03-23 | 2026-03-23 | 2026-03-23 |  |
+| UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital | Treatment Complete |  |  |  |  |  |  |  |
+| Louisville Metro EMS | Treatment Complete |  |  |  | 2026-03-23 |  | 2026-03-23 |  |
+<!-- roscoe-medical-end -->
 
 ## Adjusters
 - [[contacts/april-lowe|April Lowe]] (Sedgwick Claims Management Services)

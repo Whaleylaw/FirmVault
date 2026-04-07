@@ -18,6 +18,15 @@ date_of_incident: "2025-08-06"
 - [[contacts/ohio-valley-pain-institute|Ohio Valley Pain Institute]]
 - [[contacts/starlite-chiropractic|Starlite Chiropractic]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Ohio Valley Pain Institute | Treatment Complete |  |  |  | 2026-03-25 |  | 2026-03-25 |  |
+| Norton Audubon Hospital | Treatment Complete |  |  |  | 2026-03-03 |  | 2026-03-03 |  |
+| Starlite Chiropractic | Treatment Complete |  |  | $13,855.00 |  | 2025-11-06 |  | 2025-11-06 |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/josh-white|Josh White]] (Progressive Insurance Company)
 - [[contacts/brittany-young|Brittany Young]]

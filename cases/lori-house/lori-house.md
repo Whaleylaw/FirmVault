@@ -15,6 +15,14 @@ date_of_incident: "2025-11-19"
 
 ## Medical Providers
 - [[contacts/bluegrass-bone-joint-pllc|Bluegrass Bone & Joint, PLLC]]
+- [[contacts/bluegrass-bone-and-joint-pllc|Bluegrass Bone & Joint, PLLC]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Bluegrass Bone & Joint, PLLC | Treatment Complete |  |  |  | 2026-03-24 |  | 2026-03-24 |  |
+<!-- roscoe-medical-end -->
 
 ## Adjusters
 - [[contacts/jeffrey-gullett|Jeffrey Gullett]] (Liberty Mutual Insurance Company)

@@ -17,6 +17,16 @@ date_of_incident: "2023-08-12"
 - [[contacts/fern-creek-fire-ems|Fern Creek Fire & EMS]]
 - [[contacts/louisville-metro-ems|Louisville Metro EMS]]
 - [[contacts/university-of-louisville-hospital|University of Louisville Hospital]]
+- [[contacts/fern-creek-fire-and-ems|Fern Creek Fire & EMS]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Fern Creek Fire & EMS | Treatment Complete | 2023-08-12 | 2023-08-12 | $1,415.80 |  | 2024-09-19 |  | 2024-09-19 |
+| University of Louisville Hospital | Treatment Complete | 2023-08-12 | 2023-08-17 | $234,932.10 | 2024-06-12 |  |  | 2024-06-21 |
+| Louisville Metro EMS | No Records Found | 2023-08-12 | 2023-08-12 | $0.00 |  | 2024-06-12 |  | 2024-06-12 |
+<!-- roscoe-medical-end -->
 
 ## Insurance
 - [[contacts/risk-management-services-company|Risk Management Services Company]]

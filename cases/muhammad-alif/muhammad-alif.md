@@ -34,6 +34,43 @@ date_of_incident: "2022-11-08"
 - [[contacts/radiology-alliance-pc-infinity-management|Radiology Alliance, PC (Infinity Management)]]
 - [[contacts/spring-creek-emergency-phy|Spring Creek Emergency Phy]]
 - [[contacts/starlite-chiropractic|Starlite Chiropractic]]
+- [[contacts/cutting-edge-orthopedics|Cutting Edge Orthopedics]]
+- [[contacts/mark-lynn-and-associates|Mark Lynn & Associates]]
+- [[contacts/lynn-family-sports-and-vision-training-tbi-and-concussion-therapy|Lynn Family Sports & Vision Training - TBI & Concussion Therapy]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Baptist Health Louisville | Treatment Complete |  |  |  | 2023-08-28 |  | 2023-08-28 |  |
+| Axon Medical Centers | Treatment Complete |  |  |  | 2024-08-02 |  | 2024-08-02 |  |
+| Norton Neurology Services-Downtown | Treatment Complete | 2023-03-27 |  |  | 2024-09-06 |  | 2024-09-06 |  |
+| Norton Neurosciences Spine And Rehabilitation Center | Treatment Complete | 2023-03-22 |  | $1,340.00 |  | 2024-10-07 |  | 2024-10-07 |
+| Spring Creek Emergency Phy | Treatment Complete | 2022-11-22 | 2022-11-22 | $1,707.00 | 2024-08-02 |  | 2024-08-02 |  |
+| Radiology Alliance, PC (Infinity Management) | Treatment Complete | 2022-11-22 | 2022-11-22 | $458.00 |  | 2024-10-15 |  | 2024-10-15 |
+| Norton Leatherman Spine | Treatment Complete | 2022-12-06 |  | $305.00 |  | 2024-10-07 |  | 2024-10-07 |
+| Cutting Edge Orthopedics | Treatment Complete |  |  | $2,070.56 | 2023-02-02 | 2023-02-06 | 2023-02-02 | 2023-02-06 |
+| Mark Lynn & Associates | Treatment Complete | 2023-01-23 |  | $785.00 | 2024-09-06 |  | 2024-09-06 |  |
+| Starlite Chiropractic | Treatment Complete | 2022-12-12 | 2023-02-03 | $11,155.00 | 2024-09-06 |  | 2024-09-06 |  |
+| Chiufang Hwang M.D. | Treatment Complete | 2022-11-22 |  |  |  | 2024-08-06 |  | 2024-08-06 |
+| Modern Chiropractic And Injury Care | Treatment Complete | 2022-12-20 |  | $450.00 | 2024-09-06 |  | 2024-09-06 |  |
+| Norton Women's and Children's Hospital | Treatment Complete | 2022-12-10 | 2022-12-10 | $2,615.00 | 2023-02-02 | 2023-02-21 | 2023-02-02 | 2023-02-21 |
+| Aptiva Health | Treatment Complete | 2023-01-18 |  |  | 2023-04-26 | 2023-04-26 | 2023-04-26 | 2023-04-26 |
+| Aptiva Health | Treatment Complete | 2023-01-18 |  | $1,475.00 |  | 2024-09-12 |  | 2024-09-12 |
+| Mayo Spine Clinic | Treatment Complete |  |  |  | 2023-04-25 |  | 2023-04-25 |  |
+| Mayo Spine Clinic | Treatment Complete |  |  |  | 2024-08-02 |  |  | 2024-08-13 |
+| Parkridge Medical Center | Treatment Complete | 2022-11-15 | 2022-11-15 | $5,673.41 |  | 2024-08-12 | 2024-08-02 |  |
+| Lynn Family Sports & Vision Training - TBI & Concussion Therapy | Treatment Complete | 2023-01-03 |  | $1,650.00 |  | 2024-09-13 |  | 2024-09-13 |
+| Innovation Open MRI | Treatment Complete | 2023-01-05 | 2023-02-27 | $6,400.00 |  | 2024-09-11 |  | 2024-09-11 |
+| Norton Neurology Services-Downtown | Treatment Complete |  |  |  | 2023-04-25 |  | 2023-04-25 |  |
+| Innovation Open MRI | Treatment Complete |  |  | $1,600.00 | 2023-04-26 | 2023-04-26 | 2023-04-26 | 2023-04-26 |
+| Mark Lynn & Associates | Treatment Complete |  |  |  | 2023-04-26 | 2023-05-01 | 2023-04-26 | 2023-05-01 |
+| Starlite Chiropractic | Treatment Complete |  |  | $11,155.00 | 2023-04-26 |  | 2023-04-26 |  |
+| Park Ridge Medical Center | Treatment Complete |  |  |  | 2023-04-26 |  | 2023-04-26 | 2023-05-05 |
+| Cutting Edge Orthopedics | Treatment Complete | 2022-11-28 |  | $24,428.45 | 2024-08-02 |  | 2024-08-02 |  |
+| KORT Physical Therapy - Shelbyville | Treatment Complete | 2022-12-12 | 2023-02-23 | $3,209.00 |  | 2024-08-27 |  | 2024-08-27 |
+| Norton Community Medical Associates - Preston | Treatment Complete | 2022-11-29 |  | $305.00 |  | 2024-10-10 |  | 2024-10-10 |
+<!-- roscoe-medical-end -->
 
 ## Adjusters
 - [[contacts/angela-lasasso|Angela Lasasso]]

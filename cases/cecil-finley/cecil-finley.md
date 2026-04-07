@@ -19,6 +19,18 @@ date_of_incident: "2024-01-24"
 - [[contacts/starlite-chiropractic|Starlite Chiropractic]]
 - [[contacts/university-of-louisville-hospital-radiology|University Of Louisville Hospital Radiology]]
 - [[contacts/uofl-health-mary-elizabeth-mary-elizabeth-hospital|UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital]]
+- [[contacts/uofl-health-mary-and-elizabeth-mary-and-elizabeth-hospital|UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| University Of Louisville Hospital Radiology | Treatment Complete | 2024-01-24 | 2024-01-24 |  |  |  |  |  |
+| Foundation Radiology | No Records Found |  |  |  | 2024-08-30 |  | 2024-08-30 |  |
+| Southeastern Emergency Physician Services | Treatment Complete | 2024-01-24 | 2024-01-24 | $1,266.00 |  | 2024-10-28 | 2024-08-30 |  |
+| Starlite Chiropractic | Treatment Complete | 2024-01-31 | 2024-04-02 | $11,560.00 |  | 2024-09-19 |  | 2024-09-19 |
+| UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital | Treatment Complete | 2024-01-24 | 2024-01-24 | $5,497.00 | 2024-08-30 |  |  | 2024-09-27 |
+<!-- roscoe-medical-end -->
 
 ## Adjusters
 - [[contacts/dana-cohen|Dana Cohen]]

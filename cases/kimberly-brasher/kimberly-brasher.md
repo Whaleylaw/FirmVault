@@ -23,6 +23,22 @@ date_of_incident: "2023-02-25"
 - [[contacts/kort-physical-therapy-madisonville|KORT Physical Therapy - Madisonville]]
 - [[contacts/oa-therapy|OA Therapy]]
 - [[contacts/orthopedic-associates-west|Orthopedic Associates - West]]
+- [[contacts/deaconess-henderson-hospital|Deaconess Henderson Hospital]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Commonwealth Pain Associates |  |  |  |  |  |  |  |  |
+| Evansville Radiology P.C |  |  |  |  |  |  |  |  |
+| Deaconess Clinic - Letcher PCP |  |  |  |  | 2025-07-11 |  | 2025-07-11 |  |
+| OA Therapy | Treatment Complete | 2023-06-30 | 2023-08-30 | $2,848.00 |  | 2024-03-14 |  | 2024-03-14 |
+| Bluegrass Home Medical | Treatment Complete |  |  | $125.30 |  | 2024-02-15 |  | 2024-02-15 |
+| Deaconess Midtown Hospital | Treatment Complete |  |  | $61,103.86 | 2024-02-15 | 2023-10-28 | 2024-02-15 | 2023-10-28 |
+| Orthopedic Associates - West | Treatment Complete | 2023-02-25 | 2023-08-21 | $11,154.21 |  | 2024-03-14 |  | 2024-03-14 |
+| KORT Physical Therapy - Madisonville | Treatment Complete | 2023-03-23 | 2023-04-05 | $1,274.00 | 2024-02-15 | 2023-12-05 |  | 2024-03-12 |
+| Deaconess Henderson Hospital | Treatment Complete |  |  | $61,077.25 |  | 2024-03-14 |  | 2024-03-14 |
+<!-- roscoe-medical-end -->
 
 ## Adjusters
 - [[contacts/sedgwick-claims-management-services|Sedgwick Claims Management Services]]

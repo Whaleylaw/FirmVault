@@ -16,6 +16,17 @@ date_of_incident: "2025-05-20"
 ## Medical Providers
 - [[contacts/norton-audubon-hospital|Norton Audubon Hospital]]
 - [[contacts/synergy-injury-care-rehab-diagnostics|Synergy Injury Care & Rehab Diagnostics]]
+- [[contacts/norton-neurology-services-downtown|Norton Neurology Services-Downtown]]
+- [[contacts/synergy-injury-care-and-rehab-diagnostics|Synergy Injury Care & Rehab Diagnostics]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Norton Neurology Services-Downtown | Actively Treating |  |  |  |  |  |  |  |
+| Synergy Injury Care & Rehab Diagnostics | Treatment Complete | 2025-06-03 | 2025-07-24 | $10,575.00 |  |  |  |  |
+| Norton Audubon Hospital | Treatment Complete | 2025-05-20 | 2025-05-20 | $9,949.10 | 2025-05-29 | 2025-06-25 | 2025-05-29 | 2025-06-25 |
+<!-- roscoe-medical-end -->
 
 ## Adjusters
 - [[contacts/aaron-ross|Aaron Ross]]

@@ -18,6 +18,15 @@ date_of_incident: "2025-10-31"
 - [[contacts/starlite-chiropractic|Starlite Chiropractic]]
 - [[contacts/university-of-louisville-hospital|University of Louisville Hospital]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| University of Louisville Hospital | Treatment Complete |  |  | $17,310.00 | 2025-11-06 | 2026-03-31 | 2025-11-06 |  |
+| Louisville Metro EMS | Treatment Complete | 2025-10-31 | 2025-10-31 | $685.60 | 2025-11-05 | 2025-11-11 | 2025-11-05 | 2025-11-11 |
+| Starlite Chiropractic | Treatment Complete |  |  | $11,230.00 |  | 2026-02-25 |  | 2026-04-02 |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/libby-hopple|Libby Hopple]]
 - [[contacts/evelyn-rodriguez|Evelyn Rodriguez]]

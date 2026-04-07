@@ -17,6 +17,16 @@ date_of_incident: "2023-04-11"
 - [[contacts/norton-childrens-medical-group|Norton Children's Medical Group]]
 - [[contacts/norton-childrens-urology|Norton Children's Urology]]
 - [[contacts/norton-womens-childrens-hospital|Norton Women's & Children's Hospital]]
+- [[contacts/norton-womens-and-childrens-hospital|Norton Women's & Children's Hospital]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Norton Children's Medical Group |  |  |  |  |  | 2025-01-21 |  | 2025-01-21 |
+| Norton Children's Urology |  |  |  |  |  | 2025-01-21 |  | 2025-01-21 |
+| Norton Women's & Children's Hospital | Treatment Complete | 2023-04-07 |  |  |  | 2025-01-21 |  | 2025-01-21 |
+<!-- roscoe-medical-end -->
 
 ## Liens
 - [[liens/united-healthcare|United Healthcare]] — health_insurance (identified)
