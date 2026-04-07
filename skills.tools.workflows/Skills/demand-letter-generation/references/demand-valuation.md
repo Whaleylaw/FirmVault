@@ -118,19 +118,18 @@ Kentucky uses pure comparative fault (KRS 411.182):
 
 ## Documenting Demand Rationale
 
-Include in attorney notes:
+Record the valuation decision on the demand draft's frontmatter so attorney review can see the math:
 
-```json
-{
-  "valuation_method": "multiplier",
-  "special_damages": 25000,
-  "multiplier": 3.0,
-  "calculated_value": 75000,
-  "policy_limits": 100000,
-  "demand_amount": 75000,
-  "rationale": "Significant injuries with surgery, clear liability, 
-               demanding 3x specials which is within limits"
-}
+```yaml
+valuation_method: multiplier
+special_damages: 25000
+multiplier: 3.0
+calculated_value: 75000
+policy_limits: 100000
+demand_amount: 75000
+rationale: >
+  Significant injuries with surgery, clear liability; demanding 3x
+  specials which is within limits.
 ```
 
 ---

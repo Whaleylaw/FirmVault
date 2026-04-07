@@ -55,9 +55,7 @@ Always check the actual fee agreement for:
 
 ### Cost Tracking
 
-Pull total costs from case file:
-- `case_expenses.json` if maintained
-- Or itemize from records
+Pull total costs from the `## Expenses` table in `cases/<slug>/<slug>.md` and any receipts committed under `cases/<slug>/documents/`. If costs have not been tallied since the last round of activity, stop and update that table first.
 
 ---
 
@@ -158,23 +156,18 @@ If client's out-of-pocket exceeds net:
 
 ## Documentation
 
-Record all calculations in:
-```json
-{
-  "offer_analysis": {
-    "offer_amount": 75000,
-    "attorney_fee_rate": 0.3333,
-    "attorney_fee": 25000,
-    "case_costs": 3500,
-    "liens": {
-      "medicare": 8000,
-      "hospital": 12000,
-      "provider": 5000,
-      "total": 25000
-    },
-    "net_to_client": 21500,
-    "analysis_date": "2024-XX-XX"
-  }
-}
+Record the calculation in the activity-log entry produced by the skill (see `SKILL.md` §Outputs) and mirror the key numbers onto the offer entry in `cases/<slug>/claims/bi-<carrier-slug>.md`:
+
+```yaml
+offers:
+  - round: 2
+    date: "2024-06-15"
+    amount: 75000
+    evaluated_date: "2024-06-16"
+    net_to_client: 21500
+    attorney_fee_rate: 0.3333
+    case_costs: 3500
+    liens_estimated: 25000
+    recommendation: counter
 ```
 

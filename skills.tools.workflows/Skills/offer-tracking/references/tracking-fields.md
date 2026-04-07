@@ -1,10 +1,6 @@
 # Offer Tracking Fields Reference
 
-## Overview
-
-This reference provides the complete specification for all fields used in offer tracking, including required fields, optional fields, and valid values.
-
----
+Full field specification for the `offers:` list that lives in the frontmatter of `cases/<slug>/claims/<type>-<carrier-slug>.md`. See `SKILL.md` for where this list lives and how to append to it.
 
 ## Per-Offer Entry Fields
 
@@ -106,133 +102,55 @@ This reference provides the complete specification for all fields used in offer 
 
 ---
 
-## JSON Schema
+## Example Claim File
 
-### Complete Offer Entry Schema
+A complete `cases/<slug>/claims/bi-state-farm.md` after two rounds:
 
-```json
-{
-  "$schema": "http://json-schema.org/draft-07/schema#",
-  "type": "object",
-  "required": ["date", "round", "type", "from", "amount", "status"],
-  "properties": {
-    "date": {
-      "type": "string",
-      "format": "date",
-      "description": "Date of offer (YYYY-MM-DD)"
-    },
-    "round": {
-      "type": "integer",
-      "minimum": 1,
-      "description": "Negotiation round number"
-    },
-    "type": {
-      "type": "string",
-      "enum": ["initial_offer", "revised_offer", "counter", "final_offer", "acceptance", "rejection"],
-      "description": "Type of entry"
-    },
-    "from": {
-      "type": "string",
-      "enum": ["insurance", "plaintiff"],
-      "description": "Who made this entry"
-    },
-    "amount": {
-      "type": "number",
-      "minimum": 0,
-      "description": "Dollar amount"
-    },
-    "status": {
-      "type": "string",
-      "enum": ["pending", "under_review", "countered", "responded", "accepted", "rejected", "expired"],
-      "description": "Current status"
-    },
-    "conditions": {
-      "type": "string",
-      "description": "Any conditions attached"
-    },
-    "adjuster_notes": {
-      "type": "string",
-      "description": "Adjuster's stated reasoning"
-    },
-    "reasoning": {
-      "type": "string",
-      "description": "Our justification for counter"
-    },
-    "deadline": {
-      "type": "string",
-      "format": "date",
-      "description": "Response deadline"
-    },
-    "communication_method": {
-      "type": "string",
-      "enum": ["email", "phone", "letter", "in_person"],
-      "description": "How offer was communicated"
-    }
-  }
-}
-```
-
+```yaml
 ---
-
-## Example Complete Tracking Record
-
-```json
-{
-  "claims": [
-    {
-      "id": "bi_001",
-      "type": "BI",
-      "carrier": "State Farm",
-      "claim_number": "SF-2024-123456",
-      "policy_limits": 100000,
-      "demand_sent_date": "2024-05-01",
-      "demand_amount": 100000,
-      "negotiation_status": "active",
-      "offers": [
-        {
-          "date": "2024-06-01",
-          "round": 1,
-          "type": "initial_offer",
-          "from": "insurance",
-          "amount": 25000,
-          "adjuster_notes": "Initial evaluation based on specials",
-          "communication_method": "letter",
-          "status": "countered"
-        },
-        {
-          "date": "2024-06-05",
-          "round": 1,
-          "type": "counter",
-          "from": "plaintiff",
-          "amount": 85000,
-          "reasoning": "Based on comparable verdicts",
-          "communication_method": "letter",
-          "status": "responded"
-        },
-        {
-          "date": "2024-06-15",
-          "round": 2,
-          "type": "revised_offer",
-          "from": "insurance",
-          "amount": 35000,
-          "adjuster_notes": "Reviewed medical records",
-          "deadline": "2024-07-15",
-          "communication_method": "email",
-          "status": "pending"
-        }
-      ],
-      "current_metrics": {
-        "gap": 50000,
-        "movement_them": 10000,
-        "movement_us": 15000,
-        "days_negotiating": 45,
-        "total_rounds": 2,
-        "offer_vs_limits": 35,
-        "offer_vs_demand": 35
-      }
-    }
-  ]
-}
+schema_version: 2
+claim_type: BI
+carrier: State Farm
+claim_number: SF-2024-123456
+policy_limits: 100000
+demand_sent_date: "2024-05-01"
+demand_amount: 100000
+negotiation_status: active
+offers:
+  - round: 1
+    type: initial_offer
+    from: insurance
+    date: "2024-06-01"
+    amount: 25000
+    adjuster_notes: "Initial evaluation based on specials"
+    communication_method: letter
+    status: countered
+  - round: 1
+    type: counter
+    from: plaintiff
+    date: "2024-06-05"
+    amount: 85000
+    reasoning: "Based on comparable verdicts"
+    communication_method: letter
+    status: responded
+  - round: 2
+    type: revised_offer
+    from: insurance
+    date: "2024-06-15"
+    amount: 35000
+    deadline: "2024-07-15"
+    adjuster_notes: "Reviewed medical records"
+    communication_method: email
+    status: pending
+metrics:
+  gap: 50000
+  movement_them: 10000
+  movement_us: 15000
+  days_negotiating: 45
+  total_rounds: 2
+  offer_vs_limits: 35
+  offer_vs_demand: 35
+---
 ```
 
 ---

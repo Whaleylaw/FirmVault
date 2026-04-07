@@ -1,12 +1,11 @@
 ---
 name: damages-calculation
 description: >
-  Special damages calculation toolkit for personal injury cases. Compiles medical
-  expenses with CPT/ICD codes, calculates lost wages, property damage, and out-of-pocket
-  costs. When Claude needs to total medical bills, calculate lost wages, compile
-  special damages for demand, or create damages summaries. Use for demand preparation,
-  settlement analysis, or case valuation. Not for general damages (pain and suffering)
-  which requires attorney judgment.
+  Compile special damages for a personal injury case: total medical bills by
+  provider, calculate past and future lost wages, tally property damage and
+  out-of-pocket costs, and write the computed block to case frontmatter for
+  demand-letter-generation to consume. Runs in Phase 3 after treatment is
+  complete and records/bills are in.
 allowed-tools:
   - Read
   - Edit
@@ -15,161 +14,68 @@ allowed-tools:
   - Grep
 ---
 
-# Damages Calculation Skill
+# Damages Calculation
 
-Calculate and compile special damages from case data for demand preparation.
+Special damages only — economic losses that can be documented line by line. General damages (pain and suffering) are a valuation judgment and belong in `demand-letter-generation` with attorney input.
 
-## Capabilities
+## Inputs
 
-- Total medical expenses by provider
-- Extract CPT and ICD-10 codes from bills
-- Calculate lost wages from employment records
-- Compile property damage costs
-- Track out-of-pocket expenses
-- Generate damages summary tables
+Read `cases/<slug>/<slug>.md`, walk the `## Medical Providers` section and per-provider stubs under `cases/<slug>/contacts/`, and pull bills from `cases/<slug>/documents/`. Wage documentation (pay stubs, off-work notes, employer letters) also lives under `cases/<slug>/documents/`. Property-damage estimates and client receipts come from the same folder.
 
-**Keywords**: special damages, medical bills, CPT codes, ICD codes, lost wages, property damage, damages calculation, medical expenses, demand preparation
+## Computing the categories
 
-## Damage Categories
+Totals by category:
 
-| Category | Data Source | Calculation |
-|----------|-------------|-------------|
-| Past Medical | ``cases/<slug>/contacts/` (provider stubs) and `## Medical Providers` section` bills | Sum all itemized charges |
-| Future Medical | Physician estimate or LCP | Document amount |
-| Past Lost Wages | Pay stubs + off-work notes | Days × daily rate |
-| Future Lost Wages | Disability assessment | Document if applicable |
-| Property Damage | Repair estimate or total loss | Document amount |
-| Out-of-Pocket | Client receipts | Sum documented expenses |
+| Category | Source | Method |
+|---|---|---|
+| Past medical | Itemized bills in `cases/<slug>/documents/` per provider | Sum charges; extract CPT and ICD-10 codes per `references/code-extraction.md` |
+| Future medical | Physician estimate or life-care plan | Document amount and basis; do not extrapolate |
+| Past lost wages | Off-work notes + pay stubs / W-2 / tax return | Method depends on employment type — see `references/wage-calculation.md` |
+| Future lost wages | Disability rating or vocational expert | Only include if expert-supported |
+| Property damage | Repair estimate or total-loss valuation | Document amount; include rental |
+| Out-of-pocket | Client receipts | Sum documented expenses only |
 
-## Workflow
+For each medical provider, capture: provider name, date range of treatment, total billed, CPT codes, ICD-10 codes, amount paid by insurance, patient responsibility. Keep the per-provider breakdown — `demand-letter-generation` renders it as a table.
 
-```
-1. COMPILE MEDICAL BILLS
-   └── For each provider in `cases/<slug>/contacts/` (provider stubs) and `## Medical Providers` section
-       └── Extract total charges
-       └── Extract CPT codes
-       └── Extract ICD-10 codes
-       └── Note date range
+## Handoff to demand-letter-generation
 
-2. CALCULATE LOST WAGES
-   └── Verify off-work notes exist
-   └── Calculate daily rate
-   └── Multiply by days missed
+This skill's output is a block of frontmatter on `cases/<slug>/<slug>.md` that the demand skill reads directly. Write these keys:
 
-3. COMPILE OTHER DAMAGES
-   └── Property damage (if applicable)
-   └── Out-of-pocket expenses
-
-4. GENERATE SUMMARY
-   └── Update `## Expenses` section in `cases/<slug>/<slug>.md`
-   └── Generate damages table
+```yaml
+damages_calculated_date: "YYYY-MM-DD"
+specials_total: <number>          # grand total of all categories below
+medical_total: <number>
+lost_wages_total: <number>
+property_damage_total: <number>
+out_of_pocket_total: <number>
+medical_by_provider:
+  - provider: <name>
+    dates: "<start> to <end>"
+    total: <number>
+    cpt_codes: [<code>, ...]
+    icd_codes: [<code>, ...]
+  - ...
+wage_calculation_method: hourly | salaried | self_employed
+wage_calculation_basis: >
+  <one-line explanation, e.g. "45 days × $200/day = $9,000 from
+  Dr. Smith off-work notes 04/27–06/15; pay stubs Jan–Mar 2024">
 ```
 
-## Medical Expenses Calculation
-
-### Per Provider Entry
-
-```json
-{
-  "provider_id": 1,
-  "provider_name": "Baptist Health ER",
-  "dates_of_service": "04/26/2024",
-  "total_charges": 3500.00,
-  "cpt_codes": ["99284", "72131", "73030"],
-  "icd_codes": ["S13.4XXA", "M54.2"],
-  "paid_by_insurance": 2800.00,
-  "patient_responsibility": 700.00
-}
-```
-
-### CPT Code Categories
-
-| Range | Category | Examples |
-|-------|----------|----------|
-| 99201-99499 | E/M (Office visits) | 99213, 99214, 99284 |
-| 97110-97799 | Physical therapy | 97110, 97140, 97530 |
-| 20550-29999 | Musculoskeletal | Injections, procedures |
-| 64400-64999 | Nerve blocks | Epidurals, facet injections |
-| 72XXX | Spine imaging | 72141 (MRI), 72100 (X-ray) |
-
-## Lost Wages Calculation
-
-### Required Documentation
-
-| Document | Purpose | Location |
-|----------|---------|----------|
-| Off-work notes | Physician authorization | Medical records |
-| Pay stubs | Pre-accident income | Client documents |
-| W-2/Tax returns | Income verification | Client documents |
-| Employer letter | Missed time confirmation | Request from employer |
-
-### Calculation Methods
-
-**Hourly Employee**:
-```
-Daily Rate = Hourly Rate × Hours/Day
-Lost Wages = Days Missed × Daily Rate
-```
-
-**Salaried Employee**:
-```
-Daily Rate = Annual Salary / 260 (working days)
-Lost Wages = Days Missed × Daily Rate
-```
-
-**Self-Employed**:
-```
-Use average daily revenue from tax returns
-Document lost contracts/jobs if applicable
-```
-
-## Output Format
-
-### `## Expenses` section in `cases/<slug>/<slug>.md` Structure
-
-```json
-{
-  "special_damages": {
-    "medical_expenses": {
-      "total": 25000.00,
-      "by_provider": [...],
-      "by_category": {
-        "emergency": 3500.00,
-        "specialist": 8000.00,
-        "physical_therapy": 6500.00,
-        "imaging": 3500.00,
-        "injections": 3500.00
-      }
-    },
-    "lost_wages": {
-      "past": 9000.00,
-      "future": 0.00,
-      "calculation": "45 days × $200/day"
-    },
-    "property_damage": {
-      "vehicle_repair": 5500.00,
-      "rental": 800.00,
-      "total": 6300.00
-    },
-    "out_of_pocket": {
-      "mileage": 450.00,
-      "prescriptions": 320.00,
-      "total": 770.00
-    },
-    "grand_total": 41070.00
-  }
-}
-```
+Also update the `## Expenses` table in the case file body with a row per category so the dashboard view matches. Per `DATA_CONTRACT.md` §3, preserve frontmatter ordering and do not touch content between `<!-- roscoe-*-start -->` markers.
 
 ## References
 
-For detailed guidance:
-- **CPT/ICD extraction** → `references/code-extraction.md`
-- **Wage calculation** → `references/wage-calculation.md`
+- [`references/code-extraction.md`](references/code-extraction.md) — common PI CPT and ICD-10 codes, where they live on different bill types, what to do when codes are missing
+- [`references/wage-calculation.md`](references/wage-calculation.md) — hourly vs salaried vs self-employed formulas, PTO handling, partial-disability math, required documentation
 
-## Output
+## Outputs
 
-- Updated ``## Expenses` section in `cases/<slug>/<slug>.md`` with complete special damages
-- Damages summary table for demand letter
-- Supporting calculation documentation
+- Frontmatter damages block on `cases/<slug>/<slug>.md` (consumed by `demand-letter-generation`)
+- Updated `## Expenses` table in the same file
+- Optional supporting worksheet at `cases/<slug>/documents/damages-worksheet-<YYYY-MM-DD>.md` if the math needs to be shown to the attorney or client
 
+## What this skill does NOT do
+
+- **Pain and suffering / general damages** — valuation judgment; handled in `demand-letter-generation`.
+- **Lien calculation** — that's `lien-management`; liens come out of the net at settlement, not out of the demand specials.
+- **Net-to-client math** — that's `offer-evaluation` after an offer exists.

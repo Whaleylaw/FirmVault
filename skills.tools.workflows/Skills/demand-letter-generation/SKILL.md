@@ -1,12 +1,11 @@
 ---
 name: demand-letter-generation
 description: >
-  Demand letter drafting using the unified document generation system. Copy demand
-  template to Documents/Demand folder, fill with case facts and exhibits, then run
-  generate_document.py for PDF generation with letterhead and attached exhibits.
-  When Claude needs to draft a demand letter, create settlement documentation, or
-  generate a demand package with all exhibits. Use for bodily injury claims, UM/UIM
-  claims, and property damage demands. Not for litigation pleadings.
+  Draft the settlement demand letter that opens Phase 4 negotiation on a BI,
+  UM, or UIM claim. Assembles liability narrative, injury summary, treatment
+  chronology, special damages, and exhibit list into a single demand document
+  written to cases/<slug>/documents/. Produces the demand_drafted and
+  attorney_approved_demand landmarks for PHASE_DAG Phase 3.
 allowed-tools:
   - Read
   - Edit
@@ -17,196 +16,51 @@ allowed-tools:
 
 # Demand Letter Generation
 
-Create professional demand letters by copying the template to the case folder, filling it,
-and using the unified document generator.
+The capstone of Phase 3. By the time this skill runs, treatment should be complete, records and bills should be on file in `cases/<slug>/documents/`, and `damages-calculation` should have populated the case frontmatter with computed special damages (see Handoff below). This skill turns those inputs into the letter that gets sent to the BI adjuster.
 
-## Capabilities
+## Inputs
 
-- Fill structured markdown demand template
-- Draft demand narrative from case facts
-- Compile ICD-10 diagnosis codes
-- Generate treatment summaries by provider
-- Calculate special damages
-- Embed photos in narrative
-- Compile exhibits with separator pages
-- Generate professional PDF matching firm format
+Read `cases/<slug>/<slug>.md` first. You need:
 
-**Keywords**: demand letter, settlement demand, bodily injury, special damages, ICD codes, demand package
+- Frontmatter: `client_name`, `date_of_incident`, `jurisdiction`, and the fields written by `damages-calculation` (`specials_total`, `medical_total`, `lost_wages_total`, `property_damage_total`, `out_of_pocket_total`, plus the per-provider breakdown under `medical_by_provider`).
+- `## Insurance Claims` section and `cases/<slug>/claims/bi-<carrier-slug>.md` — claim number, adjuster name/contact, policy limits if known.
+- `## Medical Providers` section and any treatment chronology already prepared under `cases/<slug>/documents/`.
+- Police report, photos, and other liability proof under `cases/<slug>/documents/`.
+- Prior activity log entries for anything that affects valuation (e.g. adjuster admissions).
 
-## Workflow
+If `damages-calculation` has not yet run for the current state of the case, stop and surface that — the demand is built on those numbers.
 
-```
-1. COPY TEMPLATE TO DESTINATION
-   └── Copy templates/demand_template.md to /{project}/Documents/Demand/
-   └── Name: demand_draft_[client]_[date].md
+## Drafting the letter
 
-2. FILL YAML FRONTMATTER
-   └── Client name, defendant, date of incident
-   └── Insurance company, adjuster, claim number
-   └── Read from case JSONs
+Create `cases/<slug>/documents/demand-<YYYY-MM-DD>.md` with frontmatter that mirrors the case file plus demand-specific fields (demand_amount, response_deadline, carrier, adjuster, claim_number), then write these sections in order: Introduction (representation + Rule 408), Facts & Liability, Injuries (table with ICD-10 codes where available), Treatment Chronology by provider, Special Damages (broken out by category with totals matching frontmatter), Demand (amount + deadline), Exhibit List.
 
-3. WRITE SECTIONS
-   └── Introduction - representation, Rule 408
-   └── Facts & Liability - narrative, negligence
-   └── Injuries table - diagnoses with ICD codes
-   └── Treatment chronology - by provider
-   └── Special damages - medical, wages
-   └── Demand - amount and deadline
-   └── Exhibits - file paths to attach
+`references/narrative-sections.md` has the per-section prose conventions and sample language. `references/demand-valuation.md` covers valuation methods (multiplier, per diem, policy-limits) and how to pick one. `references/exhibit-compilation.md` covers standard exhibit order and what each exhibit must include.
 
-4. CALL GENERATE_DOCUMENT
-   └── Tool: generate_document.py
-   └── Input: Path to filled demand.md
-   └── Creates PDF with letterhead and exhibits
+The firm does not currently ship a `.docx` demand template — the demand is written as markdown in the case documents folder and later formatted by hand or by a to-be-rewritten document tool. Do not copy from or invoke `Tools/document_processing/generate_document.py`; it is deprecated pending a vault-native rewrite.
 
-5. VERIFY OUTPUT
-   └── demand.docx created
-   └── demand.pdf created with exhibits
-```
+## Attorney review
 
-## Step-by-Step Instructions
+Once the draft is written, set `case.frontmatter.demand_drafted = true` and log an activity entry (`Activity Log/<YYYY-MM-DD-HHMM>-legal.md`, category `legal`) noting the draft is ready for review. The attorney review step flips `case.frontmatter.attorney_approved_demand = true`; do not set that flag yourself. Sending the demand is a separate step handled outside this skill.
 
-### Step 1: Copy Template
+## Outputs
 
-```python
-import shutil
-from pathlib import Path
-from datetime import datetime
+- Draft letter: `cases/<slug>/documents/demand-<YYYY-MM-DD>.md`
+- Frontmatter flag: `demand_drafted: true` on `cases/<slug>/<slug>.md` (satisfies `demand_drafted` landmark)
+- Activity log entry announcing the draft is ready for review
+- After attorney flips the flag, `attorney_approved_demand: true` satisfies the `attorney_approved_demand` landmark
 
-# Source template
-templates_dir = Path("templates")
-demand_template = templates_dir / "demand_template.md"
+## Handoff from damages-calculation
 
-# Destination
-project = "John-Doe-MVA-01-01-2025"
-dest_folder = Path(f"{project}/Documents/Demand")
-dest_folder.mkdir(parents=True, exist_ok=True)
-
-# Copy with descriptive name
-date_str = datetime.now().strftime("%Y-%m-%d")
-shutil.copy(demand_template, dest_folder / f"demand_draft_{date_str}.md")
-```
-
-### Step 2: Fill Template
-
-The template has YAML frontmatter and sections:
-
-```markdown
----
-client_name: "John Doe"
-defendant_name: "Jane Smith"
-date_of_incident: "January 1, 2025"
-case_type: "MVA"
-insurance_company: "State Farm"
-claim_number: "12-345-6789"
-adjuster_name: "Bob Johnson"
-adjuster_email: "bob@statefarm.com"
-adjuster_address: |
-  123 Insurance Way
-  Louisville, KY 40202
-demand_amount: "$50,000.00"
----
-
-# INTRODUCTION
-[Write opening paragraph]
-
-# FACTS & LIABILITY
-[Write accident narrative]
-
-# INJURIES & TREATMENTS
-## Summary of Injuries
-| Injury/Diagnosis | ICD Code |
-|------------------|----------|
-| Cervical Strain | S13.4XXA |
-
-## Treatment Chronology
-### Provider Name
-- **Treatment Timeline**: ...
-- **Summary**: ...
-
-# SPECIAL DAMAGES
-## Past Medical Expenses
-| Provider | Dates | Amount |
-|----------|-------|--------|
-
-# DEMAND
-[Write demand amount and deadline]
-
-# EXHIBITS
-1. Medical Records - Provider | /path/to/records.pdf
-2. Bills - Provider | /path/to/bills.pdf
-```
-
-### Step 3: Generate Document
-
-```bash
-python Tools/document_generation/generate_document.py \
-    "John-Doe-MVA-01-01-2025/Documents/Demand/demand_draft_2025-01-15.md" \
-    --pretty
-```
-
-**Python Usage**:
-
-```python
-import sys
-sys.path.insert(0, "Tools/document_generation")
-from generate_document import generate_document
-
-result = generate_document(
-    "John-Doe-MVA-01-01-2025/Documents/Demand/demand_draft_2025-01-15.md"
-)
-
-if result["status"] == "success":
-    print(f"DOCX: {result['docx_path']}")
-    print(f"PDF: {result['pdf_path']}")
-```
-
-## Auto-Fill vs Agent-Fill Fields
-
-| Auto-Fill (from case data) | Agent Fills |
-|---------------------------|-------------|
-| `{{TODAY}}` | YAML frontmatter values |
-| `{{client.name}}` | Facts narrative |
-| `{{firm.letterhead}}` | Injuries table |
-| `{{firm.signature}}` | Treatment chronology |
-| `{{incidentDate}}` | Damages sections |
-| | Demand amount |
-| | Exhibit paths |
-
-## Exhibit Organization
-
-Standard order:
-1. Medical Records (by provider, chronologically)
-2. Medical Bills (by provider)
-3. Accident/Police Report
-4. Photographs
-5. Wage Documentation
-6. Property Damage
-7. Expert Reports
-
-Format in template:
-```markdown
-# EXHIBITS
-1. UK Healthcare Medical Records | /path/to/uk_records.pdf
-2. UK Healthcare Bills | /path/to/uk_bills.pdf
-3. Police Report | /path/to/police_report.pdf
-```
-
-## Output
-
-- Filled markdown template (saved for reference)
-- `demand.docx` - Word document
-- `demand.pdf` - Complete demand packet with:
-  - Professional letterhead
-  - Formatted sections with tables
-  - Embedded photos
-  - Exhibit separator pages
-  - All exhibit PDFs attached
+The `damages-calculation` skill is this skill's upstream. It writes a computed damages block to `cases/<slug>/<slug>.md` frontmatter that this skill reads directly — see `damages-calculation/SKILL.md` for the exact field names. If any field is missing, re-run `damages-calculation` rather than re-deriving totals here.
 
 ## References
 
-- **Narrative writing** → `references/narrative-sections.md`
-- **Demand valuation** → `references/demand-valuation.md`
-- **Exhibit compilation** → `references/exhibit-compilation.md`
-- **Template** → `/templates/demand_template.md`
-- **Unified tool** → `/Tools/document_generation/generate_document.py`
+- [`references/narrative-sections.md`](references/narrative-sections.md) — section-by-section prose, sample language, tone rules
+- [`references/demand-valuation.md`](references/demand-valuation.md) — valuation methods, Kentucky-specific considerations, policy-limits strategy
+- [`references/exhibit-compilation.md`](references/exhibit-compilation.md) — exhibit order, format, and quality checklist
+
+## What this skill does NOT do
+
+- **Compute special damages** — that's `damages-calculation`; this skill consumes its output.
+- **Send the demand or track the response** — sending is a separate step; tracking is `offer-tracking`.
+- **Draft complaint or pleadings** — see `complaint-drafting`; demand letters are pre-litigation.

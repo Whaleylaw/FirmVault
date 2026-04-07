@@ -1,10 +1,10 @@
 ---
 name: offer-evaluation
 description: >
-  Analyze settlement offers, calculate net to client, and prepare recommendations.
-  Use when insurance company makes an offer, counter-offer is received, or need
-  to advise client on settlement. Handles fee calculations, lien deductions,
-  and comparison to case value.
+  Analyze an incoming settlement offer: compute net to client after fees,
+  costs, and liens, compare to demand and comparable verdicts, and produce
+  an accept/counter/reject recommendation the attorney can act on. Runs in
+  Phase 4 after offer-tracking has logged the offer.
 allowed-tools:
   - Read
   - Edit
@@ -13,133 +13,67 @@ allowed-tools:
   - Grep
 ---
 
-# Offer Evaluation Skill
+# Offer Evaluation
 
-## Skill Metadata
+Answers "is this offer any good, and what would the client actually receive?" for a specific offer already logged by `offer-tracking`. If no offer has been logged, stop — run `offer-tracking` first.
 
-- **ID**: offer-evaluation
-- **Category**: negotiation
-- **Model Required**: claude-sonnet-4-20250514 or higher
-- **Reference Material**: `references/net-calculation.md`, `references/comparable-analysis.md`
-- **Tools Required**: None (calculation-based)
+## Inputs
 
----
+Read `cases/<slug>/<slug>.md` and the relevant `cases/<slug>/claims/bi-<carrier-slug>.md` to pull: demand amount and date, current offer (amount, date, conditions, deadline), policy limits if known, computed specials from the `damages-calculation` block, fee agreement percentage (default 33⅓% pre-litigation / 40% post-filing; check the actual fee agreement if present in `cases/<slug>/documents/`), case costs to date, and current lien estimates from `cases/<slug>/liens/*.md`.
 
-## When to Use This Skill
+## Net-to-client calculation
 
-Use this skill when:
-- Insurance company makes a settlement offer
-- Counter-offer received from adjuster
-- Need to calculate net to client
-- Client asks "how much would I get?"
-- Attorney needs offer analysis for decision
-
-**DO NOT use if:**
-- No offer has been made
-- Just tracking offers (use `offer-tracking` instead)
-- Negotiating lien reductions (use `lien-negotiation` instead)
-
----
-
-## Workflow
-
-### Step 1: Gather Offer Information
-
-Collect from user or case file:
-- Offer amount
-- Offer date
-- Any conditions attached
-- Response deadline (if any)
-
-### Step 2: Calculate Net to Client
-
-Use the formula:
 ```
-Net = Gross Settlement - Attorney Fee - Case Costs - Liens
+Net = Gross Settlement − Attorney Fee − Case Costs − Liens
 ```
 
-**Fee Determination:**
-- Pre-litigation: 33.33% (standard)
-- Post-litigation: 40% (standard)
-- Check fee agreement for actual rate
+`references/net-calculation.md` covers fee-agreement variations, lien types to include, worked examples, and the best-case / worst-case range you should present when lien amounts are estimated rather than final.
 
-**See:** `references/net-calculation.md` for detailed calculation steps.
+## Comparing to case value
 
-### Step 3: Compare to Demand
+Contrast the offer against the demand (gap, offer as % of demand), against computed specials (is the offer even covering the economic damages?), and against policy limits if known. For a more rigorous case-value comparison, `references/comparable-analysis.md` covers researching verdicts in the same venue and injury category.
 
-| Metric | Value |
-|--------|-------|
-| Our Demand | $X |
-| Their Offer | $Y |
-| Gap | $X - Y |
-| Offer as % of Demand | Y/X × 100 |
+## Recommendation
 
-### Step 4: Evaluate Offer Quality
+Land on one of: **Accept** (offer is fair given strengths and weaknesses), **Counter** (room to negotiate, include a suggested amount and justification), **Reject** (offer is insulting or below specials), or **Hold** (need more information — usually lien final amounts or an updated medical opinion). Strong indicators for acceptance: offer exceeds 50% of demand and 3× medical specials, or is at/near policy limits. Weak indicators: offer below 25% of demand or below medical specials.
 
-**Strong indicators:**
-- Offer > 50% of demand
-- Offer > 3× medical specials
-- Offer near policy limits
+## Outputs
 
-**Weak indicators:**
-- Offer < 25% of demand
-- Offer < medical specials
-- Large gap from demand
-
-### Step 5: Prepare Recommendation
-
-Options:
-1. **Accept** - Offer is fair given case factors
-2. **Counter** - Room for negotiation, suggest amount
-3. **Reject** - Offer insultingly low, need movement
-4. **Request Time** - Need more information
-
----
-
-## Output Format
-
-Provide structured analysis:
+Write the analysis as a new activity log entry at `cases/<slug>/Activity Log/<YYYY-MM-DD-HHMM>-legal.md` (category `legal`, subcategory `offer_analysis`) with this structure:
 
 ```markdown
-## Offer Analysis
+## Offer Analysis — Round <N>
 
-**Offer:** $[amount] from [adjuster/carrier]
-**Date:** [date]
+**Offer:** $<amount> from <adjuster> (<carrier>) on <date>
+**Deadline:** <date or none>
 
 ### Net Calculation
 | Item | Amount |
-|------|--------|
-| Gross Settlement | $X |
-| Attorney Fee (X%) | -$X |
-| Case Costs | -$X |
-| Medical Liens | -$X |
-| **Net to Client** | **$X** |
+|---|---|
+| Gross settlement | $<X> |
+| Attorney fee (<rate>%) | −$<X> |
+| Case costs | −$<X> |
+| Medical liens (estimated) | −$<X> |
+| **Net to client** | **$<X>** |
 
 ### Comparison
-- Demand: $X
-- Gap: $X
-- Offer as % of Demand: X%
+Demand: $<X> | Gap: $<X> | Offer as % of demand: <X>%
+Specials: $<X> | Offer as % of specials: <X>%
+Policy limits: $<X> | Offer as % of limits: <X>%
 
 ### Recommendation
-[Accept/Counter/Reject] because [reasoning]
-
-### Suggested Counter (if applicable)
-$[amount] based on [justification]
+<Accept | Counter at $X | Reject | Hold> — <2–3 sentences of reasoning>
 ```
 
----
+Also update the relevant `cases/<slug>/claims/bi-<carrier-slug>.md` file's offer entry with `evaluated_date`, `net_to_client`, and `recommendation` fields so `negotiation-strategy` can pick up the analysis without re-reading the full log entry.
 
-## Related Skills
+## References
 
-- `lien-negotiation` - For analyzing lien reduction potential
-- `negotiation-strategy` - For counter-offer tactics
-- `offer-tracking` - For documenting offers
+- [`references/net-calculation.md`](references/net-calculation.md) — fee math, case cost categories, lien inclusion rules, best/worst-case range framing
+- [`references/comparable-analysis.md`](references/comparable-analysis.md) — researching comparable verdicts, Kentucky venue notes, presentation format
 
----
+## What this skill does NOT do
 
-## Reference Material
-
-For detailed information, load:
-- `references/net-calculation.md` - Detailed calculation formulas
-- `references/comparable-analysis.md` - Researching comparable verdicts
-
+- **Log the offer in the first place** — that's `offer-tracking`; this skill only reads it.
+- **Draft the counter letter** — that's `negotiation-strategy`, which consumes the recommendation written here.
+- **Negotiate liens down to improve the net** — that's `lien-management` Phase 6 work.

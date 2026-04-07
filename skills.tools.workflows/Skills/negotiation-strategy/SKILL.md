@@ -1,10 +1,10 @@
 ---
 name: negotiation-strategy
 description: >
-  Develop and execute negotiation tactics for settlement discussions with
-  insurance adjusters. Use when preparing counter-offers, responding to
-  lowball offers, planning negotiation approach, or coaching on negotiation
-  communication. Covers anchoring, bracketing, concessions, and closing.
+  Plan the next negotiation move after offer-evaluation has recommended a
+  counter. Calculates counter amount, drafts the counter-offer letter,
+  prepares talking points, and sets the follow-up schedule. Operates in
+  Phase 4 on an active claim with a pending offer.
 allowed-tools:
   - Read
   - Edit
@@ -13,194 +13,55 @@ allowed-tools:
   - Grep
 ---
 
-# Negotiation Strategy Skill
+# Negotiation Strategy
 
-## Skill Metadata
+Consumes the offer history on `cases/<slug>/claims/<type>-<carrier-slug>.md` and the recommendation written by `offer-evaluation`. Produces the next counter letter plus a short playbook the attorney can follow on the phone.
 
-- **ID**: negotiation-strategy
-- **Category**: negotiation
-- **Model Required**: claude-sonnet-4-20250514 or higher
-- **Reference Material**: `references/tactics.md`, `references/counter-strategies.md`
-- **Tools Required**: `generate_document.py` (for counter-offer letters)
+## Inputs
 
----
+Read the case file, the claim file (including the full `offers` list and `metrics` block written by `offer-tracking`), and the latest `offer_analysis` activity log entry written by `offer-evaluation`. If `offer-evaluation` recommended Accept or Hold, stop — this skill is only for Counter / Reject scenarios.
 
-## When to Use This Skill
+## Sizing the counter
 
-Use this skill when:
-- Planning response to insurance offer
-- Developing counter-offer strategy
-- Preparing negotiation talking points
-- Adjuster is being difficult
-- Need to break negotiation impasse
-- Client wants advice on negotiation approach
+The counter amount depends on the gap and the current round:
 
-**DO NOT use if:**
-- No offer has been made (use `send_demand` first)
-- Just calculating net (use `offer-evaluation`)
-- Tracking offers (use `offer-tracking`)
+| Gap % of demand | First counter | Subsequent counters |
+|---|---|---|
+| > 75% (very low offer) | 10–15% reduction from demand | match their movement, then step down |
+| 50–75% | 15–25% reduction from demand | 8–12% per round |
+| 25–50% | 25–35% reduction | 5–8% per round |
+| < 25% | evaluate for acceptance or split | 2–5% or final |
 
----
+Movement should shrink round over round so the adjuster reads the signal that we are approaching our floor. `references/counter-strategies.md` covers first-counter calculation, stalled negotiations, near-settlement closing moves, and the justification language that goes with each.
 
-## Workflow
+## Tactics
 
-### Step 1: Analyze Current Position
+`references/tactics.md` covers anchoring, bracketing, concession patterns, responses to lowball offers, "final offer" pushback, and silence as a tool. Pull from that reference when building the talking points — don't restate it here.
 
-**Review:**
-- Our demand amount
-- Their current offer
-- Number of rounds so far
-- Movement patterns
-- Time in negotiation
+## The counter letter
 
-**Calculate Gap:**
-```
-Gap = Our Position - Their Position
-Gap % = Gap / Our Demand × 100
-```
+Draft the letter as markdown at `cases/<slug>/documents/counter-<round>-<YYYY-MM-DD>.md` with these sections: acknowledge their offer, explain why it's insufficient (tie back to documented specials, liability, and comparable verdicts from `offer-evaluation`), state the counter amount with a concrete justification, set a response deadline (usually 14 days), closing. Use the letterhead reference from `Templates/letterhead.docx` — do not copy the template, just reference it.
 
-### Step 2: Determine Strategy
+There is no firm-approved counter-offer docx template at this time. The letter is authored as markdown and later formatted for send by the paralegal.
 
-**If First Offer:**
-- Evaluate reasonableness
-- Plan counter that leaves room
-- Don't split difference immediately
+## Talking points and follow-up
 
-**If Subsequent Offer:**
-- Analyze their movement
-- Match or reduce concession size
-- Signal approaching final number
+In the same activity log entry that records the counter being sent, list three or four talking points the attorney can use if the adjuster calls, plus an anticipated-response tree (accept / counter-counter at $X / reject / silence) with the action for each branch. Calendar the follow-up: check in at 7 days if no response, phone call at 14, escalate to supervisor at 21.
 
-**See:** `references/tactics.md` for detailed tactics.
+## Outputs
 
-### Step 3: Set Counter Amount
+- Counter letter draft at `cases/<slug>/documents/counter-<round>-<YYYY-MM-DD>.md`
+- New entry appended to the `offers` list on the claim file via `offer-tracking` (this skill does not write there directly — it hands the counter amount back to `offer-tracking` to log)
+- Activity log entry at `cases/<slug>/Activity Log/<YYYY-MM-DD-HHMM>-legal.md` with strategy analysis, talking points, and follow-up schedule
+- Refreshed calendar entries for follow-up dates
 
-**Principles:**
-- Leave negotiating room
-- Make justified movement
-- Don't appear desperate
-- Signal flexibility without weakness
+## References
 
-**Counter Calculation:**
-```
-If Gap > 50%: Counter at 10-15% reduction from demand
-If Gap 25-50%: Counter at 15-25% reduction
-If Gap < 25%: Consider splitting or final number
-```
+- [`references/tactics.md`](references/tactics.md) — anchoring, bracketing, concession patterns, difficult-adjuster scenarios, documentation discipline
+- [`references/counter-strategies.md`](references/counter-strategies.md) — counter-amount math, letter structure, situation-specific templates, common mistakes
 
-### Step 4: Prepare Counter Communication
+## What this skill does NOT do
 
-**Include:**
-1. Acknowledge their offer
-2. Explain why insufficient
-3. State counter amount
-4. Provide justification
-5. Request response timeline
-
-**Use:** Copy `counter_offer_letter.md` to `/{project}/Documents/Negotiation/` then run `generate_document.py`
-
-### Step 5: Anticipate Response
-
-Prepare for:
-- Acceptance (have settlement process ready)
-- Counter-counter (plan next move)
-- Rejection (evaluate alternatives)
-- No response (follow-up plan)
-
----
-
-## Key Tactics
-
-### Anchoring
-- First number sets expectations
-- Our demand anchors high
-- Their first offer anchors low
-- Work toward middle strategically
-
-### Bracketing
-- Note implied settlement range
-- Their first offer + our demand = bracket
-- Midpoint often becomes settlement zone
-
-### Concession Patterns
-- Start with larger concessions
-- Reduce concession size over time
-- Signals approaching final number
-
-### Closing
-- Recognize when deal is achievable
-- Don't push past good offers
-- Use "split the difference" strategically
-
-**See:** `references/counter-strategies.md` for structuring counters.
-
----
-
-## Difficult Situations
-
-### Lowball First Offer
-- Don't overreact
-- Counter strongly but reasonably
-- Request explanation
-- Emphasize case value
-
-### No Movement
-- Change approach (new arguments)
-- Consider direct attorney call
-- Escalate to supervisor
-- Evaluate litigation
-
-### Adjuster Changed
-- Request introduction
-- Re-establish case value
-- Be patient with learning curve
-
----
-
-## Output Format
-
-```markdown
-## Negotiation Strategy Analysis
-
-### Current Status
-- Demand: $X
-- Their Offer: $Y
-- Gap: $Z (X%)
-- Rounds: N
-
-### Recommended Counter
-**Amount:** $[counter]
-**Reasoning:** [justification]
-
-### Key Talking Points
-1. [Point 1]
-2. [Point 2]
-3. [Point 3]
-
-### Anticipated Responses
-- If they accept: [action]
-- If they counter at $X: [action]
-- If they reject: [action]
-
-### Timeline
-- Send counter by: [date]
-- Expect response by: [date]
-- Follow-up if no response: [date]
-```
-
----
-
-## Related Skills
-
-- `offer-evaluation` - For analyzing offer merits
-- `calendar-scheduling` - For follow-up scheduling
-- `offer-tracking` - For documenting negotiations
-
----
-
-## Reference Material
-
-For detailed strategies, load:
-- `references/tactics.md` - Negotiation tactics and techniques
-- `references/counter-strategies.md` - Structuring effective counters
-
+- **Decide whether to counter at all** — that's `offer-evaluation`.
+- **Log the counter in the offer history** — the counter, once drafted, is appended by `offer-tracking`.
+- **Mediation-session tactics** — that's `mediation-prep` / the consolidated mediation skill.

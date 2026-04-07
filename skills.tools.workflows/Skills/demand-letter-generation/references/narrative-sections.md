@@ -15,10 +15,10 @@ Your insured, [At-Fault Party Name], was the driver of the [Year Make Model]
 that [description of collision]. Claim Number: [Claim Number].
 ```
 
-**Data Sources**:
-- ``cases/<slug>/<slug>.md` (frontmatter)`: client name, accident date, location
-- ``cases/<slug>/contacts/``: at-fault party info
-- ``cases/<slug>/claims/` and `## Insurance Claims` section`: claim number, adjuster name
+**Data sources** (per `DATA_CONTRACT.md`):
+- `cases/<slug>/<slug>.md` frontmatter: client name, accident date, jurisdiction
+- `cases/<slug>/contacts/<at-fault-slug>.md`: at-fault party info
+- `cases/<slug>/claims/bi-<carrier-slug>.md` and the `## Insurance Claims` section: claim number, adjuster name
 
 ---
 
