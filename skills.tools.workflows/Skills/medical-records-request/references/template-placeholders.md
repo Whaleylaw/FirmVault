@@ -1,73 +1,45 @@
-# Medical Records Request Template Placeholders
+# Template Placeholders — Medical Records Request
 
-## Word Template (URR) Placeholders
+Placeholder values for the records/billing request templates. Every value comes from the vault (see `DATA_CONTRACT.md`); nothing is computed or stored outside it.
 
-| Placeholder | Description | Data Source |
-|-------------|-------------|-------------|
-| `{{TODAY_LONG}}` | Current date | Generated (e.g., "December 6, 2024") |
-| `{{provider.name}}` | Provider name | `cases/<slug>/contacts/` (provider stubs) and `## Medical Providers` section |
-| `{{provider.addressBlock}}` | Full provider address | `cases/<slug>/contacts/` (provider stubs) and `## Medical Providers` section |
-| `{{provider.fax}}` | Fax number | `cases/<slug>/contacts/` (provider stubs) and `## Medical Providers` section |
-| `{{client.name}}` | Client full name | `cases/<slug>/<slug>.md` (frontmatter) |
-| `{{client.dob}}` | Client date of birth | `cases/<slug>/contacts/` |
-| `{{client.ssn}}` | Client SSN (optional) | `cases/<slug>/contacts/` |
-| `{{accident_date}}` | Date of accident | `cases/<slug>/<slug>.md` (frontmatter) |
-| `{{treatment_dates}}` | Date range of treatment | `cases/<slug>/contacts/` (provider stubs) and `## Medical Providers` section |
-| `{{primary}}` | Attorney name | Firm settings |
+## Records request (DOCX — `medical-record-request-urr`)
 
-## Context Dictionary Structure
+| Placeholder | Vault source |
+|---|---|
+| `{{TODAY_LONG}}` | Current date, long form (e.g. `December 6, 2024`) |
+| `{{provider.name}}` | `cases/<slug>/contacts/<provider-slug>.md` frontmatter `name` (or linked `Contacts/Medical/<slug>.md`) |
+| `{{provider.addressBlock}}` | Provider stub `address` / master card `address` |
+| `{{provider.fax}}` | Provider stub `fax` / master card `fax` |
+| `{{client.name}}` | `cases/<slug>/<slug>.md` frontmatter `client_name` |
+| `{{client.dob}}` | Linked `Contacts/Clients/<slug>.md` frontmatter `dob` |
+| `{{client.ssn}}` | Linked client card `ssn` (optional — see SSN handling below) |
+| `{{accident_date}}` | `cases/<slug>/<slug>.md` frontmatter `date_of_incident` |
+| `{{treatment_dates}}` | Provider stub `treatment_start` / `treatment_end` |
+| `{{primary}}` | Firm settings (attorney name) |
 
-```python
-context = {
-    "TODAY_LONG": "December 6, 2024",
-    "provider": {
-        "name": "Louisville EMS",
-        "addressBlock": "123 Emergency Way\nLouisville, KY 40202",
-        "fax": "(502) 555-1234"
-    },
-    "client": {
-        "name": "John Smith",
-        "dob": "01/15/1985",
-        "ssn": "XXX-XX-1234"  # Masked for privacy
-    },
-    "accident_date": "December 1, 2024",
-    "treatment_dates": "December 1, 2024",  # Or range
-    "primary": "Aaron Whaley"
-}
-```
+## Billing request (PDF — `initial-medical-billing-request-to-provider-mbr`)
 
-## Data Source Locations
+PDF form fields (not mustache placeholders):
 
-| Data | File | JSON Path |
-|------|------|-----------|
-| Client name | `cases/<slug>/<slug>.md` (frontmatter) | `client_name` |
-| Client DOB | `cases/<slug>/contacts/` | `[type=client].dob` |
-| Client SSN | `cases/<slug>/contacts/` | `[type=client].ssn` |
-| Accident date | `cases/<slug>/<slug>.md` (frontmatter) | `accident_date` |
-| Provider name | `cases/<slug>/contacts/` (provider stubs) and `## Medical Providers` section | `[provider_id].name` |
-| Provider address | `cases/<slug>/contacts/` (provider stubs) and `## Medical Providers` section | `[provider_id].address` |
-| Provider fax | `cases/<slug>/contacts/` (provider stubs) and `## Medical Providers` section | `[provider_id].fax` |
-| Treatment dates | `cases/<slug>/contacts/` (provider stubs) and `## Medical Providers` section | `[provider_id].treatment.first_visit` / `last_visit` |
+| Field | Vault source |
+|---|---|
+| `PatientName` | `client_name` from case frontmatter |
+| `DateOfBirth` | Client master card `dob` |
+| `ProviderName` | Provider stub / master card `name` |
+| `ProviderAddress` | Provider stub / master card `address` |
+| `DateOfService` | Provider stub `treatment_start` — `treatment_end` |
+| `RequestDate` | Today |
 
-## PDF Template Fields
+## SSN handling
 
-For the PDF template (`2023 Whaley Law Firm Medical Request Template.pdf`):
+Three options, in order of preference:
 
-| Field Name | Description |
-|------------|-------------|
-| `PatientName` | Client name |
-| `DateOfBirth` | Client DOB |
-| `ProviderName` | Provider name |
-| `ProviderAddress` | Provider address |
-| `DateOfService` | Treatment date(s) |
-| `RequestDate` | Today's date |
+1. Omit the field if the provider does not require it (most do not).
+2. Last four only: `XXX-XX-1234`.
+3. Full SSN only when the provider has a documented requirement.
 
-## SSN Handling
+The firm default is to omit unless asked.
 
-Options for SSN field:
-1. **Full SSN**: `123-45-6789` (if required by provider)
-2. **Last 4 only**: `XXX-XX-6789` (privacy preference)
-3. **Omit**: Leave blank if not required
+## Where fields live in the vault
 
-Check provider requirements - many accept requests without SSN.
-
+All fields resolve through two hops: the case file frontmatter (`cases/<slug>/<slug>.md`) for case-level data, and the linked contact stubs (`cases/<slug>/contacts/<slug>.md`, which point at master cards under `Contacts/`) for client and provider data. No other state store is authoritative — if a value is missing, add it to the appropriate vault file rather than inventing it in the document.
