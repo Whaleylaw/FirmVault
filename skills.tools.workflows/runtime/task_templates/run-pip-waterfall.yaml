@@ -1,0 +1,44 @@
+---
+template_id: run-pip-waterfall
+landmark: insurance_claims_setup
+phase: phase_1_file_setup
+skill: pip-waterfall
+priority: high
+auto: true            # deterministic computation; no document goes out
+review: false
+
+task_id_template: "{case_slug}-pip-waterfall"
+discriminator: null   # only one per case
+
+emit_when: |
+  case.case_type == "auto_accident"
+  and case.jurisdiction == "KY"
+  and not case.frontmatter.pip_waterfall_complete
+
+success_check: |
+  case.frontmatter.pip_waterfall_complete == true
+
+inputs:
+  case_file: "cases/{case_slug}/{case_slug}.md"
+
+depends_on: []
+
+body: |
+  ## Task: Run Kentucky PIP waterfall
+
+  **Case:** [[cases/{{case_slug}}/{{case_slug}}|{{client_name}}]]
+  **Phase:** File Setup
+
+  Determine the correct PIP carrier under Kentucky's PIP waterfall rules.
+  Use the `pip-waterfall` skill. Read the case file, the BI claim files
+  at `cases/{{case_slug}}/claims/`, and any household vehicle / driver
+  information in the case frontmatter.
+
+  When done, set on the case file frontmatter:
+  ```yaml
+  pip_waterfall_complete: true
+  pip_waterfall_carrier: <slug-of-determined-carrier>
+  pip_waterfall_rationale: <one-line summary of why>
+  ```
+
+  This unblocks `pip-application` (KACP) which always follows.

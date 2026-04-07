@@ -1,0 +1,49 @@
+---
+template_id: file-pip-application
+landmark: insurance_claims_setup
+phase: phase_1_file_setup
+skill: pip-application
+priority: high
+auto: false
+review: true
+
+task_id_template: "{case_slug}-pip-application"
+discriminator: null
+
+emit_when: |
+  case.case_type == "auto_accident"
+  and case.jurisdiction == "KY"
+  and case.frontmatter.pip_waterfall_complete == true
+  and not case.frontmatter.pip_application_filed
+
+success_check: |
+  case.frontmatter.pip_application_filed == true
+
+inputs:
+  case_file: "cases/{case_slug}/{case_slug}.md"
+  template: "Templates/kacp-application-03-2021.pdf"
+  pip_carrier: "{frontmatter.pip_waterfall_carrier}"
+
+# Wait for the waterfall task to be done before this becomes ready
+depends_on:
+  - "{case_slug}-pip-waterfall"
+
+body: |
+  ## Task: File KACP PIP application with {{pip_carrier}}
+
+  **Case:** [[cases/{{case_slug}}/{{case_slug}}|{{client_name}}]]
+  **PIP carrier (from waterfall):** {{pip_carrier}}
+  **Phase:** File Setup
+
+  The Kentucky KACP application is ALWAYS required for PIP claims, even
+  for non-assigned-claims-plan carriers. Use the `pip-application` skill
+  with `Templates/kacp-application-03-2021.pdf` to fill the form from
+  case data.
+
+  Save the filled application to:
+  `cases/{{case_slug}}/documents/insurance/kacp-application.pdf`
+
+  After the attorney approves and the application is filed:
+  - Set `pip_application_filed: true` and `pip_application_filed_date: <today>`
+    on the case file frontmatter
+  - Log the activity in `cases/{{case_slug}}/Activity Log/`

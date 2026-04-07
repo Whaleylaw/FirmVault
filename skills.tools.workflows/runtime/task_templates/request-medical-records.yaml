@@ -1,0 +1,58 @@
+---
+template_id: request-medical-records
+landmark: records_requested_all_providers
+phase: phase_2_treatment
+skill: medical-records-request
+priority: normal
+auto: false           # always needs_review — medical record requests go out the door
+review: true
+
+# Deterministic id so the materializer doesn't double-create.
+# One task per (case, provider) — discriminator is the provider slug.
+task_id_template: "{case_slug}-records-request-{discriminator}"
+discriminator: per_provider
+
+# Predicate evaluated by the materializer to decide whether to emit this template.
+# Emit one task per provider on the case who does not yet have records requested.
+emit_when: |
+  any(
+    p for p in case.providers
+    if not p.records_requested
+  )
+
+# Predicate evaluated by the worker to confirm completion.
+success_check: |
+  all(p.records_requested for p in case.providers if p.slug == discriminator)
+
+inputs:
+  provider_slug: "{discriminator}"
+  case_file: "cases/{case_slug}/{case_slug}.md"
+  template: "Templates/medical-record-request.docx"
+
+depends_on: []        # no upstream tasks; can run as soon as a provider is identified
+
+body: |
+  ## Task: Request medical records from {{provider_name}}
+
+  **Case:** [[cases/{{case_slug}}/{{case_slug}}|{{client_name}}]]
+  **Provider:** [[contacts/{{provider_slug}}|{{provider_name}}]]
+  **Phase:** Treatment
+
+  Use the `medical-records-request` skill to draft and send a records request
+  to {{provider_name}}. Use `Templates/medical-record-request.docx` as the
+  base. Fill the placeholder fields from the case file and the provider
+  contact stub at `cases/{{case_slug}}/contacts/{{provider_slug}}.md`. Save
+  the filled letter to `cases/{{case_slug}}/documents/medical-requests/`.
+
+  After sending, update the provider stub frontmatter:
+  ```yaml
+  records_requested: true
+  records_requested_date: "<today>"
+  records_request_method: <fax|mail|portal>
+  ```
+
+  Then add a bullet to the case file `## Activity Log` recent list and
+  create the activity log entry per `DATA_CONTRACT.md` §5.
+
+  When done, this task should be marked needs_review so the attorney can
+  approve before the letter actually goes out.

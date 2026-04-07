@@ -1,0 +1,44 @@
+---
+template_id: biweekly-client-checkin
+landmark: client_check_in_active
+phase: phase_2_treatment
+skill: calendar-scheduling   # used to schedule the next; the actual call is human work
+priority: normal
+auto: false
+review: true
+recurring: true
+
+task_id_template: "{case_slug}-client-checkin-{discriminator}"
+discriminator: iso_week       # one task per ISO week per case
+
+emit_when: |
+  case.activity.last("client_contact").age_days >= 14
+
+success_check: |
+  case.activity.last("client_contact").age_days < 14
+
+inputs:
+  case_file: "cases/{case_slug}/{case_slug}.md"
+
+depends_on: []
+
+body: |
+  ## Task: Bi-weekly check-in with {{client_name}}
+
+  **Case:** [[cases/{{case_slug}}/{{case_slug}}|{{client_name}}]]
+  **Phase:** Treatment
+  **Last contact:** {{last_contact_date}} ({{days_since_last_contact}} days ago)
+
+  This is a recurring check-in task. The client has not been contacted in
+  more than 14 days. Schedule and perform the check-in:
+
+  1. Pull the most recent providers and bills/records status from the case file
+  2. Note any open questions from the prior check-in's activity log entry
+  3. Place the call (or text per client preference) — the activity log entry
+     created by the call will satisfy the success_check
+  4. Update the case file `## Medical Providers` section if anything new came up
+  5. If treatment status changed (treating → MMI → discharged), update the
+     `treatment_complete` frontmatter accordingly
+
+  This task is `recurring: true` and a new one will be created next week
+  whether or not this one is closed by the materializer.
