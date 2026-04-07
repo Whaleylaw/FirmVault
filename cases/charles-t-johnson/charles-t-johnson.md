@@ -34,6 +34,14 @@ date_of_incident: "2023-04-18"
 - [[claims/bi-state-farm-insurance-company|BI — State Farm Insurance Company]] — Claim #1748L638H (no_demand)
 - [[claims/pip-auto-owners-insurance|PIP — Auto Owners Insurance]] — Claim #3002385272023 (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Personal Injury Protection (PIP) | Auto Owners Insurance | 3002385272023 | Amy Cox | 800-397-4267 ext. 54610 Main |  | 502-253-0960 | PO Box 221409, Louisville, KY 40252 |
+| Bodily Injury (BI) | State Farm Insurance Company | 1748L638H | Benjamine Groce | 4802936417 |  | 1-800-782-8332 | P.O Box 106171, Atlanta, GA 30348 |
+<!-- roscoe-insurance-end -->
+
 ## Liens
 - [[liens/medicare|Medicare]] — medicare (identified)
 

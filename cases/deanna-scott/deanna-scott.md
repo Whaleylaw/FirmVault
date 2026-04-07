@@ -24,5 +24,13 @@ date_of_incident: "2025-12-21"
 - [[claims/bi-allstate-insurance|BI — Allstate Insurance]] — Claim #816393581 (no_demand)
 - [[claims/pip-travelers-insurance|PIP — Travelers Insurance]] — Claim #JGN7429 (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | Allstate Insurance | 816393581 | Patasha Tarkhuft | 615-874-6842 |  | (800) 255-7828 Main | PO Box 2874, Claims Department, Clinton, IA 52733 |
+| Personal Injury Protection (PIP) | Travelers Insurance | JGN7429 |  |  |  | 800-252-4633 Main | P.O. Box 660456, Dallas, TX 75266 |
+<!-- roscoe-insurance-end -->
+
 ## Activity Log
 Recent: [[Activity Log/2026-03-02-medical|2026-03-02 — medical]]

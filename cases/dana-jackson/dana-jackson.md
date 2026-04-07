@@ -29,6 +29,14 @@ date_of_incident: "2024-01-24"
 - [[claims/bi-state-farm-insurance-company|BI — State Farm Insurance Company]] — Claim #1762X766D (no_demand)
 - [[claims/pip-the-general-insurance|PIP — The General Insurance]] — Claim #1007187244 (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Personal Injury Protection (PIP) | The General Insurance | 1007187244 | Dana Cohen | 800-280-1466 ext 6347 | medpip@thegeneral.com | 800-280-1466 | P.O. Box 305195, Nashville, TN 37230-5195 |
+| Bodily Injury (BI) | State Farm Insurance Company | 1762X766D | Sharika Moses | 309-834-9508 |  | 1-800-782-8332 | P.O Box 106171, Atlanta, GA 30348 |
+<!-- roscoe-insurance-end -->
+
 ## Liens
 - [[liens/aetna-better-health-of-kentucky|Aetna Better Health of Kentucky]] — hospital — $607.41 (amount_confirmed)
 - [[liens/capital-strategies|Capital Strategies]] — health_insurance (identified)

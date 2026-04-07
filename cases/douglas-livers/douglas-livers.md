@@ -30,6 +30,15 @@ date_of_incident: "2023-01-19"
 - [[claims/pip-allstate-insurance|PIP — Allstate Insurance]] — Claim #700228547 (no_demand)
 - [[claims/um-unknown|UM]] — Claim #700228547 (demand_pending)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Uninsured Motorist (UM) | Allstate Insurance | 700228547 | Thomas Blizzard | (330) 655-1956 |  | (800) 255-7828 Main | PO Box 2874, Claims Department, Clinton, IA 52733 |
+| Personal Injury Protection (PIP) | Allstate Insurance | 700228547 | Brittany Carr | (713) 277-9437 |  | (800) 255-7828 Main | PO Box 2874, Claims Department, Clinton, IA 52733 |
+| Bodily Injury (BI) | Root Auto Insurance | QMJF78KY | Angela Casey | 380-235-7317 | angela.casey@joinroot.com | 614-591-4463 Fax | 6602 E 7th St, Suite 500, Indiapolis, IN 46250 |
+<!-- roscoe-insurance-end -->
+
 ## Liens
 - [[liens/aptiva-health|Aptiva Health]] — hospital — $2,235.00 (amount_confirmed)
 - [[liens/kentucky-child-support-enforcement|Kentucky Child Support Enforcement]] — health_insurance — $46,260.51 (amount_confirmed)

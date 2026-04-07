@@ -35,6 +35,13 @@ date_of_incident: "2022-12-03"
 ## Insurance Claims
 - [[claims/bi-kentucky-farm-bureau|BI — Kentucky Farm Bureau]] — Claim #4778044 (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | Kentucky Farm Bureau | 4778044 | Jason Osboe | 270-782-1300 | Jason.Osboe@kyfb.com | 502-266-6100 | P.O. Box 20400, Louisville, KY 40250 |
+<!-- roscoe-insurance-end -->
+
 ## Liens
 - [[liens/medicare|Medicare]] — medicare — $10,157.36 (amount_confirmed)
 - [[liens/unknown|Unknown]] — medicare (identified)

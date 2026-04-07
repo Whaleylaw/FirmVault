@@ -26,5 +26,14 @@ date_of_incident: "2025-12-23"
 - [[claims/bi-progressive-insurance-company|BI — Progressive Insurance Company]] — Claim #25-583405268 (no_demand)
 - [[claims/pip-kentucky-farm-bureau|PIP — Kentucky Farm Bureau]] — Claim #8069631 (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Under Insured Motorist (UIM) | Kentucky Farm Bureau | 8069631 | Sarah Riggs | 502-456-1664 | sarah.riggs@kyfb.com | 502-266-6100 | P.O. Box 20400, Louisville, KY 40250 |
+| Personal Injury Protection (PIP) | Kentucky Farm Bureau | 8069631 | Sarah Riggs | 502-456-1664 | sarah.riggs@kyfb.com | 502-266-6100 | P.O. Box 20400, Louisville, KY 40250 |
+| Bodily Injury (BI) | Progressive Insurance Company | 25-583405268 | Sarah Munson | 407-618-8668 |  | (800) 776-4737 | 9520 Ormbsy Station Rd, Ste 200, louisville, KY 40223 |
+<!-- roscoe-insurance-end -->
+
 ## Activity Log
 Recent: [[Activity Log/2026-03-04-correspondence|2026-03-04 — correspondence]]

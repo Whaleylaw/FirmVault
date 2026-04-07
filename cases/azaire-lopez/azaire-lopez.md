@@ -26,5 +26,13 @@ date_of_incident: "2025-11-14"
 - [[claims/pip-progressive-insurance-company|PIP — Progressive Insurance Company]] — Claim #25695180369 (no_demand)
 - [[claims/pip-unknown|PIP]] — Claim #25695180369 (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | Auto Owners | 300-0701136-2025 | Dietrich Rudolph | 502-253-0960(58194) | Rudolph.Dietrich@aoins.com | 1-502-253-0960 Main | P.O. Box 221409, , Louisville, KY 40252 |
+| Personal Injury Protection (PIP) | Progressive Insurance Company | 25695180369 | Katie Mills | 502-909-9687 |  | (800) 776-4737 | 9520 Ormbsy Station Rd, Ste 200, louisville, KY 40223 |
+<!-- roscoe-insurance-end -->
+
 ## Activity Log
 Recent: [[Activity Log/2025-12-04-medical|2025-12-04 — medical]]

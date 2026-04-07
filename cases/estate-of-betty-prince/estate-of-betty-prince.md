@@ -33,6 +33,13 @@ date_of_incident: "2020-07-14"
 - [[claims/pip-unknown|PIP]] (no_demand)
 - [[claims/pip-unknown|PIP]] — Claim #037621490-0800-000 (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+|  |  |  |  |  |  |  |  |
+<!-- roscoe-insurance-end -->
+
 ## Liens
 - [[liens/humana|Humana]] — health_insurance — $5,887.97 (amount_confirmed)
 - [[liens/unknown|Unknown]] — health_insurance (identified)

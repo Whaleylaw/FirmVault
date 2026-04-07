@@ -68,6 +68,20 @@ date_of_incident: "2022-11-08"
 - [[claims/um-unknown|UM]] (no_demand)
 - [[claims/under insured motorist-farmers-insurance|Under Insured Motorist — Farmers Insurance]] (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Uninsured Motorist (UM) | Farmers Insurance |  | Michael Santos | (248) 488-2779 | MyClaim@FarmersInsurance.com | 1-800-435-7764 | P.O. Box 6040, Scranton, PA 18505 |
+| Under Insured Motorist (UIM) | Farmers Insurance |  | Michael Santos | (248) 488-2779 | MyClaim@FarmersInsurance.com | 1-800-435-7764 | P.O. Box 6040, Scranton, PA 18505 |
+| Bodily Injury (BI) | Progressive Insurance Company | 22-8451213 | Mark Tesoriero | 440-395-4071 | Mark_Tesoriero@progressive.com | (800) 776-4737 | 9520 Ormbsy Station Rd, Ste 200, louisville, KY 40223 |
+| Bodily Injury (BI) | American Transit Insurance | 1123215-2 |  |  |  | (212) 857-8200 | 1 MetroTech Center, 7th Floor, Brooklyn, NY 11201 |
+| Personal Injury Protection (PIP) | American Transit Insurance | 1123215 | Chevan Douglas | (212) 857-8200 Ext 1624 |  | (212) 857-8200 | 1 MetroTech Center, 7th Floor, Brooklyn, NY 11201 |
+| 3rd Party Vehicle | USAA Insurance Company |  |  |  |  | 800-531-8722 | PO Box 33490, San Antonio, TX 78265 |
+| Bodily Injury (BI) | West Bend Mutual Insurance | AP92071 | Ashley Becerra | 608-410-3631 Main | abecerra@wbmi.com | 8002365010 | 1900 S 18th Ave, West Bend, WI 53095 |
+| Personal Injury Protection (PIP) | Farmers Insurance | 7005284778-1-2 | Michael Santos | (248) 488-2779 | MyClaim@FarmersInsurance.com | 1-800-435-7764 | P.O. Box 6040, Scranton, PA 18505 |
+<!-- roscoe-insurance-end -->
+
 ## Liens
 - [[liens/asp-cares|ASP Cares]] — health_insurance (identified)
 - [[liens/anointed-hands-injury-rehab|Anointed Hands Injury Rehab]] — health_insurance (identified)

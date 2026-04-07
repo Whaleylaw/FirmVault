@@ -24,5 +24,13 @@ date_of_incident: "2025-11-19"
 - [[claims/bi-auto-owners-insurance|BI — Auto Owners Insurance]] — Claim #300-0715287-2025 (no_demand)
 - [[claims/pip-liberty-mutual-insurance-company|PIP — Liberty Mutual Insurance Company]] — Claim #60476545 (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | Auto Owners Insurance | 300-0715287-2025 | Mike Jorgensen | 800)397-4267x 59043 | LEXINGTON.CLM@AOINS.COM | 502-253-0960 | PO Box 221409, Louisville, KY 40252 |
+| Personal Injury Protection (PIP) | Liberty Mutual Insurance Company | 60476545 | Jeffrey Gullett | 513-867-3817 | Jeffrey.Gullett@libertymutual.com | 800-290-7933 Main | PO Box 5014, Scranton, PA 18505 |
+<!-- roscoe-insurance-end -->
+
 ## Activity Log
 Recent: [[Activity Log/2026-03-02-legal|2026-03-02 — legal]]

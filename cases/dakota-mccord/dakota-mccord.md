@@ -26,6 +26,14 @@ date_of_incident: "2025-10-12"
 - [[claims/bi-unknown|BI]] — Claim #25-423678921 (no_demand)
 - [[claims/pip-unknown|PIP]] (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | Progressive Insurance Company | 25-423678921 | Robert Alexander | 440-395-3815 |  | (800) 776-4737 | 9520 Ormbsy Station Rd, Ste 200, louisville, KY 40223 |
+| Personal Injury Protection (PIP) | Progressive Insurance Company | 25-743079174 | Jeremy Mathis | 219-649-7290 |  | (800) 776-4737 | 9520 Ormbsy Station Rd, Ste 200, louisville, KY 40223 |
+<!-- roscoe-insurance-end -->
+
 ## Liens
 - [[liens/katch|KATCH]] — health_insurance (identified)
 

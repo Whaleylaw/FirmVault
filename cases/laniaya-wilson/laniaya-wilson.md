@@ -23,5 +23,12 @@ date_of_incident: "2025-10-24"
 ## Insurance Claims
 - [[claims/bi-state-farm-insurance-company|BI — State Farm Insurance Company]] — Claim #1792M414X (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | State Farm Insurance Company | 1792M414X | Kristi Hanks | 945-219-8483 |  | 1-800-782-8332 | P.O Box 106171, Atlanta, GA 30348 |
+<!-- roscoe-insurance-end -->
+
 ## Activity Log
 Recent: [[Activity Log/2026-02-02-correspondence|2026-02-02 — correspondence]]

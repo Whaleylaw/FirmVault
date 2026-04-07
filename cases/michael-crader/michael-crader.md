@@ -32,6 +32,15 @@ date_of_incident: "2023-05-19"
 - [[claims/pip-everett-cash-mutual-insurance|PIP — Everett Cash Mutual Insurance]] — Claim #12301632 (no_demand)
 - [[claims/uim-erie-insurance-group|UIM — Erie Insurance Group]] — Claim #A00005338855 (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Under Insured Motorist (UIM) | Erie Insurance Group | A00005338855 | Frank Smith | 859-219-4930 | Frank.Smith@erieinsurance.com | 877-589-3743 | 1146 Monarch Street Suite 140, Lexington, KY 40503 |
+| Personal Injury Protection (PIP) | Everett Cash Mutual Insurance | 12301632 | Tarin Kokoska | 407-753-6816 | t.kokoska@capstoneisg.com | 814-652-6111 |  |
+| Bodily Injury (BI) | Kentucky Farm Bureau | 4863358 | Holly Highley | 606-784-7536 | holly.highley@kyfb.com | 502-266-6100 | P.O. Box 20400, Louisville, KY 40250 |
+<!-- roscoe-insurance-end -->
+
 ## Liens
 - [[liens/unknown|Unknown]] — health_insurance (identified)
 - [[liens/va-ccn-optum|VA CCN - Optum]] — va — $86,505.91 (amount_confirmed)

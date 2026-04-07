@@ -37,6 +37,13 @@ date_of_incident: "2022-08-19"
 ## Insurance Claims
 - [[claims/bi-kentucky-farm-bureau|BI — Kentucky Farm Bureau]] — Claim #4830025 (settled)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | Kentucky Farm Bureau | 4830025 | Nichole Smith | (502) 456-1664 | Nichole.Smith@KYFB.com | (866) 532-2524 |  |
+<!-- roscoe-insurance-end -->
+
 ## Liens
 - [[liens/anthem-blue-cross-blue-shield|Anthem Blue Cross Blue Shield]] — health_insurance (identified)
 - [[liens/anthem-medicaid|Anthem Medicaid]] — medicaid (identified)

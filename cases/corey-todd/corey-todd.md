@@ -20,5 +20,12 @@ date_of_incident: "2025-08-02"
 ## Insurance Claims
 - [[claims/bi-allstate-insurance|BI — Allstate Insurance]] (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | Allstate Insurance |  |  |  |  | (800) 255-7828 Main | PO Box 2874, Claims Department, Clinton, IA 52733 |
+<!-- roscoe-insurance-end -->
+
 ## Activity Log
 Recent: [[Activity Log/2025-10-09-task|2025-10-09 — task]]

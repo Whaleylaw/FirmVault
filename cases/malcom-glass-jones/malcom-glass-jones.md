@@ -26,5 +26,14 @@ date_of_incident: "2024-10-02"
 - [[claims/bi-shelter-insurance|BI — Shelter Insurance]] — Claim #AT0000003753979 (demand_pending)
 - [[claims/pip-shelter-insurance|PIP — Shelter Insurance]] — Claim #3753979 (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | Shelter Insurance | AT0000003753979 | Cole Barnes | 859-260-3480 | CBarnes@ShelterInsurance.com | (800) 743-5837 Main | P.O. Box 6008, Columbia, MO 65205 |
+| Bodily Injury (BI) | Kentucky Farm Bureau | 8055562 | Pat Hargadon | 502-633-2310 | pat.hargadon@kyfb.com | 502-266-6100 | P.O. Box 20400, Louisville, KY 40250 |
+| Personal Injury Protection (PIP) | Shelter Insurance | 3753979 | Emily Friedrich | 573-214-4227 | efriedrich@shelterinsurance.com | (800) 743-5837 Main | P.O. Box 6008, Columbia, MO 65205 |
+<!-- roscoe-insurance-end -->
+
 ## Activity Log
 Recent: [[Activity Log/2025-09-16-financial|2025-09-16 — financial]]

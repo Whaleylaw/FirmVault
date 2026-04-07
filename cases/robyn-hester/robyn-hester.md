@@ -22,6 +22,16 @@ date_of_incident: "2022-02-23"
 - [[claims/bi-progressive-insurance-company|BI — Progressive Insurance Company]] — Claim #224765245 (no_demand)
 - [[claims/pip-unknown|PIP]] (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Personal Injury Protection (PIP) |  |  |  |  |  |  |  |
+| Bodily Injury (BI) | Progressive Insurance Company | 224765245 | Christine Renner | 440-910-6333 | Christine_Renner@progressive.com | (800) 776-4737 | 9520 Ormbsy Station Rd, Ste 200, louisville, KY 40223 |
+| Bodily Injury (BI) | Ryder National Liabilities Office | 2077817 | Heath Doran | 800-753-8808 ext 5313 | Heath_Doran@ryder.com | 800-753-8808 |  |
+| Bodily Injury (BI) | Geico Insurance Company | 681812020000004 | Andrew Shoultz | 478-722-2913 Main | ashoultz@geico.com | 800-841-3005 | One Geico Center, Macon, GA 31296-0001 |
+<!-- roscoe-insurance-end -->
+
 ## Liens
 - [[liens/legal-funding-partners|Legal Funding Partners]] — workers_comp — $4,000.00 (amount_confirmed)
 - [[liens/thrivest-link|Thrivest Link]] — workers_comp — $171,764.11 (amount_confirmed)

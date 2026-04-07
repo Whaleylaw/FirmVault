@@ -37,6 +37,14 @@ date_of_incident: "2023-05-03"
 - [[claims/bi-ford-workers-compensation|BI — Ford Worker's Compensation]] — Claim #841603 (no_demand)
 - [[claims/pip-unicare-life-health-insurance-company|PIP — UniCare Life & Health Insurance Company]] — Claim #ST00539878 (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Workers' Compensation (WC) | Ford Worker's Compensation | 841603 | Dana Ballinger | 502-429-2240 | dballing@ford.com | 1-800-508-2065 |  |
+| Short Term Disability | UniCare Life & Health Insurance Company | ST00539878 |  |  |  | 800-572-1581 | P.O. Box 4479, Dearborn, MI 48126 |
+<!-- roscoe-insurance-end -->
+
 ## Expenses
 | Creditor | Amount | Category |
 |----------|--------|----------|

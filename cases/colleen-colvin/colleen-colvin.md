@@ -32,6 +32,15 @@ date_of_incident: "2023-10-01"
 - [[claims/bi-kentucky-farm-bureau|BI — Kentucky Farm Bureau]] — Claim #4908174 (no_demand)
 - [[claims/um-state-farm-insurance-company|UM — State Farm Insurance Company]] — Claim #1756Z294R (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Uninsured Motorist (UM) | State Farm Insurance Company | 1756Z294R | Randy Carney | 615-692-3444 Main | statefarmclaims@statefarm.com | 1-800-782-8332 | P.O Box 106171, Atlanta, GA 30348 |
+| Bodily Injury (BI) | Kentucky Farm Bureau | 4908174 | Ben Taylor | 270-465-9771 | ben.taylor2@kyfb.com | 502-266-6100 | P.O. Box 20400, Louisville, KY 40250 |
+| Personal Injury Protection (PIP) | State Farm Insurance Company | 1756Z294R | State Farm PIP Team | 844-292-8615 xt 506 Main | statefarmclaims@statefarm.com | 1-800-782-8332 | P.O Box 106171, Atlanta, GA 30348 |
+<!-- roscoe-insurance-end -->
+
 ## Liens
 - [[liens/premera-blue-cross|Premera Blue Cross]] — health_insurance (identified)
 - [[liens/state-farm-insurance-company|State Farm Insurance Company]] — other — $32.83 (amount_confirmed)

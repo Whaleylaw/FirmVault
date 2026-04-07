@@ -16,6 +16,13 @@ date_of_incident: "2026-02-08"
 
 ## Insurance Claims
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Personal Injury Protection (PIP) | Nationwide Mutual Insurance Company |  |  |  |  | (877) 669-6877 | P.O. Box 26005, Daphne, AL 36526-5005 |
+<!-- roscoe-insurance-end -->
+
 ## Liens
 
 ## Expenses

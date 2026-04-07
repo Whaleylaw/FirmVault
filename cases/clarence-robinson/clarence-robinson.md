@@ -38,6 +38,14 @@ date_of_incident: "2021-06-10"
 ## Insurance Claims
 - [[claims/bi-amtrust-north-america|BI — AmTrust North America]] (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Workers' Compensation (WC) | AmTrust North America |  |  |  |  | (312) 638-3625 | P.O. Box 89404, Cleveland, OH 44101 |
+| Bodily Injury (BI) | Old Republic Insurance Company | 30217714223-003 | Jillian Prikle | (717) 526-6002 | Jillian.Pirkle@sedgwick.com | (800) 747-5256 | 307 N. Michigan Ave, Chicago, IL 60601 |
+<!-- roscoe-insurance-end -->
+
 ## Liens
 - [[liens/amtrust-north-america|AmTrust North America]] — workers_comp — $30,926.28 (amount_confirmed)
 - [[liens/john-r-rosson-jr|John R. Rosson, Jr.]] — other (identified)

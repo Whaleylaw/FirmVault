@@ -36,6 +36,15 @@ date_of_incident: "2021-01-03"
 - [[claims/medicaid health ins-aetna-life-insurance-company|Medicaid Health Ins — Aetna Life Insurance Company]] — Claim #Event Number: 75459116 (no_demand)
 - [[claims/private health ins-anthem-medicaid-health-plans-of-ky-inc|Private Health Ins — Anthem Medicaid Health Plans Of KY Inc.]] — Claim #File Number: 113138913 (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Medicaid Health Ins | Aetna Life Insurance Company | Event Number: 75459116 |  |  |  | 1-888-772-9682 | P.O. Box 14079, Lexington, KY 40512 |
+| Private Health Ins (PHI) | Anthem Medicaid Health Plans Of KY Inc. | File Number: 113138913 | Bobby Jo Lade | (513) 336-3529 | Bobby.Lade@Anthem.com | (844) 364-2521 Fax | P.O. Box 61010, Virginia Beach, VA 23466-1010 |
+| Kentucky Assigned Claims (KAC) | Safeco Insurance Company of Illinois | LA000-044618000-03 | Ronald Gauntt | 856-355-7729 Main | Ronald.Gauntt@libertymutual.com | 800-332-3226 | P.O Box 5014, Scranton, PA 18505-5014 |
+<!-- roscoe-insurance-end -->
+
 ## Expenses
 | Creditor | Amount | Category |
 |----------|--------|----------|

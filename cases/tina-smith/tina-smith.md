@@ -21,6 +21,13 @@ date_of_incident: "2025-04-02"
 ## Insurance Claims
 - [[claims/bi-west-bend-mutual-insurance|BI — West Bend Mutual Insurance]] — Claim #AS13802 (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | West Bend Mutual Insurance | AS13802 |  |  |  | 8002365010 | 1900 S 18th Ave, West Bend, WI 53095 |
+<!-- roscoe-insurance-end -->
+
 ## Liens
 - [[liens/carelon-subrogation|Carelon Subrogation]] — health_insurance — $2,300.36 (amount_confirmed)
 

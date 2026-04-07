@@ -16,6 +16,13 @@ date_of_incident: "2023-10-24"
 ## Insurance Claims
 - [[claims/bi-unknown|BI]] — Claim #17-N836-0G8 (demand_pending)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | State Farm Fire & Casualty Company | 17-N836-0G8 |  |  |  | (844) 458-4300 Fax | P.O. Box 106169, Atlanta, GA 30348 |
+<!-- roscoe-insurance-end -->
+
 ## Liens
 - [[liens/unknown|Unknown]] — health_insurance (identified)
 

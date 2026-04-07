@@ -26,6 +26,14 @@ date_of_incident: "2025-06-30"
 - [[claims/bi-unknown|BI]] — Claim #1748L638H (demand_pending)
 - [[claims/pip-unknown|PIP]] — Claim #3002385272023 (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | Progressive Insurance Company | 25631251364 | Joshua White | 502-909-3678 | Joshua_F_White@progressive.com | (800) 776-4737 | 9520 Ormbsy Station Rd, Ste 200, louisville, KY 40223 |
+| Personal Injury Protection (PIP) | Kentucky Farm Bureau | 5117901 | Casey May | 502-493-7625 | Casey.May@kyfb.com | 502-266-6100 | P.O. Box 20400, Louisville, KY 40250 |
+<!-- roscoe-insurance-end -->
+
 ## Liens
 - [[liens/humana|Humana]] — health_insurance — $783.60 (amount_confirmed)
 - [[liens/unknown|Unknown]] — medicare (identified)

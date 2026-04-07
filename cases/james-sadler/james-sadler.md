@@ -31,6 +31,14 @@ date_of_incident: "2023-04-07"
 - [[claims/bi-state-farm-insurance-company|BI — State Farm Insurance Company]] — Claim #1748B202X (settled)
 - [[claims/pip-state-farm-insurance-company|PIP — State Farm Insurance Company]] — Claim #1747X443M (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Personal Injury Protection (PIP) | State Farm Insurance Company | 1747X443M | Doris Kenyon | 844-292-8615(506) |  | 1-800-782-8332 | P.O Box 106171, Atlanta, GA 30348 |
+| Bodily Injury (BI) | State Farm Insurance Company | 1748B202X | William Beaver | 740-364-3006 |  | 1-800-782-8332 | P.O Box 106171, Atlanta, GA 30348 |
+<!-- roscoe-insurance-end -->
+
 ## Liens
 - [[liens/anthem-blue-cross-blue-shield|Anthem Blue Cross Blue Shield]] — health_insurance — $425.41 (amount_confirmed)
 - [[liens/anthem-medicaid|Anthem Medicaid]] — medicaid — $425.41 (amount_confirmed)

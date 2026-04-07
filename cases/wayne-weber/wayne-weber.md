@@ -44,6 +44,14 @@ date_of_incident: "2022-01-01"
 - [[claims/bi-state-farm-insurance-company|BI — State Farm Insurance Company]] — Claim #1429C180C (no_demand)
 - [[claims/pip-kentucky-farm-bureau|PIP — Kentucky Farm Bureau]] — Claim #4671023 (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | State Farm Insurance Company | 1429C180C | Lyn Zangmeister | 740-364-5600 |  | 1-800-782-8332 | P.O Box 106171, Atlanta, GA 30348 |
+| Personal Injury Protection (PIP) | Kentucky Farm Bureau | 4671023 | Ashley Mcneese | 502-493-7683 | ashley.mcneese@kyfb.com | 502-266-6100 | P.O. Box 20400, Louisville, KY 40250 |
+<!-- roscoe-insurance-end -->
+
 ## Liens
 - [[liens/medicare|Medicare]] — medicare (identified)
 - [[liens/southern-guaranty-insurance-company-medicare-supplement|Southern Guaranty Insurance Company - Medicare Supplement]] — medicare (identified)

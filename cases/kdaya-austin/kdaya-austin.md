@@ -25,5 +25,13 @@ date_of_incident: "2026-02-05"
 - [[claims/bi-progressive-insurance-company|BI — Progressive Insurance Company]] — Claim #26902693113 (no_demand)
 - [[claims/pip-state-farm-insurance-company|PIP — State Farm Insurance Company]] — Claim #1796P336Q (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Personal Injury Protection (PIP) | State Farm Insurance Company | 1796P336Q | Heather Cornell | 844-292-8615 ext 21214 |  | 1-800-782-8332 | P.O Box 106171, Atlanta, GA 30348 |
+| Bodily Injury (BI) | Progressive Insurance Company | 26902693113 | Brooke Ryan | 502-909-3644 | Brooke_Ryan@progressive.com | (800) 776-4737 | 9520 Ormbsy Station Rd, Ste 200, louisville, KY 40223 |
+<!-- roscoe-insurance-end -->
+
 ## Activity Log
 Recent: [[Activity Log/2026-02-27-correspondence|2026-02-27 — correspondence]]

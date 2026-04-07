@@ -26,6 +26,14 @@ date_of_incident: "2023-08-12"
 - [[claims/bi-risk-management-services-company|BI — Risk Management Services Company]] — Claim #305240079 (no_demand)
 - [[claims/pip-usaa-insurance-company|PIP — USAA Insurance Company]] — Claim #037621490-0800-000 (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | Risk Management Services Company | 305240079 | J. Clarke McCulloch | 708-3117 Main | cmcculloch@rmsc.com | 502-708-3100 | P.O. Box 22989, Louisville, KY 40252 |
+| Personal Injury Protection (PIP) | USAA Insurance Company | 037621490-0800-000 |  |  |  | 800-531-8722 | PO Box 33490, San Antonio, TX 78265 |
+<!-- roscoe-insurance-end -->
+
 ## Liens
 - [[liens/blue-cross-blue-shield-of-illinois|Blue Cross Blue Shield of Illinois]] — health_insurance (identified)
 - [[liens/teamcare|TeamCare]] — health_insurance — $89,212.31 (amount_confirmed)

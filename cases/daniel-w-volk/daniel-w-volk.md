@@ -37,6 +37,15 @@ date_of_incident: "2021-09-24"
 - [[claims/pip-safeco-insurance-company|PIP — SafeCo Insurance Company]] — Claim #47060829 (no_demand)
 - [[claims/uim-unknown|UIM]] — Claim #47060829 (demand_pending)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Under Insured Motorist (UIM) | SafeCo Insurance Company | 47060829 | Kimberle Pishke | 470-655-4309 | kimberle.pischke@libertymutual.com | (888) 268-8840 Fax |  |
+| Bodily Injury (BI) | Grange Insurance | ZPA003356461 | Kayla Kinzel | 800-422-0550 ext 7206 | kinzelk@grangeinsurance.com | 614-593-7409 | PO Box 183643, Columbus, OH 43218 |
+| Personal Injury Protection (PIP) | SafeCo Insurance Company | 47060829 | Bethany Pineda | 856-435-2864 | bethany.pineda@safeco.com | (888) 268-8840 Fax |  |
+<!-- roscoe-insurance-end -->
+
 ## Liens
 - [[liens/anthem-medicaid|Anthem Medicaid]] — medicaid — $2,452.30 (amount_confirmed)
 - [[liens/unknown|Unknown]] — health_insurance (identified)

@@ -34,5 +34,14 @@ date_of_incident: "2025-03-15"
 - [[claims/bi-geico-insurance-company|BI — Geico Insurance Company]] — Claim #8838008180000001 (no_demand)
 - [[claims/pip-progressive-insurance-company|PIP — Progressive Insurance Company]] — Claim #25-311813973 (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | Mobilitas Insurance Company | 250-068-9702 | Hannah Snow | 405-493-7155 | Hannah.Snow@mobilitasinsurance.com | 877-268-1408 | 5353 W. Bell Road,, Glendale, AZ 85308 |
+| Bodily Injury (BI) | Geico Insurance Company | 8838008180000001 | Myderia Pittman | 478-744-5132 Main |  | 800-841-3005 | One Geico Center, Macon, GA 31296-0001 |
+| Personal Injury Protection (PIP) | Progressive Insurance Company | 25-311813973 | Monica Jones | 5029093576 |  | (800) 776-4737 | 9520 Ormbsy Station Rd, Ste 200, louisville, KY 40223 |
+<!-- roscoe-insurance-end -->
+
 ## Activity Log
 Recent: [[Activity Log/2026-01-14-legal|2026-01-14 — legal]]

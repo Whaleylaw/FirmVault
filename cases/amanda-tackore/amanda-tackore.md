@@ -23,5 +23,12 @@ date_of_incident: "2026-01-24"
 ## Insurance Claims
 - [[claims/bi-sedgwick-claims-management-services|BI — Sedgwick Claims Management Services]] — Claim #4A2601TT8T7-00001 (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | Sedgwick Claims Management Services | 4A2601TT8T7-00001 | April Lowe | 501-716-6276 | April.lowe@sedgwick.com | (847) 405-1082 | P.O. Box 14439, Lexington, KY 40512 |
+<!-- roscoe-insurance-end -->
+
 ## Activity Log
 Recent: [[Activity Log/2026-02-10-medical|2026-02-10 — medical]]

@@ -23,5 +23,14 @@ date_of_incident: "2025-06-28"
 - [[claims/bi-unknown|BI]] (no_demand)
 - [[claims/pip-unknown|PIP]] (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | National General | 250525568 | Everado Valle | 469-680-0232 |  | 8003251088 |  |
+| Bodily Injury (BI) | Progressive Insurance Company | 25-471551085 | McKenna Marshall | 205-578-3055 |  | (800) 776-4737 | 9520 Ormbsy Station Rd, Ste 200, louisville, KY 40223 |
+| Personal Injury Protection (PIP) | State Farm Insurance Company | 17-87C986K |  |  |  | 1-800-782-8332 | P.O Box 106171, Atlanta, GA 30348 |
+<!-- roscoe-insurance-end -->
+
 ## Activity Log
 Recent: [[Activity Log/2026-01-23-correspondence|2026-01-23 — correspondence]]

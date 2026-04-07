@@ -42,6 +42,13 @@ date_of_incident: "2023-02-25"
 ## Insurance Claims
 - [[claims/bi-sedgwick-claims-management-services|BI — Sedgwick Claims Management Services]] — Claim #C321835845-0001-01 (demand_pending)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | Sedgwick Claims Management Services | C321835845-0001-01 | Tatisha "Tish" Booker | (847) 405-1082 | Tatisha.Booker@Sedgwick.com | (847) 405-1082 | P.O. Box 14439, Lexington, KY 40512 |
+<!-- roscoe-insurance-end -->
+
 ## Liens
 - [[liens/uhp-administrators|UHP Administrators]] — health_insurance — $35,169.71 (amount_confirmed)
 - [[liens/unknown|Unknown]] — health_insurance (identified)

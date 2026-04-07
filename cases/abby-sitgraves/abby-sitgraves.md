@@ -43,6 +43,13 @@ date_of_incident: "2024-07-13"
 ## Insurance Claims
 - [[claims/pip-national-indemnity-company|PIP — National Indemnity Company]] — Claim #633859-N (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Personal Injury Protection (PIP) | National Indemnity Company | 633859-N | Jordan Bahr | (402) 916-3063 | jabahr@nationalindemnity.com |  |  |
+<!-- roscoe-insurance-end -->
+
 ## Liens
 - [[liens/key-benefit-administrators|Key Benefit Administrators]] — health_insurance — $358.51 (amount_confirmed)
 - [[liens/unknown|Unknown]] — health_insurance (identified)

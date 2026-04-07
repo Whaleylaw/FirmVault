@@ -27,5 +27,13 @@ date_of_incident: "2025-07-05"
 - [[claims/bi-progressive-insurance-company|BI — Progressive Insurance Company]] — Claim #25-407673172 (no_demand)
 - [[claims/pip-erie-insurance-group|PIP — Erie Insurance Group]] — Claim #A00006928311 (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | Progressive Insurance Company | 25-407673172 | Joshua White | 502-909-3678 | Joshua_F_White@progressive.com | (800) 776-4737 | 9520 Ormbsy Station Rd, Ste 200, louisville, KY 40223 |
+| Personal Injury Protection (PIP) | Erie Insurance Group | A00006928311 | Leigh King | 859-219-4951 | leigh.King@ERieInsurance.com | 877-589-3743 | 1146 Monarch Street Suite 140, Lexington, KY 40503 |
+<!-- roscoe-insurance-end -->
+
 ## Activity Log
 Recent: [[Activity Log/2025-12-11-correspondence|2025-12-11 — correspondence]]

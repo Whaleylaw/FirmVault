@@ -27,5 +27,14 @@ date_of_incident: "2026-02-06"
 - [[claims/bi-state-farm-insurance-company|BI — State Farm Insurance Company]] (no_demand)
 - [[claims/pip-erie-insurance-group|PIP — Erie Insurance Group]] — Claim #A00007442879 (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Uninsured Motorist (UM) | Esurance Insurance Company | A00007442879 | Rayshawnna Shelby | 859-219-4914 Main | Rayshawnna.Shelby@erieinsurance.com |  |  |
+| Bodily Injury (BI) | State Farm Insurance Company | 1797S473G |  |  |  | 1-800-782-8332 | P.O Box 106171, Atlanta, GA 30348 |
+| Personal Injury Protection (PIP) | Erie Insurance Group | A00007442879 | Josh Hicks | 859-219-4904 |  | 877-589-3743 | 1146 Monarch Street Suite 140, Lexington, KY 40503 |
+<!-- roscoe-insurance-end -->
+
 ## Activity Log
 Recent: [[Activity Log/2026-02-10-correspondence|2026-02-10 — correspondence]]

@@ -20,5 +20,13 @@ date_of_incident: "2025-06-28"
 - [[claims/bi-progressive-insurance-company|BI — Progressive Insurance Company]] — Claim #25-471551085 (no_demand)
 - [[claims/pip-unknown|PIP]] (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | Progressive Insurance Company | 25-471551085 |  |  |  | (800) 776-4737 | 9520 Ormbsy Station Rd, Ste 200, louisville, KY 40223 |
+| Personal Injury Protection (PIP) | State Farm PIP Team | 17-87C986K |  |  |  | 844-292-8615 xt 506 Main |  |
+<!-- roscoe-insurance-end -->
+
 ## Activity Log
 Recent: [[Activity Log/2025-10-31-correspondence|2025-10-31 — correspondence]]

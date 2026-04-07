@@ -29,6 +29,15 @@ date_of_incident: "2025-07-09"
 - [[claims/pip-state-farm-insurance-company|PIP — State Farm Insurance Company]] — Claim #1787K940X (no_demand)
 - [[claims/um-state-farm-insurance-company|UM — State Farm Insurance Company]] — Claim #1787Z112D (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | Root Auto Insurance | BTQW3MKY | Courtney Heinnickel | 380-235-8493 | Courtney.Heinnickel@joinroot.com | 614-591-4463 Fax | 6602 E 7th St, Suite 500, Indiapolis, IN 46250 |
+| Personal Injury Protection (PIP) | State Farm Insurance Company | 1787K940X | Ryan Ricci | 855-231-1590 ext 70129 |  | 1-800-782-8332 | P.O Box 106171, Atlanta, GA 30348 |
+| Uninsured Motorist (UM) | State Farm Insurance Company | 1787Z112D | Gary Jones | 615-692-3500 Main |  | 1-800-782-8332 | P.O Box 106171, Atlanta, GA 30348 |
+<!-- roscoe-insurance-end -->
+
 ## Liens
 - [[liens/conduent|Conduent]] — health_insurance (identified)
 - [[liens/legal-funding-partners|Legal Funding Partners]] — other (identified)

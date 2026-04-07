@@ -26,6 +26,13 @@ date_of_incident: "2021-04-16"
 ## Insurance Claims
 - [[claims/bi-allstate-insurance|BI — Allstate Insurance]] — Claim #625854435 (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | Allstate Insurance | 625854435 | Patrice Gaines | 615-874-6872 |  | (800) 255-7828 Main | PO Box 2874, Claims Department, Clinton, IA 52733 |
+<!-- roscoe-insurance-end -->
+
 ## Liens
 - [[liens/conduent|Conduent]] — health_insurance (identified)
 - [[liens/unknown|Unknown]] — health_insurance (identified)

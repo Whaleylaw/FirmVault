@@ -33,6 +33,13 @@ date_of_incident: "2023-09-21"
 ## Insurance Claims
 - [[claims/bi-soundview-claims-solutions|BI — Soundview Claims Solutions]] — Claim #SF-USTT-26089723 (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | Soundview Claims Solutions | SF-USTT-26089723 | Devon Clark |  |  |  | 1299 Farnam Street #500, Omaha, NE 68102 |
+<!-- roscoe-insurance-end -->
+
 ## Liens
 - [[liens/the-phia-group|The Phia Group]] — health_insurance — $1,926.79 (amount_confirmed)
 

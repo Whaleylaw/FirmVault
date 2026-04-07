@@ -40,6 +40,15 @@ date_of_incident: "2023-07-30"
 - [[claims/bi-state-farm-insurance-company|BI — State Farm Insurance Company]] — Claim #1754K417G (no_demand)
 - [[claims/under insured motorist-allstate-insurance|Under Insured Motorist — Allstate Insurance]] — Claim #723447272 (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Under Insured Motorist (UIM) | Allstate Insurance | 723447272 | Nick  Burchette | 615-874-6818  Main | nburc@allstate.com | (800) 255-7828 Main | PO Box 2874, Claims Department, Clinton, IA 52733 |
+| Bodily Injury (BI) | State Farm Insurance Company | 1754K417G | Daniel Long | 309-994-8615 |  | 1-800-782-8332 | P.O Box 106171, Atlanta, GA 30348 |
+| Personal Injury Protection (PIP) | Allstate Insurance | 723447272 | Margaret Sharp | 713-277-9052 Main | claims@claims.allstate.com | (800) 255-7828 Main | PO Box 2874, Claims Department, Clinton, IA 52733 |
+<!-- roscoe-insurance-end -->
+
 ## Liens
 - [[liens/humana|Humana]] — health_insurance — $11,809.00 (amount_confirmed)
 - [[liens/legal-funding-partners|Legal Funding Partners]] — workers_comp — $31,200.00 (amount_confirmed)

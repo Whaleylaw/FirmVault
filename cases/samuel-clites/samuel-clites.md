@@ -28,6 +28,14 @@ date_of_incident: "2024-04-23"
 - [[claims/bi-unknown|BI]] — Claim #17-66M4-91S (no_demand)
 - [[claims/pip-unknown|PIP]] — Claim #17-66M4-91S (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | State Farm Insurance Company | 1766M491S | Calandra Turner | 615-692-3880 |  | 1-800-782-8332 | P.O Box 106171, Atlanta, GA 30348 |
+| Personal Injury Protection (PIP) | State Farm Insurance Company | 1766P145F |  |  |  | 1-800-782-8332 | P.O Box 106171, Atlanta, GA 30348 |
+<!-- roscoe-insurance-end -->
+
 ## Liens
 - [[liens/anthem|Anthem]] — health_insurance (identified)
 

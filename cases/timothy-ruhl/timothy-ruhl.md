@@ -49,6 +49,13 @@ date_of_incident: "2023-09-14"
 ## Insurance Claims
 - [[claims/bi-shelter-insurance|BI — Shelter Insurance]] — Claim #GL00000003555090 (litigation)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | Shelter Insurance | GL00000003555090 | Sharon Wills | (859) 260-3477 | SWills@ShelterInsurance.com | (800) 743-5837 Main | P.O. Box 6008, Columbia, MO 65205 |
+<!-- roscoe-insurance-end -->
+
 ## Liens
 - [[liens/anthem-blue-cross-blue-shield|Anthem Blue Cross Blue Shield]] — health_insurance (identified)
 - [[liens/blue-cross-blue-shield-of-michigan|Blue Cross Blue Shield of Michigan]] — health_insurance (identified)

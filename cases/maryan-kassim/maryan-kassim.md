@@ -31,6 +31,14 @@ date_of_incident: "2024-08-06"
 - [[claims/bi-progressive-insurance-company|BI — Progressive Insurance Company]] — Claim #24-711062492 (no_demand)
 - [[claims/pip-unknown|PIP]] — Claim #24-711062492 (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | Progressive Insurance Company | 24-711062492 | Brandi Chappell-Haggard | 502-909-3656 Main | a091817@progressive.com | (800) 776-4737 | 9520 Ormbsy Station Rd, Ste 200, louisville, KY 40223 |
+| Personal Injury Protection (PIP) | Progressive Insurance Company | 24-711062492 | Keri Hall | 1-502-909-3600 Main | Keri_A_Hall@progressive.com | (800) 776-4737 | 9520 Ormbsy Station Rd, Ste 200, louisville, KY 40223 |
+<!-- roscoe-insurance-end -->
+
 ## Liens
 - [[liens/conduent|Conduent]] — health_insurance — $3,830.39 (amount_confirmed)
 - [[liens/unknown|Unknown]] — health_insurance (identified)

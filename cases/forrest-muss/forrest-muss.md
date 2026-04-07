@@ -22,5 +22,12 @@ date_of_incident: "2025-07-20"
 ## Insurance Claims
 - [[claims/bi-north-american-risk-services|BI — North American Risk Services]] — Claim #136751083 (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | North American Risk Services | 136751083 |  |  |  | (800) 315-6090 | P.O. Box 166002, Altamonte Springs, FL 32701 |
+<!-- roscoe-insurance-end -->
+
 ## Activity Log
 Recent: [[Activity Log/2025-10-16-correspondence|2025-10-16 — correspondence]]

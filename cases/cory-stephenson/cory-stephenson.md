@@ -26,5 +26,13 @@ date_of_incident: "2025-09-03"
 - [[claims/bi-state-farm-insurance-company|BI — State Farm Insurance Company]] — Claim #1789V463J (no_demand)
 - [[claims/pip-elco-insurance|PIP — Elco Insurance]] — Claim #23016864 (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Personal Injury Protection (PIP) | Elco Insurance | 23016864 | Cierra Maniscalco | 866-300-3239 | Dru1@em.com | 314-949-2200 (for claims already setup) | 600 Corporate Park Dr, Saint Louis, MO 63105 |
+| Bodily Injury (BI) | State Farm Insurance Company | 1789V463J | Cherrel Washington | 309-994-9599 |  | 1-800-782-8332 | P.O Box 106171, Atlanta, GA 30348 |
+<!-- roscoe-insurance-end -->
+
 ## Activity Log
 Recent: [[Activity Log/2026-02-02-legal|2026-02-02 — legal]]

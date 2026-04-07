@@ -27,6 +27,14 @@ date_of_incident: "2024-06-13"
 ## Insurance Claims
 - [[claims/bi-state-farm-insurance-company|BI — State Farm Insurance Company]] — Claim #1769H472C (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | State Farm Insurance Company | 1769H472C | Abigail Jett | 309-834-5952 |  | 1-800-782-8332 | P.O Box 106171, Atlanta, GA 30348 |
+| Personal Injury Protection (PIP) | State Farm Insurance Company | 1769H472C | State Farm PIP Team | 844-292-8615 xt 506 Main | statefarmclaims@statefarm.com | 1-800-782-8332 | P.O Box 106171, Atlanta, GA 30348 |
+<!-- roscoe-insurance-end -->
+
 ## Liens
 - [[liens/no-private-health-insurance|No Private Health Insurance]] — health_insurance (identified)
 

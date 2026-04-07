@@ -25,5 +25,13 @@ date_of_incident: "2025-12-18"
 - [[claims/bi-kentucky-farm-bureau|BI — Kentucky Farm Bureau]] — Claim #5163979 (no_demand)
 - [[claims/pip-erie-insurance-group|PIP — Erie Insurance Group]] — Claim #A00007343960 (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | Kentucky Farm Bureau | 5163979 | Cassandra Ladd | 502-456-1664 |  | 502-266-6100 | P.O. Box 20400, Louisville, KY 40250 |
+| Personal Injury Protection (PIP) | Erie Insurance Group | A00007343960 | Noel Wilson | 859-219-4909 |  | 877-589-3743 | 1146 Monarch Street Suite 140, Lexington, KY 40503 |
+<!-- roscoe-insurance-end -->
+
 ## Activity Log
 Recent: [[Activity Log/2026-03-05-legal|2026-03-05 — legal]]

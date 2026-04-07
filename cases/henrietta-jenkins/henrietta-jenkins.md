@@ -26,6 +26,14 @@ date_of_incident: "2025-05-20"
 - [[claims/bi-progressive-insurance-company|BI — Progressive Insurance Company]] — Claim #25-391686743 (demand_pending)
 - [[claims/pip-root-auto-insurance|PIP — Root Auto Insurance]] — Claim #HH62DDIN (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Personal Injury Protection (PIP) | Root Auto Insurance | HH62DDIN | Aaron Ross | 614-300-2393 | aaron.ross@joinroot.com | 614-591-4463 Fax | 6602 E 7th St, Suite 500, Indiapolis, IN 46250 |
+| Bodily Injury (BI) | Progressive Insurance Company | 25-391686743 | Colin Karsnitz | 502-909-3619 Main | jkarsni1@progressive.com | (800) 776-4737 | 9520 Ormbsy Station Rd, Ste 200, louisville, KY 40223 |
+<!-- roscoe-insurance-end -->
+
 ## Liens
 - [[liens/legal-funding-partners|Legal Funding Partners]] — health_insurance (identified)
 - [[liens/unknown|Unknown]] — health_insurance (identified)

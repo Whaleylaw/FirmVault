@@ -30,6 +30,14 @@ date_of_incident: "2024-09-06"
 - [[claims/bi-unknown|BI]] (no_demand)
 - [[claims/pip-progressive-insurance-company|PIP — Progressive Insurance Company]] — Claim #24-727042794 (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Workers' Compensation (WC) |  |  |  |  |  |  |  |
+| Personal Injury Protection (PIP) | Progressive Insurance Company | 24-727042794 | Amanda Clemons | 502-909-3673 | Amanda_L_Clemons@Progressive.com | (800) 776-4737 | 9520 Ormbsy Station Rd, Ste 200, louisville, KY 40223 |
+<!-- roscoe-insurance-end -->
+
 ## Liens
 - [[liens/aetna-medicare|Aetna Medicare]] — medicare (identified)
 - [[liens/medicare|Medicare]] — medicare (identified)

@@ -33,6 +33,14 @@ date_of_incident: "2023-02-05"
 - [[claims/bi-clearcover|BI — Clearcover]] — Claim #23ATKY338083287 (no_demand)
 - [[claims/pip-trexis-insurance-corporation|PIP — Trexis Insurance Corporation]] — Claim #755905 (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | Clearcover | 23ATKY338083287 | Peter Longo | 312-725-7737 | claimsteam@claims.clearcover.com | 855-444-1875 Main |  |
+| Personal Injury Protection (PIP) | Trexis Insurance Corporation | 755905 | Torian Leach | 615-846-6264 Main | torian.leach@trexis.com | 877-584-7466 | P.O. Box 682388, Franklin, TN 37068 |
+<!-- roscoe-insurance-end -->
+
 ## Expenses
 | Creditor | Amount | Category |
 |----------|--------|----------|

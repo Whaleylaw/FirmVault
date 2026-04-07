@@ -29,5 +29,14 @@ date_of_incident: "2025-09-03"
 - [[claims/bi-unknown|BI]] — Claim #23016864 (no_demand)
 - [[claims/pip-unknown|PIP]] — Claim #23016864 (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | State Farm Insurance Company | 1789V463J | Cherrel Washington | 309-994-9599 |  | 1-800-782-8332 | P.O Box 106171, Atlanta, GA 30348 |
+| Bodily Injury (BI) | Elco Insurance | 23016864 | Keshia Nieuenkirk | 314.932.2632 | keshia.nieuenkirk@em.com | 314-949-2200 (for claims already setup) | 600 Corporate Park Dr, Saint Louis, MO 63105 |
+| Personal Injury Protection (PIP) | Elco Insurance | 23016864 | Andrea Spickler | 314-592-8526 Main | e996j3@erac.com | 314-949-2200 (for claims already setup) | 600 Corporate Park Dr, Saint Louis, MO 63105 |
+<!-- roscoe-insurance-end -->
+
 ## Activity Log
 Recent: [[Activity Log/2026-02-02-correspondence|2026-02-02 — correspondence]]

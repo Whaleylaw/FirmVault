@@ -21,6 +21,13 @@ date_of_incident: "2020-12-07"
 ## Insurance Claims
 - [[claims/bi-unknown|BI]] (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Workers' Compensation (WC) |  |  |  |  |  |  |  |
+<!-- roscoe-insurance-end -->
+
 ## Expenses
 | Creditor | Amount | Category |
 |----------|--------|----------|

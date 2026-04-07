@@ -41,6 +41,14 @@ date_of_incident: "2024-02-15"
 - [[claims/bi-crete-carrier-corporation-shaffer-trucking-hunt-transportation|BI — Crete Carrier Corporation (Shaffer Trucking & Hunt Transportation)]] — Claim #2024346878 (no_demand)
 - [[claims/pip-kentucky-farm-bureau|PIP — Kentucky Farm Bureau]] — Claim #4943385 (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Personal Injury Protection (PIP) | Kentucky Farm Bureau | 4943385 | Lauren Baker | 502-493-7628 |  | 502-266-6100 | P.O. Box 20400, Louisville, KY 40250 |
+| Bodily Injury (BI) | Crete Carrier Corporation (Shaffer Trucking & Hunt Transportation) | 2024346878 | Brenna Rine | (402) 323-4205 | brine@transclaims.com | (402) 323-4205 | 400 NW 56th Street, Lincoln, NE 68528 |
+<!-- roscoe-insurance-end -->
+
 ## Expenses
 | Creditor | Amount | Category |
 |----------|--------|----------|

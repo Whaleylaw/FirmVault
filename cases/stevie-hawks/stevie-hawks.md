@@ -27,6 +27,13 @@ date_of_incident: "2024-03-08"
 ## Insurance Claims
 - [[claims/pip-state-farm-insurance-company|PIP — State Farm Insurance Company]] — Claim #17-Q1275R5 (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Personal Injury Protection (PIP) | State Farm Insurance Company | 17-Q1275R5 | Brad Murray | 518-884-6175 Main | home.clms-kacp.168o28@statefarm.com | 1-800-782-8332 | P.O Box 106171, Atlanta, GA 30348 |
+<!-- roscoe-insurance-end -->
+
 ## Liens
 - [[liens/medicare|Medicare]] — medicare (identified)
 - [[liens/rawlings-company|Rawlings Company]] — health_insurance — $19,953.34 (amount_confirmed)

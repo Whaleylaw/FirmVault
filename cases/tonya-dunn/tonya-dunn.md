@@ -30,5 +30,13 @@ date_of_incident: "2025-09-24"
 - [[claims/bi-unknown|BI]] — Claim #2TVV43KY (no_demand)
 - [[claims/pip-unknown|PIP]] — Claim #2TVV43KY (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | Root Auto Insurance | 2TVV43KY | Valerie Marlatt | 380-900-6086 |  | 614-591-4463 Fax | 6602 E 7th St, Suite 500, Indiapolis, IN 46250 |
+| Personal Injury Protection (PIP) | State Farm Insurance Company | 1791D291D | Meela Dixon | 844-292-8615 ext 307 |  | 1-800-782-8332 | P.O Box 106171, Atlanta, GA 30348 |
+<!-- roscoe-insurance-end -->
+
 ## Activity Log
 Recent: [[Activity Log/2026-02-24-correspondence|2026-02-24 — correspondence]]

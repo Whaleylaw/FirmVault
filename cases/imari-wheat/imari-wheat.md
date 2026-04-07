@@ -16,5 +16,13 @@ date_of_incident: "2026-01-23"
 ## Insurance Claims
 - [[claims/bi-state-farm-insurance-company|BI — State Farm Insurance Company]] — Claim #1795T529B (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Personal Injury Protection (PIP) | USAA Insurance Company | 056337915-802 |  |  |  | 800-531-8722 | PO Box 33490, San Antonio, TX 78265 |
+| Bodily Injury (BI) | State Farm Insurance Company | 1795T529B |  |  |  | 1-800-782-8332 | P.O Box 106171, Atlanta, GA 30348 |
+<!-- roscoe-insurance-end -->
+
 ## Activity Log
 Recent: [[Activity Log/2026-02-03-correspondence|2026-02-03 — correspondence]]

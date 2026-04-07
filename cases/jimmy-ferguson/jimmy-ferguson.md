@@ -34,6 +34,14 @@ date_of_incident: "2024-05-30"
 - [[claims/bi-kaco-claims-department|BI — KACo Claims Department]] — Claim #VA20241535681 (no_demand)
 - [[claims/pip-kentucky-farm-bureau|PIP — Kentucky Farm Bureau]] — Claim #4979889 (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | KACo Claims Department | VA20241535681 | Vivian Hall | 502-676-7679 | Vivian.hall@charlestaylor.com | 502-223-7667 | 400 Englewood Drive,, Frankfort, KY 40601 |
+| Personal Injury Protection (PIP) | Kentucky Farm Bureau | 4979889 | Ashley Mcneese | 502-493-7683 | ashley.mcneese@kyfb.com | 502-266-6100 | P.O. Box 20400, Louisville, KY 40250 |
+<!-- roscoe-insurance-end -->
+
 ## Liens
 - [[liens/unknown|Unknown]] — health_insurance (identified)
 - [[liens/wellcare-of-kentucky|Wellcare of Kentucky]] — health_insurance (identified)

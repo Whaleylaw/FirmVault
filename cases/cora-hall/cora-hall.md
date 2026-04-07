@@ -38,6 +38,13 @@ date_of_incident: "2022-12-05"
 ## Insurance Claims
 - [[claims/bi-accident-fund-insurance-of-america|BI — Accident Fund Insurance Of America]] — Claim #AFC 230577703 (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Workers' Compensation (WC) | Accident Fund Insurance Of America | AFC 230577703 | Inez Richardson | (517) 708-6107 |  | (866) 206-5851 | 200 N. Grand Ave, P.O. Box 40790, Lansing, MI 48901 |
+<!-- roscoe-insurance-end -->
+
 ## Liens
 - [[liens/hillcrest-credit-agency|Hillcrest Credit Agency]] — other (identified)
 - [[liens/teamhealth|TeamHealth]] — health_insurance (identified)

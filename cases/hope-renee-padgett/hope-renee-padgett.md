@@ -37,6 +37,16 @@ date_of_incident: "2023-01-16"
 - [[claims/pip-unknown|PIP]] — Claim #23-4004861 (no_demand)
 - [[claims/uim-unknown|UIM]] — Claim #23-4004861 (demand_pending)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Under Insured Motorist (UIM) | Progressive Insurance Company | 23-4004861 | Zachary Grizzle | 502-909-3598 | zgrizzl1@progressive.com | (800) 776-4737 | 9520 Ormbsy Station Rd, Ste 200, louisville, KY 40223 |
+| Bodily Injury (BI) | Kentucky Farm Bureau | 4791863 | Deborah Kitchen | 859-624-0487 Main | Deborah.Kitchen@kyfb.com | 502-266-6100 | P.O. Box 20400, Louisville, KY 40250 |
+| Bodily Injury (BI) | Progressive Insurance Company | 23-4004861 | Alyssa Howland | 502-909-3693 | a174227@progressive.com | (800) 776-4737 | 9520 Ormbsy Station Rd, Ste 200, louisville, KY 40223 |
+| Personal Injury Protection (PIP) | Progressive Insurance Company | 23-4004861 | Terry Woodring | (502) 909-3592 | A142354@progressive.com | (800) 776-4737 | 9520 Ormbsy Station Rd, Ste 200, louisville, KY 40223 |
+<!-- roscoe-insurance-end -->
+
 ## Liens
 - [[liens/medicare|Medicare]] — medicare (identified)
 - [[liens/optum|Optum]] — health_insurance (identified)

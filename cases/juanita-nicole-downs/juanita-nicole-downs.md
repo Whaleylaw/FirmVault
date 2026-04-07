@@ -36,6 +36,15 @@ date_of_incident: "2021-04-16"
 - [[claims/pip-nationwide-mutual-insurance-company|PIP — Nationwide Mutual Insurance Company]] — Claim #617417-GM (no_demand)
 - [[claims/pip-unknown|PIP]] — Claim #202111021 (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | Allstate Insurance | 625854435 | Patrice Gaines | 615-874-6872 |  | (800) 255-7828 Main | PO Box 2874, Claims Department, Clinton, IA 52733 |
+| Personal Injury Protection (PIP) | Nationwide Mutual Insurance Company | 617417-GM | Beth Freeman | 380-251-9683 Main | freemab2@nationwide.com | (877) 669-6877 | P.O. Box 26005, Daphne, AL 36526-5005 |
+| Kentucky Assigned Claims (KAC) |  | 202111021 |  |  |  |  |  |
+<!-- roscoe-insurance-end -->
+
 ## Liens
 - [[liens/conduent|Conduent]] — health_insurance — $20,669.08 (amount_confirmed)
 - [[liens/unknown|Unknown]] — health_insurance (identified)

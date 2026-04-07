@@ -26,5 +26,13 @@ date_of_incident: "2025-08-19"
 - [[claims/bi-ccmsi|BI — CCMSI]] — Claim #25F68M784958 (no_demand)
 - [[claims/pip-state-farm-insurance-company|PIP — State Farm Insurance Company]] — Claim #1789H664T (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | CCMSI | 25F68M784958 | Michael Juarez | 312-548-9846 | Michael.juarez@ccmsi.com | 502-426-7474 | 10503 Timberwood Cir # 204, Louisville, KY 40223 |
+| Personal Injury Protection (PIP) | State Farm Insurance Company | 1789H664T | Summer Garrett | 844-292-8615 ext 20550 |  | 1-800-782-8332 | P.O Box 106171, Atlanta, GA 30348 |
+<!-- roscoe-insurance-end -->
+
 ## Activity Log
 Recent: [[Activity Log/2026-03-03-correspondence|2026-03-03 — correspondence]]

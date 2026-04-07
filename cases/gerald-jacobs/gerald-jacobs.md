@@ -21,5 +21,12 @@ date_of_incident: "2025-10-23"
 ## Insurance Claims
 - [[claims/pip-shelter-insurance|PIP — Shelter Insurance]] — Claim #AT0000004020136 (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Personal Injury Protection (PIP) | Shelter Insurance | AT0000004020136 |  |  |  | (800) 743-5837 Main | P.O. Box 6008, Columbia, MO 65205 |
+<!-- roscoe-insurance-end -->
+
 ## Activity Log
 Recent: [[Activity Log/2026-01-30-correspondence|2026-01-30 — correspondence]]

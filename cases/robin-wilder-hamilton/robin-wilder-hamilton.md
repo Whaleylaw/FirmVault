@@ -31,6 +31,14 @@ date_of_incident: "2023-06-15"
 - [[claims/bi-sea-harbor-insurance|BI — Sea Harbor Insurance]] — Claim #C0119952 (demand_pending)
 - [[claims/pip-auto-owners-insurance|PIP — Auto Owners Insurance]] — Claim #300-0377210-2023 (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Personal Injury Protection (PIP) | Auto Owners Insurance | 300-0377210-2023 | Donald Thomas | 517-323-1201 ext 51881 | dl.pipresponseteam@aoins.com | 502-253-0960 | PO Box 221409, Louisville, KY 40252 |
+| Bodily Injury (BI) | Sea Harbor Insurance | C0119952 | Danielle Perry | 214-295-6805 | claims@seaharborinsurance.com | 877-220-6130 | PO Box 796249, Dallas, Tx 75379 |
+<!-- roscoe-insurance-end -->
+
 ## Liens
 - [[liens/u-s-department-of-veterans-affairs|U.S Department of Veterans Affairs]] — health_insurance (identified)
 - [[liens/unknown|Unknown]] — health_insurance (identified)

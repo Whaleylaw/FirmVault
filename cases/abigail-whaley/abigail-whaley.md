@@ -31,6 +31,14 @@ date_of_incident: "2024-10-24"
 - [[claims/bi-american-family-insurance|BI — American Family Insurance]] — Claim #1008251706 (no_demand)
 - [[claims/pip-safeco-insurance-company|PIP — SafeCo Insurance Company]] — Claim #58147807 (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | American Family Insurance | 1008251706 | Zach Dexter | 608-722-2666 | zachary.dexter@afics.com | 800-692-6326 |  |
+| Personal Injury Protection (PIP) | SafeCo Insurance Company | 58147807 | Lauren Smith | (856) 703-2503 | lauren.smith02@libertymutual.com | (888) 268-8840 Fax |  |
+<!-- roscoe-insurance-end -->
+
 ## Liens
 - [[liens/anthem|Anthem]] — health_insurance (identified)
 

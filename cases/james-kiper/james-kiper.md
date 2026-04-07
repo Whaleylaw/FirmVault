@@ -37,6 +37,14 @@ date_of_incident: "2022-12-05"
 - [[claims/pip-unknown|PIP]] — Claim #1788V453C (no_demand)
 - [[claims/um-unknown|UM]] — Claim #IZX7996 (demand_pending)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Uninsured Motorist (UM) | Travelers Insurance | IZX7996 | Emma Schumaker | 615-660-6610 Main | Eschumak@travelers.com | 800-252-4633 Main | P.O. Box 660456, Dallas, TX 75266 |
+| Personal Injury Protection (PIP) | Travelers Insurance | IZX7996 | Josalyn Van Leer | 317-818-0159 |  | 800-252-4633 Main | P.O. Box 660456, Dallas, TX 75266 |
+<!-- roscoe-insurance-end -->
+
 ## Liens
 - [[liens/conduent|Conduent]] — health_insurance — $687.54 (amount_confirmed)
 - [[liens/unknown|Unknown]] — health_insurance (identified)

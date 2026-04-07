@@ -28,6 +28,13 @@ date_of_incident: "2025-02-07"
 ## Insurance Claims
 - [[claims/bi-liberty-mutual-workers-compensation|BI — Liberty Mutual Workers' Compensation]] — Claim #WC80D-H07503 (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Workers' Compensation (WC) | Liberty Mutual Workers' Compensation | WC80D-H07503 | George Stewart | (317) 975-6684 | George.Stewart@LibertyMutual.com | 800-362-0000 | 175 Berkeley Street, Boston, MA 02116 |
+<!-- roscoe-insurance-end -->
+
 ## Liens
 - [[liens/anthem-blue-cross-blue-shield|Anthem Blue Cross Blue Shield]] — health_insurance (identified)
 - [[liens/unknown|Unknown]] — health_insurance (identified)

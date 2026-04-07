@@ -32,6 +32,14 @@ date_of_incident: "2023-04-01"
 - [[claims/bi-progressive-insurance-company|BI — Progressive Insurance Company]] — Claim #23-6275504 (negotiating — $5K demand / $500 offer)
 - [[claims/pip-state-farm-insurance-company|PIP — State Farm Insurance Company]] — Claim #1747Q474T (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Personal Injury Protection (PIP) | State Farm Insurance Company | 1747Q474T | State Farm PIP Team | 844-292-8615 xt 506 Main | statefarmclaims@statefarm.com | 1-800-782-8332 | P.O Box 106171, Atlanta, GA 30348 |
+| Bodily Injury (BI) | Progressive Insurance Company | 23-6275504 | Amy Morris | 502-909-3658 Main | a110987@progressive.com | (800) 776-4737 | 9520 Ormbsy Station Rd, Ste 200, louisville, KY 40223 |
+<!-- roscoe-insurance-end -->
+
 ## Expenses
 | Creditor | Amount | Category |
 |----------|--------|----------|

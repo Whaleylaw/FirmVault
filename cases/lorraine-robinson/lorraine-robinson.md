@@ -20,5 +20,13 @@ date_of_incident: "2025-11-13"
 - [[claims/bi-kentucky-farm-bureau|BI — Kentucky Farm Bureau]] — Claim #5155254 (no_demand)
 - [[claims/pip-allstate-insurance|PIP — Allstate Insurance]] — Claim #813125572 (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Personal Injury Protection (PIP) | Allstate Insurance | 813125572 |  |  |  | (800) 255-7828 Main | PO Box 2874, Claims Department, Clinton, IA 52733 |
+| Bodily Injury (BI) | Kentucky Farm Bureau | 5155254 | Sarah Riggs | 502-456-1664 | sarah.riggs@kyfb.com | 502-266-6100 | P.O. Box 20400, Louisville, KY 40250 |
+<!-- roscoe-insurance-end -->
+
 ## Activity Log
 Recent: [[Activity Log/2025-12-19-medical|2025-12-19 — medical]]

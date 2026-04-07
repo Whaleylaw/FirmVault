@@ -28,5 +28,13 @@ date_of_incident: "2025-12-24"
 - [[claims/bi-progressive-insurance-company|BI — Progressive Insurance Company]] — Claim #25343855944 (no_demand)
 - [[claims/pip-state-farm-insurance-company|PIP — State Farm Insurance Company]] — Claim #1794S55OG (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | Progressive Insurance Company | 25343855944 | Lynette Panique | 501-954-6570 | Lynette_Panique@progressive.com | (800) 776-4737 | 9520 Ormbsy Station Rd, Ste 200, louisville, KY 40223 |
+| Personal Injury Protection (PIP) | State Farm Insurance Company | 1794S55OG | State Farm PIP Team | 844-292-8615 xt 506 Main | statefarmclaims@statefarm.com | 1-800-782-8332 | P.O Box 106171, Atlanta, GA 30348 |
+<!-- roscoe-insurance-end -->
+
 ## Activity Log
 Recent: [[Activity Log/2026-02-26-correspondence|2026-02-26 — correspondence]]

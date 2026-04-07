@@ -29,6 +29,14 @@ date_of_incident: "2023-10-01"
 - [[claims/pip-state-farm-insurance-company|PIP — State Farm Insurance Company]] — Claim #1756Z294R (no_demand)
 - [[claims/uim-state-farm-insurance-company|UIM — State Farm Insurance Company]] — Claim #Unknown (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Personal Injury Protection (PIP) | State Farm Insurance Company | 1756Z294R | State Farm PIP Team | 844-292-8615 xt 506 Main | statefarmclaims@statefarm.com | 1-800-782-8332 | P.O Box 106171, Atlanta, GA 30348 |
+| Bodily Injury (BI) | Kentucky Farm Bureau | 4908174 | Ben Taylor | 270-465-9771 | ben.taylor2@kyfb.com | 502-266-6100 | P.O. Box 20400, Louisville, KY 40250 |
+<!-- roscoe-insurance-end -->
+
 ## Liens
 - [[liens/united-healthcare|United Healthcare]] — hospital — $145.72 (amount_confirmed)
 - [[liens/unknown|Unknown]] — health_insurance (identified)

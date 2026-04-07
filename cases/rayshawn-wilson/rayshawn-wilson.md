@@ -22,5 +22,12 @@ date_of_incident: "2025-04-10"
 ## Insurance Claims
 - [[claims/pip-progressive-insurance-company|PIP — Progressive Insurance Company]] — Claim #25806894629 (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Personal Injury Protection (PIP) | Progressive Insurance Company | 25806894629 |  |  |  | (800) 776-4737 | 9520 Ormbsy Station Rd, Ste 200, louisville, KY 40223 |
+<!-- roscoe-insurance-end -->
+
 ## Activity Log
 Recent: [[Activity Log/2025-07-17-correspondence|2025-07-17 — correspondence]]

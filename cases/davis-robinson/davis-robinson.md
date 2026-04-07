@@ -37,5 +37,12 @@ date_of_incident: "2025-05-02"
 ## Insurance Claims
 - [[claims/bi-texas-roadhouse|BI — Texas Roadhouse]] — Claim #25 -109767 (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | Texas Roadhouse | 25 -109767 | Angela Milliner | 502-815-8757 | Angela.Milliner@texasroadhouse.com |  |  |
+<!-- roscoe-insurance-end -->
+
 ## Activity Log
 Recent: [[Activity Log/2026-02-17-correspondence|2026-02-17 — correspondence]]

@@ -27,5 +27,12 @@ date_of_incident: "2025-07-30"
 ## Insurance Claims
 - [[claims/bi-clearcover|BI — Clearcover]] — Claim #25ATKY446076413 (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | Clearcover | 25ATKY446076413 | Nicole Pfeiffer | 312-262-6972 |  | 855-444-1875 Main |  |
+<!-- roscoe-insurance-end -->
+
 ## Activity Log
 Recent: [[Activity Log/2026-02-17-correspondence|2026-02-17 — correspondence]]
