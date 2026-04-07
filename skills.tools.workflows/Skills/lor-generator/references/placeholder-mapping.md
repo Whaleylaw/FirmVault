@@ -1,76 +1,32 @@
 # LOR Template Placeholder Mapping
 
-## BI LOR Template Placeholders
+Each `{{placeholder}}` in the BI and PIP LOR templates and where its value comes from in the vault.
 
-| Placeholder | Description | Data Source | Required |
-|-------------|-------------|-------------|:--------:|
-| `{{TODAY_LONG}}` | Current date formatted | Generated (e.g., "January 15, 2024") | Yes |
-| `{{insurance.insuranceAdjuster.name}}` | Adjuster name | `cases/<slug>/claims/` and `## Insurance Claims` section or "Claims Department" | Yes |
-| `{{insurance.insuranceAdjuster.firstname}}` | Adjuster first name | Extracted from full name | No |
-| `{{insurance.insuranceAdjuster.email1}}` | Adjuster email | `cases/<slug>/claims/` and `## Insurance Claims` section | No |
-| `{{insurance.insuranceCompany.addressBlock}}` | Full company address | `cases/<slug>/claims/` and `## Insurance Claims` section (multiline) | Yes |
-| `{{client.name}}` | Client full name | `cases/<slug>/<slug>.md` (frontmatter) | Yes |
-| `{{insurance.claimNumber}}` | Claim number | `cases/<slug>/claims/` and `## Insurance Claims` section or "TBD" | No |
-| `{{incidentDate}}` | Accident date | `cases/<slug>/<slug>.md` (frontmatter) | Yes |
-| `{{primary}}` | Attorney name | Firm settings | Yes |
+## BI LOR (`Templates/letter-of-rep-bi-adjuster.docx`)
 
-## PIP LOR Template Placeholders
+| Placeholder | Vault source | Required |
+|---|---|---|
+| `{{TODAY_LONG}}` | Generated at fill time (e.g. "April 7, 2026") | Yes |
+| `{{insurance.insuranceAdjuster.name}}` | `cases/<slug>/claims/<bi-claim>.md` frontmatter `adjuster` (or "Claims Department" as default) | Yes |
+| `{{insurance.insuranceAdjuster.firstname}}` | Derived from the adjuster name | No |
+| `{{insurance.insuranceAdjuster.email1}}` | Claim file `adjuster_email` frontmatter | No |
+| `{{insurance.insuranceCompany.addressBlock}}` | Claim file `carrier_address` (multiline) | Yes |
+| `{{client.name}}` | `cases/<slug>/<slug>.md` frontmatter `client_name` | Yes |
+| `{{insurance.claimNumber}}` | Claim file frontmatter `claim_number` (or "TBD") | No |
+| `{{incidentDate}}` | `cases/<slug>/<slug>.md` frontmatter `date_of_incident` | Yes |
+| `{{primary}}` | Attorney name (firm setting) | Yes |
 
-Same as BI LOR, plus:
+## PIP LOR (`Templates/letter-of-rep-pip-adjuster.docx`)
 
-| Placeholder | Description | Notes |
-|-------------|-------------|-------|
-| Special instruction | "$6,000 reserve for bills" | Kentucky-specific, confirm with user |
+Same placeholder set as BI, applied against the PIP claim file (`cases/<slug>/claims/pip-<carrier-slug>.md`) instead of the BI claim file.
 
-## Context Dictionary Structure
+PIP LORs also carry a Kentucky-specific instruction: "reserve $6,000 for bills as they come in, with exception for hospital or hospital-related bills." Confirm with the paralegal whether it belongs on a given case before sending.
 
-```python
-context = {
-    # Date
-    "TODAY_LONG": "January 15, 2024",
-    
-    # Insurance info
-    "insurance": {
-        "insuranceAdjuster": {
-            "name": "Claims Department",
-            "firstname": "Claims",
-            "email1": "claims@insurance.com"
-        },
-        "insuranceCompany": {
-            "addressBlock": "123 Insurance Way\nLouisville, KY 40202"
-        },
-        "claimNumber": "CLM-2024-123456"
-    },
-    
-    # Client info
-    "client": {
-        "name": "John Smith"
-    },
-    
-    # Case info
-    "incidentDate": "December 1, 2024",
-    "primary": "Aaron Whaley"
-}
-```
-
-## Data Source Locations
-
-| Data | File | JSON Path |
-|------|------|-----------|
-| Client name | `cases/<slug>/<slug>.md` (frontmatter) | `client_name` |
-| Accident date | `cases/<slug>/<slug>.md` (frontmatter) | `accident_date` |
-| Insurance company | `cases/<slug>/claims/` and `## Insurance Claims` section | `bi.insurance_company.name` |
-| Company address | `cases/<slug>/claims/` and `## Insurance Claims` section | `bi.insurance_company.address` |
-| Adjuster name | `cases/<slug>/claims/` and `## Insurance Claims` section | `bi.adjuster_name` |
-| Adjuster email | `cases/<slug>/claims/` and `## Insurance Claims` section | `bi.adjuster_email` |
-| Claim number | `cases/<slug>/claims/` and `## Insurance Claims` section | `bi.claim_number` |
-
-## Handling Missing Values
+## Missing-value defaults
 
 | Field | Default | Action |
-|-------|---------|--------|
+|---|---|---|
 | Adjuster name | "Claims Department" | Use default |
-| Claim number | "TBD" or blank | Use default |
-| Adjuster email | (blank) | Skip field |
-| Required fields | N/A | Prompt user |
-
+| Claim number | "TBD" | Use default |
+| Adjuster email | (blank) | Skip the line |
+| Any required field | — | Stop and ask the paralegal; do not fabricate |

@@ -1,12 +1,14 @@
 ---
 name: document-intake
 description: >
-  Process and file received intake documents for personal injury cases. Validates 
-  document type, saves to correct case folder location, and updates workflow tracking.
-  Automatically updates Phase 0 landmarks when required signature documents (Client Info,
-  Fee Agreement, Medical Authorization) are received. When Claude needs to process 
-  documents provided by user, file intake paperwork, update document status, or check
-  if Phase 0 landmarks are complete. Use for single documents or batch processing.
+  File a signed intake document into a case and flip the Phase 0 landmark it
+  satisfies. Detects whether the document is the new client info sheet, fee
+  agreement, or HIPAA authorization, saves it under
+  `cases/<slug>/documents/`, appends an activity log entry, and updates
+  `cases/<slug>/<slug>.md` frontmatter so the materializer sees
+  `client_info_received`, `contract_signed`, or `medical_auth_signed` as
+  satisfied. Also handles non-landmark intake paperwork (accident detail,
+  wage verification, etc.) by filing them to the same location.
 allowed-tools:
   - Read
   - Edit
@@ -15,253 +17,47 @@ allowed-tools:
   - Grep
 ---
 
-# Document Intake Skill
+# Document Intake
 
-## Overview
+Take a signed intake document the paralegal just received, file it into the right case folder, and flip the corresponding Phase 0 landmark in the case file. Works on a single document at a time or a small batch.
 
-Process documents received from clients, validate them, save to the correct case folder, and update workflow tracking. This skill automatically updates landmarks when required signature documents are received, enabling Phase 0 completion.
+## When to use
 
-## Capabilities
+The paralegal has received a signed form from a client — by email, DocuSign completion, or hand delivery — and wants it filed and the landmark booked. For documents we are *asking for*, use `document-request`. For e-signature delivery, use `docusign-send`.
 
-- Process single or multiple documents
-- Validate document type and content
-- Save to correct case folder location (`Client/`)
-- Update `workflow_state.json` tracking
-- Automatically update landmarks for signature documents
-- Check Phase 0 completion status
+## Document types and landmarks
 
-## When to Use
+| Document | Landmark flipped | Notes |
+|---|---|---|
+| New Client Information Sheet | `client_info_received` | Any filename containing "client information" or "intake" |
+| Fee Agreement (MVA, S&F, or WC) | `contract_signed` | Any filename containing "fee agreement" |
+| Medical Authorization (HIPAA) | `medical_auth_signed` | Any filename containing "hipaa" or "medical authorization" |
+| Medical Treatment Questionnaire | — | File only |
+| Accident Detail Information Sheet | — | File only |
+| Wage & Salary Verification | — | File only |
+| CMS Medicare Verification | — | File only |
+| Digital Signature Authorization | — | File only |
 
-Use this skill when:
-- User uploads or provides a document
-- User says "I have the [document]" or "here's the [document]"
-- Processing documents from email attachments
-- Batch processing multiple received documents
-- Checking if all intake documents are complete
+The three landmark conditions are defined in `workflows/PHASE_DAG.yaml` under `phase_0_onboarding`.
 
-**Do NOT use when:**
-- Requesting documents from clients (use `document-request`)
-- Creating case folder structure (use `case_setup` workflow)
+## Workflow
 
----
+1. Identify the document — by the user telling you, by filename pattern, or by reading the PDF header. If ambiguous, ask.
+2. Save the file to `cases/<slug>/documents/` using a descriptive name (e.g. `fee-agreement-signed-2026-04-07.pdf`). Do not overwrite an existing file with the same name — append `-v2` or similar if needed.
+3. If the document is one of the three landmark documents, edit `cases/<slug>/<slug>.md` frontmatter to set the corresponding entry under `landmarks:` to `true`. Create the `landmarks:` map if it doesn't exist.
+4. Append an Activity Log entry at `cases/<slug>/Activity Log/<YYYY-MM-DD-HHMM>-imported.md` per DATA_CONTRACT §5 describing which document was received and where it was filed.
+5. Report to the paralegal which landmarks are now satisfied and which of the three mandatory Phase 0 documents are still outstanding.
 
-## Document Type Recognition
+## Outputs
 
-### Document ID to Display Name Mapping
+- File written to `cases/<slug>/documents/<descriptive-name>.pdf`
+- Frontmatter landmark flipped in `cases/<slug>/<slug>.md` (one of `client_info_received`, `contract_signed`, `medical_auth_signed`) when applicable
+- Activity Log entry at `cases/<slug>/Activity Log/<YYYY-MM-DD-HHMM>-imported.md`
 
-| Document ID | Display Name | Landmark? |
-|-------------|--------------|:---------:|
-| `new_client_information_sheet` | New Client Information Sheet | **YES** |
-| `fee_agreement` | Fee Agreement | **YES** |
-| `medical_authorization` | Medical Authorization (HIPAA) | **YES** |
-| `medical_treatment_questionnaire` | Medical Treatment Questionnaire | No |
-| `digital_signature_authorization` | Digital Signature Authorization | No |
-| `mva_accident_detail_sheet` | MVA Accident Detail Sheet | No |
-| `sf_accident_detail_sheet` | S&F Accident Detail Sheet | No |
-| `wage_salary_verification` | Wage & Salary Verification | No |
-| `cms_medicare_verification` | CMS Medicare Verification | No |
+When all three landmark flags are `true`, Phase 0 is complete and the materializer will unblock Phase 1 on its next tick — this skill does not update `status:` itself.
 
-### Landmark Documents
+## What this skill does NOT do
 
-These three documents trigger landmark updates:
-
-| Document | Landmark Key |
-|----------|--------------|
-| New Client Information Sheet | `client_info_received` |
-| Fee Agreement (any type) | `contract_signed` |
-| Medical Authorization (HIPAA) | `medical_auth_signed` |
-
----
-
-## Execution Steps
-
-### Step 1: Receive Document
-
-Accept document from user via:
-- File upload
-- File path reference
-- Indication that document exists
-
-### Step 2: Identify Document Type
-
-**Method 1: User specifies**
-```
-User: "Here's the HIPAA authorization"
-→ Document ID: medical_authorization
-```
-
-**Method 2: Filename inference**
-```
-Filename: "Whaley Medical Authorization - Jane Smith.pdf"
-→ Document ID: medical_authorization
-```
-
-**Method 3: Ask user**
-```
-Which document is this?
-
-A) New Client Information Sheet
-B) Fee Agreement
-C) Medical Authorization (HIPAA)
-D) Medical Treatment Questionnaire
-E) Digital Signature Authorization
-F) Accident Detail Sheet
-G) Wage & Salary Verification
-H) Medicare Verification Form
-```
-
-### Step 3: Validate Document
-
-Basic validation checks:
-- File is readable (not corrupted)
-- File is not empty
-- File type matches expected format (PDF)
-
-**If validation fails:**
-```
-This file appears to be [issue]. Could you:
-- Re-upload the document, or
-- Confirm this is the correct file?
-```
-
-### Step 4: Save to Case Folder
-
-**Location:** `{case_folder}/Client/`
-
-**Naming Convention:**
-```
-{DocumentType}_{ClientName}_{YYYY-MM-DD}.pdf
-
-Examples:
-- Client_Info_Jane_Smith_2024-12-06.pdf
-- Fee_Agreement_Jane_Smith_2024-12-06.pdf
-- Medical_Auth_Jane_Smith_2024-12-06.pdf
-```
-
-### Step 5: Update workflow_state.json
-
-```python
-# Move from pending to received
-workflow_state["documents_pending"].remove(document_id)
-workflow_state["documents_received"].append({
-    "type": document_id,
-    "filename": saved_filename,
-    "received_date": "2024-12-06",
-    "location": "Client/"
-})
-
-# Update landmark if applicable
-landmark_map = {
-    "new_client_information_sheet": "client_info_received",
-    "fee_agreement": "contract_signed",
-    "medical_authorization": "medical_auth_signed"
-}
-
-if document_id in landmark_map:
-    workflow_state["landmarks"][landmark_map[document_id]] = True
-```
-
-### Step 6: Check Phase Completion
-
-```python
-landmarks = workflow_state["landmarks"]
-
-if (landmarks["client_info_received"] and 
-    landmarks["contract_signed"] and 
-    landmarks["medical_auth_signed"]):
-    
-    # Phase 0 complete!
-    workflow_state["phase"] = "file_setup"
-    workflow_state["phase_number"] = 1
-    workflow_state["workflow_status"]["document_collection"] = "completed"
-```
-
-### Step 7: Report Status
-
-**Single document received:**
-```
-✓ Medical Authorization received and filed
-
-Location: Client/Medical_Auth_Jane_Smith_2024-12-06.pdf
-
-Landmark Status:
-[✓] Client Info Received
-[ ] Contract Signed
-[✓] Medical Auth Signed ← Just completed!
-
-Still needed: Fee Agreement
-```
-
-**All landmarks complete:**
-```
-✓ Fee Agreement received and filed
-
-🎉 All landmarks complete!
-
-Landmark Status:
-[✓] Client Info Received
-[✓] Contract Signed ← Just completed!
-[✓] Medical Auth Signed
-
-Phase 0: Onboarding is complete.
-Proceeding to Phase 1: File Setup.
-
-Remaining documents (non-blocking):
-- Medical Treatment Questionnaire
-- Digital Signature Authorization
-```
-
----
-
-## Batch Processing
-
-When user provides multiple documents:
-
-```
-I received 3 documents. Processing...
-
-1. fee_agreement_signed.pdf
-   → Fee Agreement ✓
-   → Landmark updated: contract_signed
-
-2. hipaa_form.pdf
-   → Medical Authorization ✓
-   → Landmark updated: medical_auth_signed
-
-3. client_info.pdf
-   → New Client Information Sheet ✓
-   → Landmark updated: client_info_received
-
-All 3 documents filed successfully!
-
-🎉 All landmarks complete! Phase 0 is finished.
-```
-
----
-
-## Error Handling
-
-| Error | Response |
-|-------|----------|
-| File unreadable | "I couldn't open this file. Can you try re-uploading?" |
-| Empty file | "This file appears to be empty. Please check and resend." |
-| Wrong document type | "This appears to be a [X], not a [Y]. Is that correct?" |
-| Duplicate document | "A [Document] already exists. Should I replace it or keep both?" |
-| Missing case folder | "I can't find the case folder. Has the case been set up?" |
-
----
-
-## Output
-
-**Deliverables:**
-- Document saved to `{case_folder}/Client/`
-- `workflow_state.json` updated with:
-  - Document added to `documents_received`
-  - Document removed from `documents_pending`
-  - Landmarks updated if applicable
-  - Phase updated if all landmarks complete
-
-**Success Criteria:**
-- Document accessible in case folder
-- Tracking correctly updated
-- User informed of current status and any remaining requirements
+- **Request documents from the client** — that's `document-request`.
+- **Send a document for e-signature** — that's `docusign-send`.
+- **Update `status:` frontmatter or create new sections in the case file** — phase transitions are the materializer's job; this skill only flips the landmark booleans the materializer reads.

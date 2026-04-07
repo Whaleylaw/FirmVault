@@ -52,34 +52,9 @@ For each vehicle:
 | Vehicle A solely at fault | BI against Vehicle A |
 | Disputed fault | BI against both + UM/UIM |
 
-## Multiple BI Claims Setup
+## Multiple BI claims setup
 
-When opening claims against multiple vehicles:
-
-```json
-{
-  "insurance": {
-    "bi_claims": [
-      {
-        "claim_id": "bi_vehicle_a",
-        "against_vehicle": "A",
-        "driver_name": "[name]",
-        "insurance_company": "[carrier]",
-        "claim_number": null,
-        "liability_status": "investigating"
-      },
-      {
-        "claim_id": "bi_vehicle_b",
-        "against_vehicle": "B",
-        "driver_name": "[name]",
-        "insurance_company": "[carrier]",
-        "claim_number": null,
-        "liability_status": "accepted"
-      }
-    ]
-  }
-}
-```
+When more than one carrier may be on the hook, the paralegal opens a separate claim file per vehicle under `cases/<slug>/claims/`, e.g. `bi-state-farm.md` and `bi-progressive.md`, each with its own carrier, driver, and `liability_status` frontmatter. Each file gets its own bullet under `## Insurance Claims` in the case file. This skill recommends the split; it does not create the files.
 
 ## PIP Waterfall for Passengers
 

@@ -1,97 +1,80 @@
 ---
 name: pip-waterfall
 description: >
-  Kentucky PIP carrier determination toolkit for walking through statutory waterfall 
-  questions, identifying the correct insurer, and detecting disqualification scenarios. 
-  Asks structured questions about vehicle title, vehicle insurance, client insurance, 
-  and household insurance. When Claude needs to determine which insurance company 
-  provides PIP coverage, run PIP waterfall analysis, check if client qualifies for 
-  PIP benefits, or identify Kentucky Assigned Claims scenarios. Use for all Kentucky 
-  MVA cases before opening PIP claims. Not for non-MVA cases, out-of-state accidents, 
-  or when PIP carrier is already determined.
+  Determine the correct Kentucky PIP carrier by walking the statutory
+  waterfall (KRS 304.39-040): vehicle title, vehicle insurance, client
+  insurance, household insurance. Detects disqualification (owner of an
+  uninsured vehicle) and KAC fallback. Records the result in a new
+  `cases/<slug>/claims/pip-<carrier-slug>.md` claim file, contributing to
+  the Phase 1 `insurance_claims_setup` landmark. Use on every Kentucky MVA
+  case before opening the PIP claim.
 allowed-tools:
   - Read
   - Edit
   - Write
   - Glob
   - Grep
+  - Bash
 ---
 
-# PIP Waterfall Skill
+# PIP Waterfall
 
-Determine the correct PIP carrier using Kentucky's statutory waterfall rules.
+Decide which insurer should pay Personal Injury Protection benefits under KRS 304.39-040. The logic is deterministic once four yes/no answers are known; this skill collects those answers (from the police report, the client, or the paralegal), runs `Tools/insurance/pip_waterfall.py`, and persists the result to the vault.
 
-## Capabilities
+## When to use
 
-- Guide user through waterfall questions
-- Run `pip_waterfall.py` tool
-- Determine PIP carrier or KAC assignment
-- Identify disqualification scenarios
-- Record determination for case file
+New Kentucky MVA case, before opening the PIP claim or sending the KACP application. Skip for non-MVA matters and out-of-state accidents. If the waterfall has already been run and a PIP claim exists in `cases/<slug>/claims/`, don't re-run unless the underlying facts have changed.
 
-**Keywords**: PIP, Personal Injury Protection, waterfall, Kentucky, KAC, Kentucky Assigned Claims, no-fault, medical payments, vehicle insurance, disqualified
-
-## Waterfall Summary
+## The waterfall in one glance
 
 ```
-Q1: Client on vehicle TITLE?
-    ├── YES → Is vehicle INSURED?
-    │         ├── YES → Vehicle's insurer = PIP
-    │         └── NO → ⚠️ DISQUALIFIED
-    └── NO → Q2
+Q1: Is the client on the vehicle's TITLE?
+    Yes → Q1a: Was that vehicle INSURED?
+              Yes → Vehicle's insurer = PIP
+              No  → DISQUALIFIED (KRS 304.39-040 — owner of uninsured vehicle)
+    No  → Q2
 
-Q2: Was vehicle occupied INSURED?
-    ├── YES → Vehicle's insurer = PIP
-    └── NO → Q3
+Q2: Was the vehicle the client occupied INSURED?
+    Yes → Vehicle's insurer = PIP
+    No  → Q3
 
-Q3: Does CLIENT have own auto insurance?
-    ├── YES → Client's insurer = PIP
-    └── NO → Q4
+Q3: Does the CLIENT have their own auto insurance?
+    Yes → Client's insurer = PIP
+    No  → Q4
 
-Q4: Does HOUSEHOLD MEMBER have auto insurance?
-    ├── YES → Household insurer = PIP
-    └── NO → Kentucky Assigned Claims (KAC)
+Q4: Does a HOUSEHOLD MEMBER have auto insurance?
+    Yes → Household member's insurer = PIP
+    No  → Kentucky Assigned Claims (KAC)
 ```
 
-## Quick Questions
+See [`references/waterfall-steps.md`](references/waterfall-steps.md) for the question prompts and result messages, [`references/disqualification.md`](references/disqualification.md) for the statutory disqualification edge cases, and [`references/kac-process.md`](references/kac-process.md) for the KAC submission flow.
 
-| Step | Question | If Yes | If No |
-|------|----------|--------|-------|
-| 1 | Client on title of vehicle they were in? | Check if insured | Go to Q2 |
-| 1a | (If Q1=Yes) Was that vehicle insured? | Vehicle's PIP | **DISQUALIFIED** |
-| 2 | Was vehicle occupied insured? | Vehicle's PIP | Go to Q3 |
-| 3 | Does client have own auto insurance? | Client's PIP | Go to Q4 |
-| 4 | Does household member have insurance? | Household PIP | KAC |
+## Workflow
 
-## Tool
+1. Read `cases/<slug>/<slug>.md` for case facts. If a police report lives in `cases/<slug>/documents/`, run `police-report-analysis` first — it pre-fills Q1 and Q2.
+2. Collect answers for Q1–Q4, prompting the paralegal only for facts the report doesn't supply.
+3. Run `python Tools/insurance/pip_waterfall.py --interactive` or call `run_waterfall(...)` per [`references/tool-usage.md`](references/tool-usage.md).
+4. Create `cases/<slug>/claims/pip-<carrier-slug>.md` with frontmatter capturing carrier, policy number, waterfall step, and path. Add a bullet under `## Insurance Claims` in the case file linking to it.
+5. Append an Activity Log entry at `cases/<slug>/Activity Log/<YYYY-MM-DD-HHMM>-legal.md` summarizing the waterfall path for the record.
 
-**Tool**: `tools/pip_waterfall.py`
+Disqualification and KAC results still create a claim file — the `lien_type` / `coverage_type` just differs so downstream skills know what to do.
 
-```bash
-python pip_waterfall.py --interactive
-```
+## Outputs
 
-```python
-from pip_waterfall import run_waterfall
-result = run_waterfall(client_on_title=False, vehicle_insured=True, ...)
-```
-
-## Output Patterns
-
-**Normal**: `✅ PIP CARRIER DETERMINED: [Insurer Name]`  
-**KAC**: `📋 KENTUCKY ASSIGNED CLAIMS REQUIRED`  
-**Disqualified**: `⚠️ CLIENT DISQUALIFIED FROM PIP BENEFITS`
+- New file `cases/<slug>/claims/pip-<carrier-slug>.md` (or `pip-disqualified.md` / `pip-kac.md` for the edge cases)
+- New bullet under `## Insurance Claims` in `cases/<slug>/<slug>.md`
+- Activity Log entry recording the waterfall path
+- Contributes to the `insurance_claims_setup` landmark (`PHASE_DAG.yaml` phase 1)
 
 ## References
 
-For detailed guidance, see:
-- **Waterfall logic** → `references/waterfall-steps.md`
-- **Disqualification rules** → `references/disqualification.md`
-- **KAC process** → `references/kac-process.md`
-- **Tool usage** → `references/tool-usage.md`
+- [`references/waterfall-steps.md`](references/waterfall-steps.md) — full decision tree with question prompts and result messages
+- [`references/disqualification.md`](references/disqualification.md) — KRS 304.39-040 edge cases
+- [`references/kac-process.md`](references/kac-process.md) — KAC submission address, timeline, follow-up cadence
+- [`references/tool-usage.md`](references/tool-usage.md) — CLI and Python API for `pip_waterfall.py`
 
-## Output
+## What this skill does NOT do
 
-- PIP carrier determined
-- Waterfall path documented
-- Result saved to `cases/<slug>/claims/` and `## Insurance Claims` section
+- **File the KACP application form** — that's `pip-application`. The KACP form is *always* required, even when the waterfall returns a private carrier.
+- **Send the Letter of Representation to the PIP adjuster** — that's `lor-generator`.
+- **Analyze the police report** — run `police-report-analysis` first if a report is available.

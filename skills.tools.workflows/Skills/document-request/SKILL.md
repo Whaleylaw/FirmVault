@@ -1,12 +1,11 @@
 ---
 name: document-request
 description: >
-  Generate and send intake document requests to personal injury clients. Creates 
-  personalized emails with attached fillable PDF forms based on case type (MVA, S&F, WC).
-  When Claude needs to request intake documents from a client, send document request
-  emails, follow up on missing paperwork, or prepare document packets for new cases.
-  Use for initial intake requests, reminder emails, and specific document follow-ups.
-  Templates available in ../templates/intake_forms/.
+  Request signed intake paperwork from a new personal injury client. Selects
+  the correct fillable-PDF packet for the case type (MVA, S&F, or WC), drafts
+  an initial or follow-up email, and logs the request to the Activity Log.
+  Produces the Phase 0 `client_info_received` / `contract_signed` /
+  `medical_auth_signed` landmarks once the client returns the forms.
 allowed-tools:
   - Read
   - Edit
@@ -15,235 +14,48 @@ allowed-tools:
   - Grep
 ---
 
-# Document Request Skill
+# Document Request
 
-## Overview
+Draft the initial request — or a follow-up reminder — for the signed intake forms that Phase 0 requires. This skill only *asks* for the documents; `document-intake` handles what comes back, and `docusign-send` handles e-signature delivery.
 
-Generate professional document request communications for personal injury intake. This skill creates personalized emails requesting specific documents, attaches the correct fillable PDF forms based on case type, and tracks pending requests.
+## When to use
 
-## Capabilities
+Use when the paralegal wants to send (or re-send) an intake packet to a new client: fee agreement, HIPAA authorization, client info sheet, and the case-type-specific supplements. The case file at `cases/<slug>/<slug>.md` should already exist; if it doesn't, run case setup first.
 
-- Generate initial intake document request emails
-- Create follow-up reminders for missing documents
-- Select correct forms based on case type (MVA, S&F, WC)
-- Attach fillable PDF templates to requests
-- Track document request history
+## Packet by case type
 
-## When to Use
+Every packet includes the three landmark documents (new client info sheet, fee agreement, HIPAA) plus case-type supplements. Templates live at `Templates/<slug>.pdf` — refer to `Templates/INDEX.md` for the full list.
 
-Use this skill when:
-- Setting up a new case and need to request intake documents
-- Following up on documents not yet received
-- User asks to "send a request" or "ask the client for documents"
-- Client needs specific forms sent to them
+| Case type | Fee agreement | Accident detail | Always required |
+|---|---|---|---|
+| MVA | `mva-fee-agreement` | `mva-accident-detail-information-sheet` | `new-client-information-sheet`, `medical-authorization-hipaa`, `medical-treatment-questionnaire`, `authorization-of-digitally-signature-replication` |
+| S&F | `sandf-fee-agreement` | `sandf-accident-detail-information-sheet` | (same three as above) |
+| WC | `wc-fee-agreement-final` | — | `new-client-information-sheet`, `medical-authorization-hipaa`, `wage-and-salary-verification` |
 
-**Do NOT use when:**
-- Processing documents already received (use `document-intake`)
-- Creating the case folder structure (use `case_setup` workflow)
+Conditional additions: `wage-and-salary-verification` (MVA/S&F if lost wages claimed) and `cms-medicare-verification-form` (if client is Medicare-eligible).
 
----
+## Workflow
 
-## Required Inputs
+1. Read `cases/<slug>/<slug>.md` for `client_name`, `case_type`, and the client contact stub under `cases/<slug>/contacts/` for an email address. If missing, ask the paralegal.
+2. Pick the packet per the table above.
+3. Draft the email using the initial or follow-up skeleton in [`references/email-templates.md`](references/email-templates.md).
+4. List the attachment template paths (read-only — do not copy templates into the case folder).
+5. Present the draft for user approval. On send, append an Activity Log entry under `cases/<slug>/Activity Log/<YYYY-MM-DD-HHMM>-correspondence.md` per DATA_CONTRACT §5 describing the request and which documents were attached.
 
-| Input | Source | Required |
-|-------|--------|:--------:|
-| Client name | ``cases/<slug>/<slug>.md` (frontmatter)` | Yes |
-| Client email | ``cases/<slug>/contacts/`` or user | Yes |
-| Case type | `workflow_state.json` | Yes |
-| Documents to request | `workflow_state.json` | Yes |
+For e-signature delivery of the fee agreement and HIPAA authorization, hand off to `docusign-send`.
 
----
+## Outputs
 
-## Template Files Reference
+- Drafted email (presented to user, not sent autonomously)
+- Activity Log entry at `cases/<slug>/Activity Log/<YYYY-MM-DD-HHMM>-correspondence.md` recording the request
+- No changes to case frontmatter — landmark flips happen in `document-intake` when the signed forms come back
 
-All fillable PDF templates are located in:
-`../templates/intake_forms/`
+## References
 
-### By Document Type
+- [`references/email-templates.md`](references/email-templates.md) — initial-request and follow-up email skeletons
 
-| Document ID | Template File |
-|-------------|---------------|
-| `new_client_information_sheet` | `2021 Whaley New Client Information Sheet (1).pdf` |
-| `fee_agreement_mva` | `2021 Whaley MVA Fee Agreement (1).pdf` |
-| `fee_agreement_sf` | `2021 Whaley S&F Fee Agreement (1).pdf` |
-| `fee_agreement_wc` | `2021 Whaley WC Fee Agreement - Final (1).pdf` |
-| `medical_authorization` | `2021 Whaley Medical Authorization (HIPAA) (1).pdf` |
-| `medical_treatment_questionnaire` | `2021 Whaley Medical Treatment Questionnaire (1).pdf` |
-| `digital_signature_authorization` | `2021 Whaley Authorization of Digitally Signature Replication (1).pdf` |
-| `mva_accident_detail_sheet` | `2021 Whaley MVA Accident Detail Information Sheet (1).pdf` |
-| `sf_accident_detail_sheet` | `2021 Whaley S&F Accident Detail Information Sheet (1).pdf` |
-| `wage_salary_verification` | `2021 Whaley Wage & Salary Verification (1).pdf` |
-| `cms_medicare_verification` | `2021 Whaley CMS Medicare Verification Form (1).pdf` |
+## What this skill does NOT do
 
----
-
-## Execution Steps
-
-### Step 1: Gather Required Information
-
-```
-Read from workflow_state.json:
-- case_type
-- documents_pending
-
-Read from `cases/<slug>/<slug>.md` (frontmatter):
-- client_name
-
-Read from `cases/<slug>/contacts/` (or ask user):
-- client_email
-```
-
-### Step 2: Determine Documents to Request
-
-Based on case type and pending documents, select appropriate templates:
-
-**MVA Cases:**
-- New Client Information Sheet
-- MVA Fee Agreement
-- Medical Authorization (HIPAA)
-- Medical Treatment Questionnaire
-- Digital Signature Authorization
-- MVA Accident Detail Sheet
-- (Conditional) Wage & Salary Verification
-- (Conditional) CMS Medicare Verification
-
-**S&F Cases:**
-- New Client Information Sheet
-- S&F Fee Agreement
-- Medical Authorization (HIPAA)
-- Medical Treatment Questionnaire
-- Digital Signature Authorization
-- S&F Accident Detail Sheet
-- (Conditional) Wage & Salary Verification
-- (Conditional) CMS Medicare Verification
-
-**WC Cases:**
-- New Client Information Sheet
-- WC Fee Agreement
-- Medical Authorization (HIPAA)
-- Medical Treatment Questionnaire
-- Digital Signature Authorization
-- Wage & Salary Verification (always required)
-- (Conditional) CMS Medicare Verification
-
-### Step 3: Generate Email
-
-**Initial Request Template:**
-
-```
-Subject: Documents Needed - Your Personal Injury Case
-
-Dear {client_first_name},
-
-Thank you for choosing Whaley Law Firm to represent you. To move forward 
-with your case, please complete and return the following documents.
-
-REQUIRED (Please return ASAP):
-• New Client Information Sheet
-• Fee Agreement
-• Medical Authorization (HIPAA)
-
-ADDITIONAL:
-• Medical Treatment Questionnaire
-• Digital Signature Authorization
-• {case_type} Accident Detail Sheet
-
-I've attached fillable PDF versions of each form. You can complete them 
-electronically and email them back, or print, sign, and return by mail or fax.
-
-Return Options:
-- Email: Reply to this email with attachments
-- Fax: (XXX) XXX-XXXX
-- Mail: [Office Address]
-
-Please don't hesitate to contact us if you have any questions.
-
-Best regards,
-{sender_name}
-Whaley Law Firm
-```
-
-**Follow-Up Template:**
-
-```
-Subject: Reminder: Documents Still Needed - {case_name}
-
-Dear {client_first_name},
-
-This is a friendly reminder that we're still waiting on the following 
-documents to proceed with your case:
-
-{missing_documents_list}
-
-Your case cannot move forward until we receive these documents. I've 
-re-attached the forms for your convenience.
-
-Thank you,
-{sender_name}
-Whaley Law Firm
-```
-
-### Step 4: Attach Templates
-
-Attach the fillable PDF templates from `../templates/intake_forms/`:
-
-```python
-attachments = []
-for doc_id in documents_to_request:
-    template_path = get_template_path(doc_id, case_type)
-    attachments.append(template_path)
-```
-
-### Step 5: Present to User
-
-```
-I've prepared a document request for {client_name}:
-
-To: {client_email}
-Subject: Documents Needed - Your Personal Injury Case
-
-{email_body}
-
-Attachments ({count} files):
-• New Client Information Sheet.pdf
-• {Case Type} Fee Agreement.pdf
-• Medical Authorization (HIPAA).pdf
-...
-
-Options:
-A) Send this email
-B) Modify the message
-C) Save as draft
-```
-
-### Step 6: Log Request
-
-After sending, update tracking:
-
-```json
-// Add to workflow_state.json
-{
-  "document_requests": [
-    {
-      "date": "2024-12-06",
-      "method": "email",
-      "documents_requested": ["new_client_information_sheet", "fee_agreement", ...],
-      "status": "sent"
-    }
-  ]
-}
-```
-
----
-
-## Output
-
-**Deliverables:**
-- Personalized email with correct documents listed
-- Fillable PDF templates attached
-- Request logged in `workflow_state.json`
-
-**Success Criteria:**
-- Email sent or draft saved
-- Correct templates attached based on case type
-- Request tracked for follow-up
+- **Process returned documents or flip Phase 0 landmarks** — that's `document-intake`.
+- **Send via DocuSign** — that's `docusign-send`.
+- **Create the case folder or case file** — case setup is a separate workflow invoked before this skill runs.

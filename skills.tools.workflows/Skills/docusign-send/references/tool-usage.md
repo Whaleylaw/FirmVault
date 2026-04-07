@@ -2,8 +2,8 @@
 
 ## docusign_send.py
 
-**Location**: `tools/docusign_send.py`
-**Config**: `tools/docusign_config.py`
+**Location**: `Tools/esignature/docusign_send.py`
+**Config**: `Tools/esignature/docusign_config.py`
 
 ## Requirements
 
@@ -67,66 +67,36 @@ result = send_document(
 }
 ```
 
-## Complete Example
+## Complete example
 
 ```python
-import json
 from pathlib import Path
-from datetime import datetime
 from docusign_send import send_document
 
-def send_fee_agreement(case_folder: str, client_email: str, client_name: str) -> dict:
-    """Send Fee Agreement for electronic signature."""
-    
-    case_path = Path(case_folder)
-    
-    # Determine correct fee agreement based on case type
-    with open(case_path / "Case Information/`cases/<slug>/<slug>.md` (frontmatter)") as f:
-        overview = json.load(f)
-    
-    case_type = overview.get("case_type", "MVA")
+def send_fee_agreement(case_slug: str, case_type: str, client_email: str,
+                       client_name: str) -> dict:
+    """Send a filled fee agreement for e-signature."""
+    # Fee agreements are filled from Templates/ into cases/<slug>/documents/
+    # before this skill runs.
     fee_agreements = {
-        "MVA": "2021 Whaley MVA Fee Agreement.pdf",
-        "SF": "2021 Whaley S&F Fee Agreement.pdf",
-        "WC": "2021 Whaley WC Fee Agreement - Final.pdf"
+        "MVA": "fee-agreement-mva-signed.pdf",
+        "SF":  "fee-agreement-sandf-signed.pdf",
+        "WC":  "fee-agreement-wc-signed.pdf",
     }
-    
-    document_name = fee_agreements.get(case_type, fee_agreements["MVA"])
-    document_path = case_path / "Client" / document_name
-    
-    # Send via DocuSign
-    result = send_document(
+    document_path = Path(f"cases/{case_slug}/documents/{fee_agreements[case_type]}")
+
+    return send_document(
         document_path=str(document_path),
         signer_emails=[client_email],
         signer_names=[client_name],
-        subject=f"Whaley Law Firm - Please Sign: Fee Agreement",
-        message=f"Dear {client_name},\n\nPlease review and sign the attached Fee Agreement.\n\nThank you,\nWhaley Law Firm",
+        subject="Please Sign: Fee Agreement",
+        message=f"Dear {client_name},\n\nPlease review and sign the attached fee agreement.",
         anchor_string="/sig1/",
-        use_production=True
+        use_production=True,
     )
-    
-    # Track in workflow_state
-    if result["success"]:
-        workflow_state_path = case_path / "Case Information/workflow_state.json"
-        with open(workflow_state_path) as f:
-            workflow_state = json.load(f)
-        
-        if "docusign_envelopes" not in workflow_state:
-            workflow_state["docusign_envelopes"] = []
-        
-        workflow_state["docusign_envelopes"].append({
-            "document": "Fee Agreement",
-            "envelope_id": result["envelope_id"],
-            "sent_date": datetime.now().isoformat(),
-            "status": "sent",
-            "follow_up_date": (datetime.now() + timedelta(days=3)).isoformat()
-        })
-        
-        with open(workflow_state_path, "w") as f:
-            json.dump(workflow_state, f, indent=2)
-    
-    return result
 ```
+
+On success, log the envelope ID to `cases/<slug>/Activity Log/<YYYY-MM-DD-HHMM>-correspondence.md` per DATA_CONTRACT §5. Do not write state files outside the vault.
 
 ## Command Line Usage
 

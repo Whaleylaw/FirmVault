@@ -1,138 +1,59 @@
 ---
 name: pip-application
 description: >
-  Kentucky PIP Application (KACP) completion toolkit for filling the mandatory 
-  application form with case data. Pre-fills form fields, identifies missing 
-  information, and prepares the completed form for submission. The KACP form is 
-  ALWAYS required for Kentucky PIP claims, regardless of which carrier provides 
-  coverage. When Claude needs to complete a PIP application, fill the KACP form, 
-  gather PIP application information, or submit PIP documentation to a carrier. 
-  Use for all Kentucky MVA PIP claims. Not for BI claims, non-MVA cases, or 
-  out-of-state accidents.
+  Fill the Kentucky KACP PIP application form (`Templates/kacp-application-03-2021.pdf`)
+  from case data and save the completed PDF into the case documents folder.
+  The KACP form is always required for Kentucky PIP claims, even when the
+  carrier is private. Part of the Phase 1 `insurance_claims_setup` landmark;
+  run after `pip-waterfall` has determined the carrier.
 allowed-tools:
   - Read
   - Edit
   - Write
   - Glob
   - Grep
+  - Bash
 ---
 
-# PIP Application Skill
+# PIP Application (KACP Form)
 
-Complete the KACP (Kentucky Assigned Claims Plan) Application form for PIP coverage.
+Fill the KACP (Kentucky Assigned Claims Plan) application from case data and save it to `cases/<slug>/documents/`. The KACP form is the universal Kentucky PIP application — every carrier accepts it, and it is *always* required, regardless of which carrier the waterfall selects.
 
-## Key Fact
+## Template
 
-**The KACP Application is ALWAYS required** in Kentucky, even when PIP coverage is through a private insurer. All insurance carriers accept this universal form.
+`Templates/kacp-application-03-2021.pdf` (read-only firm template; see `Templates/INDEX.md`).
 
-## Template ID
+## When to use
 
-| Template ID | Name | Type | Notes |
-|-------------|------|------|-------|
-| **39** | KACP PIP Application | PDF | Universal form - always use this one |
-
-**Template Location**: `Templates/kacp-application-03-2021.pdf`
-
-## Capabilities
-
-- Pre-fill KACP form fields from case data
-- Identify missing required information
-- Generate completed PDF form
-- Track submission to carrier
-
-**Keywords**: KACP, PIP application, Kentucky PIP, KAC application, PIP form, no-fault application, medical payments application
+Phase 1 file setup, after `pip-waterfall` has determined the PIP carrier and created `cases/<slug>/claims/pip-<carrier-slug>.md`. Skip for non-MVA matters, non-Kentucky accidents, and BI-only claims.
 
 ## Workflow
 
-```
-1. VERIFY PIP CARRIER
-   └── Waterfall must be complete first
+1. Read `cases/<slug>/<slug>.md` for client name, address, case_type, and `date_of_incident`.
+2. Read `cases/<slug>/claims/pip-<carrier-slug>.md` for the PIP carrier and policy number (populated by `pip-waterfall`).
+3. Pull DOB, SSN, employer, and other PII from the relevant contact stubs under `cases/<slug>/contacts/`.
+4. Fill the KACP form — field-by-field mapping is in [`references/field-mapping.md`](references/field-mapping.md), the form-section overview is in [`references/form-sections.md`](references/form-sections.md).
+5. Save the filled PDF to `cases/<slug>/documents/kacp-application.pdf` and log the write as an Activity Log entry (`<YYYY-MM-DD-HHMM>-legal.md`).
+6. Flag any unfilled required fields back to the paralegal before submission (see [`references/common-issues.md`](references/common-issues.md)).
 
-2. COPY TEMPLATE TO OUTPUT LOCATION
-   └── Copy KACP template to: {project}/Insurance/PIP/KACP_Application.pdf
+The form generation itself is a PDF-filling operation — use whichever filler tool your runtime provides (e.g. `pdftk`, `pypdf`). If the runtime doesn't have a filler, produce a structured field-value dict and ask the paralegal to run it through `Tools/document_processing/` manually.
 
-3. GENERATE DOCUMENT
-   └── Tool: generate_document.py
-   └── Input: The copied template path
-   └── Tool auto-detects template ID and fills from case data
+## Outputs
 
-4. IDENTIFY GAPS
-   └── Tool returns list of unfilled required fields
-   └── Prompt user for any missing required fields
+- Filled form at `cases/<slug>/documents/kacp-application.pdf`
+- Activity Log entry at `cases/<slug>/Activity Log/<YYYY-MM-DD-HHMM>-legal.md`
+- On submission to the carrier, the paralegal or a follow-up skill should update the `cases/<slug>/claims/pip-<carrier-slug>.md` frontmatter with `date_pip_application_sent: YYYY-MM-DD`
 
-5. PRESENT FOR REVIEW
-   └── User verifies and approves
-
-6. SUBMIT
-   └── To PIP carrier (or KAC if applicable)
-
-7. TRACK
-   └── Update `cases/<slug>/claims/` and `## Insurance Claims` section with date_pip_application_sent
-```
-
-## Required Data Quick Reference
-
-| Field | Source | Required |
-|-------|--------|:--------:|
-| Client name | `cases/<slug>/<slug>.md` (frontmatter) | Yes |
-| Client phone | `cases/<slug>/<slug>.md` (frontmatter) | Yes |
-| Client address | `cases/<slug>/<slug>.md` (frontmatter) | Yes |
-| Date of birth | `cases/<slug>/contacts/` | Yes |
-| SSN | `cases/<slug>/contacts/` | Yes |
-| Accident date | `cases/<slug>/<slug>.md` (frontmatter) | Yes |
-| PIP carrier | `cases/<slug>/claims/` and `## Insurance Claims` section (from waterfall) | Yes |
-| Injury description | intake | Yes |
-
-## Tool Usage
-
-**Primary**: `generate_document.py` at `/Tools/document_generation/`
-
-### Step 1: Copy Template to Output Location
-
-```bash
-# Copy the KACP template to the case folder
-cp "`Templates/kacp-application-03-2021.pdf`" \
-   "{project_name}/Insurance/PIP/KACP_Application.pdf"
-```
-
-### Step 2: Generate Document
-
-```bash
-# Generate the filled document - tool auto-detects template and context
-python generate_document.py "{project_name}/Insurance/PIP/KACP_Application.pdf"
-```
-
-**Python Usage**:
-
-```python
-import shutil
-from generate_document import generate_document
-
-# Step 1: Copy template to output location
-template_src = "`Templates/kacp-application-03-2021.pdf`"
-output_path = f"{project_name}/Insurance/PIP/KACP_Application.pdf"
-shutil.copy(template_src, output_path)
-
-# Step 2: Generate document (fills in place)
-result = generate_document(output_path)
-```
-
-**Context Resolution**: The tool automatically:
-1. Detects template ID from PDF metadata or registry lookup
-2. Infers project name from path
-3. Infers context type ("PIP" / "insurance") from path
-4. Loads appropriate data from case JSONs
+Helps satisfy the `insurance_claims_setup` landmark (`PHASE_DAG.yaml` phase 1) once the claim file exists alongside the filled form.
 
 ## References
 
-For detailed guidance, see:
-- **Form field mapping** → `references/field-mapping.md`
-- **Section guide** → `references/form-sections.md`
-- **Common issues** → `references/common-issues.md`
-- **Template Registry** → `/templates/template_registry.json` (ID: 39)
+- [`references/field-mapping.md`](references/field-mapping.md) — KACP field → vault path mapping for each section
+- [`references/form-sections.md`](references/form-sections.md) — what each of the seven form sections means
+- [`references/common-issues.md`](references/common-issues.md) — missing SSN, address overflow, wrong-carrier returns
 
-## Output
+## What this skill does NOT do
 
-- Completed KACP Application PDF
-- Output location: `{project}/Insurance/PIP/KACP_Application.pdf`
-- `date_pip_application_sent` recorded in `cases/<slug>/claims/` and `## Insurance Claims` section
+- **Determine the PIP carrier** — that's `pip-waterfall`. This skill assumes a claim file already exists.
+- **Send the filled form to the carrier** — put it in `cases/<slug>/documents/` and flag it for the paralegal.
+- **Draft the LOR to the PIP adjuster** — that's `lor-generator`.

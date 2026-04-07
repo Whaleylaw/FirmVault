@@ -66,23 +66,16 @@ When comparative fault exists, look for additional liable parties:
 - Employer (if commercial vehicle)
 - Manufacturer (if defect contributed)
 
-## Data to Record
+## Recording the analysis
 
-```json
-{
-  "liability_analysis": {
-    "analysis_date": "2024-12-10",
-    "status": "partial",
-    "at_fault_percentage": 80,
-    "client_alleged_fault": 20,
-    "fault_reason": "[reason from carrier]",
-    "recovery_impact": {
-      "if_damages_100k": 80000,
-      "reduction_percentage": 20
-    },
-    "additional_claims_identified": [],
-    "user_notified": true
-  }
-}
+Write the comparative-fault breakdown into the BI claim file body under a `## Liability Analysis` heading and set frontmatter:
+
+```yaml
+liability_status: partial
+at_fault_percentage: 80
+client_alleged_fault: 20
+fault_reason: "<reason>"
 ```
+
+Include the recovery impact calculation (damages × at-fault %) in the body so the paralegal and downstream demand drafting can reference it.
 

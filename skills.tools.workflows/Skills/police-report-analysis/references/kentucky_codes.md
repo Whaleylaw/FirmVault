@@ -189,6 +189,32 @@ This document decodes the numeric codes used on Kentucky Uniform Police Traffic 
 
 ---
 
+## Area Type
+
+| Code | Description |
+|------|-------------|
+| 1 | Urban |
+| 2 | Rural |
+
+---
+
+## Collision Type (Additional Detail)
+
+| Code | Description |
+|------|-------------|
+| 01 | Collision with Motor Vehicle in Transport |
+| 02 | Collision with Parked Motor Vehicle |
+| 03 | Collision with Pedestrian |
+| 04 | Collision with Bicycle |
+| 05 | Collision with Animal |
+| 06 | Collision with Fixed Object |
+| 07 | Collision with Other Object |
+| 08 | Overturn/Rollover |
+| 09 | Fire/Explosion |
+| 10 | Other Non-Collision |
+
+---
+
 ## Point of Impact (Clock Position)
 
 The point of initial impact on a vehicle is often described using clock positions:
@@ -231,6 +257,30 @@ The point of initial impact on a vehicle is often described using clock position
 | 6 | Helmet |
 | 7 | Other |
 | 8 | Unknown |
+
+---
+
+## Ejection
+
+| Code | Description |
+|------|-------------|
+| 1 | Not Ejected |
+| 2 | Totally Ejected |
+| 3 | Partially Ejected |
+| 4 | Unknown |
+
+---
+
+## Airbag Deployment
+
+| Code | Description |
+|------|-------------|
+| 1 | Not Deployed |
+| 2 | Deployed - Front |
+| 3 | Deployed - Side |
+| 4 | Deployed - Combination |
+| 5 | Not Applicable |
+| 6 | Unknown |
 
 ---
 

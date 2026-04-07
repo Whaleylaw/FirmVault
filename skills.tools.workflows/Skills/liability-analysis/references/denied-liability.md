@@ -68,29 +68,7 @@ If UM/UIM available:
 - Different statute of limitations may apply
 ```
 
-## Data to Record
+## Recording the analysis
 
-```json
-{
-  "liability_analysis": {
-    "analysis_date": "2024-12-10",
-    "status": "denied",
-    "denial_reason": "[reason from carrier]",
-    "additional_claims_identified": [
-      {
-        "claim_type": "UM",
-        "under_policy": "client's own policy",
-        "reason": "BI liability denied",
-        "status": "flagged_for_review"
-      }
-    ],
-    "evidence_recommendations": [
-      "Police report",
-      "Witness statements",
-      "Photographs"
-    ],
-    "user_notified": true
-  }
-}
-```
+Write the denial analysis into the BI claim file body (`cases/<slug>/claims/<bi-claim>.md`) under a `## Liability Analysis` heading, and set `liability_status: denied` plus `denial_reason: "<reason>"` in the claim frontmatter. If a UM/UIM claim is being recommended, note it in the analysis — the paralegal opens the actual claim.
 

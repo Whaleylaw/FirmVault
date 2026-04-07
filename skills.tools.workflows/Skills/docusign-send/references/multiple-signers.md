@@ -64,36 +64,11 @@ for i, (email, name) in enumerate(zip(signer_emails, signer_names), start=1):
     signers.append(signer)
 ```
 
-## Status Tracking for Multiple Signers
+## Status tracking for multiple signers
 
-```json
-{
-  "docusign_envelopes": [
-    {
-      "document": "Joint Fee Agreement",
-      "envelope_id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
-      "sent_date": "2024-12-06",
-      "signers": [
-        {
-          "name": "John Smith",
-          "email": "client@email.com",
-          "status": "completed",
-          "signed_date": "2024-12-06T14:00:00"
-        },
-        {
-          "name": "Jane Smith",
-          "email": "spouse@email.com",
-          "status": "sent",
-          "signed_date": null
-        }
-      ],
-      "overall_status": "sent"
-    }
-  ]
-}
-```
+Log both signers in the Activity Log entry for the send (see `references/tracking.md`). When the second signer completes, append a second Activity Log entry at `cases/<slug>/Activity Log/<YYYY-MM-DD-HHMM>-correspondence.md` noting completion, and hand the downloaded signed PDF to `document-intake` for filing.
 
-## User Output for Multiple Signers
+## User output for multiple signers
 
 ```
 ✅ DOCUMENT SENT FOR SIGNATURES

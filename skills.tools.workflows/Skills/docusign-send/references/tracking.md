@@ -1,6 +1,6 @@
 # DocuSign Envelope Tracking
 
-## Envelope States
+## Envelope states
 
 | Status | Meaning |
 |--------|---------|
@@ -8,128 +8,57 @@
 | `sent` | Sent to signer(s), awaiting action |
 | `delivered` | Delivered to signer's inbox |
 | `signed` | Signer completed signing |
-| `completed` | All signers done, processing complete |
+| `completed` | All signers done |
 | `declined` | Signer declined to sign |
 | `voided` | Envelope cancelled |
 
-## Tracking in Case File
+## Where to record the envelope
 
-Store envelope info in `workflow_state.json`:
+Per `DATA_CONTRACT.md` §5, every outbound send becomes an Activity Log entry at `cases/<slug>/Activity Log/<YYYY-MM-DD-HHMM>-correspondence.md`. The body should capture:
 
-```json
-{
-  "docusign_envelopes": [
-    {
-      "document": "Fee Agreement",
-      "envelope_id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
-      "sent_date": "2024-12-06T10:30:00",
-      "signer_email": "client@email.com",
-      "status": "sent",
-      "follow_up_date": "2024-12-09T10:30:00"
-    }
-  ]
-}
+- Document name and path (`cases/<slug>/documents/...`)
+- Signer name and email
+- DocuSign envelope ID
+- Envelope status at time of send (`sent`)
+- A follow-up date three business days out
+
+Example body:
+
+```markdown
+# correspondence — 2026-04-07
+
+**Case:** [[cases/jane-doe/jane-doe|Jane Doe]]
+
+Sent fee agreement via DocuSign.
+
+- Document: `cases/jane-doe/documents/fee-agreement-mva.pdf`
+- Signer: Jane Doe (jane@example.com)
+- Envelope ID: `xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx`
+- Status at send: sent
+- Follow-up: 2026-04-10
 ```
 
-## Follow-Up Schedule
+## Follow-up cadence
 
 | Day | Action |
 |-----|--------|
 | 0 | Document sent |
-| 3 | First follow-up (if not signed) |
+| 3 | First follow-up (if still `sent`) |
 | 7 | Second follow-up |
-| 14 | Escalation / resend |
+| 14 | Escalate or resend |
 
-## Follow-Up Message
-
-When follow-up date arrives:
-
-```
-📋 DOCUSIGN FOLLOW-UP DUE
-
-Document: Fee Agreement
-Sent: December 6, 2024 (3 days ago)
-Envelope ID: xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
-Signer: John Smith (client@email.com)
-Status: Sent (not yet signed)
-
-Options:
-A) Send reminder via DocuSign
-B) Contact client directly
-C) Resend with new envelope
-D) Extend follow-up 3 more days
-E) Mark as signed (if completed)
-```
-
-## When Document is Signed
-
-1. DocuSign sends notification (webhook or email)
-2. Download signed document
-3. Save to case folder
-4. Update landmark status
+## Checking envelope status later
 
 ```python
-# Update tracking
-workflow_state["docusign_envelopes"][0]["status"] = "completed"
-workflow_state["docusign_envelopes"][0]["completed_date"] = "2024-12-07T14:22:00"
-workflow_state["docusign_envelopes"][0]["signed_document_path"] = "Client/Fee Agreement - SIGNED.pdf"
-
-# Update landmark (for Fee Agreement)
-workflow_state["landmarks"]["contract_signed"] = True
-```
-
-## Checking Envelope Status
-
-```python
-# If status check needed
-from docusign_config import get_config
 from docusign_esign import EnvelopesApi
+from docusign_config import get_config
 
 config = get_config(use_production=True)
-api_client = config.get_api_client()
-envelopes_api = EnvelopesApi(api_client)
-
-envelope = envelopes_api.get_envelope(
-    account_id=config.account_id,
-    envelope_id="xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
-)
-
-print(f"Status: {envelope.status}")
+api = EnvelopesApi(config.get_api_client())
+envelope = api.get_envelope(account_id=config.account_id, envelope_id=envelope_id)
+print(envelope.status)
 ```
 
-## Downloading Signed Document
+## When the signed document arrives
 
-```python
-# Get completed document
-documents = envelopes_api.list_documents(
-    account_id=config.account_id,
-    envelope_id=envelope_id
-)
-
-# Download
-document_bytes = envelopes_api.get_document(
-    account_id=config.account_id,
-    envelope_id=envelope_id,
-    document_id="1"
-)
-
-# Save
-with open(f"{case_folder}/Client/Fee Agreement - SIGNED.pdf", "wb") as f:
-    f.write(document_bytes)
-```
-
-## User Notification on Completion
-
-```
-✅ DOCUMENT SIGNED
-
-Document: Fee Agreement
-Signed by: John Smith
-Date: December 7, 2024 at 2:22 PM
-
-Signed document saved to:
-Client/Fee Agreement - SIGNED.pdf
-
-✓ Landmark updated: Contract Signed = TRUE
-```
-
+DocuSign sends a completion notification. Download the signed PDF and hand it to `document-intake`, which will file it to `cases/<slug>/documents/` with a descriptive name and flip the appropriate Phase 0 landmark in `cases/<slug>/<slug>.md` frontmatter. Do not flip landmarks from inside this skill.

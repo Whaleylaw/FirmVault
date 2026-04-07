@@ -52,24 +52,25 @@ This has been documented in the case file.
 Focus should be on BI claim against at-fault party.
 ```
 
-## Data Recording
+## Recording disqualification
 
-```json
-{
-  "pip": {
-    "pip_insurer": null,
-    "pip_insurer_type": "disqualified",
-    "is_disqualified": true,
-    "disqualification_reason": "Owner of uninsured motor vehicle",
-    "waterfall_date": "2024-12-06",
-    "waterfall_path": [
-      "Step 1: Client on vehicle title = YES",
-      "Step 1a: Vehicle insured = NO",
-      "Result: DISQUALIFIED"
-    ]
-  }
-}
+Create `cases/<slug>/claims/pip-disqualified.md` with frontmatter:
+
+```yaml
+---
+schema_version: 2
+claim_type: pip
+status: disqualified
+disqualification_reason: Owner of uninsured motor vehicle
+waterfall_path:
+  - "Step 1: client on vehicle title = YES"
+  - "Step 1a: vehicle insured = NO"
+  - "Result: DISQUALIFIED"
+determined_date: "YYYY-MM-DD"
+---
 ```
+
+Add a bullet under `## Insurance Claims` noting the disqualification so downstream skills see it, and log the determination in `cases/<slug>/Activity Log/<YYYY-MM-DD-HHMM>-legal.md`.
 
 ## Common Questions
 

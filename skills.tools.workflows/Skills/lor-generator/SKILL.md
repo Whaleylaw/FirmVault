@@ -1,12 +1,12 @@
 ---
 name: lor-generator
 description: >
-  Letter of Representation generation using the unified document generation system.
-  Copies LOR template to the Insurance folder for the specific carrier, then calls
-  generate_document.py which auto-fills all placeholders from case data based on the path.
-  When Claude needs to create a Letter of Representation for BI or PIP insurance.
-  Use for insurance claim setup, sending representation letters.
-  Not for PDF forms, non-templated documents, or email-only correspondence.
+  Fill a Letter of Representation (LOR) to a BI or PIP adjuster from case
+  data, and save the completed .docx to `cases/<slug>/documents/correspondence/`.
+  Uses `Templates/letter-of-rep-bi-adjuster.docx` for BI claims and
+  `Templates/letter-of-rep-pip-adjuster.docx` for PIP claims. Sending the LOR
+  is part of opening an insurance claim and contributes to the Phase 1
+  `insurance_claims_setup` landmark.
 allowed-tools:
   - Read
   - Edit
@@ -15,149 +15,52 @@ allowed-tools:
   - Grep
 ---
 
-# LOR Generator Skill
+# LOR Generator
 
-Generate Letters of Representation by copying templates to the correct location and using the unified document generator.
-
-## Capabilities
-
-- Generate BI LOR documents
-- Generate PIP LOR documents
-- Auto-fill all placeholders from case data
-- Export to .docx and PDF
-- Path-based context detection (insurance company, claim data)
-
-**Keywords**: Letter of Representation, LOR, Word template, docx, insurance correspondence, adjuster letter
+Fill a Letter of Representation template against a specific insurance claim and save the filled document into the case's correspondence folder. Two variants: BI (to the at-fault carrier) and PIP (to the PIP carrier the waterfall identified).
 
 ## Templates
 
-| Template ID | Template File | Use For |
-|-------------|---------------|---------|
-| `lor_bi` | `2022 Whaley LOR to BI Adjuster(1)(1)(1) (1).docx` | At-fault party BI insurance |
-| `lor_pip` | `2022 Whaley LOR to PIP Adjuster(1)(1) (1).docx` | PIP carrier |
+| Variant | Template | Use for |
+|---|---|---|
+| BI | `Templates/letter-of-rep-bi-adjuster.docx` | At-fault party's bodily injury carrier |
+| PIP | `Templates/letter-of-rep-pip-adjuster.docx` | PIP carrier from `pip-waterfall` result |
+
+Both templates are read-only firm assets; never modify the source. See `Templates/INDEX.md` for the full template library.
+
+## When to use
+
+After an insurance claim file has been created in `cases/<slug>/claims/` with the carrier name, adjuster, and claim number. For BI, that happens during claim setup after the carrier's first contact. For PIP, that happens after `pip-waterfall` runs.
 
 ## Workflow
 
-```
-1. IDENTIFY INSURANCE CLAIM
-   └── Get insurance company name from `cases/<slug>/claims/` and `## Insurance Claims` section
-   └── Determine claim type (BI or PIP)
+1. Pick the claim to represent — read `cases/<slug>/<slug>.md` `## Insurance Claims` section and open the matching claim file under `cases/<slug>/claims/`. Determine BI vs PIP from its frontmatter.
+2. Gather the placeholder values per [`references/placeholder-mapping.md`](references/placeholder-mapping.md). Key sources:
+   - Client name / incident date → `cases/<slug>/<slug>.md` frontmatter
+   - Carrier, address, adjuster, claim number → `cases/<slug>/claims/<claim-file>.md` frontmatter and body
+   - Attorney name → firm settings
+3. Fill the correct template and save the result as `cases/<slug>/documents/correspondence/lor-<bi|pip>-<carrier-slug>.docx`. Use the filler tool the runtime provides (docxtpl, python-docx, or `Tools/document_processing/` helpers); see [`references/tool-usage.md`](references/tool-usage.md) for patterns.
+4. Append an Activity Log entry at `cases/<slug>/Activity Log/<YYYY-MM-DD-HHMM>-correspondence.md` describing what was sent to whom.
+5. For PIP LORs, confirm with the paralegal whether the Kentucky-specific "$6,000 reserve for bills as they come in" instruction applies — it varies by case.
 
-2. CREATE DESTINATION FOLDER
-   └── Path: /{project}/Insurance/{insurance_company}/
-   └── Create folder if it doesn't exist
+Hand off to `docusign-send` if the paralegal wants the letter e-signed (rare for LORs, which are usually sent as signed letterhead).
 
-3. COPY TEMPLATE TO DESTINATION
-   └── BI: Copy LOR to BI template
-   └── PIP: Copy LOR to PIP template
-   └── Filename: "LOR to {type} Adjuster.docx"
+## Outputs
 
-4. CALL GENERATE_DOCUMENT
-   └── Tool: generate_document.py
-   └── Input: Full path to copied template
-   └── Tool auto-detects template and fills from path context
+- Filled letter committed to `cases/<slug>/documents/correspondence/lor-<type>-<carrier-slug>.docx`
+- Activity Log entry at `cases/<slug>/Activity Log/<YYYY-MM-DD-HHMM>-correspondence.md`
+- Update the matching `cases/<slug>/claims/<claim-file>.md` frontmatter with `date_lor_sent: YYYY-MM-DD` once the letter is actually mailed/emailed
 
-5. RECORD
-   └── Update `cases/<slug>/claims/` and `## Insurance Claims` section with date_lor_sent
-```
-
-## Step-by-Step Instructions
-
-### Step 1: Identify Insurance
-
-```python
-# Read `cases/<slug>/claims/` and `## Insurance Claims` section to find the insurance claim
-import json
-from pathlib import Path
-
-project = "John-Doe-MVA-01-01-2025"
-case_info = Path(f"{project}/Case Information")
-
-with open(case_info / "`cases/<slug>/claims/` and `## Insurance Claims` section") as f:
-    insurance_data = json.load(f)
-
-# Find the BI or PIP insurance entry
-# Note the insurance_company_name
-```
-
-### Step 2: Copy Template to Destination
-
-```python
-import shutil
-from pathlib import Path
-
-# Source templates
-templates_dir = Path("templates")
-bi_template = templates_dir / "2022 Whaley LOR to BI Adjuster(1)(1)(1) (1).docx"
-pip_template = templates_dir / "2022 Whaley LOR to PIP Adjuster(1)(1) (1).docx"
-
-# Destination (creates context for auto-fill)
-project = "John-Doe-MVA-01-01-2025"
-insurance_company = "State Farm"  # From `cases/<slug>/claims/` and `## Insurance Claims` section
-
-dest_folder = Path(f"{project}/Insurance/{insurance_company}")
-dest_folder.mkdir(parents=True, exist_ok=True)
-
-# Copy template to destination
-# For BI:
-shutil.copy(bi_template, dest_folder / "LOR to BI Adjuster.docx")
-# For PIP:
-shutil.copy(pip_template, dest_folder / "LOR to PIP Adjuster.docx")
-```
-
-### Step 3: Generate Document
-
-```bash
-# The path tells the tool everything it needs:
-# - Project name: John-Doe-MVA-01-01-2025
-# - Context type: Insurance
-# - Insurance company: State Farm
-
-python Tools/document_generation/generate_document.py \
-    "John-Doe-MVA-01-01-2025/Insurance/State Farm/LOR to BI Adjuster.docx" \
-    --pretty
-```
-
-**Python Usage**:
-
-```python
-import sys
-sys.path.insert(0, "Tools/document_generation")
-from generate_document import generate_document
-
-result = generate_document(
-    "John-Doe-MVA-01-01-2025/Insurance/State Farm/LOR to BI Adjuster.docx"
-)
-
-if result["status"] == "success":
-    print(f"DOCX: {result['docx_path']}")
-    print(f"PDF: {result['pdf_path']}")
-    print(f"Fields filled: {result['fields_filled']}")
-```
-
-## How Path-Based Context Works
-
-The path `/{project}/Insurance/{company}/LOR.docx` tells the tool:
-
-1. **Project**: `John-Doe-MVA-01-01-2025` → Load case JSONs from Case Information/
-2. **Context Type**: `Insurance` → This is an insurance-related document
-3. **Context Name**: `State Farm` → Find State Farm in `cases/<slug>/claims/` and `## Insurance Claims` section
-4. **Template**: `LOR to BI Adjuster.docx` → Identified as BI LOR template
-
-The tool then:
-- Loads ``cases/<slug>/<slug>.md` (frontmatter)` for client info
-- Finds "State Farm" in ``cases/<slug>/claims/` and `## Insurance Claims` section` for adjuster, claim number
-- Fills all `{{placeholder}}` fields automatically
-
-## Output
-
-- Filled LOR document (.docx) - overwrites the template copy
-- PDF export (.pdf) - created alongside
-- Location: `/{project}/Insurance/{company}/LOR to {type} Adjuster.docx`
+Contributes to the `insurance_claims_setup` landmark (`PHASE_DAG.yaml` phase 1) together with the claim file itself.
 
 ## References
 
-For detailed information, see:
-- **Tool documentation** → `/Tools/document_generation/generate_document.py`
-- **Template Registry** → `/templates/template_registry.json`
-- **Path parsing** → `/Tools/document_generation/path_parser.py`
+- [`references/placeholder-mapping.md`](references/placeholder-mapping.md) — each template placeholder mapped to its vault source
+- [`references/tool-usage.md`](references/tool-usage.md) — examples of filling .docx templates from the vault
+- [`references/error-handling.md`](references/error-handling.md) — missing data, template not found, filler edge cases
+
+## What this skill does NOT do
+
+- **Create the insurance claim entry** — the claim file must already exist (from `pip-waterfall`, police report setup, or manual claim creation).
+- **Run the PIP waterfall** — that's `pip-waterfall`; this skill just reads its output.
+- **Mail or email the finished letter** — the filled document goes into the correspondence folder for the paralegal to send.

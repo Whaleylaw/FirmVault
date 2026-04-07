@@ -81,30 +81,30 @@ to direct insurer claims.
 Shall I help prepare the KACP Application for KAC submission?
 ```
 
-## Data Recording
+## Recording a KAC result
 
-```json
-{
-  "pip": {
-    "pip_insurer": "Kentucky Assigned Claims",
-    "pip_insurer_type": "kac",
-    "is_kac": true,
-    "is_disqualified": false,
-    "kac_status": "pending_application",
-    "assigned_insurer": null,
-    "kac_application_date": null,
-    "kac_assignment_date": null,
-    "waterfall_date": "2024-12-06",
-    "waterfall_path": [
-      "Step 1: Client not on vehicle title",
-      "Step 2: Vehicle occupied not insured",
-      "Step 3: Client has no own insurance",
-      "Step 4: No household member insurance",
-      "Result: KAC"
-    ]
-  }
-}
+Create `cases/<slug>/claims/pip-kac.md` with frontmatter:
+
+```yaml
+---
+schema_version: 2
+claim_type: pip
+carrier: Kentucky Assigned Claims Plan
+status: kac_pending_application
+kac_application_date: null
+kac_assignment_date: null
+assigned_insurer: null
+waterfall_path:
+  - "Step 1: client not on vehicle title"
+  - "Step 2: vehicle occupied not insured"
+  - "Step 3: client has no own insurance"
+  - "Step 4: no household member insurance"
+  - "Result: KAC"
+determined_date: "YYYY-MM-DD"
+---
 ```
+
+Update the file's frontmatter as the KAC process progresses (`kac_application_date` when the KACP form is mailed, `assigned_insurer` + `kac_assignment_date` when KAC assigns a carrier). Log each step in `cases/<slug>/Activity Log/`.
 
 ## Timeline Expectations
 

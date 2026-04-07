@@ -219,25 +219,25 @@ Use this template when generating the extraction output from a Kentucky crash re
 
 ### Next Actions
 
-1. [ ] Run PIP waterfall tool to confirm PIP carrier
-2. [ ] Create insurance entry for BI carrier: [COMPANY NAME]
-3. [ ] Create insurance entry for PIP carrier: [COMPANY NAME]
-4. [ ] Create contact card for at-fault driver: [NAME]
-5. [ ] Create contact card for witness(es): [NAME(S)]
-6. [ ] Update `cases/<slug>/<slug>.md` (frontmatter) with accident details
+1. [ ] Run `pip-waterfall` to confirm PIP carrier
+2. [ ] Create `cases/<slug>/claims/bi-<carrier-slug>.md` for BI carrier: [COMPANY NAME]
+3. [ ] Create `cases/<slug>/claims/pip-<carrier-slug>.md` once waterfall is done
+4. [ ] Create contact stub `cases/<slug>/contacts/<driver-slug>.md` for at-fault driver: [NAME]
+5. [ ] Create contact stub(s) for witness(es): [NAME(S)]
+6. [ ] Update `cases/<slug>/<slug>.md` frontmatter and body narrative with accident details
 7. [ ] [If red flags] Flag for attorney review: [ISSUE]
 
 ---
 
-### Data Targets
+### Data targets
 
-| Data | Target File | Field Path |
-|------|-------------|------------|
-| Accident details | `cases/<slug>/<slug>.md` (frontmatter) | `accident.*` |
-| BI insurance | `cases/<slug>/claims/` and `## Insurance Claims` section | New entry with `coverage_type: "BI"` |
-| PIP insurance | `cases/<slug>/claims/` and `## Insurance Claims` section | New entry with `coverage_type: "PIP"` |
-| At-fault party | `cases/<slug>/contacts/` | New entry with `role: "at_fault_driver"` |
-| Witnesses | `cases/<slug>/contacts/` | New entries with `role: "witness"` |
+| Data | Target file |
+|---|---|
+| Accident details (date, location, narrative) | `cases/<slug>/<slug>.md` frontmatter + body narrative |
+| BI insurance | new `cases/<slug>/claims/bi-<carrier-slug>.md` + bullet under `## Insurance Claims` |
+| PIP insurance inputs | passed to `pip-waterfall`; ultimately `cases/<slug>/claims/pip-<carrier-slug>.md` |
+| At-fault driver | new `cases/<slug>/contacts/<driver-slug>.md` with `role: at_fault_driver` |
+| Witnesses | new `cases/<slug>/contacts/<witness-slug>.md` per witness with `role: witness` |
 
 ---
 

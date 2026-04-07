@@ -1,120 +1,59 @@
 ---
 name: docusign-send
 description: >
-  Electronic signature toolkit for sending documents via DocuSign. Sends PDF documents
-  to clients for signature with configurable anchor string placement. Supports single
-  or multiple signers and returns envelope ID for tracking. When Claude needs to send
-  a Fee Agreement, HIPAA authorization, or other document for electronic signature,
-  collect client signatures remotely, or track pending signatures. Use for Phase 0
-  intake documents requiring signature, contract execution, or any document requiring
-  authenticated e-signature. Not for documents that don't require signature, when
-  client prefers wet signature, or when DocuSign is not configured.
+  Send a PDF or DOCX to a client (or multiple signers) for electronic signature
+  via DocuSign, using anchor-string placement. Returns an envelope ID the
+  paralegal can use for follow-up. Typically used during Phase 0 to deliver the
+  fee agreement and HIPAA authorization — the completion of those signings
+  eventually produces the `contract_signed` and `medical_auth_signed` landmarks
+  once `document-intake` files the signed PDFs back into the vault.
 allowed-tools:
   - Read
   - Edit
   - Write
   - Glob
   - Grep
+  - Bash
 ---
 
-# DocuSign Send Skill
+# DocuSign Send
 
-Send documents to clients for electronic signature via DocuSign.
+Send a prepared document to a client for electronic signature through DocuSign. The tool at `Tools/esignature/docusign_send.py` handles the API call; this skill wraps it with the right metadata and case logging.
 
-## Capabilities
+## When to use
 
-- Send PDF/DOCX documents for e-signature
-- Support single or multiple signers
-- Configure signature anchor placement
-- Track envelope status
-- Return envelope ID for follow-up
+Phase 0 fee agreement and HIPAA authorization are the two most common. Anything else (e.g. a declining-representation letter that needs a client countersignature) is fair game so long as the document has an anchor string and the client is willing to sign electronically.
 
-**Keywords**: DocuSign, electronic signature, e-signature, esign, contract signing, HIPAA signature, Fee Agreement signing, remote signing, digital signature
-
-## Phase 0 Documents
-
-| Document | Anchor | Priority |
-|----------|--------|----------|
-| Fee Agreement | `/sig1/` | **Required** |
-| Medical Authorization (HIPAA) | `/sig1/` | **Required** |
-| Digital Signature Auth | `/sig1/` | Recommended |
+Skip this skill if the document has no anchor string (see [`references/anchor-strings.md`](references/anchor-strings.md) to add one), the client prefers wet signature, or DocuSign credentials are not configured.
 
 ## Workflow
 
-```
-1. PREPARE DOCUMENT
-   └── Must be PDF or DOCX
-   └── Anchor string in place (e.g., /sig1/)
+1. Confirm the document exists (usually under `cases/<slug>/documents/` after being filled from a `Templates/` source) and includes an anchor string like `/sig1/`.
+2. Pull the signer's email and legal name from `cases/<slug>/contacts/<client-slug>.md` or ask the paralegal.
+3. Call the tool (see [`references/tool-usage.md`](references/tool-usage.md)):
+   ```bash
+   python Tools/esignature/docusign_send.py <document_path> \
+       --signer-email <email> --signer-name "<Legal Name>" \
+       --subject "Please Sign: <Document>" --production
+   ```
+4. Record the envelope ID in an Activity Log entry under `cases/<slug>/Activity Log/<YYYY-MM-DD-HHMM>-correspondence.md`, including the signer, document, and a 3-day follow-up note.
+5. Multiple signers: see [`references/multiple-signers.md`](references/multiple-signers.md) for per-signer anchors and routing order.
 
-2. VERIFY SIGNER
-   └── Client email address (required)
-   └── Client legal name
+## Outputs
 
-3. COMPOSE MESSAGE
-   └── Subject line
-   └── Email body message
-
-4. SEND VIA DOCUSIGN
-   └── Tool: docusign_send.py
-
-5. TRACK ENVELOPE
-   └── Record envelope_id
-   └── Schedule 3-day follow-up
-
-6. PROCESS COMPLETION
-   └── Download signed document
-   └── Update landmark
-```
-
-## Tool
-
-**Primary**: `tools/docusign_send.py`
-
-```python
-from docusign_send import send_document
-
-result = send_document(
-    document_path="/path/to/fee_agreement.pdf",
-    signer_emails=["client@email.com"],
-    signer_names=["John Smith"],
-    subject="Whaley Law Firm - Please Sign: Fee Agreement",
-    anchor_string="/sig1/"
-)
-```
-
-## Output Patterns
-
-**Success**:
-```
-✅ DOCUMENT SENT FOR SIGNATURE
-
-Document: Fee Agreement
-Sent to: John Smith (client@email.com)
-Envelope ID: xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
-
-Client will receive email from DocuSign with signing instructions.
-Follow-up scheduled: [3 days]
-```
-
-**Error**:
-```
-⚠️ FAILED TO SEND DOCUMENT
-
-Error: [error message]
-Please verify client email and try again.
-```
+- DocuSign envelope created; envelope ID logged
+- Activity Log entry at `cases/<slug>/Activity Log/<YYYY-MM-DD-HHMM>-correspondence.md` with envelope ID and follow-up date
+- No landmark flips here — those happen when `document-intake` files the signed PDF after DocuSign delivers it back
 
 ## References
 
-For detailed guidance, see:
-- **Tool usage** → `references/tool-usage.md`
-- **Anchor strings** → `references/anchor-strings.md`
-- **Tracking envelopes** → `references/tracking.md`
-- **Multiple signers** → `references/multiple-signers.md`
+- [`references/tool-usage.md`](references/tool-usage.md) — `docusign_send.py` CLI and Python usage, return shape, error modes
+- [`references/anchor-strings.md`](references/anchor-strings.md) — how anchors work and how to add them to a new template
+- [`references/multiple-signers.md`](references/multiple-signers.md) — joint fee agreements, parent-for-minor, routing order
+- [`references/tracking.md`](references/tracking.md) — envelope status vocabulary and follow-up cadence
 
-## Output
+## What this skill does NOT do
 
-- Document sent via DocuSign
-- Envelope ID for tracking
-- Follow-up scheduled (3 days)
-- Landmark updated when signed
+- **Prepare the document to be signed** — that's the template-filling skill (`lor-generator`, `pip-application`, etc.).
+- **File the signed PDF after completion** — that's `document-intake`.
+- **Draft the initial request email** — that's `document-request`.

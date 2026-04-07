@@ -55,24 +55,23 @@ Note: Even if client didn't own a vehicle, they may have:
 | At-fault limits $25K, damages $100K | $25K | Yes - UIM for gap |
 | Comparative fault 50% | Reduced 50% | Maybe - depends on limits |
 
-## Opening UM/UIM Claim
+## Opening a UM/UIM claim
 
-```json
-{
-  "insurance": {
-    "um_uim": {
-      "carrier": "Client's Insurance Co",
-      "policy_number": "POL-12345",
-      "claim_number": null,
-      "claim_type": "UM",
-      "reason": "BI liability denied",
-      "coverage_limit": 50000,
-      "date_claim_opened": null,
-      "status": "pending_opening"
-    }
-  }
-}
+When recommended, the paralegal creates `cases/<slug>/claims/um-<carrier-slug>.md` (or `uim-<carrier-slug>.md`) with frontmatter like:
+
+```yaml
+---
+schema_version: 2
+claim_type: um     # or uim
+carrier: <Client Carrier>
+policy_number: POL-12345
+coverage_limit: 50000
+reason_opened: "BI liability denied"
+status: pending_opening
+---
 ```
+
+Add a bullet under `## Insurance Claims` in the case file. Liability-analysis stops at the recommendation; the claim file itself is created by the setup workflow the paralegal runs.
 
 ## User Decision
 

@@ -95,22 +95,17 @@ If no acknowledgment within 14 days:
 3. Document all attempts
 4. Escalate if continued non-response
 
-## Data Recording After Submission
+## Recording after submission
 
-```json
-{
-  "pip": {
-    "date_pip_application_sent": "2024-12-06",
-    "pip_application_method": "fax",
-    "pip_application_status": "submitted",
-    "pip_application_tracking": {
-      "sent_to": "State Farm PIP Department",
-      "fax_confirmation": "Y",
-      "follow_up_date": "2024-12-20"
-    }
-  }
-}
+When the paralegal confirms the form has been sent, update the PIP claim file frontmatter at `cases/<slug>/claims/pip-<carrier-slug>.md`:
+
+```yaml
+date_pip_application_sent: "2026-04-07"
+pip_application_method: fax       # or email, mail
+pip_application_status: submitted
 ```
+
+And add an Activity Log entry at `cases/<slug>/Activity Log/<YYYY-MM-DD-HHMM>-correspondence.md` noting the method, the fax/email confirmation, and a 14-day follow-up date.
 
 ## Pre-Submission Checklist
 

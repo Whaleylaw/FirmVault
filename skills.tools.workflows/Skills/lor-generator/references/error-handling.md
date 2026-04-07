@@ -1,69 +1,32 @@
 # LOR Generator Error Handling
 
-## Common Errors and Solutions
+| Error | Cause | Resolution |
+|---|---|---|
+| Template not found | Wrong path | Verify `Templates/letter-of-rep-<type>-adjuster.docx` exists; check `Templates/INDEX.md` |
+| Missing required placeholder | Claim file incomplete | Ask the paralegal; do not fabricate |
+| Filler library not installed | Environment missing docxtpl / python-docx | Fall back to another filler or prompt the paralegal to install one |
+| Output path not writable | `cases/<slug>/documents/correspondence/` missing or locked | Create the directory first |
+| Invalid date format | Bad `date_of_incident` frontmatter | Fix the case file frontmatter, then retry |
 
-| Error | Cause | Solution |
-|-------|-------|----------|
-| Template not found | Invalid path | Verify template exists at specified location |
-| Missing required placeholder | Data not in case files | Prompt user for missing information |
-| LibreOffice not installed | PDF export dependency | Provide .docx only, skip PDF |
-| Output path not writable | Permission issue | Check folder exists and has write access |
-| Invalid date format | Date parsing failed | Use fallback formatting |
+## Missing required data
 
-## Error Response Patterns
-
-### Template Not Found
+Stop and ask — do not guess. Example:
 
 ```
-⚠️ Template not found: `Templates/lor-to-bi-adjuster.docx`
+Cannot generate LOR. The following are missing:
+  - client name  (cases/jane-doe/jane-doe.md frontmatter client_name)
+  - carrier address  (cases/jane-doe/claims/bi-state-farm.md frontmatter carrier_address)
 
-Please verify the template file exists in the workflow templates folder.
-Expected location: workflows/insurance_bi_claim/templates/
+Please add these to the vault and re-run, or supply them directly.
 ```
 
-### Missing Required Data
+## PDF export
 
-```
-⚠️ Cannot generate LOR - missing required information:
+The firm's .docx filling workflow does not require a companion PDF. If the paralegal asks for one, convert manually with LibreOffice or Word; do not make a PDF export the default.
 
-Missing fields:
-- Client name (required)
-- Insurance company address (required)
+## Pre-fill checklist
 
-Please provide:
-1. Client's full legal name: _______
-2. Insurance company mailing address: _______
-```
-
-### PDF Export Failed
-
-```
-ℹ️ PDF export unavailable (LibreOffice not installed)
-
-Word document generated successfully:
-- LOR_to_BI_2024-12-06.docx
-
-To create PDF manually:
-1. Open the .docx file
-2. File → Save As → PDF
-```
-
-## Validation Checklist
-
-Before generating LOR, verify:
-
-- [ ] Template file exists and is accessible
-- [ ] Client name is populated
-- [ ] Insurance company address is complete
-- [ ] Accident date is formatted correctly
-- [ ] Output folder exists
-
-## Recovery Actions
-
-| Scenario | Action |
-|----------|--------|
-| Partial data available | Generate with defaults, flag missing fields |
-| Template corrupted | Use backup template or report error |
-| User cancels | Save draft for later completion |
-| Network error (if cloud) | Retry with exponential backoff |
-
+- [ ] Case file exists with `client_name` and `date_of_incident` frontmatter
+- [ ] Claim file exists under `cases/<slug>/claims/` with carrier + adjuster info
+- [ ] Target directory `cases/<slug>/documents/correspondence/` exists (create if not)
+- [ ] Template file is present under `Templates/`
