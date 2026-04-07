@@ -1,10 +1,10 @@
 ---
 name: settlement-statement
 description: >
-  Prepare comprehensive settlement statements showing gross settlement,
-  deductions, and net to client. Use when settlement is reached and
-  distribution must be calculated, when preparing authorization to settle,
-  or when explaining distribution to client.
+  Prepare the initial settlement statement for a Phase 5 matter: compute the
+  gross-to-net distribution (attorney fee, case costs, lien holdback, net to
+  client) and draft the authorization-to-settle document the client signs.
+  Produces the `settlement_statement_prepared` landmark in PHASE_DAG.yaml.
 allowed-tools:
   - Read
   - Edit
@@ -13,206 +13,58 @@ allowed-tools:
   - Grep
 ---
 
-# Settlement Statement Skill
+# Settlement Statement
 
-## Skill Metadata
+The first accounting document produced after an offer is accepted. It shows the client exactly what the gross settlement becomes after attorney fee, case costs, and lien holdback — and it travels with the authorization-to-settle that the client signs.
 
-- **ID**: settlement-statement
-- **Category**: settlement
-- **Model Required**: claude-sonnet-4-20250514 or higher
-- **Reference Material**: `references/fee-calculation.md`, `references/trust-requirements.md`
-- **Tools Required**: `generate_document.py`
+## When to use
 
----
+Phase 5 is active (`status: settlement`), an offer has been accepted (`case.frontmatter.settlement_status == "agreed"`), and the gross amount is fixed. If you are still negotiating, use `offer-evaluation` instead. For the *final* distribution after liens are paid, use `supplemental-statement`.
 
-## When to Use This Skill
+## Inputs to gather
 
-Use this skill when:
-- Settlement has been reached
-- Need to calculate net to client
-- Preparing authorization to settle document
-- Explaining distribution breakdown to client
-- Creating final settlement accounting
+Read `cases/<slug>/<slug>.md` first, then pull:
 
-**DO NOT use if:**
-- Settlement not yet reached (estimating during negotiation)
-- Just evaluating offers (use `offer-evaluation`)
-- No actual settlement amount confirmed
+- **Gross settlement** — from `## Insurance Claims` or the accepted-offer activity log entry
+- **Fee agreement terms** — from `cases/<slug>/documents/legal/` (signed fee agreement). See `references/fee-calculation.md` for pre- vs. post-litigation rates, staged rates, referral splits
+- **Case costs** — from the `## Expenses` table in the case file
+- **Lien holdback** — sum of `final_amount` (or `estimated_amount` if final is still pending) across every file in `cases/<slug>/liens/` where `status != paid`. Coordinate with `lien-management`.
 
----
-
-## Workflow
-
-### Step 1: Gather Settlement Information
-
-Collect:
-- Gross settlement amount
-- Settlement date
-- Fee agreement terms
-- All case costs/expenses
-- All liens (final amounts)
-
-### Step 2: Determine Fee Rate
-
-**Pre-Litigation (Standard):** 33.33%
-**Post-Litigation (Standard):** 40%
-
-Always verify against actual fee agreement.
-
-**See:** `references/fee-calculation.md`
-
-### Step 3: Itemize Case Costs
-
-| Cost Category | Common Items |
-|---------------|--------------|
-| Filing fees | Complaint, motions |
-| Service | Process server |
-| Records | Medical records fees |
-| Postage | Certified mail |
-| Expert fees | If applicable |
-| Deposition | Court reporter |
-| Other | Case-specific |
-
-### Step 4: List All Liens
-
-| Lien Type | Include |
-|-----------|---------|
-| Medicare | Final negotiated amount |
-| Medicaid | Final negotiated amount |
-| ERISA/Health | Final negotiated amount |
-| Hospital | Final negotiated amount |
-| Provider | Final negotiated amount |
-
-### Step 5: Calculate Distribution
+## Calculation
 
 ```
-SETTLEMENT STATEMENT
-
-Gross Settlement:                    $[gross]
-
-DEDUCTIONS:
-Attorney Fee ([rate]%):             -$[fee]
-Case Costs (itemized):              -$[costs]
-  - Medical records                  $[amount]
-  - Filing fees                      $[amount]
-  - [Other costs]                    $[amount]
-Liens (itemized):                   -$[liens]
-  - [Lien holder 1]                  $[amount]
-  - [Lien holder 2]                  $[amount]
-                                    ─────────
-NET TO CLIENT:                       $[net]
+gross
+  − attorney_fee        (gross × fee_rate; pre-lit 33.33%, post-lit 40% unless agreement differs)
+  − case_costs          (itemized from ## Expenses)
+  − lien_holdback       (sum of outstanding liens, held in trust)
+= net_to_client
 ```
 
-### Step 6: Generate Document
+Kentucky: fee is calculated on the gross, not on net after liens (KRPC 1.5, standard contingency). Always reconcile against the signed fee agreement; flag any discrepancy to the attorney before drafting.
 
-```python
-import shutil
-from pathlib import Path
+Trust handling per KRPC 1.15 — deposit to IOLTA, wait for clearance, pay liens before disbursing to client. See `references/trust-requirements.md`.
 
-# Copy template to output location
-templates_dir = Path("templates")
-project = "John-Doe-MVA-01-01-2025"
+## Outputs
 
-dest_folder = Path(f"{project}/Documents/Settlement")
-dest_folder.mkdir(parents=True, exist_ok=True)
+Write into `cases/<slug>/documents/legal/`:
 
-shutil.copy(
-    templates_dir / "settlement_statement_template.md",
-    dest_folder / "Settlement_Statement.md"
-)
+- `settlement-statement-<YYYY-MM-DD>.md` — full distribution breakdown (see `local-templates/settlement-statement.md` for the skeleton)
+- `authorization-to-settle-<YYYY-MM-DD>.md` — one-page authorization the client signs to approve the distribution (see `local-templates/authorization-to-settle.md`)
 
-# Generate document
-import sys
-sys.path.insert(0, "Tools/document_generation")
-from generate_document import generate_document
+Then:
 
-result = generate_document(
-    f"{project}/Documents/Settlement/Settlement_Statement.md"
-)
-```
+- Add an Activity Log entry under `cases/<slug>/Activity Log/<YYYY-MM-DD-HHMM>-legal.md` per `DATA_CONTRACT.md` §5
+- This satisfies the PHASE_DAG landmark `settlement_statement_prepared`. When the client signs, the `authorization_to_settle_prepared` and `client_authorized` landmarks follow — route that signing step through `docusign-send`.
 
----
+No firm DOCX exists for these two documents yet; the `local-templates/` markdown skeletons are the source of truth until one is added to `Templates/`.
 
-## Fee Calculation
+## References
 
-### Pre-Litigation
-```
-Attorney Fee = Gross × 0.3333
-```
+- [`references/fee-calculation.md`](references/fee-calculation.md) — rates, staged agreements, referral splits, sliding scale, costs vs. fees
+- [`references/trust-requirements.md`](references/trust-requirements.md) — KRPC 1.15, IOLTA rules, disbursement order, disputed-lien holds
 
-### Post-Litigation
-```
-Attorney Fee = Gross × 0.40
-```
+## What this skill does NOT do
 
-### Hybrid (if applicable)
-Some fee agreements have staged rates:
-- 33.33% if settled before litigation
-- 40% if settled after filing
-- 45% if settled after trial begins
-
-**See:** `references/fee-calculation.md` for complex scenarios.
-
----
-
-## Trust Account Requirements
-
-Kentucky KRPC 1.15 requires:
-- Settlement funds to trust account
-- Hold until check clears
-- Pay liens before distribution
-- Maintain detailed records
-
-**See:** `references/trust-requirements.md`
-
----
-
-## Output Format
-
-```markdown
-## Settlement Statement
-
-**Client:** [Name]
-**Date of Accident:** [Date]
-**Date of Settlement:** [Date]
-**Claim Type:** [BI/UM/etc.]
-
-### Distribution
-
-| Item | Amount |
-|------|--------|
-| Gross Settlement | $[gross] |
-| Attorney Fee ([%]) | -$[fee] |
-| Case Costs | -$[costs] |
-| Liens | -$[liens] |
-| **Net to Client** | **$[net]** |
-
-### Costs Detail
-[Itemized list]
-
-### Liens Detail
-[Itemized list]
-
-### Signatures
-_________________________
-Client Signature     Date
-
-_________________________
-Attorney Signature   Date
-```
-
----
-
-## Related Skills
-
-- `lien-resolution` - For finalizing lien amounts
-- `docusign-send` - For getting client signature
-
----
-
-## Reference Material
-
-For detailed information, load:
-- `references/fee-calculation.md` - Fee calculation scenarios
-- `references/trust-requirements.md` - Kentucky trust account rules
-
+- **Final distribution after liens clear** — that is `supplemental-statement` (Phase 6).
+- **Lien negotiation or payoff** — that is `lien-management`.
+- **Sending the authorization for signature** — that is `docusign-send`.

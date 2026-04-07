@@ -1,356 +1,82 @@
-# Multimedia Evidence Analysis Skill
-
-**FOR MULTIMODAL SUB-AGENT (Gemini 3 Pro)**
-
-This skill provides complete instructions for analyzing audio and video evidence WITH full case context to deliver attorney-ready analysis with transcription, speaker identification, and legal insights.
-
+---
+name: multimedia-evidence-analysis
+description: >
+  Analyze audio and video evidence (911 calls, dashcam, body camera, surveillance,
+  witness statements, deposition recordings) with full case context. Produces a
+  timestamped transcript, speaker identification informed by case facts, a visual
+  timeline for video, and an attorney-ready legal analysis memo.
+allowed-tools:
+  - Read
+  - Edit
+  - Write
+  - Glob
+  - Grep
+  - Bash
 ---
 
-## Your Task
+# Multimedia Evidence Analysis
 
-You are analyzing multimedia evidence (audio or video) for a personal injury case. Your analysis must include case context, not just raw transcription.
+Audio or video evidence on its own is just a recording. Analyzed with case context, it becomes usable proof: timestamped transcript, identified speakers, visual timeline, legal observations. This skill delegates the raw multimodal work to a Gemini sub-agent and wraps the result with case-file context.
 
----
+## When to use
 
-## Phase 1: Load Case Context FIRST
+Any time audio or video lands in `cases/<slug>/documents/` (or the user points at a file) and needs to be turned into written evidence. Common triggers: "analyze this 911 call", "transcribe this deposition video", "review the dashcam footage", "what's in this body cam video". Also use when preparing exhibits where frame grabs are needed.
 
-**Before analyzing the multimedia file, gather case context:**
+If you are the main Claude agent and don't have multimodal access, delegate to the Gemini multimodal sub-agent and pass this skill along. If you already have multimodal access, execute directly.
 
-### Step 1: Read Case Overview
+## Phase 1 — Load case context before touching the file
 
-```python
-# Read the case overview from the case folder
-read_file("{case-folder}/`cases/<slug>/<slug>.md` (frontmatter)")
-```
+The recording is useless without grounding. Read, in order:
 
-**Extract from overview:**
-- `client_name` - Full name of the client
-- `case_summary` - Summary of the incident
-- `accident_date` - When the incident occurred
-- Current case status and key facts
+1. `cases/<slug>/<slug>.md` — frontmatter (`client_name`, `case_type`, `date_of_incident`), `## Medical Providers`, `## Insurance Claims`, any summary prose
+2. The accident report in `cases/<slug>/documents/police-reports/` — location, vehicles, witnesses, officer observations
+3. Any complaint or answer in `cases/<slug>/documents/legal/` or `cases/<slug>/documents/legal-filings/` — disputed facts, plaintiff's theory
+4. Prior client statements logged in `cases/<slug>/Activity Log/` — recorded statements, intake notes
 
-### Step 2: Read Accident Report
+Extract and hold in context for the rest of the analysis: client name and role (plaintiff/defendant), incident date and location, known witnesses, what facts are disputed.
 
-```python
-# Look in the Investigation folder for the accident report
-ls("{case-folder}/Investigation/")
-# Find and read: "Traffic Collision Report" (PDF or markdown)
-read_file("{case-folder}/Investigation/{accident-report-file}")
-```
-
-**Extract from accident report:**
-- `incident_location` - Where incident occurred
-- `incident_summary` - What happened (from report)
-- Vehicles involved
-- Witnesses identified
-- Officer observations
+## Phase 2 — Multimodal analysis
 
-### Step 3: Read Litigation Documents (if available)
+Upload the file to Gemini and ask it to produce, with the case context from Phase 1 in the prompt:
 
-```python
-# Check for complaint or other litigation documents
-ls("{case-folder}/Litigation/")
-# Read complaint if available
-read_file("{case-folder}/Litigation/complaint.pdf")
-```
+- **Full transcript** with `[HH:MM:SS]` timestamps and exact quotes
+- **Speaker identification** grounded in the case facts — not "Speaker A" but "voice identified as {client_name} based on: provides personal info matching client, describes injuries consistent with complaint". Note basis for each ID.
+- **Visual timeline** (video only) — key events with timestamps and legal significance
+- **Comparison to case facts** — what supports, contradicts, or adds new facts
+- **Legal observations** — liability, causation, damages, red flags
+- **Frame-extraction candidates** (video only) — timestamps worth saving as exhibits
 
-**What you now know (define these variables for use throughout analysis):**
-- `client_name` - Client's full name
-- `incident_summary` - What happened in the incident
-- `incident_date` - When it occurred
-- `incident_location` - Where it occurred
-- `client_role` - Plaintiff or defendant
-- `disputed_facts` - What's contested (from complaint/answer)
-- `known_witnesses` - Who was present
+Reference Python/Gemini invocation: see `references/gemini-invocation.md`.
 
----
+## Phase 3 — Extract frames (video only, optional)
 
-## Phase 2: Analyze Multimedia Evidence with Gemini Native Capabilities
+For key moments identified in Phase 2, extract stills for exhibit use. The firm has a frame-extraction helper; usage details in `references/frame-extraction.md`. Save frames to `cases/<slug>/documents/photos/<source>-<YYYY-MM-DD>/<HH-MM-SS>.jpg`.
 
-**Now analyze the audio/video file using Gemini's native multimodal processing:**
+## Phase 4 — Write the analysis memo
 
-### For Audio or Video Files
+Render the Gemini output into a structured memo using `local-templates/memo.md`. Include everything: evidence overview, case context summary, full transcript, visual timeline, speaker table, key evidence bullets (supports / raises questions / new facts), extracted-frame index, legal observations, recommendations.
 
-Use Python code execution with Gemini's File API:
+## Outputs
 
-```python
-import google.generativeai as genai
-import os
+- `cases/<slug>/documents/legal/multimedia-analysis-<source>-<YYYY-MM-DD>.md` — the analysis memo
+- `cases/<slug>/documents/photos/<source>-<YYYY-MM-DD>/*.jpg` — extracted frames (if any)
+- Activity Log entry under `cases/<slug>/Activity Log/<YYYY-MM-DD-HHMM>-legal.md` per `DATA_CONTRACT.md` §5, linking the memo
 
-# Configure API (already set via GOOGLE_API_KEY environment variable)
-genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
+## Principles
 
-# Upload the multimedia file - use workspace-relative path
-# The resolve_path function will handle path translation automatically
-file_path = "{case-folder}/Investigation/{video-file}.mp4"  # Workspace-relative path
-uploaded_file = genai.upload_file(file_path)
+- Load case context **before** analyzing the file — no blind transcription.
+- Identify speakers by reasoning from case facts, not by enumerating letters.
+- Cite timestamps for every observation so any claim can be verified.
+- Surface weaknesses for the attorney before opposing counsel finds them.
+- Use workspace-relative paths throughout.
 
-# Wait for processing
-import time
-while uploaded_file.state.name == "PROCESSING":
-    time.sleep(1)
-    uploaded_file = genai.get_file(uploaded_file.name)
+## References
 
-# Analyze with case context
-model = genai.GenerativeModel("gemini-3-pro-preview")
+- [`references/gemini-invocation.md`](references/gemini-invocation.md) — Python/Gemini File API call pattern and prompt template
+- [`references/frame-extraction.md`](references/frame-extraction.md) — invoking the frame-extraction script
 
-# Create analysis prompt with case context
-prompt = f'''Analyze this {"audio" if ".mp3" in file_path or ".wav" in file_path else "video"} as legal evidence in a personal injury case.
+## What this skill does NOT do
 
-CASE CONTEXT:
-- Client: {client_name} ({client_role})
-- Incident: {incident_summary}
-- Date: {incident_date}
-- Location: {incident_location}
-- Disputed Facts: {disputed_facts}
-- Known Witnesses: {known_witnesses}
-
-ANALYSIS REQUIRED:
-
-1. **Full Transcript with Timestamps**
-   - Transcribe all speech with [HH:MM:SS] timestamps
-   - Use exact quotes
-
-2. **Speaker Identification** (use case context to identify intelligently)
-   - Don't just say "Speaker A, Speaker B"
-   - Make informed inferences: "Speaker identified as {client_name} based on: provides personal information matching client, describes incident consistent with case facts"
-   - Note basis for each identification
-
-3. **Visual Timeline** (for video only)
-   - Describe what's happening in the video with timestamps
-   - Note key events: [HH:MM:SS] **KEY EVENT**: Description
-   - Identify vehicles, people, locations visible
-   - Note damage, injuries, conditions, weather
-
-4. **Comparison to Case Facts**
-   - What in this evidence SUPPORTS client's version: {incident_summary}
-   - What CONTRADICTS or raises questions
-   - What NEW facts are revealed
-
-5. **Legal Observations**
-   - Evidence of fault/liability
-   - Evidence of injury causation
-   - Contemporaneous complaints of injury
-   - Helpful evidence for case
-   - Red flags or weaknesses
-
-6. **Key Moments** (for video)
-   - Identify critical timestamps where key events occur
-   - Note any frames that should be extracted for evidence
-   - Example: "00:01:15 - Red light violation visible, extract frame"
-
-Be thorough, objective, cite timestamps for everything, and think like an attorney evaluating evidence.'''
-
-response = model.generate_content([uploaded_file, prompt])
-
-# Clean up (optional - files auto-delete after 48 hours)
-genai.delete_file(uploaded_file.name)
-
-print(response.text)
-```
-
-**Important Path Notes:**
-- Use workspace-relative paths (e.g., `{case-folder}/Investigation/video.mp4`)
-- The system automatically handles path resolution - no `/workspace/` prefix needed
-- Video files must be under 2GB
-
----
-
-## Phase 3: Extract Video Frames (if needed)
-
-If analysis identifies key moments, extract frames using a Python script.
-
-**Frame extraction options:**
-
-The paralegal agent has native video analysis capabilities via `analyze_video(video_path, analysis_prompt)`. This is the preferred method for most video analysis tasks.
-
-If you need to extract specific frames for evidence (e.g., for trial exhibits), run the extraction script directly:
-
-```bash
-python ~/roscoe-workspace/Tools/extract_video_frames.py \
-  {case-folder}/Investigation/{video-file}.mp4 \
-  00:01:15 \
-  00:02:30 \
-  00:03:45
-```
-
-Example:
-```bash
-python ~/roscoe-workspace/Tools/extract_video_frames.py \
-  Wilson-MVA-2024/Investigation/dashcam.mp4 \
-  00:01:15 \
-  00:02:30 \
-  00:03:45
-```
-
-Frames will be saved to `{case-folder}/Reports/frames/` directory.
-
-**When to extract frames:**
-- Traffic violations visible (red light, lane departure)
-- Impact moment
-- Vehicle damage visible
-- Injuries visible
-- Scene conditions (weather, lighting, road)
-- Any moment that proves/disproves a fact
-
----
-
-## Phase 4: Synthesize Attorney-Ready Report
-
-**Format your analysis into this structure and save to `Reports/`:**
-
-```markdown
-# Multimedia Evidence Analysis: {Evidence Name}
-
-**Case:** {client_name} v. {Defendant}
-**Evidence Type:** 911 Call / Dashcam Video / Body Camera / Police Radio / Deposition
-**Date Analyzed:** {current_date}
-**Analyst:** Roscoe (Multimedia Evidence Analysis)
-
----
-
-## Evidence Overview
-
-- **File:** {file_name}
-- **Duration:** {duration}
-- **Date/Time Recorded:** {recording_datetime}
-- **Relevance:** {why_this_matters_to_case}
-
----
-
-## Case Context Summary
-
-[Brief summary of case facts loaded in Phase 1]
-
----
-
-## Full Transcript
-
-[Complete transcript with timestamps and speaker identification]
-
-[HH:MM:SS] **SPEAKER (Identification Basis):** "Quote"
-
----
-
-## Visual Timeline (Video Only)
-
-| Timestamp | Description | Legal Significance |
-|-----------|-------------|-------------------|
-| 00:00:00 | Video begins, shows... | |
-| 00:01:15 | **KEY**: Red light visible | Proves defendant negligence |
-| ... | ... | ... |
-
----
-
-## Speaker Identification
-
-| Speaker | Identification | Basis for ID |
-|---------|---------------|--------------|
-| Male Voice 1 | {client_name} | States personal information, describes injuries consistent with complaint |
-| Female Voice | 911 Dispatcher | Official procedural language, call routing |
-| ... | ... | ... |
-
----
-
-## Key Evidence Points
-
-### Supports Client's Case:
-1. [Finding with timestamp]
-2. [Finding with timestamp]
-
-### Raises Questions / Weaknesses:
-1. [Finding with timestamp]
-2. [Finding with timestamp]
-
-### New Facts Revealed:
-1. [Finding with timestamp]
-
----
-
-## Extracted Frames (if applicable)
-
-| Timestamp | Description | File |
-|-----------|-------------|------|
-| 00:01:15 | Red light visible | `Reports/frames/{case}_00-01-15.jpg` |
-| 00:02:30 | Impact moment | `Reports/frames/{case}_00-02-30.jpg` |
-
----
-
-## Legal Analysis
-
-### Liability Evidence:
-[What this evidence shows about fault]
-
-### Causation Evidence:
-[What this evidence shows about injury causation]
-
-### Damages Evidence:
-[What this evidence shows about injuries/pain]
-
----
-
-## Recommendations
-
-1. [Action item for attorney]
-2. [Additional evidence to obtain]
-3. [Witness to depose based on this evidence]
-```
-
----
-
-## Output Location
-
-**Save your analysis report to:**
-- **File:** `{case-folder}/Reports/multimedia_analysis_{evidence_name}.md`
-- **Format:** Markdown with all sections above
-
-**Save extracted frames to:**
-- **Directory:** `{case-folder}/Reports/frames/`
-- **Naming:** `{case_name}_{timestamp}.jpg`
-
----
-
-## CRITICAL: File Paths
-
-**ALWAYS use workspace-relative paths:**
-
-**For FilesystemBackend tools (read_file, ls, write_file):**
-- ✅ CORRECT: `{case-folder}/Reports/analysis.md`
-- ✅ CORRECT: `{case-folder}/Investigation/video.mp4`
-- ❌ WRONG: `/Volumes/X10 Pro/Roscoe/workspace/Reports/...` (Mac path)
-- ❌ WRONG: `../workspace/...` (relative path)
-- ❌ WRONG: `/workspace/projects/...` (old server path format)
-
-**For code execution (when accessing files in Python):**
-- ✅ CORRECT: `{case-folder}/Investigation/video.mp4` (workspace-relative)
-- ❌ WRONG: `/Volumes/X10 Pro/...` (Mac path)
-- ❌ WRONG: `/workspace/projects/...` (old server path format)
-
----
-
-## Tools Available
-
-**FilesystemBackend Tools:**
-- `ls` - List files and directories
-- `read_file` - Read text files and extract text from PDFs
-- `grep` - Search for text patterns
-- `write_file` - Create new files
-
-**Code Execution:**
-- Native Python code execution with access to google.generativeai
-- Use workspace-relative paths (no `/workspace/` prefix needed)
-
-**For video frame extraction:**
-- Use the paralegal agent's built-in `analyze_video` tool for analysis
-- For frame extraction, run: `python ~/roscoe-workspace/Tools/extract_video_frames.py {case-folder}/Investigation/{video}.mp4 [timestamps...]`
-
----
-
-## Important Notes
-
-1. **Load case context FIRST** - Never analyze in vacuum
-2. **Use case facts to inform speaker ID** - Don't use generic "Speaker A"
-3. **Think like an attorney** - What does this evidence prove or disprove?
-4. **Cite timestamps for everything** - Makes evidence usable in court
-5. **Note weaknesses too** - Attorney needs to know problems before opponents find them
-6. **Extract key frames** - Visual evidence for depositions and trial
+- **Transcribe without case context** — if the case file is missing, stop and ask.
+- **Analyze medical imaging or still photos** — use the medical-records or investigation skills instead.
+- **Draft pleadings from the findings** — the memo is input to `demand-letter-generation` or `discovery`, not a pleading itself.

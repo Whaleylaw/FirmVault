@@ -1,10 +1,10 @@
 ---
 name: supplemental-statement
 description: >
-  Prepare supplemental settlement statement for final distribution after liens
-  resolved. Use when lien holdback amounts differ from actual payments, when
-  preparing additional distribution to client, or when closing trust account
-  after lien phase completion.
+  Prepare the supplemental settlement statement at the end of Phase 6: reconcile
+  the lien holdback against what each lien was actually paid, distribute any
+  surplus to the client, and zero out the trust account. Produces the
+  `final_distribution` landmark in PHASE_DAG.yaml.
 allowed-tools:
   - Read
   - Edit
@@ -13,173 +13,57 @@ allowed-tools:
   - Grep
 ---
 
-# Supplemental Statement Skill
+# Supplemental Settlement Statement
 
-## Skill Metadata
+The closing accounting for a matter. Runs after `lien-management` has paid every outstanding lien. If the holdback exceeded the actual payments (because liens negotiated down), the surplus is distributed to the client here and the trust balance is driven to zero.
 
-- **ID**: supplemental-statement
-- **Category**: lien_phase
-- **Model Required**: claude-sonnet-4-20250514 or higher
-- **Reference Material**: `references/calculation-guide.md`
-- **Tools Required**: `generate_document.py`
+## When to use
 
----
+Phase 6 is at the end: every lien file in `cases/<slug>/liens/` has `status: paid` (i.e. `case.liens.where(status="outstanding").count == 0`) and `liens_paid` is satisfied. If any lien is still pending, stop — finish `lien-management` first. If the original settlement has not yet been disbursed, use `settlement-statement`.
 
-## When to Use This Skill
+## Inputs to gather
 
-Use this skill when:
-- All liens resolved (paid or negotiated)
-- Trust account has remaining funds
-- Ready to distribute remaining funds to client
-- Need to close out lien phase
+Read `cases/<slug>/<slug>.md` first, then pull:
 
-**DO NOT use if:**
-- Liens still outstanding
-- Waiting for final amounts
-- Settlement statement not yet issued
+- **Original settlement statement** — `cases/<slug>/documents/legal/settlement-statement-*.md`. This gives gross, fee, costs, original holdback, and initial net.
+- **Actual lien payments** — for each file in `cases/<slug>/liens/`, read `final_amount` (what was billed), `negotiated_amount` (if reduced), `paid_amount`, and `paid_date`.
+- **Trust balance** — should equal `original_holdback − sum(paid_amount)`. Any discrepancy means a lien wasn't logged; chase it down before drafting.
 
----
-
-## Workflow
-
-### Step 1: Gather Information
-
-Collect from case file:
-- Original settlement statement
-- All lien payments made
-- Trust account balance
-- Original holdback amount
-
-### Step 2: Calculate Distribution
-
-| Item | Amount |
-|------|--------|
-| Amount Held for Liens | $[holdback] |
-| Less: Lien Payments | -$[total_paid] |
-| **Additional to Client** | **$[additional]** |
-
-### Step 3: Prepare Statement
-
-Use template:
+## Calculation
 
 ```
-SUPPLEMENTAL SETTLEMENT STATEMENT
+original_holdback      (from settlement statement)
+  − sum(paid_amount)   (across all liens)
+= surplus              (additional distribution to client)
 
-Client: [Name]
-Case: [Number]
-Date: [Date]
-
-═══════════════════════════════════════════════════
-ORIGINAL SETTLEMENT (Reference)
-═══════════════════════════════════════════════════
-Gross Settlement:           $[gross]
-Attorney Fee:              -$[fee]
-Expenses:                  -$[expenses]
-Liens (Held in Trust):     -$[held]
-                           ─────────
-Initial Net to Client:      $[initial_net]
-
-═══════════════════════════════════════════════════
-LIEN RESOLUTION
-═══════════════════════════════════════════════════
-Amount Held in Trust:       $[held]
-
-Liens Paid:
-  Medicare:                -$[medicare_paid]
-  [Other Lien]:            -$[other_paid]
-                           ─────────
-Total Liens Paid:          -$[total_paid]
-
-═══════════════════════════════════════════════════
-ADDITIONAL DISTRIBUTION
-═══════════════════════════════════════════════════
-Remaining from Trust:       $[remaining]
-
-ADDITIONAL TO CLIENT:       $[additional]
-
-═══════════════════════════════════════════════════
-TOTAL NET TO CLIENT
-═══════════════════════════════════════════════════
-Initial Distribution:       $[initial_net]
-Additional Distribution:   +$[additional]
-                           ─────────
-TOTAL NET TO CLIENT:        $[total_net]
+total_net_to_client = initial_net + surplus
 ```
 
-### Step 4: Verify Trust Balance
+Edge cases (see `references/calculation-guide.md`):
+- Lien waived entirely → its full holdback becomes surplus
+- Lien exceeded holdback → attorney covers shortfall from fee OR client covers from initial distribution; document the choice
+- Disputed lien still in trust → not done yet; this skill cannot close
 
-After distribution:
-- Trust balance should be $0.00
-- All liens marked paid
-- Case ready to close
+## Outputs
 
-**See:** `references/calculation-guide.md` for detailed calculations.
+Write into `cases/<slug>/documents/legal/`:
 
----
+- `supplemental-settlement-statement-<YYYY-MM-DD>.md` — reconciliation and additional distribution (see `local-templates/supplemental-statement.md`)
+- `trust-reconciliation-<YYYY-MM-DD>.md` — opening balance, all disbursements, closing balance of $0.00 (see `local-templates/trust-reconciliation.md`)
 
-## Tool Usage
+Then:
 
-Copy template to output location, then use `generate_document.py`:
+- Set `case.frontmatter.final_distribution_date` to today — this satisfies the PHASE_DAG landmark `final_distribution`, which (combined with `liens_paid`) exits Phase 6 to Phase 8.
+- Add an Activity Log entry under `cases/<slug>/Activity Log/<YYYY-MM-DD-HHMM>-legal.md` per `DATA_CONTRACT.md` §5.
 
-```python
-import shutil
-from pathlib import Path
+No firm DOCX exists for these documents; the `local-templates/` markdown skeletons are the source of truth.
 
-# Copy template to destination
-project = "Client-Name-MVA-01-01-2025"
-dest_folder = Path(f"{project}/Documents/Settlement")
-dest_folder.mkdir(parents=True, exist_ok=True)
+## References
 
-shutil.copy(
-    "templates/supplemental_settlement_statement_template.md",
-    dest_folder / "Supplemental_Settlement_Statement.md"
-)
-```
+- [`references/calculation-guide.md`](references/calculation-guide.md) — worked examples, complex scenarios (waivers, overruns, multiple reductions), trust reconciliation format
 
-```bash
-python Tools/document_generation/generate_document.py \
-  "Client-Name-MVA-01-01-2025/Documents/Settlement/Supplemental_Settlement_Statement.md"
-```
+## What this skill does NOT do
 
----
-
-## Output Format
-
-```markdown
-## Supplemental Statement Summary
-
-### Distribution Calculation
-
-| Item | Amount |
-|------|--------|
-| Original Holdback | $[amount] |
-| Liens Actually Paid | $[paid] |
-| **Additional to Client** | **$[add]** |
-
-### Trust Account Status
-
-- Opening Balance: $[held]
-- Lien Payments: -$[paid]
-- Distribution: -$[additional]
-- **Closing Balance: $0.00**
-
-### Documents Generated
-- [ ] Supplemental Settlement Statement
-- [ ] Trust Account Reconciliation
-```
-
----
-
-## Related Skills
-
-- `final-lien-request` - Obtaining final lien amounts
-- `lien-reduction` - Negotiating lien reductions
-- `settlement-statement` - Original settlement statement
-
----
-
-## Reference Material
-
-For detailed calculations, load:
-- `references/calculation-guide.md` - Step-by-step calculation examples
-
+- **Initial gross-to-net distribution** — that is `settlement-statement` (Phase 5).
+- **Negotiating or paying liens** — that is `lien-management`.
+- **Closing the matter file** — see the Phase 8 close-case workflow.
