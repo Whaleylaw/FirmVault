@@ -20,10 +20,14 @@ date_of_incident: "2025-11-14"
 
 ## Adjusters
 - [[contacts/sarah-foye|Sarah Foye]]
+- [[contacts/dietrich-rudolph|Dietrich Rudolph]]
+- [[contacts/katie-mills|Katie Mills]]
 
 ## Insurance Claims
 - [[claims/bi-unknown|BI]] — Claim #300-0701136-2025 (no_demand)
 - [[claims/pip-unknown|PIP]] — Claim #25695180369 (no_demand)
+- [[claims/bi-auto-owners|BI — Auto Owners]]
+- [[claims/pip-progressive-insurance-company|PIP — Progressive Insurance Company]]
 
 <!-- roscoe-insurance-start -->
 ### Insurance Details (Roscoe)

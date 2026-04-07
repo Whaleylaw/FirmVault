@@ -18,6 +18,7 @@ date_of_incident: "2025-05-27"
 
 ## Insurance Claims
 - [[claims/pip-unknown|PIP]] (no_demand)
+- [[claims/-elco-insurance| — Elco Insurance]]
 
 <!-- roscoe-insurance-start -->
 ### Insurance Details (Roscoe)

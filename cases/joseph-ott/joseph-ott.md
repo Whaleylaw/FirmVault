@@ -20,10 +20,12 @@ date_of_incident: "2025-08-06"
 
 ## Adjusters
 - [[contacts/josh-white|Josh White]] (Progressive Insurance Company)
+- [[contacts/brittany-young|Brittany Young]]
 
 ## Insurance Claims
 - [[claims/bi-progressive-insurance-company|BI — Progressive Insurance Company]] — Claim #25-934695754 (no_demand)
 - [[claims/pip-unknown|PIP]] (no_demand)
+- [[claims/pip-national-general|PIP — National General]]
 
 <!-- roscoe-insurance-start -->
 ### Insurance Details (Roscoe)

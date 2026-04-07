@@ -22,6 +22,8 @@ date_of_incident: "2025-08-06"
 ## Insurance Claims
 - [[claims/bi-unknown|BI]] — Claim #25-934695754 (no_demand)
 - [[claims/pip-unknown|PIP]] (no_demand)
+- [[claims/bi-progressive-insurance-company|BI — Progressive Insurance Company]]
+- [[claims/pip-national-general|PIP — National General]]
 
 <!-- roscoe-insurance-start -->
 ### Insurance Details (Roscoe)

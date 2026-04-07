@@ -40,6 +40,7 @@ date_of_incident: "2024-02-15"
 ## Insurance Claims
 - [[claims/bi-crete-carrier-corporation-shaffer-trucking-hunt-transportation|BI — Crete Carrier Corporation (Shaffer Trucking & Hunt Transportation)]] — Claim #2024346878 (no_demand)
 - [[claims/pip-kentucky-farm-bureau|PIP — Kentucky Farm Bureau]] — Claim #4943385 (no_demand)
+- [[claims/bi-crete-carrier-corporation-shaffer-trucking-and-hunt-transportation|BI — Crete Carrier Corporation (Shaffer Trucking & Hunt Transportation)]]
 
 <!-- roscoe-insurance-start -->
 ### Insurance Details (Roscoe)

@@ -23,6 +23,7 @@ date_of_incident: "2025-07-30"
 
 ## Adjusters
 - [[contacts/kimberlyn-holden|Kimberlyn Holden]]
+- [[contacts/nicole-pfeiffer|Nicole Pfeiffer]]
 
 ## Insurance Claims
 - [[claims/bi-clearcover|BI — Clearcover]] — Claim #25ATKY446076413 (no_demand)

@@ -39,6 +39,8 @@ date_of_incident: "2023-07-30"
 ## Insurance Claims
 - [[claims/bi-state-farm-insurance-company|BI — State Farm Insurance Company]] — Claim #1754K417G (no_demand)
 - [[claims/under insured motorist-allstate-insurance|Under Insured Motorist — Allstate Insurance]] — Claim #723447272 (no_demand)
+- [[claims/uim-allstate-insurance|UIM — Allstate Insurance]]
+- [[claims/pip-allstate-insurance|PIP — Allstate Insurance]]
 
 <!-- roscoe-insurance-start -->
 ### Insurance Details (Roscoe)

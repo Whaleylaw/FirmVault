@@ -29,6 +29,7 @@ date_of_incident: "2023-01-19"
 - [[claims/bi-root-auto-insurance|BI — Root Auto Insurance]] — Claim #QMJF78KY (no_demand)
 - [[claims/pip-allstate-insurance|PIP — Allstate Insurance]] — Claim #700228547 (no_demand)
 - [[claims/um-unknown|UM]] — Claim #700228547 (demand_pending)
+- [[claims/um-allstate-insurance|UM — Allstate Insurance]]
 
 <!-- roscoe-insurance-start -->
 ### Insurance Details (Roscoe)

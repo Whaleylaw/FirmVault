@@ -18,10 +18,14 @@ date_of_incident: "2025-06-28"
 
 ## Adjusters
 - [[contacts/national-general|National General]]
+- [[contacts/everado-valle|Everado Valle]]
 
 ## Insurance Claims
 - [[claims/bi-unknown|BI]] — Claim #250525568 (no_demand)
 - [[claims/pip-unknown|PIP]] — Claim #17-87C986K (no_demand)
+- [[claims/bi-national-general|BI — National General]]
+- [[claims/bi-progressive-insurance-company|BI — Progressive Insurance Company]]
+- [[claims/pip-state-farm-insurance-company|PIP — State Farm Insurance Company]]
 
 <!-- roscoe-insurance-start -->
 ### Insurance Details (Roscoe)

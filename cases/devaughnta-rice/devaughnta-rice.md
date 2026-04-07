@@ -16,6 +16,8 @@ date_of_incident: "2026-02-08"
 
 ## Insurance Claims
 
+- [[claims/pip-nationwide-mutual-insurance-company|PIP — Nationwide Mutual Insurance Company]]
+
 <!-- roscoe-insurance-start -->
 ### Insurance Details (Roscoe)
 | Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |

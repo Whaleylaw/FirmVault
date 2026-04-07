@@ -21,6 +21,7 @@ date_of_incident: "2025-08-19"
 ## Adjusters
 - [[contacts/dominique-mccraney|Dominique McCraney]]
 - [[contacts/summer-garrett|Summer Garrett]]
+- [[contacts/michael-juarez|Michael Juarez]]
 
 ## Insurance Claims
 - [[claims/bi-ccmsi|BI — CCMSI]] — Claim #25F68M784958 (no_demand)

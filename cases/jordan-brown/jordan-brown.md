@@ -14,7 +14,15 @@ date_of_incident: "2025-08-19"
 
 ## Adjusters
 
+- [[contacts/walter-kenny|Walter Kenny]]
+- [[contacts/blake-pierce|Blake Pierce]]
+- [[contacts/anthony-white|Anthony White]]
+
 ## Insurance Claims
+
+- [[claims/bi-progressive-insurance-company|BI — Progressive Insurance Company]]
+- [[claims/pip-root-auto-insurance|PIP — Root Auto Insurance]]
+- [[claims/bi-safeco-insurance-company|BI — SafeCo Insurance Company]]
 
 <!-- roscoe-insurance-start -->
 ### Insurance Details (Roscoe)

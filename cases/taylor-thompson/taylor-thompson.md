@@ -18,11 +18,13 @@ date_of_incident: "2024-12-06"
 
 ## Adjusters
 - [[contacts/daniel-castillon|Daniel Castillon]] (USAA Insurance Company)
+- [[contacts/kristen-carlson|Kristen Carlson]]
 
 ## Insurance Claims
 - [[claims/bi-unknown|BI]] (no_demand)
 - [[claims/medpay - indiana pip-usaa-insurance-company|Medpay - Indiana PIP — USAA Insurance Company]] — Claim #038352935-800 (no_demand)
 - [[claims/uim-unknown|UIM]] (no_demand)
+- [[claims/bi-american-family-insurance|BI — American Family Insurance]]
 
 <!-- roscoe-insurance-start -->
 ### Insurance Details (Roscoe)

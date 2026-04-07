@@ -21,6 +21,7 @@ date_of_incident: "2025-09-03"
 ## Adjusters
 - [[contacts/cheryl-washington|Cheryl Washington]]
 - [[contacts/cierra-maniscalco|Cierra Maniscalco]] (Elco Insurance)
+- [[contacts/cherrel-washington|Cherrel Washington]]
 
 ## Insurance Claims
 - [[claims/bi-state-farm-insurance-company|BI — State Farm Insurance Company]] — Claim #1789V463J (no_demand)

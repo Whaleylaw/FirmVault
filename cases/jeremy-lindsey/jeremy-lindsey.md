@@ -19,11 +19,13 @@ date_of_incident: "2024-12-01"
 ## Adjusters
 - [[contacts/emily-pernice|Emily Pernice]]
 - [[contacts/jennifer-howard|Jennifer Howard]]
+- [[contacts/chandler-wolfe|Chandler Wolfe]]
 
 ## Insurance Claims
 - [[claims/bi-progressive-insurance-company|BI — Progressive Insurance Company]] — Claim #24-902741838 (no_demand)
 - [[claims/pip-auto-owners-insurance|PIP — Auto Owners Insurance]] — Claim #300-793616-2024 (no_demand)
 - [[claims/uim-unknown|UIM]] — Claim #300-793616-2024 (no_demand)
+- [[claims/uim-auto-owners-insurance|UIM — Auto Owners Insurance]]
 
 <!-- roscoe-insurance-start -->
 ### Insurance Details (Roscoe)

@@ -36,6 +36,7 @@ date_of_incident: "2022-12-05"
 - [[claims/pip-unknown|PIP]] — Claim #8065806 (no_demand)
 - [[claims/pip-unknown|PIP]] — Claim #1788V453C (no_demand)
 - [[claims/um-unknown|UM]] — Claim #IZX7996 (demand_pending)
+- [[claims/um-travelers-insurance|UM — Travelers Insurance]]
 
 <!-- roscoe-insurance-start -->
 ### Insurance Details (Roscoe)

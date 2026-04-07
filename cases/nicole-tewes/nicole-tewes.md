@@ -22,6 +22,7 @@ date_of_incident: "2025-07-05"
 ## Adjusters
 - [[contacts/leigh-king|Leigh King]]
 - [[contacts/nachand-downs|Nachand Downs]]
+- [[contacts/joshua-white|Joshua White]]
 
 ## Insurance Claims
 - [[claims/bi-progressive-insurance-company|BI — Progressive Insurance Company]] — Claim #25-407673172 (no_demand)

@@ -15,6 +15,7 @@ date_of_incident: "2026-01-23"
 
 ## Insurance Claims
 - [[claims/bi-state-farm-insurance-company|BI — State Farm Insurance Company]] — Claim #1795T529B (no_demand)
+- [[claims/pip-usaa-insurance-company|PIP — USAA Insurance Company]]
 
 <!-- roscoe-insurance-start -->
 ### Insurance Details (Roscoe)

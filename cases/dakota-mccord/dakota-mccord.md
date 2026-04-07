@@ -21,10 +21,13 @@ date_of_incident: "2025-10-12"
 
 ## Adjusters
 - [[contacts/robert-alexander|Robert Alexander]]
+- [[contacts/jeremy-mathis|Jeremy Mathis]]
 
 ## Insurance Claims
 - [[claims/bi-unknown|BI]] — Claim #25-423678921 (no_demand)
 - [[claims/pip-unknown|PIP]] (no_demand)
+- [[claims/bi-progressive-insurance-company|BI — Progressive Insurance Company]]
+- [[claims/pip-progressive-insurance-company|PIP — Progressive Insurance Company]]
 
 <!-- roscoe-insurance-start -->
 ### Insurance Details (Roscoe)

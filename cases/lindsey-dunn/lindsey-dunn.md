@@ -19,6 +19,7 @@ date_of_incident: "2025-09-24"
 
 ## Adjusters
 - [[contacts/valerie-marlatt|Valerie Marlatt]]
+- [[contacts/meela-dixon|Meela Dixon]]
 
 ## Defendants
 - [[contacts/lesley-standafer|Lesley Standafer]]
@@ -26,6 +27,8 @@ date_of_incident: "2025-09-24"
 ## Insurance Claims
 - [[claims/bi-unknown|BI]] — Claim #2TVV43KY (no_demand)
 - [[claims/pip-unknown|PIP]] — Claim #17-91D2-91D (no_demand)
+- [[claims/pip-state-farm-insurance-company|PIP — State Farm Insurance Company]]
+- [[claims/bi-root-auto-insurance|BI — Root Auto Insurance]]
 
 <!-- roscoe-insurance-start -->
 ### Insurance Details (Roscoe)

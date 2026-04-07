@@ -22,10 +22,13 @@ date_of_incident: "2026-02-06"
 
 ## Adjusters
 - [[contacts/paul-stice|Paul Stice]] (Erie Insurance Group)
+- [[contacts/rayshawnna-shelby|Rayshawnna Shelby]]
+- [[contacts/josh-hicks|Josh Hicks]]
 
 ## Insurance Claims
 - [[claims/bi-state-farm-insurance-company|BI — State Farm Insurance Company]] (no_demand)
 - [[claims/pip-erie-insurance-group|PIP — Erie Insurance Group]] — Claim #A00007442879 (no_demand)
+- [[claims/um-esurance-insurance-company|UM — Esurance Insurance Company]]
 
 <!-- roscoe-insurance-start -->
 ### Insurance Details (Roscoe)

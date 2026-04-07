@@ -35,6 +35,8 @@ date_of_incident: "2021-01-03"
 - [[claims/kentucky assigned claims-safeco-insurance-company-of-illinois|Kentucky Assigned Claims — Safeco Insurance Company of Illinois]] — Claim #LA000-044618000-03 (no_demand)
 - [[claims/medicaid health ins-aetna-life-insurance-company|Medicaid Health Ins — Aetna Life Insurance Company]] — Claim #Event Number: 75459116 (no_demand)
 - [[claims/private health ins-anthem-medicaid-health-plans-of-ky-inc|Private Health Ins — Anthem Medicaid Health Plans Of KY Inc.]] — Claim #File Number: 113138913 (no_demand)
+- [[claims/phi-anthem-medicaid-health-plans-of-ky-inc|PHI — Anthem Medicaid Health Plans Of KY Inc.]]
+- [[claims/kac-safeco-insurance-company-of-illinois|KAC — Safeco Insurance Company of Illinois]]
 
 <!-- roscoe-insurance-start -->
 ### Insurance Details (Roscoe)

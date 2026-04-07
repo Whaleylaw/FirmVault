@@ -18,9 +18,15 @@ date_of_incident: "2025-10-31"
 - [[contacts/starlite-chiropractic|Starlite Chiropractic]]
 - [[contacts/university-of-louisville-hospital|University of Louisville Hospital]]
 
+## Adjusters
+- [[contacts/libby-hopple|Libby Hopple]]
+- [[contacts/evelyn-rodriguez|Evelyn Rodriguez]]
+
 ## Insurance Claims
 - [[claims/bi-unknown|BI]] — Claim #1792K267F (no_demand)
 - [[claims/pip-unknown|PIP]] (no_demand)
+- [[claims/bi-state-farm-insurance-company|BI — State Farm Insurance Company]]
+- [[claims/pip-state-farm-insurance-company|PIP — State Farm Insurance Company]]
 
 <!-- roscoe-insurance-start -->
 ### Insurance Details (Roscoe)

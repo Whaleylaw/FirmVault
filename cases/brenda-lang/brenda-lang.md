@@ -39,6 +39,7 @@ date_of_incident: "2021-09-03"
 - [[claims/pip-state-farm-insurance-company|PIP — State Farm Insurance Company]] — Claim #1724J054B (no_demand)
 - [[claims/uim-unknown|UIM]] (no_demand)
 - [[claims/under insured motorist-state-farm-insurance-company|Under Insured Motorist — State Farm Insurance Company]] (no_demand)
+- [[claims/uim-state-farm-insurance-company|UIM — State Farm Insurance Company]]
 
 <!-- roscoe-insurance-start -->
 ### Insurance Details (Roscoe)

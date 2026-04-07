@@ -23,6 +23,7 @@ date_of_incident: "2025-12-24"
 ## Adjusters
 - [[contacts/gary-mccaslin|Gary McCaslin]] (Progressive Insurance Company)
 - [[contacts/state-farm-pip-team|State Farm PIP Team]] (State Farm Insurance Company)
+- [[contacts/lynette-panique|Lynette Panique]]
 
 ## Insurance Claims
 - [[claims/bi-progressive-insurance-company|BI — Progressive Insurance Company]] — Claim #25343855944 (no_demand)

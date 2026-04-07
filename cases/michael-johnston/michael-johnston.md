@@ -36,6 +36,8 @@ date_of_incident: "2023-05-03"
 ## Insurance Claims
 - [[claims/bi-ford-workers-compensation|BI — Ford Worker's Compensation]] — Claim #841603 (no_demand)
 - [[claims/pip-unicare-life-health-insurance-company|PIP — UniCare Life & Health Insurance Company]] — Claim #ST00539878 (no_demand)
+- [[claims/wc-ford-workers-compensation|WC — Ford Worker's Compensation]]
+- [[claims/short term disability-unicare-life-and-health-insurance-company|Short Term Disability — UniCare Life & Health Insurance Company]]
 
 <!-- roscoe-insurance-start -->
 ### Insurance Details (Roscoe)

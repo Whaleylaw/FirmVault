@@ -26,6 +26,7 @@ date_of_incident: "2024-10-24"
 - [[contacts/laura-zahringer|Laura Zahringer]]
 - [[contacts/lauren-smith|Lauren Smith]]
 - [[contacts/safeco-insurance-company|SafeCo Insurance Company]]
+- [[contacts/zach-dexter|Zach Dexter]]
 
 ## Insurance Claims
 - [[claims/bi-american-family-insurance|BI — American Family Insurance]] — Claim #1008251706 (no_demand)

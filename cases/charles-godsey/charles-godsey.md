@@ -21,10 +21,13 @@ date_of_incident: "2025-06-30"
 - [[contacts/amy-cox|Amy Cox]]
 - [[contacts/benjamine-groce|Benjamine Groce]]
 - [[contacts/casey-may|Casey May]]
+- [[contacts/joshua-white|Joshua White]]
 
 ## Insurance Claims
 - [[claims/bi-unknown|BI]] — Claim #1748L638H (demand_pending)
 - [[claims/pip-unknown|PIP]] — Claim #3002385272023 (no_demand)
+- [[claims/bi-progressive-insurance-company|BI — Progressive Insurance Company]]
+- [[claims/pip-kentucky-farm-bureau|PIP — Kentucky Farm Bureau]]
 
 <!-- roscoe-insurance-start -->
 ### Insurance Details (Roscoe)

@@ -22,6 +22,9 @@ date_of_incident: "2023-08-12"
 - [[contacts/risk-management-services-company|Risk Management Services Company]]
 - [[contacts/usaa-insurance-company|USAA Insurance Company]]
 
+## Adjusters
+- [[contacts/j-clarke-mcculloch|J. Clarke McCulloch]]
+
 ## Insurance Claims
 - [[claims/bi-risk-management-services-company|BI — Risk Management Services Company]] — Claim #305240079 (no_demand)
 - [[claims/pip-usaa-insurance-company|PIP — USAA Insurance Company]] — Claim #037621490-0800-000 (no_demand)

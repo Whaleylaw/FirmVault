@@ -37,6 +37,7 @@ date_of_incident: "2022-12-05"
 
 ## Insurance Claims
 - [[claims/bi-accident-fund-insurance-of-america|BI — Accident Fund Insurance Of America]] — Claim #AFC 230577703 (no_demand)
+- [[claims/wc-accident-fund-insurance-of-america|WC — Accident Fund Insurance Of America]]
 
 <!-- roscoe-insurance-start -->
 ### Insurance Details (Roscoe)

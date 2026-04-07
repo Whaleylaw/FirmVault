@@ -25,6 +25,7 @@ date_of_incident: "2025-12-23"
 ## Insurance Claims
 - [[claims/bi-progressive-insurance-company|BI — Progressive Insurance Company]] — Claim #25-583405268 (no_demand)
 - [[claims/pip-kentucky-farm-bureau|PIP — Kentucky Farm Bureau]] — Claim #8069631 (no_demand)
+- [[claims/uim-kentucky-farm-bureau|UIM — Kentucky Farm Bureau]]
 
 <!-- roscoe-insurance-start -->
 ### Insurance Details (Roscoe)

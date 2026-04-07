@@ -37,6 +37,8 @@ date_of_incident: "2021-06-10"
 
 ## Insurance Claims
 - [[claims/bi-amtrust-north-america|BI — AmTrust North America]] (no_demand)
+- [[claims/wc-amtrust-north-america|WC — AmTrust North America]]
+- [[claims/bi-old-republic-insurance-company|BI — Old Republic Insurance Company]]
 
 <!-- roscoe-insurance-start -->
 ### Insurance Details (Roscoe)

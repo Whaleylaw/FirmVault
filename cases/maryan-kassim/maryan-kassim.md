@@ -30,6 +30,7 @@ date_of_incident: "2024-08-06"
 ## Insurance Claims
 - [[claims/bi-progressive-insurance-company|BI — Progressive Insurance Company]] — Claim #24-711062492 (no_demand)
 - [[claims/pip-unknown|PIP]] — Claim #24-711062492 (no_demand)
+- [[claims/pip-progressive-insurance-company|PIP — Progressive Insurance Company]]
 
 <!-- roscoe-insurance-start -->
 ### Insurance Details (Roscoe)

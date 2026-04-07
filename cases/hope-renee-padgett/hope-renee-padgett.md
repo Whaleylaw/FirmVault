@@ -36,6 +36,8 @@ date_of_incident: "2023-01-16"
 - [[claims/bi-kentucky-farm-bureau|BI — Kentucky Farm Bureau]] — Claim #4791863 (settled)
 - [[claims/pip-unknown|PIP]] — Claim #23-4004861 (no_demand)
 - [[claims/uim-unknown|UIM]] — Claim #23-4004861 (demand_pending)
+- [[claims/uim-progressive-insurance-company|UIM — Progressive Insurance Company]]
+- [[claims/pip-progressive-insurance-company|PIP — Progressive Insurance Company]]
 
 <!-- roscoe-insurance-start -->
 ### Insurance Details (Roscoe)

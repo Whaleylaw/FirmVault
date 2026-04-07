@@ -31,6 +31,7 @@ date_of_incident: "2023-10-01"
 ## Insurance Claims
 - [[claims/bi-kentucky-farm-bureau|BI — Kentucky Farm Bureau]] — Claim #4908174 (no_demand)
 - [[claims/um-state-farm-insurance-company|UM — State Farm Insurance Company]] — Claim #1756Z294R (no_demand)
+- [[claims/pip-state-farm-insurance-company|PIP — State Farm Insurance Company]]
 
 <!-- roscoe-insurance-start -->
 ### Insurance Details (Roscoe)

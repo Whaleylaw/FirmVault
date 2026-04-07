@@ -28,6 +28,7 @@ date_of_incident: "2025-08-19"
 - [[claims/pip-unknown|PIP]] — Claim #60018233.0 (no_demand)
 - [[claims/pip-unknown|PIP]] — Claim #J6L8DKY (no_demand)
 - [[claims/pip-root-auto-insurance|PIP — Root Auto Insurance]] — Claim #TJ6L8DKY (no_demand)
+- [[claims/bi-safeco-insurance-company|BI — SafeCo Insurance Company]]
 
 <!-- roscoe-insurance-start -->
 ### Insurance Details (Roscoe)

@@ -36,6 +36,7 @@ date_of_incident: "2021-09-24"
 - [[claims/bi-grange-insurance|BI — Grange Insurance]] — Claim #ZPA003356461 (no_demand)
 - [[claims/pip-safeco-insurance-company|PIP — SafeCo Insurance Company]] — Claim #47060829 (no_demand)
 - [[claims/uim-unknown|UIM]] — Claim #47060829 (demand_pending)
+- [[claims/uim-safeco-insurance-company|UIM — SafeCo Insurance Company]]
 
 <!-- roscoe-insurance-start -->
 ### Insurance Details (Roscoe)

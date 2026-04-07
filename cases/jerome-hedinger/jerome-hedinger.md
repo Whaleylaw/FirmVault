@@ -15,6 +15,7 @@ date_of_incident: "2023-10-24"
 
 ## Insurance Claims
 - [[claims/bi-unknown|BI]] — Claim #17-N836-0G8 (demand_pending)
+- [[claims/bi-state-farm-fire-and-casualty-company|BI — State Farm Fire & Casualty Company]]
 
 <!-- roscoe-insurance-start -->
 ### Insurance Details (Roscoe)

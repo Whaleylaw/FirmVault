@@ -25,9 +25,17 @@ date_of_incident: "2025-09-03"
 - [[contacts/cory-d-stevenson-jr|Cory D. Stevenson Jr.]]
 - [[contacts/cynthia-mcdonald|Cynthia McDonald]]
 
+## Adjusters
+- [[contacts/cherrel-washington|Cherrel Washington]]
+- [[contacts/keshia-nieuenkirk|Keshia Nieuenkirk]]
+- [[contacts/andrea-spickler|Andrea Spickler]]
+
 ## Insurance Claims
 - [[claims/bi-unknown|BI]] — Claim #23016864 (no_demand)
 - [[claims/pip-unknown|PIP]] — Claim #23016864 (no_demand)
+- [[claims/bi-state-farm-insurance-company|BI — State Farm Insurance Company]]
+- [[claims/bi-elco-insurance|BI — Elco Insurance]]
+- [[claims/pip-elco-insurance|PIP — Elco Insurance]]
 
 <!-- roscoe-insurance-start -->
 ### Insurance Details (Roscoe)

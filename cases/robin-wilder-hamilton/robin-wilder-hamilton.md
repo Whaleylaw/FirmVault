@@ -25,6 +25,7 @@ date_of_incident: "2023-06-15"
 - [[contacts/donald-thomas|Donald Thomas]]
 - [[contacts/micheal-mcgee|Micheal Mcgee]]
 - [[contacts/sea-harbor-insurance|Sea Harbor Insurance]]
+- [[contacts/danielle-perry|Danielle Perry]]
 
 ## Insurance Claims
 - [[claims/bi-unknown|BI]] — Claim #SF-USTT-26089723 (no_demand)

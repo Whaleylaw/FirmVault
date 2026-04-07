@@ -49,6 +49,7 @@ date_of_incident: "2022-11-08"
 - [[contacts/usaa-insurance-company|USAA Insurance Company]]
 - [[contacts/wendy-gavinski|Wendy Gavinski]]
 - [[contacts/west-bend-mutual-insurance|West Bend Mutual Insurance]]
+- [[contacts/mark-tesoriero|Mark Tesoriero]]
 
 ## Insurance
 - [[contacts/american-transit-insurance|American Transit Insurance]]
@@ -67,6 +68,8 @@ date_of_incident: "2022-11-08"
 - [[claims/uim-unknown|UIM]] (no_demand)
 - [[claims/um-unknown|UM]] (no_demand)
 - [[claims/under insured motorist-farmers-insurance|Under Insured Motorist — Farmers Insurance]] (no_demand)
+- [[claims/um-farmers-insurance|UM — Farmers Insurance]]
+- [[claims/uim-farmers-insurance|UIM — Farmers Insurance]]
 
 <!-- roscoe-insurance-start -->
 ### Insurance Details (Roscoe)

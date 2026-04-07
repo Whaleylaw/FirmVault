@@ -13,9 +13,15 @@ date_of_incident: "2024-09-03"
 **Status:** file_setup | **Type:** auto_accident | **Jurisdiction:** KY
 **Case #:** 2024-09-03-MVA-001
 
+## Adjusters
+- [[contacts/mackenzie-betteridge|Mackenzie Betteridge]]
+- [[contacts/patrice-gaines|Patrice Gaines]]
+
 ## Insurance Claims
 - [[claims/bi-unknown|BI]] (no_demand)
 - [[claims/pip-unknown|PIP]] (no_demand)
+- [[claims/pip-allstate-insurance|PIP — Allstate Insurance]]
+- [[claims/bi-allstate-insurance|BI — Allstate Insurance]]
 
 <!-- roscoe-insurance-start -->
 ### Insurance Details (Roscoe)

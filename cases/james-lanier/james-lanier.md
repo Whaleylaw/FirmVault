@@ -19,9 +19,16 @@ date_of_incident: "2025-06-28"
 - [[contacts/orthocincy-nku|OrthoCincy -NKU]]
 - [[contacts/st-elizabeth-florence-hospital|St. Elizabeth Florence Hospital]]
 
+## Adjusters
+- [[contacts/everado-valle|Everado Valle]]
+- [[contacts/mckenna-marshall|McKenna Marshall]]
+
 ## Insurance Claims
 - [[claims/bi-unknown|BI]] (no_demand)
 - [[claims/pip-unknown|PIP]] (no_demand)
+- [[claims/bi-national-general|BI — National General]]
+- [[claims/bi-progressive-insurance-company|BI — Progressive Insurance Company]]
+- [[claims/pip-state-farm-insurance-company|PIP — State Farm Insurance Company]]
 
 <!-- roscoe-insurance-start -->
 ### Insurance Details (Roscoe)

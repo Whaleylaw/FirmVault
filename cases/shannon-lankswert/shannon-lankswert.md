@@ -27,6 +27,7 @@ date_of_incident: "2025-02-07"
 
 ## Insurance Claims
 - [[claims/bi-liberty-mutual-workers-compensation|BI — Liberty Mutual Workers' Compensation]] — Claim #WC80D-H07503 (no_demand)
+- [[claims/wc-liberty-mutual-workers-compensation|WC — Liberty Mutual Workers' Compensation]]
 
 <!-- roscoe-insurance-start -->
 ### Insurance Details (Roscoe)
