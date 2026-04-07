@@ -1,11 +1,6 @@
----
-name: expert-deposition
-description: >
-  Plan and conduct defense expert depositions (DME/IME, liability experts). Use
-  when defendants disclose expert witnesses to compile dossier, identify conflict
-  opportunities, establish rules for impeachment, and preserve testimony for trial.
-  Treats expert depositions as trial testimony with KRE 804 preservation.
----
+# Defense Expert Depositions (DME/IME, liability experts)
+
+Treats expert depositions as trial testimony — KRE 804 preservation, conflict creation, impeachment setup.
 
 # Expert Deposition Skill
 

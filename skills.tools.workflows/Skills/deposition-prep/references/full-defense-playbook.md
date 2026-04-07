@@ -1,11 +1,6 @@
----
-name: deposition-defense
-description: >
-  Defend client depositions through comprehensive preparation, objection monitoring,
-  and post-deposition analysis. Use when client's deposition is noticed to prepare
-  client, compile documents, identify privilege issues, track objections, and
-  analyze transcript. Covers all phases: pre-depo prep, day-of support, and post-depo.
----
+# Client Deposition Defense — Full Playbook
+
+Comprehensive prep + day-of + post-depo workflow. Sourced from the legacy deposition-defense-library skill.
 
 # Deposition Defense Skill
 

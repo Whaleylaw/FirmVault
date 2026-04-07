@@ -1,3 +1,9 @@
+# Provider & Hospital Liens
+
+Authoritative reference for hospital, provider, and letter-of-protection liens.
+
+## Classification
+
 # Provider Lien Reference
 
 ## Overview
@@ -125,4 +131,3 @@ Provider liens include hospital statutory liens and letters of protection (LOPs)
   "negotiation_range": "30-50%"
 }
 ```
-

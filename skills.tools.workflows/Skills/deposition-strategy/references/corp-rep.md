@@ -1,11 +1,6 @@
----
-name: corp-rep-deposition
-description: >
-  Plan and conduct corporate representative depositions under CR 30.02(6). Use when
-  deposing corporate defendants to bind them to facts, verify discovery compliance,
-  map document locations, or establish foundational rules. Covers notice drafting,
-  topic formulation with reasonable particularity, and handling know-nothing witnesses.
----
+# Corporate Representative Depositions (CR 30.02(6))
+
+Drafting topics, taking the deposition, handling know-nothing witnesses, binding the entity to facts.
 
 # Corporate Representative Deposition Skill
 
