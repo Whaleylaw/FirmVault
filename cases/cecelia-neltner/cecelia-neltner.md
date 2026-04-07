@@ -35,8 +35,8 @@ date_of_incident: "2023-04-01"
 ## Expenses
 | Creditor | Amount | Category |
 |----------|--------|----------|
-| Boone County Circuit Court | $319.83 | court_filing |
 | Kentuckiana Court Reporters | $51.50 | court_reporting |
+| Boone County Circuit Court | $319.83 | court_filing |
 
 ## Activity Log
 Recent: [[Activity Log/2025-07-31-correspondence|2025-07-31 — correspondence]]

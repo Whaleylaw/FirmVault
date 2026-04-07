@@ -47,11 +47,12 @@ date_of_incident: "2023-07-30"
 ## Expenses
 | Creditor | Amount | Category |
 |----------|--------|----------|
-| Caryn McCay | $5,000.00 | other |
-| ChartSwap | $30.00 | records |
-| Digital Owl | $495.00 | other |
-| EvenUP | $500.00 | expert |
 | Fayette County Circuit Court | $319.82 | court_filing |
+| Caryn McCay | $5,000.00 | other |
+| EvenUP | $500.00 | expert |
+| Digital Owl | $495.00 | other |
+| ChartSwap | $30.00 | records |
+| ChartSwap | $30.00 | records |
 
 ## Activity Log
 Recent: [[Activity Log/2026-02-26-correspondence|2026-02-26 — correspondence]]

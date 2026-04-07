@@ -43,15 +43,15 @@ date_of_incident: "2021-04-16"
 ## Expenses
 | Creditor | Amount | Category |
 |----------|--------|----------|
-| ChartSwap | $74.00 | records |
 | Jefferson County Circuit Court | $12.50 | court_filing |
+| Metro Investigations LLC | $53.00 | investigation |
 | Jefferson County Circuit Court | $31.46 | court_filing |
 | Jefferson County Circuit Court | $32.24 | court_filing |
+| Paul A. Klapheke, CCR, CLVS | $115.00 | other |
+| Louisville Metro Emergency Medical Service | $7.00 | other |
+| ChartSwap | $74.00 | records |
 | Jefferson County Circuit Court | $32.19 | court_filing |
 | Jefferson County Circuit Court | $155.18 | court_filing |
-| Louisville Metro Emergency Medical Service | $7.00 | other |
-| Metro Investigations LLC | $53.00 | investigation |
-| Paul A. Klapheke, CCR, CLVS | $115.00 | other |
 
 ## Activity Log
 Recent: [[Activity Log/2026-02-20-correspondence|2026-02-20 — correspondence]]

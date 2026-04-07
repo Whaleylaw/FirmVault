@@ -25,11 +25,12 @@ date_of_incident: "2020-12-07"
 | Creditor | Amount | Category |
 |----------|--------|----------|
 | Buechler-Haws Reporting | $85.00 | other |
-| Buechler-Haws Reporting | $82.50 | other |
-| Buechler-Haws Reporting | $265.00 | other |
 | CJV Reporting Company, Inc. | $49.77 | other |
 | Commonwealth IME | $350.00 | expert |
+| Buechler-Haws Reporting | $82.50 | other |
+| Commonwealth IME | $350.00 | expert |
 | Commonwealth IME | $1,050.00 | expert |
+| Buechler-Haws Reporting | $265.00 | other |
 
 ## Activity Log
 Recent: [[Activity Log/2025-11-19-correspondence|2025-11-19 — correspondence]]

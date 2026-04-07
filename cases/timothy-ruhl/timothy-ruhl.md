@@ -61,11 +61,12 @@ date_of_incident: "2023-09-14"
 | Creditor | Amount | Category |
 |----------|--------|----------|
 | ChartSwap | $10.00 | records |
-| Floyd County, Indiana Sheriff | $60.00 | other |
-| HealthMark Group | $30.00 | other |
-| Jefferson County Circuit Court | $348.35 | court_filing |
 | Sharecare Health Data Services LLC | $12.49 | records |
+| Floyd County, Indiana Sheriff | $60.00 | other |
 | Stierle & Rettig PLLC | $133.18 | other |
+| ChartSwap | $10.00 | records |
+| Jefferson County Circuit Court | $348.35 | court_filing |
+| HealthMark Group | $30.00 | other |
 | USPS | $12.26 | postage |
 
 ## Activity Log

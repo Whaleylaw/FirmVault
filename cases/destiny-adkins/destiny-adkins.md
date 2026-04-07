@@ -34,12 +34,12 @@ date_of_incident: "2021-04-16"
 | Creditor | Amount | Category |
 |----------|--------|----------|
 | Jefferson County Circuit Court | $12.50 | court_filing |
+| Metro Investigations LLC | $53.00 | investigation |
 | Jefferson County Circuit Court | $31.47 | court_filing |
 | Jefferson County Circuit Court | $32.24 | court_filing |
+| Paul A. Klapheke, CCR, CLVS | $182.50 | other |
 | Jefferson County Circuit Court | $32.19 | court_filing |
 | Jefferson County Circuit Court | $155.18 | court_filing |
-| Metro Investigations LLC | $53.00 | investigation |
-| Paul A. Klapheke, CCR, CLVS | $182.50 | other |
 
 ## Activity Log
 Recent: [[Activity Log/2025-07-31-correspondence|2025-07-31 — correspondence]]

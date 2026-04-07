@@ -36,8 +36,8 @@ date_of_incident: "2023-10-01"
 ## Expenses
 | Creditor | Amount | Category |
 |----------|--------|----------|
-| Hardin County Circuit Court | $157.18 | court_filing |
 | Sharecare Health Data Services LLC | $119.00 | records |
+| Hardin County Circuit Court | $157.18 | court_filing |
 
 ## Activity Log
 Recent: [[Activity Log/2025-03-18-legal|2025-03-18 — legal]]

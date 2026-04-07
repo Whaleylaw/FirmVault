@@ -34,9 +34,9 @@ date_of_incident: "2023-08-12"
 | Creditor | Amount | Category |
 |----------|--------|----------|
 | Belanger & Associates | $110.00 | other |
+| Zipliens | $59.00 | other |
 | Jefferson County Circuit Court | $319.54 | court_filing |
 | Jefferson County District Court | $232.27 | other |
-| Zipliens | $59.00 | other |
 
 ## Activity Log
 Recent: [[Activity Log/2026-02-19-legal|2026-02-19 — legal]]

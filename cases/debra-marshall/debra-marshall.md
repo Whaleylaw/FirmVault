@@ -44,11 +44,11 @@ date_of_incident: "2022-12-03"
 ## Expenses
 | Creditor | Amount | Category |
 |----------|--------|----------|
-| Barren County Circuit Court | $310.27 | court_filing |
 | ChartSwap | $30.00 | records |
 | ChartSwap | $40.00 | records |
 | ChartSwap | $10.00 | records |
 | DataVant | $192.50 | other |
+| Barren County Circuit Court | $310.27 | court_filing |
 
 ## Activity Log
 Recent: [[Activity Log/2026-01-23-legal|2026-01-23 — legal]]

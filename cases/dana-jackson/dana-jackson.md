@@ -38,9 +38,10 @@ date_of_incident: "2024-01-24"
 ## Expenses
 | Creditor | Amount | Category |
 |----------|--------|----------|
-| ChartSwap | $10.00 | records |
+| Jefferson County Circuit Court | $32.09 | court_filing |
 | Jefferson County Circuit Court | $32.09 | court_filing |
 | Jefferson County Circuit Court | $149.02 | court_filing |
+| ChartSwap | $10.00 | records |
 
 ## Activity Log
 Recent: [[Activity Log/2025-10-22-legal|2025-10-22 — legal]]

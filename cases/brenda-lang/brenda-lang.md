@@ -49,12 +49,13 @@ date_of_incident: "2021-09-03"
 ## Expenses
 | Creditor | Amount | Category |
 |----------|--------|----------|
+| Kentuckiana Court Reporters | $423.95 | court_reporting |
+| Kentuckiana Court Reporters | $423.95 | court_reporting |
 | ChartSwap | $20.00 | records |
 | Jefferson County Circuit Court | $62.42 | court_filing |
 | Jefferson County Circuit Court | $62.32 | court_filing |
-| Jefferson County Circuit Court | $309.27 | court_filing |
-| Kentuckiana Court Reporters | $423.95 | court_reporting |
 | X-ray Associates of Louisville | $4.00 | other |
+| Jefferson County Circuit Court | $309.27 | court_filing |
 
 ## Activity Log
 Recent: [[Activity Log/2026-03-02-correspondence|2026-03-02 — correspondence]]

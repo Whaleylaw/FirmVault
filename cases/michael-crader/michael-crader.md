@@ -40,6 +40,8 @@ date_of_incident: "2023-05-19"
 | Creditor | Amount | Category |
 |----------|--------|----------|
 | Morgan County Circuit Court | $64.07 | court_filing |
+| VRC Companies dba Vital Chart | $0.00 |  |
+| Morgan County Circuit Court | $64.07 | court_filing |
 | Morgan County Circuit Court | $294.08 | court_filing |
 
 ## Activity Log

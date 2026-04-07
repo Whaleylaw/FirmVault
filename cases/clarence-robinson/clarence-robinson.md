@@ -45,10 +45,11 @@ date_of_incident: "2021-06-10"
 ## Expenses
 | Creditor | Amount | Category |
 |----------|--------|----------|
-| ChartSwap | $20.00 | records |
+| Unknown | $500.00 |  |
 | Commonwealth IME | $1,850.00 | expert |
-| Henry County Circuit Court | $389.42 | court_filing |
+| ChartSwap | $20.00 | records |
 | Medicopy | $91.00 | other |
+| Henry County Circuit Court | $389.42 | court_filing |
 
 ## Activity Log
 Recent: [[Activity Log/2026-02-03-correspondence|2026-02-03 — correspondence]]

@@ -39,8 +39,8 @@ date_of_incident: "2023-10-01"
 ## Expenses
 | Creditor | Amount | Category |
 |----------|--------|----------|
-| ChartSwap | $76.35 | records |
 | Hardin County Circuit Court | $157.18 | court_filing |
+| ChartSwap | $76.35 | records |
 | Sharecare | $2.99 | records |
 
 ## Activity Log

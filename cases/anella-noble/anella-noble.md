@@ -40,12 +40,13 @@ date_of_incident: "2021-01-03"
 | Creditor | Amount | Category |
 |----------|--------|----------|
 | ChartSwap | $20.00 | records |
-| Jefferson County Circuit Court | $62.52 | court_filing |
 | Kentuckiana Court Reporters | $192.75 | court_reporting |
 | Kentuckiana Court Reporters | $236.49 | court_reporting |
-| Migliore & Associates | $117.92 | other |
+| Jefferson County Circuit Court | $62.52 | court_filing |
 | Scott Barton | $1,500.00 | other |
+| Unknown | $232.27 |  |
 | Shelby County Sheriff Office | $72.82 | other |
+| Migliore & Associates | $117.92 | other |
 
 ## Activity Log
 Recent: [[Activity Log/2025-09-29-correspondence|2025-09-29 — correspondence]]

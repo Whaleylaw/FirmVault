@@ -50,6 +50,7 @@ date_of_incident: "2022-08-19"
 ## Expenses
 | Creditor | Amount | Category |
 |----------|--------|----------|
+| Curt Sitlinger | $250.00 |  |
 | Jefferson County Circuit Court | $135.34 | court_filing |
 | Jefferson County Circuit Court | $400.67 | court_filing |
 

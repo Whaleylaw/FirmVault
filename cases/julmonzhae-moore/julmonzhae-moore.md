@@ -38,10 +38,10 @@ date_of_incident: "2023-08-29"
 ## Expenses
 | Creditor | Amount | Category |
 |----------|--------|----------|
-| ChartSwap | $23.00 | records |
-| EvenUP | $400.00 | expert |
 | Floyd County Circuit Court | $79.85 | court_filing |
+| ChartSwap | $23.00 | records |
 | ULP Radiological Associates | $35.00 | other |
+| EvenUP | $400.00 | expert |
 
 ## Activity Log
 Recent: [[Activity Log/2026-02-27-correspondence|2026-02-27 — correspondence]]

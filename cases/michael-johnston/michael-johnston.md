@@ -40,11 +40,11 @@ date_of_incident: "2023-05-03"
 ## Expenses
 | Creditor | Amount | Category |
 |----------|--------|----------|
-| ChartSwap | $95.00 | records |
 | Commonwealth IME | $400.00 | expert |
 | Commonwealth IME | $350.00 | expert |
 | Commonwealth IME | $100.00 | expert |
 | Commonwealth IME | $1,200.00 | expert |
+| ChartSwap | $95.00 | records |
 
 ## Activity Log
 Recent: [[Activity Log/2025-12-08-medical|2025-12-08 — medical]]

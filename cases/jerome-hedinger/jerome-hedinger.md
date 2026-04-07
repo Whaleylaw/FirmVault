@@ -18,3 +18,14 @@ date_of_incident: "2023-10-24"
 
 ## Liens
 - [[liens/unknown|Unknown]] — health_insurance (identified)
+
+## Expenses
+| Creditor | Amount | Category |
+|----------|--------|----------|
+| Jefferson County Circuit Court | $73.34 |  |
+| Jefferson County Circuit Court | $63.04 |  |
+| Jefferson County Circuit Court | $19.92 |  |
+| Jefferson County Circuit Court | $62.52 |  |
+| Jefferson County Circuit Court | $313.41 |  |
+| USPS | $11.01 |  |
+| USPS | $11.01 |  |

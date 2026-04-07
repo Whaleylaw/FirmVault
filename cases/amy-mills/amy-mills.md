@@ -52,14 +52,16 @@ date_of_incident: "2019-04-26"
 ## Expenses
 | Creditor | Amount | Category |
 |----------|--------|----------|
-| BioKinetics | $550.00 | expert |
-| Commonwealth IME | $300.00 | expert |
-| Commonwealth IME | $1,300.00 | expert |
-| EvenUP | $1,400.00 | expert |
-| Linda Jones | $3,200.00 | other |
-| National Academy of Distinguished Neutrals | $375.00 | mediation |
 | Theresa A. Saylor | $453.00 | other |
 | Thomas J. Knopf Mediation Services | $600.00 | mediation |
+| Linda Jones | $3,200.00 | other |
+| EvenUP | $1,400.00 | expert |
+| BioKinetics | $550.00 | expert |
+| Commonwealth IME | $300.00 | expert |
+| National Academy of Distinguished Neutrals | $375.00 | mediation |
+| Commonwealth IME | $300.00 | expert |
+| Commonwealth IME | $300.00 | expert |
+| Commonwealth IME | $1,300.00 | expert |
 
 ## Activity Log
 Recent: [[Activity Log/2025-09-05-correspondence|2025-09-05 — correspondence]]

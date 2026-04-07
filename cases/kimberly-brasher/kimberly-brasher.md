@@ -49,15 +49,15 @@ date_of_incident: "2023-02-25"
 ## Expenses
 | Creditor | Amount | Category |
 |----------|--------|----------|
+| Thomas J. Knopf Mediation Services | $400.00 | mediation |
+| Kentuckiana Court Reporters | $307.90 | court_reporting |
 | ChartSwap | $2.07 | records |
-| ChartSwap | $30.00 | records |
+| Orthopaedic Associates - East Newburgh | $42.00 | other |
 | Deaconess Henderson Hospital | $10.00 | other |
 | Deaconess Hospital ROI | $20.00 | other |
-| Kentuckiana Court Reporters | $307.90 | court_reporting |
 | McLean County Circuit Court | $357.14 | court_filing |
-| Orthopaedic Associates - East Newburgh | $42.00 | other |
+| ChartSwap | $30.00 | records |
 | Orthopaedic Associates - East Newburgh | $22.00 | other |
-| Thomas J. Knopf Mediation Services | $400.00 | mediation |
 
 ## Activity Log
 Recent: [[Activity Log/2025-07-31-correspondence|2025-07-31 — correspondence]]

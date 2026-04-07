@@ -84,14 +84,14 @@ date_of_incident: "2022-11-08"
 | Creditor | Amount | Category |
 |----------|--------|----------|
 | ChartSwap | $40.00 | records |
-| ChartSwap | $3.75 | records |
-| ChartSwap | $16.00 | records |
+| ScanStat Technologies | $86.45 | other |
 | DataVant | $38.00 | other |
-| Jefferson County Circuit Court | $401.70 | court_filing |
+| ChartSwap | $3.75 | records |
 | Kentucky Court Reporters | $593.80 | court_reporting |
 | Kentucky Court Reporters | $373.10 | court_reporting |
+| Jefferson County Circuit Court | $401.70 | court_filing |
+| ChartSwap | $16.00 | records |
 | New York Department of Motor Vehicles | $25.00 | other |
-| ScanStat Technologies | $86.45 | other |
 
 ## Activity Log
 Recent: [[Activity Log/2026-02-05-correspondence|2026-02-05 — correspondence]]

@@ -35,6 +35,7 @@ date_of_incident: "2024-07-13"
 ## Expenses
 | Creditor | Amount | Category |
 |----------|--------|----------|
+| Cardone Record Service | None |  |
 | Jefferson County Circuit Court | $31.10 | court_filing |
 | Jefferson County Circuit Court | $156.86 | court_filing |
 
