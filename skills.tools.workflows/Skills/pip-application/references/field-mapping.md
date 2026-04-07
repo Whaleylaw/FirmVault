@@ -1,37 +1,35 @@
 # KACP Application Field Mapping
 
-> **⚠️ Stale references below.** This file may contain references to FalkorDB, `${ROSCOE_ROOT}`, or per-case JSON files (`overview.json`, `contacts.json`, etc.). The Obsidian vault is now the only source of truth — see `../../../DATA_CONTRACT.md`. Stale references are being rewritten incrementally.
-
 ## Form Field to Data Source Mapping
 
 ### Section 1: Personal Information
 
 | Form Field | Data Source | JSON Path | Notes |
 |------------|-------------|-----------|-------|
-| Your Name | overview.json | `client_name` | Full legal name |
-| Home Phone | overview.json | `client_phone` | Primary contact |
-| Work Phone | contacts.json | `[type=employer].phone` | If employed |
-| Your Address | overview.json | `client_address` | Street address |
-| City, State, Zip | overview.json | Parsed from `client_address` | |
-| Date of Birth | contacts.json | `[type=client].dob` | MM/DD/YYYY format |
-| Social Security No. | contacts.json | `[type=client].ssn` | XXX-XX-XXXX |
+| Your Name | `cases/<slug>/<slug>.md` (frontmatter) | `client_name` | Full legal name |
+| Home Phone | `cases/<slug>/<slug>.md` (frontmatter) | `client_phone` | Primary contact |
+| Work Phone | `cases/<slug>/contacts/` | `[type=employer].phone` | If employed |
+| Your Address | `cases/<slug>/<slug>.md` (frontmatter) | `client_address` | Street address |
+| City, State, Zip | `cases/<slug>/<slug>.md` (frontmatter) | Parsed from `client_address` | |
+| Date of Birth | `cases/<slug>/contacts/` | `[type=client].dob` | MM/DD/YYYY format |
+| Social Security No. | `cases/<slug>/contacts/` | `[type=client].ssn` | XXX-XX-XXXX |
 
 ### Section 2: Accident Information
 
 | Form Field | Data Source | JSON Path | Notes |
 |------------|-------------|-----------|-------|
-| Date of Accident | overview.json | `accident_date` | From case setup |
+| Date of Accident | `cases/<slug>/<slug>.md` (frontmatter) | `accident_date` | From case setup |
 | Time of Accident | intake | Captured during intake | Optional |
 | Place of Accident | intake/police report | Location description | |
-| Brief Description | overview.json | `case_summary` | Short narrative |
+| Brief Description | `cases/<slug>/<slug>.md` (frontmatter) | `case_summary` | Short narrative |
 
 ### Section 3: Vehicle/Insurance Information
 
 | Form Field | Data Source | JSON Path | Notes |
 |------------|-------------|-----------|-------|
 | Own Motor Vehicle? | waterfall answers | From waterfall Q1 | Yes/No |
-| Insurance Company | insurance.json | `pip.pip_insurer` | From waterfall |
-| Policy Number | insurance.json | `pip.policy_number` | If known |
+| Insurance Company | `cases/<slug>/claims/` and `## Insurance Claims` section | `pip.pip_insurer` | From waterfall |
+| Policy Number | `cases/<slug>/claims/` and `## Insurance Claims` section | `pip.policy_number` | If known |
 
 ### Section 4: Injury Information
 
@@ -43,18 +41,18 @@
 
 | Form Field | Data Source | JSON Path | Notes |
 |------------|-------------|-----------|-------|
-| Doctor's Name | medical_providers.json | `[0].provider_name` | Primary treating |
-| Doctor's Address | medical_providers.json | `[0].address` | |
-| Hospital Name | medical_providers.json | `[type=hospital].provider_name` | If applicable |
-| Hospital Address | medical_providers.json | `[type=hospital].address` | |
+| Doctor's Name | `cases/<slug>/contacts/` (provider stubs) and `## Medical Providers` section | `[0].provider_name` | Primary treating |
+| Doctor's Address | `cases/<slug>/contacts/` (provider stubs) and `## Medical Providers` section | `[0].address` | |
+| Hospital Name | `cases/<slug>/contacts/` (provider stubs) and `## Medical Providers` section | `[type=hospital].provider_name` | If applicable |
+| Hospital Address | `cases/<slug>/contacts/` (provider stubs) and `## Medical Providers` section | `[type=hospital].address` | |
 
 ### Section 6: Employment Information
 
 | Form Field | Data Source | JSON Path | Notes |
 |------------|-------------|-----------|-------|
-| Employer Name | contacts.json | `[type=employer].name` | If employed |
-| Employer Address | contacts.json | `[type=employer].address` | |
-| Occupation | contacts.json | `[type=employer].occupation` | |
+| Employer Name | `cases/<slug>/contacts/` | `[type=employer].name` | If employed |
+| Employer Address | `cases/<slug>/contacts/` | `[type=employer].address` | |
+| Occupation | `cases/<slug>/contacts/` | `[type=employer].occupation` | |
 
 ## Python Dictionary Structure
 

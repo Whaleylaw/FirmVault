@@ -1,7 +1,5 @@
 # PIP Waterfall Tool Usage
 
-> **⚠️ Stale references below.** This file may contain references to FalkorDB, `${ROSCOE_ROOT}`, or per-case JSON files (`overview.json`, `contacts.json`, etc.). The Obsidian vault is now the only source of truth — see `../../../DATA_CONTRACT.md`. Stale references are being rewritten incrementally.
-
 ## pip_waterfall.py
 
 **Location**: `tools/pip_waterfall.py`
@@ -128,9 +126,9 @@ def determine_pip_carrier(case_folder: str, answers: dict) -> dict:
     """
     result = run_waterfall(**answers)
     
-    # Update insurance.json
+    # Update `cases/<slug>/claims/` and `## Insurance Claims` section
     case_path = Path(case_folder)
-    insurance_path = case_path / "Case Information/insurance.json"
+    insurance_path = case_path / "Case Information/`cases/<slug>/claims/` and `## Insurance Claims` section"
     
     with open(insurance_path) as f:
         insurance = json.load(f)

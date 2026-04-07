@@ -38,7 +38,7 @@ Please provide fax number or select alternative: _______
 ```
 ⚠️ Template not found
 
-Expected: templates/2022 Whaley Medical Record Request (URR).docx
+Expected: `Templates/medical-record-request-urr.docx`
 
 Options:
 A) Check alternative template location

@@ -1,20 +1,18 @@
 # Medical Records Request Template Placeholders
 
-> **⚠️ Stale references below.** This file may contain references to FalkorDB, `${ROSCOE_ROOT}`, or per-case JSON files (`overview.json`, `contacts.json`, etc.). The Obsidian vault is now the only source of truth — see `../../../DATA_CONTRACT.md`. Stale references are being rewritten incrementally.
-
 ## Word Template (URR) Placeholders
 
 | Placeholder | Description | Data Source |
 |-------------|-------------|-------------|
 | `{{TODAY_LONG}}` | Current date | Generated (e.g., "December 6, 2024") |
-| `{{provider.name}}` | Provider name | medical_providers.json |
-| `{{provider.addressBlock}}` | Full provider address | medical_providers.json |
-| `{{provider.fax}}` | Fax number | medical_providers.json |
-| `{{client.name}}` | Client full name | overview.json |
-| `{{client.dob}}` | Client date of birth | contacts.json |
-| `{{client.ssn}}` | Client SSN (optional) | contacts.json |
-| `{{accident_date}}` | Date of accident | overview.json |
-| `{{treatment_dates}}` | Date range of treatment | medical_providers.json |
+| `{{provider.name}}` | Provider name | `cases/<slug>/contacts/` (provider stubs) and `## Medical Providers` section |
+| `{{provider.addressBlock}}` | Full provider address | `cases/<slug>/contacts/` (provider stubs) and `## Medical Providers` section |
+| `{{provider.fax}}` | Fax number | `cases/<slug>/contacts/` (provider stubs) and `## Medical Providers` section |
+| `{{client.name}}` | Client full name | `cases/<slug>/<slug>.md` (frontmatter) |
+| `{{client.dob}}` | Client date of birth | `cases/<slug>/contacts/` |
+| `{{client.ssn}}` | Client SSN (optional) | `cases/<slug>/contacts/` |
+| `{{accident_date}}` | Date of accident | `cases/<slug>/<slug>.md` (frontmatter) |
+| `{{treatment_dates}}` | Date range of treatment | `cases/<slug>/contacts/` (provider stubs) and `## Medical Providers` section |
 | `{{primary}}` | Attorney name | Firm settings |
 
 ## Context Dictionary Structure
@@ -42,14 +40,14 @@ context = {
 
 | Data | File | JSON Path |
 |------|------|-----------|
-| Client name | overview.json | `client_name` |
-| Client DOB | contacts.json | `[type=client].dob` |
-| Client SSN | contacts.json | `[type=client].ssn` |
-| Accident date | overview.json | `accident_date` |
-| Provider name | medical_providers.json | `[provider_id].name` |
-| Provider address | medical_providers.json | `[provider_id].address` |
-| Provider fax | medical_providers.json | `[provider_id].fax` |
-| Treatment dates | medical_providers.json | `[provider_id].treatment.first_visit` / `last_visit` |
+| Client name | `cases/<slug>/<slug>.md` (frontmatter) | `client_name` |
+| Client DOB | `cases/<slug>/contacts/` | `[type=client].dob` |
+| Client SSN | `cases/<slug>/contacts/` | `[type=client].ssn` |
+| Accident date | `cases/<slug>/<slug>.md` (frontmatter) | `accident_date` |
+| Provider name | `cases/<slug>/contacts/` (provider stubs) and `## Medical Providers` section | `[provider_id].name` |
+| Provider address | `cases/<slug>/contacts/` (provider stubs) and `## Medical Providers` section | `[provider_id].address` |
+| Provider fax | `cases/<slug>/contacts/` (provider stubs) and `## Medical Providers` section | `[provider_id].fax` |
+| Treatment dates | `cases/<slug>/contacts/` (provider stubs) and `## Medical Providers` section | `[provider_id].treatment.first_visit` / `last_visit` |
 
 ## PDF Template Fields
 

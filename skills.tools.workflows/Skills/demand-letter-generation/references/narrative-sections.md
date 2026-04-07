@@ -1,7 +1,5 @@
 # Demand Letter Narrative Sections
 
-> **⚠️ Stale references below.** This file may contain references to FalkorDB, `${ROSCOE_ROOT}`, or per-case JSON files (`overview.json`, `contacts.json`, etc.). The Obsidian vault is now the only source of truth — see `../../../DATA_CONTRACT.md`. Stale references are being rewritten incrementally.
-
 ## Section 1: Introduction
 
 **Purpose**: Establish representation and claim
@@ -18,9 +16,9 @@ that [description of collision]. Claim Number: [Claim Number].
 ```
 
 **Data Sources**:
-- `overview.json`: client name, accident date, location
-- `contacts.json`: at-fault party info
-- `insurance.json`: claim number, adjuster name
+- ``cases/<slug>/<slug>.md` (frontmatter)`: client name, accident date, location
+- ``cases/<slug>/contacts/``: at-fault party info
+- ``cases/<slug>/claims/` and `## Insurance Claims` section`: claim number, adjuster name
 
 ---
 

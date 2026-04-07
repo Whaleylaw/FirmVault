@@ -1,7 +1,5 @@
 # Case File Analysis & Mapping Sub-Skill
 
-> **⚠️ Stale references below.** This file may contain references to FalkorDB, `${ROSCOE_ROOT}`, or per-case JSON files (`overview.json`, `contacts.json`, etc.). The Obsidian vault is now the only source of truth — see `../../../DATA_CONTRACT.md`. Stale references are being rewritten incrementally.
-
 **Purpose:** Analyze all files in a case folder and create a comprehensive reorganization map with proper categorization, naming, and duplicate detection.
 
 **This is Phase 2 of the Case File Organization workflow.**
@@ -206,7 +204,7 @@ Medical Records/
 
 **Provider Name Rules:**
 - Use the facility/practice name, NOT individual doctor names
-- Match the provider name from `medical_providers.json` if available
+- Match the provider name from ``cases/<slug>/contacts/` (provider stubs) and `## Medical Providers` section` if available
 - Common providers: "Jewish Hospital", "UofL Physicians", "Norton Healthcare"
 
 ### 5. Insurance
@@ -268,7 +266,7 @@ Lien/
 
 **Subfolder Assignment:**
 - All documents related to a specific lien holder go in that holder's folder
-- Match the lien holder name from `liens.json` if available
+- Match the lien holder name from ``cases/<slug>/liens/` and `## Liens` section` if available
 
 **What belongs:**
 - Lien Notices from providers

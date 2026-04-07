@@ -1,7 +1,5 @@
 # Medical Records Request Sending Methods
 
-> **⚠️ Stale references below.** This file may contain references to FalkorDB, `${ROSCOE_ROOT}`, or per-case JSON files (`overview.json`, `contacts.json`, etc.). The Obsidian vault is now the only source of truth — see `../../../DATA_CONTRACT.md`. Stale references are being rewritten incrementally.
-
 ## Method Priority
 
 1. **Fax** (Preferred) - Most reliable for medical providers
@@ -101,7 +99,7 @@ merged_output = merge_pdfs(
 
 ## Tracking After Send
 
-Update medical_providers.json:
+Update `cases/<slug>/contacts/` (provider stubs) and `## Medical Providers` section:
 
 ```json
 {

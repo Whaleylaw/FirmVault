@@ -1,7 +1,5 @@
 # Net to Client Calculation Details
 
-> **⚠️ Stale references below.** This file may contain references to FalkorDB, `${ROSCOE_ROOT}`, or per-case JSON files (`overview.json`, `contacts.json`, etc.). The Obsidian vault is now the only source of truth — see `../../../DATA_CONTRACT.md`. Stale references are being rewritten incrementally.
-
 ## Overview
 
 This reference provides detailed formulas and considerations for calculating the net amount a client would receive from a settlement offer.

@@ -1,7 +1,5 @@
 # Liable Party Identification
 
-> **⚠️ Stale references below.** This file may contain references to FalkorDB, `${ROSCOE_ROOT}`, or per-case JSON files (`overview.json`, `contacts.json`, etc.). The Obsidian vault is now the only source of truth — see `../../../DATA_CONTRACT.md`. Stale references are being rewritten incrementally.
-
 ## Skill Metadata
 
 - **ID**: liable-party-identification
@@ -90,6 +88,6 @@ Create liability analysis documenting:
 ## Output
 
 - Liability analysis document
-- Updated `insurance.json` with all parties
+- Updated ``cases/<slug>/claims/` and `## Insurance Claims` section` with all parties
 - Statute of limitations tracker
 

@@ -1,7 +1,5 @@
 # LOR Generator Tool Usage
 
-> **⚠️ Stale references below.** This file may contain references to FalkorDB, `${ROSCOE_ROOT}`, or per-case JSON files (`overview.json`, `contacts.json`, etc.). The Obsidian vault is now the only source of truth — see `../../../DATA_CONTRACT.md`. Stale references are being rewritten incrementally.
-
 ## generate_document.py (Unified Document Generator)
 
 **Location**: `/Tools/document_generation/generate_document.py`
@@ -23,7 +21,7 @@ pip_template = templates_dir / "2022 Whaley LOR to PIP Adjuster(1)(1) (1).docx"
 
 # Destination (creates context for auto-fill)
 project = "John-Doe-MVA-01-01-2025"
-insurance_company = "State Farm"  # From insurance.json
+insurance_company = "State Farm"  # From `cases/<slug>/claims/` and `## Insurance Claims` section
 
 dest_folder = Path(f"{project}/Insurance/{insurance_company}")
 dest_folder.mkdir(parents=True, exist_ok=True)
@@ -71,12 +69,12 @@ The path `/{project}/Insurance/{company}/LOR.docx` tells the tool:
 
 1. **Project**: `John-Doe-MVA-01-01-2025` → Load case JSONs from Case Information/
 2. **Context Type**: `Insurance` → This is an insurance-related document
-3. **Context Name**: `State Farm` → Find State Farm in insurance.json
+3. **Context Name**: `State Farm` → Find State Farm in `cases/<slug>/claims/` and `## Insurance Claims` section
 4. **Template**: `LOR to BI Adjuster.docx` → Identified as BI LOR template
 
 The tool then:
-- Loads `overview.json` for client info
-- Finds "State Farm" in `insurance.json` for adjuster, claim number
+- Loads ``cases/<slug>/<slug>.md` (frontmatter)` for client info
+- Finds "State Farm" in ``cases/<slug>/claims/` and `## Insurance Claims` section` for adjuster, claim number
 - Fills all `{{placeholder}}` fields automatically
 
 ## Return Value
@@ -114,7 +112,7 @@ def generate_bi_lor(case_folder: str, insurance_company: str) -> dict:
     dest_folder.mkdir(parents=True, exist_ok=True)
     
     # Step 2: Copy template to destination
-    template_src = Path("templates/2022 Whaley LOR to BI Adjuster(1)(1)(1) (1).docx")
+    template_src = Path("`Templates/lor-to-bi-adjuster.docx`")
     output_path = dest_folder / "LOR to BI Adjuster.docx"
     shutil.copy(template_src, output_path)
     
@@ -123,7 +121,7 @@ def generate_bi_lor(case_folder: str, insurance_company: str) -> dict:
     
     # Step 4: Update tracking
     if result["status"] == "success":
-        with open(case_path / "Case Information/insurance.json") as f:
+        with open(case_path / "Case Information/`cases/<slug>/claims/` and `## Insurance Claims` section") as f:
             insurance = json.load(f)
         
         # Find the right insurance entry and update
@@ -132,7 +130,7 @@ def generate_bi_lor(case_folder: str, insurance_company: str) -> dict:
                 entry["date_lor_sent"] = datetime.now().strftime("%Y-%m-%d")
                 break
         
-        with open(case_path / "Case Information/insurance.json", "w") as f:
+        with open(case_path / "Case Information/`cases/<slug>/claims/` and `## Insurance Claims` section", "w") as f:
             json.dump(insurance, f, indent=2)
     
     return result

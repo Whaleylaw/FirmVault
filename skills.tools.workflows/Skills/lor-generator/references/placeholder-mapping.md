@@ -1,19 +1,17 @@
 # LOR Template Placeholder Mapping
 
-> **⚠️ Stale references below.** This file may contain references to FalkorDB, `${ROSCOE_ROOT}`, or per-case JSON files (`overview.json`, `contacts.json`, etc.). The Obsidian vault is now the only source of truth — see `../../../DATA_CONTRACT.md`. Stale references are being rewritten incrementally.
-
 ## BI LOR Template Placeholders
 
 | Placeholder | Description | Data Source | Required |
 |-------------|-------------|-------------|:--------:|
 | `{{TODAY_LONG}}` | Current date formatted | Generated (e.g., "January 15, 2024") | Yes |
-| `{{insurance.insuranceAdjuster.name}}` | Adjuster name | insurance.json or "Claims Department" | Yes |
+| `{{insurance.insuranceAdjuster.name}}` | Adjuster name | `cases/<slug>/claims/` and `## Insurance Claims` section or "Claims Department" | Yes |
 | `{{insurance.insuranceAdjuster.firstname}}` | Adjuster first name | Extracted from full name | No |
-| `{{insurance.insuranceAdjuster.email1}}` | Adjuster email | insurance.json | No |
-| `{{insurance.insuranceCompany.addressBlock}}` | Full company address | insurance.json (multiline) | Yes |
-| `{{client.name}}` | Client full name | overview.json | Yes |
-| `{{insurance.claimNumber}}` | Claim number | insurance.json or "TBD" | No |
-| `{{incidentDate}}` | Accident date | overview.json | Yes |
+| `{{insurance.insuranceAdjuster.email1}}` | Adjuster email | `cases/<slug>/claims/` and `## Insurance Claims` section | No |
+| `{{insurance.insuranceCompany.addressBlock}}` | Full company address | `cases/<slug>/claims/` and `## Insurance Claims` section (multiline) | Yes |
+| `{{client.name}}` | Client full name | `cases/<slug>/<slug>.md` (frontmatter) | Yes |
+| `{{insurance.claimNumber}}` | Claim number | `cases/<slug>/claims/` and `## Insurance Claims` section or "TBD" | No |
+| `{{incidentDate}}` | Accident date | `cases/<slug>/<slug>.md` (frontmatter) | Yes |
 | `{{primary}}` | Attorney name | Firm settings | Yes |
 
 ## PIP LOR Template Placeholders
@@ -59,13 +57,13 @@ context = {
 
 | Data | File | JSON Path |
 |------|------|-----------|
-| Client name | overview.json | `client_name` |
-| Accident date | overview.json | `accident_date` |
-| Insurance company | insurance.json | `bi.insurance_company.name` |
-| Company address | insurance.json | `bi.insurance_company.address` |
-| Adjuster name | insurance.json | `bi.adjuster_name` |
-| Adjuster email | insurance.json | `bi.adjuster_email` |
-| Claim number | insurance.json | `bi.claim_number` |
+| Client name | `cases/<slug>/<slug>.md` (frontmatter) | `client_name` |
+| Accident date | `cases/<slug>/<slug>.md` (frontmatter) | `accident_date` |
+| Insurance company | `cases/<slug>/claims/` and `## Insurance Claims` section | `bi.insurance_company.name` |
+| Company address | `cases/<slug>/claims/` and `## Insurance Claims` section | `bi.insurance_company.address` |
+| Adjuster name | `cases/<slug>/claims/` and `## Insurance Claims` section | `bi.adjuster_name` |
+| Adjuster email | `cases/<slug>/claims/` and `## Insurance Claims` section | `bi.adjuster_email` |
+| Claim number | `cases/<slug>/claims/` and `## Insurance Claims` section | `bi.claim_number` |
 
 ## Handling Missing Values
 

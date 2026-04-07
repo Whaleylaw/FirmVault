@@ -1,7 +1,5 @@
 # Police Report Analysis Output Template
 
-> **⚠️ Stale references below.** This file may contain references to FalkorDB, `${ROSCOE_ROOT}`, or per-case JSON files (`overview.json`, `contacts.json`, etc.). The Obsidian vault is now the only source of truth — see `../../../DATA_CONTRACT.md`. Stale references are being rewritten incrementally.
-
 Use this template when generating the extraction output from a Kentucky crash report.
 
 ---
@@ -226,7 +224,7 @@ Use this template when generating the extraction output from a Kentucky crash re
 3. [ ] Create insurance entry for PIP carrier: [COMPANY NAME]
 4. [ ] Create contact card for at-fault driver: [NAME]
 5. [ ] Create contact card for witness(es): [NAME(S)]
-6. [ ] Update overview.json with accident details
+6. [ ] Update `cases/<slug>/<slug>.md` (frontmatter) with accident details
 7. [ ] [If red flags] Flag for attorney review: [ISSUE]
 
 ---
@@ -235,11 +233,11 @@ Use this template when generating the extraction output from a Kentucky crash re
 
 | Data | Target File | Field Path |
 |------|-------------|------------|
-| Accident details | overview.json | `accident.*` |
-| BI insurance | insurance.json | New entry with `coverage_type: "BI"` |
-| PIP insurance | insurance.json | New entry with `coverage_type: "PIP"` |
-| At-fault party | contacts.json | New entry with `role: "at_fault_driver"` |
-| Witnesses | contacts.json | New entries with `role: "witness"` |
+| Accident details | `cases/<slug>/<slug>.md` (frontmatter) | `accident.*` |
+| BI insurance | `cases/<slug>/claims/` and `## Insurance Claims` section | New entry with `coverage_type: "BI"` |
+| PIP insurance | `cases/<slug>/claims/` and `## Insurance Claims` section | New entry with `coverage_type: "PIP"` |
+| At-fault party | `cases/<slug>/contacts/` | New entry with `role: "at_fault_driver"` |
+| Witnesses | `cases/<slug>/contacts/` | New entries with `role: "witness"` |
 
 ---
 

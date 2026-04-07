@@ -1,7 +1,5 @@
 # Multimedia Evidence Analysis Trigger
 
-> **⚠️ Stale references below.** This file may contain references to FalkorDB, `${ROSCOE_ROOT}`, or per-case JSON files (`overview.json`, `contacts.json`, etc.). The Obsidian vault is now the only source of truth — see `../../../DATA_CONTRACT.md`. Stale references are being rewritten incrementally.
-
 **FOR MAIN AGENT (Claude Sonnet 4.5)**
 
 ## When to Use This Skill
@@ -50,7 +48,7 @@ spawn_sub_agent(
     **File:** {multimedia_file_path}
 
     Follow the multimedia-evidence-analysis skill instructions:
-    1. Load case context FIRST (overview.json, accident report, complaint)
+    1. Load case context FIRST (`cases/<slug>/<slug>.md` (frontmatter), accident report, complaint)
     2. Analyze the multimedia file with Gemini's native capabilities
     3. Provide attorney-ready analysis with:
        - Full transcript with timestamps
@@ -94,7 +92,7 @@ spawn_sub_agent(
     **File:** /projects/Alma-Cristobal-MVA-2-15-2024/Investigation/2024-02-15 - Body Camera Officer Kelly (Redacted).mp4
 
     Follow the multimedia-evidence-analysis skill instructions:
-    1. Load case context from overview.json and accident report
+    1. Load case context from `cases/<slug>/<slug>.md` (frontmatter) and accident report
     2. Analyze video with Gemini (transcript, visual timeline, speaker ID)
     3. Compare evidence to case facts
     4. Provide attorney-ready analysis with citations
