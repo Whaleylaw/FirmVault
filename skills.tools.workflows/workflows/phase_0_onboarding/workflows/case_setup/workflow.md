@@ -1,3 +1,5 @@
+> **⚠️ Stale references below.** This file may contain references to FalkorDB, `${ROSCOE_ROOT}`, or per-case JSON files (`overview.json`, `contacts.json`, etc.). The Obsidian vault is now the only source of truth — see `../../../DATA_CONTRACT.md`. Stale references are being rewritten incrementally.
+
 ---
 name: case_setup
 description: >
@@ -139,7 +141,7 @@ def create_case(client_name: str, case_type: str, accident_date: str) -> dict
 ```json
 {
   "success": true,
-  "case_path": "${ROSCOE_ROOT}/John-Doe-MVA-01-15-2025",
+  "case_path": "John-Doe-MVA-01-15-2025",
   "case_name": "John-Doe-MVA-01-15-2025",
   "next_workflow": "document_collection"
 }

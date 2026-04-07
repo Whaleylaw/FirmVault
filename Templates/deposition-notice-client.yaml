@@ -1,0 +1,41 @@
+id: deposition_notice_client
+name: Notice of Deposition to Client
+description: Letter notifying client of their scheduled deposition with preparation
+  instructions
+category: litigation
+input_mode: graph
+output_filename: Deposition_Notice_{client_name}_{date}.pdf
+graph_inputs:
+- name: case_name
+  required: true
+fields:
+- name: today_date
+  source: computed
+- name: client_name
+  source: graph
+  graph_query: 'MATCH (c:Case {name: $case_name})-[:HAS_CLIENT]->(client:Client)
+
+    RETURN client.name'
+  required: true
+- name: client_first_name
+  source: graph
+  graph_query: 'MATCH (c:Case {name: $case_name})-[:HAS_CLIENT]->(client:Client)
+
+    RETURN CASE WHEN client.name CONTAINS '' '' THEN split(client.name, '' '')[0]
+    ELSE client.name END'
+  required: true
+- name: client_address_block
+  source: graph
+  graph_query: 'MATCH (c:Case {name: $case_name})-[:HAS_CLIENT]->(client:Client)
+
+    RETURN coalesce(client.address_line1, '''') + ''\n'' + coalesce(client.city, '''')
+    + '', '' + coalesce(client.state, '''') + '' '' + coalesce(client.zip, '''')'
+  required: false
+- name: deposition_date
+  source: input
+  description: Date of deposition (e.g., 'January 15, 2026')
+  required: true
+- name: deposition_time
+  source: input
+  description: Time of deposition (e.g., '10:00 AM EST')
+  required: true

@@ -83,7 +83,7 @@ Thoroughly prepare client to give effective testimony at their deposition, from 
 **Document Generation Pattern:**
 ```bash
 # Copy privilege review template
-cp "${ROSCOE_ROOT}/workflows/phase_7_litigation/subphases/7_2_discovery/deposition_library/templates/client_prep/privilege_review.md" \
+cp "workflows/phase_7_litigation/subphases/7_2_discovery/deposition_library/templates/client_prep/privilege_review.md" \
    "/{project}/Litigation/Discovery/Privilege_Review.md"
 ```
 
@@ -102,11 +102,11 @@ cp "${ROSCOE_ROOT}/workflows/phase_7_litigation/subphases/7_2_discovery/depositi
 **Document Generation Pattern:**
 ```bash
 # Copy client letter template
-cp "${ROSCOE_ROOT}/workflows/phase_7_litigation/subphases/7_2_discovery/deposition_library/templates/client_prep/client_letter.md" \
+cp "workflows/phase_7_litigation/subphases/7_2_discovery/deposition_library/templates/client_prep/client_letter.md" \
    "/{project}/Client/Deposition_Letter.md"
 
 # Generate DOCX/PDF
-python ${ROSCOE_ROOT}/Tools/document_generation/generate_document.py \
+python Tools/document_generation/generate_document.py \
     "/{project}/Client/Deposition_Letter.md"
 ```
 

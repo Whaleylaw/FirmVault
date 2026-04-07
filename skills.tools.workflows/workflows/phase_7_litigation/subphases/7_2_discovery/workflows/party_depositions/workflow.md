@@ -55,7 +55,7 @@ Plan, schedule, and conduct depositions of defendants and key witnesses using th
 
 **Copy Template:**
 ```bash
-cp "${ROSCOE_ROOT}/workflows/phase_7_litigation/subphases/7_2_discovery/deposition_library/templates/tracking/depo_schedule.md" \
+cp "workflows/phase_7_litigation/subphases/7_2_discovery/deposition_library/templates/tracking/depo_schedule.md" \
    "/{project}/Litigation/Discovery/Depo_Schedule.md"
 ```
 
@@ -99,12 +99,12 @@ cp "${ROSCOE_ROOT}/workflows/phase_7_litigation/subphases/7_2_discovery/depositi
 **Document Generation Pattern:**
 ```bash
 # Copy notice template (standard or video)
-cp "${ROSCOE_ROOT}/workflows/phase_7_litigation/subphases/7_2_discovery/deposition_library/templates/notices/notice_standard.md" \
+cp "workflows/phase_7_litigation/subphases/7_2_discovery/deposition_library/templates/notices/notice_standard.md" \
    "/{project}/Litigation/Discovery/Depo_Notice_[DefendantName].md"
 
 # Agent fills deponent details
 # Generate DOCX/PDF
-python ${ROSCOE_ROOT}/Tools/document_generation/generate_document.py \
+python Tools/document_generation/generate_document.py \
     "/{project}/Litigation/Discovery/Depo_Notice_[DefendantName].md"
 ```
 
@@ -118,7 +118,7 @@ python ${ROSCOE_ROOT}/Tools/document_generation/generate_document.py \
 
 **Copy Template:**
 ```bash
-cp "${ROSCOE_ROOT}/workflows/phase_7_litigation/subphases/7_2_discovery/deposition_library/templates/outlines/outline_rules_based.md" \
+cp "workflows/phase_7_litigation/subphases/7_2_discovery/deposition_library/templates/outlines/outline_rules_based.md" \
    "/{project}/Litigation/Discovery/Depo_Outline_[DefendantName].md"
 ```
 
@@ -182,7 +182,7 @@ Q. Looking back at this incident, were any mistakes made?
 
 **Create Testimony Tracker:**
 ```bash
-cp "${ROSCOE_ROOT}/workflows/phase_7_litigation/subphases/7_2_discovery/deposition_library/templates/tracking/testimony_tracker.md" \
+cp "workflows/phase_7_litigation/subphases/7_2_discovery/deposition_library/templates/tracking/testimony_tracker.md" \
    "/{project}/Litigation/Discovery/Testimony_Tracker.md"
 ```
 

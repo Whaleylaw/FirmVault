@@ -1,5 +1,7 @@
 # Police Report Analysis Output Template
 
+> **⚠️ Stale references below.** This file may contain references to FalkorDB, `${ROSCOE_ROOT}`, or per-case JSON files (`overview.json`, `contacts.json`, etc.). The Obsidian vault is now the only source of truth — see `../../../DATA_CONTRACT.md`. Stale references are being rewritten incrementally.
+
 Use this template when generating the extraction output from a Kentucky crash report.
 
 ---

@@ -1,3 +1,5 @@
+> **⚠️ Stale references below.** This file may contain references to FalkorDB, `${ROSCOE_ROOT}`, or per-case JSON files (`overview.json`, `contacts.json`, etc.). The Obsidian vault is now the only source of truth — see `../../../DATA_CONTRACT.md`. Stale references are being rewritten incrementally.
+
 ---
 name: calendar-scheduling
 description: Use when managing case deadlines, scheduling depositions, hearings, client meetings, or tracking important dates. Provides Google Calendar integration for statute of limitations, discovery deadlines, court dates, and appointments.

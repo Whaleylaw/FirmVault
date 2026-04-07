@@ -195,7 +195,7 @@ cp "/path/to/deposition_library/templates/notices/notice_expert.md" \
 
 # Agent fills expert details
 # Generate DOCX/PDF
-python ${ROSCOE_ROOT}/Tools/document_generation/generate_document.py \
+python Tools/document_generation/generate_document.py \
     "/{project}/Litigation/Discovery/Expert_Depo_Notice.md"
 ```
 

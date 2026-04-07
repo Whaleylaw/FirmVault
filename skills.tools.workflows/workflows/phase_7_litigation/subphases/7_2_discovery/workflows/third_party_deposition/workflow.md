@@ -80,12 +80,12 @@ Plan and conduct depositions of non-party witnesses using subpoena, with optiona
 **Document Generation Pattern:**
 ```bash
 # Copy notice template
-cp "${ROSCOE_ROOT}/workflows/phase_7_litigation/subphases/7_2_discovery/deposition_library/templates/notices/notice_standard.md" \
+cp "workflows/phase_7_litigation/subphases/7_2_discovery/deposition_library/templates/notices/notice_standard.md" \
    "/{project}/Litigation/Discovery/Depo_Notice_[WitnessName].md"
 
 # Agent fills witness details
 # Generate DOCX/PDF
-python ${ROSCOE_ROOT}/Tools/document_generation/generate_document.py \
+python Tools/document_generation/generate_document.py \
     "/{project}/Litigation/Discovery/Depo_Notice_[WitnessName].md"
 ```
 
@@ -115,7 +115,7 @@ python ${ROSCOE_ROOT}/Tools/document_generation/generate_document.py \
 
 **Copy Template:**
 ```bash
-cp "${ROSCOE_ROOT}/workflows/phase_7_litigation/subphases/7_2_discovery/deposition_library/templates/outlines/outline_rules_based.md" \
+cp "workflows/phase_7_litigation/subphases/7_2_discovery/deposition_library/templates/outlines/outline_rules_based.md" \
    "/{project}/Litigation/Discovery/Depo_Outline_[WitnessName].md"
 ```
 

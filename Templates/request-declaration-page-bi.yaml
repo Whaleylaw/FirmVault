@@ -1,0 +1,130 @@
+---
+id: "request_declaration_page_bi"
+name: "Request for Declaration Page from BI Adjuster"
+description: "Request letter for insurance policy declaration page from bodily injury adjuster (follow-up to initial letter of representation)"
+category: "correspondence"
+input_mode: "graph"
+output_filename: "Declaration_Request_BI_{client_name}_{date}.pdf"
+
+# Required input to query the graph
+graph_inputs:
+  - name: "case_name"
+    description: "Name of the case (e.g., 'Wilson-MVA-2024')"
+    required: true
+
+  - name: "insurer_name"
+    description: "Insurance company name (optional - only needed if case has multiple BI claims)"
+    required: false
+
+# Field definitions
+fields:
+  # Computed/Config fields (automatic)
+  - name: "today_date"
+    source: "computed"
+    description: "Current date in long format (e.g., 'January 21, 2026')"
+
+  - name: "firm_name"
+    source: "config"
+    description: "Law firm name from firm_settings.json"
+
+  - name: "firm_phone"
+    source: "config"
+    description: "Law firm phone number"
+
+  # Client information from graph
+  - name: "client_name"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})-[:HAS_CLIENT]->(client:Client)
+      RETURN client.name
+    description: "Full name of the client"
+    required: true
+
+  - name: "accident_date"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})
+      RETURN c.accident_date
+    description: "Date of the incident"
+    required: true
+
+  # BI Claim information
+  - name: "claim_number"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})-[:HAS_CLAIM]->(claim:BIClaim)-[:WITH_INSURER]->(ins:Insurer)
+      WHERE $insurer_name IS NULL OR ins.name = $insurer_name
+      RETURN claim.claim_number
+      LIMIT 1
+    description: "BI claim number"
+    required: true
+
+  # LOR sent date - when the letter of representation was sent
+  - name: "lor_sent_date"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})-[:HAS_CLAIM]->(claim:BIClaim)-[:WITH_INSURER]->(ins:Insurer)
+      WHERE $insurer_name IS NULL OR ins.name = $insurer_name
+      RETURN coalesce(claim.lor_sent_date, 'a previous date')
+      LIMIT 1
+    description: "Date when letter of representation was sent (or default text)"
+    required: false
+
+  # Adjuster information
+  - name: "adjuster_name"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})-[:HAS_CLAIM]->(claim:BIClaim)-[:WITH_INSURER]->(ins:Insurer)
+      WHERE $insurer_name IS NULL OR ins.name = $insurer_name
+      MATCH (claim)-[:ADJUSTED_BY]->(adj:Adjuster)
+      RETURN adj.name
+      LIMIT 1
+    description: "Full name of the insurance adjuster"
+    required: true
+
+  - name: "adjuster_first_name"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})-[:HAS_CLAIM]->(claim:BIClaim)-[:WITH_INSURER]->(ins:Insurer)
+      WHERE $insurer_name IS NULL OR ins.name = $insurer_name
+      MATCH (claim)-[:ADJUSTED_BY]->(adj:Adjuster)
+      RETURN CASE
+        WHEN adj.name CONTAINS ' ' THEN split(adj.name, ' ')[0]
+        ELSE adj.name
+      END
+      LIMIT 1
+    description: "First name of the adjuster (extracted from full name)"
+    required: true
+
+  - name: "adjuster_email"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})-[:HAS_CLAIM]->(claim:BIClaim)-[:WITH_INSURER]->(ins:Insurer)
+      WHERE $insurer_name IS NULL OR ins.name = $insurer_name
+      MATCH (claim)-[:ADJUSTED_BY]->(adj:Adjuster)
+      RETURN coalesce(adj.email, adj.email1, 'N/A')
+      LIMIT 1
+    description: "Email address of the adjuster"
+    required: false
+
+  # Insurer address block
+  - name: "insurer_address_block"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})-[:HAS_CLAIM]->(claim:BIClaim)-[:WITH_INSURER]->(ins:Insurer)
+      WHERE $insurer_name IS NULL OR ins.name = $insurer_name
+      RETURN ins.name + '\n' +
+             coalesce(ins.address_line1, '') + '\n' +
+             coalesce(ins.city, '') + ', ' +
+             coalesce(ins.state, '') + ' ' +
+             coalesce(ins.zip, '')
+      LIMIT 1
+    description: "Formatted address block for the insurance company"
+    required: true
+
+  # Attorney name
+  - name: "attorney_name"
+    source: "input"
+    description: "Name of the attorney signing the letter"
+    required: false
+    default: "Aaron Whaley"

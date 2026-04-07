@@ -1,5 +1,7 @@
 # LOR Generator Tool Usage
 
+> **⚠️ Stale references below.** This file may contain references to FalkorDB, `${ROSCOE_ROOT}`, or per-case JSON files (`overview.json`, `contacts.json`, etc.). The Obsidian vault is now the only source of truth — see `../../../DATA_CONTRACT.md`. Stale references are being rewritten incrementally.
+
 ## generate_document.py (Unified Document Generator)
 
 **Location**: `/Tools/document_generation/generate_document.py`
@@ -15,7 +17,7 @@ import shutil
 from pathlib import Path
 
 # Source templates
-templates_dir = Path("${ROSCOE_ROOT}/templates")
+templates_dir = Path("templates")
 bi_template = templates_dir / "2022 Whaley LOR to BI Adjuster(1)(1)(1) (1).docx"
 pip_template = templates_dir / "2022 Whaley LOR to PIP Adjuster(1)(1) (1).docx"
 
@@ -23,7 +25,7 @@ pip_template = templates_dir / "2022 Whaley LOR to PIP Adjuster(1)(1) (1).docx"
 project = "John-Doe-MVA-01-01-2025"
 insurance_company = "State Farm"  # From insurance.json
 
-dest_folder = Path(f"${ROSCOE_ROOT}/{project}/Insurance/{insurance_company}")
+dest_folder = Path(f"{project}/Insurance/{insurance_company}")
 dest_folder.mkdir(parents=True, exist_ok=True)
 
 # Copy template to destination
@@ -41,8 +43,8 @@ shutil.copy(pip_template, dest_folder / "LOR to PIP Adjuster.docx")
 # - Context type: Insurance
 # - Insurance company: State Farm
 
-python ${ROSCOE_ROOT}/Tools/document_generation/generate_document.py \
-    "${ROSCOE_ROOT}/John-Doe-MVA-01-01-2025/Insurance/State Farm/LOR to BI Adjuster.docx" \
+python Tools/document_generation/generate_document.py \
+    "John-Doe-MVA-01-01-2025/Insurance/State Farm/LOR to BI Adjuster.docx" \
     --pretty
 ```
 
@@ -50,11 +52,11 @@ python ${ROSCOE_ROOT}/Tools/document_generation/generate_document.py \
 
 ```python
 import sys
-sys.path.insert(0, "${ROSCOE_ROOT}/Tools/document_generation")
+sys.path.insert(0, "Tools/document_generation")
 from generate_document import generate_document
 
 result = generate_document(
-    "${ROSCOE_ROOT}/John-Doe-MVA-01-01-2025/Insurance/State Farm/LOR to BI Adjuster.docx"
+    "John-Doe-MVA-01-01-2025/Insurance/State Farm/LOR to BI Adjuster.docx"
 )
 
 if result["status"] == "success":
@@ -99,7 +101,7 @@ from pathlib import Path
 from datetime import datetime
 import sys
 
-sys.path.insert(0, "${ROSCOE_ROOT}/Tools/document_generation")
+sys.path.insert(0, "Tools/document_generation")
 from generate_document import generate_document
 
 def generate_bi_lor(case_folder: str, insurance_company: str) -> dict:
@@ -112,7 +114,7 @@ def generate_bi_lor(case_folder: str, insurance_company: str) -> dict:
     dest_folder.mkdir(parents=True, exist_ok=True)
     
     # Step 2: Copy template to destination
-    template_src = Path("${ROSCOE_ROOT}/templates/2022 Whaley LOR to BI Adjuster(1)(1)(1) (1).docx")
+    template_src = Path("templates/2022 Whaley LOR to BI Adjuster(1)(1)(1) (1).docx")
     output_path = dest_folder / "LOR to BI Adjuster.docx"
     shutil.copy(template_src, output_path)
     

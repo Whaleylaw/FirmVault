@@ -1,3 +1,5 @@
+> **⚠️ Stale references below.** This file may contain references to FalkorDB, `${ROSCOE_ROOT}`, or per-case JSON files (`overview.json`, `contacts.json`, etc.). The Obsidian vault is now the only source of truth — see `../../../DATA_CONTRACT.md`. Stale references are being rewritten incrementally.
+
 ---
 name: medical-records-request
 description: >
@@ -97,14 +99,14 @@ import shutil
 from pathlib import Path
 
 # Source template
-templates_dir = Path("${ROSCOE_ROOT}/templates")
+templates_dir = Path("templates")
 urr_template = templates_dir / "2022 Whaley Medical Record Request (URR) (1).docx"
 
 # Destination (creates context for auto-fill)
 project = "John-Doe-MVA-01-01-2025"
 provider_name = "UK Hospital"  # From medical_providers.json
 
-dest_folder = Path(f"${ROSCOE_ROOT}/{project}/Medical Providers/{provider_name}")
+dest_folder = Path(f"{project}/Medical Providers/{provider_name}")
 dest_folder.mkdir(parents=True, exist_ok=True)
 
 # Copy template to destination
@@ -115,8 +117,8 @@ shutil.copy(urr_template, dest_folder / "Medical Record Request.docx")
 
 ```bash
 # The path tells the tool everything it needs
-python ${ROSCOE_ROOT}/Tools/document_generation/generate_document.py \
-    "${ROSCOE_ROOT}/John-Doe-MVA-01-01-2025/Medical Providers/UK Hospital/Medical Record Request.docx" \
+python Tools/document_generation/generate_document.py \
+    "John-Doe-MVA-01-01-2025/Medical Providers/UK Hospital/Medical Record Request.docx" \
     --pretty
 ```
 
@@ -124,11 +126,11 @@ python ${ROSCOE_ROOT}/Tools/document_generation/generate_document.py \
 
 ```python
 import sys
-sys.path.insert(0, "${ROSCOE_ROOT}/Tools/document_generation")
+sys.path.insert(0, "Tools/document_generation")
 from generate_document import generate_document
 
 result = generate_document(
-    "${ROSCOE_ROOT}/John-Doe-MVA-01-01-2025/Medical Providers/UK Hospital/Medical Record Request.docx"
+    "John-Doe-MVA-01-01-2025/Medical Providers/UK Hospital/Medical Record Request.docx"
 )
 
 if result["status"] == "success":

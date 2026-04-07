@@ -121,18 +121,18 @@ from pathlib import Path
 
 # Copy template to destination
 project = "Client-Name-MVA-01-01-2025"
-dest_folder = Path(f"${ROSCOE_ROOT}/{project}/Documents/Settlement")
+dest_folder = Path(f"{project}/Documents/Settlement")
 dest_folder.mkdir(parents=True, exist_ok=True)
 
 shutil.copy(
-    "${ROSCOE_ROOT}/templates/supplemental_settlement_statement_template.md",
+    "templates/supplemental_settlement_statement_template.md",
     dest_folder / "Supplemental_Settlement_Statement.md"
 )
 ```
 
 ```bash
-python ${ROSCOE_ROOT}/Tools/document_generation/generate_document.py \
-  "${ROSCOE_ROOT}/Client-Name-MVA-01-01-2025/Documents/Settlement/Supplemental_Settlement_Statement.md"
+python Tools/document_generation/generate_document.py \
+  "Client-Name-MVA-01-01-2025/Documents/Settlement/Supplemental_Settlement_Statement.md"
 ```
 
 ---

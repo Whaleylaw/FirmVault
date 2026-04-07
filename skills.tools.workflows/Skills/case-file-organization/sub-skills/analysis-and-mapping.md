@@ -1,5 +1,7 @@
 # Case File Analysis & Mapping Sub-Skill
 
+> **⚠️ Stale references below.** This file may contain references to FalkorDB, `${ROSCOE_ROOT}`, or per-case JSON files (`overview.json`, `contacts.json`, etc.). The Obsidian vault is now the only source of truth — see `../../../DATA_CONTRACT.md`. Stale references are being rewritten incrementally.
+
 **Purpose:** Analyze all files in a case folder and create a comprehensive reorganization map with proper categorization, naming, and duplicate detection.
 
 **This is Phase 2 of the Case File Organization workflow.**

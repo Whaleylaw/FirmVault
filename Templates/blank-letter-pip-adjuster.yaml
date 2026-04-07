@@ -1,0 +1,128 @@
+id: "blank_letter_pip_adjuster"
+name: "Blank Letter to PIP Adjuster"
+description: "General-purpose correspondence to PIP insurance adjuster for client matters"
+category: "correspondence"
+subcategory: "pip_insurance"
+
+# Target data structure
+query:
+  target_node: "PIPClaim"
+  required_relationships:
+    - "(case:Case)-[:HAS_PIP_CLAIM]->(pip:PIPClaim)"
+    - "(case)-[:HAS_CLIENT]->(client:Client)"
+    - "(pip)-[:INSURED_BY]->(carrier:InsuranceCarrier)"
+    - "(pip)-[:ASSIGNED_TO]->(adjuster:InsuranceAdjuster)"
+  optional_relationships:
+    - "(case)-[:HAS_INCIDENT]->(incident:Incident)"
+    - "(case)-[:ASSIGNED_TO]->(attorney:Attorney)"
+
+# Field mappings
+fields:
+  # Date fields
+  - name: "date"
+    source: "SYSTEM.today_long"
+    description: "Current date in long format"
+    required: true
+
+  # Insurance company information
+  - name: "insurance_company"
+    source: "carrier.name"
+    description: "PIP insurance carrier name"
+    required: true
+
+  # Adjuster information
+  - name: "adjuster_firstname"
+    source: "adjuster.first_name"
+    description: "Adjuster's first name for salutation"
+    required: true
+
+  - name: "adjuster_address"
+    source: "adjuster.address_block"
+    description: "Complete mailing address for adjuster"
+    required: true
+    fallback: |
+      {{adjuster.address_line1}}
+      {{adjuster.city}}, {{adjuster.state}} {{adjuster.zip}}
+
+  - name: "adjuster_email"
+    source: "adjuster.email"
+    description: "Adjuster's email address"
+    required: false
+
+  # Client information
+  - name: "client_name"
+    source: "client.full_name"
+    description: "Client's full legal name"
+    required: true
+
+  # Claim information
+  - name: "claim_number"
+    source: "pip.claim_number"
+    description: "PIP claim number"
+    required: true
+
+  - name: "incident_date"
+    source: "incident.date_formatted"
+    description: "Date of loss/incident"
+    required: true
+    fallback: "incident.date"
+
+  # Attorney information
+  - name: "attorney_name"
+    source: "attorney.full_name"
+    description: "Assigned attorney name for signature"
+    required: true
+    fallback: "Aaron Whaley"
+
+  # Body content
+  - name: "body"
+    source: "USER_INPUT"
+    description: "Main body content of the letter (user-provided or AI-generated)"
+    required: true
+    multiline: true
+    prompt: "Enter the body of the letter to the PIP adjuster"
+
+# Template metadata
+template_file: "blank_letter_pip_adjuster.docx"
+output_filename_pattern: "{case_name} - Letter to PIP Adjuster - {date_short}.docx"
+
+# Usage examples
+examples:
+  - use_case: "Request for PIP benefits approval"
+    body_sample: "I am writing to request approval of PIP benefits for medical treatment related to the above-referenced claim. Please find enclosed medical records and billing statements supporting this request."
+
+  - use_case: "Status inquiry"
+    body_sample: "I am writing to inquire about the status of the PIP claim for our client. We have not received communication regarding the claim approval or any outstanding documentation requirements."
+
+  - use_case: "Documentation submission"
+    body_sample: "Enclosed please find additional medical records and billing statements for your review and processing. Please confirm receipt and advise if any additional information is required."
+
+# Generation hints for AI
+generation_hints:
+  - "This is a flexible template for general PIP adjuster correspondence"
+  - "The body should be professional and focused on the specific purpose"
+  - "Common purposes: benefit requests, status inquiries, documentation submission, follow-up"
+  - "Maintain professional tone consistent with insurance industry standards"
+  - "Include specific claim details in the body when relevant"
+
+# Validation rules
+validation:
+  - field: "claim_number"
+    rule: "not_empty"
+    message: "PIP claim number is required"
+
+  - field: "client_name"
+    rule: "not_empty"
+    message: "Client name is required"
+
+  - field: "insurance_company"
+    rule: "not_empty"
+    message: "Insurance carrier name is required"
+
+  - field: "adjuster_firstname"
+    rule: "not_empty"
+    message: "Adjuster first name is required for salutation"
+
+  - field: "body"
+    rule: "min_length:50"
+    message: "Letter body should be at least 50 characters"

@@ -15,7 +15,7 @@
 ### Template Not Found
 
 ```
-⚠️ Template not found: templates/2022 Whaley LOR to BI Adjuster.docx
+⚠️ Template not found: Templates/lor-to-bi-adjuster.docx
 
 Please verify the template file exists in the workflow templates folder.
 Expected location: workflows/insurance_bi_claim/templates/

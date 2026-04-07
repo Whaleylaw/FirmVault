@@ -1,0 +1,110 @@
+---
+id: "medical_billing_request"
+name: "Medical Billing Request (MBR)"
+description: "Request for itemized medical billing records from healthcare provider for workers compensation or personal injury case"
+category: "correspondence"
+input_mode: "graph"
+output_filename: "Medical_Billing_Request_{provider_name}_{date}.pdf"
+
+# Required input to query the graph
+graph_inputs:
+  - name: "case_name"
+    description: "Name of the case (e.g., 'Wilson-MVA-2024')"
+    required: true
+
+  - name: "provider_name"
+    description: "Name of the medical provider (e.g., 'Norton Hospital', 'Allstar Chiropractic')"
+    required: true
+
+# Field definitions
+fields:
+  # Computed/Config fields (automatic)
+  - name: "today_date"
+    source: "computed"
+    description: "Current date in long format"
+
+  - name: "today_date_short"
+    source: "computed"
+    description: "Current date in short format"
+
+  - name: "firm_name"
+    source: "config"
+    description: "Law firm name"
+
+  - name: "firm_phone"
+    source: "config"
+    description: "Law firm phone number"
+
+  # Client information
+  - name: "client_name"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})-[:HAS_CLIENT]->(client:Client)
+      RETURN client.name
+    required: true
+
+  - name: "client_dob"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})-[:HAS_CLIENT]->(client:Client)
+      RETURN coalesce(client.date_of_birth, client.dob, 'N/A')
+    required: false
+
+  - name: "client_ssn"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})-[:HAS_CLIENT]->(client:Client)
+      RETURN coalesce(client.ssn, client.social_security_number, 'N/A')
+    required: false
+
+  - name: "accident_date"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})
+      RETURN c.accident_date
+    required: true
+
+  - name: "case_type"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})
+      RETURN coalesce(c.case_type, c.type, 'Personal Injury')
+    required: false
+
+  # Provider information
+  - name: "provider_address_block"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})-[:TREATED_AT|TREATED_BY*1..3]-(provider)
+      WHERE provider.name CONTAINS $provider_name
+        OR (provider:Location AND (provider)-[:PART_OF]-(:Facility {name: $provider_name}))
+        OR (provider:Location AND (provider)-[:PART_OF]->(:Facility)-[:PART_OF]->(:HealthSystem {name: $provider_name}))
+      WITH provider LIMIT 1
+      RETURN coalesce(provider.name, '') + '\n' +
+             coalesce(provider.address_line1, provider.address, '') + '\n' +
+             coalesce(provider.city, '') + ', ' +
+             coalesce(provider.state, '') + ' ' +
+             coalesce(provider.zip, provider.zipcode, '')
+    required: true
+
+  - name: "provider_fax"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})-[:TREATED_AT|TREATED_BY*1..3]-(provider)
+      WHERE provider.name CONTAINS $provider_name
+        OR (provider:Location AND (provider)-[:PART_OF]-(:Facility {name: $provider_name}))
+        OR (provider:Location AND (provider)-[:PART_OF]->(:Facility)-[:PART_OF]->(:HealthSystem {name: $provider_name}))
+      WITH provider LIMIT 1
+      RETURN coalesce(provider.fax, provider.fax_number, 'N/A')
+    required: false
+
+  - name: "attorney_name"
+    source: "input"
+    description: "Name of attorney or staff member signing"
+    required: false
+    default: "Aaron Whaley"
+
+  - name: "attorney_email"
+    source: "config"
+    description: "Email address for billing coordinator"
+    required: false

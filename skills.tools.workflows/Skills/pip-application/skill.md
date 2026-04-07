@@ -1,3 +1,5 @@
+> **⚠️ Stale references below.** This file may contain references to FalkorDB, `${ROSCOE_ROOT}`, or per-case JSON files (`overview.json`, `contacts.json`, etc.). The Obsidian vault is now the only source of truth — see `../../../DATA_CONTRACT.md`. Stale references are being rewritten incrementally.
+
 ---
 name: pip-application
 description: >
@@ -85,15 +87,15 @@ Complete the KACP (Kentucky Assigned Claims Plan) Application form for PIP cover
 
 ```bash
 # Copy the KACP template to the case folder
-cp "${ROSCOE_ROOT}/templates/KACP-Application-03.2021(1) (1).pdf" \
-   "${ROSCOE_ROOT}/{project_name}/Insurance/PIP/KACP_Application.pdf"
+cp "templates/KACP-Application-03.2021(1) (1).pdf" \
+   "{project_name}/Insurance/PIP/KACP_Application.pdf"
 ```
 
 ### Step 2: Generate Document
 
 ```bash
 # Generate the filled document - tool auto-detects template and context
-python generate_document.py "${ROSCOE_ROOT}/{project_name}/Insurance/PIP/KACP_Application.pdf"
+python generate_document.py "{project_name}/Insurance/PIP/KACP_Application.pdf"
 ```
 
 **Python Usage**:
@@ -103,8 +105,8 @@ import shutil
 from generate_document import generate_document
 
 # Step 1: Copy template to output location
-template_src = "${ROSCOE_ROOT}/templates/KACP-Application-03.2021(1) (1).pdf"
-output_path = f"${ROSCOE_ROOT}/{project_name}/Insurance/PIP/KACP_Application.pdf"
+template_src = "templates/KACP-Application-03.2021(1) (1).pdf"
+output_path = f"{project_name}/Insurance/PIP/KACP_Application.pdf"
 shutil.copy(template_src, output_path)
 
 # Step 2: Generate document (fills in place)

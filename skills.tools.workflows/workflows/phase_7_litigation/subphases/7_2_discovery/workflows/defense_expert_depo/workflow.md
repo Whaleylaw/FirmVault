@@ -101,12 +101,12 @@ Plan and conduct defense expert depositions with focus on creating conflicts for
 **Document Generation Pattern:**
 ```bash
 # Copy notice template
-cp "${ROSCOE_ROOT}/workflows/phase_7_litigation/subphases/7_2_discovery/deposition_library/templates/notices/notice_expert.md" \
+cp "workflows/phase_7_litigation/subphases/7_2_discovery/deposition_library/templates/notices/notice_expert.md" \
    "/{project}/Litigation/Discovery/Expert_Notice_[ExpertName].md"
 
 # Agent fills expert details
 # Generate DOCX/PDF
-python ${ROSCOE_ROOT}/Tools/document_generation/generate_document.py \
+python Tools/document_generation/generate_document.py \
     "/{project}/Litigation/Discovery/Expert_Notice_[ExpertName].md"
 ```
 
@@ -130,7 +130,7 @@ python ${ROSCOE_ROOT}/Tools/document_generation/generate_document.py \
 
 **Copy Template:**
 ```bash
-cp "${ROSCOE_ROOT}/workflows/phase_7_litigation/subphases/7_2_discovery/deposition_library/templates/outlines/outline_expert.md" \
+cp "workflows/phase_7_litigation/subphases/7_2_discovery/deposition_library/templates/outlines/outline_expert.md" \
    "/{project}/Litigation/Discovery/Expert_Outline_[ExpertName].md"
 ```
 

@@ -1,0 +1,50 @@
+id: declined_representation
+name: Declined Representation Notice to Client
+description: Letter to client declining or withdrawing representation
+category: client_communication
+input_mode: graph
+output_filename: Declined_Representation_{client_name}_{date}.pdf
+graph_inputs:
+- name: case_name
+  required: true
+fields:
+- name: today_date
+  source: computed
+- name: client_name
+  source: graph
+  graph_query: 'MATCH (c:Case {name: $case_name})-[:HAS_CLIENT]->(client:Client)
+
+    RETURN client.name'
+  required: true
+- name: client_first_name
+  source: graph
+  graph_query: 'MATCH (c:Case {name: $case_name})-[:HAS_CLIENT]->(client:Client)
+
+    RETURN CASE WHEN client.name CONTAINS '' '' THEN split(client.name, '' '')[0]
+    ELSE client.name END'
+  required: true
+- name: client_address_block
+  source: graph
+  graph_query: 'MATCH (c:Case {name: $case_name})-[:HAS_CLIENT]->(client:Client)
+
+    RETURN coalesce(client.address_line1, '''') + ''\n'' + coalesce(client.city, '''')
+    + '', '' + coalesce(client.state, '''') + '' '' + coalesce(client.zip, '''')'
+  required: false
+- name: accident_date
+  source: graph
+  graph_query: 'MATCH (c:Case {name: $case_name})
+
+    RETURN c.accident_date'
+  required: true
+- name: sol_deadline
+  source: graph
+  graph_query: 'MATCH (c:Case {name: $case_name})
+
+    RETURN coalesce(c.sol_deadline, ''N/A'')'
+  required: false
+- name: case_id
+  source: graph
+  graph_query: 'MATCH (c:Case {name: $case_name})
+
+    RETURN coalesce(c.case_id, c.name)'
+  required: false

@@ -1,8 +1,19 @@
 #!/usr/bin/env python3
+"""
+DEPRECATED — relies on removed infrastructure.
+
+This module references one or more of: FalkorDB, ${ROSCOE_ROOT}, or per-case JSON
+files (overview.json, contacts.json, insurance.json, liens.json, expenses.json,
+medical_providers.json, case_state.json). The vault is now the source of truth;
+see /skills.tools.workflows/DATA_CONTRACT.md.
+
+Pending rewrite. Do not invoke until refactored to read/write the vault.
+"""
+
 """Portable wrapper for document generation.
 
 Loads and runs the implementation at:
-  ${ROSCOE_ROOT}/Tools/document_generation/generate_document.py
+  Tools/document_generation/generate_document.py
 
 We intentionally load by file path (not as a package) so the original module's
 intra-directory imports (e.g., `from path_parser import ...`) keep working.

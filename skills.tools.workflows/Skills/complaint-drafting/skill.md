@@ -1,3 +1,5 @@
+> **⚠️ Stale references below.** This file may contain references to FalkorDB, `${ROSCOE_ROOT}`, or per-case JSON files (`overview.json`, `contacts.json`, etc.). The Obsidian vault is now the only source of truth — see `../../../DATA_CONTRACT.md`. Stale references are being rewritten incrementally.
+
 ---
 name: complaint-drafting
 description: >
@@ -104,7 +106,7 @@ import shutil
 from pathlib import Path
 
 # Complaint library location
-library_dir = Path("${ROSCOE_ROOT}/workflows/phase_7_litigation/subphases/7_1_complaint/complaint_library/templates/base")
+library_dir = Path("workflows/phase_7_litigation/subphases/7_1_complaint/complaint_library/templates/base")
 
 # Select template based on decision tree
 # Options: mva_standard.md, mva_uim.md, mva_vicarious_liability.md, etc.
@@ -112,7 +114,7 @@ selected_template = library_dir / "mva_standard.md"
 
 # Destination (project's Litigation folder)
 project = "John-Doe-MVA-01-01-2025"
-dest_folder = Path(f"${ROSCOE_ROOT}/{project}/Litigation")
+dest_folder = Path(f"{project}/Litigation")
 dest_folder.mkdir(parents=True, exist_ok=True)
 
 # Copy template
@@ -155,8 +157,8 @@ Open the copied `Complaint.md` and fill in:
 
 ```bash
 # Call unified document generator
-python ${ROSCOE_ROOT}/Tools/document_generation/generate_document.py \
-    "${ROSCOE_ROOT}/John-Doe-MVA-01-01-2025/Litigation/Complaint.md" \
+python Tools/document_generation/generate_document.py \
+    "John-Doe-MVA-01-01-2025/Litigation/Complaint.md" \
     --pretty
 ```
 
@@ -164,11 +166,11 @@ python ${ROSCOE_ROOT}/Tools/document_generation/generate_document.py \
 
 ```python
 import sys
-sys.path.insert(0, "${ROSCOE_ROOT}/Tools/document_generation")
+sys.path.insert(0, "Tools/document_generation")
 from generate_document import generate_document
 
 result = generate_document(
-    "${ROSCOE_ROOT}/John-Doe-MVA-01-01-2025/Litigation/Complaint.md"
+    "John-Doe-MVA-01-01-2025/Litigation/Complaint.md"
 )
 
 if result["status"] == "success":

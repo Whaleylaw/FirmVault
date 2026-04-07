@@ -1,5 +1,7 @@
 # PIP Waterfall Tool Usage
 
+> **⚠️ Stale references below.** This file may contain references to FalkorDB, `${ROSCOE_ROOT}`, or per-case JSON files (`overview.json`, `contacts.json`, etc.). The Obsidian vault is now the only source of truth — see `../../../DATA_CONTRACT.md`. Stale references are being rewritten incrementally.
+
 ## pip_waterfall.py
 
 **Location**: `tools/pip_waterfall.py`

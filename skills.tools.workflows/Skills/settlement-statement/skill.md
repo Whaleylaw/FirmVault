@@ -104,10 +104,10 @@ import shutil
 from pathlib import Path
 
 # Copy template to output location
-templates_dir = Path("${ROSCOE_ROOT}/templates")
+templates_dir = Path("templates")
 project = "John-Doe-MVA-01-01-2025"
 
-dest_folder = Path(f"${ROSCOE_ROOT}/{project}/Documents/Settlement")
+dest_folder = Path(f"{project}/Documents/Settlement")
 dest_folder.mkdir(parents=True, exist_ok=True)
 
 shutil.copy(
@@ -117,11 +117,11 @@ shutil.copy(
 
 # Generate document
 import sys
-sys.path.insert(0, "${ROSCOE_ROOT}/Tools/document_generation")
+sys.path.insert(0, "Tools/document_generation")
 from generate_document import generate_document
 
 result = generate_document(
-    f"${ROSCOE_ROOT}/{project}/Documents/Settlement/Settlement_Statement.md"
+    f"{project}/Documents/Settlement/Settlement_Statement.md"
 )
 ```
 

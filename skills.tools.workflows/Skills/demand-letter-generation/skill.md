@@ -68,12 +68,12 @@ from pathlib import Path
 from datetime import datetime
 
 # Source template
-templates_dir = Path("${ROSCOE_ROOT}/templates")
+templates_dir = Path("templates")
 demand_template = templates_dir / "demand_template.md"
 
 # Destination
 project = "John-Doe-MVA-01-01-2025"
-dest_folder = Path(f"${ROSCOE_ROOT}/{project}/Documents/Demand")
+dest_folder = Path(f"{project}/Documents/Demand")
 dest_folder.mkdir(parents=True, exist_ok=True)
 
 # Copy with descriptive name
@@ -134,8 +134,8 @@ demand_amount: "$50,000.00"
 ### Step 3: Generate Document
 
 ```bash
-python ${ROSCOE_ROOT}/Tools/document_generation/generate_document.py \
-    "${ROSCOE_ROOT}/John-Doe-MVA-01-01-2025/Documents/Demand/demand_draft_2025-01-15.md" \
+python Tools/document_generation/generate_document.py \
+    "John-Doe-MVA-01-01-2025/Documents/Demand/demand_draft_2025-01-15.md" \
     --pretty
 ```
 
@@ -143,11 +143,11 @@ python ${ROSCOE_ROOT}/Tools/document_generation/generate_document.py \
 
 ```python
 import sys
-sys.path.insert(0, "${ROSCOE_ROOT}/Tools/document_generation")
+sys.path.insert(0, "Tools/document_generation")
 from generate_document import generate_document
 
 result = generate_document(
-    "${ROSCOE_ROOT}/John-Doe-MVA-01-01-2025/Documents/Demand/demand_draft_2025-01-15.md"
+    "John-Doe-MVA-01-01-2025/Documents/Demand/demand_draft_2025-01-15.md"
 )
 
 if result["status"] == "success":

@@ -118,7 +118,7 @@ Skills provide specific agent instructions for:
 All templates in this library use the unified document generation system:
 
 ```bash
-python ${ROSCOE_ROOT}/Tools/document_generation/generate_document.py \
+python Tools/document_generation/generate_document.py \
     "/{project}/Litigation/Discovery/Deposition_Notice.md"
 ```
 

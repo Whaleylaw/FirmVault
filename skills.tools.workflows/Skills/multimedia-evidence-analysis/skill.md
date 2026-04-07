@@ -1,5 +1,7 @@
 # Multimedia Evidence Analysis Skill
 
+> **⚠️ Stale references below.** This file may contain references to FalkorDB, `${ROSCOE_ROOT}`, or per-case JSON files (`overview.json`, `contacts.json`, etc.). The Obsidian vault is now the only source of truth — see `../../../DATA_CONTRACT.md`. Stale references are being rewritten incrementally.
+
 **FOR MULTIMODAL SUB-AGENT (Gemini 3 Pro)**
 
 This skill provides complete instructions for analyzing audio and video evidence WITH full case context to deliver attorney-ready analysis with transcription, speaker identification, and legal insights.

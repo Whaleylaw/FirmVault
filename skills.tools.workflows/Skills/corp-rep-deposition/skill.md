@@ -166,7 +166,7 @@ cp "/path/to/deposition_library/templates/notices/notice_corp_rep.md" \
 
 # Agent fills topics
 # Generate DOCX/PDF
-python ${ROSCOE_ROOT}/Tools/document_generation/generate_document.py \
+python Tools/document_generation/generate_document.py \
     "/{project}/Litigation/Discovery/Corp_Rep_Notice.md"
 ```
 

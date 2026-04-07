@@ -1,3 +1,5 @@
+> **⚠️ Stale references below.** This file may contain references to FalkorDB, `${ROSCOE_ROOT}`, or per-case JSON files (`overview.json`, `contacts.json`, etc.). The Obsidian vault is now the only source of truth — see `../../../DATA_CONTRACT.md`. Stale references are being rewritten incrementally.
+
 ---
 name: lor-generator
 description: >
@@ -65,7 +67,7 @@ import json
 from pathlib import Path
 
 project = "John-Doe-MVA-01-01-2025"
-case_info = Path(f"${ROSCOE_ROOT}/{project}/Case Information")
+case_info = Path(f"{project}/Case Information")
 
 with open(case_info / "insurance.json") as f:
     insurance_data = json.load(f)
@@ -81,7 +83,7 @@ import shutil
 from pathlib import Path
 
 # Source templates
-templates_dir = Path("${ROSCOE_ROOT}/templates")
+templates_dir = Path("templates")
 bi_template = templates_dir / "2022 Whaley LOR to BI Adjuster(1)(1)(1) (1).docx"
 pip_template = templates_dir / "2022 Whaley LOR to PIP Adjuster(1)(1) (1).docx"
 
@@ -89,7 +91,7 @@ pip_template = templates_dir / "2022 Whaley LOR to PIP Adjuster(1)(1) (1).docx"
 project = "John-Doe-MVA-01-01-2025"
 insurance_company = "State Farm"  # From insurance.json
 
-dest_folder = Path(f"${ROSCOE_ROOT}/{project}/Insurance/{insurance_company}")
+dest_folder = Path(f"{project}/Insurance/{insurance_company}")
 dest_folder.mkdir(parents=True, exist_ok=True)
 
 # Copy template to destination
@@ -107,8 +109,8 @@ shutil.copy(pip_template, dest_folder / "LOR to PIP Adjuster.docx")
 # - Context type: Insurance
 # - Insurance company: State Farm
 
-python ${ROSCOE_ROOT}/Tools/document_generation/generate_document.py \
-    "${ROSCOE_ROOT}/John-Doe-MVA-01-01-2025/Insurance/State Farm/LOR to BI Adjuster.docx" \
+python Tools/document_generation/generate_document.py \
+    "John-Doe-MVA-01-01-2025/Insurance/State Farm/LOR to BI Adjuster.docx" \
     --pretty
 ```
 
@@ -116,11 +118,11 @@ python ${ROSCOE_ROOT}/Tools/document_generation/generate_document.py \
 
 ```python
 import sys
-sys.path.insert(0, "${ROSCOE_ROOT}/Tools/document_generation")
+sys.path.insert(0, "Tools/document_generation")
 from generate_document import generate_document
 
 result = generate_document(
-    "${ROSCOE_ROOT}/John-Doe-MVA-01-01-2025/Insurance/State Farm/LOR to BI Adjuster.docx"
+    "John-Doe-MVA-01-01-2025/Insurance/State Farm/LOR to BI Adjuster.docx"
 )
 
 if result["status"] == "success":

@@ -61,12 +61,12 @@ Plan and conduct CR 30.02(6) corporate representative depositions to bind corpor
 **Document Generation Pattern:**
 ```bash
 # Copy notice template
-cp "${ROSCOE_ROOT}/workflows/phase_7_litigation/subphases/7_2_discovery/deposition_library/templates/notices/notice_corp_rep.md" \
+cp "workflows/phase_7_litigation/subphases/7_2_discovery/deposition_library/templates/notices/notice_corp_rep.md" \
    "/{project}/Litigation/Discovery/Corp_Rep_Notice.md"
 
 # Agent fills topics based on strategic goals
 # Generate DOCX/PDF
-python ${ROSCOE_ROOT}/Tools/document_generation/generate_document.py \
+python Tools/document_generation/generate_document.py \
     "/{project}/Litigation/Discovery/Corp_Rep_Notice.md"
 ```
 
@@ -98,7 +98,7 @@ python ${ROSCOE_ROOT}/Tools/document_generation/generate_document.py \
 
 **Copy Template:**
 ```bash
-cp "${ROSCOE_ROOT}/workflows/phase_7_litigation/subphases/7_2_discovery/deposition_library/templates/outlines/outline_corp_rep.md" \
+cp "workflows/phase_7_litigation/subphases/7_2_discovery/deposition_library/templates/outlines/outline_corp_rep.md" \
    "/{project}/Litigation/Discovery/Corp_Rep_Outline.md"
 ```
 
