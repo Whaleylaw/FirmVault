@@ -1,10 +1,12 @@
 ---
 name: rules-based-examination
 description: >
-  Conduct rules-based deposition examinations that establish general safety
-  principles before applying to case facts. Use for individual party depositions
-  and fact witnesses to create foundation for closing argument by getting agreement
-  to undeniable rules, then showing violations. Includes closing gambit technique.
+  Structure a deposition or trial cross around safety rules the witness must
+  agree with before being confronted with the case facts. Establish the rule
+  in the abstract, lock agreement, then apply to the conduct at issue. Use
+  for individual adverse parties, fact witnesses, and corporate designees at
+  deposition; also the scaffolding for cross at trial. Referenced by
+  `deposition-strategy` as the cross-cutting examination playbook.
 allowed-tools:
   - Read
   - Edit
@@ -13,227 +15,102 @@ allowed-tools:
   - Grep
 ---
 
-# Rules-Based Examination Skill
+# Rules-Based Examination
 
-## Overview
+A pattern, not a full workflow: **rule → agreement → fact → impeach if needed**. Get the witness to agree with a safety principle in the abstract ("a driver must keep a proper lookout at all times"), then show the conduct that violated it. By the time the facts come out, disagreement would cost the witness credibility, not the principle.
 
-Conduct depositions using the rules-based framework: establish general principles first, then apply to case facts.
+## When to use
 
-## When to Use
+- Deposing an individual adverse party or fact witness
+- Cross-examining a non-expert at trial
+- Framing a corporate representative deposition (combines with `deposition-strategy` §Corp Rep)
 
-Use when:
-- Deposing individual adverse party
-- Deposing fact witnesses
-- Need to establish safety standards
-- Building closing argument foundation
+For expert cross, the same pattern applies but the rules come from literature and methodology — use `cross-examination` for expert-specific technique.
 
-DO NOT use for:
-- Corporate depositions (use `corp-rep-deposition`)
-- Expert depositions (use `expert-deposition`)
-- Defending client depositions (use `deposition-defense`)
+## The four-part rule test
 
-## Core Concept
+Every rule you plan to use must be:
 
-### Traditional (Less Effective)
-1. Ask about facts
-2. Ask about policies
-3. Hope for admission
+1. **Understandable** — plain English, no jargon
+2. **Undeniable** — a reasonable person can't disagree without looking reckless
+3. **Violated** — you can prove the defendant broke it
+4. **Important** — it ties to the client's harm
 
-### Rules-Based (More Effective)
-1. Establish rules **in a vacuum**
-2. Get agreement to common sense
-3. **Then** apply to facts
-4. Witness trapped by prior agreements
+## Rule sources
+
+| Source | Examples |
+|---|---|
+| Statutes | KRS 189 (traffic), KRS 411 (premises), OSHA regs |
+| Regulations | FMCSA for trucking, CMS for nursing facilities |
+| Industry standards | ANSI, NFPA, professional society guidelines |
+| Defendant's own materials | Employee handbook, training slides, internal policies |
+| Pattern jury instructions | The jury will hear these at the end — match their phrasing |
+| Common sense | "Slower is safer around schoolchildren" |
+
+Frame every rule as a mandatory duty: convert "should" to "must," use active voice, keep the sentence short.
 
 ## Workflow
 
-```mermaid
-graph TD
-    Start[Identify Case Rules] --> Catalog[Catalog by Source]
-    Catalog --> Draft[Draft Question Sequences]
-    Draft --> Outline[Prepare Outline]
-    Outline --> Depo[Conduct Deposition]
-    Depo --> Extract[Extract Established Rules]
-```
+1. **Build the rule inventory.** Read `cases/<slug>/<slug>.md` and the discovery in `cases/<slug>/documents/`. For each element of negligence you must prove, list 3–5 candidate rules sourced from the table above. Drop any that fail the four-part test.
+2. **Sequence from abstract to specific.** Start with the rule as universal principle, narrow to the defendant's role, narrow again to the circumstances at issue. Keep the facts of this case out of the first pass — you want agreement before confrontation.
+3. **Draft the outline.** Use [`local-templates/outline-rules-based.md`](local-templates/outline-rules-based.md) as the starting structure. Save the filled outline to `cases/<slug>/documents/depositions/<deponent-slug>-outline-<YYYY-MM-DD>.md`.
+4. **Prepare impeachment exhibits.** For each rule, pre-mark the source (the statute page, the handbook excerpt, the training slide) so you can confront immediately if the witness wavers.
+5. **Take the examination.** Rules first, then policies/training, then apply to the facts. End with the closing gambit (below).
+6. **Extract after.** When the transcript arrives, pull each rule question and the verbatim answer into `cases/<slug>/documents/depositions/<deponent-slug>-rule-log.md`. Classify each as agreement, disagreement, or evasion.
 
-## Phase 1: Rule Discovery
-
-### Authoritative Sources
-
-| Source | Examples |
-|--------|----------|
-| Statutes | KRS Chapter 189 (traffic) |
-| Regulations | FMCSA, OSHA |
-| Case Law | Jury instructions |
-| Defendant's Policies | Employee handbooks |
-| Industry Standards | Best practices |
-| Common Sense | Universal principles |
-
-### Four-Part Test
-
-Every rule must be:
-1. **Understandable** - Plain language
-2. **Undeniable** - Disagreement damages credibility
-3. **Violated** - Clear evidence of breach
-4. **Important** - Linked to client's harm
-
-**See:** `references/rules_framework/rule_discovery.md`
-
-## Phase 2: Rule Inventory
-
-### Template
-
-| Rule ID | Rule Text | Source | Violation Evidence |
-|---------|-----------|--------|-------------------|
-| R-001 | [Plain language rule] | [Source] | [Evidence] |
-
-### Framing Rules
-
-- Convert "should" to "must"
-- Use active voice
-- Keep simple
-- State as affirmative duty
-
-## Phase 3: Question Drafting
-
-### Framework
+## Question pattern
 
 ```
-Q. [General principle statement]. Do you agree with that?
-Q. [More specific application]. Do you agree?
-Q. [Connect to defendant's duty]. Do you agree?
-Q. Would violation of this rule be [careless/reckless/dangerous]?
+Q. A [role] must [rule], correct?
+Q. That's because [reason tied to safety/harm], right?
+Q. Violating that rule would be [careless → negligent → reckless → dangerous]?
+Q. You were trained on that rule, weren't you?
 ```
 
-### Escalation Words
+Escalate the adjective only after the witness has agreed with the milder form — each yes raises the stakes.
 
-Progress from less to more severe:
-1. Careless
-2. Negligent
-3. Reckless
-4. Dangerous
+## The closing gambit
 
-**See:** `references/rules_framework/question_frameworks.md` for case-type examples.
-
-## Phase 4: Deposition Outline
-
-Use template: `templates/outlines/outline_rules_based.md`
-
-### Structure
-
-1. **Background** (brief)
-2. **Rules Establishment** (BEFORE facts)
-3. **Company Policies/Training**
-4. **Application to Case Facts**
-5. **Prior Incidents/Notice**
-6. **Closing Gambit**
-
-## Closing Gambit
-
-**Critical final technique:**
+Save for the end, after rules are locked and facts are in:
 
 ```
 Q. Looking back at this incident, were any mistakes made?
 
-[IF YES:]
-Q. What mistakes were made?
-Q. Why did those mistakes happen?
-Q. What has been done to prevent this from happening again?
+[If YES:]
+Q. What mistakes?
+Q. Why did they happen?
+Q. What's been done to prevent it from happening again?
 
-[IF NO:]
-Q. So your conduct was exactly as expected and trained?
-Q. If you had to do it all over again, you would do nothing different?
-Q. The company's procedures were followed exactly as designed?
-Q. And this [injury/accident] still occurred?
+[If NO:]
+Q. So your conduct was exactly as trained and expected?
+Q. If you had to do it over, you'd do nothing different?
+Q. The procedures were followed exactly as designed?
+Q. And this injury still happened?
 ```
 
-### Strategic Value
+Either answer is usable: mistakes acknowledged is a fault admission; no mistakes makes the incident look like business-as-usual for the defendant.
 
-- **Mistakes acknowledged** → Admission of fault
-- **No mistakes** → Conduct was intentional; powerful closing argument
+## Objection responses
 
-## Handling Objections
-
-### "Calls for Legal Opinion"
-
-> "I'm asking about agreed-upon standards, customs, guidelines, or principles in [their industry/profession]."
-
-### "Calls for Speculation"
-
-> "I'm asking about the witness's understanding of [safety standards/company policy]."
-
-## Phase 5: Post-Deposition Extraction
-
-### Capture for Each Rule
-
-| Field | Data |
-|-------|------|
-| Rule ID | R-001 |
-| Rule Text | Exact verbatim |
-| Witness Response | Exact verbatim |
-| Classification | Agreement/Disagreement/Evasion |
-| Page:Line | Citation |
-
-### Classification Impact
-
-- **Agreement** → Summary judgment support
-- **Disagreement** → Credibility argument
-- **Evasion** → Impeachment opportunity
-
-**See:** `references/rules_framework/transcript_extraction.md`
+- **"Calls for a legal opinion"** — "I'm asking about agreed-upon standards and guidelines in the witness's own industry, not the law."
+- **"Calls for speculation"** — "I'm asking about the witness's training and understanding of the rule."
+- **"Compound"** — break it into two questions and proceed.
 
 ## Outputs
 
-### Pre-Deposition
-- Rule inventory table
-- Deposition outline with question sequences
-- Objection response scripts
+- Rule inventory as a markdown table inside the outline file
+- Outline document at `cases/<slug>/documents/depositions/<deponent-slug>-outline-<YYYY-MM-DD>.md`
+- Pre-marked impeachment exhibits in `cases/<slug>/documents/depositions/<deponent-slug>-exhibits/`
+- Post-transcript rule log at `cases/<slug>/documents/depositions/<deponent-slug>-rule-log.md`
+- Activity log entries for outline prep and depo-taken milestones
+- Supports landmarks `discovery_completed` (Phase 7) and feeds `trial_or_settlement`
 
-### Post-Deposition
-- Rule annotation log with citations
-- Closing gambit result
-- Trial preparation memo
-- Closing argument framework
+## Local templates
 
-## Document Generation
+- [`local-templates/outline-rules-based.md`](local-templates/outline-rules-based.md) — scaffold for the rules-before-facts outline
 
-```bash
-# Copy outline template
-cp "/path/to/deposition_library/templates/outlines/outline_rules_based.md" \
-   "/{project}/Litigation/Discovery/Depo_Outline_[Witness].md"
+## What this skill does NOT do
 
-# Agent fills rules and questions
-```
-
-## Case-Type Quick Reference
-
-| Case Type | Key Rules Focus |
-|-----------|-----------------|
-| MVA | Lookout, speed, stop signs, yielding |
-| Premises | Inspection, warnings, floor safety |
-| Trucking | Hours, qualifications, pre-trip |
-| Nursing Home | Falls, call response, documentation |
-| DUI | Impairment, traffic laws, recklessness |
-
-## Quality Checklist
-
-- [ ] Rules meet all four criteria
-- [ ] Rules sourced from authoritative materials
-- [ ] Rules framed as mandatory ("must")
-- [ ] Questions in plain language
-- [ ] Outline follows rules-before-facts structure
-- [ ] Closing gambit prepared
-- [ ] Extraction template ready
-
-## References
-
-- `references/rules_framework/rule_discovery.md`
-- `references/rules_framework/question_frameworks.md`
-- `references/rules_framework/transcript_extraction.md`
-
-## Related Skills
-
-- `corp-rep-deposition` - For corporate depositions
-- `expert-deposition` - For defense expert depositions
-- `deposition-defense` - For defending client depositions
-
+- **Defending the client's deposition** — see `deposition-prep`.
+- **Corporate-rep topic drafting** — see `deposition-strategy` §Corp Rep.
+- **Cross-examining defense experts** — see `cross-examination` (expert cross has its own structure around methodology and bias).
