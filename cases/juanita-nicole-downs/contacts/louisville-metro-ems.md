@@ -1,11 +1,18 @@
 ---
 schema_version: 2
+case_number: 2021-04-16-MVA-002
+tags: [contact/medical-provider/doctor]
 directory_id: louisville-metro-ems
 master_card: "[[Contacts/Medical/louisville-metro-ems]]"
-case_number: 2021-04-16-MVA-002
 case_link: "[[cases/juanita-nicole-downs/juanita-nicole-downs]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: true
+records_received: false
+bills_requested: true
+bills_received: false
+treatment_status: 
+records_requested_date: "2023-03-30"
+bills_requested_date: "2023-03-30"
 ---
 
 # Louisville Metro EMS

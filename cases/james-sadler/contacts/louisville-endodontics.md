@@ -1,11 +1,20 @@
 ---
 schema_version: 2
+case_number: 2023-04-07-MVA-001
+tags: [contact/medical-provider/doctor]
 directory_id: 3b0847a7-5728-4ea0-b442-5385d5d89d44
 master_card: "[[Contacts/Medical/louisville-endodontics]]"
-case_number: 2023-04-07-MVA-001
 case_link: "[[cases/james-sadler/james-sadler]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: true
+records_received: true
+bills_requested: true
+bills_received: true
+treatment_status: Treatment Complete
+records_requested_date: "2023-11-06"
+records_received_date: "2023-11-09"
+bills_requested_date: "2023-11-06"
+bills_received_date: "2023-11-09"
 ---
 
 # Louisville Endodontics

@@ -1,10 +1,15 @@
 ---
 schema_version: 2
+tags: [contact/medical-provider]
 directory_id: 11836cb3-7a00-4c88-95da-eb6921342a6a
 master_card: "[[Contacts/Medical/ortho-louisville]]"
 case_link: "[[cases/mohamad-daud-shaheen/mohamad-daud-shaheen]]"
 role: treating_provider
-tags: [contact/medical-provider]
+records_requested: false
+records_received: false
+bills_requested: false
+bills_received: false
+treatment_status: Actively Treating
 ---
 
 # Ortho Louisville

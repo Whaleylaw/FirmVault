@@ -1,10 +1,17 @@
 ---
 schema_version: 2
+tags: [contact/medical-provider]
 directory_id: ec31f327-c94d-4739-858e-e4aa18e09f2d
 master_card: "[[Contacts/Medical/uofl-health-mary-and-elizabeth-mary-and-elizabeth-hospital]]"
 case_link: "[[cases/cecil-finley/cecil-finley]]"
 role: treating_provider
-tags: [contact/medical-provider]
+records_requested: false
+records_received: true
+bills_requested: true
+bills_received: false
+treatment_status: Treatment Complete
+records_received_date: "2024-09-27"
+bills_requested_date: "2024-08-30"
 ---
 
 # UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital

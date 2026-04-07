@@ -1,10 +1,17 @@
 ---
 schema_version: 2
+tags: [contact/medical-provider]
 directory_id: 35f9695a-836c-4840-89ff-8ec71fd4319a
 master_card: "[[Contacts/Medical/danville-orthopaedic-and-sports-medicine]]"
 case_link: "[[cases/caryn-mccay/caryn-mccay]]"
 role: treating_provider
-tags: [contact/medical-provider]
+records_requested: true
+records_received: false
+bills_requested: true
+bills_received: false
+treatment_status: No Records Found
+records_requested_date: "2024-01-29"
+bills_requested_date: "2024-01-29"
 ---
 
 # Danville Orthopaedic & Sports Medicine

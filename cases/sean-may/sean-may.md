@@ -4,8 +4,24 @@ case_id: da54781b-9cf6-4e8f-b512-76a051ce4704
 case_number: 2025-08-19-MVA-002
 client_name: Sean May
 case_type: auto_accident
-status: onboarding
+status: demand
 date_of_incident: "2025-08-19"
+landmarks:
+  accident_report_obtained: true
+  all_bills_received: false
+  all_records_received: false
+  attorney_approved_demand: false
+  bills_requested_all_providers: false
+  client_info_received: true
+  contract_signed: true
+  demand_drafted: false
+  demand_sent: false
+  full_intake_complete: true
+  insurance_claims_setup: true
+  medical_auth_signed: true
+  providers_setup: true
+  records_requested_all_providers: false
+  treatment_complete: true
 ---
 
 # Sean May — auto accident 2025-08-19

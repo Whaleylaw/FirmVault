@@ -1,11 +1,19 @@
 ---
 schema_version: 2
+case_number: 2025-03-15-MVA-001
+tags: [contact/medical-provider/doctor]
 directory_id: university-of-louisville-hospital
 master_card: "[[Contacts/Medical/university-of-louisville-hospital]]"
-case_number: 2025-03-15-MVA-001
 case_link: "[[cases/jaysha-aponte/jaysha-aponte]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: false
+records_received: true
+bills_requested: true
+bills_received: true
+treatment_status: Treatment Complete
+records_received_date: "2025-04-16"
+bills_requested_date: "2025-03-17"
+bills_received_date: "2025-04-16"
 ---
 
 # University of Louisville Hospital

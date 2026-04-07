@@ -6,6 +6,22 @@ client_name: Robyn Hester
 case_type: wrongful_death
 status: litigation
 date_of_incident: "2022-02-23"
+landmarks:
+  accident_report_obtained: false
+  all_bills_received: false
+  all_records_received: false
+  attorney_approved_demand: false
+  bills_requested_all_providers: false
+  client_info_received: true
+  contract_signed: true
+  demand_drafted: false
+  demand_sent: false
+  full_intake_complete: true
+  insurance_claims_setup: true
+  medical_auth_signed: true
+  providers_setup: false
+  records_requested_all_providers: false
+  treatment_complete: false
 ---
 
 # Robyn Hester — wrongful death 2022-02-23

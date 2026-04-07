@@ -4,8 +4,24 @@ case_id: 0cfcc3e5-bb02-404c-82e7-35c13c5921c7
 case_number: 2025-12-21-MVA-001
 client_name: Deanna Scott
 case_type: auto_accident
-status: onboarding
+status: treatment
 date_of_incident: "2025-12-21"
+landmarks:
+  accident_report_obtained: false
+  all_bills_received: false
+  all_records_received: false
+  attorney_approved_demand: false
+  bills_requested_all_providers: false
+  client_info_received: true
+  contract_signed: true
+  demand_drafted: false
+  demand_sent: false
+  full_intake_complete: true
+  insurance_claims_setup: true
+  medical_auth_signed: true
+  providers_setup: true
+  records_requested_all_providers: false
+  treatment_complete: false
 ---
 
 # Deanna Scott — auto accident 2025-12-21

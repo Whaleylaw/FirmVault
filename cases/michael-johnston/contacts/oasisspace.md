@@ -1,11 +1,18 @@
 ---
 schema_version: 2
+case_number: 2023-05-03-OTH-001
+tags: [contact/medical-provider/doctor]
 directory_id: c42cca8f-bdee-43b3-9978-ff0888577ab7
 master_card: "[[Contacts/Medical/oasisspace]]"
-case_number: 2023-05-03-OTH-001
 case_link: "[[cases/michael-johnston/michael-johnston]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: true
+records_received: false
+bills_requested: true
+bills_received: false
+treatment_status: Treatment Complete
+records_requested_date: "2024-04-02"
+bills_requested_date: "2024-04-02"
 ---
 
 # OasisSpace

@@ -1,10 +1,15 @@
 ---
 schema_version: 2
+tags: [contact/medical-provider]
 directory_id: ba45e726-9087-46f7-a0d7-56c49f30aa32
 master_card: "[[Contacts/Medical/uofl-health-mary-and-elizabeth-mary-and-elizabeth-hospital]]"
 case_link: "[[cases/lindsey-dunn/lindsey-dunn]]"
 role: treating_provider
-tags: [contact/medical-provider]
+records_requested: false
+records_received: false
+bills_requested: false
+bills_received: false
+treatment_status: Treatment Complete
 ---
 
 # UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital

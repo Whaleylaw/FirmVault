@@ -4,8 +4,24 @@ case_id: 0e3b89cc-0c5a-4735-9d32-1a0f180089d8
 case_number: 2021-06-10-MVA-001
 client_name: Clarence Robinson
 case_type: auto_accident
-status: onboarding
+status: treatment
 date_of_incident: "2021-06-10"
+landmarks:
+  accident_report_obtained: false
+  all_bills_received: false
+  all_records_received: false
+  attorney_approved_demand: false
+  bills_requested_all_providers: false
+  client_info_received: true
+  contract_signed: true
+  demand_drafted: false
+  demand_sent: false
+  full_intake_complete: true
+  insurance_claims_setup: true
+  medical_auth_signed: true
+  providers_setup: true
+  records_requested_all_providers: false
+  treatment_complete: false
 ---
 
 # Clarence Robinson — auto accident 2021-06-10

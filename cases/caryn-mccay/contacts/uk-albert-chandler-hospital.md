@@ -1,11 +1,18 @@
 ---
 schema_version: 2
+case_number: 2023-07-30-MVA-001
+tags: [contact/medical-provider/doctor]
 directory_id: uk-albert-chandler-hospital
 master_card: "[[Contacts/Medical/uk-albert-chandler-hospital]]"
-case_number: 2023-07-30-MVA-001
 case_link: "[[cases/caryn-mccay/caryn-mccay]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: false
+records_received: true
+bills_requested: false
+bills_received: true
+treatment_status: Treatment Complete
+records_received_date: "2023-10-06"
+bills_received_date: "2023-09-28"
 ---
 
 # UK Albert Chandler Hospital

@@ -1,11 +1,16 @@
 ---
 schema_version: 2
+case_number: 2025-02-07-OTH-001
+tags: [contact/medical-provider/doctor]
 directory_id: advanced-injury-rehab
 master_card: "[[Contacts/Medical/advanced-injury-rehab]]"
-case_number: 2025-02-07-OTH-001
 case_link: "[[cases/shannon-lankswert/shannon-lankswert]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: false
+records_received: false
+bills_requested: false
+bills_received: false
+treatment_status: Treatment Complete
 ---
 
 # Advanced Injury Rehab

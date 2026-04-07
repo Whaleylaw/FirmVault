@@ -26,7 +26,21 @@ Use Glob to enumerate `cases/*/` directories. For each, read `cases/<slug>/<slug
 
 ### Step 2 — For each case, determine the current phase
 
-The phase is `case.frontmatter.status`. Cross-check against PHASE_DAG.yaml to confirm the phase exists. If the case is mid-transition (a transition `when` clause has fired) and the new phase has not yet been written to the case file, write it now and commit:
+The phase comes from `case.frontmatter.status`. The status vocabulary in DATA_CONTRACT.md uses bare names; PHASE_DAG.yaml keys use `phase_<n>_<name>`. Map between them by prefixing — `status: treatment` → `phase_2_treatment`. Full table:
+
+| `status` value | PHASE_DAG key |
+|---|---|
+| `onboarding` (or legacy `intake`) | `phase_0_onboarding` |
+| `file_setup` | `phase_1_file_setup` |
+| `treatment` | `phase_2_treatment` |
+| `demand` | `phase_3_demand` |
+| `negotiation` | `phase_4_negotiation` |
+| `settlement` | `phase_5_settlement` |
+| `lien` | `phase_6_lien` |
+| `litigation` | `phase_7_litigation` |
+| `closed` | `phase_8_closed` |
+
+If the case is mid-transition (a transition `when` clause has fired and the new phase is now warranted) and the new phase has not yet been written to the case file, write it now and commit:
 
 ```
 task materializer: advance <slug> from <old_phase> to <new_phase>
@@ -34,7 +48,11 @@ task materializer: advance <slug> from <old_phase> to <new_phase>
 
 ### Step 3 — Evaluate landmarks for the current phase
 
-For each landmark defined in PHASE_DAG.yaml under the case's current phase, evaluate the `condition` predicate against the case state by reading the relevant vault files. Predicate vocabulary is documented at the top of PHASE_DAG.yaml.
+For each landmark defined in PHASE_DAG.yaml under the case's current phase, determine whether it is satisfied:
+
+1. **Check `case.frontmatter.landmarks.<landmark_id>` first.** If it's set (true or false), use that value verbatim and skip predicate evaluation. The `landmarks:` map is the authoritative cache, populated initially by `runtime/scripts/backfill_landmarks.py` and updated by workers as they complete tasks.
+2. **Fall back to the predicate** only when the key is missing from the landmarks map. Evaluate the `condition` predicate against the case state by reading the relevant vault files. Predicate vocabulary is documented at the top of PHASE_DAG.yaml.
+3. **When you compute a fresh value via predicate**, write it back to the `landmarks:` map in the case frontmatter as a side-effect of the same materializer commit. This caches the result so the next run is cheaper and so workers can read landmark state without re-deriving it.
 
 A landmark is one of:
 

@@ -1,10 +1,19 @@
 ---
 schema_version: 2
+tags: [contact/medical-provider]
 directory_id: 8a06a91e-4bc7-4c2b-88a5-5c0eb84150de
 master_card: "[[Contacts/Medical/lexington-fire-and-ems]]"
 case_link: "[[cases/caryn-mccay/caryn-mccay]]"
 role: treating_provider
-tags: [contact/medical-provider]
+records_requested: true
+records_received: true
+bills_requested: true
+bills_received: true
+treatment_status: Treatment Complete
+records_requested_date: "2023-10-12"
+records_received_date: "2023-10-20"
+bills_requested_date: "2023-10-12"
+bills_received_date: "2023-10-20"
 ---
 
 # Lexington Fire & EMS

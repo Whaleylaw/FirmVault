@@ -4,8 +4,24 @@ case_id: eb5b4e88-2d7a-4571-b4b2-9133a6bb80c8
 case_number: 2023-02-05-MVA-001
 client_name: Curtis Lee Justice
 case_type: auto_accident
-status: onboarding
+status: demand
 date_of_incident: "2023-02-05"
+landmarks:
+  accident_report_obtained: false
+  all_bills_received: true
+  all_records_received: false
+  attorney_approved_demand: false
+  bills_requested_all_providers: true
+  client_info_received: true
+  contract_signed: true
+  demand_drafted: false
+  demand_sent: false
+  full_intake_complete: true
+  insurance_claims_setup: true
+  medical_auth_signed: true
+  providers_setup: true
+  records_requested_all_providers: false
+  treatment_complete: true
 ---
 
 # Curtis Lee Justice — auto accident 2023-02-05

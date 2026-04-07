@@ -1,11 +1,18 @@
 ---
 schema_version: 2
+case_number: 2023-08-29-MVA-001
+tags: [contact/medical-provider/doctor]
 directory_id: university-of-louisville-hospital
 master_card: "[[Contacts/Medical/university-of-louisville-hospital]]"
-case_number: 2023-08-29-MVA-001
 case_link: "[[cases/ashlee-williams/ashlee-williams]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: true
+records_received: false
+bills_requested: true
+bills_received: false
+treatment_status: Treatment Complete
+records_requested_date: "2024-12-23"
+bills_requested_date: "2024-11-26"
 ---
 
 # University of Louisville Hospital

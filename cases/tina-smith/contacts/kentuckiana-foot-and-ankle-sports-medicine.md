@@ -1,10 +1,15 @@
 ---
 schema_version: 2
+tags: [contact/medical-provider]
 directory_id: f5e88f29-a183-4ce0-a6d0-c6bbaf68e6f5
 master_card: "[[Contacts/Medical/kentuckiana-foot-and-ankle-sports-medicine]]"
 case_link: "[[cases/tina-smith/tina-smith]]"
 role: treating_provider
-tags: [contact/medical-provider]
+records_requested: false
+records_received: false
+bills_requested: false
+bills_received: false
+treatment_status: Treatment Complete
 ---
 
 # Kentuckiana Foot & Ankle Sports Medicine

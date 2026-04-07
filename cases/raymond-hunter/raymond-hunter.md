@@ -4,8 +4,24 @@ case_id: 40824364-a437-4d79-977b-269be20d1bac
 case_number: 2025-12-18-OTH-001
 client_name: Raymond Hunter
 case_type: other
-status: onboarding
+status: demand
 date_of_incident: "2025-12-18"
+landmarks:
+  accident_report_obtained: false
+  all_bills_received: false
+  all_records_received: false
+  attorney_approved_demand: false
+  bills_requested_all_providers: true
+  client_info_received: true
+  contract_signed: true
+  demand_drafted: false
+  demand_sent: false
+  full_intake_complete: true
+  insurance_claims_setup: true
+  medical_auth_signed: true
+  providers_setup: true
+  records_requested_all_providers: true
+  treatment_complete: true
 ---
 
 # Raymond Hunter — other 2025-12-18

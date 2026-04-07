@@ -1,11 +1,18 @@
 ---
 schema_version: 2
+case_number: 2025-05-02-SF-001
+tags: [contact/medical-provider/doctor]
 directory_id: c90dc18e-242e-4c20-9887-107ffc3b5b9e
 master_card: "[[Contacts/Medical/lima-memorial-hospital]]"
-case_number: 2025-05-02-SF-001
 case_link: "[[cases/davis-robinson/davis-robinson]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: false
+records_received: true
+bills_requested: false
+bills_received: true
+treatment_status: Treatment Complete
+records_received_date: "2025-06-10"
+bills_received_date: "2025-06-10"
 ---
 
 # Lima Memorial Hospital

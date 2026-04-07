@@ -1,10 +1,17 @@
 ---
 schema_version: 2
+tags: [contact/medical-provider]
 directory_id: 4fa04463-e4e8-424d-a020-f4bbe3893854
 master_card: "[[Contacts/Medical/uofl-health-mary-and-elizabeth-mary-and-elizabeth-hospital]]"
 case_link: "[[cases/rayshawn-wilson/rayshawn-wilson]]"
 role: treating_provider
-tags: [contact/medical-provider]
+records_requested: true
+records_received: false
+bills_requested: true
+bills_received: false
+treatment_status: Treatment Complete
+records_requested_date: "2025-04-15"
+bills_requested_date: "2025-04-15"
 ---
 
 # UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital

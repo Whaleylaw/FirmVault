@@ -4,8 +4,24 @@ case_id: eedc6bfa-28b9-4190-96ef-48bda9c0696e
 case_number: 2025-08-06-MVA-002
 client_name: Joseph Ott
 case_type: auto_accident
-status: onboarding
+status: demand
 date_of_incident: "2025-08-06"
+landmarks:
+  accident_report_obtained: false
+  all_bills_received: false
+  all_records_received: false
+  attorney_approved_demand: false
+  bills_requested_all_providers: false
+  client_info_received: true
+  contract_signed: true
+  demand_drafted: false
+  demand_sent: false
+  full_intake_complete: true
+  insurance_claims_setup: true
+  medical_auth_signed: true
+  providers_setup: true
+  records_requested_all_providers: false
+  treatment_complete: true
 ---
 
 # Joseph Ott — auto accident 2025-08-06

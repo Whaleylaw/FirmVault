@@ -1,10 +1,17 @@
 ---
 schema_version: 2
+tags: [contact/medical-provider]
 directory_id: b0a4fc81-050f-4369-a22b-86ca8920dc95
 master_card: "[[Contacts/Medical/uofl-health-mary-and-elizabeth-mary-and-elizabeth-hospital]]"
 case_link: "[[cases/deanna-scott/deanna-scott]]"
 role: treating_provider
-tags: [contact/medical-provider]
+records_requested: true
+records_received: false
+bills_requested: true
+bills_received: false
+treatment_status: Treatment Complete
+records_requested_date: "2026-01-21"
+bills_requested_date: "2026-01-21"
 ---
 
 # UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital

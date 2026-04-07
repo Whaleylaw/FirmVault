@@ -1,10 +1,18 @@
 ---
 schema_version: 2
+tags: [contact/medical-provider]
 directory_id: 2449fcb2-0534-44c3-bc0d-9b58e7e350c8
 master_card: "[[Contacts/Medical/cardinal-hill-physical-medicine-and-rehabilitation]]"
 case_link: "[[cases/caryn-mccay/caryn-mccay]]"
 role: treating_provider
-tags: [contact/medical-provider]
+records_requested: true
+records_received: true
+bills_requested: true
+bills_received: false
+treatment_status: Treatment Complete
+records_requested_date: "2024-06-19"
+records_received_date: "2024-07-15"
+bills_requested_date: "2024-06-19"
 ---
 
 # Cardinal Hill Physical Medicine & Rehabilitation

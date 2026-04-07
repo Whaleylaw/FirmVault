@@ -6,6 +6,22 @@ client_name: Jimmy Ferguson
 case_type: auto_accident
 status: treatment
 date_of_incident: "2024-05-30"
+landmarks:
+  accident_report_obtained: true
+  all_bills_received: false
+  all_records_received: false
+  attorney_approved_demand: false
+  bills_requested_all_providers: false
+  client_info_received: true
+  contract_signed: true
+  demand_drafted: false
+  demand_sent: false
+  full_intake_complete: true
+  insurance_claims_setup: true
+  medical_auth_signed: true
+  providers_setup: true
+  records_requested_all_providers: false
+  treatment_complete: false
 ---
 
 # Jimmy Ferguson — auto accident 2024-05-30

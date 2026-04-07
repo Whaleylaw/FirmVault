@@ -1,10 +1,15 @@
 ---
 schema_version: 2
+tags: [contact/medical-provider]
 directory_id: ed7b54a4-f1d3-4973-b135-f260258f4f76
 master_card: "[[Contacts/Medical/norton-neurology-services-downtown]]"
 case_link: "[[cases/henrietta-jenkins/henrietta-jenkins]]"
 role: treating_provider
-tags: [contact/medical-provider]
+records_requested: false
+records_received: false
+bills_requested: false
+bills_received: false
+treatment_status: Actively Treating
 ---
 
 # Norton Neurology Services-Downtown

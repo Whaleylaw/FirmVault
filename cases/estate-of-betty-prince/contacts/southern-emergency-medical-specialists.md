@@ -1,11 +1,16 @@
 ---
 schema_version: 2
+case_number: 2020-07-14-PrL-001
+tags: [contact/medical-provider/doctor]
 directory_id: aafb1d49-0e59-4bee-a51c-b5bf324528bb
 master_card: "[[Contacts/Medical/southern-emergency-medical-specialists]]"
-case_number: 2020-07-14-PrL-001
 case_link: "[[cases/estate-of-betty-prince/estate-of-betty-prince]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: false
+records_received: false
+bills_requested: false
+bills_received: false
+treatment_status: Treatment Complete
 ---
 
 # Southern Emergency Medical Specialists

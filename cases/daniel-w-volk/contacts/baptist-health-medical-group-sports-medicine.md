@@ -1,11 +1,18 @@
 ---
 schema_version: 2
+case_number: 2021-09-24-MVA-001
+tags: [contact/medical-provider/doctor]
 directory_id: 143297ba-3902-406d-93c9-23dd3a209f2a
 master_card: "[[Contacts/Medical/baptist-health-medical-group-sports-medicine]]"
-case_number: 2021-09-24-MVA-001
 case_link: "[[cases/daniel-w-volk/daniel-w-volk]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: false
+records_received: true
+bills_requested: false
+bills_received: true
+treatment_status: Treatment Complete
+records_received_date: "2024-01-04"
+bills_received_date: "2024-01-04"
 ---
 
 # Baptist Health Medical Group Sports Medicine

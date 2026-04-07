@@ -1,11 +1,16 @@
 ---
 schema_version: 2
+case_number: 2024-05-30-MVA-001
+tags: [contact/medical-provider/doctor]
 directory_id: 5621d3ae-20ff-45a0-b347-3a5ad6b576cf
 master_card: "[[Contacts/Medical/legacy-healthcare]]"
-case_number: 2024-05-30-MVA-001
 case_link: "[[cases/jimmy-ferguson/jimmy-ferguson]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: false
+records_received: false
+bills_requested: false
+bills_received: false
+treatment_status: Treatment Complete
 ---
 
 # Legacy Healthcare

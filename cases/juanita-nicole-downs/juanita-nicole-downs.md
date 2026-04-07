@@ -4,8 +4,24 @@ case_id: c9a4d858-f5c3-424a-a7f7-a30343d9cea4
 case_number: 2021-04-16-MVA-002
 client_name: Juanita Nicole Downs
 case_type: auto_accident
-status: onboarding
+status: treatment
 date_of_incident: "2021-04-16"
+landmarks:
+  accident_report_obtained: false
+  all_bills_received: false
+  all_records_received: false
+  attorney_approved_demand: false
+  bills_requested_all_providers: false
+  client_info_received: true
+  contract_signed: true
+  demand_drafted: false
+  demand_sent: false
+  full_intake_complete: true
+  insurance_claims_setup: true
+  medical_auth_signed: true
+  providers_setup: true
+  records_requested_all_providers: false
+  treatment_complete: false
 ---
 
 # Juanita Nicole Downs — auto accident 2021-04-16

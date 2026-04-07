@@ -1,11 +1,20 @@
 ---
 schema_version: 2
+case_number: 2025-03-15-MVA-001
+tags: [contact/medical-provider/doctor]
 directory_id: 471da404-3786-4d38-9a2f-9c9d36c084e3
 master_card: "[[Contacts/Medical/east-broadway-family-health-center]]"
-case_number: 2025-03-15-MVA-001
 case_link: "[[cases/jaysha-aponte/jaysha-aponte]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: true
+records_received: true
+bills_requested: true
+bills_received: true
+treatment_status: Treatment Complete
+records_requested_date: "2026-01-12"
+records_received_date: "2026-01-14"
+bills_requested_date: "2026-01-12"
+bills_received_date: "2026-01-14"
 ---
 
 # East Broadway Family Health Center

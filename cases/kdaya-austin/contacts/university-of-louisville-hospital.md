@@ -1,11 +1,16 @@
 ---
 schema_version: 2
+case_number: kdaya-austin
+tags: [contact/medical-provider/doctor]
 directory_id: university-of-louisville-hospital
 master_card: "[[Contacts/Medical/university-of-louisville-hospital]]"
-case_number: kdaya-austin
 case_link: "[[cases/kdaya-austin/kdaya-austin]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: false
+records_received: false
+bills_requested: false
+bills_received: false
+treatment_status: Treatment Complete
 ---
 
 # University of Louisville Hospital

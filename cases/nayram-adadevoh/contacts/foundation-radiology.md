@@ -1,11 +1,18 @@
 ---
 schema_version: 2
+case_number: 2024-07-13-MVA-002
+tags: [contact/medical-provider/doctor]
 directory_id: 81e8a2e1-0a17-42f1-957f-a30ca3c616e8
 master_card: "[[Contacts/Medical/foundation-radiology]]"
-case_number: 2024-07-13-MVA-002
 case_link: "[[cases/nayram-adadevoh/nayram-adadevoh]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: false
+records_received: true
+bills_requested: false
+bills_received: true
+treatment_status: Treatment Complete
+records_received_date: "2025-03-26"
+bills_received_date: "2025-03-26"
 ---
 
 # Foundation Radiology

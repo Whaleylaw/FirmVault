@@ -1,10 +1,18 @@
 ---
 schema_version: 2
+tags: [contact/medical-provider]
 directory_id: 890ae81e-cbe7-424c-a37f-467c9573f59b
 master_card: "[[Contacts/Medical/starlite-chiropractic]]"
 case_link: "[[cases/amanda-tackore/amanda-tackore]]"
 role: treating_provider
-tags: [contact/medical-provider]
+records_requested: true
+records_received: false
+bills_requested: true
+bills_received: true
+treatment_status: Treatment Complete
+records_requested_date: "2026-03-23"
+bills_requested_date: "2026-03-23"
+bills_received_date: "2026-03-23"
 ---
 
 # Starlite Chiropractic

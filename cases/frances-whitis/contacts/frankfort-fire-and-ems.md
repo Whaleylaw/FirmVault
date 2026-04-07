@@ -1,10 +1,17 @@
 ---
 schema_version: 2
+tags: [contact/medical-provider]
 directory_id: f0bb3ba6-4731-40a4-a7d9-9e0da8cd7f00
 master_card: "[[Contacts/Medical/frankfort-fire-and-ems]]"
 case_link: "[[cases/frances-whitis/frances-whitis]]"
 role: treating_provider
-tags: [contact/medical-provider]
+records_requested: false
+records_received: true
+bills_requested: true
+bills_received: false
+treatment_status: Treatment Complete
+records_received_date: "2025-03-06"
+bills_requested_date: "2025-02-28"
 ---
 
 # Frankfort Fire & EMS

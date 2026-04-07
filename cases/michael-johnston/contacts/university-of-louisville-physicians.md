@@ -1,11 +1,17 @@
 ---
 schema_version: 2
+case_number: 2023-05-03-OTH-001
+tags: [contact/medical-provider/doctor]
 directory_id: university-of-louisville-physicians
 master_card: "[[Contacts/Medical/university-of-louisville-physicians]]"
-case_number: 2023-05-03-OTH-001
 case_link: "[[cases/michael-johnston/michael-johnston]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: false
+records_received: false
+bills_requested: false
+bills_received: true
+treatment_status: 
+bills_received_date: "2024-09-21"
 ---
 
 # University of Louisville Physicians

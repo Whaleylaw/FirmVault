@@ -1,11 +1,18 @@
 ---
 schema_version: 2
+case_number: 2023-08-12-MVA-001
+tags: [contact/medical-provider/doctor]
 directory_id: university-of-louisville-hospital
 master_card: "[[Contacts/Medical/university-of-louisville-hospital]]"
-case_number: 2023-08-12-MVA-001
 case_link: "[[cases/estate-of-evangeline-young/estate-of-evangeline-young]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: false
+records_received: true
+bills_requested: true
+bills_received: false
+treatment_status: Treatment Complete
+records_received_date: "2024-06-21"
+bills_requested_date: "2024-06-12"
 ---
 
 # University of Louisville Hospital

@@ -1,11 +1,20 @@
 ---
 schema_version: 2
+case_number: 2023-02-25-PrL-001
+tags: [contact/medical-provider/doctor]
 directory_id: bee1ff3b-61ec-43d8-9db4-1573ac3ea5c3
 master_card: "[[Contacts/Medical/deaconess-midtown-hospital]]"
-case_number: 2023-02-25-PrL-001
 case_link: "[[cases/kimberly-brasher/kimberly-brasher]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: true
+records_received: true
+bills_requested: true
+bills_received: true
+treatment_status: Treatment Complete
+records_requested_date: "2024-02-15"
+records_received_date: "2023-10-28"
+bills_requested_date: "2024-02-15"
+bills_received_date: "2023-10-28"
 ---
 
 # Deaconess Midtown Hospital

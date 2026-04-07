@@ -1,10 +1,19 @@
 ---
 schema_version: 2
+tags: [contact/medical-provider]
 directory_id: 86c0d33e-7758-449e-81a7-fd4eac185d84
 master_card: "[[Contacts/Medical/starlite-chiropractic]]"
 case_link: "[[cases/jordan-brown/jordan-brown]]"
 role: treating_provider
-tags: [contact/medical-provider]
+records_requested: true
+records_received: true
+bills_requested: true
+bills_received: true
+treatment_status: Treatment Complete
+records_requested_date: "2025-10-30"
+records_received_date: "2025-11-20"
+bills_requested_date: "2025-10-30"
+bills_received_date: "2025-11-20"
 ---
 
 # Starlite Chiropractic

@@ -1,11 +1,18 @@
 ---
 schema_version: 2
+case_number: 2022-12-05-OTH-001
+tags: [contact/medical-provider/doctor]
 directory_id: 8556db77-4ecc-4b5c-892f-73ba1064a7c1
 master_card: "[[Contacts/Medical/riverside-vascular-surgery]]"
-case_number: 2022-12-05-OTH-001
 case_link: "[[cases/cora-hall/cora-hall]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: true
+records_received: false
+bills_requested: true
+bills_received: false
+treatment_status: Actively Treating
+records_requested_date: "2024-08-22"
+bills_requested_date: "2024-08-22"
 ---
 
 # Riverside Vascular Surgery

@@ -1,10 +1,18 @@
 ---
 schema_version: 2
+tags: [contact/medical-provider]
 directory_id: 76f44063-da41-4e30-8ac1-e30a88bfd398
 master_card: "[[Contacts/Medical/synergy-injury-care-and-rehab-diagnostics]]"
 case_link: "[[cases/tonya-dunn/tonya-dunn]]"
 role: treating_provider
-tags: [contact/medical-provider]
+records_requested: true
+records_received: false
+bills_requested: true
+bills_received: true
+treatment_status: Treatment Complete
+records_requested_date: "2026-02-09"
+bills_requested_date: "2026-02-09"
+bills_received_date: "2026-02-13"
 ---
 
 # Synergy Injury Care & Rehab Diagnostics

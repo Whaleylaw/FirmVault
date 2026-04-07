@@ -1,10 +1,19 @@
 ---
 schema_version: 2
+tags: [contact/medical-provider]
 directory_id: 86284410-9ed9-4b12-ab1d-a903f6a00390
 master_card: "[[Contacts/Medical/louisville-metro-ems]]"
 case_link: "[[cases/jordan-brown/jordan-brown]]"
 role: treating_provider
-tags: [contact/medical-provider]
+records_requested: true
+records_received: true
+bills_requested: true
+bills_received: true
+treatment_status: Treatment Complete
+records_requested_date: "2025-10-29"
+records_received_date: "2025-10-31"
+bills_requested_date: "2025-10-29"
+bills_received_date: "2025-10-31"
 ---
 
 # Louisville Metro EMS

@@ -6,6 +6,22 @@ client_name: Robin Wilder Hamilton
 case_type: auto_accident
 status: negotiation
 date_of_incident: "2023-06-15"
+landmarks:
+  accident_report_obtained: false
+  all_bills_received: false
+  all_records_received: false
+  attorney_approved_demand: false
+  bills_requested_all_providers: true
+  client_info_received: true
+  contract_signed: true
+  demand_drafted: false
+  demand_sent: false
+  full_intake_complete: true
+  insurance_claims_setup: true
+  medical_auth_signed: true
+  providers_setup: true
+  records_requested_all_providers: true
+  treatment_complete: true
 ---
 
 # Robin Wilder Hamilton — auto accident 2023-06-15

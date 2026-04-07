@@ -1,11 +1,20 @@
 ---
 schema_version: 2
+case_number: 2024-12-01-MVA-001
+tags: [contact/medical-provider/doctor]
 directory_id: university-of-cincinnati-medical-center
 master_card: "[[Contacts/Medical/university-of-cincinnati-medical-center]]"
-case_number: 2024-12-01-MVA-001
 case_link: "[[cases/elizabeth-lindsey/elizabeth-lindsey]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: true
+records_received: true
+bills_requested: true
+bills_received: true
+treatment_status: Treatment Complete
+records_requested_date: "2024-12-09"
+records_received_date: "2025-01-03"
+bills_requested_date: "2024-12-09"
+bills_received_date: "2025-01-03"
 ---
 
 # University of Cincinnati Medical Center

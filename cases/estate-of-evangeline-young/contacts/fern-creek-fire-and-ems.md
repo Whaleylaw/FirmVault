@@ -1,10 +1,17 @@
 ---
 schema_version: 2
+tags: [contact/medical-provider]
 directory_id: 22dbd059-0225-4c39-a2eb-7e1434edda7c
 master_card: "[[Contacts/Medical/fern-creek-fire-and-ems]]"
 case_link: "[[cases/estate-of-evangeline-young/estate-of-evangeline-young]]"
 role: treating_provider
-tags: [contact/medical-provider]
+records_requested: false
+records_received: true
+bills_requested: false
+bills_received: true
+treatment_status: Treatment Complete
+records_received_date: "2024-09-19"
+bills_received_date: "2024-09-19"
 ---
 
 # Fern Creek Fire & EMS

@@ -6,6 +6,22 @@ client_name: Amy Mills
 case_type: premises_liability
 status: negotiation
 date_of_incident: "2019-04-26"
+landmarks:
+  accident_report_obtained: false
+  all_bills_received: false
+  all_records_received: false
+  attorney_approved_demand: false
+  bills_requested_all_providers: false
+  client_info_received: true
+  contract_signed: true
+  demand_drafted: false
+  demand_sent: false
+  full_intake_complete: true
+  insurance_claims_setup: false
+  medical_auth_signed: true
+  providers_setup: true
+  records_requested_all_providers: false
+  treatment_complete: false
 ---
 
 # Amy Mills — premises liability 2019-04-26

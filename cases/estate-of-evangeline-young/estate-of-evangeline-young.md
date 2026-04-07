@@ -4,8 +4,24 @@ case_id: 871fd2db-9362-4b93-b24e-1d558a3198ff
 case_number: 2023-08-12-MVA-001
 client_name: Estate of Evangeline Young
 case_type: auto_accident
-status: onboarding
+status: treatment
 date_of_incident: "2023-08-12"
+landmarks:
+  accident_report_obtained: false
+  all_bills_received: false
+  all_records_received: true
+  attorney_approved_demand: false
+  bills_requested_all_providers: false
+  client_info_received: true
+  contract_signed: true
+  demand_drafted: false
+  demand_sent: false
+  full_intake_complete: true
+  insurance_claims_setup: true
+  medical_auth_signed: true
+  providers_setup: true
+  records_requested_all_providers: false
+  treatment_complete: false
 ---
 
 # Estate of Evangeline Young — auto accident 2023-08-12

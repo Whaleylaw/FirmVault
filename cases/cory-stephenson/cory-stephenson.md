@@ -4,8 +4,24 @@ case_id: 9a0969f8-fe2c-4ba7-bc97-84ae5b8824bd
 case_number: 2025-09-03-MVA-001
 client_name: Cory Stephenson
 case_type: auto_accident
-status: onboarding
+status: demand
 date_of_incident: "2025-09-03"
+landmarks:
+  accident_report_obtained: true
+  all_bills_received: true
+  all_records_received: true
+  attorney_approved_demand: false
+  bills_requested_all_providers: false
+  client_info_received: true
+  contract_signed: true
+  demand_drafted: false
+  demand_sent: false
+  full_intake_complete: true
+  insurance_claims_setup: true
+  medical_auth_signed: true
+  providers_setup: true
+  records_requested_all_providers: false
+  treatment_complete: true
 ---
 
 # Cory Stephenson — auto accident 2025-09-03

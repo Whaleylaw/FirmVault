@@ -1,11 +1,18 @@
 ---
 schema_version: 2
+case_number: 2023-08-29-MVA-001
+tags: [contact/medical-provider/doctor]
 directory_id: 9678d130-7ad2-42e0-be60-e6b921cb0f14
 master_card: "[[Contacts/Medical/new-chapel-ems]]"
-case_number: 2023-08-29-MVA-001
 case_link: "[[cases/ashlee-williams/ashlee-williams]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: false
+records_received: true
+bills_requested: false
+bills_received: true
+treatment_status: Treatment Complete
+records_received_date: "2024-11-26"
+bills_received_date: "2024-11-26"
 ---
 
 # New Chapel EMS

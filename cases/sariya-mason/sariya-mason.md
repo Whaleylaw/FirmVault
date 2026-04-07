@@ -6,6 +6,22 @@ client_name: Sariya Mason
 case_type: dog_bite
 status: litigation
 date_of_incident: "2022-08-19"
+landmarks:
+  accident_report_obtained: false
+  all_bills_received: true
+  all_records_received: false
+  attorney_approved_demand: false
+  bills_requested_all_providers: true
+  client_info_received: true
+  contract_signed: true
+  demand_drafted: false
+  demand_sent: false
+  full_intake_complete: true
+  insurance_claims_setup: true
+  medical_auth_signed: true
+  providers_setup: true
+  records_requested_all_providers: true
+  treatment_complete: true
 ---
 
 # Sariya Mason — dog bite 2022-08-19

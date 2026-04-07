@@ -1,11 +1,20 @@
 ---
 schema_version: 2
+case_number: 2021-04-16-MVA-001
+tags: [contact/medical-provider/doctor]
 directory_id: university-of-louisville-hospital
 master_card: "[[Contacts/Medical/university-of-louisville-hospital]]"
-case_number: 2021-04-16-MVA-001
 case_link: "[[cases/destiny-adkins/destiny-adkins]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: true
+records_received: true
+bills_requested: true
+bills_received: true
+treatment_status: Treatment Complete
+records_requested_date: "2022-02-23"
+records_received_date: "2022-03-02"
+bills_requested_date: "2022-03-30"
+bills_received_date: "2022-04-07"
 ---
 
 # University of Louisville Hospital

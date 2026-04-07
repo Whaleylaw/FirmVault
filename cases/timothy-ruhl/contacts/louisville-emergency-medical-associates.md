@@ -1,11 +1,18 @@
 ---
 schema_version: 2
+case_number: 2023-09-14-PrL-001
+tags: [contact/medical-provider/doctor]
 directory_id: louisville-emergency-medical-associates
 master_card: "[[Contacts/Medical/louisville-emergency-medical-associates]]"
-case_number: 2023-09-14-PrL-001
 case_link: "[[cases/timothy-ruhl/timothy-ruhl]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: false
+records_received: true
+bills_requested: false
+bills_received: true
+treatment_status: Treatment Complete
+records_received_date: "2024-10-07"
+bills_received_date: "2024-10-07"
 ---
 
 # Louisville Emergency Medical Associates

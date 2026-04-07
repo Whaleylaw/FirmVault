@@ -1,10 +1,16 @@
 ---
 schema_version: 2
+tags: [contact/medical-provider]
 directory_id: 12328b74-5583-49c7-b088-9094feca0249
 master_card: "[[Contacts/Medical/art-jacob-prescription-shoppe]]"
 case_link: "[[cases/deanna-jones/deanna-jones]]"
 role: treating_provider
-tags: [contact/medical-provider]
+records_requested: false
+records_received: false
+bills_requested: false
+bills_received: true
+treatment_status: Treatment Complete
+bills_received_date: "2026-03-19"
 ---
 
 # Art Jacob Prescription Shoppe

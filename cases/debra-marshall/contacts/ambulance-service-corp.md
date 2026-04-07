@@ -1,11 +1,18 @@
 ---
 schema_version: 2
+case_number: 2022-12-03-MVA-001
+tags: [contact/medical-provider/doctor]
 directory_id: f4c3ce97-f82d-4fff-9c1c-4073634d2d97
 master_card: "[[Contacts/Medical/ambulance-service-corp]]"
-case_number: 2022-12-03-MVA-001
 case_link: "[[cases/debra-marshall/debra-marshall]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: false
+records_received: true
+bills_requested: false
+bills_received: true
+treatment_status: Treatment Complete
+records_received_date: "2024-04-08"
+bills_received_date: "2024-04-08"
 ---
 
 # Ambulance Service Corp

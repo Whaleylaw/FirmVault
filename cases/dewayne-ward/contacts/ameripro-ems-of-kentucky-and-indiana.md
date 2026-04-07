@@ -1,10 +1,17 @@
 ---
 schema_version: 2
+tags: [contact/medical-provider]
 directory_id: 184f2b5f-fbfc-4fdb-b275-0a8bed2a5fe1
 master_card: "[[Contacts/Medical/ameripro-ems-of-kentucky-and-indiana]]"
 case_link: "[[cases/dewayne-ward/dewayne-ward]]"
 role: treating_provider
-tags: [contact/medical-provider]
+records_requested: true
+records_received: false
+bills_requested: true
+bills_received: false
+treatment_status: No Records Found
+records_requested_date: "2024-12-20"
+bills_requested_date: "2024-12-20"
 ---
 
 # AmeriPro EMS Of Kentucky & Indiana

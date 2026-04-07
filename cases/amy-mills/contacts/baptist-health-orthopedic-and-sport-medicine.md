@@ -1,10 +1,17 @@
 ---
 schema_version: 2
+tags: [contact/medical-provider]
 directory_id: b2c8e516-815f-4960-bfa6-e7e92ad96d58
 master_card: "[[Contacts/Medical/baptist-health-orthopedic-and-sport-medicine]]"
 case_link: "[[cases/amy-mills/amy-mills]]"
 role: treating_provider
-tags: [contact/medical-provider]
+records_requested: true
+records_received: false
+bills_requested: true
+bills_received: false
+treatment_status: Treatment Complete
+records_requested_date: "2023-08-10"
+bills_requested_date: "2023-08-10"
 ---
 
 # Baptist Health - Orthopedic & Sport Medicine

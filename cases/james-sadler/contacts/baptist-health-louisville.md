@@ -1,11 +1,20 @@
 ---
 schema_version: 2
+case_number: 2023-04-07-MVA-001
+tags: [contact/medical-provider/doctor]
 directory_id: baptist-health-louisville
 master_card: "[[Contacts/Medical/baptist-health-louisville]]"
-case_number: 2023-04-07-MVA-001
 case_link: "[[cases/james-sadler/james-sadler]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: true
+records_received: true
+bills_requested: true
+bills_received: true
+treatment_status: Treatment Complete
+records_requested_date: "2023-06-12"
+records_received_date: "2023-07-27"
+bills_requested_date: "2023-06-12"
+bills_received_date: "2023-06-22"
 ---
 
 # Baptist Health Louisville
