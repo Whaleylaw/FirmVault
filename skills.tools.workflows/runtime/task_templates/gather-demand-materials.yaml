@@ -1,0 +1,76 @@
+---
+template_id: gather-demand-materials
+landmark: all_records_received        # also flips all_bills_received in the same pass
+phase: phase_3_demand
+skill: medical-records-comprehensive-analysis
+priority: normal
+auto: false
+review: true
+
+# One task per case — not per provider. The point is a single audit pass
+# across every provider in the case.
+task_id_template: "{case_slug}-gather-demand-materials"
+discriminator: null
+
+emit_when: |
+  case.status == "demand"
+  and (
+    not all(p.records_received for p in case.providers)
+    or not all(p.bills_received for p in case.providers)
+  )
+
+success_check: |
+  all(p.records_received for p in case.providers)
+  and all(p.bills_received for p in case.providers)
+
+inputs:
+  case_file: "cases/{case_slug}/{case_slug}.md"
+  providers_dir: "cases/{case_slug}/contacts/"
+  documents_dir: "cases/{case_slug}/documents/"
+
+depends_on: []
+
+body: |
+  ## Task: Gather demand materials for {{client_name}}
+
+  **Case:** [[cases/{{case_slug}}/{{case_slug}}|{{client_name}}]]
+  **Phase:** Demand In Progress
+
+  Audit the case's medical records and bills before the demand is drafted.
+  Use the `medical-records-comprehensive-analysis` skill's gap-finding
+  mode to identify anything missing.
+
+  Steps:
+
+  1. Read `cases/{{case_slug}}/{{case_slug}}.md` to enumerate all providers
+     from the `## Medical Providers` section.
+  2. For each provider, read the per-case stub at
+     `cases/{{case_slug}}/contacts/<provider-slug>.md` and check
+     `records_received` / `bills_received` frontmatter flags.
+  3. Cross-check by listing `cases/{{case_slug}}/documents/` for files
+     matching the provider name and for billing statements.
+  4. Produce a gap report as a markdown file at
+     `cases/{{case_slug}}/documents/demand-materials-audit-<YYYY-MM-DD>.md`.
+     It must list, per provider: records status, bills status, and the
+     earliest known treatment date that's still missing documentation.
+
+  For each provider with a gap, file a follow-up note in the case file's
+  recent `## Activity Log` bullets and append a log entry under
+  `cases/{{case_slug}}/Activity Log/<YYYY-MM-DD-HHMM>-legal.md` per
+  `DATA_CONTRACT.md` §5.
+
+  When every provider is confirmed complete (via incoming records or
+  attorney override), update each provider stub:
+  ```yaml
+  records_received: true
+  records_received_date: "<date>"
+  bills_received: true
+  bills_received_date: "<date>"
+  ```
+
+  This task is `review:true` — the attorney must confirm the gap report
+  and decide whether to override any remaining gaps before the demand
+  draft can proceed. If the attorney overrides, they set
+  `case.frontmatter.demand_materials_override: <reason>` and flip the
+  provider flags manually; both pathways satisfy the `all_records_received`
+  and `all_bills_received` soft landmarks.

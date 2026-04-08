@@ -1,0 +1,100 @@
+---
+template_id: prepare-counter
+# Not a gating landmark — a counter move does not advance Phase 4 on its
+# own. It's a workflow step under `negotiate_claim`. Listed as the nearest
+# Phase 4 landmark for routing purposes.
+landmark: initial_offer_received
+phase: phase_4_negotiation
+skill: negotiation-strategy
+priority: high
+auto: false
+review: true
+
+task_id_template: "{case_slug}-counter-{discriminator}"
+discriminator: per_carrier_round
+
+# Emit only when an evaluation exists that recommended "counter" and no
+# counter has been drafted yet for that round.
+emit_when: |
+  any(
+    o for claim in case.claims if claim.type == "BI"
+    for o in claim.offers
+    if o.from == "insurance"
+    and o.recommendation == "counter"
+    and o.attorney_approved_recommendation == true
+    and not any(
+      co for co in claim.offers
+      if co.from == "plaintiff"
+      and co.round == o.round
+      and co.type == "counter"
+    )
+  )
+
+success_check: |
+  any(
+    co for co in case.claim(discriminator.carrier_slug).offers
+    if co.from == "plaintiff"
+    and co.round == discriminator.round
+    and co.type == "counter"
+    and co.drafted_date
+  )
+
+inputs:
+  carrier_slug: "{discriminator.carrier_slug}"
+  round: "{discriminator.round}"
+  case_file: "cases/{case_slug}/{case_slug}.md"
+  claim_file: "cases/{case_slug}/claims/bi-{discriminator.carrier_slug}.md"
+  # No firm counter-offer template exists. The counter letter is authored
+  # as markdown; the letterhead is referenced for later docx formatting by
+  # the paralegal. See negotiation-strategy SKILL.md.
+  letterhead: "Templates/letterhead.docx"
+
+depends_on:
+  - "{case_slug}-evaluate-offer-{discriminator}"
+
+body: |
+  ## Task: Prepare counter-offer (round {{round}}) to {{carrier_name}}
+
+  **Case:** [[cases/{{case_slug}}/{{case_slug}}|{{client_name}}]]
+  **Carrier:** [[Contacts/Insurance/{{carrier_slug}}|{{carrier_name}}]]
+  **Round:** {{round}}
+  **Phase:** Negotiation
+
+  The evaluation of round {{round}} recommended a counter and the attorney
+  has approved the direction. Run the `negotiation-strategy` skill to:
+
+  1. Read the claim file to pull the full offer history, metrics
+     (`gap`, `movement_them`, `movement_us`, `total_rounds`), and the
+     attorney-approved `recommended_counter_amount`.
+  2. Read the most recent `offer_analysis` activity log entry for the
+     justification language.
+  3. Size the counter per the skill's sizing table (first counter vs.
+     subsequent, gap %). If the attorney set a specific amount on the
+     claim file, use that; otherwise compute per the table and flag for
+     the attorney.
+  4. Draft the counter letter as markdown at
+     `cases/{{case_slug}}/documents/counter-{{round}}-<YYYY-MM-DD>.md`.
+     Reference `Templates/letterhead.docx` for formatting — do not copy it.
+     Sections per the SKILL.md: acknowledge offer, explain insufficiency,
+     state counter amount with justification, response deadline (14 days
+     default), closing.
+  5. Append a new entry to the claim file `offers` list:
+     ```yaml
+     - round: {{round}}
+       type: counter
+       from: plaintiff
+       drafted_date: "<today>"
+       amount: <counter amount>
+       reasoning: "<one-line justification>"
+       status: draft
+     ```
+     Use `offer-tracking` to write this — don't hand-edit.
+  6. Write an activity log entry with the strategy analysis, three or
+     four adjuster talking points, and an anticipated-response tree
+     (accept / counter-counter / reject / silence) per the SKILL.md.
+  7. Schedule calendar followups at 7, 14, and 21 days via
+     `calendar-scheduling`.
+
+  Review gate: attorney reads and edits the draft letter before it is
+  formatted and sent. The `status: draft` field on the counter entry stays
+  until the paralegal flips it to `sent` after send-out.

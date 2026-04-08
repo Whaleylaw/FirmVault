@@ -1,0 +1,78 @@
+---
+template_id: calculate-damages
+landmark: demand_drafted              # prerequisite of demand_drafted — see note in body
+phase: phase_3_demand
+skill: damages-calculation
+priority: normal
+auto: false           # computation is deterministic but output feeds money decisions
+review: true
+
+task_id_template: "{case_slug}-calculate-damages"
+discriminator: null   # one per case
+
+# NOTE: damages-calculation is an upstream step that is not its own landmark
+# in PHASE_DAG.yaml — the demand_drafted landmark absorbs it. We emit this
+# as a separate task so the materializer can sequence it before draft-demand,
+# guarded by a case-level `damages_calculated` frontmatter flag (see the
+# CLAUDE.md instructions for this batch and the demand-letter-generation
+# SKILL.md handoff section).
+emit_when: |
+  case.status == "demand"
+  and not case.frontmatter.damages_calculated
+
+success_check: |
+  case.frontmatter.damages_calculated == true
+  and case.frontmatter.specials_total is not null
+
+inputs:
+  case_file: "cases/{case_slug}/{case_slug}.md"
+  providers_dir: "cases/{case_slug}/contacts/"
+  documents_dir: "cases/{case_slug}/documents/"
+
+depends_on:
+  - "{case_slug}-gather-demand-materials"
+
+body: |
+  ## Task: Calculate special damages for {{client_name}}
+
+  **Case:** [[cases/{{case_slug}}/{{case_slug}}|{{client_name}}]]
+  **Phase:** Demand In Progress
+
+  Run the `damages-calculation` skill to compile special damages for this
+  case. This must complete before `draft-demand` runs — the demand letter
+  reads the damages block from case frontmatter directly.
+
+  Steps (condensed from `damages-calculation/SKILL.md`):
+
+  1. Read `cases/{{case_slug}}/{{case_slug}}.md` and every provider stub
+     under `cases/{{case_slug}}/contacts/` to enumerate treating providers.
+  2. Walk `cases/{{case_slug}}/documents/` for itemized bills, off-work
+     notes, pay stubs, property-damage estimates, and client receipts.
+  3. Compute totals per category (past medical, future medical, past lost
+     wages, future lost wages, property damage, out-of-pocket). Follow the
+     tables and formulas in the skill's references.
+  4. Write the damages block to `cases/{{case_slug}}/{{case_slug}}.md`
+     frontmatter using the exact field names from
+     `damages-calculation/SKILL.md` §"Handoff to demand-letter-generation":
+     `damages_calculated_date`, `specials_total`, `medical_total`,
+     `lost_wages_total`, `property_damage_total`, `out_of_pocket_total`,
+     `medical_by_provider[]`, `wage_calculation_method`,
+     `wage_calculation_basis`.
+  5. Also set `damages_calculated: true` on the case frontmatter — this is
+     the prerequisite flag that `draft-demand.yaml` depends on.
+  6. Update the `## Expenses` table in the case body with a row per
+     category.
+  7. Optionally write a worksheet at
+     `cases/{{case_slug}}/documents/damages-worksheet-<YYYY-MM-DD>.md`
+     if the math needs to be shown to the attorney.
+
+  Do NOT touch content between `<!-- roscoe-medical-start -->` /
+  `<!-- roscoe-medical-end -->` markers — those are owned by the
+  import scripts.
+
+  Log an activity entry under
+  `cases/{{case_slug}}/Activity Log/<YYYY-MM-DD-HHMM>-legal.md` noting
+  the damages total and that the case is ready for demand drafting.
+
+  This task is `review:true` — the attorney should sanity-check the
+  specials total and per-provider breakdown before the demand is drafted.

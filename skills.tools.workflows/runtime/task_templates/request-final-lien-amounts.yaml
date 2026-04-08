@@ -1,0 +1,78 @@
+---
+template_id: request-final-lien-amounts
+landmark: final_amounts_requested
+phase: phase_6_lien
+skill: lien-management
+priority: high
+auto: false           # letters go out the door → human review
+review: true
+
+# One task per (case, lien creditor). Discriminator is the creditor slug.
+task_id_template: "{case_slug}-request-final-lien-{discriminator}"
+discriminator: per_lien_creditor
+
+emit_when: |
+  any(
+    l for l in case.liens.where(status="outstanding")
+    if not l.final_amount_requested_date
+  )
+
+success_check: |
+  all(
+    l.final_amount_requested_date
+    for l in case.liens.where(status="outstanding")
+    if l.slug == discriminator
+  )
+
+inputs:
+  creditor_slug: "{discriminator}"
+  case_file: "cases/{case_slug}/{case_slug}.md"
+  lien_file: "cases/{case_slug}/liens/{discriminator}.md"
+  template: "Templates/final-lien-request.docx"
+
+depends_on:
+  - "{case_slug}-identify-liens"
+
+body: |
+  ## Task: Request final lien amount from {{creditor_name}}
+
+  **Case:** [[cases/{{case_slug}}/{{case_slug}}|{{client_name}}]]
+  **Lien holder:** [[cases/{{case_slug}}/liens/{{creditor_slug}}|{{creditor_name}}]]
+  **Phase:** Lien Resolution
+  **Produces:** `final_amount_requested_date` on this lien;
+  aggregates into the `final_amounts_requested` landmark.
+
+  Use the `lien-management` skill. Route by the `lien_type` in the lien
+  file frontmatter:
+
+  - `medicare` → `lien-management/references/medicare.md` (CPN/CPL/MSPRC)
+  - `medicaid` → `lien-management/references/medicaid.md` (state-specific)
+  - `erisa`    → `lien-management/references/erisa.md`
+  - `provider` → `lien-management/references/providers.md`
+  - `other`    → `lien-management/references/lien-type-contacts.md`
+
+  Base template: `Templates/final-lien-request.docx` (firm library, verified
+  present in `Templates/INDEX.md`). Medicaid carriers may need a state-
+  specific cover letter per the medicaid reference.
+
+  Steps:
+
+  1. Read `cases/{{case_slug}}/liens/{{creditor_slug}}.md` for holder,
+     type, and any prior correspondence. Read
+     `cases/{{case_slug}}/{{case_slug}}.md` for client name, DOI, and
+     settlement amount (needed for CMS/ERISA disclosures).
+  2. Fill `Templates/final-lien-request.docx` with client/case/lien
+     fields. Save the filled letter to
+     `cases/{{case_slug}}/documents/legal/final-lien-request-{{creditor_slug}}-<YYYY-MM-DD>.docx`.
+  3. Update the lien stub frontmatter:
+     ```yaml
+     status: amount_requested
+     final_amount_requested_date: "<today>"
+     final_amount_request_method: <fax|mail|certified_mail|portal>
+     ```
+  4. Log the send as
+     `cases/{{case_slug}}/Activity Log/<YYYY-MM-DD-HHMM>-correspondence.md`
+     per `DATA_CONTRACT.md` §5.
+
+  `review: true` — attorney signs off before the request is actually
+  transmitted.

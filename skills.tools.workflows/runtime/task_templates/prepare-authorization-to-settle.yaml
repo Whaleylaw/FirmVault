@@ -1,0 +1,68 @@
+---
+template_id: prepare-authorization-to-settle
+landmark: authorization_to_settle_prepared
+phase: phase_5_settlement
+skill: settlement-statement
+priority: high
+auto: false
+review: true
+
+# Same skill as prepare-settlement-statement but a separate task because
+# it is a separate landmark and produces a separate document the client signs.
+task_id_template: "{case_slug}-prepare-authorization-to-settle"
+discriminator: null
+
+emit_when: |
+  case.frontmatter.settlement_status == "agreed"
+  and case.has_document("settlement statement")
+  and not case.has_document("authorization to settle")
+
+success_check: |
+  case.has_document("authorization to settle")
+
+inputs:
+  case_file: "cases/{case_slug}/{case_slug}.md"
+  settlement_statement: "cases/{case_slug}/documents/legal/"
+  # NOTE: no firm DOCX exists yet — use the markdown skeleton
+  local_template: "skills.tools.workflows/Skills/settlement-statement/local-templates/authorization-to-settle.md"
+
+depends_on:
+  - "{case_slug}-prepare-settlement-statement"
+
+body: |
+  ## Task: Prepare authorization-to-settle for {{client_name}}
+
+  **Case:** [[cases/{{case_slug}}/{{case_slug}}|{{client_name}}]]
+  **Phase:** Settlement
+  **Priority:** High
+
+  The settlement statement is prepared and attorney-approved. Now draft
+  the one-page authorization-to-settle the client will sign to approve
+  the distribution shown on that statement.
+
+  Use the `settlement-statement` skill (same skill, second output mode).
+  Steps:
+
+  1. Read the just-prepared statement at
+     `cases/{{case_slug}}/documents/legal/settlement-statement-<YYYY-MM-DD>.md`.
+  2. Read `cases/{{case_slug}}/{{case_slug}}.md` for client legal name,
+     case number, and defendant / carrier identifiers.
+  3. Read the client master card at `Contacts/Clients/<client-slug>.md`
+     for the address that goes on the authorization.
+  4. Fill the one-page authorization that restates the gross, fee, costs,
+     holdback, and net-to-client from the statement, and includes the
+     signature block with a `/sig1/` anchor for DocuSign.
+
+  **KNOWN GAP:** no firm DOCX template exists for this document. Use
+  the markdown skeleton at
+  `skills.tools.workflows/Skills/settlement-statement/local-templates/authorization-to-settle.md`.
+  When a DOCX is added to `Templates/`, this template should switch to it.
+
+  Write the filled authorization to:
+  `cases/{{case_slug}}/documents/legal/authorization-to-settle-<YYYY-MM-DD>.md`
+
+  Add an Activity Log entry at
+  `cases/{{case_slug}}/Activity Log/<YYYY-MM-DD-HHMM>-legal.md`.
+
+  This task is `review:true`. The attorney must confirm the authorization
+  matches the approved statement before it goes out for signature.

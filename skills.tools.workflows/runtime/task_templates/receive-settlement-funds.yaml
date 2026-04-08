@@ -1,0 +1,75 @@
+---
+template_id: receive-settlement-funds
+landmark: funds_received
+phase: phase_5_settlement
+skill: settlement-statement
+priority: high
+auto: false
+review: true
+
+# Passive check: we are waiting for a physical/electronic check to land.
+# The worker doesn't take an action — it verifies that the check has
+# arrived and has been logged. Not auto because the dollar amount must
+# reconcile to the agreed settlement and that reconciliation is a
+# professional-responsibility judgment call.
+task_id_template: "{case_slug}-receive-settlement-funds"
+discriminator: null
+
+emit_when: |
+  case.flag("release_signed")
+  and case.has_document("release")
+  and not case.frontmatter.settlement_funds_received
+
+success_check: |
+  case.frontmatter.settlement_funds_received == true
+
+inputs:
+  case_file: "cases/{case_slug}/{case_slug}.md"
+  activity_log_dir: "cases/{case_slug}/Activity Log/"
+
+depends_on:
+  - "{case_slug}-execute-release"
+
+body: |
+  ## Task: Confirm settlement funds received in trust
+
+  **Case:** [[cases/{{case_slug}}/{{case_slug}}|{{client_name}}]]
+  **Phase:** Settlement
+  **Priority:** High
+
+  The release has been executed. The carrier should wire (or mail) the
+  gross settlement to the firm's IOLTA trust account. This task is a
+  **passive check** — no document goes out — but it is still
+  `review:true` because the attorney must reconcile the amount received
+  against the agreed settlement before the case advances to distribution.
+
+  Steps:
+
+  1. Scan `cases/{{case_slug}}/Activity Log/` for a recent entry whose
+     `category` is `legal` or `financial` with `subcategory: receipt`
+     and a dollar amount in the body.
+  2. Also check the `## Insurance Claims` section of the case file for
+     any per-claim `funds_received_date` / `funds_received_amount` fields.
+  3. If a matching receipt is found, reconcile the amount against the
+     agreed gross settlement from the approved
+     `settlement-statement-<YYYY-MM-DD>.md`. Any discrepancy (including
+     wire fees that reduce the net received) must be flagged to the
+     attorney — do NOT set the landmark true until it is resolved.
+  4. If no receipt is found, apply `status:blocked` and comment:
+     "Waiting on settlement funds from <carrier>. Paralegal: once the
+     check or wire arrives, log a `receipt` activity entry at
+     `cases/{{case_slug}}/Activity Log/<YYYY-MM-DD-HHMM>-legal.md` with
+     the dollar amount, then re-label this issue `status:ready`."
+  5. If reconciled, write an Activity Log entry noting the receipt and
+     set the case file frontmatter:
+
+     ```yaml
+     settlement_funds_received: true
+     settlement_funds_received_date: "<YYYY-MM-DD>"
+     settlement_funds_received_amount: <dollar_amount>
+     ```
+
+  This task is `review:true`. The attorney must countersign the
+  reconciliation before the `distribute-to-client` task unblocks.
+
+  This satisfies landmark `funds_received`.

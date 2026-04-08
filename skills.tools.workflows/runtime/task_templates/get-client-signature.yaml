@@ -1,0 +1,69 @@
+---
+template_id: get-client-signature
+landmark: client_authorized
+phase: phase_5_settlement
+skill: docusign-send
+priority: high
+auto: false
+review: true
+
+task_id_template: "{case_slug}-get-client-signature"
+discriminator: null
+
+emit_when: |
+  case.has_document("authorization to settle")
+  and not case.flag("client_signed_authorization")
+
+success_check: |
+  case.flag("client_signed_authorization")
+  and case.has_document("authorization to settle")
+
+inputs:
+  case_file: "cases/{case_slug}/{case_slug}.md"
+  authorization_doc: "cases/{case_slug}/documents/legal/"
+  client_contact: "cases/{case_slug}/contacts/"
+
+depends_on:
+  - "{case_slug}-prepare-authorization-to-settle"
+
+body: |
+  ## Task: Get client signature on authorization-to-settle
+
+  **Case:** [[cases/{{case_slug}}/{{case_slug}}|{{client_name}}]]
+  **Phase:** Settlement
+  **Priority:** High
+
+  Send the just-drafted authorization-to-settle to the client for
+  electronic signature using the `docusign-send` skill.
+
+  **This task is `review:true` and sends an email through an external
+  service. Stop BEFORE calling DocuSign and apply `status:needs_review`.
+  The attorney must explicitly approve the outgoing envelope.** No
+  envelope may be sent without that approval.
+
+  Steps (after attorney approval):
+
+  1. Confirm
+     `cases/{{case_slug}}/documents/legal/authorization-to-settle-<YYYY-MM-DD>.md`
+     exists and contains a `/sig1/` anchor string. If it is markdown-only,
+     convert to PDF first (the skeleton template has an anchor).
+  2. Pull the signer email and legal name from
+     `cases/{{case_slug}}/contacts/<client-slug>.md` (falling back to
+     `Contacts/Clients/<client-slug>.md`).
+  3. Call `python Tools/esignature/docusign_send.py <path> --signer-email <email> --signer-name "<Legal Name>" --subject "Please Sign: Authorization to Settle — {{client_name}}" --production`.
+  4. Record the envelope ID in an Activity Log entry at
+     `cases/{{case_slug}}/Activity Log/<YYYY-MM-DD-HHMM>-correspondence.md`
+     per `DATA_CONTRACT.md` §5, including a 3-day follow-up note.
+
+  Once the signed PDF comes back and `document-intake` files it to
+  `cases/{{case_slug}}/documents/legal/authorization-to-settle-<YYYY-MM-DD>-signed.pdf`,
+  set the landmark flag on the case frontmatter:
+
+  ```yaml
+  flags:
+    client_signed_authorization: true
+  client_signed_authorization_date: "<YYYY-MM-DD>"
+  ```
+
+  This satisfies landmark `client_authorized` and unblocks
+  `execute-release`.

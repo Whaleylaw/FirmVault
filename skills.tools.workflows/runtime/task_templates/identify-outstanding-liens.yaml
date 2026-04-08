@@ -1,0 +1,73 @@
+---
+template_id: identify-outstanding-liens
+landmark: outstanding_liens_identified
+phase: phase_6_lien
+skill: lien-management
+priority: high
+auto: false           # audit task — attorney confirms completeness
+review: true
+
+task_id_template: "{case_slug}-identify-liens"
+discriminator: null   # one per case
+
+# Emit after settlement is reached (Phase 5 produced `settlement_reached`) so
+# the trust holdback is known. Only fire while any lien on the case is still
+# missing type or holder classification.
+emit_when: |
+  case.frontmatter.settlement_status == "agreed"
+  and any(
+    l for l in case.liens.where(status="outstanding")
+    if not l.holder or not l.type
+  )
+
+success_check: |
+  all(
+    l.holder and l.type
+    for l in case.liens.where(status="outstanding")
+  )
+
+inputs:
+  case_file: "cases/{case_slug}/{case_slug}.md"
+  liens_dir: "cases/{case_slug}/liens/"
+
+depends_on: []
+
+body: |
+  ## Task: Identify and classify every outstanding lien
+
+  **Case:** [[cases/{{case_slug}}/{{case_slug}}|{{client_name}}]]
+  **Phase:** Lien Resolution
+  **Produces landmark:** `outstanding_liens_identified`
+
+  Use the `lien-management` skill (stage map row for Phase 2/6 "Identify").
+  This is the audit gate that lets all downstream per-lien tasks materialize.
+
+  Steps:
+
+  1. Read `cases/{{case_slug}}/{{case_slug}}.md` — specifically the
+     `## Medical Providers`, `## Insurance Claims`, and `## Liens`
+     sections. Cross-check against the roscoe-medical table.
+  2. Walk every file in `cases/{{case_slug}}/liens/`. For each lien file,
+     confirm the frontmatter has:
+     ```yaml
+     lien_type: medicare | medicaid | erisa | provider | other
+     holder: <Creditor Display Name>
+     status: outstanding
+     ```
+     Use the decision tree in `lien-management/SKILL.md` §"Lien-type
+     decision tree" to classify. Load
+     `lien-management/references/lien-type-contacts.md` only if you need
+     contact / classification hints.
+  3. If a provider in `## Medical Providers` has no matching lien file
+     and the provider billed health insurance or is itself a hospital,
+     create `cases/{{case_slug}}/liens/<creditor-slug>.md` per
+     `DATA_CONTRACT.md` §3 and §4 (slug rules). Add a bullet to the
+     case file `## Liens` section in the required format.
+  4. Do NOT edit content between `<!-- roscoe-*-start -->` markers.
+
+  When every outstanding lien has both `holder` and `lien_type` populated,
+  the `success_check` passes and the per-lien
+  `request-final-lien-amounts` tasks unlock downstream.
+
+  `review: true` — attorney confirms the lien inventory is complete
+  before final-amount letters go out.

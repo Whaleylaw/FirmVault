@@ -1,0 +1,91 @@
+---
+template_id: draft-demand
+landmark: demand_drafted
+phase: phase_3_demand
+skill: demand-letter-generation
+priority: normal
+auto: false
+review: true
+
+# One demand draft per BI carrier (most cases have one; multi-tortfeasor
+# cases have more than one).
+task_id_template: "{case_slug}-draft-demand-{discriminator}"
+discriminator: per_carrier
+
+emit_when: |
+  case.status == "demand"
+  and case.frontmatter.damages_calculated == true
+  and any(
+    c for c in case.claims
+    if c.type == "BI" and not c.demand_drafted
+  )
+
+success_check: |
+  case.has_document("demand")
+  and case.frontmatter.demand_drafted == true
+
+inputs:
+  carrier_slug: "{discriminator}"
+  case_file: "cases/{case_slug}/{case_slug}.md"
+  claim_file: "cases/{case_slug}/claims/bi-{discriminator}.md"
+  carrier_card: "Contacts/Insurance/{discriminator}.md"
+  # No firm .docx template for demand letters — see body note.
+  template: null
+
+depends_on:
+  - "{case_slug}-gather-demand-materials"
+  - "{case_slug}-calculate-damages"
+
+body: |
+  ## Task: Draft settlement demand to {{carrier_name}} (BI)
+
+  **Case:** [[cases/{{case_slug}}/{{case_slug}}|{{client_name}}]]
+  **Carrier:** [[Contacts/Insurance/{{carrier_slug}}|{{carrier_name}}]]
+  **Claim #:** {{claim_number}}
+  **Phase:** Demand In Progress
+
+  Use the `demand-letter-generation` skill to draft the settlement demand
+  letter. Per `demand-letter-generation/SKILL.md`, the firm does NOT ship
+  a `.docx` demand template — the demand is authored as markdown in the
+  case documents folder. Do not invoke
+  `Tools/document_processing/generate_document.py` (deprecated).
+
+  Prerequisites (both already satisfied if this task is `ready`):
+
+  - Gap audit complete: `{{case_slug}}-gather-demand-materials` is done
+    and every provider is either `records_received: true` and
+    `bills_received: true` or the attorney has set
+    `demand_materials_override`.
+  - Damages computed: `case.frontmatter.damages_calculated == true` and
+    `specials_total`, `medical_total`, `lost_wages_total`,
+    `property_damage_total`, `out_of_pocket_total`, and
+    `medical_by_provider[]` are all populated.
+
+  Steps:
+
+  1. Read `cases/{{case_slug}}/{{case_slug}}.md` (frontmatter + body) and
+     `cases/{{case_slug}}/claims/bi-{{carrier_slug}}.md` for adjuster,
+     claim number, and policy limits. Read
+     `Contacts/Insurance/{{carrier_slug}}.md` for carrier details.
+  2. Collect liability evidence from `cases/{{case_slug}}/documents/`:
+     police report, photos, any recorded statements or admissions.
+  3. Build the demand per the section order in
+     `demand-letter-generation/SKILL.md`: Introduction (with Rule 408),
+     Facts & Liability, Injuries (with ICD-10), Treatment Chronology,
+     Special Damages (matching frontmatter totals), Demand Amount +
+     Response Deadline, Exhibit List.
+  4. Write the draft to
+     `cases/{{case_slug}}/documents/demand-{{carrier_slug}}-<YYYY-MM-DD>.md`
+     with demand-specific frontmatter (`demand_amount`,
+     `response_deadline`, `carrier`, `adjuster`, `claim_number`).
+  5. Set `case.frontmatter.demand_drafted: true` on the case file.
+  6. Log an activity entry at
+     `cases/{{case_slug}}/Activity Log/<YYYY-MM-DD-HHMM>-legal.md`
+     (category `legal`) noting the draft is ready for attorney review.
+
+  Do NOT set `attorney_approved_demand` — that flag belongs to the
+  downstream `attorney-review-demand` task.
+
+  This task is `review:true` — a human should read the draft before it
+  advances. The follow-on `attorney-review-demand` task is where the
+  attorney formally approves.
