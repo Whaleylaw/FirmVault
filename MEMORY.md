@@ -14,30 +14,40 @@ Building the active runtime. The system state machine is now machine-readable (`
 2. **`gh aw` wiring** — convert `runtime/materializer_prompt.md` and `runtime/worker_prompt.md` into `.github/workflows/*.md` so GitHub Actions runs the cron and the issue triggers natively.
 3. **Operator dashboard** — either pure GitHub Projects v2 (zero code) or a thin custom GitHub-API reader. Deferred pending runtime maturity.
 
-## Intake pipeline (external, already built)
+## Reality check: what actually exists vs. what's designed
 
-**The intake pipeline exists and lives entirely on the user's local machine.** It is intentionally *not* deployed to any hosted environment, because real firm documents never leave the user's infrastructure. The flow:
+This section is deliberately pessimistic. The architecture in CLAUDE.md is a **coherent design** unifying several separate experiments. Much of what sounds like a running system is still a plan.
 
-1. A watched `incoming/` folder on the user's machine receives documents (mail scans, email attachments, faxes, portal downloads).
-2. Every file runs through **[Kreuzberg](https://github.com/kreuzberg-dev/kreuzberg)** to be converted to markdown (PDF, DOCX, images, audio — Kreuzberg handles OCR and audio transcription).
-3. **PII masking** happens at this conversion stage, before any LLM sees the content.
-4. A classifier/namer agent reads the masked markdown and decides (a) what kind of document it is and (b) where in the case folder it belongs. The agent then files:
-   - The **original** (still PHI-bearing) file into the appropriate location in the user's real-file storage.
-   - The **masked markdown** into the corresponding location in a **local clone of this repo**. All subsequent agent work happens against that local clone.
-5. Changes to the local clone get pushed to the `firmvault` remote. Default behavior: **open a PR** for human review (verifies masking worked correctly and the agent's naming/filing looks right). Once the user trusts the pipeline, this is configurable down to a direct push.
+### What exists
 
-**Implications for this repo**:
+| Component | Status | Where |
+|---|---|---|
+| Vault layout + 117 imported cases | ✅ built | this repo |
+| `PHASE_DAG.yaml` + DATA_CONTRACT + landmarks-frontmatter on every case | ✅ built | this repo |
+| 42 modernized SKILL.md files + `Templates/` library | ✅ built | this repo |
+| Runtime scaffold: materializer prompt, worker prompt, 5 pilot task templates, task schema | ✅ built (as documentation/prompts) | this repo, `skills.tools.workflows/runtime/` |
+| **Partial** intake pipeline: Kreuzberg conversion + PII masking (strip-only) + wikilink generation | ✅ built | user's local machine, **separate repo** |
 
-- Do NOT build or propose an intake pipeline. It already exists.
-- Treat incoming PRs from the pipeline as a trusted source (after human review) — they are the primary mechanism by which new case state enters the vault.
-- The pipeline is the enforcement point for "PHI never touches the vault." If masking fails there, nothing downstream can fix it — flag as a pipeline bug.
-- The PR is the first human-in-the-loop gate in the whole system; the worker-level `status:needs_review` is the second.
+### What is NOT built
 
-Still unclear (ask user when relevant):
+- **Classifier/namer agent** — deciding what kind of document an incoming file is, what it should be named, and where in the case folder it belongs. Currently vaporware.
+- **Filing logic** — moving the original file into the user's real-file storage and the masked markdown into the local firmvault clone. Not built.
+- **PR / push workflow** — the pipeline does not yet commit or push anything to this repo. No workflow exists to get a converted document *into* the vault.
+- **Reversible masking / placeholder round-trip** — the current masker strips PII. It does not leave behind `{{client.ssn}}`-style tokens. The secrets-injection pattern discussed in CLAUDE.md is a **design idea**, not implemented. No way to render a HIPAA form with real values yet.
+- **Roscoe-table updates on intake** — when a medical records packet arrives, nothing currently updates `<!-- roscoe-medical-start -->`. That job doesn't exist in any component.
+- **Materializer / worker execution** — prompts exist as markdown files but nothing runs them on a schedule. `gh aw` is not wired.
+- **Live connection between the converter and this repo** — they are separate projects with no integration layer.
+- **Any running loop, any deployed service, any observability** — nothing is live.
 
-- Does the pipeline update `<!-- roscoe-medical-start -->` / `<!-- roscoe-insurance-start -->` tables, or just drop documents and let a separate worker update those tables later?
-- After masking, do the markdown files contain placeholder tokens (`{{client.ssn}}`) that point back to the real-file store, or is PII just gone entirely?
-- Is there a "file landed in case X" event the materializer can hook into for immediate landmark re-evaluation, or does it rely on the cron-based sweep to pick up the change?
+### What this means for "current focus"
+
+The real question isn't "what should we build next in this repo?" It's **"what should we build first across the whole product?"** — because the product is currently half a dozen separate pieces that don't yet talk to each other. Three honest paths forward:
+
+1. **Finish the backend runtime in this repo** (task templates + `gh aw` wiring) so there's a working self-driving loop on the pilot cases that already exist in the vault. Doesn't help intake, doesn't build the secrets round-trip, but produces a visible working demo of "here's what the paralegal backend does when a case is in flight."
+2. **Write an end-to-end architecture document** that unifies the converter + classifier + filing + PR + vault + runtime + secrets round-trip into one coherent sequence, then pick the highest-value next component. This is design work, not code, but it's probably worth 2–3 hours before we build more because the pieces don't currently agree on the handoff contracts.
+3. **Pick the single most product-critical missing piece and build it end-to-end.** Candidates: the classifier/namer + filing step (turns the converter into a real pipeline), or the secrets round-trip (the story that sells it to other firms).
+
+My recommendation: do (2) first — a short design doc — then pick between (1) and (3) based on what the design reveals.
 
 ## Shipped recently (reverse chronological on the working branch)
 
