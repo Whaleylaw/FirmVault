@@ -42,60 +42,52 @@ The user-stated bar for calling Track A successful:
 
 ## Current focus
 
-Building toward the Track A success criteria while keeping the contract layer usable by Track B. Next-move options:
+**Track A bake-off is scaffolded and Arch 1 is wired live.** Five candidate architectures exist under `experiments/arch-*/`. Arch 1 (Pure GitHub-native) has been pivoted from gh-aw markdown workflows to plain GitHub Actions YAML so it can be triggered entirely from a phone via the Actions tab. Arch 2 (Vibe Kanban) has a verified `render.yaml` at the repo root ready for the user to deploy from the Render dashboard.
 
-1. **Remaining task templates** — PHASE_DAG references ~15 workflows that don't have task templates yet (Phase 3 draft/send demand, Phase 4 negotiation, Phase 5 settlement processing, Phase 6 lien pay-off, Phase 7 litigation). Parallelizable via subagents.
-2. **`gh aw` wiring** — convert `runtime/materializer_prompt.md` and `runtime/worker_prompt.md` into `.github/workflows/*.md` so GitHub Actions runs the cron and the issue triggers natively.
-3. **Multi-agent dispatch** — the worker needs to be agent-agnostic (Claude Code / Codex / Gemini CLI). gh aw runs Copilot natively; other agents need subprocess wrappers.
-4. **UI layer** — Mission Control is the leading candidate; Vibe Kanban is the fallback because it natively handles multi-agent dispatch. Custom build is option 3.
+The immediate work in flight:
 
-## Reality check: what actually exists vs. what's designed
+1. **Remaining task templates for Phases 3–7** — PHASE_DAG references ~17 workflows that don't have templates yet. For any architecture to drive a case past Phase 2, these need to exist. Parallelizable via subagents. Currently being written.
+2. **Activate Arch 1 from the user's phone** — set `ANTHROPIC_API_KEY` as a repo secret, trigger `firmvault-materializer` from the Actions tab, watch the end-to-end loop fire on `jordan-brown`. Standby for first-run failures (npm install drift, CLI flag drift, branch protection).
+3. **Activate Arch 2 from the user's Render dashboard** — the sandbox cannot reach `api.render.com` (egress-blocked), so the user does the dashboard clicks: New Blueprint → connect firmvault → pick the working branch → Render reads `render.yaml` → fill in secrets → Apply.
+4. **Archs 3 / 4 / 5 scaffolds** exist but are not wired live yet. Arch 5 (`schedule` skill) flagged as likely-Claude-only (probably fails multi-agent dispatch criterion). Arch 3 (Mission Control) and Arch 4 (Case Cockpit) are bigger deployments, deferred until there's a reason to prefer one.
 
-This section is deliberately pessimistic. The architecture in CLAUDE.md is a **coherent design** unifying several separate experiments. Much of what sounds like a running system is still a plan.
+## Arch 1 wiring status (this session)
 
-### What exists
+`.github/workflows/` contains three **native** Actions YAML workflows plus three prompt files under `.github/workflows/prompts/`:
 
-| Component | Status | Where |
-|---|---|---|
-| Vault layout + 117 imported cases | ✅ built | this repo |
-| `PHASE_DAG.yaml` + DATA_CONTRACT + landmarks-frontmatter on every case | ✅ built | this repo |
-| 42 modernized SKILL.md files + `Templates/` library | ✅ built | this repo |
-| Runtime scaffold: materializer prompt, worker prompt, 5 pilot task templates, task schema | ✅ built (as documentation/prompts) | this repo, `skills.tools.workflows/runtime/` |
-| **Partial** intake pipeline: Kreuzberg conversion + PII masking (strip-only) + wikilink generation | ✅ built | user's local machine, **separate repo** |
+- `firmvault-materializer.yml` — cron every 15 min + `workflow_dispatch`, runs Claude Code headless to materialize task issues from the `write-case-summary` template for cases with `pilot: true` in frontmatter
+- `firmvault-worker.yml` — auto-fires on `issues.labeled` (status:ready), installs and invokes the selected CLI (claude-code / codex / gemini) via a bash `case` statement, commits to a `task/<id>` branch, opens a PR, flips the issue to `status:needs_review`
+- `firmvault-landmark-detector.yml` — auto-fires on `pull_request.closed` (merged) from `task/*` branches, re-evaluates `success_check`, closes the issue if satisfied
+- Prompts live in `.github/workflows/prompts/{materializer,worker,landmark-detector}.md`
 
-### What is NOT built
+Original gh-aw markdown sources preserved in `experiments/arch-1-pure-github/workflows/` as reference for a possible gh-aw rollback.
 
-- **Classifier/namer agent** — deciding what kind of document an incoming file is, what it should be named, and where in the case folder it belongs. Currently vaporware.
-- **Filing logic** — moving the original file into the user's real-file storage and the masked markdown into the local firmvault clone. Not built.
-- **PR / push workflow** — the pipeline does not yet commit or push anything to this repo. No workflow exists to get a converted document *into* the vault.
-- **Reversible masking / placeholder round-trip** — the current masker strips PII. It does not leave behind `{{client.ssn}}`-style tokens. The secrets-injection pattern discussed in CLAUDE.md is a **design idea**, not implemented. No way to render a HIPAA form with real values yet.
-- **Roscoe-table updates on intake** — when a medical records packet arrives, nothing currently updates `<!-- roscoe-medical-start -->`. That job doesn't exist in any component.
-- **Materializer / worker execution** — prompts exist as markdown files but nothing runs them on a schedule. `gh aw` is not wired.
-- **Live connection between the converter and this repo** — they are separate projects with no integration layer.
-- **Any running loop, any deployed service, any observability** — nothing is live.
+`cases/jordan-brown/jordan-brown.md` has `pilot: true` in frontmatter so it's the single case the smoke test targets.
 
-### What this means for "current focus"
+To run: set `ANTHROPIC_API_KEY` as a repo secret in the GitHub web UI, then Actions → firmvault-materializer → Run workflow. Full activation checklist is in `experiments/arch-1-pure-github/ACTIVATION.md`.
 
-The real question isn't "what should we build next in this repo?" It's **"what should we build first across the whole product?"** — because the product is currently half a dozen separate pieces that don't yet talk to each other. Three honest paths forward:
+## Track A bake-off: what exists in experiments/
 
-1. **Finish the backend runtime in this repo** (task templates + `gh aw` wiring) so there's a working self-driving loop on the pilot cases that already exist in the vault. Doesn't help intake, doesn't build the secrets round-trip, but produces a visible working demo of "here's what the paralegal backend does when a case is in flight."
-2. **Write an end-to-end architecture document** that unifies the converter + classifier + filing + PR + vault + runtime + secrets round-trip into one coherent sequence, then pick the highest-value next component. This is design work, not code, but it's probably worth 2–3 hours before we build more because the pieces don't currently agree on the handoff contracts.
-3. **Pick the single most product-critical missing piece and build it end-to-end.** Candidates: the classifier/namer + filing step (turns the converter into a real pipeline), or the secrets round-trip (the story that sells it to other firms).
+All five candidate architectures are scaffolded as reference prototypes. **Only Arch 1 is wired live in `.github/workflows/`**; the others are self-contained under `experiments/` until the user chooses one to deploy.
 
-My recommendation: do (2) first — a short design doc — then pick between (1) and (3) based on what the design reveals.
+| # | Architecture | Files | Lines | State |
+|---|---|---:|---:|---|
+| 1 | Pure GitHub-native (native Actions YAML) | 6 + 3 prompts | ~1,500 | **Live**, phone-triggerable after ANTHROPIC_API_KEY is set |
+| 2 | Vibe Kanban (REST API + worktrees + diff review) | 5 | ~1,290 | `render.yaml` at repo root, ready for Blueprint deploy |
+| 3 | Mission Control (SQLite + Aegis + queue-poll dispatch) | 6 | ~1,070 | Scaffold only; deploys to Render with MC adapters |
+| 4 | Custom Case Cockpit (Next.js + Drizzle + Postgres) | 28 | ~2,076 | Scaffold only; Next.js app with deterministic stub worker for no-cost smoke test |
+| 5 | Claude Code `schedule` skill + GitHub Issues | 7 | ~921 | Scaffold only; honest self-evaluation flags likely Claude-only constraint |
 
 ## Shipped recently (reverse chronological on the working branch)
 
-- `CLAUDE.md` + `MEMORY.md` at repo root (this commit)
-- `skills.tools.workflows/runtime/scripts/backfill_landmarks.py` — one-shot + re-runnable script that parses the `<!-- roscoe-medical-start -->` and `<!-- roscoe-insurance-start -->` tables in each case file and writes a `landmarks:` boolean map to the frontmatter plus tracking flags on provider contact stubs. Run across all 117 cases; 29 cases auto-advanced from `intake`/`onboarding` to the correct phase.
-- Materializer prompt updated: added the status→phase key mapping (`onboarding` → `phase_0_onboarding`, etc.) and the "check `landmarks` frontmatter first, predicate as fallback" rule.
-- **42 modernized `SKILL.md` files** (6 parallel subagent batches plus 3 hand-written exemplars). All in Anthropic Agent Skills format with `allowed-tools` frontmatter, named PHASE_DAG landmarks, explicit output paths, and "what this skill does NOT do" disambiguation sections. Consolidations along the way: 5 lien skills → 1 `lien-management`; 6 deposition skills → 2 (`deposition-prep` + `deposition-strategy`); mediation-strategy merged into mediation-prep; created new `cross-examination` skill wrapping an orphan folder; wrapped `sub-agents/` orphan folder with a SKILL.md index.
-- `skills.tools.workflows/runtime/` scaffold: `README.md`, `task_schema.md`, `materializer_prompt.md`, `worker_prompt.md`, and 5 pilot task templates (`request-medical-records`, `send-letter-of-rep-bi`, `run-pip-waterfall`, `file-pip-application`, `biweekly-client-checkin`).
-- `skills.tools.workflows/workflows/PHASE_DAG.yaml` — 498-line machine-readable phase definition with all 9 phases, landmarks, vault-evaluable predicates, and transitions including the negotiation→settlement-vs-litigation branch.
-- `skills.tools.workflows/DATA_CONTRACT.md` — authoritative vault layout spec. **Source of truth for any write path.**
-- `Templates/` at repo root — 96 firm templates copied from RoscoeDesktop, slugified. `Templates/INDEX.md` catalogs 73 document templates in 9 categories.
-- `skills.tools.workflows/` full cleanup: deduped from 144 `skill.md` files → 42 (one canonical per skill); deleted 20 redundant `generate_document.py` copies; removed all `_archive/` folders and 1900-line stale `sub-skills/` tree; bulk-swept stale FalkorDB/ROSCOE_ROOT/JSON references.
-- Historical: Roscoe spreadsheet imports built the initial vault — 110 clients, 179 expenses, 221 insurance rows (107 cases), 494 medical items (103 cases), 3,530 activity log entries across 5 phase exports (836 dedup'd).
+- **Arch 1 pivot to native GitHub Actions YAML** — rewrote the three gh-aw markdown sources as plain `.github/workflows/*.yml` that install Claude Code / Codex / Gemini CLI inside the runner via `npm install -g` and invoke them as subprocesses. Multi-agent dispatch via a bash `case` statement. Prompts extracted into `.github/workflows/prompts/`. Original gh-aw sources kept as reference in `experiments/arch-1-pure-github/workflows/`. Phone-friendly: the user can trigger everything from the GitHub Actions tab on mobile; no laptop CLI step. `experiments/arch-1-pure-github/ACTIVATION.md` rewritten from scratch for the new flow.
+- **`render.yaml` at repo root for Arch 2** — verified against the real BloopAI/vibe-kanban source. Uses `runtime: docker` + cross-repo build because VK doesn't publish a GHCR image (checked all of VK's CI workflows, zero docker-publish steps). Materializer dry-run confirmed working against the real 117-case vault. User deploys from Render dashboard → New Blueprint Instance.
+- **Track A bake-off: 5 parallel subagents scaffolded the candidate architectures** in `experiments/arch-{1-pure-github,2-vibe-kanban,3-mission-control,4-case-cockpit,5-schedule-skill}/`. ~52 files, ~6,358 lines total. Each one is self-contained: README, setup/deployment files, the runtime pieces specific to that architecture. Each uses the common test harness `write-case-summary.yaml` task template against the `jordan-brown` pilot case so comparisons are apples-to-apples.
+- **`skills.tools.workflows/runtime/task_templates/write-case-summary.yaml`** — the shared bake-off smoke test task. Trivial synthetic task (write a one-paragraph case summary, flip `case_summary_written: true`) that exercises the full runtime loop without burning domain-expert agent time. Reviewable (not auto), phase-agnostic, emits on any case missing the flag.
+- **`DESIGN.md` Phase 2** (edited by the user with corrections) — comparative flow traces through all five candidate architectures, unified role contract, comparison matrix across infra / multi-agent dispatch / review gate / observability / setup friction / cost / lock-in / thesis fit, and a ranked recommendation (Arch 1 → Arch 2 first, Archs 3/4 conditional).
+- **`CLAUDE.md` + `MEMORY.md` at repo root** — file-based memory fallback since the Honcho plugin is blocked in this sandbox. CLAUDE.md imports DATA_CONTRACT, DESIGN, and MEMORY at every session start so future sessions load orientation automatically.
+- **`skills.tools.workflows/runtime/scripts/backfill_landmarks.py`** — one-shot + re-runnable script that parses the `<!-- roscoe-medical-start -->` and `<!-- roscoe-insurance-start -->` tables and writes a `landmarks:` boolean map to case frontmatter plus tracking flags on provider stubs. Ran across all 117 cases; 29 cases auto-advanced phases.
+- **42 modernized `SKILL.md` files** (6 parallel subagent batches + 3 hand-written exemplars). Anthropic Agent Skills format, `allowed-tools` frontmatter, named PHASE_DAG landmarks. Consolidations: 5 lien skills → 1 `lien-management`; 6 deposition skills → 2 (`deposition-prep`, `deposition-strategy`); `mediation-strategy` merged into `mediation-prep`; new `cross-examination` skill; wrapped orphan `sub-agents/` folder.
 
 ## Pending flags (surfaced during modernization, not yet fixed)
 
@@ -103,8 +95,9 @@ These are real gaps, not stale references. Ordered roughly by priority.
 
 ### Must-fix-before-runtime-lights-up
 
-- **Missing task templates for Phases 3–7.** We have 5 pilot templates covering intake / treatment / file-setup. For the materializer to drive a case past Phase 2 we need ~15 more (gather-demand, draft-demand, send-demand, followup-demand, track-offers-update, evaluate-offer, counter-offer, prepare-settlement-statement, prepare-authorization, execute-release, receive-funds, distribute-to-client, request-final-lien-amounts, negotiate-liens, pay-liens, draft-complaint, file-complaint, serve-process, discovery-rounds).
+- **Missing task templates for Phases 3–7.** We have 6 pilot templates covering intake / treatment / file-setup / bake-off smoke test. For the materializer to drive a case past Phase 2 we need ~17 more (gather-demand, draft-demand, send-demand, followup-demand, track-offers-update, evaluate-offer, counter-offer, prepare-settlement-statement, prepare-authorization, execute-release, receive-funds, distribute-to-client, request-final-lien-amounts, negotiate-liens, pay-liens, draft-complaint, file-complaint, serve-process, discovery-rounds). **Being written now** via parallel subagents.
 - **Per-case `CLAUDE.md` files use a legacy landmark schema** (UUID-per-landmark list) that doesn't match the current boolean-map format from the backfill. 117 files affected. They're case-scoped and load on demand, so this is not blocking, but they should be regenerated from the current `landmarks:` frontmatter before the materializer relies on per-case context.
+- **Arch 1 first-run unknowns.** The workflows have never actually been executed. Expected to surface: `npm install -g @anthropic-ai/claude-code` / `@openai/codex` / `@google/gemini-cli` package-name or version drift; `claude --print` / `--dangerously-skip-permissions` / `--allowedTools` CLI flag drift; branch protection blocking `task/*` pushes from the Actions runner; `gh issue create` label auto-creation failing on some GitHub plans. ACTIVATION.md has a debug table for each.
 
 ### Known limitations, not blocking
 
@@ -122,8 +115,9 @@ These are real gaps, not stale references. Ordered roughly by priority.
 ### Open architectural questions
 
 - **Honcho memory backend**: user preferred, but blocked in the cloud Claude Code sandbox — `api.honcho.dev`, `app.honcho.dev`, `mcp.honcho.dev` all return `403 host_not_allowed`. Plan: install the Honcho plugin on desktop CLI only; cloud sandbox relies on this file + the auto-loaded `CLAUDE.md` instead.
+- **Render is also egress-blocked** from this sandbox (`api.render.com`, `dashboard.render.com`, `render.com` all 403). The sandbox cannot deploy anything to Render; it can only produce `render.yaml` blueprints for the user to apply from the Render dashboard on their own machine.
 - **Secrets backing store for the product version**: tentatively SOPS + age on per-case encrypted files inside the user's own infrastructure (not the vault, not GitHub Secrets). Scales to KMS + OIDC for multi-tenant. Not built yet.
-- **Operator UI**: four candidates surveyed (Vibe Kanban, Conductor OSS, Cline Kanban, custom Case Cockpit). User chose to focus on backend first; UI decision deferred. The lawyer UI is Huly and is a separate project.
+- **Track A UI layer**: not resolved. The bake-off scaffolded five candidate architectures; Arch 1 and Arch 2 are the next-move candidates for a real test. Decision deferred until after Arch 1 smoke test results come back. The lawyer UI is Huly and is a separate project.
 
 ## Conventions worth remembering
 
