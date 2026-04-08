@@ -1,0 +1,77 @@
+name: firmvault-setup-labels
+
+# One-time setup workflow: creates all the labels the Arch 1 workflows
+# need. Run this ONCE before triggering firmvault-materializer for the
+# first time. If any label already exists, gh label create fails safely
+# and the step continues to the next label.
+#
+# Trigger from the Actions tab:
+#   Actions → firmvault-setup-labels → Run workflow
+#
+# This is the only workflow that needs to run before everything else.
+
+on:
+  workflow_dispatch: {}
+
+permissions:
+  issues: write
+
+jobs:
+  setup:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    steps:
+      - name: Create labels
+        run: |
+          set -u
+          # Format: "name|color|description"
+          labels=(
+            "case:jordan-brown|0e8a16|Pilot case — Jordan Brown"
+            "phase:any|ededed|Phase-agnostic task"
+            "skill:write-case-summary|1d76db|Bake-off smoke test skill"
+            "priority:low|c2e0c6|Low priority"
+            "priority:normal|c2e0c6|Normal priority"
+            "priority:high|d93f0b|High priority"
+            "status:ready|0e8a16|Worker may pick up"
+            "status:claimed|fbca04|Worker has claimed"
+            "status:in_progress|fbca04|Worker running"
+            "status:needs_review|d93f0b|Awaiting human review"
+            "status:done|0e8a16|Complete, success_check satisfied"
+            "status:failed|b60205|Complete, success_check failed"
+            "status:blocked|c5def5|depends_on not yet done"
+            "auto|cccccc|Worker may self-close"
+            "review|fef2c0|Worker must stop for human review"
+            "pilot|d4c5f9|Restrict to cases with pilot:true"
+          )
+
+          created=0
+          existed=0
+          failed=0
+
+          for spec in "${labels[@]}"; do
+            IFS='|' read -r name color desc <<< "$spec"
+            if gh label create "$name" --color "$color" --description "$desc" 2>/dev/null; then
+              echo "  created: $name"
+              created=$((created + 1))
+            else
+              # Try edit — idempotent if the label exists
+              if gh label edit "$name" --color "$color" --description "$desc" >/dev/null 2>&1; then
+                echo "  existed: $name (updated color/desc)"
+                existed=$((existed + 1))
+              else
+                echo "  FAILED:  $name"
+                failed=$((failed + 1))
+              fi
+            fi
+          done
+
+          echo ""
+          echo "Summary: created=$created existed=$existed failed=$failed"
+
+          if [ "$failed" -gt 0 ]; then
+            echo "::warning::$failed labels failed to create/update. Check repo permissions."
+            exit 1
+          fi
