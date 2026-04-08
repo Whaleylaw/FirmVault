@@ -45,11 +45,19 @@
 services:
   - type: web
     name: firmvault-vibe-kanban
-    # Build from the upstream Dockerfile in the BloopAI/vibe-kanban repo.
-    # Render will clone that repo fresh for each build, independent of the
-    # firmvault repo this render.yaml lives in.
+    # Build from the upstream Dockerfile in a FORK of BloopAI/vibe-kanban.
+    # We use a fork (Whaleylaw/vibe-kanban) because upstream's Dockerfile
+    # is missing COPY lines for packages/remote-web, causing `pnpm install
+    # --frozen-lockfile` to fail at build time. The fork has a two-line
+    # fix applied to its Dockerfile. Once upstream merges an equivalent
+    # PR, swap this back to BloopAI/vibe-kanban.
+    #
+    # Canonical fixed Dockerfile is also committed in this repo at
+    # experiments/arch-2-vibe-kanban/Dockerfile.fixed-upstream as a
+    # reference for re-applying the fix if the fork falls behind
+    # upstream.
     runtime: docker
-    repo: https://github.com/BloopAI/vibe-kanban
+    repo: https://github.com/Whaleylaw/vibe-kanban
     branch: main
     dockerfilePath: ./Dockerfile
 
