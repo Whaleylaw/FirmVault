@@ -1,0 +1,98 @@
+---
+template_id: respond-to-discovery
+landmark: discovery_completed
+phase: phase_7_litigation
+skill: discovery-response
+priority: high                         # 30-day clock is hard
+auto: false
+review: true
+
+# One task per incoming round from each defendant. Discriminator format:
+# "from-<defendant>-round-<n>". Round numbering is per-defendant,
+# tracked in case.frontmatter.discovery_incoming[<defendant>][].
+task_id_template: "{case_slug}-discovery-in-{discriminator}"
+discriminator: per_incoming_round
+
+# Emit when an incoming discovery packet is logged in the activity log
+# with category=legal and subcategory=discovery-received, and we
+# haven't yet produced a response for that round.
+emit_when: |
+  any(
+    a for a in case.activity
+    if a.category == "legal"
+    and a.subcategory == "discovery-received"
+    and not a.metadata.get("response_sent")
+  )
+
+success_check: |
+  case.activity.has(
+    category="legal",
+    subcategory="discovery-response-served",
+    metadata={"round": discriminator}
+  )
+
+inputs:
+  case_file: "cases/{case_slug}/{case_slug}.md"
+  incoming_packet_dir: "cases/{case_slug}/documents/discovery/incoming-{discriminator}/"
+  output_dir: "cases/{case_slug}/documents/discovery/response-{discriminator}/"
+
+depends_on:
+  - "{case_slug}-file-complaint"
+
+body: |
+  ## Task: Respond to incoming discovery — {{discriminator}}
+
+  **Case:** [[cases/{{case_slug}}/{{case_slug}}|{{client_name}}]]
+  **Incoming from:** {{defendant_name}}
+  **Round:** {{round_number}}
+  **Phase:** Litigation — discovery response
+  **Priority:** HIGH — CR 33/34/36 30-day clock, +3 days if mailed per
+  CR 6.05. Unanswered RFAs are deemed admitted.
+
+  Use the `discovery-response` skill. The incoming packet is at
+  `cases/{{case_slug}}/documents/discovery/incoming-{{discriminator}}/`.
+
+  Worker steps:
+
+  1. Read the incoming interrogatories / RFPs / RFAs, along with
+     `cases/{{case_slug}}/{{case_slug}}.md`, the accident report, and
+     medical records from `cases/{{case_slug}}/documents/medical/`
+     (if present).
+  2. Compute the response deadline. Deadline = service_date + 30 days,
+     plus 3 days if served by mail (CR 6.05). Post the deadline in the
+     task comment in the first 10 minutes so the attorney sees the clock.
+  3. Walk each request and classify as:
+     - **Answer in full** — routine, non-privileged, we have the info
+     - **Answer subject to objection** — borderline scope, answer partially
+     - **Object only** — improper, privileged, or outside discovery scope
+     Use objection language from
+     `Skills/discovery-response/references/common-objections.md`. Every
+     objection must be specific — boilerplate invites sanctions.
+  4. For RFPs, identify responsive documents in
+     `cases/{{case_slug}}/documents/`, Bates-stamp the production under
+     `cases/{{case_slug}}/documents/discovery/response-{{discriminator}}/production/`.
+     Flag privileged documents to withhold.
+  5. If withholding anything, build a privilege log per
+     `Skills/discovery-response/references/privilege-log.md`. Save as
+     `cases/{{case_slug}}/documents/discovery/response-{{discriminator}}/privilege-log.docx`.
+  6. Assemble the response documents, save under
+     `cases/{{case_slug}}/documents/discovery/response-{{discriminator}}/`:
+     - `<YYYY-MM-DD>-plaintiff-response-to-interrogatories.docx`
+     - `<YYYY-MM-DD>-plaintiff-response-to-rfps.docx`
+     - `<YYYY-MM-DD>-plaintiff-response-to-rfas.docx`
+  7. Post `status:needs_review` with: deadline, counts of answer / obj
+     / partial, RFAs with any admissions, documents in production,
+     privilege-log entries.
+
+  After attorney sign-off and service:
+
+  8. Log an activity entry at
+     `cases/{{case_slug}}/Activity Log/<YYYY-MM-DD-HHMM>-legal.md`
+     (category `legal`, subcategory `discovery-response-served`)
+     with `metadata.round: {{discriminator}}`.
+  9. File a Notice of Service with the court and save it to
+     `cases/{{case_slug}}/documents/legal-filings/`.
+
+  **Do NOT** close this task as done until the served response is on
+  file and the activity-log subcategory `discovery-response-served`
+  exists — that entry is what the success_check reads.

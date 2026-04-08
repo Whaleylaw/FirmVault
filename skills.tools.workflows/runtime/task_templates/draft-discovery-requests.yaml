@@ -1,0 +1,99 @@
+---
+template_id: draft-discovery-requests
+landmark: discovery_completed
+phase: phase_7_litigation
+skill: discovery-drafting
+priority: normal
+auto: false
+review: true
+
+# Discriminator is "round-<n>-<defendant>". Each round of written
+# discovery to each defendant is a distinct task. The round number is
+# read from case.frontmatter.discovery_next_round (attorney-managed).
+task_id_template: "{case_slug}-discovery-out-{discriminator}"
+discriminator: per_round_per_defendant
+
+# Emit when service is complete and the attorney has opened a new
+# outgoing round by bumping discovery_next_round. The per-defendant
+# iteration happens in the materializer fan-out.
+emit_when: |
+  all(d.served_date for d in case.defendants)
+  and case.frontmatter.discovery_next_round is not null
+  and any(
+    d for d in case.defendants
+    if not d.discovery_sent.get(case.frontmatter.discovery_next_round)
+  )
+
+success_check: |
+  any(
+    d for d in case.defendants
+    if d.slug == discriminator.split("-")[-1]
+    and d.discovery_sent.get(discriminator.split("-")[1])
+  )
+
+inputs:
+  case_file: "cases/{case_slug}/{case_slug}.md"
+  round_number: "{discriminator_round}"
+  defendant_slug: "{discriminator_defendant}"
+  output_dir: "cases/{case_slug}/documents/discovery/round-{discriminator_round}-to-{discriminator_defendant}/"
+
+depends_on:
+  - "{case_slug}-serve-defendant-{discriminator_defendant}"
+
+body: |
+  ## Task: Draft round-{{round_number}} written discovery to {{defendant_name}}
+
+  **Case:** [[cases/{{case_slug}}/{{case_slug}}|{{client_name}}]]
+  **Defendant:** {{defendant_name}} (`{{defendant_slug}}`)
+  **Round:** {{round_number}}
+  **Phase:** Litigation — active discovery
+
+  Use the `discovery-drafting` skill to draft the three standard
+  written-discovery vehicles: interrogatories (CR 33), requests for
+  production (CR 34), and requests for admission (CR 36). Stay under
+  the 30-interrogatory cap unless the attorney has explicitly approved
+  leave to exceed.
+
+  Worker steps:
+
+  1. Read `cases/{{case_slug}}/{{case_slug}}.md` and the defendant's
+     answer (if filed) at
+     `cases/{{case_slug}}/documents/legal-filings/answer-{{defendant_slug}}.pdf`
+     to identify contested facts and affirmative defenses.
+  2. List 3–5 specific discovery goals in the task comment (liability,
+     insurance, witnesses, documents, damages contentions). Every
+     request in the draft must trace back to one of these.
+  3. Pull starter language from the discovery-drafting references:
+     - `Skills/discovery-drafting/references/interrogatory-templates.md`
+     - `Skills/discovery-drafting/references/rfp-templates.md`
+     - `Skills/discovery-drafting/references/rfa-templates.md`
+  4. Assemble one document per vehicle. Include the firm's standard
+     instructions and definitions blocks. Number sequentially.
+  5. Save drafts under
+     `cases/{{case_slug}}/documents/discovery/round-{{round_number}}-to-{{defendant_slug}}/`:
+     - `<YYYY-MM-DD>-plaintiff-interrogatories.docx`
+     - `<YYYY-MM-DD>-plaintiff-rfps.docx`
+     - `<YYYY-MM-DD>-plaintiff-rfas.docx`
+  6. Log the draft at
+     `cases/{{case_slug}}/Activity Log/<YYYY-MM-DD-HHMM>-legal.md`
+     (subcategory `discovery-drafted`).
+  7. Post `status:needs_review` with: the 3–5 goals, a count of
+     interrogatories / RFPs / RFAs, and a flag for any items that
+     approach the 30-rog cap.
+
+  After attorney approval and service on opposing counsel:
+
+  8. Update the defendant record:
+     ```yaml
+     discovery_sent:
+       "{{round_number}}":
+         sent_date: "<YYYY-MM-DD>"
+         served_method: <email|mail|portal>
+         response_deadline: "<YYYY-MM-DD>"   # served_date + 30d (+3 if mailed)
+     ```
+  9. Calendar the response deadline (CR 33/34/36: 30 days from service,
+     +3 for mail per CR 6.05).
+
+  The `discovery_completed` landmark is soft — it flips when the
+  attorney sets `case.flag("discovery_complete")`. Outgoing rounds
+  contribute but do not themselves satisfy it.
