@@ -1,0 +1,89 @@
+---
+template_id: distribute-to-client
+landmark: client_distributed
+phase: phase_5_settlement
+# Use settlement-statement when there are no outstanding liens (clean
+# Phase 5 → Phase 8 exit). If outstanding liens exist the materializer
+# should also enforce depends_on liens_paid (see note below) and this
+# task acts as a Phase-5-complete disbursement of NET (not surplus);
+# the Phase-6 supplemental-statement handles any post-lien surplus.
+skill: settlement-statement
+priority: high
+auto: false
+review: true
+
+task_id_template: "{case_slug}-distribute-to-client"
+discriminator: null
+
+emit_when: |
+  case.frontmatter.settlement_funds_received == true
+  and case.frontmatter.client_distribution_date is None
+
+success_check: |
+  case.frontmatter.client_distribution_date is not None
+
+inputs:
+  case_file: "cases/{case_slug}/{case_slug}.md"
+  settlement_statement: "cases/{case_slug}/documents/legal/"
+  liens_dir: "cases/{case_slug}/liens/"
+
+# IMPORTANT: If any lien in cases/<slug>/liens/ has status != "paid",
+# the materializer MUST additionally add the Phase-6 liens_paid task id
+# to depends_on at emit time. Distributing the net to the client before
+# liens are paid is a KRPC 1.15 violation. See "Dependency note" in the
+# body below.
+depends_on:
+  - "{case_slug}-receive-settlement-funds"
+
+body: |
+  ## Task: Distribute net settlement to client
+
+  **Case:** [[cases/{{case_slug}}/{{case_slug}}|{{client_name}}]]
+  **Phase:** Settlement (exit)
+  **Priority:** High (money-moving to client — Phase 5 final blocker)
+
+  Funds are in trust. The authorization-to-settle is signed. The release
+  is executed. Distribute the net to the client per the approved
+  settlement statement.
+
+  **Dependency note (READ FIRST):** if
+  `cases/{{case_slug}}/liens/` contains any file with `status != paid`,
+  this task depends on the Phase-6 `liens_paid` landmark. The
+  materializer must have added `{{case_slug}}-pay-liens` (or equivalent)
+  to `depends_on` before flipping this issue from `status:blocked` to
+  `status:ready`. If you are running this task and any lien is still
+  outstanding, STOP and apply `status:blocked` — disbursing the net to
+  the client ahead of paying liens out of the holdback violates KRPC
+  1.15. This task only distributes the NET portion; any surplus that
+  emerges after liens are paid is handled by `supplemental-statement`
+  in Phase 6.
+
+  Steps:
+
+  1. Read the approved
+     `cases/{{case_slug}}/documents/legal/settlement-statement-<YYYY-MM-DD>.md`
+     to confirm the `net_to_client` figure.
+  2. Confirm `settlement_funds_received_amount` in the case frontmatter
+     matches the gross on the statement. Any mismatch blocks.
+  3. Draft a disbursement / transmittal letter to the client:
+     `cases/{{case_slug}}/documents/legal/client-disbursement-letter-<YYYY-MM-DD>.md`.
+     Reference the approved statement and the net check amount.
+  4. Record the trust-account disbursement in an Activity Log entry at
+     `cases/{{case_slug}}/Activity Log/<YYYY-MM-DD-HHMM>-legal.md`
+     (subcategory: `disbursement`), including: date, payee, amount,
+     check number or wire reference, trust-ledger line.
+  5. Use the `settlement-statement` skill to update the statement file's
+     "Actual distribution" section with the real payment date.
+  6. Set the case file frontmatter:
+
+     ```yaml
+     client_distribution_date: "<YYYY-MM-DD>"
+     client_distribution_amount: <net_amount>
+     ```
+
+  This task is `review:true` — the attorney must sign off on the
+  disbursement letter and the trust accounting before the check is cut.
+
+  This satisfies landmark `client_distributed` and exits Phase 5. The
+  next phase is `phase_8_closed` (if no outstanding liens) or
+  `phase_6_lien` (if any remain) per PHASE_DAG transitions.

@@ -1,0 +1,81 @@
+---
+template_id: negotiate-lien
+landmark: liens_negotiated
+phase: phase_6_lien
+skill: lien-management
+priority: high
+auto: false           # negotiation positions need attorney sign-off
+review: true
+
+# One task per (case, lien creditor). Non-negotiable liens satisfy the
+# landmark trivially (predicate treats `not l.negotiable` as negotiated).
+task_id_template: "{case_slug}-negotiate-lien-{discriminator}"
+discriminator: per_lien_creditor
+
+emit_when: |
+  any(
+    l for l in case.liens.where(status="outstanding")
+    if l.final_amount
+    and l.negotiable
+    and not l.negotiated_amount
+  )
+
+success_check: |
+  all(
+    (l.negotiated_amount or not l.negotiable)
+    for l in case.liens.where(status="outstanding")
+    if l.slug == discriminator
+  )
+
+inputs:
+  creditor_slug: "{discriminator}"
+  case_file: "cases/{case_slug}/{case_slug}.md"
+  lien_file: "cases/{case_slug}/liens/{discriminator}.md"
+
+depends_on:
+  - "{case_slug}-receive-final-lien-{discriminator}"
+
+body: |
+  ## Task: Negotiate reduction with {{creditor_name}}
+
+  **Case:** [[cases/{{case_slug}}/{{case_slug}}|{{client_name}}]]
+  **Lien holder:** [[cases/{{case_slug}}/liens/{{creditor_slug}}|{{creditor_name}}]]
+  **Phase:** Lien Resolution
+  **Produces:** `negotiated_amount` on this lien; aggregates into
+  `liens_negotiated`.
+
+  Use the `lien-management` skill. Load the type-specific reference plus
+  the cross-type playbook:
+
+  - `lien-management/references/reduction-strategies.md` — generic
+  - `lien-management/references/compromise-waiver.md` — legal grounds
+  - `medicare.md` — CMS compromise/waiver (limited, formal process)
+  - `medicaid.md` — Ahlborn, common-fund, made-whole by state
+  - `erisa.md` — plan language + Sereboff / US Airways v. McCutchen
+  - `providers.md` — state hospital lien statute caps, balance billing
+
+  Steps:
+
+  1. Read `cases/{{case_slug}}/liens/{{creditor_slug}}.md` — pull
+     `final_amount`, `lien_type`, `negotiable`.
+  2. Read the case file to understand gross settlement, fees, costs,
+     and competing lien totals (for common-fund / made-whole arguments).
+  3. Pick the reduction theory and draft the position per the relevant
+     reference. Save correspondence drafts to
+     `cases/{{case_slug}}/documents/legal/lien-negotiation-{{creditor_slug}}-<YYYY-MM-DD>.md`
+     (markdown — no firm DOCX for negotiation letters).
+  4. When a reduction is agreed, update the lien stub:
+     ```yaml
+     negotiated_amount: <number>
+     negotiation_date: "<today>"
+     negotiation_rationale: <one-line summary>
+     status: negotiated
+     ```
+     If the lien is legally non-negotiable, instead set
+     `negotiable: false` — the success predicate treats that as done.
+  5. Log an activity entry at
+     `cases/{{case_slug}}/Activity Log/<YYYY-MM-DD-HHMM>-legal.md`.
+
+  `review: true` — attorney approves every negotiation position before
+  it is communicated to the lienholder. Do NOT flip `status: paid` here;
+  that is `pay-lien`.

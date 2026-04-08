@@ -1,0 +1,82 @@
+---
+template_id: pay-lien
+landmark: liens_paid
+phase: phase_6_lien
+skill: lien-management
+priority: high
+auto: false           # HARD BLOCKER, money leaves trust — never auto
+review: true
+
+# One task per (case, lien creditor). The `liens_paid` landmark flips
+# only when every lien on the case has status: paid, i.e. the
+# aggregation `case.liens.where(status="outstanding").count == 0`.
+task_id_template: "{case_slug}-pay-lien-{discriminator}"
+discriminator: per_lien_creditor
+
+emit_when: |
+  any(
+    l for l in case.liens.where(status="outstanding")
+    if (l.negotiated_amount or l.final_amount)
+    and l.status != "paid"
+  )
+
+success_check: |
+  all(
+    l.status == "paid" and l.paid_date and l.paid_amount
+    for l in case.liens
+    if l.slug == discriminator
+  )
+
+inputs:
+  creditor_slug: "{discriminator}"
+  case_file: "cases/{case_slug}/{case_slug}.md"
+  lien_file: "cases/{case_slug}/liens/{discriminator}.md"
+
+depends_on:
+  - "{case_slug}-negotiate-lien-{discriminator}"
+
+body: |
+  ## Task: Pay lien — {{creditor_name}}
+
+  **Case:** [[cases/{{case_slug}}/{{case_slug}}|{{client_name}}]]
+  **Lien holder:** [[cases/{{case_slug}}/liens/{{creditor_slug}}|{{creditor_name}}]]
+  **Phase:** Lien Resolution
+  **HARD BLOCKER** — contributes to `liens_paid` landmark.
+  `liens_paid` flips only when every lien on this case is `status: paid`.
+
+  Use the `lien-management` skill (Phase 6 "Pay, release"). **This is a
+  money-touching task.** The worker drafts the disbursement letter and
+  the ledger update; an attorney must approve before the check is cut.
+
+  Steps:
+
+  1. Read `cases/{{case_slug}}/liens/{{creditor_slug}}.md`. The amount
+     to pay is `negotiated_amount` if set, otherwise `final_amount`.
+  2. Draft the disbursement / payoff letter to the lienholder and save
+     to `cases/{{case_slug}}/documents/legal/lien-payment-{{creditor_slug}}-<YYYY-MM-DD>.docx`.
+     Include release / satisfaction-of-lien language per the relevant
+     `lien-management` reference.
+  3. Draft the trust ledger entry (markdown) noting the amount debited
+     from the lien holdback.
+  4. After the attorney approves AND the check is cut AND a release is
+     received from the lienholder, update the lien stub frontmatter:
+     ```yaml
+     status: paid
+     paid_amount: <number>
+     paid_date: "<date check cleared>"
+     release_received: true
+     release_document: <path under documents/>
+     ```
+  5. Update the `## Liens` bullet in `cases/{{case_slug}}/{{case_slug}}.md`
+     to reflect `(paid)` instead of `(outstanding)`. Do NOT edit between
+     `<!-- roscoe-*-start -->` markers.
+  6. Log the disbursement at
+     `cases/{{case_slug}}/Activity Log/<YYYY-MM-DD-HHMM>-legal.md`.
+
+  When every lien on the case is `status: paid`, the case-level landmark
+  `liens_paid` flips automatically (predicate:
+  `case.liens.where(status="outstanding").count == 0`), unblocking
+  `final-distribution`.
+
+  `review: true` — mandatory. Money does not leave trust without a human
+  signing off.
