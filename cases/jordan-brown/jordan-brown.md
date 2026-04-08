@@ -1,5 +1,6 @@
 ---
 schema_version: 2
+pilot: true
 client_name: Jordan Brown
 case_type: auto_accident
 status: demand

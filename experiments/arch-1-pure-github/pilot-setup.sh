@@ -35,14 +35,17 @@ else
   # Insert `pilot: true` immediately after the opening `---` frontmatter line.
   # Uses a temp file to stay portable across GNU / BSD sed.
   TMP_FILE="$(mktemp)"
+  # NOTE: the awk program is inside single quotes — do NOT use apostrophes
+  # inside comments here (they would terminate the outer quoting). Previous
+  # bug: a comment containing "shouldn't" broke bash parsing at line 47.
   awk '
     BEGIN { inserted = 0 }
     NR == 1 && /^---$/ { print; print "pilot: true"; inserted = 1; next }
     { print }
     END {
       if (!inserted) {
-        # Case file had no opening --- (shouldn't happen with schema_version 2
-        # files, but guard anyway).
+        # Case file had no opening --- (should not happen with schema_version
+        # 2 files, but guard anyway).
         exit 2
       }
     }
