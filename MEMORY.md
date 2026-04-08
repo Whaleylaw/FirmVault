@@ -10,10 +10,34 @@
 
 Building the active runtime. The system state machine is now machine-readable (`PHASE_DAG.yaml`), every case has `landmarks:` frontmatter, and the first 5 task templates exist. Next-move options under discussion with the user:
 
-1. **Intake pipeline** — the "front door" that turns incoming documents into PHI-masked markdown PRs. Highest-value component not yet built.
-2. **Remaining task templates** — PHASE_DAG references ~15 workflows that don't have task templates yet (Phase 3 draft/send demand, Phase 4 negotiation, Phase 5 settlement processing, Phase 6 lien pay-off, Phase 7 litigation). Parallelizable via subagents.
-3. **`gh aw` wiring** — convert `runtime/materializer_prompt.md` and `runtime/worker_prompt.md` into `.github/workflows/*.md` so GitHub Actions runs the cron and the issue triggers natively.
-4. **Operator dashboard** — either pure GitHub Projects v2 (zero code) or a thin custom GitHub-API reader. Deferred pending runtime maturity.
+1. **Remaining task templates** — PHASE_DAG references ~15 workflows that don't have task templates yet (Phase 3 draft/send demand, Phase 4 negotiation, Phase 5 settlement processing, Phase 6 lien pay-off, Phase 7 litigation). Parallelizable via subagents.
+2. **`gh aw` wiring** — convert `runtime/materializer_prompt.md` and `runtime/worker_prompt.md` into `.github/workflows/*.md` so GitHub Actions runs the cron and the issue triggers natively.
+3. **Operator dashboard** — either pure GitHub Projects v2 (zero code) or a thin custom GitHub-API reader. Deferred pending runtime maturity.
+
+## Intake pipeline (external, already built)
+
+**The intake pipeline exists and lives entirely on the user's local machine.** It is intentionally *not* deployed to any hosted environment, because real firm documents never leave the user's infrastructure. The flow:
+
+1. A watched `incoming/` folder on the user's machine receives documents (mail scans, email attachments, faxes, portal downloads).
+2. Every file runs through **[Kreuzberg](https://github.com/kreuzberg-dev/kreuzberg)** to be converted to markdown (PDF, DOCX, images, audio — Kreuzberg handles OCR and audio transcription).
+3. **PII masking** happens at this conversion stage, before any LLM sees the content.
+4. A classifier/namer agent reads the masked markdown and decides (a) what kind of document it is and (b) where in the case folder it belongs. The agent then files:
+   - The **original** (still PHI-bearing) file into the appropriate location in the user's real-file storage.
+   - The **masked markdown** into the corresponding location in a **local clone of this repo**. All subsequent agent work happens against that local clone.
+5. Changes to the local clone get pushed to the `firmvault` remote. Default behavior: **open a PR** for human review (verifies masking worked correctly and the agent's naming/filing looks right). Once the user trusts the pipeline, this is configurable down to a direct push.
+
+**Implications for this repo**:
+
+- Do NOT build or propose an intake pipeline. It already exists.
+- Treat incoming PRs from the pipeline as a trusted source (after human review) — they are the primary mechanism by which new case state enters the vault.
+- The pipeline is the enforcement point for "PHI never touches the vault." If masking fails there, nothing downstream can fix it — flag as a pipeline bug.
+- The PR is the first human-in-the-loop gate in the whole system; the worker-level `status:needs_review` is the second.
+
+Still unclear (ask user when relevant):
+
+- Does the pipeline update `<!-- roscoe-medical-start -->` / `<!-- roscoe-insurance-start -->` tables, or just drop documents and let a separate worker update those tables later?
+- After masking, do the markdown files contain placeholder tokens (`{{client.ssn}}`) that point back to the real-file store, or is PII just gone entirely?
+- Is there a "file landed in case X" event the materializer can hook into for immediate landmark re-evaluation, or does it rely on the cron-based sweep to pick up the change?
 
 ## Shipped recently (reverse chronological on the working branch)
 
