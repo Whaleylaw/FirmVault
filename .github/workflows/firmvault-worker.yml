@@ -1,0 +1,156 @@
+name: firmvault-worker
+
+# Arch 1 (Pure GitHub-native) of the Track A bake-off.
+#
+# Claims ONE task issue labeled status:ready, runs one of three agent
+# CLIs (Claude Code / Codex / Gemini) as a subprocess in the Actions
+# runner, commits the result to a task/<task_id> branch, opens a PR,
+# and flips the issue to status:needs_review.
+#
+# Multi-agent dispatch is satisfied via a bash `case` statement that
+# selects which CLI to install + invoke. Default is claude-code.
+# Change the default in the `env.SELECTED_AGENT` line below, or pick
+# a different one at workflow_dispatch time.
+
+on:
+  issues:
+    types: [labeled]
+  workflow_dispatch:
+    inputs:
+      issue_number:
+        description: "Task issue number to run manually"
+        required: true
+        type: number
+      agent:
+        description: "Which CLI agent to dispatch"
+        required: false
+        default: claude-code
+        type: choice
+        options:
+          - claude-code
+          - codex
+          - gemini
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+
+concurrency:
+  # One worker per issue at a time. Re-labels while a worker runs will queue.
+  group: firmvault-worker-${{ github.event.issue.number || inputs.issue_number }}
+  cancel-in-progress: false
+
+jobs:
+  work:
+    # Run if manually dispatched, OR if the label that was just applied is
+    # exactly status:ready. Any other label change is ignored.
+    if: >-
+      github.event_name == 'workflow_dispatch' ||
+      (github.event_name == 'issues' && github.event.label.name == 'status:ready')
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      GITHUB_REPOSITORY: ${{ github.repository }}
+      ISSUE_NUMBER: ${{ github.event.issue.number || inputs.issue_number }}
+      # For auto-triggered runs (issues.labeled), default agent is claude-code.
+      # For manual runs, use the input from workflow_dispatch.
+      SELECTED_AGENT: ${{ inputs.agent || 'claude-code' }}
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+    steps:
+      - name: Checkout working branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+          fetch-depth: 0
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Configure git identity
+        run: |
+          git config user.name "firmvault-worker[bot]"
+          git config user.email "firmvault-worker@users.noreply.github.com"
+
+      - name: Install selected agent CLI
+        run: |
+          set -euo pipefail
+          echo "Installing $SELECTED_AGENT"
+          case "$SELECTED_AGENT" in
+            claude-code)
+              npm install -g @anthropic-ai/claude-code
+              claude --version
+              ;;
+            codex)
+              npm install -g @openai/codex
+              codex --version || true
+              ;;
+            gemini)
+              npm install -g @google/gemini-cli
+              gemini --version || true
+              ;;
+            *)
+              echo "::error::Unknown agent: $SELECTED_AGENT"
+              exit 2
+              ;;
+          esac
+
+      - name: Guard — refuse to run if the right API key is missing
+        run: |
+          set -euo pipefail
+          case "$SELECTED_AGENT" in
+            claude-code)
+              [ -n "${ANTHROPIC_API_KEY:-}" ] || { echo "::error::ANTHROPIC_API_KEY missing"; exit 1; }
+              ;;
+            codex)
+              [ -n "${OPENAI_API_KEY:-}" ] || { echo "::error::OPENAI_API_KEY missing"; exit 1; }
+              ;;
+            gemini)
+              [ -n "${GEMINI_API_KEY:-}" ] || { echo "::error::GEMINI_API_KEY missing"; exit 1; }
+              ;;
+          esac
+
+      - name: Fetch issue body and build worker prompt
+        run: |
+          set -euo pipefail
+          mkdir -p /tmp/worker
+          {
+            echo "## Current task"
+            echo "Issue number: $ISSUE_NUMBER"
+            echo "Selected agent: $SELECTED_AGENT"
+            echo "Repository: $GITHUB_REPOSITORY"
+            echo ""
+            echo "## Issue body (from \`gh issue view $ISSUE_NUMBER\`)"
+            echo ""
+            gh issue view "$ISSUE_NUMBER" --json body --jq .body
+            echo ""
+            echo "---"
+            echo ""
+            cat .github/workflows/prompts/worker.md
+          } > /tmp/worker/prompt.md
+          echo "Prompt built ($(wc -l < /tmp/worker/prompt.md) lines)"
+
+      - name: Dispatch agent
+        run: |
+          set -euo pipefail
+          case "$SELECTED_AGENT" in
+            claude-code)
+              claude --print \
+                --dangerously-skip-permissions \
+                --allowedTools "Bash,Read,Write,Edit,Grep,Glob" \
+                "$(cat /tmp/worker/prompt.md)"
+              ;;
+            codex)
+              codex exec --approval-mode full-auto "$(cat /tmp/worker/prompt.md)"
+              ;;
+            gemini)
+              cat /tmp/worker/prompt.md | gemini --yolo
+              ;;
+          esac
