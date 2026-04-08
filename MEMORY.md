@@ -46,10 +46,11 @@ The user-stated bar for calling Track A successful:
 
 The immediate work in flight:
 
-1. **Remaining task templates for Phases 3–7** — PHASE_DAG references ~17 workflows that don't have templates yet. For any architecture to drive a case past Phase 2, these need to exist. Parallelizable via subagents. Currently being written.
+1. ~~**Remaining task templates for Phases 3–7**~~ ✅ **Done.** 29 new templates landed across Phases 3–7 (35 total in the repo), full coverage of every hard blocker and most soft blockers in PHASE_DAG except `trial_or_settlement` (deliberately human-gated) and a few soft landmarks that fold into existing templates (deficiencies, impasse, mediation outcome, prep-client-deposition). See the consolidation flags below.
 2. **Activate Arch 1 from the user's phone** — set `ANTHROPIC_API_KEY` as a repo secret, trigger `firmvault-materializer` from the Actions tab, watch the end-to-end loop fire on `jordan-brown`. Standby for first-run failures (npm install drift, CLI flag drift, branch protection).
 3. **Activate Arch 2 from the user's Render dashboard** — the sandbox cannot reach `api.render.com` (egress-blocked), so the user does the dashboard clicks: New Blueprint → connect firmvault → pick the working branch → Render reads `render.yaml` → fill in secrets → Apply.
-4. **Archs 3 / 4 / 5 scaffolds** exist but are not wired live yet. Arch 5 (`schedule` skill) flagged as likely-Claude-only (probably fails multi-agent dispatch criterion). Arch 3 (Mission Control) and Arch 4 (Case Cockpit) are bigger deployments, deferred until there's a reason to prefer one.
+4. **Runtime/predicate evaluator needs to grow** to actually execute the new templates. See "Flags from the Phase 3–7 template batch" below.
+5. **Archs 3 / 4 / 5 scaffolds** exist but are not wired live yet.
 
 ## Arch 1 wiring status (this session)
 
@@ -78,8 +79,63 @@ All five candidate architectures are scaffolded as reference prototypes. **Only 
 | 4 | Custom Case Cockpit (Next.js + Drizzle + Postgres) | 28 | ~2,076 | Scaffold only; Next.js app with deterministic stub worker for no-cost smoke test |
 | 5 | Claude Code `schedule` skill + GitHub Issues | 7 | ~921 | Scaffold only; honest self-evaluation flags likely Claude-only constraint |
 
+## Flags from the Phase 3–7 template batch
+
+The 5 parallel subagents that wrote the task templates surfaced architectural gaps that need to be resolved before the templates can actually execute. Grouped by owner.
+
+### A. DATA_CONTRACT.md needs to grow
+
+- **Claim-file frontmatter schema**: `demand_drafted`, `demand_approved`, `demand_sent_date` per BI claim. Extrapolated from existing `c.lor_sent` pattern but never documented. Also: `offers[]` list with per-offer `attorney_approved_recommendation` and `attorney_decision` fields (written by `evaluate-offer` at review time).
+- **Case-level `demand_sent_date`** as the earliest across all BI claims — needed as the anchor Phase 4 `one_week_followup` keys off.
+- **Lien stub schema**: `slug`, `negotiable`, `final_amount_requested_date`, `final_amount`, `negotiated_amount`, `paid_amount`, `paid_date`, `status`. PHASE_DAG already references these in its predicates (so they're already de facto contract), but DATA_CONTRACT.md doesn't spell them out.
+- **Defendant records**: PHASE_DAG's `service_completed` predicate is `all(d.served_date for d in case.defendants)` but the contract doesn't say where defendant state lives. Proposal: per-defendant stubs under `cases/<slug>/contacts/<defendant-slug>.md` with `entity_subtype: defendant`.
+- **Discovery round tracking**: `case.frontmatter.discovery_next_round` + per-defendant `discovery_sent: {<round>: {...}}` map. New convention introduced by `draft-discovery-requests` and `respond-to-discovery`; needs to be pinned to the contract.
+- **Activity-log metadata block**: the current §5 schema doesn't define arbitrary metadata, but `respond-to-discovery` and deposition tracking need it. Either extend §5 or replace metadata lookups with frontmatter-based trackers on the case.
+- **Deposition-notice subcategory**: `deposition-notice-received` as an activity-log subcategory — required before `prep-client-deposition` can be written.
+
+### B. Materializer / predicate evaluator needs to support
+
+- **`:latest` dependency resolver** — `accept-offer.depends_on = "{case_slug}-evaluate-offer:latest"`. The materializer needs logic to resolve "most recent task_id matching this pattern." Not in `task_schema.md` yet.
+- **Structured discriminators** — `per_carrier_round` produces `{carrier_slug, round}`; `per_lien_creditor` produces `{creditor_slug}`. Body templates interpolate via `{discriminator.<field>}`. Richer than the existing flat-string pattern; needs standardization.
+- **External-signal `emit_when`** with flag-clearing on task close — `log-incoming-offer` fires on `case.frontmatter.offer_pending_log`, raised by the intake pipeline or a human. Materializer must clear the flag when the task closes.
+- **Dynamic dependency injection** (KRPC 1.15 rule) — `distribute-to-client`'s static `depends_on` is just `receive-settlement-funds`, but the materializer MUST also inject the Phase-6 `liens_paid` task id into `depends_on` at emit time if any lien has `status != paid`. The worker must stop with `status:blocked` if it sees outstanding liens post-emit.
+- **Predicate vocabulary extensions**: `case.activity.has(event, since=, subcategory=)`, `case.claim(slug).offers`, `case.claim(slug).negotiation_status`, `case.frontmatter.<flag>` as lightweight gates. Need safe_eval support.
+- **`case.has_document()` predicate**: must recognize markdown skeletons as satisfying the predicate (Phase 5's `authorization_to_settle_prepared` uses `case.has_document("authorization to settle")` which currently only matches a DOCX).
+
+### C. Missing firm templates in `Templates/`
+
+- **Settlement statement DOCX** — Phase 5 uses `Skills/settlement-statement/local-templates/settlement-statement.md` as a stopgap markdown skeleton.
+- **Authorization to settle DOCX** — same. Stopgap at `Skills/settlement-statement/local-templates/authorization-to-settle.md`.
+- **Release template** — Phase 5 `execute-release` notes the release is usually supplied by the carrier, not drafted by the firm. Not a blocker, but worth confirming.
+- **Medicaid state-specific final-amount request letter** — `lien-management` skill says Medicaid uses a state-specific letter; no firm template exists. Phase 6 `request-final-lien-amounts` falls back to `Templates/final-lien-request.docx` with a cover-letter note.
+
+### D. Intentionally-skipped templates (future work)
+
+- **`address-deficiencies` (Phase 4)** — no generic template fits; deficiencies need human triage and redirect to an existing template by type. `one-week-followup` raises the flag; human decides which existing template to re-run.
+- **`declare-impasse` (Phase 4)** — one-line flag flip, deferred until Phase 7 litigation path actually triggers in a pilot.
+- **`prep-client-deposition` (Phase 7)** — blocked on the `deposition-notice-received` activity-log subcategory convention.
+- **`record-trial-disposition` (Phase 7)** — trivial human-gate task to set `case.frontmatter.disposition in ("verdict","dismissed")`. Would satisfy the `trial_or_settlement` hard blocker when trial is the outcome path.
+- **`record-mediation-outcome` (Phase 7)** — paired with `mediation-brief` to close the loop on the `mediation_attempted` soft landmark.
+
+### E. SKILL.md drift candidates (not touched this batch)
+
+- `Skills/offer-tracking/references/tracking-fields.md` should grow `attorney_approved_recommendation` and `attorney_decision` fields on claim-file offer entries.
+- `Skills/demand-letter-generation/SKILL.md` could grow a "send" step so `send-demand.yaml` doesn't have to reuse the same skill with a comment explaining there's no dedicated send skill. OR a new `demand-letter-send` skill should be created.
+
+### F. Passive-task pattern (worth naming)
+
+Two templates are "waiting" tasks, not "doing" tasks:
+
+- `receive-settlement-funds` — scans Activity Log for a `receipt` entry matching the agreed gross, reconciles the dollar amount, stays in-progress if the check hasn't been logged yet
+- `receive-final-lien-amount` — scans Activity Log + `documents/legal/` for inbound responses, stays in-progress if none found
+
+The materializer polls on the next tick; the worker doesn't take action. Should be documented as a recognized pattern in `task_schema.md` (currently implicit).
+
+---
+
 ## Shipped recently (reverse chronological on the working branch)
 
+- **29 new task templates for Phases 3–7** (5 parallel subagents, ~3,000 lines of YAML). Full coverage of every hard blocker in PHASE_DAG from `demand_sent` through `final_distribution`, plus most soft landmarks. Complete list: `gather-demand-materials`, `calculate-damages`, `draft-demand`, `attorney-review-demand`, `send-demand` (Phase 3); `one-week-followup`, `log-incoming-offer`, `evaluate-offer`, `prepare-counter`, `accept-offer` (Phase 4); `prepare-settlement-statement`, `prepare-authorization-to-settle`, `get-client-signature`, `execute-release`, `receive-settlement-funds`, `distribute-to-client` (Phase 5); `identify-outstanding-liens`, `request-final-lien-amounts`, `receive-final-lien-amount`, `negotiate-lien`, `pay-lien`, `final-distribution` (Phase 6); `commence-litigation`, `draft-complaint`, `file-complaint`, `serve-defendants`, `draft-discovery-requests`, `respond-to-discovery`, `mediation-brief` (Phase 7). 35 templates total in `skills.tools.workflows/runtime/task_templates/`.
 - **Arch 1 pivot to native GitHub Actions YAML** — rewrote the three gh-aw markdown sources as plain `.github/workflows/*.yml` that install Claude Code / Codex / Gemini CLI inside the runner via `npm install -g` and invoke them as subprocesses. Multi-agent dispatch via a bash `case` statement. Prompts extracted into `.github/workflows/prompts/`. Original gh-aw sources kept as reference in `experiments/arch-1-pure-github/workflows/`. Phone-friendly: the user can trigger everything from the GitHub Actions tab on mobile; no laptop CLI step. `experiments/arch-1-pure-github/ACTIVATION.md` rewritten from scratch for the new flow.
 - **`render.yaml` at repo root for Arch 2** — verified against the real BloopAI/vibe-kanban source. Uses `runtime: docker` + cross-repo build because VK doesn't publish a GHCR image (checked all of VK's CI workflows, zero docker-publish steps). Materializer dry-run confirmed working against the real 117-case vault. User deploys from Render dashboard → New Blueprint Instance.
 - **Track A bake-off: 5 parallel subagents scaffolded the candidate architectures** in `experiments/arch-{1-pure-github,2-vibe-kanban,3-mission-control,4-case-cockpit,5-schedule-skill}/`. ~52 files, ~6,358 lines total. Each one is self-contained: README, setup/deployment files, the runtime pieces specific to that architecture. Each uses the common test harness `write-case-summary.yaml` task template against the `jordan-brown` pilot case so comparisons are apples-to-apples.
