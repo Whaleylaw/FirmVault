@@ -1,0 +1,84 @@
+---
+template_id: final-distribution
+landmark: final_distribution
+phase: phase_6_lien
+skill: supplemental-statement
+priority: high
+auto: false           # HARD BLOCKER, final money movement to client
+review: true
+
+task_id_template: "{case_slug}-final-distribution"
+discriminator: null   # one per case
+
+# Only fire when every lien on the case is paid (liens_paid satisfied).
+emit_when: |
+  case.liens.where(status="outstanding").count == 0
+  and case.liens.count > 0
+  and case.frontmatter.final_distribution_date is null
+
+success_check: |
+  case.frontmatter.final_distribution_date is not null
+  and case.has_document("supplemental settlement statement")
+
+inputs:
+  case_file: "cases/{case_slug}/{case_slug}.md"
+  liens_dir: "cases/{case_slug}/liens/"
+  # No firm DOCX — supplemental-statement/local-templates/ are the source
+  # of truth for the markdown skeleton.
+  template: null
+
+# Depends on the per-case aggregation: every pay-lien task for this case
+# must be done. The materializer enforces this via the `liens_paid`
+# landmark rather than listing each per-lien id.
+depends_on: []
+
+body: |
+  ## Task: Prepare supplemental settlement statement and final distribution
+
+  **Case:** [[cases/{{case_slug}}/{{case_slug}}|{{client_name}}]]
+  **Phase:** Lien Resolution (exit)
+  **HARD BLOCKER** — produces the `final_distribution` landmark which,
+  together with `liens_paid`, exits Phase 6 to Phase 8 (Closed).
+
+  **Precondition** (enforced by `emit_when`): every lien on this case is
+  `status: paid` — i.e. `liens_paid` is already satisfied. If any lien is
+  still outstanding, this task will not have been created.
+
+  Use the `supplemental-statement` skill. Do NOT use the
+  `settlement-statement` skill — that is Phase 5's initial distribution.
+
+  Steps:
+
+  1. Read `cases/{{case_slug}}/{{case_slug}}.md` for gross, fees, costs.
+  2. Read the original settlement statement at
+     `cases/{{case_slug}}/documents/legal/settlement-statement-*.md` to
+     recover the original holdback and initial net.
+  3. Walk every file in `cases/{{case_slug}}/liens/` and sum
+     `paid_amount`. Compute:
+     ```
+     surplus = original_holdback − sum(paid_amount)
+     total_net_to_client = initial_net + surplus
+     ```
+     See `supplemental-statement/references/calculation-guide.md` for
+     waiver / overrun / disputed-lien edge cases.
+  4. Write two documents into `cases/{{case_slug}}/documents/legal/`:
+     - `supplemental-settlement-statement-<YYYY-MM-DD>.md` (from the
+       skill's `local-templates/supplemental-statement.md` skeleton)
+     - `trust-reconciliation-<YYYY-MM-DD>.md` (opening balance, every
+       disbursement, closing balance of $0.00)
+  5. Draft the final disbursement letter to the client and save to
+     `cases/{{case_slug}}/documents/legal/final-distribution-letter-<YYYY-MM-DD>.md`.
+  6. After the attorney approves AND the surplus check is cut, update
+     the case file frontmatter:
+     ```yaml
+     final_distribution_date: "<today>"
+     ```
+  7. Log the activity at
+     `cases/{{case_slug}}/Activity Log/<YYYY-MM-DD-HHMM>-legal.md`
+     per `DATA_CONTRACT.md` §5.
+
+  When `final_distribution_date` is set AND the supplemental statement
+  is on file, the `final_distribution` landmark flips. Combined with
+  `liens_paid`, this exits Phase 6 → Phase 8 per `PHASE_DAG.yaml`.
+
+  `review: true` — mandatory. Final money to client cannot be auto.
