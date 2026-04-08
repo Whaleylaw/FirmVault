@@ -39,6 +39,8 @@ These are actively deprecated. If you see them in old code or docs, treat them a
 
 Import these at launch — they are the contract, not me paraphrasing:
 
+@DESIGN.md
+
 @skills.tools.workflows/DATA_CONTRACT.md
 
 @MEMORY.md

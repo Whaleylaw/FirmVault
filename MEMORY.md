@@ -6,13 +6,48 @@
 
 `claude/import-cases-from-drive-xiQgL` — all in-progress work. Push here, not to `main`.
 
+## What firmvault is (canonical framing)
+
+**firmvault is the contract layer.** It holds the portable data model + skill library + workflow definitions that other runtimes consume. It is **not** itself an agent runtime.
+
+Current status: contract layer only. Future is uncertain — may become the primary system, may stay a reference surface that other systems pull from. Depends on how multiple parallel tests shake out.
+
+See `DESIGN.md` §1 for the full component map.
+
+## Two tracks currently being tested in parallel
+
+**Track A — cloud-first test** (what this session is doing)
+- `firmvault` + `gh aw` (GitHub Agentic Workflows) + Mission Control + Claude Code / Codex / Gemini CLI as dispatched agents
+- Runs entirely on GitHub infrastructure
+- Success = autonomous workflow system that wakes any of 3 CLI agents, full automation of pickup → work → PR review, plus a UI layer for visibility/communication
+- Being tested specifically because the user is away from their local machine
+- **Dual-purpose**: also serves as a test of a broader **orchestration** pattern the user is evaluating for coordinating work across their entire project portfolio (not just firmvault / the AI paralegal). If this pattern works here, it may be replicated to manage their other repos too. Related: user mentioned exploring "Universal Codex" + a matrix-style multi-project view as another candidate orchestration layer.
+
+**Track B — local-first stack** (on ice while user is mobile)
+- **Roscoe-pi** is the mature attempt: Slack front-end → Pi coding agent pool → `roscoe-cli` (40 command groups, SQLite) + Mailroom Watcher (Dropbox → Kreuzberg → staging) + Approval Poller (PR merge → CLI) + Landmark Detector (git history → auto-advance). 56 skills, 9 OpenWorkflows. Extensions: roscoe-safety (PII mask, SOL enforcement), roscoe-skills (FTS5 skill search).
+- Roscoe-hermes (Hermes Agent fork) = user-facing chat with Honcho memory
+- Roscoebot (OpenClaw fork) = worker layer
+- Huly fork = lawyer PMS UI (local-only, not yet pushed)
+- RoscoeDesktop converter/masker (Kreuzberg + PII strip) not yet running, would push to firmvault via PR
+- If Hermes + OpenClaw setup survives, all rolls together into one new consolidated repo
+
+**What firmvault contract carries across both tracks**: DATA_CONTRACT.md (vault layout), PHASE_DAG.yaml (phase/landmark definitions), the 42 SKILL.md library, runtime/task_schema.md, runtime/materializer_prompt.md + worker_prompt.md, Templates/. Regardless of which track wins, this is durable.
+
+## Success criteria (Track A)
+
+The user-stated bar for calling Track A successful:
+1. Functioning workflow system that can wake Claude Code / Codex / Gemini CLI to do work (multi-agent dispatch required)
+2. Complete automation of task pickup and execution with PR for human review
+3. A UI layer for management, transparency, and communication
+
 ## Current focus
 
-Building the active runtime. The system state machine is now machine-readable (`PHASE_DAG.yaml`), every case has `landmarks:` frontmatter, and the first 5 task templates exist. Next-move options under discussion with the user:
+Building toward the Track A success criteria while keeping the contract layer usable by Track B. Next-move options:
 
 1. **Remaining task templates** — PHASE_DAG references ~15 workflows that don't have task templates yet (Phase 3 draft/send demand, Phase 4 negotiation, Phase 5 settlement processing, Phase 6 lien pay-off, Phase 7 litigation). Parallelizable via subagents.
 2. **`gh aw` wiring** — convert `runtime/materializer_prompt.md` and `runtime/worker_prompt.md` into `.github/workflows/*.md` so GitHub Actions runs the cron and the issue triggers natively.
-3. **Operator dashboard** — either pure GitHub Projects v2 (zero code) or a thin custom GitHub-API reader. Deferred pending runtime maturity.
+3. **Multi-agent dispatch** — the worker needs to be agent-agnostic (Claude Code / Codex / Gemini CLI). gh aw runs Copilot natively; other agents need subprocess wrappers.
+4. **UI layer** — Mission Control is the leading candidate; Vibe Kanban is the fallback because it natively handles multi-agent dispatch. Custom build is option 3.
 
 ## Reality check: what actually exists vs. what's designed
 
