@@ -1,0 +1,100 @@
+---
+template_id: serve-defendants
+landmark: service_completed            # HARD BLOCKER (aggregated across defendants)
+phase: phase_7_litigation
+skill: service-of-process
+priority: high
+auto: false
+review: true
+
+# One task per defendant. Discriminator is the defendant slug.
+task_id_template: "{case_slug}-serve-defendant-{discriminator}"
+discriminator: per_defendant
+
+# Emit one task per defendant who has been named in the complaint but
+# not yet served. Predicate reads per-defendant records from the case.
+emit_when: |
+  case.frontmatter.complaint_file_date is not null
+  and any(
+    d for d in case.defendants
+    if not d.served_date
+  )
+
+# Per-task success: THIS defendant has a served_date recorded.
+# The landmark-level predicate (all defendants served) is evaluated by
+# the materializer across all serve-defendant-* tasks for the case.
+success_check: |
+  any(
+    d.served_date for d in case.defendants
+    if d.slug == discriminator
+  )
+
+inputs:
+  defendant_slug: "{discriminator}"
+  case_file: "cases/{case_slug}/{case_slug}.md"
+  summons_path: "cases/{case_slug}/documents/legal-filings/summons-{discriminator}.pdf"
+  complaint_path: "cases/{case_slug}/documents/legal-filings/complaint-filed-*.pdf"
+
+depends_on:
+  - "{case_slug}-file-complaint"
+
+body: |
+  ## Task: Serve {{defendant_name}} with summons and complaint
+
+  **Case:** [[cases/{{case_slug}}/{{case_slug}}|{{client_name}}]]
+  **Defendant:** {{defendant_name}} (`{{defendant_slug}}`)
+  **Case #:** {{case_number}}
+  **Phase:** Litigation
+  **Priority:** HIGH — part of the `service_completed` hard blocker
+  chain. 90-day CR 4.01(2) service window runs from the complaint
+  filing date.
+
+  Use the `service-of-process` skill. Pick a method per the defendant
+  type table in `Skills/service-of-process/SKILL.md`:
+
+  | Defendant | First choice |
+  |---|---|
+  | Individual in KY | Sheriff personal service (CR 4.04) |
+  | Individual out of state | Personal service via process server |
+  | KY corporation | Registered agent |
+  | Foreign corporation | Registered KY agent, else Secretary of State |
+  | Cannot be located | Warning order (CR 4.05) |
+
+  Worker steps:
+
+  1. Read `cases/{{case_slug}}/{{case_slug}}.md` and the defendant
+     record for `{{defendant_slug}}` to get the last-known address.
+     Read any contact stub at
+     `cases/{{case_slug}}/contacts/{{defendant_slug}}.md` for prior
+     address research.
+  2. Pick the service method and record it on the task comment.
+  3. Draft instructions to the sheriff, process server, or certified
+     mail submission. Save outbound paperwork under
+     `cases/{{case_slug}}/documents/legal-filings/service-{{defendant_slug}}/`.
+  4. Log the attempt at
+     `cases/{{case_slug}}/Activity Log/<YYYY-MM-DD-HHMM>-legal.md`
+     (category `legal`, subcategory `service-attempt`) with defendant,
+     date, method, and result.
+  5. Post `status:needs_review` with the outgoing package and wait.
+
+  After service succeeds and proof is filed:
+
+  6. Save the filed proof of service to
+     `cases/{{case_slug}}/documents/legal-filings/proof-of-service-{{defendant_slug}}.pdf`.
+  7. Update the defendant record:
+     ```yaml
+     served_date: "<YYYY-MM-DD>"
+     served_method: <sheriff|process-server|certified-mail|long-arm|warning-order>
+     answer_deadline: "<YYYY-MM-DD>"   # typically served_date + 20d
+     ```
+  8. If this defendant completes service for the whole case (all
+     defendants now have `served_date`), the aggregated
+     `service_completed` hard blocker flips on the next materializer
+     tick. **Do not set it yourself** — let the predicate evaluate.
+  9. Calendar the answer deadline per
+     `Skills/service-of-process/references/proof-of-service.md`.
+
+  If service fails after a diligent attempt (unserved, bad address,
+  evasion), do **not** fail the task — flip to `status:blocked` and
+  comment with what's needed (new address, warning order, Special
+  Bailiff). The human decides the next method.
