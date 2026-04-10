@@ -1,11 +1,18 @@
 ---
 schema_version: 2
+case_number: 2023-07-30-MVA-001
+tags: [contact/medical-provider/doctor]
 directory_id: ee10647b-58ec-4ed5-915d-7a28be4ddb5a
 master_card: "[[Contacts/Medical/kentucky-medical-services-foundation]]"
-case_number: 2023-07-30-MVA-001
 case_link: "[[cases/caryn-mccay/caryn-mccay]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: false
+records_received: false
+bills_requested: true
+bills_received: true
+treatment_status: Treatment Complete
+bills_requested_date: "2023-10-03"
+bills_received_date: "2023-10-06"
 ---
 
 # Kentucky Medical Services Foundation

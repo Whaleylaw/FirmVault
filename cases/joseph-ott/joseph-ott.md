@@ -4,8 +4,24 @@ case_id: eedc6bfa-28b9-4190-96ef-48bda9c0696e
 case_number: 2025-08-06-MVA-002
 client_name: Joseph Ott
 case_type: auto_accident
-status: onboarding
+status: demand
 date_of_incident: "2025-08-06"
+landmarks:
+  accident_report_obtained: false
+  all_bills_received: false
+  all_records_received: false
+  attorney_approved_demand: false
+  bills_requested_all_providers: false
+  client_info_received: true
+  contract_signed: true
+  demand_drafted: false
+  demand_sent: false
+  full_intake_complete: true
+  insurance_claims_setup: true
+  medical_auth_signed: true
+  providers_setup: true
+  records_requested_all_providers: false
+  treatment_complete: true
 ---
 
 # Joseph Ott — auto accident 2025-08-06
@@ -18,12 +34,31 @@ date_of_incident: "2025-08-06"
 - [[contacts/ohio-valley-pain-institute|Ohio Valley Pain Institute]]
 - [[contacts/starlite-chiropractic|Starlite Chiropractic]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Ohio Valley Pain Institute | Treatment Complete |  |  |  | 2026-03-25 |  | 2026-03-25 |  |
+| Norton Audubon Hospital | Treatment Complete |  |  |  | 2026-03-03 |  | 2026-03-03 |  |
+| Starlite Chiropractic | Treatment Complete |  |  | $13,855.00 |  | 2025-11-06 |  | 2025-11-06 |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/josh-white|Josh White]] (Progressive Insurance Company)
+- [[contacts/brittany-young|Brittany Young]]
 
 ## Insurance Claims
 - [[claims/bi-progressive-insurance-company|BI — Progressive Insurance Company]] — Claim #25-934695754 (no_demand)
 - [[claims/pip-unknown|PIP]] (no_demand)
+- [[claims/pip-national-general|PIP — National General]]
+
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | Progressive Insurance Company | 25-934695754 | Josh White | 502-909-3678 |  | (800) 776-4737 | 9520 Ormbsy Station Rd, Ste 200, louisville, KY 40223 |
+| Personal Injury Protection (PIP) | National General | 250640481 | Brittany Young | 908-842-1643 |  | 8003251088 |  |
+<!-- roscoe-insurance-end -->
 
 ## Activity Log
 Recent: [[Activity Log/2026-03-02-legal|2026-03-02 — legal]]

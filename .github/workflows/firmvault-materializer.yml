@@ -1,0 +1,76 @@
+name: firmvault-materializer
+
+# Arch 1 (Pure GitHub-native) of the Track A bake-off.
+#
+# Walks the vault, finds cases whose landmarks don't match the
+# write-case-summary task template, and opens a GitHub Issue per gap.
+# Runs Claude Code headless inside the Actions runner — no gh aw, no
+# compile step. Everything can be triggered from the phone via the
+# Actions tab.
+#
+# Scoped to the bake-off smoke test:
+#   - Only materializes the write-case-summary template
+#   - Only against cases whose frontmatter has pilot: true (currently
+#     just cases/jordan-brown/jordan-brown.md)
+# Full production materialization is out of scope for the smoke test.
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency:
+  group: firmvault-materializer
+  cancel-in-progress: false
+
+jobs:
+  materialize:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      GITHUB_REPOSITORY: ${{ github.repository }}
+
+    steps:
+      - name: Checkout working branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Install Claude Code
+        run: |
+          npm install -g @anthropic-ai/claude-code
+          claude --version
+
+      - name: Guard — refuse to run without ANTHROPIC_API_KEY
+        run: |
+          if [ -z "${ANTHROPIC_API_KEY:-}" ]; then
+            echo "::error::ANTHROPIC_API_KEY is not set. Add it as a repo secret."
+            exit 1
+          fi
+
+      - name: Run materializer
+        run: |
+          set -euo pipefail
+          if [ ! -f .github/workflows/prompts/materializer.md ]; then
+            echo "::error::prompt file missing"
+            exit 1
+          fi
+
+          # Feed the prompt to Claude Code in headless mode. Claude has tools
+          # for Read/Write/Edit/Bash/Grep/Glob. --dangerously-skip-permissions
+          # is required because Actions runners have no interactive TTY.
+          claude --print \
+            --dangerously-skip-permissions \
+            --allowedTools "Bash,Read,Grep,Glob,Edit,Write" \
+            "$(cat .github/workflows/prompts/materializer.md)"

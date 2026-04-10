@@ -6,6 +6,22 @@ client_name: Timothy Ruhl
 case_type: premises_liability
 status: litigation
 date_of_incident: "2023-09-14"
+landmarks:
+  accident_report_obtained: true
+  all_bills_received: false
+  all_records_received: false
+  attorney_approved_demand: false
+  bills_requested_all_providers: false
+  client_info_received: true
+  contract_signed: true
+  demand_drafted: false
+  demand_sent: false
+  full_intake_complete: true
+  insurance_claims_setup: true
+  medical_auth_signed: true
+  providers_setup: true
+  records_requested_all_providers: false
+  treatment_complete: false
 ---
 
 # Timothy Ruhl — premises liability 2023-09-14
@@ -30,6 +46,28 @@ date_of_incident: "2023-09-14"
 - [[contacts/vip-imaging-pllc|VIP Imaging, PLLC]]
 - [[contacts/x-ray-associates-of-louisville|X-ray Associates of Louisville]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| ENT Associates | Actively Treating |  |  |  |  |  |  |  |
+| Louisville Orthopaedic Clinic | Treatment Complete |  |  |  |  |  |  |  |
+| Baptist Healthcare | Treatment Complete |  |  |  |  |  |  |  |
+| Kroger Pharmacy | Treatment Complete |  |  |  |  |  |  |  |
+| Southeastern Emergency Physician Services | Treatment Complete | 2023-09-20 | 2023-09-20 | $1,001.00 |  | 2025-03-04 |  | 2025-03-04 |
+| X-ray Associates of Louisville | Treatment Complete | 2023-09-14 | 2023-09-14 | $1,254.00 |  | 2025-01-29 |  | 2025-01-29 |
+| UL Health Medical Center - South | Treatment Complete | 2024-10-03 | 2024-10-03 |  | 2025-03-13 |  | 2025-03-13 |  |
+| Louisville Orthopaedic Clinic | Unrelated |  |  |  | 2024-12-20 |  |  | 2024-12-23 |
+| ENT Associates | Unrelated | 2024-09-18 | 2024-09-18 |  |  | 2025-02-04 |  | 2025-02-04 |
+| VIP Imaging, PLLC | No Records Found |  |  |  |  | 2025-03-10 |  | 2025-03-10 |
+| Pain Management Centers Of America | Treatment Complete | 2023-09-21 | 2023-11-10 | $4,527.00 |  | 2024-12-23 |  | 2024-12-23 |
+| Capitol Pain Institute of Kentucky | No Records Found |  |  |  |  | 2024-10-07 |  | 2024-10-07 |
+| Louisville Emergency Medical Associates | Treatment Complete | 2023-09-14 | 2023-09-14 | $1,334.00 |  | 2024-10-07 |  | 2024-10-07 |
+| Baptist Health Medical Group Internal Medicine | Treatment Complete | 2023-09-22 | 2023-09-22 | $243.00 |  | 2024-08-08 |  | 2024-08-08 |
+| UofL Medical Center East | Treatment Complete | 2023-09-20 | 2023-09-20 | $4,221.00 |  | 2024-08-21 |  | 2024-08-21 |
+| Baptist Hospital East | Treatment Complete | 2023-09-14 | 2023-09-14 | $18,834.73 |  | 2024-08-12 |  | 2024-08-12 |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/sharon-wills|Sharon Wills]]
 
@@ -49,6 +87,13 @@ date_of_incident: "2023-09-14"
 ## Insurance Claims
 - [[claims/bi-shelter-insurance|BI — Shelter Insurance]] — Claim #GL00000003555090 (litigation)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | Shelter Insurance | GL00000003555090 | Sharon Wills | (859) 260-3477 | SWills@ShelterInsurance.com | (800) 743-5837 Main | P.O. Box 6008, Columbia, MO 65205 |
+<!-- roscoe-insurance-end -->
+
 ## Liens
 - [[liens/anthem-blue-cross-blue-shield|Anthem Blue Cross Blue Shield]] — health_insurance (identified)
 - [[liens/blue-cross-blue-shield-of-michigan|Blue Cross Blue Shield of Michigan]] — health_insurance (identified)
@@ -61,11 +106,12 @@ date_of_incident: "2023-09-14"
 | Creditor | Amount | Category |
 |----------|--------|----------|
 | ChartSwap | $10.00 | records |
-| Floyd County, Indiana Sheriff | $60.00 | other |
-| HealthMark Group | $30.00 | other |
-| Jefferson County Circuit Court | $348.35 | court_filing |
 | Sharecare Health Data Services LLC | $12.49 | records |
+| Floyd County, Indiana Sheriff | $60.00 | other |
 | Stierle & Rettig PLLC | $133.18 | other |
+| ChartSwap | $10.00 | records |
+| Jefferson County Circuit Court | $348.35 | court_filing |
+| HealthMark Group | $30.00 | other |
 | USPS | $12.26 | postage |
 
 ## Activity Log

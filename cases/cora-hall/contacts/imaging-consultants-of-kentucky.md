@@ -1,11 +1,18 @@
 ---
 schema_version: 2
+case_number: 2022-12-05-OTH-001
+tags: [contact/medical-provider/doctor]
 directory_id: 705ca15b-b229-4843-9f82-6cba6deb145f
 master_card: "[[Contacts/Medical/imaging-consultants-of-kentucky]]"
-case_number: 2022-12-05-OTH-001
 case_link: "[[cases/cora-hall/cora-hall]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: false
+records_received: true
+bills_requested: false
+bills_received: true
+treatment_status: Treatment Complete
+records_received_date: "2025-01-31"
+bills_received_date: "2025-01-31"
 ---
 
 # Imaging Consultants of Kentucky

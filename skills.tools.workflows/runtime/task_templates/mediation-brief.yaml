@@ -1,0 +1,96 @@
+---
+template_id: mediation-brief
+landmark: mediation_attempted
+phase: phase_7_litigation
+skill: mediation-prep
+priority: high
+auto: false
+review: true
+
+task_id_template: "{case_slug}-mediation-brief-{discriminator}"
+# Discriminator is the scheduled mediation date (YYYY-MM-DD), so that
+# if a case mediates more than once (rare but possible) each session
+# gets its own task.
+discriminator: per_mediation_date
+
+emit_when: |
+  case.frontmatter.mediation_scheduled_date is not null
+  and not case.has_document(
+    "mediation-brief-" + case.frontmatter.mediation_scheduled_date
+  )
+
+success_check: |
+  case.has_document("mediation-brief-" + discriminator)
+
+inputs:
+  case_file: "cases/{case_slug}/{case_slug}.md"
+  mediation_date: "{discriminator}"
+  claims_glob: "cases/{case_slug}/claims/*.md"
+  output_path: "cases/{case_slug}/documents/legal/mediation-brief-{discriminator}.md"
+
+# In Phase 7, discovery should be meaningfully underway before we brief
+# the mediator — but we don't hard-block on it, because emergency
+# mediations can happen early. No runtime depends_on.
+depends_on: []
+
+body: |
+  ## Task: Prepare mediation brief for {{mediation_date}}
+
+  **Case:** [[cases/{{case_slug}}/{{case_slug}}|{{client_name}}]]
+  **Mediation date:** {{mediation_date}}
+  **Phase:** Litigation — pre-mediation
+  **Priority:** HIGH — the brief goes to the mediator ≥ 5 days before
+  the session. Work backwards from `{{mediation_date}}`.
+
+  Use the `mediation-prep` skill. This task produces the pre-session
+  artifacts only (brief + damages summary + authority memo). The
+  session execution and outcome documentation happen on the mediation
+  day — a separate follow-up task.
+
+  Worker steps:
+
+  1. Read:
+     - `cases/{{case_slug}}/{{case_slug}}.md` (full frontmatter + body)
+     - every `cases/{{case_slug}}/claims/*.md` for offers history
+     - the computed specials block produced by `damages-calculation`
+       (frontmatter keys: `specials_total`, `medical_total`,
+       `lost_wages_total`, `medical_by_provider[]`)
+     - any prior offer analyses under
+       `cases/{{case_slug}}/documents/offer-evaluation-*.md`
+  2. Draft the mediation brief to
+     `cases/{{case_slug}}/documents/legal/mediation-brief-{{mediation_date}}.md`
+     following the structure in
+     `Skills/mediation-prep/references/mediation-brief-template.md`:
+     introduction, factual background, liability analysis (honest
+     about weaknesses — mediators see through puffery), damages
+     summary, settlement history, demand with justification, conclusion.
+  3. Produce the damages summary per
+     `Skills/mediation-prep/references/damage-summary.md`: medical by
+     provider and category, future medical if applicable, past and
+     future wages, pain-and-suffering via multiplier or per-diem.
+     Either embed in the brief or save as
+     `cases/{{case_slug}}/documents/legal/mediation-damages-{{mediation_date}}.md`.
+  4. Prepare an authority memo following
+     `Skills/mediation-prep/references/settlement-authority.md`:
+     best / likely / worst case-value ranges, net-to-client scenarios,
+     opening demand / target / walk-away. **Do NOT embed the walk-away
+     in the brief.** Log it in a meeting activity entry at
+     `cases/{{case_slug}}/Activity Log/<YYYY-MM-DD-HHMM>-meeting.md`
+     (category `meeting`, subcategory `mediation-authority`) so it
+     stays out of the mediator's hands.
+  5. Post `status:needs_review` summarizing: demand with justification,
+     counted exhibits, damages totals, walk-away bracket, and a direct
+     wikilink to the brief.
+
+  After attorney approves:
+
+  6. Send the brief to the mediator per the scheduling order's
+     deadline. Log the send at
+     `cases/{{case_slug}}/Activity Log/<YYYY-MM-DD-HHMM>-legal.md`
+     (subcategory `mediation-brief-sent`).
+
+  The `mediation_attempted` landmark itself flips when the session
+  happens and a mediation entry lands in the activity log — **not**
+  when this task closes. This task produces the brief; a human (or a
+  follow-on session-outcome task, not yet written) records the
+  attempt.

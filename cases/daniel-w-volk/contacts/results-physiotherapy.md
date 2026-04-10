@@ -1,11 +1,20 @@
 ---
 schema_version: 2
+case_number: 2021-09-24-MVA-001
+tags: [contact/medical-provider/doctor]
 directory_id: 30bd5839-0dd1-4e31-bc1f-67ce0eb6f2e3
 master_card: "[[Contacts/Medical/results-physiotherapy]]"
-case_number: 2021-09-24-MVA-001
 case_link: "[[cases/daniel-w-volk/daniel-w-volk]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: true
+records_received: true
+bills_requested: true
+bills_received: true
+treatment_status: Treatment Complete
+records_requested_date: "2022-11-23"
+records_received_date: "2022-08-04"
+bills_requested_date: "2022-11-23"
+bills_received_date: "2022-01-10"
 ---
 
 # Results Physiotherapy

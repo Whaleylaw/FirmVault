@@ -1,11 +1,18 @@
 ---
 schema_version: 2
+case_number: 2023-02-25-PrL-001
+tags: [contact/medical-provider/doctor]
 directory_id: 00500a7f-eb33-4e02-b03a-826a6c6f891c
 master_card: "[[Contacts/Medical/oa-therapy]]"
-case_number: 2023-02-25-PrL-001
 case_link: "[[cases/kimberly-brasher/kimberly-brasher]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: false
+records_received: true
+bills_requested: false
+bills_received: true
+treatment_status: Treatment Complete
+records_received_date: "2024-03-14"
+bills_received_date: "2024-03-14"
 ---
 
 # OA Therapy

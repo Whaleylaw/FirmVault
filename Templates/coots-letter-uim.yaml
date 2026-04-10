@@ -1,0 +1,138 @@
+---
+id: "coots_letter_uim"
+name: "COOTs Letter to UIM Adjuster"
+description: "Certificate of Other Coverage (COOTs) letter to UIM adjuster notifying them of settlement offer from at-fault driver's insurance and requesting consent to settle or retention of subrogation rights per KRS 304.39-320"
+category: "correspondence"
+input_mode: "graph"
+output_filename: "COOTs_UIM_{client_name}_{date}.pdf"
+
+# Required input to query the graph
+graph_inputs:
+  - name: "case_name"
+    description: "Name of the case (e.g., 'Wilson-MVA-2024')"
+    required: true
+
+  - name: "insurer_name"
+    description: "UIM insurance company name (optional - only needed if case has multiple UIM claims)"
+    required: false
+
+# Field definitions
+fields:
+  # Computed/Config fields (automatic)
+  - name: "today_date"
+    source: "computed"
+    description: "Current date in long format (e.g., 'January 21, 2026')"
+
+  - name: "firm_name"
+    source: "config"
+    description: "Law firm name from firm_settings.json"
+
+  - name: "firm_phone"
+    source: "config"
+    description: "Law firm phone number"
+
+  # Client information from graph
+  - name: "client_name"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})-[:HAS_CLIENT]->(client:Client)
+      RETURN client.name
+    description: "Full name of the client"
+    required: true
+
+  - name: "accident_date"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})
+      RETURN c.accident_date
+    description: "Date of the incident"
+    required: true
+
+  # UIM Claim information
+  - name: "uim_claim_number"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})-[:HAS_CLAIM]->(claim:UIMClaim)-[:WITH_INSURER]->(ins:Insurer)
+      WHERE $insurer_name IS NULL OR ins.name = $insurer_name
+      RETURN claim.claim_number
+      LIMIT 1
+    description: "UIM claim number"
+    required: true
+
+  # UIM Adjuster information
+  - name: "adjuster_name"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})-[:HAS_CLAIM]->(claim:UIMClaim)-[:WITH_INSURER]->(ins:Insurer)
+      WHERE $insurer_name IS NULL OR ins.name = $insurer_name
+      MATCH (claim)-[:ADJUSTED_BY]->(adj:Adjuster)
+      RETURN adj.name
+      LIMIT 1
+    description: "Full name of the UIM insurance adjuster"
+    required: true
+
+  - name: "adjuster_first_name"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})-[:HAS_CLAIM]->(claim:UIMClaim)-[:WITH_INSURER]->(ins:Insurer)
+      WHERE $insurer_name IS NULL OR ins.name = $insurer_name
+      MATCH (claim)-[:ADJUSTED_BY]->(adj:Adjuster)
+      RETURN CASE
+        WHEN adj.name CONTAINS ' ' THEN split(adj.name, ' ')[0]
+        ELSE adj.name
+      END
+      LIMIT 1
+    description: "First name of the adjuster (extracted from full name)"
+    required: true
+
+  - name: "adjuster_email"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})-[:HAS_CLAIM]->(claim:UIMClaim)-[:WITH_INSURER]->(ins:Insurer)
+      WHERE $insurer_name IS NULL OR ins.name = $insurer_name
+      MATCH (claim)-[:ADJUSTED_BY]->(adj:Adjuster)
+      RETURN coalesce(adj.email, adj.email1, 'N/A')
+      LIMIT 1
+    description: "Email address of the adjuster"
+    required: false
+
+  # UIM Insurer address block
+  - name: "insurer_address_block"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})-[:HAS_CLAIM]->(claim:UIMClaim)-[:WITH_INSURER]->(ins:Insurer)
+      WHERE $insurer_name IS NULL OR ins.name = $insurer_name
+      RETURN ins.name + '\n' +
+             coalesce(ins.address_line1, '') + '\n' +
+             coalesce(ins.city, '') + ', ' +
+             coalesce(ins.state, '') + ' ' +
+             coalesce(ins.zip, '')
+      LIMIT 1
+    description: "Formatted address block for the UIM insurance company"
+    required: true
+
+  # BI Claim information (referenced in letter - at-fault driver's insurance)
+  - name: "bi_claim_number"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})-[:HAS_CLAIM]->(claim:BIClaim)
+      RETURN claim.claim_number
+      LIMIT 1
+    description: "BI claim number (at-fault driver's insurance)"
+    required: false
+
+  - name: "bi_policy_limits"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})-[:HAS_CLAIM]->(claim:BIClaim)
+      RETURN claim.policy_limits
+      LIMIT 1
+    description: "Policy limits offered by at-fault driver's insurance"
+    required: false
+
+  # Attorney name
+  - name: "attorney_name"
+    source: "input"
+    description: "Name of the attorney signing the letter"
+    required: false
+    default: "Aaron Whaley"

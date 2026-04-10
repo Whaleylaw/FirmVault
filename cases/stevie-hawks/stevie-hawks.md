@@ -6,6 +6,22 @@ client_name: Stevie Hawks
 case_type: auto_accident
 status: treatment
 date_of_incident: "2024-03-08"
+landmarks:
+  accident_report_obtained: true
+  all_bills_received: false
+  all_records_received: false
+  attorney_approved_demand: false
+  bills_requested_all_providers: true
+  client_info_received: true
+  contract_signed: true
+  demand_drafted: false
+  demand_sent: false
+  full_intake_complete: true
+  insurance_claims_setup: true
+  medical_auth_signed: true
+  providers_setup: true
+  records_requested_all_providers: true
+  treatment_complete: false
 ---
 
 # Stevie Hawks — auto accident 2024-03-08
@@ -21,11 +37,29 @@ date_of_incident: "2024-03-08"
 - [[contacts/the-medical-center-at-bowling-green|The Medical Center At Bowling Green]]
 - [[contacts/tristar-skyline-medical-center|TriStar Skyline Medical Center]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Air Evac Lifeteam 62 | Treatment Complete | 2025-03-08 |  | $66,738.50 | 2025-03-13 | 2025-04-07 | 2025-03-13 | 2025-04-07 |
+| Med Center Health Primary Care | Treatment Complete |  |  |  | 2024-10-17 |  | 2024-10-17 | 2024-10-17 |
+| Radiology Alliance, PC (Infinity Management) | Treatment Complete |  |  |  | 2024-09-23 |  | 2024-09-23 |  |
+| The Medical Center At Bowling Green | Prior | 2023-06-19 | 2023-06-19 |  | 2024-09-23 | 2024-10-07 | 2024-09-22 |  |
+| TriStar Skyline Medical Center | Treatment Complete |  |  |  | 2024-10-07 |  | 2024-10-07 |  |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/brad-murray|Brad Murray]]
 
 ## Insurance Claims
 - [[claims/pip-state-farm-insurance-company|PIP — State Farm Insurance Company]] — Claim #17-Q1275R5 (no_demand)
+
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Personal Injury Protection (PIP) | State Farm Insurance Company | 17-Q1275R5 | Brad Murray | 518-884-6175 Main | home.clms-kacp.168o28@statefarm.com | 1-800-782-8332 | P.O Box 106171, Atlanta, GA 30348 |
+<!-- roscoe-insurance-end -->
 
 ## Liens
 - [[liens/medicare|Medicare]] — medicare (identified)

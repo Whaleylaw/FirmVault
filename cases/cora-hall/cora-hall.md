@@ -6,6 +6,22 @@ client_name: Cora Hall
 case_type: other
 status: litigation
 date_of_incident: "2022-12-05"
+landmarks:
+  accident_report_obtained: false
+  all_bills_received: false
+  all_records_received: false
+  attorney_approved_demand: false
+  bills_requested_all_providers: false
+  client_info_received: true
+  contract_signed: true
+  demand_drafted: false
+  demand_sent: false
+  full_intake_complete: true
+  insurance_claims_setup: true
+  medical_auth_signed: true
+  providers_setup: true
+  records_requested_all_providers: false
+  treatment_complete: false
 ---
 
 # Cora Hall — other 2022-12-05
@@ -25,6 +41,23 @@ date_of_incident: "2022-12-05"
 - [[contacts/riverside-vascular-surgery|Riverside Vascular Surgery]]
 - [[contacts/scottsville-rural-health-clinic|Scottsville Rural Health Clinic]]
 - [[contacts/the-medical-center-at-bowling-green|The Medical Center At Bowling Green]]
+- [[contacts/riverside-orthopedics-and-sports-medicine|Riverside Orthopedics & Sports Medicine]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Orthopedics Plus Physical Therapy |  |  |  |  | 2025-02-04 |  | 2025-02-04 |  |
+| Scottsville Rural Health Clinic |  |  |  |  |  | 2025-02-10 |  | 2025-02-10 |
+| Commonwealth Pain Associates | Actively Treating |  |  |  |  | 2025-02-06 |  | 2025-02-06 |
+| Riverside Vascular Surgery | Actively Treating | 2024-08-14 |  |  | 2024-08-22 |  | 2024-08-22 |  |
+| The Medical Center At Bowling Green | Treatment Complete | 2022-12-08 | 2022-12-08 | $37,188.55 |  | 2025-01-24 |  | 2025-02-11 |
+| Imaging Consultants of Kentucky | Treatment Complete |  |  |  |  | 2025-01-31 |  | 2025-01-31 |
+| Interventional Pain Specialists (Riverside) | Treatment Complete |  |  |  | 2024-12-13 |  | 2024-12-13 |  |
+| Orthopedic Plus Physical Therapy | Actively Treating |  |  |  | 2024-12-13 |  |  | 2024-12-26 |
+| Riverside Orthopedics & Sports Medicine | Actively Treating | 2022-12-05 |  |  |  | 2025-02-10 |  | 2024-12-20 |
+| Medical Center Of Scottsville | Treatment Complete | 2022-12-05 | 2022-12-05 |  |  | 2025-01-07 |  | 2024-12-18 |
+<!-- roscoe-medical-end -->
 
 ## Adjusters
 - [[contacts/inez-richardson|Inez Richardson]]
@@ -37,6 +70,14 @@ date_of_incident: "2022-12-05"
 
 ## Insurance Claims
 - [[claims/bi-accident-fund-insurance-of-america|BI — Accident Fund Insurance Of America]] — Claim #AFC 230577703 (no_demand)
+- [[claims/wc-accident-fund-insurance-of-america|WC — Accident Fund Insurance Of America]]
+
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Workers' Compensation (WC) | Accident Fund Insurance Of America | AFC 230577703 | Inez Richardson | (517) 708-6107 |  | (866) 206-5851 | 200 N. Grand Ave, P.O. Box 40790, Lansing, MI 48901 |
+<!-- roscoe-insurance-end -->
 
 ## Liens
 - [[liens/hillcrest-credit-agency|Hillcrest Credit Agency]] — other (identified)

@@ -1,0 +1,110 @@
+---
+template_id: accept-offer
+landmark: settlement_reached
+phase: phase_4_negotiation
+skill: offer-tracking
+priority: high
+# Money-touching, phase-branching event. Absolutely never auto.
+auto: false
+review: true
+
+# One acceptance per carrier. A case can have multiple BI carriers and the
+# settlement_reached landmark flips when any acceptance is recorded, but
+# each carrier gets its own task.
+task_id_template: "{case_slug}-accept-offer-{discriminator}"
+discriminator: per_carrier
+
+# Emit only when the attorney has explicitly marked a specific offer as
+# "accept" on the claim file AND no acceptance has been logged yet. The
+# attorney sets `attorney_decision: accept` on the offer entry to trigger
+# this — the materializer watches for that flag.
+emit_when: |
+  any(
+    o for claim in case.claims if claim.type == "BI"
+    for o in claim.offers
+    if o.from == "insurance"
+    and o.attorney_decision == "accept"
+    and not any(
+      a for a in claim.offers
+      if a.type == "acceptance" and a.round == o.round
+    )
+  )
+
+success_check: |
+  case.frontmatter.settlement_status == "agreed"
+  and case.claim(discriminator).negotiation_status == "settled"
+  and any(
+    a for a in case.claim(discriminator).offers
+    if a.type == "acceptance"
+  )
+
+inputs:
+  carrier_slug: "{discriminator}"
+  case_file: "cases/{case_slug}/{case_slug}.md"
+  claim_file: "cases/{case_slug}/claims/bi-{discriminator}.md"
+
+depends_on:
+  # Depends on evaluation of whichever offer is being accepted. The
+  # materializer resolves this to the most recent evaluate-offer task for
+  # this carrier at emit time.
+  - "{case_slug}-evaluate-offer-{discriminator}:latest"
+
+body: |
+  ## Task: Accept settlement offer from {{carrier_name}}
+
+  **Case:** [[cases/{{case_slug}}/{{case_slug}}|{{client_name}}]]
+  **Carrier:** [[Contacts/Insurance/{{carrier_slug}}|{{carrier_name}}]]
+  **Claim file:** `cases/{{case_slug}}/claims/bi-{{carrier_slug}}.md`
+  **Phase:** Negotiation → Settlement
+
+  The attorney has marked an offer on this claim with
+  `attorney_decision: accept`. This task records the acceptance in the
+  vault and flips the `settlement_reached` landmark, which transitions
+  the case into Phase 5 (Settlement).
+
+  **This task is money-touching and phase-branching. Never auto-close.**
+
+  Steps:
+
+  1. Read the claim file and identify the offer entry with
+     `attorney_decision: accept`. Confirm with the attorney (via issue
+     comment) the exact gross amount being accepted, any conditions, and
+     the effective date of acceptance.
+  2. Use `offer-tracking` to append an acceptance entry to the claim
+     file's `offers` list:
+     ```yaml
+     - round: <same as accepted offer>
+       type: acceptance
+       from: plaintiff
+       date: "<today>"
+       amount: <accepted gross>
+       communication_method: <letter|email|phone>
+       status: final
+     ```
+  3. Update the claim file frontmatter:
+     ```yaml
+     negotiation_status: settled
+     settlement_amount: <gross amount>
+     settlement_date: "<today>"
+     ```
+  4. Update the case file frontmatter — this is what the materializer
+     reads to flip the landmark:
+     ```yaml
+     settlement_status: agreed
+     landmarks:
+       settlement_reached: true
+     ```
+  5. Draft a short acceptance/confirmation letter to the adjuster at
+     `cases/{{case_slug}}/documents/correspondence/acceptance-{{carrier_slug}}-<YYYY-MM-DD>.md`
+     referencing `Templates/letterhead.docx`. Plain confirmation — do
+     not include any release language; the release is a Phase 5 task.
+  6. Write an activity log entry at
+     `cases/{{case_slug}}/Activity Log/<YYYY-MM-DD-HHMM>-legal.md` with
+     `subcategory: offer_accepted` and a one-paragraph summary.
+  7. Leave a `needs_review` comment listing for the attorney: gross
+     amount, effective date, carriers remaining (if multi-carrier),
+     Phase 5 tasks that will be spawned on the next materializer tick.
+
+  The materializer's next tick will see `settlement_status == "agreed"`
+  and begin spawning Phase 5 tasks (settlement-statement, authorization-
+  to-settle, release, funds, distribution).

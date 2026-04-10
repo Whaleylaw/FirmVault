@@ -1,11 +1,20 @@
 ---
 schema_version: 2
+case_number: 2025-08-19-MVA-002
+tags: [contact/medical-provider/doctor]
 directory_id: miispine
 master_card: "[[Contacts/Medical/miispine]]"
-case_number: 2025-08-19-MVA-002
 case_link: "[[cases/sean-may/sean-may]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: true
+records_received: true
+bills_requested: true
+bills_received: true
+treatment_status: Treatment Complete
+records_requested_date: "2026-03-02"
+records_received_date: "2026-03-03"
+bills_requested_date: "2026-03-02"
+bills_received_date: "2026-03-03"
 ---
 
 # MiiSpine

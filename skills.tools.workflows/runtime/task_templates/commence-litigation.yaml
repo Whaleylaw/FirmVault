@@ -1,0 +1,71 @@
+---
+template_id: commence-litigation
+landmark: litigation_commenced
+phase: phase_7_litigation
+# Attorney decision gate — no automation. The complaint-drafting skill
+# owns the downstream artifact, but the "decide to file" step is a pure
+# human action: attorney stamps a date on the case.
+skill: complaint-drafting
+priority: high
+auto: false
+review: true
+
+task_id_template: "{case_slug}-commence-litigation"
+discriminator: null
+
+# Emit when negotiation reached impasse OR the attorney manually pushed the
+# case into litigation, and we haven't yet recorded the decision date.
+emit_when: |
+  (
+    case.frontmatter.settlement_status == "impasse"
+    or case.flag("manual_litigation_decision")
+  )
+  and case.frontmatter.litigation_decision_date is null
+
+success_check: |
+  case.frontmatter.litigation_decision_date is not null
+
+inputs:
+  case_file: "cases/{case_slug}/{case_slug}.md"
+  claims_glob: "cases/{case_slug}/claims/*.md"
+
+depends_on: []
+
+body: |
+  ## Task: Commence litigation — attorney decision
+
+  **Case:** [[cases/{{case_slug}}/{{case_slug}}|{{client_name}}]]
+  **Phase:** Litigation
+  **Priority:** HIGH — this is the gate into Phase 7.
+
+  Pre-suit negotiation has either reached impasse
+  (`settlement_status: impasse`) or the attorney has elected to bypass
+  the negotiation phase. This task records the deliberate decision to
+  file suit. It is `auto:false` and `review:true` — **a human attorney
+  must sign off**. No skill output is produced here; the draft itself is
+  handled by the downstream `draft-complaint` task.
+
+  Worker steps:
+
+  1. Read `cases/{{case_slug}}/{{case_slug}}.md` and every
+     `cases/{{case_slug}}/claims/*.md`. Summarize in the task comment:
+     - Statute of limitations deadline (from frontmatter; flag if < 90d)
+     - Current BI offers (latest per carrier)
+     - Client's last authorized walk-away number
+     - Named defendants and their last-known addresses (needed later
+       for `serve-defendants`)
+     - Proposed venue / jurisdiction
+  2. Post a `status:needs_review` comment with the above summary and a
+     single question: "Attorney — confirm decision to file suit?"
+  3. After the attorney approves in a comment:
+     - Set `case.frontmatter.litigation_decision_date: "<YYYY-MM-DD>"`
+     - Set `case.frontmatter.status: litigation`
+     - Log an activity entry at
+       `cases/{{case_slug}}/Activity Log/<YYYY-MM-DD-HHMM>-legal.md`
+       (category `legal`, subcategory `litigation-decision`) with the
+       attorney's approval quote and the reasons the case is moving to
+       suit.
+
+  Once this task closes `status:done`, the `litigation_commenced`
+  landmark is satisfied and the materializer will emit
+  `{case_slug}-draft-complaint` on the next tick.

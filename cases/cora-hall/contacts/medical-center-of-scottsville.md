@@ -1,11 +1,18 @@
 ---
 schema_version: 2
+case_number: 2022-12-05-OTH-001
+tags: [contact/medical-provider/doctor]
 directory_id: 5a6dc33d-b19f-4e9a-b925-97c5b8c8ae2c
 master_card: "[[Contacts/Medical/medical-center-of-scottsville]]"
-case_number: 2022-12-05-OTH-001
 case_link: "[[cases/cora-hall/cora-hall]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: false
+records_received: true
+bills_requested: false
+bills_received: true
+treatment_status: Treatment Complete
+records_received_date: "2024-12-18"
+bills_received_date: "2025-01-07"
 ---
 
 # Medical Center Of Scottsville

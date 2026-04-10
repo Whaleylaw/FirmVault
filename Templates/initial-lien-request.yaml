@@ -1,0 +1,179 @@
+---
+id: "initial_lien_request"
+name: "Initial Lien Request to Medical Provider"
+description: "Initial request for lien amount from medical provider before settlement"
+category: "correspondence"
+input_mode: "hybrid"
+output_filename: "Lien_Request_{provider_name}_{client_name}_{date}.pdf"
+
+# Required input to query the graph
+graph_inputs:
+  - name: "case_name"
+    description: "Name of the case (e.g., 'Wilson-MVA-2024')"
+    required: true
+
+# Field definitions
+fields:
+  # Computed/Config fields (automatic)
+  - name: "today_date"
+    source: "computed"
+    description: "Current date in long format (e.g., 'January 21, 2026')"
+
+  - name: "firm_name"
+    source: "config"
+    description: "Law firm name from firm_settings.json"
+
+  - name: "firm_phone"
+    source: "config"
+    description: "Law firm phone number"
+
+  - name: "attorney_email"
+    source: "config"
+    description: "Attorney email from firm_settings.json"
+    default: "aaron@whaleylaw.com"
+
+  # Client information from graph
+  - name: "client_name"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})-[:HAS_CLIENT]->(client:Client)
+      RETURN client.name
+    description: "Full name of the client"
+    required: true
+
+  - name: "client_first_name"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})-[:HAS_CLIENT]->(client:Client)
+      RETURN CASE
+        WHEN client.name CONTAINS ' ' THEN split(client.name, ' ')[0]
+        ELSE client.name
+      END
+    description: "Client's first name"
+    required: true
+
+  - name: "client_gender_pronoun"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})-[:HAS_CLIENT]->(client:Client)
+      RETURN CASE
+        WHEN toLower(client.gender) = 'male' THEN 'he'
+        WHEN toLower(client.gender) = 'female' THEN 'she'
+        ELSE 'they'
+      END
+    description: "Gender pronoun for client (he/she/they)"
+    required: true
+
+  - name: "client_possessive_pronoun"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})-[:HAS_CLIENT]->(client:Client)
+      RETURN CASE
+        WHEN toLower(client.gender) = 'male' THEN 'his'
+        WHEN toLower(client.gender) = 'female' THEN 'her'
+        ELSE 'their'
+      END
+    description: "Possessive pronoun for client (his/her/their)"
+    required: true
+
+  - name: "accident_date"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})
+      RETURN c.accident_date
+    description: "Date of the incident"
+    required: true
+
+  - name: "incident_type"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})
+      RETURN coalesce(c.incident_type, 'motor vehicle accident')
+    description: "Type of incident (e.g., 'motor vehicle accident', 'slip and fall')"
+    required: true
+
+  # Lien claim number (if exists in graph)
+  - name: "lien_claim_number"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})-[:HAS_LIEN]->(lien:Lien)
+      WHERE lien.lienholder_name = $provider_name
+      RETURN lien.claim_number
+      LIMIT 1
+    description: "Claim number associated with this lienholder (if known)"
+    required: false
+
+  # Attorney name
+  - name: "attorney_name"
+    source: "input"
+    description: "Name of the attorney signing the letter"
+    required: false
+    default: "Aaron Whaley"
+
+  # Manual inputs for provider (lienholder) information
+  - name: "provider_name"
+    source: "input"
+    description: "Full name of the medical provider/lienholder (e.g., 'Norton Healthcare', 'Baptist Health')"
+    required: true
+
+  - name: "provider_address_line1"
+    source: "input"
+    description: "Provider's address line 1"
+    required: true
+
+  - name: "provider_address_line2"
+    source: "input"
+    description: "Provider's address line 2 (suite, building, etc.)"
+    required: false
+
+  - name: "provider_city"
+    source: "input"
+    description: "Provider's city"
+    required: true
+
+  - name: "provider_state"
+    source: "input"
+    description: "Provider's state (2-letter code)"
+    required: true
+
+  - name: "provider_zip"
+    source: "input"
+    description: "Provider's ZIP code"
+    required: true
+
+  - name: "provider_fax"
+    source: "input"
+    description: "Provider's fax number or email for correspondence"
+    required: false
+
+  - name: "injury_description_1"
+    source: "input"
+    description: "First injury description line"
+    required: true
+    prompt: "Enter the first injury sustained (e.g., 'Lower back strain and pain')"
+
+  - name: "injury_description_2"
+    source: "input"
+    description: "Second injury description line"
+    required: false
+    prompt: "Enter the second injury (if applicable)"
+
+  - name: "injury_description_3"
+    source: "input"
+    description: "Third injury description line"
+    required: false
+    prompt: "Enter the third injury (if applicable)"
+
+# Derived fields (computed from other fields)
+derived_fields:
+  - name: "provider_address_block"
+    template: |
+      {{provider_name}}
+      {{provider_address_line1}}{% if provider_address_line2 %}
+      {{provider_address_line2}}{% endif %}
+      {{provider_city}}, {{provider_state}} {{provider_zip}}
+    description: "Formatted address block for the provider"
+
+  - name: "article"
+    template: "{% if incident_type[0] in ['a','e','i','o','u','A','E','I','O','U'] %}an{% else %}a{% endif %}"
+    description: "Article 'a' or 'an' based on incident_type first letter"

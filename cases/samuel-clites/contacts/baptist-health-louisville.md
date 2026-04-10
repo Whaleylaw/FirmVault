@@ -1,11 +1,20 @@
 ---
 schema_version: 2
+case_number: 2024-04-23-MVA-001
+tags: [contact/medical-provider/doctor]
 directory_id: baptist-health-louisville
 master_card: "[[Contacts/Medical/baptist-health-louisville]]"
-case_number: 2024-04-23-MVA-001
 case_link: "[[cases/samuel-clites/samuel-clites]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: true
+records_received: true
+bills_requested: true
+bills_received: true
+treatment_status: Treatment Complete
+records_requested_date: "2024-04-29"
+records_received_date: "2024-05-13"
+bills_requested_date: "2024-04-29"
+bills_received_date: "2024-05-13"
 ---
 
 # Baptist Health Louisville

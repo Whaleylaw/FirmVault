@@ -6,6 +6,22 @@ client_name: Forrest Muss
 case_type: auto_accident
 status: file_setup
 date_of_incident: "2025-07-20"
+landmarks:
+  accident_report_obtained: false
+  all_bills_received: true
+  all_records_received: true
+  attorney_approved_demand: false
+  bills_requested_all_providers: false
+  client_info_received: true
+  contract_signed: true
+  demand_drafted: false
+  demand_sent: false
+  full_intake_complete: true
+  insurance_claims_setup: true
+  medical_auth_signed: true
+  providers_setup: true
+  records_requested_all_providers: false
+  treatment_complete: true
 ---
 
 # Forrest Muss — auto accident 2025-07-20
@@ -16,11 +32,25 @@ date_of_incident: "2025-07-20"
 ## Medical Providers
 - [[contacts/little-clinic|Little Clinic]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Little Clinic | Treatment Complete | 2025-07-20 | 2025-07-20 | $99.00 |  | 2025-07-31 |  | 2025-07-31 |
+<!-- roscoe-medical-end -->
+
 ## Insurance
 - [[contacts/north-american-risk-services|North American Risk Services]]
 
 ## Insurance Claims
 - [[claims/bi-north-american-risk-services|BI — North American Risk Services]] — Claim #136751083 (no_demand)
+
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | North American Risk Services | 136751083 |  |  |  | (800) 315-6090 | P.O. Box 166002, Altamonte Springs, FL 32701 |
+<!-- roscoe-insurance-end -->
 
 ## Activity Log
 Recent: [[Activity Log/2025-10-16-correspondence|2025-10-16 — correspondence]]

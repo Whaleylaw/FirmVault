@@ -1,0 +1,83 @@
+---
+template_id: attorney-review-demand
+landmark: attorney_approved_demand
+phase: phase_3_demand
+skill: demand-letter-generation       # same skill that drafted it handles the review pass
+priority: normal
+auto: false
+review: true
+
+task_id_template: "{case_slug}-attorney-review-demand-{discriminator}"
+discriminator: per_carrier
+
+emit_when: |
+  case.status == "demand"
+  and case.frontmatter.demand_drafted == true
+  and not case.flag("attorney_approved_demand")
+  and any(
+    c for c in case.claims
+    if c.type == "BI" and not c.demand_approved
+  )
+
+success_check: |
+  case.flag("attorney_approved_demand")
+
+inputs:
+  carrier_slug: "{discriminator}"
+  case_file: "cases/{case_slug}/{case_slug}.md"
+  draft_glob: "cases/{case_slug}/documents/demand-{discriminator}-*.md"
+
+depends_on:
+  - "{case_slug}-draft-demand-{discriminator}"
+
+body: |
+  ## Task: Attorney review of demand draft — {{carrier_name}}
+
+  **Case:** [[cases/{{case_slug}}/{{case_slug}}|{{client_name}}]]
+  **Carrier:** [[Contacts/Insurance/{{carrier_slug}}|{{carrier_name}}]]
+  **Phase:** Demand In Progress
+
+  Route the drafted demand letter to the attorney for formal review and
+  approval. Nothing goes out the door until this task is `status:done`.
+
+  Worker steps:
+
+  1. Locate the most recent draft matching
+     `cases/{{case_slug}}/documents/demand-{{carrier_slug}}-*.md`. If
+     more than one exists, pick the latest by filename date and comment
+     on this issue listing what was found.
+  2. Read the draft and post a one-paragraph summary comment on this
+     issue containing: demand amount, response deadline, total specials,
+     number of providers, any items flagged for attorney attention, and
+     a direct link to the draft file.
+  3. Verify the demand's `specials_total` in frontmatter matches
+     `case.frontmatter.specials_total` computed by `damages-calculation`.
+     If there's a mismatch, mark the task `status:failed` with a comment
+     explaining the delta and do NOT proceed. Do not guess.
+  4. Add a review checklist comment with:
+     - [ ] Liability narrative is accurate
+     - [ ] Injuries and ICD-10 codes match medical records
+     - [ ] Special damages total matches worksheet
+     - [ ] Demand amount and response deadline are correct
+     - [ ] Exhibit list is complete
+     - [ ] Okay to send
+  5. Apply `status:needs_review`.
+
+  When the attorney completes the checklist and approves (by commenting
+  "approved" or ticking every box), a human flips the label; the worker
+  on the next run sets:
+  ```yaml
+  attorney_approved_demand: true
+  attorney_approved_demand_date: "<YYYY-MM-DD>"
+  ```
+  on `cases/{{case_slug}}/{{case_slug}}.md` frontmatter, and sets
+  `demand_approved: true` on the claim file
+  `cases/{{case_slug}}/claims/bi-{{carrier_slug}}.md`.
+
+  Log an activity entry at
+  `cases/{{case_slug}}/Activity Log/<YYYY-MM-DD-HHMM>-legal.md` noting
+  attorney approval. This unblocks `send-demand`.
+
+  If the attorney requests revisions, close this task as
+  `status:failed` with a comment listing the requested changes; the
+  materializer will re-emit `draft-demand` on the next run.

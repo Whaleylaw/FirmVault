@@ -1,11 +1,18 @@
 ---
 schema_version: 2
+case_number: 2025-02-07-OTH-001
+tags: [contact/medical-provider/doctor]
 directory_id: concentra-medical-center
 master_card: "[[Contacts/Medical/concentra-medical-center]]"
-case_number: 2025-02-07-OTH-001
 case_link: "[[cases/shannon-lankswert/shannon-lankswert]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: false
+records_received: true
+bills_requested: false
+bills_received: true
+treatment_status: Treatment Complete
+records_received_date: "2025-02-24"
+bills_received_date: "2025-02-24"
 ---
 
 # Concentra Medical Center

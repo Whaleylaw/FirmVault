@@ -1,0 +1,46 @@
+# Render blueprint for arch-4-case-cockpit.
+#
+# Provisions one Next.js web service + one managed Postgres database.
+# Apply with: Render dashboard > New > Blueprint > point at this repo.
+#
+# The rootDir directive scopes the build to this experiment so the
+# other arch-* directories don't pollute the build.
+
+databases:
+  - name: cockpit-db
+    plan: basic-256mb
+    postgresMajorVersion: "16"
+
+services:
+  - type: web
+    name: arch-4-case-cockpit
+    runtime: node
+    plan: starter
+    rootDir: experiments/arch-4-case-cockpit
+    buildCommand: npm install && npm run build && npm run db:push
+    startCommand: npm run start
+    healthCheckPath: /
+    envVars:
+      - key: NODE_VERSION
+        value: "20.18.0"
+      - key: DATABASE_URL
+        fromDatabase:
+          name: cockpit-db
+          property: connectionString
+      - key: FIRMVAULT_REPO_URL
+        # Leave blank to default to the public Whaleylaw/firmvault repo.
+        sync: false
+      - key: CACHE_DIR
+        value: /tmp/firmvault
+      - key: WORKER_AGENT
+        value: claude-code
+      - key: SKIP_PR
+        value: "true"
+      - key: ANTHROPIC_API_KEY
+        sync: false
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: GOOGLE_API_KEY
+        sync: false
+      - key: GITHUB_TOKEN
+        sync: false

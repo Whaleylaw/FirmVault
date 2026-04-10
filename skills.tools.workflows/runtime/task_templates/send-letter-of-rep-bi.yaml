@@ -1,0 +1,53 @@
+---
+template_id: send-letter-of-rep-bi
+landmark: insurance_claims_setup
+phase: phase_1_file_setup
+skill: lor-generator
+priority: normal
+auto: false
+review: true
+
+task_id_template: "{case_slug}-lor-bi-{discriminator}"
+discriminator: per_carrier
+
+emit_when: |
+  any(
+    c for c in case.claims
+    if c.type == "BI" and not c.lor_sent
+  )
+
+success_check: |
+  all(
+    c.lor_sent for c in case.claims
+    if c.type == "BI" and c.carrier_slug == discriminator
+  )
+
+inputs:
+  carrier_slug: "{discriminator}"
+  case_file: "cases/{case_slug}/{case_slug}.md"
+  template: "Templates/letter-of-rep-bi-adjuster.docx"
+
+depends_on: []
+
+body: |
+  ## Task: Send Letter of Representation to {{carrier_name}} (BI)
+
+  **Case:** [[cases/{{case_slug}}/{{case_slug}}|{{client_name}}]]
+  **Carrier:** [[Contacts/Insurance/{{carrier_slug}}|{{carrier_name}}]]
+  **Claim #:** {{claim_number}}
+  **Phase:** File Setup
+
+  Use the `lor-generator` skill with `Templates/letter-of-rep-bi-adjuster.docx`
+  to draft a letter of representation to the bodily injury adjuster.
+
+  Fill the placeholder fields from:
+  - case frontmatter (`client_name`, `date_of_incident`, `case_number`)
+  - the claim file at `cases/{{case_slug}}/claims/bi-{{carrier_slug}}.md`
+  - the carrier master card at `Contacts/Insurance/{{carrier_slug}}.md`
+  - the per-case adjuster stub at `cases/{{case_slug}}/contacts/<adjuster-slug>.md`
+
+  Save the filled letter to `cases/{{case_slug}}/documents/correspondence/`.
+
+  After the attorney reviews and approves (this task is `review:true`):
+  - Set `lor_sent: true` and `lor_sent_date: <today>` on the claim file
+  - Log the activity in `cases/{{case_slug}}/Activity Log/`

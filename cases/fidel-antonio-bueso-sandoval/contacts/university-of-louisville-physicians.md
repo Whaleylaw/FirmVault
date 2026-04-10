@@ -1,11 +1,17 @@
 ---
 schema_version: 2
+case_number: fidel-antonio-bueso-sandoval
+tags: [contact/medical-provider/doctor]
 directory_id: university-of-louisville-physicians
 master_card: "[[Contacts/Medical/university-of-louisville-physicians]]"
-case_number: fidel-antonio-bueso-sandoval
 case_link: "[[cases/fidel-antonio-bueso-sandoval/fidel-antonio-bueso-sandoval]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: false
+records_received: false
+bills_requested: true
+bills_received: false
+treatment_status: Treatment Complete
+bills_requested_date: "2024-09-23"
 ---
 
 # University Of Louisville Physicians

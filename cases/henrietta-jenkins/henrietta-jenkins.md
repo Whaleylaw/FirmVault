@@ -6,6 +6,22 @@ client_name: Henrietta Jenkins
 case_type: auto_accident
 status: negotiation
 date_of_incident: "2025-05-20"
+landmarks:
+  accident_report_obtained: true
+  all_bills_received: false
+  all_records_received: false
+  attorney_approved_demand: false
+  bills_requested_all_providers: false
+  client_info_received: true
+  contract_signed: true
+  demand_drafted: false
+  demand_sent: false
+  full_intake_complete: true
+  insurance_claims_setup: true
+  medical_auth_signed: true
+  providers_setup: true
+  records_requested_all_providers: false
+  treatment_complete: false
 ---
 
 # Henrietta Jenkins — auto accident 2025-05-20
@@ -16,6 +32,17 @@ date_of_incident: "2025-05-20"
 ## Medical Providers
 - [[contacts/norton-audubon-hospital|Norton Audubon Hospital]]
 - [[contacts/synergy-injury-care-rehab-diagnostics|Synergy Injury Care & Rehab Diagnostics]]
+- [[contacts/norton-neurology-services-downtown|Norton Neurology Services-Downtown]]
+- [[contacts/synergy-injury-care-and-rehab-diagnostics|Synergy Injury Care & Rehab Diagnostics]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Norton Neurology Services-Downtown | Actively Treating |  |  |  |  |  |  |  |
+| Synergy Injury Care & Rehab Diagnostics | Treatment Complete | 2025-06-03 | 2025-07-24 | $10,575.00 |  |  |  |  |
+| Norton Audubon Hospital | Treatment Complete | 2025-05-20 | 2025-05-20 | $9,949.10 | 2025-05-29 | 2025-06-25 | 2025-05-29 | 2025-06-25 |
+<!-- roscoe-medical-end -->
 
 ## Adjusters
 - [[contacts/aaron-ross|Aaron Ross]]
@@ -25,6 +52,14 @@ date_of_incident: "2025-05-20"
 ## Insurance Claims
 - [[claims/bi-progressive-insurance-company|BI — Progressive Insurance Company]] — Claim #25-391686743 (demand_pending)
 - [[claims/pip-root-auto-insurance|PIP — Root Auto Insurance]] — Claim #HH62DDIN (no_demand)
+
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Personal Injury Protection (PIP) | Root Auto Insurance | HH62DDIN | Aaron Ross | 614-300-2393 | aaron.ross@joinroot.com | 614-591-4463 Fax | 6602 E 7th St, Suite 500, Indiapolis, IN 46250 |
+| Bodily Injury (BI) | Progressive Insurance Company | 25-391686743 | Colin Karsnitz | 502-909-3619 Main | jkarsni1@progressive.com | (800) 776-4737 | 9520 Ormbsy Station Rd, Ste 200, louisville, KY 40223 |
+<!-- roscoe-insurance-end -->
 
 ## Liens
 - [[liens/legal-funding-partners|Legal Funding Partners]] — health_insurance (identified)

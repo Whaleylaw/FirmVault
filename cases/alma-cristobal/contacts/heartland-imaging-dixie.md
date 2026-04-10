@@ -1,11 +1,18 @@
 ---
 schema_version: 2
+case_number: 2024-02-15-MVA-001
+tags: [contact/medical-provider/doctor]
 directory_id: 5b099c60-0992-4c3a-a868-cc8a7bf9c0ce
 master_card: "[[Contacts/Medical/heartland-imaging-dixie]]"
-case_number: 2024-02-15-MVA-001
 case_link: "[[cases/alma-cristobal/alma-cristobal]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: false
+records_received: true
+bills_requested: true
+bills_received: false
+treatment_status: Treatment Complete
+records_received_date: "2024-08-20"
+bills_requested_date: "2024-07-23"
 ---
 
 # Heartland Imaging - Dixie

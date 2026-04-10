@@ -1,0 +1,43 @@
+id: thank_you_client
+name: Thank You Letter to Client - Case Manager Assigned
+description: Thank you letter sent to client after case manager is assigned to their
+  case
+category: client_communication
+input_mode: graph
+output_filename: Thank_You_Letter_{client_name}_{date}.pdf
+graph_inputs:
+- name: case_name
+  required: true
+fields:
+- name: today_date
+  source: computed
+- name: client_name
+  source: graph
+  graph_query: 'MATCH (c:Case {name: $case_name})-[:HAS_CLIENT]->(client:Client)
+
+    RETURN client.name'
+  required: true
+- name: client_address_block
+  source: graph
+  graph_query: 'MATCH (c:Case {name: $case_name})-[:HAS_CLIENT]->(client:Client)
+
+    RETURN coalesce(client.address_line1, '''') + ''\n'' + coalesce(client.city, '''')
+    + '', '' + coalesce(client.state, '''') + '' '' + coalesce(client.zip, '''')'
+  required: false
+- name: accident_date
+  source: graph
+  graph_query: 'MATCH (c:Case {name: $case_name})
+
+    RETURN c.accident_date'
+  required: true
+- name: case_type
+  source: graph
+  graph_query: 'MATCH (c:Case {name: $case_name})
+
+    RETURN coalesce(c.case_type, c.type, ''Personal Injury'')'
+  required: false
+- name: case_manager_name
+  source: input
+  description: Name of assigned case manager
+  required: false
+  default: Aaron Whaley

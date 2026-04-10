@@ -1,0 +1,145 @@
+---
+schema_version: 2
+case_id: 9bd21a97-0256-454c-abe3-d0e32c1410d2
+date: "2025-05-15"
+time: "11:19:42"
+category: imported
+subcategory: filevine_negotiation
+---
+
+# Filevine activity (negotiation) — 2025-05-15 11:19
+
+**Case:** [[cases/jeremy-lindsey/jeremy-lindsey|Jeremy Lindsey]]
+**Source:** Filevine negotiation export
+**Timestamp:** 2025-05-15T11:19:42
+
+__FW: EXTERNAL - Fw: #secure itemized statements and claim forms__
+From:  [justin@whaleylawfirm.com](mailto:justin@whaleylawfirm.com)
+To: [ChaseLindseyMVAZ4831384@louisvilleaccidentlawyer.filevineapp.com](mailto:ChaseLindseyMVAZ4831384@louisvilleaccidentlawyer.filevineapp.com), [JeremyLindseyMVAZ4830966@louisvilleaccidentlawyer.filevineapp.com](mailto:JeremyLindseyMVAZ4830966@louisvilleaccidentlawyer.filevineapp.com), [ElizabethLindseyMVAZ4830969@louisvilleaccidentlawyer.filevineapp.com](mailto:ElizabethLindseyMVAZ4830969@louisvilleaccidentlawyer.filevineapp.com), [OwenLindseyMVAZ4831382@louisvilleaccidentlawyer.filevineapp.com](mailto:OwenLindseyMVAZ4831382@louisvilleaccidentlawyer.filevineapp.com)
+Date: Thu May 15 2025 11:19:12 GMT-04:00
+
+ 
+
+ 
+
+From: Jeremy Lindsey  
+Sent: Thursday, May 15, 2025 11:14 AM
+To: justin@whaleylawfirm.com
+Cc: Elizabeth Lindsey 
+Subject: FW: EXTERNAL - Fw: #secure itemized statements and claim forms
+
+ 
+
+Justin,
+
+ 
+
+See below and attached.  The Excel file contains all claims for Owen and Chase which have outstanding balances and Children’s says they can’t bill Auto Owners directly, so we need to send the itemized bills for processing.   There is also a bill from UC hospital for Liz with a balance due.
+
+ 
+
+ 
+
+ 
+
+Thanks,
+
+ 
+
+Jeremy Lindsey
+
+Senior Strategic Solutions Engineer
+
+T (502) 424-0049
+
+  https://divisionsmg.com/
+
+
+
+              
+
+
+ 
+
+From: jeremy lindsey  > 
+Sent: Thursday, May 15, 2025 11:08 AM
+To: Jeremy Lindsey  >
+Subject: EXTERNAL - Fw: #secure itemized statements and claim forms
+
+ 
+
+ 
+
+  Sent from Yahoo Mail for iPhone
+
+ 
+
+Begin forwarded message:
+
+On Wednesday, May 14, 2025, 2:41 PM, Appelman, Jennifer (She/Her/Hers)  > wrote:
+
+
+This message was sent securely.
+
+Hello,
+
+ 
+
+Please see attached claim forms, and itemized statements to submit to your auto insurance company. We reviewed the claims for both Owen and Chase this afternoon, and I have attached all outstanding claim forms that we went over. 
+
+I have also requested a hold be placed on the accounts so that you dont keep getting the automated calls for the outstanding balance. 
+
+ 
+
+Thank you, 
+
+ 
+
+ 
+
+ 
+
+
+
+Jennifer Appelman
+
+Finance Rep III
+
+Billing Customer Service
+
+ 
+
+      
+
+ 
+
+The information contained in this electronic mail message may be confidential and
+
+protected information intended only for the use of the individual or entity named above.
+
+As the recipient of this information you may be prohibited by State and/or Federal law
+
+from using or disclosing this information. If you are not the intended recipient, you are
+
+hereby notified that any disclosure, dissemination, distribution, copying, or action taken
+
+in reliance on the contents of this communication is strictly prohibited.
+
+ 
+
+ 
+
+If you have received this communication in error, please notify us immediately by
+
+return e-mail and delete the message and its attachments
+
+ 
+
+ 
+
+ 
+
+ 
+
+	
+Caution: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe

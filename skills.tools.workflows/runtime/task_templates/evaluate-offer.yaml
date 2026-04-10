@@ -1,0 +1,87 @@
+---
+template_id: evaluate-offer
+# No direct landmark — this task is plumbing between log-incoming-offer and
+# prepare-counter / accept-offer. The closest PHASE_DAG landmark is the
+# settlement_reached / impasse_declared branch downstream, which is why we
+# list the target landmark as the nearest gated one. The materializer
+# should not treat this as a landmark-producing task; it is a
+# dependency-only node.
+landmark: initial_offer_received
+phase: phase_4_negotiation
+skill: offer-evaluation
+priority: high
+auto: false
+review: true
+
+task_id_template: "{case_slug}-evaluate-offer-{discriminator}"
+discriminator: per_carrier_round
+
+# Emit once an offer has been logged on the claim file but has no
+# `evaluated_date`. This catches both initial offers and subsequent revised
+# offers during an active negotiation.
+emit_when: |
+  any(
+    o for claim in case.claims if claim.type == "BI"
+    for o in claim.offers
+    if o.from == "insurance"
+    and o.logged_date
+    and not o.evaluated_date
+  )
+
+success_check: |
+  any(
+    o for o in case.claim(discriminator.carrier_slug).offers
+    if o.round == discriminator.round
+    and o.from == "insurance"
+    and o.evaluated_date
+    and o.recommendation in ("accept", "counter", "reject", "hold")
+  )
+
+inputs:
+  carrier_slug: "{discriminator.carrier_slug}"
+  round: "{discriminator.round}"
+  case_file: "cases/{case_slug}/{case_slug}.md"
+  claim_file: "cases/{case_slug}/claims/bi-{discriminator.carrier_slug}.md"
+
+# Must not run until the offer has been logged.
+depends_on:
+  - "{case_slug}-log-offer-{discriminator}"
+
+body: |
+  ## Task: Evaluate round {{round}} offer from {{carrier_name}}
+
+  **Case:** [[cases/{{case_slug}}/{{case_slug}}|{{client_name}}]]
+  **Carrier:** [[Contacts/Insurance/{{carrier_slug}}|{{carrier_name}}]]
+  **Claim file:** `cases/{{case_slug}}/claims/bi-{{carrier_slug}}.md`
+  **Round:** {{round}}
+  **Phase:** Negotiation
+
+  The round {{round}} offer from {{carrier_name}} has been logged but not
+  yet evaluated. Run the `offer-evaluation` skill. Per its SKILL.md, read:
+
+  - The case file for specials, liability notes, and treatment summary
+  - The claim file for demand, offer history, policy limits
+  - The `damages-calculation` block (if present) for specials math
+  - Any files under `cases/{{case_slug}}/documents/` that look like the
+    fee agreement to confirm the fee percentage (default 33⅓% pre-suit)
+  - All files under `cases/{{case_slug}}/liens/` for outstanding-lien
+    estimates
+
+  Produce:
+  1. A new activity log entry at
+     `cases/{{case_slug}}/Activity Log/<YYYY-MM-DD-HHMM>-legal.md` with
+     `category: legal`, `subcategory: offer_analysis`, containing the
+     net-to-client table, comparison block, and recommendation per the
+     exact structure in the `offer-evaluation` SKILL.md "Outputs" section.
+  2. Updates to the matching offer entry on the claim file:
+     ```yaml
+     evaluated_date: "<today>"
+     net_to_client: <dollar amount>
+     recommendation: accept | counter | reject | hold
+     recommended_counter_amount: <if recommendation == counter>
+     ```
+
+  This task is `review: true`. Attorney reads the memo and confirms the
+  recommendation before downstream `prepare-counter` / `accept-offer` /
+  `declare-impasse` are unlocked. Attorney may edit the `recommendation`
+  field on the claim file before approving to redirect the next task.

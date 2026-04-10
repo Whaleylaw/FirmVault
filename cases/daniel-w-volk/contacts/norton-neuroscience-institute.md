@@ -1,11 +1,19 @@
 ---
 schema_version: 2
+case_number: 2021-09-24-MVA-001
+tags: [contact/medical-provider/doctor]
 directory_id: 8d0eacd7-d7a2-4618-a937-51887a311f49
 master_card: "[[Contacts/Medical/norton-neuroscience-institute]]"
-case_number: 2021-09-24-MVA-001
 case_link: "[[cases/daniel-w-volk/daniel-w-volk]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: true
+records_received: true
+bills_requested: true
+bills_received: false
+treatment_status: Treatment Complete
+records_requested_date: "2023-11-16"
+records_received_date: "2023-12-11"
+bills_requested_date: "2023-11-16"
 ---
 
 # Norton Neuroscience Institute

@@ -6,6 +6,22 @@ client_name: Rayshawn Wilson
 case_type: auto_accident
 status: treatment
 date_of_incident: "2025-04-10"
+landmarks:
+  accident_report_obtained: true
+  all_bills_received: false
+  all_records_received: false
+  attorney_approved_demand: false
+  bills_requested_all_providers: false
+  client_info_received: true
+  contract_signed: true
+  demand_drafted: false
+  demand_sent: false
+  full_intake_complete: true
+  insurance_claims_setup: true
+  medical_auth_signed: true
+  providers_setup: true
+  records_requested_all_providers: false
+  treatment_complete: false
 ---
 
 # Rayshawn Wilson — auto accident 2025-04-10
@@ -18,9 +34,27 @@ date_of_incident: "2025-04-10"
 - [[contacts/southeastern-emergency-services-llc|Southeastern Emergency Services, LLC]]
 - [[contacts/starlite-chiropractic|Starlite Chiropractic]]
 - [[contacts/uofl-health-mary-elizabeth-mary-elizabeth-hospital|UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital]]
+- [[contacts/uofl-health-mary-and-elizabeth-mary-and-elizabeth-hospital|UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Foundation Radiology Group, PC | Treatment Complete |  |  |  |  | 2025-04-15 |  | 2025-04-15 |
+| Southeastern Emergency Services, LLC | Treatment Complete |  |  |  | 2025-04-15 |  | 2025-04-15 |  |
+| Starlite Chiropractic | Actively Treating |  |  |  |  |  |  |  |
+| UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital | Treatment Complete |  |  |  | 2025-04-15 |  | 2025-04-15 |  |
+<!-- roscoe-medical-end -->
 
 ## Insurance Claims
 - [[claims/pip-progressive-insurance-company|PIP — Progressive Insurance Company]] — Claim #25806894629 (no_demand)
+
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Personal Injury Protection (PIP) | Progressive Insurance Company | 25806894629 |  |  |  | (800) 776-4737 | 9520 Ormbsy Station Rd, Ste 200, louisville, KY 40223 |
+<!-- roscoe-insurance-end -->
 
 ## Activity Log
 Recent: [[Activity Log/2025-07-17-correspondence|2025-07-17 — correspondence]]

@@ -1,0 +1,16 @@
+---
+schema_version: 2
+case_id: de670653-7301-4e91-8ad5-4999c23d6ad8
+date: "2024-12-06"
+time: "15:52:05"
+category: imported
+subcategory: filevine_negotiation
+---
+
+# Filevine activity (negotiation) — 2024-12-06 15:52
+
+**Case:** [[cases/fidel-antonio-bueso-sandoval/fidel-antonio-bueso-sandoval|Fidel Antonio Bueso Sandoval]]
+**Source:** Filevine negotiation export
+**Timestamp:** 2024-12-06T15:52:05
+
+Two Week follow up with client initiated

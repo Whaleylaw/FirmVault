@@ -1,0 +1,92 @@
+---
+template_id: execute-release
+landmark: release_executed
+phase: phase_5_settlement
+skill: docusign-send
+priority: high
+auto: false
+review: true
+
+# Per-claim when there are multiple settling carriers (BI + UIM, for example).
+# Discriminator is the carrier slug so each carrier gets its own release.
+task_id_template: "{case_slug}-execute-release-{discriminator}"
+discriminator: per_settling_carrier
+
+emit_when: |
+  case.flag("client_signed_authorization")
+  and any(
+    c for c in case.claims
+    if c.settlement_status == "agreed"
+    and not c.release_signed
+  )
+
+success_check: |
+  all(
+    c.release_signed for c in case.claims
+    if c.settlement_status == "agreed"
+    and c.carrier_slug == discriminator
+  )
+  and case.flag("release_signed")
+  and case.has_document("release")
+
+inputs:
+  carrier_slug: "{discriminator}"
+  case_file: "cases/{case_slug}/{case_slug}.md"
+  claim_file: "cases/{case_slug}/claims/"
+  # The carrier supplies the release draft; if they have not, the task is
+  # blocked until it arrives.
+
+depends_on:
+  - "{case_slug}-get-client-signature"
+
+body: |
+  ## Task: Execute release for {{carrier_name}}
+
+  **Case:** [[cases/{{case_slug}}/{{case_slug}}|{{client_name}}]]
+  **Carrier:** [[Contacts/Insurance/{{carrier_slug}}|{{carrier_name}}]]
+  **Phase:** Settlement
+  **Priority:** High
+
+  The client has signed the authorization-to-settle. The defendant carrier
+  will have sent (or will send) a release form. Route it to the client
+  for electronic signature via `docusign-send`.
+
+  **This task is `review:true`. A release extinguishes the client's
+  claim — the attorney must personally verify the language before it
+  goes to the client.** Stop before calling DocuSign and apply
+  `status:needs_review`.
+
+  Steps:
+
+  1. Locate the release PDF sent by the carrier. Expected at
+     `cases/{{case_slug}}/documents/legal/release-{{carrier_slug}}-draft.pdf`.
+     If it is not there, this task is `status:blocked` — comment on the
+     issue that the release has not yet been received from the carrier
+     and stop. Do not draft a release from scratch.
+  2. Attorney reviews the release language: confirm the scope, settlement
+     amount, payee, indemnification terms, and any UIM/med-pay carve-outs
+     match the agreed settlement.
+  3. Add a `/sig1/` anchor string if one is not present (see
+     `references/anchor-strings.md` in the docusign-send skill).
+  4. Call `python Tools/esignature/docusign_send.py <path> --signer-email <email> --signer-name "<Legal Name>" --subject "Please Sign: Release — {{client_name}} v {{carrier_name}}" --production`.
+  5. Log the envelope ID in an Activity Log entry at
+     `cases/{{case_slug}}/Activity Log/<YYYY-MM-DD-HHMM>-correspondence.md`.
+
+  When `document-intake` files the executed release at
+  `cases/{{case_slug}}/documents/legal/release-{{carrier_slug}}-<YYYY-MM-DD>.pdf`,
+  update the claim file at
+  `cases/{{case_slug}}/claims/bi-{{carrier_slug}}.md`:
+
+  ```yaml
+  release_signed: true
+  release_signed_date: "<YYYY-MM-DD>"
+  ```
+
+  And set on the case file frontmatter:
+
+  ```yaml
+  flags:
+    release_signed: true
+  ```
+
+  This satisfies landmark `release_executed`.

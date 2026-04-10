@@ -6,3 +6,7 @@
 .DS_Store
 .secrets.yaml
 _quarantine/
+__pycache__/
+*.pyc
+.next/
+node_modules/

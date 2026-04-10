@@ -1,11 +1,20 @@
 ---
 schema_version: 2
+case_number: 2023-06-15-MVA-001
+tags: [contact/medical-provider/doctor]
 directory_id: a569d344-1ef6-442b-8196-cede54945134
 master_card: "[[Contacts/Medical/the-body-shop-physical-therapy]]"
-case_number: 2023-06-15-MVA-001
 case_link: "[[cases/robin-wilder-hamilton/robin-wilder-hamilton]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: true
+records_received: true
+bills_requested: true
+bills_received: true
+treatment_status: Treatment Complete
+records_requested_date: "2025-02-25"
+records_received_date: "2025-03-04"
+bills_requested_date: "2025-02-25"
+bills_received_date: "2025-03-04"
 ---
 
 # The Body Shop Physical Therapy

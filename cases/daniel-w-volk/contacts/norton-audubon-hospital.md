@@ -1,11 +1,18 @@
 ---
 schema_version: 2
+case_number: 2021-09-24-MVA-001
+tags: [contact/medical-provider/doctor]
 directory_id: 2321cc92-4fea-4ff0-b6ec-4ec6816bad8a
 master_card: "[[Contacts/Medical/norton-audubon-hospital]]"
-case_number: 2021-09-24-MVA-001
 case_link: "[[cases/daniel-w-volk/daniel-w-volk]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: false
+records_received: true
+bills_requested: false
+bills_received: true
+treatment_status: Treatment Complete
+records_received_date: "2024-01-30"
+bills_received_date: "2024-01-30"
 ---
 
 # Norton Audubon Hospital

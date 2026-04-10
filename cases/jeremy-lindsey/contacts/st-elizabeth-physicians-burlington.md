@@ -1,11 +1,20 @@
 ---
 schema_version: 2
+case_number: 2024-12-01-MVA-002
+tags: [contact/medical-provider/doctor]
 directory_id: st-elizabeth-physicians-burlington
 master_card: "[[Contacts/Medical/st-elizabeth-physicians-burlington]]"
-case_number: 2024-12-01-MVA-002
 case_link: "[[cases/jeremy-lindsey/jeremy-lindsey]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: true
+records_received: true
+bills_requested: true
+bills_received: true
+treatment_status: Treatment Complete
+records_requested_date: "2025-01-08"
+records_received_date: "2025-01-09"
+bills_requested_date: "2025-01-08"
+bills_received_date: "2025-01-08"
 ---
 
 # St. Elizabeth Physicians- Burlington

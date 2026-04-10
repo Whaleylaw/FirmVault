@@ -6,6 +6,22 @@ client_name: Frances Whitis
 case_type: auto_accident
 status: litigation
 date_of_incident: "2024-09-06"
+landmarks:
+  accident_report_obtained: true
+  all_bills_received: false
+  all_records_received: true
+  attorney_approved_demand: false
+  bills_requested_all_providers: false
+  client_info_received: true
+  contract_signed: true
+  demand_drafted: false
+  demand_sent: false
+  full_intake_complete: true
+  insurance_claims_setup: true
+  medical_auth_signed: true
+  providers_setup: true
+  records_requested_all_providers: false
+  treatment_complete: true
 ---
 
 # Frances Whitis — auto accident 2024-09-06
@@ -19,6 +35,16 @@ date_of_incident: "2024-09-06"
 - [[contacts/frankfort-fire-ems|Frankfort Fire & EMS]]
 - [[contacts/frankfort-regional-medical-center|Frankfort Regional Medical Center]]
 - [[contacts/medicare|Medicare]]
+- [[contacts/frankfort-fire-and-ems|Frankfort Fire & EMS]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Family Care Of The Bluegrass - East | Treatment Complete | 2024-09-10 | 2024-12-05 | $858.00 |  | 2025-03-10 |  | 2025-03-10 |
+| Frankfort Fire & EMS | Treatment Complete |  |  |  | 2025-02-28 |  |  | 2025-03-06 |
+| Frankfort Regional Medical Center | Treatment Complete | 2024-09-06 | 2024-09-19 | $31,414.07 | 2025-02-28 | 2025-06-10 |  | 2025-03-12 |
+<!-- roscoe-medical-end -->
 
 ## Adjusters
 - [[contacts/amanda-clemons|Amanda Clemons]]
@@ -29,6 +55,14 @@ date_of_incident: "2024-09-06"
 ## Insurance Claims
 - [[claims/bi-unknown|BI]] (no_demand)
 - [[claims/pip-progressive-insurance-company|PIP — Progressive Insurance Company]] — Claim #24-727042794 (no_demand)
+
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Workers' Compensation (WC) |  |  |  |  |  |  |  |
+| Personal Injury Protection (PIP) | Progressive Insurance Company | 24-727042794 | Amanda Clemons | 502-909-3673 | Amanda_L_Clemons@Progressive.com | (800) 776-4737 | 9520 Ormbsy Station Rd, Ste 200, louisville, KY 40223 |
+<!-- roscoe-insurance-end -->
 
 ## Liens
 - [[liens/aetna-medicare|Aetna Medicare]] — medicare (identified)

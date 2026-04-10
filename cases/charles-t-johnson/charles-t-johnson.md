@@ -6,6 +6,22 @@ client_name: Charles T Johnson
 case_type: auto_accident
 status: litigation
 date_of_incident: "2023-04-18"
+landmarks:
+  accident_report_obtained: true
+  all_bills_received: false
+  all_records_received: false
+  attorney_approved_demand: false
+  bills_requested_all_providers: false
+  client_info_received: true
+  contract_signed: true
+  demand_drafted: false
+  demand_sent: false
+  full_intake_complete: true
+  insurance_claims_setup: true
+  medical_auth_signed: true
+  providers_setup: true
+  records_requested_all_providers: false
+  treatment_complete: false
 ---
 
 # Charles T Johnson — auto accident 2023-04-18
@@ -22,6 +38,19 @@ date_of_incident: "2023-04-18"
 - [[contacts/university-of-louisville-hospital-radiology|University Of Louisville Hospital Radiology]]
 - [[contacts/university-of-louisville-physicians|University of Louisville Physicians]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| University Of Louisville Hospital Radiology | Treatment Complete | 2023-04-18 | 2023-04-18 |  | 2024-10-08 |  | 2024-10-08 |  |
+| Family Health Centers - Portland | Prior |  |  |  |  | 2024-09-16 |  | 2024-09-16 |
+| Integra Medical Imaging | Treatment Complete | 2023-06-07 | 2023-06-07 | $3,300.00 |  | 2024-04-09 |  | 2024-04-09 |
+| University of Louisville Physicians | Treatment Complete | 2023-04-18 | 2023-04-18 | $680.00 | 2024-04-05 |  | 2024-04-05 |  |
+| Jewish Hospital | Treatment Complete | 2023-04-18 | 2023-04-18 | $1,780.00 |  | 2024-04-24 |  | 2024-06-11 |
+| Starlite Chiropractic | Treatment Complete | 2023-04-20 | 2023-06-21 | $7,240.00 |  | 2024-07-24 |  | 2024-07-24 |
+| Louisville Metro EMS | Treatment Complete | 2023-04-18 | 2023-04-18 | $646.40 |  | 2024-04-23 |  | 2024-04-23 |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/amy-cox|Amy Cox]]
 - [[contacts/auto-owners-insurance|Auto Owners Insurance]]
@@ -33,6 +62,14 @@ date_of_incident: "2023-04-18"
 ## Insurance Claims
 - [[claims/bi-state-farm-insurance-company|BI — State Farm Insurance Company]] — Claim #1748L638H (no_demand)
 - [[claims/pip-auto-owners-insurance|PIP — Auto Owners Insurance]] — Claim #3002385272023 (no_demand)
+
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Personal Injury Protection (PIP) | Auto Owners Insurance | 3002385272023 | Amy Cox | 800-397-4267 ext. 54610 Main |  | 502-253-0960 | PO Box 221409, Louisville, KY 40252 |
+| Bodily Injury (BI) | State Farm Insurance Company | 1748L638H | Benjamine Groce | 4802936417 |  | 1-800-782-8332 | P.O Box 106171, Atlanta, GA 30348 |
+<!-- roscoe-insurance-end -->
 
 ## Liens
 - [[liens/medicare|Medicare]] — medicare (identified)

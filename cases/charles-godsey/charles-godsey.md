@@ -6,6 +6,22 @@ client_name: Charles Godsey
 case_type: auto_accident
 status: negotiation
 date_of_incident: "2025-06-30"
+landmarks:
+  accident_report_obtained: true
+  all_bills_received: true
+  all_records_received: true
+  attorney_approved_demand: false
+  bills_requested_all_providers: false
+  client_info_received: true
+  contract_signed: true
+  demand_drafted: false
+  demand_sent: false
+  full_intake_complete: true
+  insurance_claims_setup: true
+  medical_auth_signed: true
+  providers_setup: true
+  records_requested_all_providers: false
+  treatment_complete: true
 ---
 
 # Charles Godsey — auto accident 2025-06-30
@@ -16,15 +32,35 @@ date_of_incident: "2025-06-30"
 ## Medical Providers
 - [[contacts/starlite-chiropractic|Starlite Chiropractic]]
 - [[contacts/uofl-health-mary-elizabeth-mary-elizabeth-hospital|UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital]]
+- [[contacts/uofl-health-mary-and-elizabeth-mary-and-elizabeth-hospital|UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital | Treatment Complete | 2025-06-30 | 2025-06-30 | $4,142.00 | 2025-09-24 | 2025-10-22 |  | 2025-10-17 |
+| Starlite Chiropractic | Treatment Complete | 2025-07-01 |  | $7,140.00 |  | 2025-08-18 |  | 2025-08-18 |
+<!-- roscoe-medical-end -->
 
 ## Adjusters
 - [[contacts/amy-cox|Amy Cox]]
 - [[contacts/benjamine-groce|Benjamine Groce]]
 - [[contacts/casey-may|Casey May]]
+- [[contacts/joshua-white|Joshua White]]
 
 ## Insurance Claims
 - [[claims/bi-unknown|BI]] — Claim #1748L638H (demand_pending)
 - [[claims/pip-unknown|PIP]] — Claim #3002385272023 (no_demand)
+- [[claims/bi-progressive-insurance-company|BI — Progressive Insurance Company]]
+- [[claims/pip-kentucky-farm-bureau|PIP — Kentucky Farm Bureau]]
+
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | Progressive Insurance Company | 25631251364 | Joshua White | 502-909-3678 | Joshua_F_White@progressive.com | (800) 776-4737 | 9520 Ormbsy Station Rd, Ste 200, louisville, KY 40223 |
+| Personal Injury Protection (PIP) | Kentucky Farm Bureau | 5117901 | Casey May | 502-493-7625 | Casey.May@kyfb.com | 502-266-6100 | P.O. Box 20400, Louisville, KY 40250 |
+<!-- roscoe-insurance-end -->
 
 ## Liens
 - [[liens/humana|Humana]] — health_insurance — $783.60 (amount_confirmed)

@@ -1,0 +1,102 @@
+---
+template_id: send-demand
+landmark: demand_sent               # HARD BLOCKER — Phase 3 → Phase 4 exit
+phase: phase_3_demand
+# No dedicated "send-demand" skill exists in Skills/. The closest owner
+# of the demand artifact is `demand-letter-generation`; the send step is
+# manual-assist (package + transmit) pending a skill rewrite. See the
+# report / MEMORY.md flag. Do not invent a new skill slug.
+skill: demand-letter-generation
+priority: high                      # hard blocker + money-touching
+auto: false                         # NEVER auto — this is the gate
+review: true
+
+task_id_template: "{case_slug}-send-demand-{discriminator}"
+discriminator: per_carrier
+
+emit_when: |
+  case.status == "demand"
+  and case.flag("attorney_approved_demand")
+  and any(
+    c for c in case.claims
+    if c.type == "BI" and not c.demand_sent_date
+  )
+
+success_check: |
+  all(
+    c.demand_sent_date for c in case.claims
+    if c.type == "BI" and c.carrier_slug == discriminator
+  )
+
+inputs:
+  carrier_slug: "{discriminator}"
+  case_file: "cases/{case_slug}/{case_slug}.md"
+  claim_file: "cases/{case_slug}/claims/bi-{discriminator}.md"
+  draft_glob: "cases/{case_slug}/documents/demand-{discriminator}-*.md"
+
+depends_on:
+  - "{case_slug}-attorney-review-demand-{discriminator}"
+
+body: |
+  ## Task: Send demand letter to {{carrier_name}} (BI)
+
+  **Case:** [[cases/{{case_slug}}/{{case_slug}}|{{client_name}}]]
+  **Carrier:** [[Contacts/Insurance/{{carrier_slug}}|{{carrier_name}}]]
+  **Claim #:** {{claim_number}}
+  **Phase:** Demand In Progress
+  **Priority:** HIGH — this is the hard blocker that exits Phase 3.
+
+  Package and transmit the attorney-approved demand letter to the BI
+  adjuster. This task is `auto:false` — a human must confirm before the
+  package leaves the firm. It is also money-touching: the demand amount,
+  the response deadline, and the exhibit list directly affect the case
+  valuation.
+
+  Preconditions (materializer already verified):
+
+  - `case.frontmatter.attorney_approved_demand == true`
+  - A draft exists at
+    `cases/{{case_slug}}/documents/demand-{{carrier_slug}}-*.md`
+
+  Worker steps:
+
+  1. Locate the latest draft matching
+     `cases/{{case_slug}}/documents/demand-{{carrier_slug}}-*.md`.
+     Fail the task if none is found or if the draft's frontmatter does
+     not record attorney approval.
+  2. Assemble the exhibit package referenced in the draft's Exhibit List
+     section. Exhibits are pulled from `cases/{{case_slug}}/documents/`.
+     Produce a manifest at
+     `cases/{{case_slug}}/documents/demand-{{carrier_slug}}-package-<YYYY-MM-DD>.md`
+     listing every exhibit by filename and Bates-style label if the
+     attorney uses one.
+  3. Confirm the transmit channel against the carrier card at
+     `Contacts/Insurance/{{carrier_slug}}.md` (fax, email, certified
+     mail, or adjuster portal). Record the channel on the task comment.
+  4. Post a `status:needs_review` comment summarizing: demand amount,
+     response deadline, transmit channel, recipient name and address,
+     total exhibit count, and a direct link to the package manifest.
+
+  After the human approves and the package actually goes out:
+
+  5. Update `cases/{{case_slug}}/claims/bi-{{carrier_slug}}.md`:
+     ```yaml
+     demand_sent: true
+     demand_sent_date: "<YYYY-MM-DD>"
+     demand_sent_method: <fax|email|mail|portal>
+     demand_sent_to: <adjuster name>
+     demand_response_deadline: "<YYYY-MM-DD>"
+     ```
+  6. Set `case.frontmatter.demand_sent_date` to the earliest BI-claim
+     `demand_sent_date` so the PHASE_DAG predicate
+     `all(c.demand_sent_date for c in case.claims if c.type == "BI")`
+     evaluates true.
+  7. Log an activity entry at
+     `cases/{{case_slug}}/Activity Log/<YYYY-MM-DD-HHMM>-legal.md`
+     describing the send, including the response deadline. This entry
+     is the `demand_sent_date` anchor that Phase 4's `one_week_followup`
+     landmark keys off of.
+
+  Once this task closes as `status:done`, the `demand_sent` hard
+  blocker is satisfied and the materializer will advance the case to
+  `phase_4_negotiation` on its next tick.

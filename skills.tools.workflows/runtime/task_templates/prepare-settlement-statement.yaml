@@ -1,0 +1,70 @@
+---
+template_id: prepare-settlement-statement
+landmark: settlement_statement_prepared
+phase: phase_5_settlement
+skill: settlement-statement
+priority: high
+auto: false
+review: true
+
+# One statement per case — not per claim. Combines all claims into one accounting.
+task_id_template: "{case_slug}-prepare-settlement-statement"
+discriminator: null
+
+emit_when: |
+  case.frontmatter.settlement_status == "agreed"
+  and not case.has_document("settlement statement")
+
+success_check: |
+  case.has_document("settlement statement")
+
+inputs:
+  case_file: "cases/{case_slug}/{case_slug}.md"
+  expenses_section: "cases/{case_slug}/{case_slug}.md#Expenses"
+  liens_dir: "cases/{case_slug}/liens/"
+  fee_agreement: "cases/{case_slug}/documents/legal/"
+  # NOTE: no firm DOCX exists yet for this document — use the markdown skeleton
+  local_template: "skills.tools.workflows/Skills/settlement-statement/local-templates/settlement-statement.md"
+
+depends_on: []
+
+body: |
+  ## Task: Prepare settlement statement for {{client_name}}
+
+  **Case:** [[cases/{{case_slug}}/{{case_slug}}|{{client_name}}]]
+  **Phase:** Settlement
+  **Priority:** High (money-touching, Phase 5 hard blocker)
+
+  An offer has been accepted (`settlement_status == "agreed"`). Prepare the
+  gross-to-net distribution statement before the authorization-to-settle
+  goes to the client.
+
+  Use the `settlement-statement` skill. Steps:
+
+  1. Read `cases/{{case_slug}}/{{case_slug}}.md` and pull the gross
+     settlement amount from `## Insurance Claims` or the accepted-offer
+     activity log entry.
+  2. Read the signed fee agreement under `cases/{{case_slug}}/documents/legal/`
+     to determine the contingency rate (pre-lit vs post-lit).
+  3. Itemize case costs from the `## Expenses` table.
+  4. Sum outstanding lien holdback from every file in
+     `cases/{{case_slug}}/liens/` where `status != paid` (prefer
+     `final_amount`, fall back to `estimated_amount`).
+  5. Compute: `net = gross − fee − costs − lien_holdback`.
+
+  **KNOWN GAP:** there is no firm DOCX template for the settlement statement.
+  Use the markdown skeleton at
+  `skills.tools.workflows/Skills/settlement-statement/local-templates/settlement-statement.md`
+  as the source of truth. When a real DOCX is added to `Templates/`, this
+  template should switch to it.
+
+  Write the filled statement to:
+  `cases/{{case_slug}}/documents/legal/settlement-statement-<YYYY-MM-DD>.md`
+
+  Add an Activity Log entry per `DATA_CONTRACT.md` §5 at
+  `cases/{{case_slug}}/Activity Log/<YYYY-MM-DD-HHMM>-legal.md`.
+
+  This task is `review:true`. Stop after the markdown is written and
+  apply `status:needs_review`. The attorney must verify the math against
+  the fee agreement and the outstanding liens before the
+  authorization-to-settle task is unblocked.

@@ -1,11 +1,20 @@
 ---
 schema_version: 2
+case_number: 2025-09-03-MVA-001
+tags: [contact/medical-provider/doctor]
 directory_id: university-of-louisville-hospital
 master_card: "[[Contacts/Medical/university-of-louisville-hospital]]"
-case_number: 2025-09-03-MVA-001
 case_link: "[[cases/cory-stephenson/cory-stephenson]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: true
+records_received: true
+bills_requested: true
+bills_received: true
+treatment_status: Treatment Complete
+records_requested_date: "2025-10-10"
+records_received_date: "2025-11-07"
+bills_requested_date: "2025-10-10"
+bills_received_date: "2025-11-11"
 ---
 
 # University of Louisville Hospital

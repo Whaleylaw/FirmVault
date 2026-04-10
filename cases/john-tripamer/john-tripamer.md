@@ -6,6 +6,22 @@ client_name: John Tripamer
 case_type: auto_accident
 status: file_setup
 date_of_incident: "2026-02-06"
+landmarks:
+  accident_report_obtained: false
+  all_bills_received: false
+  all_records_received: false
+  attorney_approved_demand: false
+  bills_requested_all_providers: false
+  client_info_received: true
+  contract_signed: true
+  demand_drafted: false
+  demand_sent: false
+  full_intake_complete: true
+  insurance_claims_setup: true
+  medical_auth_signed: true
+  providers_setup: true
+  records_requested_all_providers: false
+  treatment_complete: false
 ---
 
 # John Tripamer — auto accident 2026-02-06
@@ -20,12 +36,33 @@ date_of_incident: "2026-02-06"
 - [[contacts/starlite-chiropractic|Starlite Chiropractic]]
 - [[contacts/university-of-louisville-hospital|University of Louisville Hospital]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Starlite Chiropractic | Actively Treating |  |  |  |  |  |  |  |
+| Louisville Metro EMS | Treatment Complete |  |  |  |  |  |  |  |
+| University of Louisville Hospital | Treatment Complete |  |  | $5,654.00 |  | 2026-03-12 |  |  |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/paul-stice|Paul Stice]] (Erie Insurance Group)
+- [[contacts/rayshawnna-shelby|Rayshawnna Shelby]]
+- [[contacts/josh-hicks|Josh Hicks]]
 
 ## Insurance Claims
 - [[claims/bi-state-farm-insurance-company|BI — State Farm Insurance Company]] (no_demand)
 - [[claims/pip-erie-insurance-group|PIP — Erie Insurance Group]] — Claim #A00007442879 (no_demand)
+- [[claims/um-esurance-insurance-company|UM — Esurance Insurance Company]]
+
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Uninsured Motorist (UM) | Esurance Insurance Company | A00007442879 | Rayshawnna Shelby | 859-219-4914 Main | Rayshawnna.Shelby@erieinsurance.com |  |  |
+| Bodily Injury (BI) | State Farm Insurance Company | 1797S473G |  |  |  | 1-800-782-8332 | P.O Box 106171, Atlanta, GA 30348 |
+| Personal Injury Protection (PIP) | Erie Insurance Group | A00007442879 | Josh Hicks | 859-219-4904 |  | 877-589-3743 | 1146 Monarch Street Suite 140, Lexington, KY 40503 |
+<!-- roscoe-insurance-end -->
 
 ## Activity Log
 Recent: [[Activity Log/2026-02-10-correspondence|2026-02-10 — correspondence]]

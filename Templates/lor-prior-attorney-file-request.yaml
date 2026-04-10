@@ -1,0 +1,117 @@
+---
+id: "lor_prior_attorney_file_request"
+name: "Letter of Representation to Prior Attorney with File Request"
+description: "Notifies prior attorney of new representation and requests case file transfer"
+category: "correspondence"
+input_mode: "hybrid"
+output_filename: "LOR_Prior_Attorney_{client_name}_{date}.pdf"
+
+# Required input to query the graph
+graph_inputs:
+  - name: "case_name"
+    description: "Name of the case (e.g., 'Wilson-MVA-2024')"
+    required: true
+
+# Field definitions
+fields:
+  # Computed/Config fields (automatic)
+  - name: "today_date"
+    source: "computed"
+    description: "Current date in long format (e.g., 'January 21, 2026')"
+
+  - name: "firm_name"
+    source: "config"
+    description: "Law firm name from firm_settings.json"
+
+  - name: "firm_phone"
+    source: "config"
+    description: "Law firm phone number"
+
+  - name: "paralegal_name"
+    source: "config"
+    description: "Paralegal's full name"
+
+  - name: "paralegal_email"
+    source: "config"
+    description: "Paralegal's email address"
+
+  # Client information from graph
+  - name: "client_name"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})-[:HAS_CLIENT]->(client:Client)
+      RETURN client.name
+    description: "Full name of the client"
+    required: true
+
+  - name: "client_last_name"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})-[:HAS_CLIENT]->(client:Client)
+      RETURN CASE
+        WHEN client.name CONTAINS ' ' THEN split(client.name, ' ')[-1]
+        ELSE client.name
+      END
+    description: "Last name of the client"
+    required: true
+
+  - name: "client_gender"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})-[:HAS_CLIENT]->(client:Client)
+      RETURN coalesce(client.gender, 'Unknown')
+    description: "Gender of the client (for honorific)"
+    required: false
+
+  - name: "client_honorific"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})-[:HAS_CLIENT]->(client:Client)
+      RETURN CASE
+        WHEN toLower(client.gender) = 'female' THEN 'Mrs.'
+        WHEN toLower(client.gender) = 'male' THEN 'Mr.'
+        ELSE ''
+      END
+    description: "Appropriate honorific based on client gender"
+    required: false
+
+  - name: "accident_date"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})
+      RETURN c.accident_date
+    description: "Date of the incident"
+    required: true
+
+  # Prior attorney information (manual input required)
+  - name: "prior_attorney_name"
+    source: "input"
+    description: "Full name of the prior attorney"
+    required: true
+
+  - name: "prior_attorney_firm"
+    source: "input"
+    description: "Name of the prior attorney's law firm"
+    required: false
+
+  - name: "prior_attorney_address"
+    source: "input"
+    description: "Street address of prior attorney"
+    required: true
+
+  - name: "prior_attorney_city_state_zip"
+    source: "input"
+    description: "City, State, and ZIP code (e.g., 'Louisville, KY 40202')"
+    required: true
+
+  - name: "certified_mail_tracking"
+    source: "input"
+    description: "Certified mail tracking number"
+    required: false
+    default: ""
+
+  - name: "client_address"
+    source: "input"
+    description: "Client's current mailing address (for CC line)"
+    required: false
+    default: ""

@@ -1,0 +1,164 @@
+---
+schema_version: 2
+case_id: cd8904c9-888b-46f2-bd8c-c71c0bfa160a
+date: "2024-11-18"
+time: "11:50:37"
+category: imported
+subcategory: filevine_filesetup
+---
+
+# Filevine activity (filesetup) — 2024-11-18 11:50
+
+**Case:** [[cases/abigail-whaley/abigail-whaley|Abigail Whaley]]
+**Source:** Filevine filesetup export
+**Timestamp:** 2024-11-18T11:50:37
+
+__FW: Insurance Claim 01008251706-02__
+From:  [justin@whaleylawfirm.com](mailto:justin@whaleylawfirm.com)
+To: 'Aaron Whaley' [agwhaley@whaleylawfirm.com](mailto:agwhaley@whaleylawfirm.com)
+Date: Mon Nov 18 2024 10:50:31 GMT-05:00
+
+ 
+
+ 
+
+Justin Chumbley
+
+Whaley Law Firm
+
+Ph: (502)583-4022
+
+Fax: (502)364-9363
+
+ 
+
+From: ClaimCorrespondence@afics.com  
+Sent: Monday, November 18, 2024 10:49 AM
+To: justin@whaleylawfirm.com
+Subject: Insurance Claim 01008251706-02
+
+ 
+
+	
+	
+
+
+
+
+ 
+
+
+From: 
+
+ClaimCorrespondence@afics.com  
+
+
+Recipient: 
+
+justin@whaleylawfirm.com  
+
+ 
+
+
+Date Generated: 
+
+11/18/2024 15:11:667 UTC
+
+
+Subject 
+
+Insurance Claim 01008251706-02
+
+
+ 
+
+ 
+
+ 
+
+
+CLAIM INFORMATION 
+
+ 
+
+
+Claim Number: 
+
+01-008-251706
+
+
+Date Of Loss: 
+
+10/24/2024
+
+ 
+
+
+Policy Number: 
+
+0778033601
+
+ 
+
+
+Policyholder:
+
+Joyce Ellis
+
+ 
+
+
+ 
+
+ 
+
+Hi Justin,
+
+ 
+
+Attached to this message are the requested policy documents associated with
+Abigail Whaley's claim. 
+
+ 
+
+Sincerely,
+
+ 
+
+Justine Cruz
+Senior Desk Adjuster
+
+AFICS on behalf of American Family Mutual Insurance Company, S.I.
+
+Justine.Cruz@afics.com  
+
+Phone: 1-608-722-3958 | Fax: 1-866-935-2858
+
+Mail: 6000 American Parkway, Madison, WI 53783-0001
+
+ 
+
+#Template:EMAIL0045 FREE FORM Email#
+
+METADATA INFORMATION
+
+htmlFileName=12582951-9ef041b9-186e-4ac8-bf01-0017f828ec7f_01-008-251706_PRO
+D.html##attachmentVariable=0_1_2.pdf##dateOfLoss=10/24/2024
+16:00:00##documentTitle=EMAIL0045 FREE
+FORM##relatedTo=##exposureID=cc:19198020##partyID=##serviceRequestID=##legal
+MatterID=##subject=Insurance Claim
+01008251706-02##env=PROD##claimNumber=01-008-251706##emailCC=##emailBCC=##se
+nder=ClaimCorrespondence @afics.com##emailTO=justin @whaleylawfirm.com
+
+	
+			
+			
+	
+
+Confidentiality Notice: This email and any files transmitted with it are
+confidential and intended solely for the use of the individual or entity to
+whom they are addressed. If you have received this email in error, please
+notify the sender and discard this email from your system. If you are not
+the intended recipient, you are notified that disclosing, copying,
+distributing or taking any action in reliance on the contents of this
+information is strictly prohibited.

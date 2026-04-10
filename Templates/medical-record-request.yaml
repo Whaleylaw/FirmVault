@@ -1,0 +1,118 @@
+---
+id: "medical_record_request"
+name: "Medical Record Request (Unrestricted)"
+description: "Formal request for complete medical records from healthcare provider for personal injury case"
+category: "correspondence"
+input_mode: "graph"
+output_filename: "Medical_Records_Request_{provider_name}_{date}.pdf"
+
+# Required input to query the graph
+graph_inputs:
+  - name: "case_name"
+    description: "Name of the case (e.g., 'Wilson-MVA-2024')"
+    required: true
+
+  - name: "provider_name"
+    description: "Name of the medical provider (e.g., 'Norton Hospital', 'Allstar Chiropractic')"
+    required: true
+
+# Field definitions
+fields:
+  # Computed/Config fields (automatic)
+  - name: "today_date"
+    source: "computed"
+    description: "Current date in long format (e.g., 'January 21, 2026')"
+
+  - name: "today_date_short"
+    source: "computed"
+    description: "Current date in short format (e.g., '01/21/2026')"
+
+  - name: "firm_name"
+    source: "config"
+    description: "Law firm name from firm_settings.json"
+
+  - name: "firm_phone"
+    source: "config"
+    description: "Law firm phone number"
+
+  # Client information from graph
+  - name: "client_name"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})-[:HAS_CLIENT]->(client:Client)
+      RETURN client.name
+    description: "Full name of the client"
+    required: true
+
+  - name: "client_dob"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})-[:HAS_CLIENT]->(client:Client)
+      RETURN coalesce(client.date_of_birth, client.dob, 'N/A')
+    description: "Client date of birth"
+    required: false
+
+  - name: "client_ssn"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})-[:HAS_CLIENT]->(client:Client)
+      RETURN coalesce(client.ssn, client.social_security_number, 'N/A')
+    description: "Client social security number (last 4 digits or full)"
+    required: false
+
+  - name: "accident_date"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})
+      RETURN c.accident_date
+    description: "Date of the incident/accident"
+    required: true
+
+  - name: "case_type"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})
+      RETURN coalesce(c.case_type, c.type, 'Personal Injury')
+    description: "Type of case (MVA, S&F, WC)"
+    required: false
+
+  # Provider information (search up hierarchy: Location → Facility → HealthSystem)
+  - name: "provider_address_block"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})-[:TREATED_AT|TREATED_BY*1..3]-(provider)
+      WHERE provider.name CONTAINS $provider_name
+        OR (provider:Location AND (provider)-[:PART_OF]-(:Facility {name: $provider_name}))
+        OR (provider:Location AND (provider)-[:PART_OF]->(:Facility)-[:PART_OF]->(:HealthSystem {name: $provider_name}))
+      WITH provider LIMIT 1
+      RETURN coalesce(provider.name, '') + '\n' +
+             coalesce(provider.address_line1, provider.address, '') + '\n' +
+             coalesce(provider.city, '') + ', ' +
+             coalesce(provider.state, '') + ' ' +
+             coalesce(provider.zip, provider.zipcode, '')
+    description: "Formatted mailing address for the provider"
+    required: true
+
+  - name: "provider_fax"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})-[:TREATED_AT|TREATED_BY*1..3]-(provider)
+      WHERE provider.name CONTAINS $provider_name
+        OR (provider:Location AND (provider)-[:PART_OF]-(:Facility {name: $provider_name}))
+        OR (provider:Location AND (provider)-[:PART_OF]->(:Facility)-[:PART_OF]->(:HealthSystem {name: $provider_name}))
+      WITH provider LIMIT 1
+      RETURN coalesce(provider.fax, provider.fax_number, 'N/A')
+    description: "Provider fax number for records request"
+    required: false
+
+  # Attorney/staff information
+  - name: "attorney_name"
+    source: "input"
+    description: "Name of attorney or staff member signing the letter"
+    required: false
+    default: "Aaron Whaley"
+
+  - name: "attorney_email"
+    source: "config"
+    description: "Email address for records coordinator"
+    required: false

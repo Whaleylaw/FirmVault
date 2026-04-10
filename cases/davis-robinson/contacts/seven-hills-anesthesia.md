@@ -1,11 +1,19 @@
 ---
 schema_version: 2
+case_number: 2025-05-02-SF-001
+tags: [contact/medical-provider/doctor]
 directory_id: 3d557f7f-606c-4b9d-a04c-fe15246ca8f8
 master_card: "[[Contacts/Medical/seven-hills-anesthesia]]"
-case_number: 2025-05-02-SF-001
 case_link: "[[cases/davis-robinson/davis-robinson]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: true
+records_received: false
+bills_requested: true
+bills_received: true
+treatment_status: Treatment Complete
+records_requested_date: "2025-05-21"
+bills_requested_date: "2025-05-21"
+bills_received_date: "2025-06-24"
 ---
 
 # Seven HIlls Anesthesia

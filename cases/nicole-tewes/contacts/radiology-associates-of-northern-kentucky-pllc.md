@@ -1,11 +1,17 @@
 ---
 schema_version: 2
+case_number: 2025-07-05-MVA-001
+tags: [contact/medical-provider/doctor]
 directory_id: radiology-associates-of-northern-kentucky-pllc
 master_card: "[[Contacts/Medical/radiology-associates-of-northern-kentucky-pllc]]"
-case_number: 2025-07-05-MVA-001
 case_link: "[[cases/nicole-tewes/nicole-tewes]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: false
+records_received: false
+bills_requested: false
+bills_received: true
+treatment_status: Treatment Complete
+bills_received_date: "2025-11-20"
 ---
 
 # Radiology Associates of Northern Kentucky, PLLC

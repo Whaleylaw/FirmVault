@@ -1,11 +1,18 @@
 ---
 schema_version: 2
+case_number: 2023-02-25-PrL-001
+tags: [contact/medical-provider/doctor]
 directory_id: 578966cf-304d-4804-9962-1f2f20aa9c09
 master_card: "[[Contacts/Medical/deaconess-clinic-letcher-pcp]]"
-case_number: 2023-02-25-PrL-001
 case_link: "[[cases/kimberly-brasher/kimberly-brasher]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: true
+records_received: false
+bills_requested: true
+bills_received: false
+treatment_status: 
+records_requested_date: "2025-07-11"
+bills_requested_date: "2025-07-11"
 ---
 
 # Deaconess Clinic - Letcher PCP

@@ -1,0 +1,73 @@
+---
+template_id: receive-final-lien-amount
+landmark: final_amounts_received
+phase: phase_6_lien
+skill: lien-management
+priority: high
+auto: false           # a real number is being logged → human confirms
+review: true
+
+# One task per (case, lien creditor). This is a PASSIVE waiting task —
+# the worker does nothing until the final-amount letter arrives and an
+# Activity Log entry records it. The materializer keeps the task open.
+task_id_template: "{case_slug}-receive-final-lien-{discriminator}"
+discriminator: per_lien_creditor
+
+emit_when: |
+  any(
+    l for l in case.liens.where(status="outstanding")
+    if l.final_amount_requested_date and not l.final_amount
+  )
+
+success_check: |
+  all(
+    l.final_amount and l.final_amount_received_date
+    for l in case.liens.where(status="outstanding")
+    if l.slug == discriminator
+  )
+
+inputs:
+  creditor_slug: "{discriminator}"
+  case_file: "cases/{case_slug}/{case_slug}.md"
+  lien_file: "cases/{case_slug}/liens/{discriminator}.md"
+
+depends_on:
+  - "{case_slug}-request-final-lien-{discriminator}"
+
+body: |
+  ## Task: Log final lien amount from {{creditor_name}}
+
+  **Case:** [[cases/{{case_slug}}/{{case_slug}}|{{client_name}}]]
+  **Lien holder:** [[cases/{{case_slug}}/liens/{{creditor_slug}}|{{creditor_name}}]]
+  **Phase:** Lien Resolution
+  **Produces:** `final_amount` + `final_amount_received_date` on this
+  lien; aggregates into `final_amounts_received`.
+
+  **This is a passive waiting task.** The worker should NOT contact the
+  lienholder — that was `request-final-lien-amounts`. Instead, the worker
+  checks whether a response has arrived and, if so, records it.
+
+  Check order:
+
+  1. Walk `cases/{{case_slug}}/Activity Log/` for any entry since
+     `final_amount_requested_date` whose `subcategory` or body references
+     `{{creditor_slug}}` and includes a final payoff figure (CPL letter
+     from CMS, medicaid recovery letter, ERISA plan statement, provider
+     itemized bill).
+  2. Walk `cases/{{case_slug}}/documents/legal/` for an inbound document
+     matching `final-lien-response-{{creditor_slug}}-*` or similar.
+  3. If found, extract the number. If not found, comment on the issue
+     with "still waiting — last requested <date>, aged <N> days" and
+     leave the issue at `status:in_progress` (materializer will poll).
+     Do NOT flip to `status:failed` unless the attorney declares the
+     lienholder unresponsive.
+
+  When the amount is known, update the lien stub frontmatter:
+  ```yaml
+  final_amount: <number>
+  final_amount_received_date: "<date from the letter>"
+  final_amount_source: <document path or activity log path>
+  ```
+
+  `review: true` — attorney eyeballs the number before it becomes the
+  basis for negotiation. Wrong number here poisons everything downstream.

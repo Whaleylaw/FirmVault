@@ -1,11 +1,19 @@
 ---
 schema_version: 2
+case_number: 2025-12-18-OTH-001
+tags: [contact/medical-provider/doctor]
 directory_id: jewish-hospital
 master_card: "[[Contacts/Medical/jewish-hospital]]"
-case_number: 2025-12-18-OTH-001
 case_link: "[[cases/raymond-hunter/raymond-hunter]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: true
+records_received: true
+bills_requested: true
+bills_received: false
+treatment_status: Treatment Complete
+records_requested_date: "2026-01-21"
+records_received_date: "2026-02-02"
+bills_requested_date: "2026-01-21"
 ---
 
 # Jewish Hospital

@@ -1,0 +1,119 @@
+---
+id: "blank_letter_bi_adjuster"
+name: "Blank Letter to BI Adjuster"
+description: "General-purpose blank letter template for correspondence to bodily injury insurance adjuster with pre-filled case details"
+category: "correspondence"
+input_mode: "graph"
+output_filename: "Letter_BI_{client_name}_{date}.pdf"
+
+# Required input to query the graph
+graph_inputs:
+  - name: "case_name"
+    description: "Name of the case (e.g., 'Wilson-MVA-2024')"
+    required: true
+
+  - name: "insurer_name"
+    description: "Insurance company name (optional - only needed if case has multiple BI claims)"
+    required: false
+
+# Field definitions
+fields:
+  # Computed/Config fields (automatic)
+  - name: "today_date"
+    source: "computed"
+    description: "Current date in long format (e.g., 'January 21, 2026')"
+
+  - name: "firm_name"
+    source: "config"
+    description: "Law firm name from firm_settings.json"
+
+  - name: "firm_phone"
+    source: "config"
+    description: "Law firm phone number"
+
+  # Client information from graph
+  - name: "client_name"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})-[:HAS_CLIENT]->(client:Client)
+      RETURN client.name
+    description: "Full name of the client"
+    required: true
+
+  - name: "accident_date"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})
+      RETURN c.accident_date
+    description: "Date of the incident"
+    required: true
+
+  # BI Claim information
+  - name: "claim_number"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})-[:HAS_CLAIM]->(claim:BIClaim)-[:WITH_INSURER]->(ins:Insurer)
+      WHERE $insurer_name IS NULL OR ins.name = $insurer_name
+      RETURN claim.claim_number
+      LIMIT 1
+    description: "BI claim number"
+    required: true
+
+  # Adjuster information
+  - name: "adjuster_name"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})-[:HAS_CLAIM]->(claim:BIClaim)-[:WITH_INSURER]->(ins:Insurer)
+      WHERE $insurer_name IS NULL OR ins.name = $insurer_name
+      MATCH (claim)-[:ADJUSTED_BY]->(adj:Adjuster)
+      RETURN adj.name
+      LIMIT 1
+    description: "Full name of the insurance adjuster"
+    required: true
+
+  - name: "adjuster_first_name"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})-[:HAS_CLAIM]->(claim:BIClaim)-[:WITH_INSURER]->(ins:Insurer)
+      WHERE $insurer_name IS NULL OR ins.name = $insurer_name
+      MATCH (claim)-[:ADJUSTED_BY]->(adj:Adjuster)
+      RETURN CASE
+        WHEN adj.name CONTAINS ' ' THEN split(adj.name, ' ')[0]
+        ELSE adj.name
+      END
+      LIMIT 1
+    description: "First name of the adjuster (extracted from full name)"
+    required: true
+
+  - name: "adjuster_email"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})-[:HAS_CLAIM]->(claim:BIClaim)-[:WITH_INSURER]->(ins:Insurer)
+      WHERE $insurer_name IS NULL OR ins.name = $insurer_name
+      MATCH (claim)-[:ADJUSTED_BY]->(adj:Adjuster)
+      RETURN coalesce(adj.email, adj.email1, 'N/A')
+      LIMIT 1
+    description: "Email address of the adjuster"
+    required: false
+
+  # Insurer address block
+  - name: "insurer_address_block"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})-[:HAS_CLAIM]->(claim:BIClaim)-[:WITH_INSURER]->(ins:Insurer)
+      WHERE $insurer_name IS NULL OR ins.name = $insurer_name
+      RETURN ins.name + '\n' +
+             coalesce(ins.address_line1, '') + '\n' +
+             coalesce(ins.city, '') + ', ' +
+             coalesce(ins.state, '') + ' ' +
+             coalesce(ins.zip, '')
+      LIMIT 1
+    description: "Formatted address block for the insurance company"
+    required: true
+
+  # Attorney name
+  - name: "attorney_name"
+    source: "input"
+    description: "Name of the attorney signing the letter"
+    required: false
+    default: "Aaron Whaley"

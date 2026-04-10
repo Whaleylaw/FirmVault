@@ -1,11 +1,19 @@
 ---
 schema_version: 2
+case_number: 2022-08-19-DB-001
+tags: [contact/medical-provider/doctor]
 directory_id: bbd4fe4c-1595-4fa3-936c-222bb2d11939
 master_card: "[[Contacts/Medical/ul-msw-medical-center-southwest]]"
-case_number: 2022-08-19-DB-001
 case_link: "[[cases/sariya-mason/sariya-mason]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: true
+records_received: false
+bills_requested: true
+bills_received: true
+treatment_status: Treatment Complete
+records_requested_date: "2023-05-29"
+bills_requested_date: "2023-05-29"
+bills_received_date: "2023-06-07"
 ---
 
 # UL MSW Medical Center Southwest

@@ -1,0 +1,114 @@
+# Render Blueprint for Mission Control
+# https://render.com/docs/blueprint-spec
+#
+# Deploys the upstream MC container from GHCR, attaches a persistent disk for
+# the SQLite database, and wires the env vars needed for headless access and
+# the Aegis reviewer.
+#
+# Tier guidance:
+#   - Starter ($7/mo) works for the bake-off pilot (MC is SQLite + Node, 512MB
+#     is tight but fits; upgrade to Standard if you enable the full 32 panels
+#     and more than a handful of agents).
+#   - Disk must be persistent — .data/ holds mission-control.db, the tokens
+#     file, and auto-generated secrets. Wiping it resets the whole install.
+#
+# NOT deployed here:
+#   - The materializer (use a Render Cron Job that checks out the firmvault
+#     repo and runs `python3 materializer.py`).
+#   - The worker shell hook (must run on a host with the vault + claude/codex/
+#     gemini CLI installed — Render does not ship those).
+
+services:
+  - type: web
+    name: mission-control
+    runtime: image
+    image:
+      url: ghcr.io/builderz-labs/mission-control:latest
+    plan: starter          # bump to `standard` for >512MB RAM
+    region: oregon
+    healthCheckPath: /api/status?action=health
+    disk:
+      name: mc-data
+      mountPath: /app/.data
+      sizeGB: 1
+    envVars:
+      # ── Auth / access ────────────────────────────────────────────────
+      - key: AUTH_USER
+        value: admin
+      - key: AUTH_PASS
+        generateValue: true            # Render generates a strong secret
+      - key: API_KEY
+        generateValue: true            # used by materializer + worker hook
+      - key: AUTH_SECRET
+        generateValue: true
+      - key: MC_ALLOWED_HOSTS
+        sync: false                    # set to your Render hostname post-deploy
+      - key: MC_COOKIE_SECURE
+        value: "true"
+      - key: MC_COOKIE_SAMESITE
+        value: "strict"
+
+      # ── Aegis / coordinator ──────────────────────────────────────────
+      - key: MC_COORDINATOR_AGENT
+        value: aegis
+      - key: NEXT_PUBLIC_COORDINATOR_AGENT
+        value: aegis
+
+      # ── Gateway (we run standalone — no OpenClaw gateway on Render) ──
+      - key: NEXT_PUBLIC_GATEWAY_OPTIONAL
+        value: "true"
+
+      # ── LLM API keys for direct-dispatch mode and Aegis ──────────────
+      # Populate these in the Render dashboard; sync:false prevents them from
+      # being written to render.yaml committed to git.
+      - key: ANTHROPIC_API_KEY
+        sync: false
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: GOOGLE_API_KEY
+        sync: false
+
+      # ── Data paths ───────────────────────────────────────────────────
+      - key: MISSION_CONTROL_DATA_DIR
+        value: /app/.data
+      - key: PORT
+        value: "3000"
+
+  # Materializer cron — clones the firmvault repo at run-time, reads the vault,
+  # POSTs tasks to MC. Runs every 10 minutes.
+  - type: cron
+    name: firmvault-materializer
+    runtime: python
+    schedule: "*/10 * * * *"
+    buildCommand: |
+      apt-get update && apt-get install -y --no-install-recommends git && \
+      pip install pyyaml
+    startCommand: |
+      rm -rf /tmp/firmvault && \
+      git clone --depth 1 --branch ${FIRMVAULT_BRANCH:-claude/import-cases-from-drive-xiQgL} \
+        https://${FIRMVAULT_TOKEN}@github.com/Whaleylaw/firmvault.git /tmp/firmvault && \
+      cd /tmp/firmvault && \
+      python3 experiments/arch-3-mission-control/materializer.py
+    envVars:
+      - key: MC_URL
+        fromService:
+          type: web
+          name: mission-control
+          property: host            # resolves to https://<svc>.onrender.com
+      - key: MC_API_KEY
+        fromService:
+          type: web
+          name: mission-control
+          envVarKey: API_KEY
+      - key: FIRMVAULT_REPO_ROOT
+        value: /tmp/firmvault
+      - key: FIRMVAULT_BRANCH
+        sync: false                 # set post-deploy
+      - key: FIRMVAULT_TOKEN
+        sync: false                 # GitHub PAT with `repo` scope
+
+# NOTE: The worker shell hook (worker-shell-hook.sh) is NOT deployed to Render.
+# It needs `claude` / `codex` / `gemini` CLIs and a writable checkout of the
+# firmvault repo to commit and open PRs. Run it on an operator laptop, a
+# self-hosted runner, or a GitHub Action with the CLI installed via its
+# published action.

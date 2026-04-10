@@ -1,0 +1,498 @@
+# Phase DAG — machine-readable case progression
+#
+# This file is the authoritative definition of the case lifecycle:
+# every phase, every landmark, what gates phase transitions, and
+# which workflows produce which landmark.
+#
+# A materializer (see skills.tools.workflows/runtime/) reads this
+# file together with the vault and emits actionable Tasks. A
+# reconciler reads this file plus the vault and computes which
+# landmarks are now satisfied. The narrative phase READMEs and
+# landmarks.md files are documentation; this YAML is the contract.
+#
+# Conditions are expressed as small predicates the materializer
+# evaluates against a Case object loaded from cases/<slug>/<slug>.md
+# per skills.tools.workflows/DATA_CONTRACT.md.
+#
+# Predicate vocabulary (Python-ish, evaluated with safe_eval):
+#   case.status == "intake"                  # frontmatter status
+#   case.frontmatter.<key> == <value>        # any frontmatter key
+#   case.has_document("hipaa")               # filename pattern in cases/<slug>/documents/
+#   case.has_section("Insurance Claims")     # markdown heading present
+#   case.section_bullets("Insurance Claims") > 0
+#   case.contacts(role="treating_provider").count > 0
+#   case.claims.count > 0
+#   case.liens.where(status="outstanding").count == 0
+#   case.activity.last("client_contact").age_days < 30
+#   all(p.records_requested for p in case.providers)
+#   any(p.records_received for p in case.providers)
+#   case.flag("attorney_approved_demand")    # bool flag in frontmatter
+#
+# Authors: write predicates that touch ONLY the vault. Anything that
+# would require a database, an API call, or external state belongs in
+# a Task with a worker, not in a predicate.
+
+schema_version: 1
+
+phases:
+
+  # ──────────────────────────────────────────────────────────────────
+  phase_0_onboarding:
+    name: Onboarding
+    description: >
+      Initial client retention. Three signed documents must be on file
+      before any substantive work begins.
+    entry_triggers:
+      - new_case_created
+    landmarks:
+      - id: client_info_received
+        name: Client Info Received
+        mandatory: true
+        condition: case.has_document("client information") or case.has_document("intake")
+        produced_by:
+          - workflow: document_collection
+            step: receive_signed_intake
+      - id: contract_signed
+        name: Contract Signed
+        mandatory: true
+        condition: case.has_document("fee agreement")
+        produced_by:
+          - workflow: document_collection
+            step: receive_signed_contract
+      - id: medical_auth_signed
+        name: Medical Auth Signed
+        mandatory: true
+        condition: case.has_document("hipaa") or case.has_document("medical authorization")
+        produced_by:
+          - workflow: document_collection
+            step: receive_signed_hipaa
+    exit_blockers:
+      hard: [client_info_received, contract_signed, medical_auth_signed]
+      soft: []
+    transitions:
+      - to: phase_1_file_setup
+        when: all_hard_blockers_satisfied
+      - to: phase_8_closed
+        when: case.flag("declined_representation")
+
+  # ──────────────────────────────────────────────────────────────────
+  phase_1_file_setup:
+    name: File Setup
+    description: >
+      Detailed intake, accident report, claims opened, providers
+      identified. All landmarks are soft — case can advance with
+      attorney override if any are missing.
+    entry_triggers:
+      - phase_0_onboarding.exited
+    landmarks:
+      - id: full_intake_complete
+        name: Full Intake Complete
+        mandatory: false
+        condition: case.frontmatter.intake_complete == true
+        produced_by:
+          - workflow: case_setup
+      - id: accident_report_obtained
+        name: Accident Report Obtained
+        mandatory: false
+        condition: case.has_document("police report") or case.has_document("crash report")
+        produced_by:
+          - workflow: accident_report
+      - id: insurance_claims_setup
+        name: Insurance Claims Setup
+        mandatory: false
+        condition: case.claims.count > 0
+        produced_by:
+          - workflow: insurance_bi_claim
+          - workflow: insurance_pip_claim
+      - id: providers_setup
+        name: Providers Setup
+        mandatory: false
+        condition: case.contacts(role="treating_provider").count > 0
+        produced_by:
+          - workflow: medical_provider_setup
+    exit_blockers:
+      hard: []
+      soft: [full_intake_complete, accident_report_obtained, insurance_claims_setup, providers_setup]
+    transitions:
+      - to: phase_2_treatment
+        when: all_soft_blockers_satisfied_or_overridden
+
+  # ──────────────────────────────────────────────────────────────────
+  phase_2_treatment:
+    name: Treatment
+    description: >
+      Client receives medical care. Recurring check-ins maintain
+      contact and capture progress. Records and bills are requested
+      as treatment proceeds.
+    entry_triggers:
+      - phase_1_file_setup.exited
+    landmarks:
+      - id: client_check_in_active
+        name: Client Check-in Active
+        mandatory: false
+        recurring: every_14_days
+        condition: case.activity.last("client_contact").age_days < 30
+        produced_by:
+          - workflow: client_check_in
+      - id: records_requested_all_providers
+        name: Records Requested From All Providers
+        mandatory: false
+        condition: all(p.records_requested for p in case.providers)
+        produced_by:
+          - workflow: request_records_bills
+      - id: bills_requested_all_providers
+        name: Bills Requested From All Providers
+        mandatory: false
+        condition: all(p.bills_requested for p in case.providers)
+        produced_by:
+          - workflow: request_records_bills
+      - id: treatment_complete
+        name: Treatment Complete (MMI)
+        mandatory: false
+        condition: case.frontmatter.treatment_complete == true
+        produced_by:
+          - workflow: medical_provider_status
+    exit_blockers:
+      hard: []
+      soft: [treatment_complete]
+    transitions:
+      - to: phase_3_demand
+        when: case.frontmatter.treatment_complete == true or case.flag("early_demand")
+
+  # ──────────────────────────────────────────────────────────────────
+  phase_3_demand:
+    name: Demand In Progress
+    description: >
+      Assemble the demand package and send. Sending the demand is
+      the only hard blocker for this phase.
+    entry_triggers:
+      - phase_2_treatment.exited
+    landmarks:
+      - id: all_records_received
+        name: All Records Received
+        mandatory: false
+        override_available: true
+        condition: all(p.records_received for p in case.providers)
+        produced_by:
+          - workflow: gather_demand_materials
+      - id: all_bills_received
+        name: All Bills Received
+        mandatory: false
+        override_available: true
+        condition: all(p.bills_received for p in case.providers)
+        produced_by:
+          - workflow: gather_demand_materials
+      - id: demand_drafted
+        name: Demand Drafted
+        mandatory: false
+        condition: case.has_document("demand")
+        produced_by:
+          - workflow: draft_demand
+      - id: attorney_approved_demand
+        name: Attorney Approved Demand
+        mandatory: false
+        condition: case.flag("attorney_approved_demand")
+        produced_by:
+          - workflow: draft_demand
+            step: attorney_review
+      - id: demand_sent
+        name: Demand Sent
+        mandatory: true
+        condition: all(c.demand_sent_date for c in case.claims if c.type == "BI")
+        produced_by:
+          - workflow: send_demand
+    exit_blockers:
+      hard: [demand_sent]
+      soft: [all_records_received, all_bills_received, demand_drafted, attorney_approved_demand]
+    transitions:
+      - to: phase_4_negotiation
+        when: demand_sent
+
+  # ──────────────────────────────────────────────────────────────────
+  phase_4_negotiation:
+    name: Negotiation
+    description: >
+      Follow up after demand, exchange offers, and reach settlement
+      or declare impasse. Branches to settlement (Phase 5) or
+      litigation (Phase 7).
+    entry_triggers:
+      - phase_3_demand.exited
+    landmarks:
+      - id: one_week_followup
+        name: One-Week Follow-Up Completed
+        mandatory: false
+        condition: case.activity.has("followup", since="demand_sent_date+7d")
+        produced_by:
+          - workflow: negotiate_claim
+      - id: deficiencies_addressed
+        name: Adjuster Deficiencies Addressed
+        mandatory: false
+        condition: not case.flag("deficiencies_outstanding")
+        produced_by:
+          - workflow: negotiate_claim
+      - id: initial_offer_received
+        name: Initial Offer Received
+        mandatory: false
+        condition: case.offers.count > 0
+        produced_by:
+          - workflow: track_offers
+      - id: settlement_reached
+        name: Settlement Reached
+        mandatory: false
+        condition: case.frontmatter.settlement_status == "agreed"
+        produced_by:
+          - workflow: negotiate_claim
+            step: accept_offer
+      - id: impasse_declared
+        name: Impasse Declared
+        mandatory: false
+        condition: case.frontmatter.settlement_status == "impasse"
+        produced_by:
+          - workflow: negotiate_claim
+            step: declare_impasse
+    exit_blockers:
+      hard: []
+      soft: []
+    transitions:
+      - to: phase_5_settlement
+        when: settlement_reached
+      - to: phase_7_litigation
+        when: impasse_declared
+
+  # ──────────────────────────────────────────────────────────────────
+  phase_5_settlement:
+    name: Settlement
+    description: >
+      Process the agreed settlement: prepare statement, get client
+      authorization, execute release, receive funds. Funds reaching
+      the client is the hard blocker.
+    entry_triggers:
+      - phase_4_negotiation.exited (settlement_reached)
+      - phase_7_litigation.exited (settlement_reached)
+    landmarks:
+      - id: settlement_statement_prepared
+        name: Settlement Statement Prepared
+        mandatory: true
+        condition: case.has_document("settlement statement")
+        produced_by:
+          - workflow: settlement_processing
+            step: prepare_settlement_statement
+      - id: authorization_to_settle_prepared
+        name: Authorization to Settle Prepared
+        mandatory: true
+        condition: case.has_document("authorization to settle")
+        produced_by:
+          - workflow: settlement_processing
+      - id: client_authorized
+        name: Client Authorized
+        mandatory: true
+        condition: case.flag("client_signed_authorization")
+        produced_by:
+          - workflow: settlement_processing
+            step: get_client_signature
+      - id: release_executed
+        name: Release Executed
+        mandatory: true
+        condition: case.has_document("release") and case.flag("release_signed")
+        produced_by:
+          - workflow: settlement_processing
+            step: execute_release
+      - id: funds_received
+        name: Funds Received In Trust
+        mandatory: true
+        condition: case.frontmatter.settlement_funds_received == true
+        produced_by:
+          - workflow: settlement_processing
+            step: receive_funds
+      - id: client_distributed
+        name: Client Funds Distributed
+        mandatory: true
+        condition: case.frontmatter.client_distribution_date is not null
+        produced_by:
+          - workflow: settlement_processing
+            step: distribute_to_client
+    exit_blockers:
+      hard: [settlement_statement_prepared, client_authorized, release_executed, funds_received, client_distributed]
+      soft: []
+    transitions:
+      - to: phase_6_lien
+        when: client_distributed and case.liens.where(status="outstanding").count > 0
+      - to: phase_8_closed
+        when: client_distributed and case.liens.where(status="outstanding").count == 0
+
+  # ──────────────────────────────────────────────────────────────────
+  phase_6_lien:
+    name: Lien Resolution
+    description: >
+      Resolve outstanding liens after settlement. Two hard blockers:
+      all liens paid and final distribution complete.
+    entry_triggers:
+      - phase_5_settlement.exited (with outstanding_liens)
+    landmarks:
+      - id: outstanding_liens_identified
+        name: Outstanding Liens Identified
+        mandatory: true
+        condition: all(l.holder and l.type for l in case.liens.where(status="outstanding"))
+        produced_by:
+          - workflow: lien_negotiation
+            step: identify
+      - id: final_amounts_requested
+        name: Final Lien Amounts Requested
+        mandatory: true
+        condition: all(l.final_amount_requested_date for l in case.liens.where(status="outstanding"))
+        produced_by:
+          - workflow: lien_negotiation
+            step: request_final
+      - id: final_amounts_received
+        name: Final Lien Amounts Received
+        mandatory: true
+        condition: all(l.final_amount for l in case.liens.where(status="outstanding"))
+        produced_by:
+          - workflow: lien_negotiation
+            step: receive_final
+      - id: liens_negotiated
+        name: Liens Negotiated
+        mandatory: false
+        condition: all(l.negotiated_amount or not l.negotiable for l in case.liens.where(status="outstanding"))
+        produced_by:
+          - workflow: lien_negotiation
+            step: negotiate
+      - id: liens_paid
+        name: Liens Paid
+        mandatory: true
+        condition: case.liens.where(status="outstanding").count == 0
+        produced_by:
+          - workflow: final_distribution
+            step: pay_liens
+      - id: final_distribution
+        name: Final Distribution Completed
+        mandatory: true
+        condition: case.frontmatter.final_distribution_date is not null
+        produced_by:
+          - workflow: final_distribution
+    exit_blockers:
+      hard: [liens_paid, final_distribution]
+      soft: [outstanding_liens_identified, final_amounts_requested, final_amounts_received]
+    transitions:
+      - to: phase_8_closed
+        when: liens_paid and final_distribution
+
+  # ──────────────────────────────────────────────────────────────────
+  phase_7_litigation:
+    name: Litigation
+    description: >
+      Formal legal process. Has internal sub-phases (complaint,
+      discovery, motions, trial-prep, trial). Hard blocker is filing
+      the complaint. Exit can be settlement (→ Phase 5) or judgment
+      (→ Phase 8).
+    entry_triggers:
+      - phase_4_negotiation.exited (impasse_declared)
+      - manual: attorney_decision
+    landmarks:
+      - id: litigation_commenced
+        name: Litigation Commenced
+        mandatory: true
+        condition: case.frontmatter.litigation_decision_date is not null
+        produced_by:
+          - workflow: complaint_drafting
+            step: decide_to_file
+      - id: complaint_filed
+        name: Complaint Filed
+        mandatory: true
+        condition: case.frontmatter.complaint_file_date is not null and case.frontmatter.case_number
+        produced_by:
+          - workflow: draft_file_complaint
+            step: file
+      - id: service_completed
+        name: Service of Process Completed
+        mandatory: true
+        condition: all(d.served_date for d in case.defendants)
+        produced_by:
+          - workflow: service_of_process
+      - id: discovery_completed
+        name: Discovery Completed
+        mandatory: false
+        condition: case.flag("discovery_complete")
+        produced_by:
+          - workflow: discovery
+      - id: mediation_attempted
+        name: Mediation Attempted
+        mandatory: false
+        condition: case.activity.has("mediation")
+        produced_by:
+          - workflow: mediation_prep
+      - id: trial_or_settlement
+        name: Trial Reached Or Settlement
+        mandatory: true
+        condition: case.frontmatter.disposition in ("settled","verdict","dismissed")
+        produced_by:
+          - workflow: trial_presentation
+          - workflow: settlement_processing
+    exit_blockers:
+      hard: [complaint_filed, service_completed, trial_or_settlement]
+      soft: [discovery_completed, mediation_attempted]
+    transitions:
+      - to: phase_5_settlement
+        when: case.frontmatter.disposition == "settled"
+      - to: phase_8_closed
+        when: case.frontmatter.disposition in ("verdict","dismissed")
+
+  # ──────────────────────────────────────────────────────────────────
+  phase_8_closed:
+    name: Closed
+    description: >
+      Terminal phase. Final letter sent, file archived, all
+      obligations verified.
+    entry_triggers:
+      - phase_5_settlement.exited (no liens)
+      - phase_6_lien.exited
+      - phase_7_litigation.exited (verdict or dismissed)
+      - phase_0_onboarding.exited (declined_representation)
+    landmarks:
+      - id: all_obligations_verified
+        name: All Obligations Verified
+        mandatory: true
+        condition: case.flag("all_obligations_complete")
+        produced_by:
+          - workflow: close_case
+            step: verify_complete
+      - id: final_letter_sent
+        name: Final Letter Sent
+        mandatory: true
+        condition: case.has_document("final letter") or case.has_document("closing letter")
+        produced_by:
+          - workflow: close_case
+            step: send_final_letter
+      - id: case_archived
+        name: Case Archived
+        mandatory: true
+        condition: case.frontmatter.archived_date is not null
+        produced_by:
+          - workflow: close_case
+            step: archive
+    exit_blockers:
+      hard: []
+      soft: []
+    transitions: []  # terminal
+
+# ──────────────────────────────────────────────────────────────────
+# Materializer hints
+#
+# These rules tell the materializer how to translate landmark gaps
+# into actionable Tasks. A landmark whose condition is false and
+# whose dependencies are met spawns a Task per `produced_by` entry.
+#
+# Tasks have lifecycle: ready → claimed → in_progress → done
+# (or → blocked / failed). See runtime/task_schema.md.
+
+materializer:
+  default_task_status: ready
+  default_priority: normal
+  high_priority_when:
+    - landmark.id == "demand_sent" and case.statute_of_limitations.days_until < 90
+    - landmark.id == "service_completed" and case.frontmatter.complaint_file_date.age_days > 60
+    - phase == "phase_5_settlement" and landmark.id == "client_distributed"
+  recurring_tasks:
+    - landmark.recurring == "every_14_days":
+        emit_every: 14d
+        only_when: phase in ("phase_2_treatment",)

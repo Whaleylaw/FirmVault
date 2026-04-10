@@ -1,11 +1,20 @@
 ---
 schema_version: 2
+case_number: 2021-09-24-MVA-001
+tags: [contact/medical-provider/doctor]
 directory_id: 4cc97745-3ef8-4d3b-b241-7d68405f8270
 master_card: "[[Contacts/Medical/norton-brownsboro-hospital]]"
-case_number: 2021-09-24-MVA-001
 case_link: "[[cases/daniel-w-volk/daniel-w-volk]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: true
+records_received: true
+bills_requested: true
+bills_received: true
+treatment_status: Treatment Complete
+records_requested_date: "2023-11-16"
+records_received_date: "2023-12-11"
+bills_requested_date: "2023-11-16"
+bills_received_date: "2023-12-11"
 ---
 
 # Norton Brownsboro Hospital

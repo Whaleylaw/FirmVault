@@ -6,6 +6,22 @@ client_name: James Sadler
 case_type: auto_accident
 status: litigation
 date_of_incident: "2023-04-07"
+landmarks:
+  accident_report_obtained: true
+  all_bills_received: false
+  all_records_received: false
+  attorney_approved_demand: false
+  bills_requested_all_providers: true
+  client_info_received: true
+  contract_signed: true
+  demand_drafted: false
+  demand_sent: false
+  full_intake_complete: true
+  insurance_claims_setup: true
+  medical_auth_signed: true
+  providers_setup: true
+  records_requested_all_providers: false
+  treatment_complete: true
 ---
 
 # James Sadler — auto accident 2023-04-07
@@ -22,6 +38,20 @@ date_of_incident: "2023-04-07"
 - [[contacts/louisville-endodontics|Louisville Endodontics]]
 - [[contacts/prorehab|ProRehab]]
 - [[contacts/x-ray-associates-of-louisville|X-ray Associates of Louisville]]
+- [[contacts/kentuckiana-oral-maxillofacial-and-dental-implant-surgery|Kentuckiana Oral Maxillofacial & Dental Implant Surgery]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Kentuckiana Oral Maxillofacial & Dental Implant Surgery | Treatment Complete | 2023-10-30 | 2024-03-12 | $4,240.00 | 2023-11-06 |  | 2023-11-06 |  |
+| Louisville Endodontics | Treatment Complete |  |  | $358.00 | 2023-11-06 | 2023-11-09 | 2023-11-06 | 2023-11-09 |
+| Baptist Health Medical Group Primary Care | Treatment Complete | 2023-05-25 | 2023-05-25 | $243.00 | 2023-08-04 | 2023-08-17 | 2023-08-04 | 2023-08-17 |
+| ProRehab | Treatment Complete | 2023-06-12 | 2023-07-19 | $1,635.00 | 2023-07-18 | 2023-08-30 | 2023-07-18 | 2023-08-30 |
+| Baptist Health Louisville | Treatment Complete |  |  | $1,332.18 | 2023-06-12 | 2023-06-22 | 2023-06-12 | 2023-07-27 |
+| X-ray Associates of Louisville | Treatment Complete | 2023-05-25 | 2023-05-25 | $40.00 | 2023-06-12 | 2023-07-21 |  |  |
+| Aiken Family Dentistry | Treatment Complete | 2023-05-22 | 2023-07-10 | $418.00 | 2023-07-19 | 2023-07-20 | 2023-07-19 | 2023-07-20 |
+<!-- roscoe-medical-end -->
 
 ## Adjusters
 - [[contacts/doris-kenyon|Doris Kenyon]]
@@ -30,6 +60,14 @@ date_of_incident: "2023-04-07"
 ## Insurance Claims
 - [[claims/bi-state-farm-insurance-company|BI — State Farm Insurance Company]] — Claim #1748B202X (settled)
 - [[claims/pip-state-farm-insurance-company|PIP — State Farm Insurance Company]] — Claim #1747X443M (no_demand)
+
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Personal Injury Protection (PIP) | State Farm Insurance Company | 1747X443M | Doris Kenyon | 844-292-8615(506) |  | 1-800-782-8332 | P.O Box 106171, Atlanta, GA 30348 |
+| Bodily Injury (BI) | State Farm Insurance Company | 1748B202X | William Beaver | 740-364-3006 |  | 1-800-782-8332 | P.O Box 106171, Atlanta, GA 30348 |
+<!-- roscoe-insurance-end -->
 
 ## Liens
 - [[liens/anthem-blue-cross-blue-shield|Anthem Blue Cross Blue Shield]] — health_insurance — $425.41 (amount_confirmed)

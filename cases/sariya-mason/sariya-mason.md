@@ -6,6 +6,22 @@ client_name: Sariya Mason
 case_type: dog_bite
 status: litigation
 date_of_incident: "2022-08-19"
+landmarks:
+  accident_report_obtained: false
+  all_bills_received: true
+  all_records_received: false
+  attorney_approved_demand: false
+  bills_requested_all_providers: true
+  client_info_received: true
+  contract_signed: true
+  demand_drafted: false
+  demand_sent: false
+  full_intake_complete: true
+  insurance_claims_setup: true
+  medical_auth_signed: true
+  providers_setup: true
+  records_requested_all_providers: true
+  treatment_complete: true
 ---
 
 # Sariya Mason — dog bite 2022-08-19
@@ -16,6 +32,15 @@ date_of_incident: "2022-08-19"
 ## Medical Providers
 - [[contacts/thr-pediatrics-wellness-center|THR PEDIATRICS & WELLNESS CENTER]]
 - [[contacts/ul-msw-medical-center-southwest|UL MSW Medical Center Southwest]]
+- [[contacts/thr-pediatrics-and-wellness-center|THR PEDIATRICS & WELLNESS CENTER]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| THR PEDIATRICS & WELLNESS CENTER | Treatment Complete | 2022-08-25 | 2022-08-25 | $120.00 | 2023-05-26 | 2023-06-01 | 2022-12-13 | 2022-12-14 |
+| UL MSW Medical Center Southwest | Treatment Complete |  |  | $1,205.00 | 2023-05-29 | 2023-06-07 | 2023-05-29 |  |
+<!-- roscoe-medical-end -->
 
 ## Adjusters
 - [[contacts/anthem-blue-cross-blue-shield|Anthem Blue Cross Blue Shield]]
@@ -37,6 +62,13 @@ date_of_incident: "2022-08-19"
 ## Insurance Claims
 - [[claims/bi-kentucky-farm-bureau|BI — Kentucky Farm Bureau]] — Claim #4830025 (settled)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | Kentucky Farm Bureau | 4830025 | Nichole Smith | (502) 456-1664 | Nichole.Smith@KYFB.com | (866) 532-2524 |  |
+<!-- roscoe-insurance-end -->
+
 ## Liens
 - [[liens/anthem-blue-cross-blue-shield|Anthem Blue Cross Blue Shield]] — health_insurance (identified)
 - [[liens/anthem-medicaid|Anthem Medicaid]] — medicaid (identified)
@@ -50,6 +82,7 @@ date_of_incident: "2022-08-19"
 ## Expenses
 | Creditor | Amount | Category |
 |----------|--------|----------|
+| Curt Sitlinger | $250.00 |  |
 | Jefferson County Circuit Court | $135.34 | court_filing |
 | Jefferson County Circuit Court | $400.67 | court_filing |
 

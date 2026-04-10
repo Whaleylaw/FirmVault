@@ -1,11 +1,18 @@
 ---
 schema_version: 2
+case_number: 2024-02-15-MVA-001
+tags: [contact/medical-provider/doctor]
 directory_id: e81e1060-ad9e-4c4b-8c42-ad25b08aaf5e
 master_card: "[[Contacts/Medical/pleasure-ridge-park-fire-ems]]"
-case_number: 2024-02-15-MVA-001
 case_link: "[[cases/alma-cristobal/alma-cristobal]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: false
+records_received: true
+bills_requested: false
+bills_received: true
+treatment_status: Treatment Complete
+records_received_date: "2024-10-01"
+bills_received_date: "2024-10-01"
 ---
 
 # Pleasure Ridge Park Fire/EMS

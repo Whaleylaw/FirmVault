@@ -1,0 +1,142 @@
+---
+id: "attorney_lien_notice"
+name: "Attorney Lien Notice"
+description: "Notice of attorney lien to BI adjuster and new counsel when client changes representation, asserting lien pursuant to KRS 376.460"
+category: "correspondence"
+input_mode: "graph"
+output_filename: "Attorney_Lien_Notice_{client_name}_{date}.pdf"
+
+# Required input to query the graph
+graph_inputs:
+  - name: "case_name"
+    description: "Name of the case (e.g., 'Wilson-MVA-2024')"
+    required: true
+
+  - name: "insurer_name"
+    description: "Insurance company name (optional - only needed if case has multiple BI claims)"
+    required: false
+
+# Field definitions
+fields:
+  # Computed/Config fields (automatic)
+  - name: "today_date"
+    source: "computed"
+    description: "Current date in long format (e.g., 'January 21, 2026')"
+
+  - name: "firm_name"
+    source: "config"
+    description: "Law firm name from firm_settings.json"
+
+  - name: "firm_phone"
+    source: "config"
+    description: "Law firm phone number"
+
+  # Client information from graph
+  - name: "client_name"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})-[:HAS_CLIENT]->(client:Client)
+      RETURN client.name
+    description: "Full name of the client"
+    required: true
+
+  - name: "accident_date"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})
+      RETURN c.accident_date
+    description: "Date of the incident"
+    required: true
+
+  # BI Claim information
+  - name: "claim_number"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})-[:HAS_CLAIM]->(claim:BIClaim)-[:WITH_INSURER]->(ins:Insurer)
+      WHERE $insurer_name IS NULL OR ins.name = $insurer_name
+      RETURN claim.claim_number
+      LIMIT 1
+    description: "BI claim number"
+    required: true
+
+  # Defendant driver information
+  - name: "defendant_driver_name"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})-[:HAS_CLAIM]->(claim:BIClaim)-[:WITH_INSURER]->(ins:Insurer)
+      WHERE $insurer_name IS NULL OR ins.name = $insurer_name
+      MATCH (claim)-[:COVERS_DRIVER]->(driver:Driver)
+      RETURN driver.name
+      LIMIT 1
+    description: "Name of the defendant driver (insured)"
+    required: true
+
+  # Adjuster information
+  - name: "adjuster_email"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})-[:HAS_CLAIM]->(claim:BIClaim)-[:WITH_INSURER]->(ins:Insurer)
+      WHERE $insurer_name IS NULL OR ins.name = $insurer_name
+      MATCH (claim)-[:ADJUSTED_BY]->(adj:Adjuster)
+      RETURN coalesce(adj.email, adj.email1, 'N/A')
+      LIMIT 1
+    description: "Email address of the adjuster"
+    required: false
+
+  # Insurer name and address block
+  - name: "insurer_name"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})-[:HAS_CLAIM]->(claim:BIClaim)-[:WITH_INSURER]->(ins:Insurer)
+      WHERE $insurer_name IS NULL OR ins.name = $insurer_name
+      RETURN ins.name
+      LIMIT 1
+    description: "Insurance company name"
+    required: true
+
+  - name: "insurer_address_block"
+    source: "graph"
+    graph_query: |
+      MATCH (c:Case {name: $case_name})-[:HAS_CLAIM]->(claim:BIClaim)-[:WITH_INSURER]->(ins:Insurer)
+      WHERE $insurer_name IS NULL OR ins.name = $insurer_name
+      RETURN ins.name + '\n' +
+             coalesce(ins.address_line1, '') + '\n' +
+             coalesce(ins.city, '') + ', ' +
+             coalesce(ins.state, '') + ' ' +
+             coalesce(ins.zip, '')
+      LIMIT 1
+    description: "Formatted address block for the insurance company"
+    required: true
+
+  # Manual input fields for new attorney information
+  - name: "new_attorney_name"
+    source: "input"
+    description: "Full name of the new attorney representing the client"
+    required: true
+
+  - name: "new_attorney_firm"
+    source: "input"
+    description: "Law firm name of the new attorney"
+    required: true
+
+  - name: "new_attorney_address"
+    source: "input"
+    description: "Street address of the new attorney's firm"
+    required: true
+
+  - name: "new_attorney_city_state_zip"
+    source: "input"
+    description: "City, state, and ZIP code of the new attorney's firm (e.g., 'Louisville, KY 40202')"
+    required: true
+
+  - name: "new_attorney_email"
+    source: "input"
+    description: "Email address of the new attorney"
+    required: false
+
+  # Attorney signing the lien notice
+  - name: "attorney_name"
+    source: "input"
+    description: "Name of the attorney asserting the lien"
+    required: false
+    default: "Aaron Whaley"

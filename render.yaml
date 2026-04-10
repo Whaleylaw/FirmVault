@@ -1,0 +1,120 @@
+# Render blueprint for FirmVault — Track A bake-off Architecture 2 (Vibe Kanban)
+#
+# This is a POINT-IN-TIME blueprint for the Arch 2 pilot. It deploys a single
+# Vibe Kanban web service built from the upstream BloopAI/vibe-kanban
+# Dockerfile (there is no prebuilt GHCR image as of 2026-04, so we build from
+# source on every deploy).
+#
+# How to use (in the Render dashboard):
+#   1. Go to https://dashboard.render.com/blueprints
+#   2. Click "New Blueprint Instance"
+#   3. Connect the Whaleylaw/firmvault repo
+#   4. Pick the working branch: claude/import-cases-from-drive-xiQgL
+#   5. Render auto-detects this render.yaml at the repo root
+#   6. Render shows the services it will create. Click "Apply"
+#   7. Fill in the sync:false secrets when prompted:
+#        - ANTHROPIC_API_KEY (required for Claude Code executor)
+#        - OPENAI_API_KEY (optional — Codex executor)
+#        - GEMINI_API_KEY  (optional — Gemini executor)
+#        - GITHUB_TOKEN    (required — needed for VK to clone and push to firmvault)
+#        - VK_ALLOWED_ORIGINS — leave blank for first deploy, set to the
+#          Render-assigned URL after first deploy, then redeploy
+#   8. Wait for the first build (~15 min — Rust release build from source).
+#      Subsequent builds reuse Docker layer cache (~3-5 min).
+#   9. Once healthy, visit the service URL. Register the firmvault repo
+#      inside VK's UI (see experiments/arch-2-vibe-kanban/pilot-setup.md
+#      for the handoff to the materializer script).
+#
+# NOTE: this render.yaml deploys only Arch 2. It's intentionally not a
+# "production" deployment of firmvault — it's one slot in the Track A
+# bake-off. Arch 1 (Pure GitHub-native) has no Render deployment at all;
+# it lives in .github/workflows/. If we later deploy Arch 3 (Mission
+# Control) or Arch 4 (Case Cockpit) to Render, we rename this file or
+# split it into separate branches per architecture.
+#
+# Resource sizing:
+#   plan: standard       — 2 GB RAM / 1 CPU. Starter (1 GB) is marginal
+#                          for a Rust release build; Free (512 MB) OOMs.
+#   disk:  10 GB          — VK stores its SQLite DB, its worktrees, and
+#                          the cloned firmvault repo under /repos. Losing
+#                          the disk loses every in-flight workspace.
+#   region: oregon        — change to whatever is closest to you + your
+#                          agent API providers for latency.
+# ──────────────────────────────────────────────────────────────────────
+
+services:
+  - type: web
+    name: firmvault-vibe-kanban
+    # Build from the upstream Dockerfile in a FORK of BloopAI/vibe-kanban.
+    # We use a fork (Whaleylaw/vibe-kanban) because upstream's Dockerfile
+    # is missing COPY lines for packages/remote-web, causing `pnpm install
+    # --frozen-lockfile` to fail at build time. The fork has a two-line
+    # fix applied to its Dockerfile. Once upstream merges an equivalent
+    # PR, swap this back to BloopAI/vibe-kanban.
+    #
+    # Canonical fixed Dockerfile is also committed in this repo at
+    # experiments/arch-2-vibe-kanban/Dockerfile.fixed-upstream as a
+    # reference for re-applying the fix if the fork falls behind
+    # upstream.
+    runtime: docker
+    repo: https://github.com/Whaleylaw/vibe-kanban
+    branch: main
+    dockerfilePath: ./Dockerfile
+
+    plan: standard
+    region: oregon
+    healthCheckPath: /health
+    autoDeploy: false              # manual deploys only during bake-off
+
+    disk:
+      name: vk-repos
+      mountPath: /repos
+      sizeGB: 10
+
+    envVars:
+      # ─── Vibe Kanban server config ───────────────────────────────
+      - key: HOST
+        value: 0.0.0.0
+      - key: PORT
+        value: "3000"
+      # VK enforces Origin checking in non-dev mode. On first deploy, leave
+      # this blank, find the Render URL (looks like
+      # https://firmvault-vibe-kanban.onrender.com), set this env var to
+      # that URL, then redeploy. Comma-separate multiple origins.
+      - key: VK_ALLOWED_ORIGINS
+        sync: false
+
+      # ─── Coding-agent API keys ───────────────────────────────────
+      # At minimum ANTHROPIC_API_KEY. The upstream VK Docker image invokes
+      # Claude via HTTP (not the `claude` CLI binary), so you do NOT need
+      # to bake `claude` into the image to use Claude Code as an executor.
+      # Codex and Gemini may require the respective CLIs — see
+      # experiments/arch-2-vibe-kanban/firmvault-vk-integration.md §6.
+      - key: ANTHROPIC_API_KEY
+        sync: false
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: GEMINI_API_KEY
+        sync: false
+
+      # ─── GitHub auth for clone + push ────────────────────────────
+      # VK uses the system git client inside the container to clone the
+      # firmvault repo (registered via the /repos UI or /api/repos) and to
+      # push merged diffs back. Give it a personal access token with
+      # repo:write on Whaleylaw/firmvault.
+      - key: GITHUB_TOKEN
+        sync: false
+      - key: GIT_AUTHOR_NAME
+        value: FirmVault VK Worker
+      - key: GIT_AUTHOR_EMAIL
+        value: vk-worker@firmvault.local
+      - key: GIT_COMMITTER_NAME
+        value: FirmVault VK Worker
+      - key: GIT_COMMITTER_EMAIL
+        value: vk-worker@firmvault.local
+
+      # ─── Analytics off ───────────────────────────────────────────
+      - key: POSTHOG_API_KEY
+        value: ""
+      - key: POSTHOG_API_ENDPOINT
+        value: ""

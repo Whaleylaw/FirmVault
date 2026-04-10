@@ -1,11 +1,19 @@
 ---
 schema_version: 2
+case_number: 2023-02-05-MVA-001
+tags: [contact/medical-provider/doctor]
 directory_id: 9f6da859-c8c8-47f6-9c6f-c5af23a2eed9
 master_card: "[[Contacts/Medical/h2-health-berea-ky]]"
-case_number: 2023-02-05-MVA-001
 case_link: "[[cases/curtis-lee-justice/curtis-lee-justice]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: true
+records_received: false
+bills_requested: true
+bills_received: true
+treatment_status: Treatment Complete
+records_requested_date: "2024-01-19"
+bills_requested_date: "2024-01-19"
+bills_received_date: "2024-02-09"
 ---
 
 # H2 Health- Berea, KY

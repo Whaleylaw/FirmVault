@@ -1,11 +1,18 @@
 ---
 schema_version: 2
+case_number: 2023-10-01-MVA-002
+tags: [contact/medical-provider/doctor]
 directory_id: baptist-health-hardin
 master_card: "[[Contacts/Medical/baptist-health-hardin]]"
-case_number: 2023-10-01-MVA-002
 case_link: "[[cases/shannon-colvin/shannon-colvin]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: false
+records_received: true
+bills_requested: false
+bills_received: true
+treatment_status: 
+records_received_date: "2024-11-26"
+bills_received_date: "2024-11-26"
 ---
 
 # Baptist Health Hardin

@@ -1,11 +1,18 @@
 ---
 schema_version: 2
+case_number: 2022-12-05-MVA-001
+tags: [contact/medical-provider/doctor]
 directory_id: e22727a8-0e85-4201-a83a-ee4980a7865f
 master_card: "[[Contacts/Medical/the-state-pharmacy-inc]]"
-case_number: 2022-12-05-MVA-001
 case_link: "[[cases/james-kiper/james-kiper]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: false
+records_received: true
+bills_requested: false
+bills_received: true
+treatment_status: Treatment Complete
+records_received_date: "2024-04-02"
+bills_received_date: "2024-04-02"
 ---
 
 # The State Pharmacy, Inc.

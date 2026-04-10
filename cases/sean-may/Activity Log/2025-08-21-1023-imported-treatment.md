@@ -1,0 +1,17 @@
+---
+schema_version: 2
+case_id: da54781b-9cf6-4e8f-b512-76a051ce4704
+date: "2025-08-21"
+time: "10:23:33"
+category: imported
+subcategory: filevine_treatment
+---
+
+# Filevine activity (treatment) — 2025-08-21 10:23
+
+**Case:** [[cases/sean-may/sean-may|Sean May]]
+**Source:** Filevine treatment export
+**Timestamp:** 2025-08-21T10:23:33
+
+Contact Sean May at 502-817-7825 and do Welcome Call and send Welcome Email(if able). 
+Confirm treatment providers and enter any in system that have not been entered.

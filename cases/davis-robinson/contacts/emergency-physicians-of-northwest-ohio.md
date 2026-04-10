@@ -1,11 +1,18 @@
 ---
 schema_version: 2
+case_number: 2025-05-02-SF-001
+tags: [contact/medical-provider/doctor]
 directory_id: b54e1e14-c971-4494-a801-6e3df529e260
 master_card: "[[Contacts/Medical/emergency-physicians-of-northwest-ohio]]"
-case_number: 2025-05-02-SF-001
 case_link: "[[cases/davis-robinson/davis-robinson]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: false
+records_received: false
+bills_requested: true
+bills_received: true
+treatment_status: Treatment Complete
+bills_requested_date: "2025-06-20"
+bills_received_date: "2025-09-29"
 ---
 
 # Emergency Physicians Of Northwest Ohio

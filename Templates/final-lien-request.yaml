@@ -1,0 +1,150 @@
+id: "final_lien_request"
+name: "Final Lien Request to Medical Provider"
+description: "Final/urgent follow-up request for lien amount from medical provider. Used when initial requests have not received a response."
+category: "lien_management"
+tags:
+  - "liens"
+  - "medical_provider"
+  - "follow_up"
+  - "final_request"
+
+placeholders:
+  # Provider Information (MANUAL INPUT - not in graph)
+  - name: "PROVIDER_NAME"
+    description: "Medical provider name"
+    source: "manual"
+    required: true
+    example: "Baptist Health Louisville"
+
+  - name: "PROVIDER_ADDRESS_LINE1"
+    description: "Provider street address"
+    source: "manual"
+    required: true
+    example: "4000 Kresge Way"
+
+  - name: "PROVIDER_ADDRESS_LINE2"
+    description: "Provider address line 2 (suite, dept, etc.)"
+    source: "manual"
+    required: false
+    example: "Medical Records Department"
+
+  - name: "PROVIDER_CITY"
+    description: "Provider city"
+    source: "manual"
+    required: true
+    example: "Louisville"
+
+  - name: "PROVIDER_STATE"
+    description: "Provider state"
+    source: "manual"
+    required: true
+    example: "KY"
+
+  - name: "PROVIDER_ZIP"
+    description: "Provider ZIP code"
+    source: "manual"
+    required: true
+    example: "40207"
+
+  - name: "PROVIDER_FAX_EMAIL"
+    description: "Provider fax number or email for correspondence"
+    source: "manual"
+    required: true
+    example: "(502) 896-1234 / medicalrecords@baptisthealth.com"
+
+  # Case Information (from graph)
+  - name: "CLIENT_NAME"
+    description: "Client's full name"
+    source: "graph"
+    query: "client.name"
+    required: true
+    example: "John Smith"
+
+  - name: "CLAIM_NUMBER"
+    description: "Insurance claim number"
+    source: "graph"
+    query: "claim.claim_number"
+    required: false
+    example: "ABC123456"
+
+  - name: "INCIDENT_DATE"
+    description: "Date of accident/incident"
+    source: "graph"
+    query: "case.incident_date"
+    required: true
+    example: "March 15, 2022"
+
+  - name: "INCIDENT_TYPE"
+    description: "Type of incident (e.g., motor vehicle accident, slip and fall)"
+    source: "graph"
+    query: "case.incident_type"
+    required: true
+    example: "motor vehicle accident"
+
+  - name: "INITIAL_CONTACT_DATE"
+    description: "Date when initial lien request was sent to provider"
+    source: "manual"
+    required: true
+    example: "April 1, 2022"
+
+  # Injuries (MANUAL INPUT - typically customized per case)
+  - name: "INJURY_1"
+    description: "First injury description"
+    source: "manual"
+    required: true
+    example: "Cervical strain and sprain"
+
+  - name: "INJURY_2"
+    description: "Second injury description"
+    source: "manual"
+    required: false
+    example: "Lumbar radiculopathy"
+
+  # Firm Information (from graph)
+  - name: "NEGOTIATOR_EMAIL"
+    description: "Email of attorney/staff handling negotiations"
+    source: "graph"
+    query: "team.negotiator.email"
+    required: true
+    example: "awhaley@whaleylaw.com"
+
+  - name: "PRIMARY_ATTORNEY"
+    description: "Primary attorney name for signature"
+    source: "graph"
+    query: "case.primary_attorney.name"
+    required: true
+    example: "Aaron Whaley"
+
+  # Auto-generated
+  - name: "TODAY_LONG"
+    description: "Current date in long format"
+    source: "auto"
+    format: "MMMM D, YYYY"
+    required: true
+    example: "January 21, 2026"
+
+usage_notes: |
+  This is a follow-up/final request letter sent to medical providers who have not responded to
+  initial lien requests. It emphasizes the urgency and requests a complete itemized ledger showing:
+  - All amounts billed
+  - All actual payments received
+  - Final lien amount owed
+
+  **When to use:**
+  - Initial lien request sent but no response received
+  - Settlement negotiations progressing and final lien amounts needed
+  - Provider has been unresponsive to previous requests
+
+  **Provider information:**
+  Most provider details are NOT in the graph and must be entered manually. Consider extracting
+  this information from:
+  - Previous correspondence with provider
+  - Medical records cover sheets
+  - Billing statements
+
+  **Injuries:**
+  While injury information may exist in the graph (from medical records analysis), this letter
+  typically uses simplified injury descriptions for the provider context. Review case file and
+  customize as appropriate.
+
+output_filename_pattern: "Final_Lien_Request_{CLIENT_NAME}_{PROVIDER_NAME}_{TODAY_SHORT}.docx"

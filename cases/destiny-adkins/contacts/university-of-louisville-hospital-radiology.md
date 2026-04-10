@@ -1,11 +1,17 @@
 ---
 schema_version: 2
+case_number: 2021-04-16-MVA-001
+tags: [contact/medical-provider/doctor]
 directory_id: university-of-louisville-hospital-radiology
 master_card: "[[Contacts/Medical/university-of-louisville-hospital-radiology]]"
-case_number: 2021-04-16-MVA-001
 case_link: "[[cases/destiny-adkins/destiny-adkins]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: false
+records_received: false
+bills_requested: true
+bills_received: false
+treatment_status: 
+bills_requested_date: "2022-02-23"
 ---
 
 # University Of Louisville Hospital Radiology

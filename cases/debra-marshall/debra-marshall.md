@@ -6,6 +6,22 @@ client_name: Debra Marshall
 case_type: auto_accident
 status: treatment
 date_of_incident: "2022-12-03"
+landmarks:
+  accident_report_obtained: false
+  all_bills_received: false
+  all_records_received: false
+  attorney_approved_demand: false
+  bills_requested_all_providers: false
+  client_info_received: true
+  contract_signed: true
+  demand_drafted: false
+  demand_sent: false
+  full_intake_complete: true
+  insurance_claims_setup: true
+  medical_auth_signed: true
+  providers_setup: true
+  records_requested_all_providers: false
+  treatment_complete: false
 ---
 
 # Debra Marshall — auto accident 2022-12-03
@@ -25,6 +41,22 @@ date_of_incident: "2022-12-03"
 - [[contacts/the-medical-center-at-caverna|The Medical Center At Caverna]]
 - [[contacts/tristar-skyline-medical-center|TriStar Skyline Medical Center]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Cave City Prescription Center |  |  |  |  |  |  |  |  |
+| Cave City Fire Department |  |  |  |  |  |  |  |  |
+| Doverside Emergency Physicians, PLLC | Treatment Complete |  |  | $1,886.00 |  | 2024-12-23 |  | 2024-12-23 |
+| Southeastern Emergency Physician Services | Treatment Complete | 2022-12-08 | 2022-12-08 | $1,662.00 |  | 2024-09-05 |  | 2024-09-05 |
+| The Medical Center At Caverna | Treatment Complete | 2022-12-08 | 2022-12-08 | $7,686.00 |  | 2024-08-13 |  | 2024-07-24 |
+| Ambulance Service Corp | Treatment Complete | 2022-12-03 | 2022-12-08 | $1,916.00 |  | 2024-04-08 |  | 2024-04-08 |
+| TriStar Skyline Medical Center | Treatment Complete |  |  | $77,640.85 |  | 2024-04-09 |  | 2024-04-29 |
+| T.J. Health Pavilion | Treatment Complete |  |  | $10,952.02 |  | 2024-04-08 |  | 2024-04-11 |
+| Radiology Alliance, PC (Infinity Management) | Treatment Complete | 2022-12-03 | 2022-12-04 | $5,455.00 |  | 2024-09-30 |  | 2024-09-30 |
+| Air Evac EMS Inc Prestonsburg | Treatment Complete | 2022-12-03 | 2022-12-03 | $72,568.50 |  | 2024-04-17 |  | 2024-04-17 |
+<!-- roscoe-medical-end -->
+
 ## Adjusters
 - [[contacts/jason-osboe|Jason Osboe]]
 - [[contacts/kentucky-farm-bureau|Kentucky Farm Bureau]]
@@ -35,6 +67,13 @@ date_of_incident: "2022-12-03"
 ## Insurance Claims
 - [[claims/bi-kentucky-farm-bureau|BI — Kentucky Farm Bureau]] — Claim #4778044 (no_demand)
 
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | Kentucky Farm Bureau | 4778044 | Jason Osboe | 270-782-1300 | Jason.Osboe@kyfb.com | 502-266-6100 | P.O. Box 20400, Louisville, KY 40250 |
+<!-- roscoe-insurance-end -->
+
 ## Liens
 - [[liens/medicare|Medicare]] — medicare — $10,157.36 (amount_confirmed)
 - [[liens/unknown|Unknown]] — medicare (identified)
@@ -44,11 +83,11 @@ date_of_incident: "2022-12-03"
 ## Expenses
 | Creditor | Amount | Category |
 |----------|--------|----------|
-| Barren County Circuit Court | $310.27 | court_filing |
 | ChartSwap | $30.00 | records |
 | ChartSwap | $40.00 | records |
 | ChartSwap | $10.00 | records |
 | DataVant | $192.50 | other |
+| Barren County Circuit Court | $310.27 | court_filing |
 
 ## Activity Log
 Recent: [[Activity Log/2026-01-23-legal|2026-01-23 — legal]]

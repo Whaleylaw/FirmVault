@@ -1,11 +1,17 @@
 ---
 schema_version: 2
+case_number: 2024-01-24-MVA-002
+tags: [contact/medical-provider/doctor]
 directory_id: university-of-louisville-hospital-radiology
 master_card: "[[Contacts/Medical/university-of-louisville-hospital-radiology]]"
-case_number: 2024-01-24-MVA-002
 case_link: "[[cases/dana-jackson/dana-jackson]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: false
+records_received: false
+bills_requested: false
+bills_received: true
+treatment_status: Treatment Complete
+bills_received_date: "2024-11-24"
 ---
 
 # University Of Louisville Hospital Radiology

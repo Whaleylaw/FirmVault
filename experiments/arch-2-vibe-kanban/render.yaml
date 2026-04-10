@@ -1,0 +1,109 @@
+# Render blueprint for Vibe Kanban — Architecture 2 of the FirmVault
+# Track A bake-off. This spins up a single long-running web service
+# built from the upstream Vibe Kanban Dockerfile on GitHub.
+#
+# Usage:
+#   1. Fork (or give Render read access to) BloopAI/vibe-kanban.
+#   2. Click "New → Blueprint" in Render and point it at this file.
+#      Render reads experiments/arch-2-vibe-kanban/render.yaml,
+#      creates the service, and prompts for secrets.
+#   3. Fill in ANTHROPIC_API_KEY / OPENAI_API_KEY / GEMINI_API_KEY and
+#      GITHUB_TOKEN, then set VK_ALLOWED_ORIGINS to the Render URL
+#      that Render prints after first deploy.
+#   4. Redeploy so VK_ALLOWED_ORIGINS takes effect.
+#
+# Notes:
+#   - There is no prebuilt image published on GHCR/Docker Hub as of
+#     this writing — we build from source on every deploy. First build
+#     is ~15 min (Rust release). Subsequent builds reuse Docker layer
+#     cache and are typically 3–5 min.
+#   - We pin to the upstream 'main' branch. Once the bake-off picks a
+#     winning architecture, pin to a specific tag or commit.
+#   - Plan = standard: 2 GB RAM / 1 CPU. Free (512 MB) OOMs when an
+#     agent subprocess starts. Starter (1 GB) is marginal. Standard is
+#     the safe floor. Bump to pro (4 GB) if we start running two
+#     agents concurrently per workspace.
+#   - Persistent disk is REQUIRED — VK stores its SQLite DB and git
+#     worktrees under /repos. Losing the disk means losing every
+#     in-flight workspace. 10 GB is generous for bake-off.
+
+services:
+  - type: web
+    name: firmvault-vibe-kanban
+    runtime: image
+    # Render's "runtime: image" supports building from a Dockerfile in
+    # an external git repo. The upstream Dockerfile produces a
+    # debian:bookworm-slim image that listens on $PORT (default 3000).
+    image:
+      url: ghcr.io/bloopai/vibe-kanban:latest  # EDUCATED GUESS — see note
+    # ──────────────────────────────────────────────────────────────
+    # NOTE ON THE IMAGE FIELD ABOVE
+    #
+    # BloopAI's upstream repo ships a Dockerfile but as of the last
+    # check does NOT publish a tagged image to a public registry. If
+    # the ghcr.io image doesn't resolve at deploy time, DELETE the
+    # `image:` stanza above and uncomment the `dockerfilePath` +
+    # `repo` stanzas below to have Render build from source.
+    #
+    # repo: https://github.com/BloopAI/vibe-kanban
+    # branch: main
+    # dockerfilePath: ./Dockerfile
+    # ──────────────────────────────────────────────────────────────
+    plan: standard         # 2 GB RAM / 1 CPU — free tier will OOM
+    region: oregon         # change to match your GH + Anthropic latency
+    healthCheckPath: /health
+    autoDeploy: false      # manual deploys only during bake-off
+    disk:
+      name: vk-repos
+      mountPath: /repos
+      sizeGB: 10
+    envVars:
+      # --- Vibe Kanban server config -----------------------------
+      - key: HOST
+        value: 0.0.0.0
+      - key: PORT
+        value: "3000"
+      # VK enforces Origin checking in production. Render assigns a
+      # URL like https://firmvault-vibe-kanban.onrender.com — plug it
+      # in here after first deploy. Comma-separated for multiple.
+      - key: VK_ALLOWED_ORIGINS
+        sync: false   # must be set by hand after first deploy
+      - key: DISABLE_WORKTREE_CLEANUP
+        value: ""
+
+      # --- Coding-agent API keys (the important bit) -------------
+      # The upstream VK container does NOT bundle the agent CLIs.
+      # For CLAUDE_CODE to work inside the container, either bake
+      # `claude` into a derived image or rely on the fact that VK's
+      # Claude executor can run via HTTP API with just an API key.
+      # Flag: UNVERIFIED — see firmvault-vk-integration.md for the
+      # open question about in-container agent authentication.
+      - key: ANTHROPIC_API_KEY
+        sync: false
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: GEMINI_API_KEY
+        sync: false
+
+      # --- GitHub auth for clone + push --------------------------
+      # VK uses the system git client inside the container. Set a
+      # GITHUB_TOKEN and git will pick it up via the credential
+      # helper line that the entrypoint adds (Render injects
+      # env-vars at container start, so we configure git at run
+      # time via a startCommand override if needed).
+      - key: GITHUB_TOKEN
+        sync: false
+      - key: GIT_AUTHOR_NAME
+        value: FirmVault VK Worker
+      - key: GIT_AUTHOR_EMAIL
+        value: vk-worker@firmvault.local
+      - key: GIT_COMMITTER_NAME
+        value: FirmVault VK Worker
+      - key: GIT_COMMITTER_EMAIL
+        value: vk-worker@firmvault.local
+
+      # --- Analytics off ----------------------------------------
+      - key: POSTHOG_API_KEY
+        value: ""
+      - key: POSTHOG_API_ENDPOINT
+        value: ""

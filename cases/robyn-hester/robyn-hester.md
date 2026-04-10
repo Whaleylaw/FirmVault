@@ -6,6 +6,22 @@ client_name: Robyn Hester
 case_type: wrongful_death
 status: litigation
 date_of_incident: "2022-02-23"
+landmarks:
+  accident_report_obtained: false
+  all_bills_received: false
+  all_records_received: false
+  attorney_approved_demand: false
+  bills_requested_all_providers: false
+  client_info_received: true
+  contract_signed: true
+  demand_drafted: false
+  demand_sent: false
+  full_intake_complete: true
+  insurance_claims_setup: true
+  medical_auth_signed: true
+  providers_setup: false
+  records_requested_all_providers: false
+  treatment_complete: false
 ---
 
 # Robyn Hester — wrongful death 2022-02-23
@@ -17,10 +33,24 @@ date_of_incident: "2022-02-23"
 
 ## Adjusters
 - [[contacts/christine-renner|Christine Renner]] (Progressive Insurance Company)
+- [[contacts/heath-doran|Heath Doran]]
+- [[contacts/andrew-shoultz|Andrew Shoultz]]
 
 ## Insurance Claims
 - [[claims/bi-progressive-insurance-company|BI — Progressive Insurance Company]] — Claim #224765245 (no_demand)
 - [[claims/pip-unknown|PIP]] (no_demand)
+- [[claims/bi-ryder-national-liabilities-office|BI — Ryder National Liabilities Office]]
+- [[claims/bi-geico-insurance-company|BI — Geico Insurance Company]]
+
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Personal Injury Protection (PIP) |  |  |  |  |  |  |  |
+| Bodily Injury (BI) | Progressive Insurance Company | 224765245 | Christine Renner | 440-910-6333 | Christine_Renner@progressive.com | (800) 776-4737 | 9520 Ormbsy Station Rd, Ste 200, louisville, KY 40223 |
+| Bodily Injury (BI) | Ryder National Liabilities Office | 2077817 | Heath Doran | 800-753-8808 ext 5313 | Heath_Doran@ryder.com | 800-753-8808 |  |
+| Bodily Injury (BI) | Geico Insurance Company | 681812020000004 | Andrew Shoultz | 478-722-2913 Main | ashoultz@geico.com | 800-841-3005 | One Geico Center, Macon, GA 31296-0001 |
+<!-- roscoe-insurance-end -->
 
 ## Liens
 - [[liens/legal-funding-partners|Legal Funding Partners]] — workers_comp — $4,000.00 (amount_confirmed)
@@ -29,16 +59,17 @@ date_of_incident: "2022-02-23"
 ## Expenses
 | Creditor | Amount | Category |
 |----------|--------|----------|
-| Brickell Key Court Reporting | $622.40 | court_reporting |
-| Burke Neal PLLC | $687.50 | other |
-| Cowles & Thompson | $2,000.00 | other |
-| Focus Investigations | $20,579.34 | investigation |
 | Jackson Kelly PLLC | $570.00 | other |
 | Kentucky Court Reporters | $497.80 | court_reporting |
-| Marshall County Circuit Court | $1,257.70 | court_filing |
-| Prince & Brien, PSC | $2,145.36 | other |
-| Stidham Reconstruction | $2,000.00 | other |
+| Burke Neal PLLC | $687.50 | other |
 | Vocational Economics | $3,200.00 | other |
+| Cowles & Thompson | $2,000.00 | other |
+| Brickell Key Court Reporting | $622.40 | court_reporting |
+| Focus Investigations | $20,579.34 | investigation |
+| Stidham Reconstruction | $2,000.00 | other |
+| Matt Hillbrecht | None |  |
+| Prince & Brien, PSC | $2,145.36 | other |
+| Marshall County Circuit Court | $1,257.70 | court_filing |
 
 ## Activity Log
 Recent: [[Activity Log/2025-11-04-correspondence|2025-11-04 — correspondence]]

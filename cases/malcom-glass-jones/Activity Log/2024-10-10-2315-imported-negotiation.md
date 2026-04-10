@@ -1,0 +1,21 @@
+---
+schema_version: 2
+case_id: 1584c8eb-00d6-49d0-91c8-64edb4a4b87c
+date: "2024-10-10"
+time: "23:15:56"
+category: imported
+subcategory: filevine_negotiation
+---
+
+# Filevine activity (negotiation) — 2024-10-10 23:15
+
+**Case:** [[cases/malcom-glass-jones/malcom-glass-jones|Malcom Glass-Jones]]
+**Source:** Filevine negotiation export
+**Timestamp:** 2024-10-10T23:15:56
+
+__Text Message__
+__Message:__  Hi Malcom, this is Aries from the Whaley Law Firm.
+__Date and Time:__ 2024-10-10 
+__From Number:__ +15023655788 
+__To Number:__ +18128328198
+__Direction:__ Outbound

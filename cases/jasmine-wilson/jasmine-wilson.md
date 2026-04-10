@@ -6,6 +6,22 @@ client_name: Jasmine Wilson
 case_type: auto_accident
 status: negotiation
 date_of_incident: "2025-10-12"
+landmarks:
+  accident_report_obtained: true
+  all_bills_received: false
+  all_records_received: false
+  attorney_approved_demand: false
+  bills_requested_all_providers: false
+  client_info_received: true
+  contract_signed: true
+  demand_drafted: false
+  demand_sent: false
+  full_intake_complete: true
+  insurance_claims_setup: true
+  medical_auth_signed: true
+  providers_setup: false
+  records_requested_all_providers: false
+  treatment_complete: false
 ---
 
 # Jasmine Wilson — auto accident 2025-10-12

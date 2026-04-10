@@ -1,0 +1,241 @@
+schema_version: 1
+case_slug: hope-renee-padgett
+current_phase: phase_7_litigation
+phase_history:
+  phase_0_onboarding:
+    entered: null
+    exited: null
+  phase_1_file_setup:
+    entered: null
+    exited: null
+  phase_2_treatment:
+    entered: null
+    exited: null
+  phase_3_demand:
+    entered: null
+    exited: null
+  phase_4_negotiation:
+    entered: null
+    exited: null
+  phase_5_settlement:
+    entered: null
+    exited: null
+  phase_6_lien:
+    entered: null
+    exited: null
+  phase_7_litigation:
+    entered: null
+    exited: null
+landmarks:
+  client_info_received:
+    satisfied: true
+    satisfied_at: null
+    satisfied_by: migration_script
+    evidence: null
+  contract_signed:
+    satisfied: true
+    satisfied_at: null
+    satisfied_by: migration_script
+    evidence: null
+  medical_auth_signed:
+    satisfied: true
+    satisfied_at: null
+    satisfied_by: migration_script
+    evidence: null
+  full_intake_complete:
+    satisfied: true
+    satisfied_at: null
+    satisfied_by: migration_script
+    evidence: null
+  accident_report_obtained:
+    satisfied: true
+    satisfied_at: null
+    satisfied_by: migration_script
+    evidence: null
+  insurance_claims_setup:
+    satisfied: true
+    satisfied_at: null
+    satisfied_by: migration_script
+    evidence: null
+  providers_setup:
+    satisfied: true
+    satisfied_at: null
+    satisfied_by: migration_script
+    evidence: null
+  client_check_in_active:
+    satisfied: false
+    satisfied_at: null
+    satisfied_by: null
+    evidence: null
+  records_requested_all_providers:
+    satisfied: false
+    satisfied_at: null
+    satisfied_by: null
+    evidence: null
+  bills_requested_all_providers:
+    satisfied: false
+    satisfied_at: null
+    satisfied_by: null
+    evidence: null
+  treatment_complete:
+    satisfied: false
+    satisfied_at: null
+    satisfied_by: null
+    evidence: null
+  all_records_received:
+    satisfied: false
+    satisfied_at: null
+    satisfied_by: null
+    evidence: null
+  all_bills_received:
+    satisfied: false
+    satisfied_at: null
+    satisfied_by: null
+    evidence: null
+  demand_drafted:
+    satisfied: false
+    satisfied_at: null
+    satisfied_by: null
+    evidence: null
+  attorney_approved_demand:
+    satisfied: false
+    satisfied_at: null
+    satisfied_by: null
+    evidence: null
+  demand_sent:
+    satisfied: false
+    satisfied_at: null
+    satisfied_by: null
+    evidence: null
+  one_week_followup:
+    satisfied: false
+    satisfied_at: null
+    satisfied_by: null
+    evidence: null
+  deficiencies_addressed:
+    satisfied: false
+    satisfied_at: null
+    satisfied_by: null
+    evidence: null
+  initial_offer_received:
+    satisfied: false
+    satisfied_at: null
+    satisfied_by: null
+    evidence: null
+  settlement_reached:
+    satisfied: false
+    satisfied_at: null
+    satisfied_by: null
+    evidence: null
+  impasse_declared:
+    satisfied: false
+    satisfied_at: null
+    satisfied_by: null
+    evidence: null
+  settlement_statement_prepared:
+    satisfied: false
+    satisfied_at: null
+    satisfied_by: null
+    evidence: null
+  authorization_to_settle_prepared:
+    satisfied: false
+    satisfied_at: null
+    satisfied_by: null
+    evidence: null
+  client_authorized:
+    satisfied: false
+    satisfied_at: null
+    satisfied_by: null
+    evidence: null
+  release_executed:
+    satisfied: false
+    satisfied_at: null
+    satisfied_by: null
+    evidence: null
+  funds_received:
+    satisfied: false
+    satisfied_at: null
+    satisfied_by: null
+    evidence: null
+  client_distributed:
+    satisfied: false
+    satisfied_at: null
+    satisfied_by: null
+    evidence: null
+  outstanding_liens_identified:
+    satisfied: false
+    satisfied_at: null
+    satisfied_by: null
+    evidence: null
+  final_amounts_requested:
+    satisfied: false
+    satisfied_at: null
+    satisfied_by: null
+    evidence: null
+  final_amounts_received:
+    satisfied: false
+    satisfied_at: null
+    satisfied_by: null
+    evidence: null
+  liens_negotiated:
+    satisfied: false
+    satisfied_at: null
+    satisfied_by: null
+    evidence: null
+  liens_paid:
+    satisfied: false
+    satisfied_at: null
+    satisfied_by: null
+    evidence: null
+  final_distribution:
+    satisfied: false
+    satisfied_at: null
+    satisfied_by: null
+    evidence: null
+  litigation_commenced:
+    satisfied: false
+    satisfied_at: null
+    satisfied_by: null
+    evidence: null
+  complaint_filed:
+    satisfied: false
+    satisfied_at: null
+    satisfied_by: null
+    evidence: null
+  service_completed:
+    satisfied: false
+    satisfied_at: null
+    satisfied_by: null
+    evidence: null
+  discovery_completed:
+    satisfied: false
+    satisfied_at: null
+    satisfied_by: null
+    evidence: null
+  mediation_attempted:
+    satisfied: false
+    satisfied_at: null
+    satisfied_by: null
+    evidence: null
+  trial_or_settlement:
+    satisfied: false
+    satisfied_at: null
+    satisfied_by: null
+    evidence: null
+  all_obligations_verified:
+    satisfied: false
+    satisfied_at: null
+    satisfied_by: null
+    evidence: null
+  final_letter_sent:
+    satisfied: false
+    satisfied_at: null
+    satisfied_by: null
+    evidence: null
+  case_archived:
+    satisfied: false
+    satisfied_at: null
+    satisfied_by: null
+    evidence: null
+active_tasks: []
+overrides: {}

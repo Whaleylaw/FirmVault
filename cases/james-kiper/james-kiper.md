@@ -6,6 +6,22 @@ client_name: James Kiper
 case_type: auto_accident
 status: litigation
 date_of_incident: "2022-12-05"
+landmarks:
+  accident_report_obtained: true
+  all_bills_received: false
+  all_records_received: false
+  attorney_approved_demand: false
+  bills_requested_all_providers: false
+  client_info_received: true
+  contract_signed: true
+  demand_drafted: false
+  demand_sent: false
+  full_intake_complete: true
+  insurance_claims_setup: true
+  medical_auth_signed: true
+  providers_setup: true
+  records_requested_all_providers: false
+  treatment_complete: true
 ---
 
 # James Kiper — auto accident 2022-12-05
@@ -19,6 +35,19 @@ date_of_incident: "2022-12-05"
 - [[contacts/synergy-injury-care-rehab-diagnostics|Synergy Injury Care & Rehab Diagnostics]]
 - [[contacts/the-state-pharmacy-inc|The State Pharmacy, Inc.]]
 - [[contacts/uofl-health-mary-elizabeth-mary-elizabeth-hospital|UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital]]
+- [[contacts/synergy-injury-care-and-rehab-diagnostics|Synergy Injury Care & Rehab Diagnostics]]
+- [[contacts/uofl-health-mary-and-elizabeth-mary-and-elizabeth-hospital|UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital]]
+
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Foundation Radiology | Treatment Complete | 2022-12-05 | 2022-12-05 | $88.00 |  | 2024-04-03 |  | 2024-04-03 |
+| Southeastern Emergency Physician Services | Treatment Complete | 2022-12-05 | 2022-12-05 | $1,673.00 | 2024-04-02 |  | 2024-04-02 |  |
+| The State Pharmacy, Inc. | Treatment Complete | 2022-12-12 | 2023-02-20 | $465.25 |  | 2024-04-02 |  | 2024-04-02 |
+| Synergy Injury Care & Rehab Diagnostics | Treatment Complete | 2022-12-08 | 2023-03-23 | $13,401.00 |  | 2024-04-08 |  | 2024-04-08 |
+| UofL Health - Mary & Elizabeth Mary & Elizabeth Hospital | Treatment Complete | 2022-12-05 | 2022-12-05 | $2,598.00 | 2024-04-02 |  |  | 2024-04-24 |
+<!-- roscoe-medical-end -->
 
 ## Adjusters
 - [[contacts/conduent|Conduent]]
@@ -36,6 +65,15 @@ date_of_incident: "2022-12-05"
 - [[claims/pip-unknown|PIP]] — Claim #8065806 (no_demand)
 - [[claims/pip-unknown|PIP]] — Claim #1788V453C (no_demand)
 - [[claims/um-unknown|UM]] — Claim #IZX7996 (demand_pending)
+- [[claims/um-travelers-insurance|UM — Travelers Insurance]]
+
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Uninsured Motorist (UM) | Travelers Insurance | IZX7996 | Emma Schumaker | 615-660-6610 Main | Eschumak@travelers.com | 800-252-4633 Main | P.O. Box 660456, Dallas, TX 75266 |
+| Personal Injury Protection (PIP) | Travelers Insurance | IZX7996 | Josalyn Van Leer | 317-818-0159 |  | 800-252-4633 Main | P.O. Box 660456, Dallas, TX 75266 |
+<!-- roscoe-insurance-end -->
 
 ## Liens
 - [[liens/conduent|Conduent]] — health_insurance — $687.54 (amount_confirmed)

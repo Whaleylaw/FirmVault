@@ -1,0 +1,19 @@
+---
+schema_version: 2
+case_id: 2496fbac-abfc-4279-a887-22eac8aaa716
+date: "2025-11-17"
+time: "15:05:10"
+category: imported
+subcategory: filevine_treatment
+---
+
+# Filevine activity (treatment) — 2025-11-17 15:05
+
+**Case:** [[cases/miayla-lopez/miayla-lopez|Mi'Ayla Lopez]]
+**Source:** Filevine treatment export
+**Timestamp:** 2025-11-17T15:05:10
+
+__Request Lopez__
+From:  [justin@whaleylawfirm.com](mailto:justin@whaleylawfirm.com)
+To: [5025843906@rcfax.com](mailto:5025843906@rcfax.com)
+Date: Mon Nov 17 2025 02:05:05 GMT-05:00

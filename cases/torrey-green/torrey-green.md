@@ -6,6 +6,22 @@ client_name: Torrey Green
 case_type: auto_accident
 status: demand
 date_of_incident: "2025-09-03"
+landmarks:
+  accident_report_obtained: true
+  all_bills_received: false
+  all_records_received: false
+  attorney_approved_demand: false
+  bills_requested_all_providers: false
+  client_info_received: true
+  contract_signed: true
+  demand_drafted: false
+  demand_sent: false
+  full_intake_complete: true
+  insurance_claims_setup: true
+  medical_auth_signed: true
+  providers_setup: true
+  records_requested_all_providers: false
+  treatment_complete: true
 ---
 
 # Torrey Green — auto accident 2025-09-03
@@ -18,6 +34,15 @@ date_of_incident: "2025-09-03"
 - [[contacts/starlite-chiropractic|Starlite Chiropractic]]
 - [[contacts/university-of-louisville-hospital|University of Louisville Hospital]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| University of Louisville Hospital | Treatment Complete |  |  | $22,884.58 | 2025-11-06 | 2025-12-01 | 2025-11-06 | 2025-12-01 |
+| Starlite Chiropractic | Treatment Complete |  |  | $1,665.00 |  | 2025-10-06 |  | 2025-10-06 |
+| Louisville Metro Emergency Medical Service | Treatment Complete |  |  |  | 2025-09-24 |  | 2025-09-24 |  |
+<!-- roscoe-medical-end -->
+
 ## Attorneys
 - [[contacts/the-whaley-law-firm|The Whaley Law Firm]]
 
@@ -25,9 +50,26 @@ date_of_incident: "2025-09-03"
 - [[contacts/cory-d-stevenson-jr|Cory D. Stevenson Jr.]]
 - [[contacts/cynthia-mcdonald|Cynthia McDonald]]
 
+## Adjusters
+- [[contacts/cherrel-washington|Cherrel Washington]]
+- [[contacts/keshia-nieuenkirk|Keshia Nieuenkirk]]
+- [[contacts/andrea-spickler|Andrea Spickler]]
+
 ## Insurance Claims
 - [[claims/bi-unknown|BI]] — Claim #23016864 (no_demand)
 - [[claims/pip-unknown|PIP]] — Claim #23016864 (no_demand)
+- [[claims/bi-state-farm-insurance-company|BI — State Farm Insurance Company]]
+- [[claims/bi-elco-insurance|BI — Elco Insurance]]
+- [[claims/pip-elco-insurance|PIP — Elco Insurance]]
+
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | State Farm Insurance Company | 1789V463J | Cherrel Washington | 309-994-9599 |  | 1-800-782-8332 | P.O Box 106171, Atlanta, GA 30348 |
+| Bodily Injury (BI) | Elco Insurance | 23016864 | Keshia Nieuenkirk | 314.932.2632 | keshia.nieuenkirk@em.com | 314-949-2200 (for claims already setup) | 600 Corporate Park Dr, Saint Louis, MO 63105 |
+| Personal Injury Protection (PIP) | Elco Insurance | 23016864 | Andrea Spickler | 314-592-8526 Main | e996j3@erac.com | 314-949-2200 (for claims already setup) | 600 Corporate Park Dr, Saint Louis, MO 63105 |
+<!-- roscoe-insurance-end -->
 
 ## Activity Log
 Recent: [[Activity Log/2026-02-02-correspondence|2026-02-02 — correspondence]]

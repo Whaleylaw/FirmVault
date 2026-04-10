@@ -1,0 +1,79 @@
+---
+template_id: file-complaint
+landmark: complaint_filed              # HARD BLOCKER
+phase: phase_7_litigation
+skill: complaint-drafting
+priority: high
+auto: false                            # NEVER auto — court filing + filing fee
+review: true
+
+task_id_template: "{case_slug}-file-complaint"
+discriminator: null
+
+emit_when: |
+  case.has_document("complaint-draft")
+  and case.frontmatter.complaint_file_date is null
+
+success_check: |
+  case.frontmatter.complaint_file_date is not null
+  and case.frontmatter.case_number
+
+inputs:
+  case_file: "cases/{case_slug}/{case_slug}.md"
+  draft_path: "cases/{case_slug}/documents/legal-filings/complaint-draft.docx"
+
+depends_on:
+  - "{case_slug}-draft-complaint"
+
+body: |
+  ## Task: File complaint with the court
+
+  **Case:** [[cases/{{case_slug}}/{{case_slug}}|{{client_name}}]]
+  **Phase:** Litigation
+  **Priority:** HIGH — hard blocker + money-touching (filing fee).
+
+  The attorney-approved complaint draft lives at
+  `cases/{{case_slug}}/documents/legal-filings/complaint-draft.docx`.
+  This task e-files it, records the case number, and satisfies the
+  `complaint_filed` hard blocker. It is `auto:false` and `review:true`
+  — a human must confirm the filing actually happened before the
+  landmark flips. There is no `file-complaint` sub-skill; use the
+  reference material in `Skills/complaint-drafting/references/court-rules.md`
+  for Kentucky filing-fee amounts, eFlex portal details, and the CR
+  8/10/11 pleading checklist.
+
+  Worker steps:
+
+  1. Re-read `cases/{{case_slug}}/documents/legal-filings/complaint-draft.docx`
+     and confirm it has a captured attorney-approval note in the
+     activity log. If there is no approval, fail the task with a
+     comment pointing to the missing approval.
+  2. Confirm the filing-fee amount and the correct venue (circuit vs.
+     district, county) from `cases/{{case_slug}}/{{case_slug}}.md`
+     `jurisdiction` frontmatter and the court-rules reference.
+  3. Post `status:needs_review` with a checklist for the human filer:
+     - [ ] eFlex upload complete
+     - [ ] Filing fee charged
+     - [ ] Clerk-stamped copy received
+     - [ ] Case number assigned: __________
+     - [ ] Summons issued for each defendant
+  4. After the human confirms with the assigned case number:
+     - Update `cases/{{case_slug}}/{{case_slug}}.md` frontmatter:
+       ```yaml
+       complaint_file_date: "<YYYY-MM-DD>"
+       case_number: "<clerk-assigned id>"
+       status: litigation
+       ```
+     - Save the clerk-stamped filed copy as
+       `cases/{{case_slug}}/documents/legal-filings/complaint-filed-<YYYY-MM-DD>.pdf`.
+     - Save each issued summons under
+       `cases/{{case_slug}}/documents/legal-filings/summons-<defendant-slug>.pdf`.
+     - Log an activity entry at
+       `cases/{{case_slug}}/Activity Log/<YYYY-MM-DD-HHMM>-legal.md`
+       (category `legal`, subcategory `complaint-filed`) with the
+       case number, filing date, and venue.
+     - **Calendar the 90-day service window** (CR 4.01(2)). Miss it and
+       the case is dismissible.
+
+  Once this task closes `status:done`, the `complaint_filed` hard
+  blocker is satisfied and `serve-defendants` tasks become ready.

@@ -1,0 +1,83 @@
+---
+template_id: one-week-followup
+landmark: one_week_followup
+phase: phase_4_negotiation
+skill: negotiation-strategy
+priority: normal
+auto: false
+review: true
+
+# One task per BI claim per demand-cycle. The discriminator is the carrier
+# slug so each BI carrier gets its own followup task after its demand goes
+# out. A fresh demand (new demand_sent_date) would produce a new landmark
+# evaluation and therefore a new task via the materializer.
+task_id_template: "{case_slug}-one-week-followup-{discriminator}"
+discriminator: per_carrier
+
+# Emit when a BI claim on this case has a demand_sent_date that is at least
+# 7 days old AND no followup activity has been logged since that date. The
+# materializer checks the case's `landmarks.one_week_followup` frontmatter
+# first; this predicate is the fallback / per-carrier decomposition.
+emit_when: |
+  any(
+    c for c in case.claims
+    if c.type == "BI"
+    and c.demand_sent_date
+    and (today - c.demand_sent_date).days >= 7
+    and not case.activity.has(
+      "followup",
+      since=c.demand_sent_date,
+      subcategory=c.carrier_slug,
+    )
+  )
+
+success_check: |
+  case.activity.has(
+    "followup",
+    since=(
+      [c.demand_sent_date for c in case.claims
+       if c.type == "BI" and c.carrier_slug == discriminator][0]
+    ),
+    subcategory=discriminator,
+  )
+
+inputs:
+  carrier_slug: "{discriminator}"
+  case_file: "cases/{case_slug}/{case_slug}.md"
+  claim_file: "cases/{case_slug}/claims/bi-{discriminator}.md"
+
+depends_on: []
+
+body: |
+  ## Task: One-week follow-up with {{carrier_name}} on BI demand
+
+  **Case:** [[cases/{{case_slug}}/{{case_slug}}|{{client_name}}]]
+  **Carrier:** [[Contacts/Insurance/{{carrier_slug}}|{{carrier_name}}]]
+  **Claim file:** `cases/{{case_slug}}/claims/bi-{{carrier_slug}}.md`
+  **Demand sent:** {{demand_sent_date}} ({{days_since_demand}} days ago)
+  **Phase:** Negotiation
+
+  The demand on this BI claim went out over a week ago and there is no
+  logged followup yet. Use the `negotiation-strategy` skill's followup
+  guidance (see `references/tactics.md` in that skill) to:
+
+  1. Read the claim file to confirm the adjuster of record, direct phone,
+     email, and the exact demand amount that was sent.
+  2. Place a courtesy call or email to the adjuster asking:
+     - Confirmation the demand package was received
+     - Whether the file has been assigned to an evaluator
+     - An expected timeline for initial response
+     - Any deficiencies they've already spotted in the package
+  3. If the adjuster reports missing information or records, set
+     `deficiencies_outstanding: true` on the case file frontmatter and
+     note what's missing in the activity log — this will cause the
+     materializer to emit an `address-deficiencies` task.
+  4. If the adjuster states an offer is coming, note the promised date.
+  5. Write an activity log entry at
+     `cases/{{case_slug}}/Activity Log/<YYYY-MM-DD-HHMM>-correspondence.md`
+     with `category: correspondence`, `subcategory: {{carrier_slug}}`, and
+     body text that summarizes the followup contact. The activity log
+     entry is what satisfies `success_check`.
+
+  This task is `review: true` — attorney must approve any script or email
+  before the paralegal actually contacts the adjuster.

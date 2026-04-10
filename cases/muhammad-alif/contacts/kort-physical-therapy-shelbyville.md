@@ -1,11 +1,18 @@
 ---
 schema_version: 2
+case_number: 2022-11-08-MVA-001
+tags: [contact/medical-provider/doctor]
 directory_id: 9854342b-4073-4be8-b66b-dbc08f398570
 master_card: "[[Contacts/Medical/kort-physical-therapy-shelbyville]]"
-case_number: 2022-11-08-MVA-001
 case_link: "[[cases/muhammad-alif/muhammad-alif]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: false
+records_received: true
+bills_requested: false
+bills_received: true
+treatment_status: Treatment Complete
+records_received_date: "2024-08-27"
+bills_received_date: "2024-08-27"
 ---
 
 # KORT Physical Therapy - Shelbyville

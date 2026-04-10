@@ -4,8 +4,24 @@ case_id: 79409351-9947-43b6-bad0-dbc794587de1
 case_number: 2025-08-02-MVA-001
 client_name: Corey Todd
 case_type: auto_accident
-status: onboarding
+status: treatment
 date_of_incident: "2025-08-02"
+landmarks:
+  accident_report_obtained: false
+  all_bills_received: false
+  all_records_received: false
+  attorney_approved_demand: false
+  bills_requested_all_providers: false
+  client_info_received: true
+  contract_signed: true
+  demand_drafted: false
+  demand_sent: false
+  full_intake_complete: true
+  insurance_claims_setup: true
+  medical_auth_signed: true
+  providers_setup: true
+  records_requested_all_providers: false
+  treatment_complete: false
 ---
 
 # Corey Todd — auto accident 2025-08-02
@@ -17,8 +33,23 @@ date_of_incident: "2025-08-02"
 - [[contacts/starlite-chiropractic|Starlite Chiropractic]]
 - [[contacts/university-of-louisville-hospital|University of Louisville Hospital]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Starlite Chiropractic | Actively Treating |  |  |  |  |  |  |  |
+| University of Louisville Hospital | Treatment Complete | 2025-08-02 | 2025-08-02 | $20,933.00 | 2025-08-05 | 2025-09-04 | 2025-08-05 | 2025-09-04 |
+<!-- roscoe-medical-end -->
+
 ## Insurance Claims
 - [[claims/bi-allstate-insurance|BI — Allstate Insurance]] (no_demand)
+
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Bodily Injury (BI) | Allstate Insurance |  |  |  |  | (800) 255-7828 Main | PO Box 2874, Claims Department, Clinton, IA 52733 |
+<!-- roscoe-insurance-end -->
 
 ## Activity Log
 Recent: [[Activity Log/2025-10-09-task|2025-10-09 — task]]

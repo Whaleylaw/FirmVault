@@ -1,0 +1,63 @@
+---
+template_id: write-case-summary
+landmark: case_summary_written
+phase: any
+skill: null                      # no specialized skill — any agent can do this
+priority: low
+auto: false
+review: true
+
+# Deterministic id: one task per case
+task_id_template: "{case_slug}-case-summary"
+discriminator: null
+
+# Emit whenever the case doesn't yet have a summary
+emit_when: |
+  not case.frontmatter.case_summary_written
+
+# Satisfied when the summary frontmatter flag is true
+success_check: |
+  case.frontmatter.case_summary_written == true
+
+inputs:
+  case_file: "cases/{case_slug}/{case_slug}.md"
+
+depends_on: []
+
+body: |
+  ## Task: Write a one-paragraph case summary
+
+  **Case:** [[cases/{{case_slug}}/{{case_slug}}|{{client_name}}]]
+
+  This is a test harness task used by the Track A architecture bake-off.
+  It exercises the full runtime loop (materializer → task → worker →
+  artifact → review → landmark flip) with a trivial, reviewable action.
+
+  ### What to do
+
+  1. Read `cases/{{case_slug}}/{{case_slug}}.md` in full.
+  2. Write a **one-paragraph plain-English summary** of the case — who
+     the client is, what kind of matter it is, the date of incident,
+     the current phase, and one sentence about what's happening right
+     now. Target 4–6 sentences total.
+  3. Save the summary to `cases/{{case_slug}}/documents/summary.md`.
+  4. Set `case_summary_written: true` in the case file frontmatter
+     (preserve all other keys and sections).
+  5. Log the activity at `cases/{{case_slug}}/Activity Log/<YYYY-MM-DD-HHMM>-system.md`
+     per DATA_CONTRACT §5.
+
+  ### What NOT to do
+
+  - Don't edit anything between `<!-- roscoe-*-start -->` / `<!-- roscoe-*-end -->` markers.
+  - Don't touch other cases.
+  - Don't call any external services — this is a pure read-the-vault task.
+
+  ### Why this task exists
+
+  The Track A bake-off is comparing five runtime architectures (pure
+  GitHub, Vibe Kanban, Mission Control, custom Case Cockpit, and
+  Claude Code's schedule skill). Each architecture needs an end-to-end
+  smoke test: a task that's simple enough for any agent to run, real
+  enough to produce a reviewable artifact, and safe enough that running
+  it accidentally on all 117 cases would not do any harm. This template
+  is that test.

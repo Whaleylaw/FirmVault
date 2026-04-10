@@ -1,11 +1,18 @@
 ---
 schema_version: 2
+case_number: 2026-01-24-SF-001
+tags: [contact/medical-provider/doctor]
 directory_id: louisville-metro-ems
 master_card: "[[Contacts/Medical/louisville-metro-ems]]"
-case_number: 2026-01-24-SF-001
 case_link: "[[cases/amanda-tackore/amanda-tackore]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: true
+records_received: false
+bills_requested: true
+bills_received: false
+treatment_status: Treatment Complete
+records_requested_date: "2026-03-23"
+bills_requested_date: "2026-03-23"
 ---
 
 # Louisville Metro EMS

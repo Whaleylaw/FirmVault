@@ -1,11 +1,18 @@
 ---
 schema_version: 2
+case_number: 2023-08-12-MVA-001
+tags: [contact/medical-provider/doctor]
 directory_id: louisville-metro-ems
 master_card: "[[Contacts/Medical/louisville-metro-ems]]"
-case_number: 2023-08-12-MVA-001
 case_link: "[[cases/estate-of-evangeline-young/estate-of-evangeline-young]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: false
+records_received: true
+bills_requested: false
+bills_received: true
+treatment_status: No Records Found
+records_received_date: "2024-06-12"
+bills_received_date: "2024-06-12"
 ---
 
 # Louisville Metro EMS

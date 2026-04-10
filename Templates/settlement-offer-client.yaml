@@ -1,0 +1,71 @@
+id: settlement_offer_client
+name: Settlement Offer Letter to Client
+description: Letter to client presenting first settlement offer from insurance company
+category: client_communication
+input_mode: graph
+output_filename: Settlement_Offer_{client_name}_{date}.pdf
+graph_inputs:
+- name: case_name
+  required: true
+- name: insurer_name
+  required: false
+fields:
+- name: today_date
+  source: computed
+- name: today_date_short
+  source: computed
+- name: client_name
+  source: graph
+  graph_query: 'MATCH (c:Case {name: $case_name})-[:HAS_CLIENT]->(client:Client)
+
+    RETURN client.name'
+  required: true
+- name: client_first_name
+  source: graph
+  graph_query: 'MATCH (c:Case {name: $case_name})-[:HAS_CLIENT]->(client:Client)
+
+    RETURN CASE WHEN client.name CONTAINS '' '' THEN split(client.name, '' '')[0]
+    ELSE client.name END'
+  required: true
+- name: client_address_block
+  source: graph
+  graph_query: 'MATCH (c:Case {name: $case_name})-[:HAS_CLIENT]->(client:Client)
+
+    RETURN coalesce(client.address_line1, '''') + ''\n'' + coalesce(client.city, '''')
+    + '', '' + coalesce(client.state, '''') + '' '' + coalesce(client.zip, '''')'
+  required: false
+- name: accident_date
+  source: graph
+  graph_query: 'MATCH (c:Case {name: $case_name})
+
+    RETURN c.accident_date'
+  required: true
+- name: case_type
+  source: graph
+  graph_query: 'MATCH (c:Case {name: $case_name})
+
+    RETURN coalesce(c.case_type, c.type, ''Personal Injury'')'
+  required: false
+- name: claim_number
+  source: graph
+  graph_query: 'MATCH (c:Case {name: $case_name})-[:HAS_CLAIM]->(claim:BIClaim)-[:WITH_INSURER]->(ins:Insurer)
+
+    WHERE $insurer_name IS NULL OR ins.name = $insurer_name
+
+    RETURN claim.claim_number LIMIT 1'
+  required: true
+- name: offer_amount
+  source: input
+  description: Current settlement offer amount
+  required: true
+- name: insurer_adjuster_first_name
+  source: graph
+  graph_query: 'MATCH (c:Case {name: $case_name})-[:HAS_CLAIM]->(claim:BIClaim)-[:WITH_INSURER]->(ins:Insurer)
+
+    WHERE $insurer_name IS NULL OR ins.name = $insurer_name
+
+    MATCH (claim)-[:ADJUSTED_BY]->(adj:Adjuster)
+
+    RETURN CASE WHEN adj.name CONTAINS '' '' THEN split(adj.name, '' '')[0] ELSE adj.name
+    END LIMIT 1'
+  required: false

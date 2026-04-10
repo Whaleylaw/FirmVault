@@ -6,6 +6,22 @@ client_name: Estate of Keith Graser
 case_type: workers_comp
 status: litigation
 date_of_incident: "2020-12-07"
+landmarks:
+  accident_report_obtained: false
+  all_bills_received: false
+  all_records_received: false
+  attorney_approved_demand: false
+  bills_requested_all_providers: true
+  client_info_received: true
+  contract_signed: true
+  demand_drafted: false
+  demand_sent: false
+  full_intake_complete: true
+  insurance_claims_setup: true
+  medical_auth_signed: true
+  providers_setup: true
+  records_requested_all_providers: true
+  treatment_complete: true
 ---
 
 # Estate of Keith Graser — workers comp 2020-12-07
@@ -18,18 +34,33 @@ date_of_incident: "2020-12-07"
 ## Medical Providers
 - [[contacts/dr-david-winslow|Dr. David Winslow]]
 
+<!-- roscoe-medical-start -->
+### Treatment Details (Roscoe)
+| Provider | Status | Start | End | Billed | Bills Req | Bills Rec | Records Req | Records Rec |
+|----------|--------|-------|-----|--------|-----------|-----------|-------------|-------------|
+| Dr. David Winslow | Treatment Complete |  |  |  | 2022-05-27 |  | 2022-05-27 |  |
+<!-- roscoe-medical-end -->
+
 ## Insurance Claims
 - [[claims/bi-unknown|BI]] (no_demand)
+
+<!-- roscoe-insurance-start -->
+### Insurance Details (Roscoe)
+| Type | Carrier | Claim # | Adjuster | Adjuster Phone | Adjuster Email | Carrier Phone | Carrier Address |
+|------|---------|---------|----------|----------------|----------------|---------------|-----------------|
+| Workers' Compensation (WC) |  |  |  |  |  |  |  |
+<!-- roscoe-insurance-end -->
 
 ## Expenses
 | Creditor | Amount | Category |
 |----------|--------|----------|
 | Buechler-Haws Reporting | $85.00 | other |
-| Buechler-Haws Reporting | $82.50 | other |
-| Buechler-Haws Reporting | $265.00 | other |
 | CJV Reporting Company, Inc. | $49.77 | other |
 | Commonwealth IME | $350.00 | expert |
+| Buechler-Haws Reporting | $82.50 | other |
+| Commonwealth IME | $350.00 | expert |
 | Commonwealth IME | $1,050.00 | expert |
+| Buechler-Haws Reporting | $265.00 | other |
 
 ## Activity Log
 Recent: [[Activity Log/2025-11-19-correspondence|2025-11-19 — correspondence]]

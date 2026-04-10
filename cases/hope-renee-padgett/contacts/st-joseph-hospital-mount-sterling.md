@@ -1,11 +1,20 @@
 ---
 schema_version: 2
+case_number: 2023-01-16-MVA-001
+tags: [contact/medical-provider/doctor]
 directory_id: a703ecb8-acef-4cb6-b12e-1d5de6039d47
 master_card: "[[Contacts/Medical/st-joseph-hospital-mount-sterling]]"
-case_number: 2023-01-16-MVA-001
 case_link: "[[cases/hope-renee-padgett/hope-renee-padgett]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: true
+records_received: true
+bills_requested: true
+bills_received: true
+treatment_status: Treatment Complete
+records_requested_date: "2024-07-30"
+records_received_date: "2024-08-01"
+bills_requested_date: "2024-07-30"
+bills_received_date: "2024-09-10"
 ---
 
 # St. Joseph Hospital Mount Sterling

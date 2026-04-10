@@ -1,0 +1,19 @@
+---
+schema_version: 2
+case_id: b6d0e4ba-420e-47cd-813d-876bf70ab89f
+date: "2024-04-29"
+time: "09:56:50"
+category: imported
+subcategory: filevine_negotiation
+---
+
+# Filevine activity (negotiation) — 2024-04-29 09:56
+
+**Case:** [[cases/samuel-clites/samuel-clites|Samuel Clites]]
+**Source:** Filevine negotiation export
+**Timestamp:** 2024-04-29T09:56:50
+
+__CLIENT CONTACT__
+__Details:__  Client was checked at  Baptist East Hospital ER and is trying to setup an appointment with his personal Dr. 
+__Person Making Contact:__ Aries
+__Date & Time__: April 29 2024

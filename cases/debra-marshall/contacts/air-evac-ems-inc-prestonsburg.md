@@ -1,11 +1,18 @@
 ---
 schema_version: 2
+case_number: 2022-12-03-MVA-001
+tags: [contact/medical-provider/doctor]
 directory_id: b16f9798-9bf4-4a5a-b832-22efe375ad14
 master_card: "[[Contacts/Medical/air-evac-ems-inc-prestonsburg]]"
-case_number: 2022-12-03-MVA-001
 case_link: "[[cases/debra-marshall/debra-marshall]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: false
+records_received: true
+bills_requested: false
+bills_received: true
+treatment_status: Treatment Complete
+records_received_date: "2024-04-17"
+bills_received_date: "2024-04-17"
 ---
 
 # Air Evac EMS Inc Prestonsburg

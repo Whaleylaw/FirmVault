@@ -1,0 +1,82 @@
+---
+template_id: draft-complaint
+# This template's landmark is litigation_commenced's downstream
+# companion — producing the draft does NOT satisfy complaint_filed
+# (that's the next task). The draft itself is not a PHASE_DAG
+# landmark, but the materializer wires this as a dependency of
+# file-complaint, so we tag the next-landmark-in-chain for routing.
+landmark: complaint_filed
+phase: phase_7_litigation
+skill: complaint-drafting
+priority: high
+auto: false
+review: true
+
+task_id_template: "{case_slug}-draft-complaint"
+discriminator: null
+
+emit_when: |
+  case.frontmatter.litigation_decision_date is not null
+  and not case.has_document("complaint-draft")
+
+success_check: |
+  case.has_document("complaint-draft")
+
+inputs:
+  case_file: "cases/{case_slug}/{case_slug}.md"
+  # Worker selects the correct template from these four via the
+  # decision tree in complaint-drafting/references/decision-tree.md.
+  template_options:
+    - "Templates/mva-complaint-standard.docx"
+    - "Templates/mva-complaint-basic.docx"
+    - "Templates/mva-complaint-um.docx"
+    - "Templates/premise-liability-complaint-template.docx"
+  output_path: "cases/{case_slug}/documents/legal-filings/complaint-draft.docx"
+
+depends_on:
+  - "{case_slug}-commence-litigation"
+
+body: |
+  ## Task: Draft complaint for filing
+
+  **Case:** [[cases/{{case_slug}}/{{case_slug}}|{{client_name}}]]
+  **Case type:** {{case_type}}
+  **Jurisdiction:** {{jurisdiction}}
+  **Phase:** Litigation
+
+  Use the `complaint-drafting` skill. Pick the firm template per the
+  decision table in `Skills/complaint-drafting/SKILL.md`:
+
+  | Case shape | Template |
+  |---|---|
+  | Standard MVA, adequate BI coverage | `Templates/mva-complaint-standard.docx` |
+  | Simple MVA | `Templates/mva-complaint-basic.docx` |
+  | MVA with UM/UIM against client's own carrier | `Templates/mva-complaint-um.docx` |
+  | Premises liability | `Templates/premise-liability-complaint-template.docx` |
+
+  If no template fits (bad faith, employer vicarious liability, gov
+  defendant), start from `mva-complaint-standard.docx` and add counts by
+  hand per `Skills/complaint-drafting/references/cause-action-templates.md`.
+  Flag the non-standard draft in the activity log.
+
+  Worker steps:
+
+  1. Read `cases/{{case_slug}}/{{case_slug}}.md` for client name, DOI,
+     jurisdiction, case type, and any linked contact stubs under
+     `cases/{{case_slug}}/contacts/` for defendant identities and
+     last-known addresses.
+  2. Copy the chosen template to
+     `cases/{{case_slug}}/documents/legal-filings/complaint-draft.docx`.
+     **Never edit the source in `Templates/`.**
+  3. Fill the template sections: venue county, parties and addresses,
+     factual narrative (from case file), injuries (from medical
+     summary), negligent acts, damages, jury demand. Follow the caption
+     format in `Skills/complaint-drafting/references/caption-format.md`.
+  4. Log a drafting event at
+     `cases/{{case_slug}}/Activity Log/<YYYY-MM-DD-HHMM>-legal.md` with
+     a wikilink to the draft and a note of which template was used.
+  5. Post `status:needs_review` summarizing: template chosen, count of
+     causes of action, parties named, venue, and any flagged weaknesses.
+
+  **Do NOT** set `complaint_file_date` or `case_number` — those belong
+  to the downstream `file-complaint` task, not the drafter.

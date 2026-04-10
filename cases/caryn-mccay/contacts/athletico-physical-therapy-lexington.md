@@ -1,11 +1,18 @@
 ---
 schema_version: 2
+case_number: 2023-07-30-MVA-001
+tags: [contact/medical-provider/doctor]
 directory_id: 4173288f-1815-456b-b1e5-5d6299af820b
 master_card: "[[Contacts/Medical/athletico-physical-therapy-lexington]]"
-case_number: 2023-07-30-MVA-001
 case_link: "[[cases/caryn-mccay/caryn-mccay]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: true
+records_received: false
+bills_requested: true
+bills_received: false
+treatment_status: No Records Found
+records_requested_date: "2023-11-21"
+bills_requested_date: "2023-11-21"
 ---
 
 # Athletico Physical Therapy - Lexington

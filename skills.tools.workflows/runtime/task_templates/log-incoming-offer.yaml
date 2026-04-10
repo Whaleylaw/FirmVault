@@ -1,0 +1,85 @@
+---
+template_id: log-incoming-offer
+landmark: initial_offer_received
+phase: phase_4_negotiation
+skill: offer-tracking
+priority: high
+auto: false
+# Logging is mostly mechanical but the first offer on a case is high-signal
+# and we want a human glance before it kicks off the evaluate/counter chain.
+# Always review for now; may relax to auto after the materializer has been
+# running for a while and the skill's extraction is proven reliable.
+review: true
+
+# Discriminator is carrier + round. Each new offer from the same carrier is
+# a new task. Round is the offer round as tracked on the claim file.
+task_id_template: "{case_slug}-log-offer-{discriminator}"
+discriminator: per_carrier_round
+
+# This template is NOT emitted by the normal landmark-gap loop — the
+# existence of an unlogged offer is external information the materializer
+# can't discover from the vault on its own. It is emitted when:
+#   (a) a human raises the `offer-received` frontmatter flag on the case, or
+#   (b) an intake worker (email parser, fax handler) sets
+#       `case.frontmatter.offer_pending_log: "<carrier-slug>:<round>"`.
+# The materializer reads that flag and emits this template, then clears
+# the flag once the task closes.
+emit_when: |
+  case.frontmatter.offer_pending_log is not null
+
+success_check: |
+  any(
+    o for o in case.claim(discriminator.carrier_slug).offers
+    if o.round == discriminator.round
+    and o.from == "insurance"
+    and o.logged_date
+  )
+
+inputs:
+  carrier_slug: "{discriminator.carrier_slug}"
+  round: "{discriminator.round}"
+  case_file: "cases/{case_slug}/{case_slug}.md"
+  claim_file: "cases/{case_slug}/claims/bi-{discriminator.carrier_slug}.md"
+
+depends_on: []
+
+body: |
+  ## Task: Log incoming offer from {{carrier_name}} (round {{round}})
+
+  **Case:** [[cases/{{case_slug}}/{{case_slug}}|{{client_name}}]]
+  **Carrier:** [[Contacts/Insurance/{{carrier_slug}}|{{carrier_name}}]]
+  **Claim file:** `cases/{{case_slug}}/claims/bi-{{carrier_slug}}.md`
+  **Round:** {{round}}
+  **Phase:** Negotiation
+
+  A new settlement offer has arrived from the adjuster. Use the
+  `offer-tracking` skill to append a structured entry to the claim file's
+  `offers` frontmatter list. Required fields per that skill's
+  `references/tracking-fields.md`:
+
+  - `round` — the round number (see discriminator)
+  - `type` — `initial_offer` if this is the first carrier offer on the
+    claim, otherwise `revised_offer`
+  - `from: insurance`
+  - `date` — the date the offer was communicated
+  - `amount` — dollar amount
+  - `deadline` — adjuster's response deadline if any, else `null`
+  - `conditions` — any strings / carve-outs (medicare, liens, confidentiality)
+  - `communication_method` — `letter | email | phone | fax`
+  - `adjuster_notes` — one line summarizing the adjuster's stated rationale
+  - `status: open`
+
+  After appending:
+  1. Refresh the `metrics` block on the claim file (`gap`,
+     `offer_vs_demand`, `offer_vs_limits`, `total_rounds`, `days_negotiating`).
+  2. If this is the first offer on the claim, set
+     `initial_offer_received: true` on the case file frontmatter. This is
+     what produces the `initial_offer_received` landmark.
+  3. Create an activity log entry
+     `cases/{{case_slug}}/Activity Log/<YYYY-MM-DD-HHMM>-correspondence.md`
+     with `subcategory: offer_received` summarizing how the offer arrived.
+  4. Clear `case.frontmatter.offer_pending_log` so the materializer does
+     not re-emit this task.
+
+  Review gate: attorney glances at the logged entry to confirm amount and
+  conditions before `evaluate-offer` is unlocked downstream.

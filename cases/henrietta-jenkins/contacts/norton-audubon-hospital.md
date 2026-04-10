@@ -1,11 +1,20 @@
 ---
 schema_version: 2
+case_number: 2025-05-20-MVA-001
+tags: [contact/medical-provider/doctor]
 directory_id: 2321cc92-4fea-4ff0-b6ec-4ec6816bad8a
 master_card: "[[Contacts/Medical/norton-audubon-hospital]]"
-case_number: 2025-05-20-MVA-001
 case_link: "[[cases/henrietta-jenkins/henrietta-jenkins]]"
 role: treating_provider
-tags: [contact/medical-provider/doctor]
+records_requested: true
+records_received: true
+bills_requested: true
+bills_received: true
+treatment_status: Treatment Complete
+records_requested_date: "2025-05-29"
+records_received_date: "2025-06-25"
+bills_requested_date: "2025-05-29"
+bills_received_date: "2025-06-25"
 ---
 
 # Norton Audubon Hospital
