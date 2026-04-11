@@ -32,7 +32,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 15
     env:
-      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       GITHUB_REPOSITORY: ${{ github.repository }}
 
@@ -52,10 +52,10 @@ jobs:
           npm install -g @anthropic-ai/claude-code
           claude --version
 
-      - name: Guard — refuse to run without ANTHROPIC_API_KEY
+      - name: Guard — refuse to run without OPENROUTER_API_KEY
         run: |
-          if [ -z "${ANTHROPIC_API_KEY:-}" ]; then
-            echo "::error::ANTHROPIC_API_KEY is not set. Add it as a repo secret."
+          if [ -z "${OPENROUTER_API_KEY:-}" ]; then
+            echo "::error::OPENROUTER_API_KEY is not set. Add it as a repo secret."
             exit 1
           fi
 
@@ -71,6 +71,7 @@ jobs:
           # for Read/Write/Edit/Bash/Grep/Glob. --dangerously-skip-permissions
           # is required because Actions runners have no interactive TTY.
           claude --print \
+            --model openrouter/anthropic/claude-sonnet-4-6 \
             --dangerously-skip-permissions \
             --allowedTools "Bash,Read,Grep,Glob,Edit,Write" \
             "$(cat .github/workflows/prompts/materializer.md)"

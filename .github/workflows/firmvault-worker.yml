@@ -58,7 +58,7 @@ jobs:
       # For auto-triggered runs (issues.labeled), default agent is claude-code.
       # For manual runs, use the input from workflow_dispatch.
       SELECTED_AGENT: ${{ inputs.agent || 'claude-code' }}
-      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
@@ -107,7 +107,7 @@ jobs:
           set -euo pipefail
           case "$SELECTED_AGENT" in
             claude-code)
-              [ -n "${ANTHROPIC_API_KEY:-}" ] || { echo "::error::ANTHROPIC_API_KEY missing"; exit 1; }
+              [ -n "${OPENROUTER_API_KEY:-}" ] || { echo "::error::OPENROUTER_API_KEY missing"; exit 1; }
               ;;
             codex)
               [ -n "${OPENAI_API_KEY:-}" ] || { echo "::error::OPENAI_API_KEY missing"; exit 1; }
@@ -143,6 +143,7 @@ jobs:
           case "$SELECTED_AGENT" in
             claude-code)
               claude --print \
+                --model openrouter/anthropic/claude-sonnet-4-6 \
                 --dangerously-skip-permissions \
                 --allowedTools "Bash,Read,Write,Edit,Grep,Glob" \
                 "$(cat /tmp/worker/prompt.md)"
