@@ -1,0 +1,376 @@
+[
+  {
+    "batch": 1,
+    "cases": [
+      "muhammad-alif"
+    ],
+    "est_tokens": 156573,
+    "log_count": 1108
+  },
+  {
+    "batch": 2,
+    "cases": [
+      "robin-wilder-hamilton"
+    ],
+    "est_tokens": 128409,
+    "log_count": 760
+  },
+  {
+    "batch": 3,
+    "cases": [
+      "curtis-lee-justice"
+    ],
+    "est_tokens": 100345,
+    "log_count": 573
+  },
+  {
+    "batch": 4,
+    "cases": [
+      "amy-mills"
+    ],
+    "est_tokens": 71655,
+    "log_count": 738
+  },
+  {
+    "batch": 5,
+    "cases": [
+      "james-sadler"
+    ],
+    "est_tokens": 52521,
+    "log_count": 498
+  },
+  {
+    "batch": 6,
+    "cases": [
+      "caryn-mccay"
+    ],
+    "est_tokens": 45426,
+    "log_count": 469
+  },
+  {
+    "batch": 7,
+    "cases": [
+      "juanita-nicole-downs"
+    ],
+    "est_tokens": 47036,
+    "log_count": 465
+  },
+  {
+    "batch": 8,
+    "cases": [
+      "amy-stich"
+    ],
+    "est_tokens": 46331,
+    "log_count": 461
+  },
+  {
+    "batch": 9,
+    "cases": [
+      "anella-noble"
+    ],
+    "est_tokens": 42575,
+    "log_count": 443
+  },
+  {
+    "batch": 10,
+    "cases": [
+      "stevie-hawks"
+    ],
+    "est_tokens": 55603,
+    "log_count": 410
+  },
+  {
+    "batch": 11,
+    "cases": [
+      "cora-hall",
+      "greg-neltner"
+    ],
+    "est_tokens": 75207,
+    "log_count": 808
+  },
+  {
+    "batch": 12,
+    "cases": [
+      "debra-marshall",
+      "cecil-finley"
+    ],
+    "est_tokens": 74789,
+    "log_count": 773
+  },
+  {
+    "batch": 13,
+    "cases": [
+      "ashlee-williams",
+      "estate-of-betty-prince"
+    ],
+    "est_tokens": 76461,
+    "log_count": 749
+  },
+  {
+    "batch": 14,
+    "cases": [
+      "kimberly-brasher",
+      "robyn-hester"
+    ],
+    "est_tokens": 76908,
+    "log_count": 728
+  },
+  {
+    "batch": 15,
+    "cases": [
+      "julmonzhae-moore",
+      "estate-of-keith-graser"
+    ],
+    "est_tokens": 78660,
+    "log_count": 706
+  },
+  {
+    "batch": 16,
+    "cases": [
+      "timothy-ruhl",
+      "sariya-mason"
+    ],
+    "est_tokens": 65826,
+    "log_count": 669
+  },
+  {
+    "batch": 17,
+    "cases": [
+      "wayne-weber"
+    ],
+    "est_tokens": 31891,
+    "log_count": 334
+  },
+  {
+    "batch": 18,
+    "cases": [
+      "michael-johnston"
+    ],
+    "est_tokens": 57856,
+    "log_count": 328
+  },
+  {
+    "batch": 19,
+    "cases": [
+      "douglas-livers",
+      "alma-cristobal"
+    ],
+    "est_tokens": 60291,
+    "log_count": 624
+  },
+  {
+    "batch": 20,
+    "cases": [
+      "hope-renee-padgett",
+      "maryan-kassim"
+    ],
+    "est_tokens": 72416,
+    "log_count": 612
+  },
+  {
+    "batch": 21,
+    "cases": [
+      "clarence-robinson",
+      "jimmy-ferguson"
+    ],
+    "est_tokens": 71841,
+    "log_count": 573
+  },
+  {
+    "batch": 22,
+    "cases": [
+      "destiny-adkins",
+      "michael-crader"
+    ],
+    "est_tokens": 54196,
+    "log_count": 555
+  },
+  {
+    "batch": 23,
+    "cases": [
+      "jeremy-lindsey",
+      "brenda-lang"
+    ],
+    "est_tokens": 77001,
+    "log_count": 533
+  },
+  {
+    "batch": 24,
+    "cases": [
+      "frances-whitis",
+      "cecelia-neltner",
+      "robin-willis-beck"
+    ],
+    "est_tokens": 77841,
+    "log_count": 778
+  },
+  {
+    "batch": 25,
+    "cases": [
+      "estate-of-evangeline-young",
+      "charles-t-johnson",
+      "colleen-colvin"
+    ],
+    "est_tokens": 72678,
+    "log_count": 733
+  },
+  {
+    "batch": 26,
+    "cases": [
+      "daniel-w-volk",
+      "james-kiper",
+      "dana-jackson"
+    ],
+    "est_tokens": 64993,
+    "log_count": 683
+  },
+  {
+    "batch": 27,
+    "cases": [
+      "jerome-hedinger-premise",
+      "malcom-glass-jones"
+    ],
+    "est_tokens": 55453,
+    "log_count": 416
+  },
+  {
+    "batch": 28,
+    "cases": [
+      "fidel-antonio-bueso-sandoval",
+      "dewayne-ward"
+    ],
+    "est_tokens": 54303,
+    "log_count": 384
+  },
+  {
+    "batch": 29,
+    "cases": [
+      "elizabeth-lindsey",
+      "jaysha-aponte"
+    ],
+    "est_tokens": 78130,
+    "log_count": 363
+  },
+  {
+    "batch": 30,
+    "cases": [
+      "shannon-lankswert"
+    ],
+    "est_tokens": 60817,
+    "log_count": 175
+  },
+  {
+    "batch": 31,
+    "cases": [
+      "cynthia-gibson",
+      "shannon-colvin",
+      "henrietta-jenkins",
+      "abby-sitgraves"
+    ],
+    "est_tokens": 78275,
+    "log_count": 606
+  },
+  {
+    "batch": 32,
+    "cases": [
+      "jonah-price",
+      "davis-robinson",
+      "nayram-adadevoh",
+      "sean-may"
+    ],
+    "est_tokens": 74560,
+    "log_count": 449
+  },
+  {
+    "batch": 33,
+    "cases": [
+      "raymond-hunter",
+      "tina-smith",
+      "cory-stephenson",
+      "james-lanier"
+    ],
+    "est_tokens": 71093,
+    "log_count": 365
+  },
+  {
+    "batch": 34,
+    "cases": [
+      "tonya-dunn",
+      "connie-goree",
+      "deanna-jones",
+      "abigail-whaley",
+      "torrey-green"
+    ],
+    "est_tokens": 69806,
+    "log_count": 401
+  },
+  {
+    "batch": 35,
+    "cases": [
+      "leanora-brown",
+      "joseph-ott",
+      "mohamad-daud-shaheen",
+      "dakota-mccord",
+      "antonio-lopez"
+    ],
+    "est_tokens": 74207,
+    "log_count": 330
+  },
+  {
+    "batch": 36,
+    "cases": [
+      "charles-godsey",
+      "lejzane-miftari",
+      "rayshawn-wilson",
+      "michael-deshields",
+      "lindsey-dunn",
+      "lori-house",
+      "michael-ditto-jr",
+      "collie-williams-sr"
+    ],
+    "est_tokens": 78794,
+    "log_count": 400
+  },
+  {
+    "batch": 37,
+    "cases": [
+      "collieon-williams",
+      "jordan-brown",
+      "jensen-ott",
+      "aleesha-williams",
+      "michae-guyton",
+      "christopher-lanier",
+      "kdaya-austin",
+      "amanda-tackore",
+      "maia-ott",
+      "deanna-scott",
+      "diamond-williams",
+      "corey-todd",
+      "lorraine-robinson",
+      "brigido-gonzalez-martinez"
+    ],
+    "est_tokens": 79945,
+    "log_count": 448
+  },
+  {
+    "batch": 38,
+    "cases": [
+      "michael-lanier",
+      "rebecca-lanier",
+      "brandon-robinson-jr",
+      "michelle-mcelroy",
+      "forrest-muss",
+      "john-tripamer",
+      "laniaya-wilson",
+      "prince-ngabonziza",
+      "gerald-jacobs",
+      "imari-wheat",
+      "miayla-lopez",
+      "kaelin-litton",
+      "azaire-lopez",
+      "devaughnta-rice"
+    ],
+    "est_tokens": 39880,
+    "log_count": 258
+  }
+]
