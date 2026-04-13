@@ -5,7 +5,7 @@ phase: [phase_2_treatment, phase_3_demand, phase_4_negotiation]
 category: communication
 tags: [client-communication, expectations, timeline, collections, updates]
 confidence: high
-evidence_count: 22
+evidence_count: 99
 created: 2026-04-12
 updated: 2026-04-12
 related:

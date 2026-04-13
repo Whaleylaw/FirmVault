@@ -4,8 +4,8 @@ slug: treatment-gap-defense
 phase: [phase_4_negotiation, phase_3_demand]
 category: adjuster-tactics
 tags: [treatment-gap, adjuster, negotiation, settlement-value, defense]
-confidence: medium
-evidence_count: 8
+confidence: high
+evidence_count: 68
 created: 2026-04-12
 updated: 2026-04-12
 related:

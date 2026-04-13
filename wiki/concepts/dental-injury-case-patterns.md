@@ -5,7 +5,7 @@ phase: [phase_2_treatment, phase_3_demand, phase_7_litigation]
 category: medical
 tags: [dental, jaw, tmj, implant, endodontics, oral-surgery, treatment-timeline]
 confidence: medium
-evidence_count: 2
+evidence_count: 5
 created: 2026-04-12
 updated: 2026-04-12
 related:
@@ -93,3 +93,7 @@ This staged timeline means treatment may span 18+ months from accident — signi
 - [[case-phase-transitions]] — dental cases may bypass demand phase and go directly to litigation
 - [[medical-records-collection]] — dental records from multiple specialists must be collected separately
 - [[statute-of-limitations-monitoring]] — dental cases have the highest SOL risk due to extended treatment
+
+### Batch Arch 3 Evidence (6 dental injury cases from 230 archived)
+
+- 6 cases referenced dental injury patterns (dental, tooth, jaw, TMJ, oral surgery), tripling the previously documented evidence base.

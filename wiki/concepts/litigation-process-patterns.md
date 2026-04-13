@@ -5,7 +5,7 @@ phase: [phase_7_litigation]
 category: legal
 tags: [litigation, complaint, discovery, deposition, mediation, motions, trial]
 confidence: high
-evidence_count: 22
+evidence_count: 42
 created: 2026-04-12
 updated: 2026-04-12
 related:
@@ -118,3 +118,10 @@ The litigation lifecycle follows a predictable sequence:
 - [[statute-of-limitations-monitoring]] — SOL is the hard deadline for filing a complaint
 - [[attorney-review-triggers]] — all litigation decisions require attorney involvement
 - [[medical-records-collection]] — litigation requires certified records, not just copies
+
+### Batch Arch 3 Evidence (43 litigation cases from 230 archived)
+
+- 43 cases (19%) involved litigation activity — confirming that approximately 1 in 5 PI cases proceeds to litigation.
+- 23 of 43 litigation cases (53%) also had discovery activity (interrogatories, depositions).
+- 10 cases referenced trial.
+- 32 litigation cases also showed settlement activity, confirming that most litigated cases still settle rather than going to verdict.

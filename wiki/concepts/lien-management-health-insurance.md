@@ -5,7 +5,7 @@ phase: [phase_4_negotiation, phase_6_lien_resolution]
 category: financial
 tags: [lien, health-insurance, subrogation, anthem, negotiation, pre-existing]
 confidence: high
-evidence_count: 19
+evidence_count: 122
 created: 2026-04-12
 updated: 2026-04-12
 related:
@@ -72,3 +72,23 @@ Note: Government entity liens (VA, Medicare, Medicaid) follow fundamentally diff
 - [[demand-value-factors]] — the lien amount affects net recovery and settlement strategy
 - [[pre-existing-condition-separation]] — separating accident-related from pre-existing treatment
 - [[va-lien-management]] — VA liens are a distinct category requiring different handling
+
+### Batch 3 Evidence (6 additional cases)
+
+- In 5+ cases, ZipLiens was used as the standard lien verification and resolution service. ZipLiens processed Medicaid liens, Anthem/Carelon liens, and sent automated notifications when liens were processed. The firm relied on ZipLiens for lien identification, amount verification, and negotiation.
+- In a case (DOI 2/2023, KY), after settlement the Anthem lien payment of $4,664.54 was mailed by check from the firm. The lien was tracked by Anthem file number.
+- In a case (DOI 4/2023, KY), the Medicaid lien payment of $2,526.69 was mailed to Carelon (Anthem's subrogation entity). Carelon subsequently reached out for a "status update on the distribution of the settlement funds" when the payment had not been received, and the firm's ZipLiens file remained open.
+- In a case (DOI 5/2022, KY), Optum called asking for an update on lien payment after PIP was exhausted. The firm asked the analyst to send the updated lien with reduction — confirming that lien amounts are negotiated downward post-settlement.
+- In a settled case (DOI 11/2023, KY), med pay from the at-fault carrier's policy was used specifically to cover the health insurance lien: "Settled at $15,000. Need to use Med Pay from policy to cover health lien." This confirms med pay as a strategic tool for lien resolution.
+- In a multi-track case, the BI carrier specified "settled inclusive of all liens" vs "exclusive of PIP" — these settlement terms directly affect how liens are allocated in the disbursement.
+
+### Batch 5 Evidence (5 supplementary cases)
+
+- In a Medicaid case (DOI 6/2021, KY, minor child), Discovery Health Partners (MDwise/Medicaid managed care) asserted a lien. The firm faxed a "Final Health Lien Request" to Discovery Health Partners and followed up repeatedly over months (Nov 2022 through Nov 2022+). The Conduent claim number was tracked. The inability to obtain the final lien amount from Conduent/Medicaid over multiple months is a persistent pattern — in this case, repeated tasks were set to follow up with "Have we received the Final lien from Conduent? If not follow up." This demonstrates that Medicaid lien confirmation can stall settlement disbursement for months.
+- In a MVA case (DOI 2/2022, KY, litigation->settlement), Conduent (Kentucky Medicaid subrogation administrator) proactively contacted the firm multiple times requesting lien status: first via email in Aug 2025 ("We sent you a notice of our lien... kindly advise us of the status"), then by phone in Jan 2026. The lien remained unresolved 8+ months after the case moved to settlement phase. This confirms that Conduent actively monitors and pursues lien recovery on settled cases, and prolonged non-response creates compliance risk.
+
+### Batch Arch 3 Evidence (131 lien cases from 230 archived)
+
+- 131 cases (57%) had lien-related activity, making lien management one of the most common case activities.
+- 32 cases involved Medicaid liens, 32 involved Medicare liens, 18 had subrogation activity, 13 had child support liens, and 6 had VA liens.
+- 94 lien cases also showed settlement activity, confirming that lien resolution is almost always coupled with settlement.

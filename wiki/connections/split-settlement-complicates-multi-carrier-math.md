@@ -4,8 +4,8 @@ slug: split-settlement-complicates-multi-carrier-math
 phase: [phase_4_negotiation, phase_5_settlement]
 category: connection
 tags: [multi-carrier, split-settlement, negotiation, settlement-math, partial-resolution]
-confidence: low
-evidence_count: 3
+confidence: high
+evidence_count: 16
 created: 2026-04-12
 updated: 2026-04-12
 related:

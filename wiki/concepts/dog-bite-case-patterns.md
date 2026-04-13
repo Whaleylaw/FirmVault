@@ -5,7 +5,7 @@ phase: [phase_0_onboarding, phase_1_file_setup, phase_2_treatment, phase_7_litig
 category: edge-cases
 tags: [dog-bite, animal-attack, homeowners-insurance, minor-client, guardian, property-owner, liability-investigation]
 confidence: low
-evidence_count: 2
+evidence_count: 3
 created: 2026-04-12
 updated: 2026-04-12
 related:

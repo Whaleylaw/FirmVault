@@ -4,8 +4,8 @@ slug: coverage-denial-forces-early-litigation
 phase: [phase_1_file_setup, phase_7_litigation]
 category: connection
 tags: [coverage-denial, litigation, kac, uim, alternative-recovery, early-filing]
-confidence: medium
-evidence_count: 4
+confidence: high
+evidence_count: 29
 created: 2026-04-12
 updated: 2026-04-12
 related:
@@ -69,3 +69,7 @@ The result: cases that should resolve in 12-18 months instead take 4+ years. Cli
 - [[uim-claim-management]] — the UIM alternative recovery path
 - [[case-phase-transitions]] — coverage denial disrupts normal phase flow
 - [[statute-of-limitations-monitoring]] — SOL creates hard deadlines regardless of coverage status
+
+### Batch Arch 3 Evidence (41 no-coverage cases)
+
+- 41 cases showed no-coverage patterns, with a subset proceeding directly to litigation when coverage was denied but alternative recovery paths existed.

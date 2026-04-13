@@ -4,8 +4,8 @@ slug: concurrent-accident-apportionment
 phase: [phase_2_treatment, phase_3_demand, phase_4_negotiation, phase_7_litigation]
 category: edge-cases
 tags: [multiple-accidents, apportionment, causation, prior-injury, subsequent-accident]
-confidence: low
-evidence_count: 1
+confidence: medium
+evidence_count: 5
 created: 2026-04-12
 updated: 2026-04-12
 related:

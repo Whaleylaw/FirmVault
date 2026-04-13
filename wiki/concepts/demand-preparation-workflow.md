@@ -5,7 +5,7 @@ phase: [phase_3_demand]
 category: process
 tags: [demand, demand-letter, preparation, records, treatment-complete, phase-change]
 confidence: high
-evidence_count: 24
+evidence_count: 101
 created: 2026-04-12
 updated: 2026-04-12
 related:
@@ -87,9 +87,31 @@ Insurance adjusters may proactively call to check on claim status during the dem
 - Failing to follow up with the adjuster after demand is sent
 - Assuming the demand-to-settlement path is linear (client may reject the offer)
 
+### Batch 2 Evidence (21 additional cases)
+
+- In 21 cases from this batch, the demand preparation workflow followed the established pattern: treatment completion -> records/bills collection -> PIP ledger request -> demand drafting -> demand sent. The phase change to "Demand in Progress" was logged in each case.
+- In 3 cases, the firm used EvenUp (an AI demand drafting platform) to generate demand packages. The workflow was: submit case to EvenUp -> receive demand draft -> attorney reviews -> combined exhibits dumped into Filevine docs tab -> demand sent to adjuster. EvenUp was used for both BI and UIM demands.
+- In a case with a Conduent (Medicaid) lien, the demand had to be updated and re-sent after the original demand did not include the Medicaid lien records. The adjuster requested the Conduent lien documentation before making an offer, and the firm then sent an "updated demand" — confirming that incomplete lien information can trigger demand revisions.
+- In 2 cases, the demand specifically requested "policy limits" with attached medical records and narrative. This "tender limits" demand approach was used when medical specials clearly exceeded policy limits.
+- In one case, a doctor's supplemental report was obtained to link a knee surgery to the accident, then forwarded to the adjuster as demand support. The carrier subsequently tendered $100K policy limits — demonstrating that supplemental medical opinions can be decisive in high-value demands.
+- The "doesn't meet threshold" notation appeared in one case where the demand was sent but the adjuster indicated the medical specials didn't meet the carrier's evaluation threshold for the demanded amount.
+
 ## Related
 
 - [[medical-records-collection]] — records must be complete before demand
 - [[case-phase-transitions]] — demand is a formal phase change with prerequisites
 - [[attorney-review-triggers]] — attorney reviews and approves the demand
 - [[negotiation-after-demand]] — what happens after the demand is sent
+
+### Batch 3 Evidence (6 additional cases)
+
+- In 4 cases, the firm used EvenUp (AI demand generation tool) to prepare demands. In one case (DOI 6/2023), the EvenUp demand resulted in an initial offer of $21,670.50 (roughly 2x typical initial offers for comparable cases), suggesting AI-generated demands may produce higher carrier responses.
+- In a litigated case (DOI 8/2019, KY), the demand was sent via Dropbox link containing the demand package and related documents. Defense counsel acknowledged receipt the same day. This Dropbox-based demand delivery is used for large files that exceed email attachment limits.
+- In multiple cases, the demand was sent via fax AND email simultaneously to the BI adjuster, with a follow-up task "Demand Sent - Follow up with BI Adjuster" auto-created in Filevine. The standard follow-up cadence was 2 weeks post-demand.
+- In a case (DOI 1/2023, KY), the PIP carrier identified that "what PIP has paid is significantly higher than the records from the demand show" — demonstrating that PIP payment data is cross-checked against demand records by adjusters. Discrepancies between PIP logs and demand records delay the offer and damage credibility.
+
+### Batch Arch 3 Evidence (51 demand cases from 230 archived)
+
+- 51 cases had documented demand submissions, and 53 showed demand phase activity.
+- 15 cases had explicit demand review by attorney before sending.
+- The demand phase is a critical bottleneck: 114 cases had records collection activity, but only 51 progressed to demand submission.

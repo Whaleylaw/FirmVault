@@ -4,8 +4,8 @@ slug: workers-compensation-claim-patterns
 phase: [phase_1_file_setup, phase_2_treatment, phase_4_negotiation]
 category: process
 tags: [workers-comp, wc, employer, ttd, aww, adjuster-approval, workplace-injury]
-confidence: medium
-evidence_count: 4
+confidence: high
+evidence_count: 17
 created: 2026-04-12
 updated: 2026-04-12
 related:
@@ -88,3 +88,9 @@ WC cases may involve:
 - [[medical-records-collection]] — WC records collection involves the same process but with carrier authorization layer
 - [[client-frustration-escalation]] — WC clients experience the same frustration pattern, amplified by TTD payment issues
 - [[attorney-review-triggers]] — AWW disputes and defense counsel involvement require attorney review
+
+### Batch Arch 3 Evidence (16 workers comp cases from 230 archived)
+
+- 16 workers compensation cases appeared in this batch (7% of cases), with an average duration of 272 days (median 263).
+- WC cases had shorter average duration than MVA cases, but included both straightforward claims and complex dual WC/MVA or WC/PL cases.
+- 1 case had Form 110 documentation. WC cases follow fundamentally different phase transitions than PI auto accident cases.

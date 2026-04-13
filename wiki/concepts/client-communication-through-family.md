@@ -5,7 +5,7 @@ phase: [phase_0_onboarding, phase_2_treatment, phase_4_negotiation]
 category: communication
 tags: [client-communication, family, poa, spouse, phone-tag, proxy, guardian, minor]
 confidence: high
-evidence_count: 16
+evidence_count: 87
 created: 2026-04-12
 updated: 2026-04-12
 related:

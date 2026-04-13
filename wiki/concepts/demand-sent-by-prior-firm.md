@@ -5,7 +5,7 @@ phase: [phase_3_demand, phase_4_negotiation]
 category: edge-cases
 tags: [prior-counsel, demand, negotiation, case-takeover]
 confidence: low
-evidence_count: 1
+evidence_count: 4
 created: 2026-04-12
 updated: 2026-04-12
 related:

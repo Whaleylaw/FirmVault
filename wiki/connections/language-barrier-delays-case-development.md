@@ -4,8 +4,8 @@ slug: language-barrier-delays-case-development
 phase: [phase_0_onboarding, phase_1_file_setup, phase_4_negotiation]
 category: connection
 tags: [language-barrier, spanish, non-english, companion, communication, co-counsel]
-confidence: low
-evidence_count: 1
+confidence: medium
+evidence_count: 8
 created: 2026-04-12
 updated: 2026-04-12
 related:

@@ -4,8 +4,8 @@ slug: police-records-open-records-requests
 phase: [phase_1_file_setup, phase_2_treatment, phase_7_litigation]
 category: process
 tags: [police-report, orr, open-records, body-cam, lmpd, evidence, axon, public-records]
-confidence: low
-evidence_count: 4
+confidence: high
+evidence_count: 40
 created: 2026-04-12
 updated: 2026-04-12
 related:

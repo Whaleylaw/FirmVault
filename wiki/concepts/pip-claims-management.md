@@ -5,7 +5,7 @@ phase: [phase_1_file_setup, phase_2_treatment, phase_4_negotiation]
 category: financial
 tags: [pip, insurance, bills, medical-payments, ledger, kentucky]
 confidence: high
-evidence_count: 31
+evidence_count: 168
 created: 2026-04-12
 updated: 2026-04-12
 related:
@@ -83,3 +83,15 @@ Key observations from case data:
 - [[medical-bill-routing-workflow]] — the overall process for routing medical bills
 - [[pip-ledger-requests]] — specifically requesting and tracking PIP ledgers
 - [[treatment-gap-defense]] — unpaid bills and PIP delays can affect case timeline
+
+### Batch 5 Evidence (5 supplementary cases)
+
+- In a passenger MVA case (DOI 1/2022, KY), PIP was through the vehicle owner's policy (Shelter Insurance), not the client's own policy. The firm sent PIP LOR on day 2 of intake and simultaneously requested a complete PIP file copy including "copies of all records and bills received to date and an updated payment ledger." A UIM claim was also opened with the client's own carrier (Nationwide) — confirming that when the client is a passenger, PIP comes from the vehicle owner's policy while UIM comes from the client's own policy.
+- In a self-employed client's MVA case (DOI 2/2021, KY), the PIP application was complicated: the unsigned PIP app had to be resent, and the PIP carrier (Kentucky Farm Bureau) asked whether the client was "in the process of employment when MVA happened" because WC would be primary if so. The paralegal clarified the client was self-employed (doing eyelashes). The PIP carrier also delayed lost wage reimbursement, with the client calling repeatedly about not receiving lost wages. This confirms that self-employment status creates PIP processing complications for both medical bill payment and lost wages.
+- In a multi-party MVA case (DOI 7/2021, KY), the PIP was through Auto Owners Insurance with a dedicated adjuster. The firm requested PIP log repeatedly ("Have we received PIP log from Auto Owners Insurance?"). The PIP track ran in parallel with a $50K Progressive BI policy tender and a Workers' Compensation claim through Sedgwick — confirming three-track parallel management (PIP + BI + WC) on a single case.
+
+### Batch Arch 3 Evidence (174 PIP cases from 230 archived)
+
+- PIP activity appeared in 174 cases (76%) — confirming PIP management is involved in the vast majority of PI cases.
+- 60 cases involved KAC (Kentucky Assigned Claims) for PIP, representing cases where the at-fault driver had no insurance.
+- PIP and lien management co-occurred in 131 cases, confirming the tight coupling between PIP benefits and lien resolution.

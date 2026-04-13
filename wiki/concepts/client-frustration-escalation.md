@@ -5,7 +5,7 @@ phase: [phase_3_demand, phase_4_negotiation, phase_5_settlement]
 category: communication
 tags: [client-communication, frustration, missed-calls, attrition-risk, updates]
 confidence: high
-evidence_count: 21
+evidence_count: 102
 created: 2026-04-12
 updated: 2026-04-12
 related:
@@ -104,8 +104,42 @@ The escalation follows a predictable trajectory:
 - Not escalating frustrated clients to the attorney
 - Allowing the pattern to reach Stage 4 before taking action
 
+### Batch 2 Evidence (20 additional cases)
+
+- In 20 cases from this batch, client frustration patterns were observed. The most common trigger was delayed communication during the negotiation phase — clients wanting to know "what's going on with my case" after weeks/months of silence.
+- In a case (DOI 3/2024), the client explicitly complained about the 40% attorney fee and said "she's looking for a different attorney." When no one responded to this concern promptly, the client repeated the complaint 2 weeks later. The fee dispute layered on top of communication frustration nearly resulted in client attrition.
+- In a case (DOI 7/2023), the client's settlement check dispute demonstrated post-settlement frustration: the client "states her agreement was that she was to receive $30K in her pocket" but the check was for $24,900 at 40% attorney fee. The client stated "that is not the settlement statement that she signed." Post-settlement fee misunderstandings are a distinct frustration trigger.
+- In 5 cases, the "two-week follow up" task fired 95 times total across the batch, confirming the firm's automated check-in cadence. However, the sheer volume of follow-up tasks suggests some are being auto-generated without substantive contact occurring.
+- In a negotiation case, the client couldn't be reached through any channel: "no voicemail, texts don't go through, tried email which got kicked back because their email is full" — demonstrating a case where the firm wanted to communicate but literally could not reach the client.
+- In 3 cases, the insurance adjuster contacted the client directly (bypassing the firm), which created confusion and frustration. In one case, the adjuster told the client "we no longer repped her" despite the firm having declined the case — the client called upset because she didn't know about the decline.
+
+### Batch 6 Evidence (6 closing-frustration cases)
+
+- In an MVA case (DOI 9/2023, KY, closing from Negotiation), the client emailed: "Your services are no longer needed to represent me in my case. Due to my case being unresolved." This is a Stage 4 terminal action — the client has given up and is firing the firm. The key phrase "unresolved" suggests the client perceives firm inaction.
+- In a rideshare MVA case (DOI 5/2024, KY), the client's frustration reached an extraordinary level post-settlement. The client sent a detailed email challenging the firm's handling: "I am injured. I have not been compensated and clearly Lyft has admitted fault. No negotiating forms or proof of non payment have been submitted by your office to me by way of mail or email." The paralegal noted the client "has called several times regarding her settlement check — to date we have not rec'd her check and client is concerned — she said she did not know amount of her settlement." The client disputed the firm's claim that the carrier denied the claim. This pattern — client challenging the firm's account of what happened — represents a new Stage 5: active dispute over the firm's truthfulness.
+- In an MVA case (DOI 6/2025, KY, client terminated), the client left an extensive voicemail (transcribed at 300+ words) detailing: no correspondence since October, multiple attempts to call/email with no response, new firm unable to get the file transferred, medical bills in collections because the original firm told State Farm not to pay, and the client physically unable to drive 2.5 hours to the firm's office. The voicemail transcript shows the full frustration arc: confusion -> repeated attempts -> desperation -> considering "next steps" (legal action against the firm). This is the most detailed single client frustration document in the wiki.
+- In a premises case (DOI 7/2024, KY), the client called during active litigation about unrelated lien payments (Optum) that the firm was sending to opposing counsel. The paralegal communicated lien status to opposing counsel, but the client's frustration was about not understanding the post-litigation lien resolution process.
+- In an MVA case (DOI 9/2023, KY, closing), the client called in crying during her update call: "updated client, not sure what to tell her, client crying the entire phone call about her situation. Not sure how to proceed." The paralegal's uncertainty about how to handle an emotional client demonstrates a training gap — staff need guidance on emotional de-escalation.
+- In a PL case (DOI approx. 2024, KY), the client left a message requesting an update on his case and "wanted to know where we are." He did not know the date of his own injury, which complicated the case. The firm closed the case because the client could not provide basic facts needed to prosecute the claim.
+
+### Batch 7 Evidence (16 closing-frustration cases)
+
+- In 16+ cases from this batch (all closing/declined), client frustration was documented across the case lifecycle. However, a distinct pattern emerged: **frustration at closing** is qualitatively different from frustration during active representation.
+- **Client frustration at decline notification**: In one case (DOI 10/2023, KY), the client "called in saying she received radiology bills" months after the case was in negotiation. She received a denial letter from the BI carrier and asked the firm "is her claim denied?" — the firm was simultaneously moving toward closing. The client's frustration combined uncertainty about carrier denial with uncertainty about whether the firm was still working.
+- **Client frustration triggering firm termination**: In one case (DOI 10/2023, KY), the client "wants to close her case with us due to how her grand daughter has been treated, specifically by [paralegal]." The client terminated the firm not due to case outcome but due to perceived poor treatment of a family member by staff. The firm immediately closed the case and sent decline letters.
+- **Post-closing frustration**: In one premises liability case (DOI 12/2020, KY), the former client continued calling the firm for months after the Motion to Withdraw was granted and the case archived. She called about a new car accident, demonstrating that some clients do not understand the legal significance of withdrawal and expect continued service.
+- **Closing without notification**: In one MVA case (DOI 10/2023, KY, Lyft passenger), the case was closed in December but the client was not notified until April — 4 months later. The client called multiple times during that window. The attorney apologized: "We closed this file last December. [Paralegal] was supposed to have sent you a letter." The failure to timely notify the client of closing created extended unnecessary frustration.
+- **30-day contact letter before closing**: In multiple cases, the firm sent a "30-day contact letter" warning clients: "If we do not hear from you within the next thirty (30) days, we will have to respectfully decline representation." This standard letter was observed in cases where clients were unreachable for 3+ months.
+- **Client hangs up repeatedly**: In 4+ cases, the client pattern of answering the phone but immediately hanging up after the paralegal's introduction was documented. In one case, this pattern persisted for 5+ months across 10+ call attempts. The firm documented each attempt but had no effective strategy for engaging a client who answers but won't speak.
+
 ## Related
 
 - [[client-expectations-management]] — proactive management prevents this escalation
 - [[negotiation-after-demand]] — negotiation phase is when frustration peaks
 - [[attorney-review-triggers]] — frustrated clients should be escalated to attorney
+- [[chiropractor-solicitation-attorney-change]] — solicitation may exploit client frustration
+
+### Batch Arch 3 Evidence (51 frustration cases from 230 archived)
+
+- 51 cases (22%) showed documented client frustration patterns.
+- Client frustration and unreachable client patterns frequently co-occurred, creating a cycle where communication breakdown feeds frustration.

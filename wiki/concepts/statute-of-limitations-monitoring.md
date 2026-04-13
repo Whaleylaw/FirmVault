@@ -5,7 +5,7 @@ phase: [phase_4_negotiation, phase_7_litigation]
 category: legal
 tags: [sol, statute-of-limitations, deadline, compliance, risk]
 confidence: high
-evidence_count: 17
+evidence_count: 149
 created: 2026-04-12
 updated: 2026-04-12
 related:
@@ -18,6 +18,13 @@ related:
 > The statute of limitations (SOL) is the absolute deadline for filing a lawsuit. In Kentucky PI cases, this is typically 2 years from the date of accident. Approaching the SOL without resolution requires escalation to the attorney for a decision: settle at current offer, file suit, or withdraw. SOL monitoring is automated in Filevine with countdown alerts.
 
 ## Pattern
+
+### Batch 2 Evidence (10 additional cases)
+
+- In 10+ cases from this batch, automated SOL countdown alerts were observed in Filevine, firing at milestones: 180 days, 90 days, 60 days, 30 days, 20 days, 15 days, 10 days, then daily from 9 days down to 0 and past SOL (-120 days observed). In one case (DOI 12/2023), the full countdown sequence from 180 days through -120 days was visible, indicating the SOL passed without resolution — the case remained open with the SOL having expired.
+- In a case taken over from prior counsel (DOI 6/2022), the firm urgently needed the PIP ledger to "confirm SOL" — the prior firm's timeline was unclear, and the 2-year Kentucky SOL was approaching. This demonstrates that SOL verification is a critical intake step when acquiring cases from other firms.
+- In 2 cases (DOI 3/2024, DOI 12/2023), SOL alerts were still counting down at -10 days (10 days until SOL), indicating the cases were approaching SOL without settlement — creating pressure to either accept current offers or file suit.
+- The SOL countdown alerts are fully automated and appear as Filevine-generated entries in the activity log. They are not acknowledgeable — they fire regardless of case status. Strikethrough formatting (~~) indicates dismissed/acknowledged alerts.
 
 SOL monitoring follows a countdown pattern with escalation triggers:
 
@@ -66,3 +73,13 @@ Cases that are still in negotiation as the SOL approaches create high-risk situa
 
 - [[case-phase-transitions]] — SOL creates hard deadlines for phase progression
 - [[attorney-review-triggers]] — SOL approach is a mandatory attorney review trigger
+
+### Batch 5 Evidence (2 supplementary cases)
+
+- In a passenger MVA case (DOI 1/2022, KY), the full SOL countdown sequence was documented from 180 days down to -180 days past the 1/25/2024 SOL date. The case appears to have passed its 2-year SOL while still in an unresolved state — the SOL countdown alerts continued firing with strikethrough formatting as each milestone passed. Notably, the case involved PIP through Shelter Insurance (vehicle owner's policy) with medical bills still going to collections even after the SOL passed, with the client calling about unpaid bills a year after the SOL expired. This confirms that SOL expiration does not automatically close PIP or medical billing tracks — those obligations persist independently.
+- In a litigated MVA case (DOI 2/2022, KY), the case was filed as a lawsuit and subsequently moved from Litigation to Settlement phase in June 2025 — over 3 years post-accident. The litigation filing preserved the claim well before the 2-year SOL. This confirms the standard pattern of filing suit to preserve claims when pre-suit negotiation is unlikely to resolve the case.
+
+### Batch Arch 3 Evidence (71 SOL cases from 230 archived)
+
+- 71 cases (31%) had SOL-related activity, confirming that SOL monitoring is a routine part of case management for nearly a third of all cases.
+- SOL concerns co-occurred with litigation in many cases, suggesting that SOL pressure is a significant litigation trigger.

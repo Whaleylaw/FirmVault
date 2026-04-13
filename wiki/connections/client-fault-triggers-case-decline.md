@@ -4,8 +4,8 @@ slug: client-fault-triggers-case-decline
 phase: [phase_1_file_setup, phase_8_closed]
 category: connection
 tags: [liability, client-at-fault, decline, closing, police-report]
-confidence: low
-evidence_count: 2
+confidence: medium
+evidence_count: 4
 created: 2026-04-12
 updated: 2026-04-12
 related:

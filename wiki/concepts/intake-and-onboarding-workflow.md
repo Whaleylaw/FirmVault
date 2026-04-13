@@ -5,7 +5,7 @@ phase: [phase_0_onboarding, phase_1_file_setup]
 category: process
 tags: [intake, onboarding, vinesign, welcome-call, insurance-setup, providers]
 confidence: high
-evidence_count: 43
+evidence_count: 177
 created: 2026-04-12
 updated: 2026-04-12
 related:

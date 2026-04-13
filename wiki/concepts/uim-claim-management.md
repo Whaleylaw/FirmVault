@@ -4,8 +4,8 @@ slug: uim-claim-management
 phase: [phase_1_file_setup, phase_4_negotiation, phase_7_litigation]
 category: financial
 tags: [uim, underinsured-motorist, insurance, allstate, parallel-claim, consent-to-settle]
-confidence: medium
-evidence_count: 9
+confidence: high
+evidence_count: 45
 created: 2026-04-12
 updated: 2026-04-12
 related:
@@ -91,3 +91,8 @@ UIM claim management follows a parallel-track structure alongside the BI claim:
 - [[multi-carrier-negotiation]] — UIM adds another parallel claim track
 - [[litigation-process-patterns]] — UIM litigation follows standard litigation procedures
 - [[statute-of-limitations-monitoring]] — UIM claims have their own filing deadlines
+
+### Batch Arch 3 Evidence (26 UIM cases from 230 archived)
+
+- 26 cases (11%) involved UIM claims. Only 2 had documented COOTS letter activity, suggesting the COOTS letter process may be under-documented in activity logs.
+- UIM claims added a parallel insurance track in these cases, requiring separate negotiation and often separate litigation.

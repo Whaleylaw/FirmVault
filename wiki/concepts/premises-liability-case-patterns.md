@@ -4,8 +4,8 @@ slug: premises-liability-case-patterns
 phase: [phase_1_file_setup, phase_2_treatment, phase_3_demand, phase_7_litigation]
 category: process
 tags: [premises-liability, slip-and-fall, property-owner, negligence, litigation]
-confidence: medium
-evidence_count: 7
+confidence: high
+evidence_count: 31
 created: 2026-04-12
 updated: 2026-04-12
 related:
@@ -80,3 +80,8 @@ PL cases differ from auto accident cases in several key ways:
 - [[medical-records-collection]] — PL cases require certified records for litigation
 - [[expert-reports-and-evaluations]] — FCE, IME, and vocational reports are common in PL
 - [[case-phase-transitions]] — PL cases may skip demand phase and go directly to litigation
+
+### Batch Arch 3 Evidence (24 premises cases from 230 archived)
+
+- 24 cases had premises liability patterns (including 4 dedicated premises liability cases, 3 slip-and-fall, and additional MVA cases with premises elements).
+- Premises liability cases averaged 438 days — longer than the overall median, consistent with the known tendency toward litigation in PL cases.

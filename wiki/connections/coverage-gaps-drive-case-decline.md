@@ -4,8 +4,8 @@ slug: coverage-gaps-drive-case-decline
 phase: [phase_1_file_setup, phase_8_closed]
 category: connection
 tags: [coverage, decline, uninsured, um, pip, case-evaluation]
-confidence: low
-evidence_count: 3
+confidence: high
+evidence_count: 27
 created: 2026-04-12
 updated: 2026-04-12
 related:
@@ -56,3 +56,15 @@ KAC involvement (Kentucky Assigned Claims Plan) is often the first signal of a c
 - [[case-decline-and-closing-workflow]] — the decline process triggered by the gap
 - [[pip-claims-management]] — PIP is the only benefit in these cases
 - [[intake-and-onboarding-workflow]] — early coverage verification prevents wasted effort
+
+### Batch 6 Evidence (8 coverage-gap closings)
+
+- In 8 cases from this batch, coverage gaps were the primary reason for case decline:
+  - **Phantom vehicle UM denial** (2 cases, DOI 8/2024, KY): State Farm denied UM coverage because "there was no contact with the phantom vehicle and there are no disinterested witnesses." KY UM coverage requires either physical contact or a disinterested witness for phantom vehicle claims. The firm attempted to find a witness (client mentioned a potential witness) but could not secure testimony. Both cases (driver and passengers) were declined simultaneously. This is a novel coverage gap: coverage exists but is inapplicable due to the phantom vehicle rule.
+  - **Rideshare liability denial** (1 case, DOI 5/2024, KY): Lyft's insurer (State Farm) reportedly denied the claim despite the client believing Lyft had admitted fault. The firm could not obtain a denial letter from Lyft. The case stalled in negotiation with the client growing increasingly frustrated. This represents an emerging coverage gap pattern specific to rideshare/TNP accidents.
+  - **No BI/UM with PIP-only** (5 cases): Standard coverage gap pattern confirmed — at-fault driver uninsured, client lacks UM, only KAC PIP available. The time-to-decline ranged from 1 day to 14+ months, with the longer delays caused by client unreachability preventing the firm from confirming coverage status.
+
+### Batch Arch 3 Evidence (23 coverage-gap decline cases)
+
+- 23 cases had both no-coverage patterns and decline activity, confirming coverage gaps as a primary decline trigger.
+- 60 KAC cases further support this pattern — KAC involvement often indicates the absence of standard BI coverage.

@@ -4,8 +4,8 @@ slug: medicaid-lien-management
 phase: [phase_1_file_setup, phase_4_negotiation, phase_6_lien_resolution]
 category: financial
 tags: [medicaid, conduent, lien, government-lien, subrogation, anthem-medicaid]
-confidence: medium
-evidence_count: 3
+confidence: high
+evidence_count: 49
 created: 2026-04-12
 updated: 2026-04-12
 related:
@@ -72,3 +72,19 @@ The Medicaid lien lifecycle:
 - [[va-lien-management]] — another government lien with distinct handling
 - [[pip-claims-management]] — PIP payments may offset Medicaid lien obligations
 - [[kentucky-assigned-claims-process]] — KAC payments interact with Medicaid liens
+
+### Batch 4 Evidence (23 Medicaid cases)
+
+- In 23 cases from this batch, Medicaid/Conduent interactions were documented. Conduent was the most common Medicaid subrogation administrator, with cases spanning first lien letter faxing, final lien requests, and lien payment.
+- In a case (DOI 11/2022, KY), Conduent requested updated payment status months after settlement: "I just received an email from Conduent requesting an update on payment since it has been a few months." The firm then mailed check to Conduent. A second check had to be mailed when the first was not received — demonstrating that Conduent lien payment requires tracking and follow-up.
+- In a case (DOI 8/2022, KY), Conduent called "looking for lien funds" — the lien amount remained at $12,000+. The firm mailed a negotiated check for $1,250.67, confirming that Medicaid liens CAN be negotiated down significantly (from $12K+ to $1.25K, approximately 10% of the asserted amount).
+- In a case (DOI 7/2023, KY), the Medicaid lien was sent to PIP carrier with instructions to pay: "Send the Medicaid lien to PIP, Kentucky Farm Bureau with instructions to pay." This confirms that PIP carriers can pay Medicaid liens directly, reducing the firm's lien resolution burden.
+- In a case (DOI 12/2023, KY), Conduent (Medicaid subrogation analyst) sent repeated urgent requests: "SECOND REQUEST - PLEASE ANSWER TODAY CASE SETTLED - KY MEDICAID LIEN HAS NOT BEEN [paid]." The aggressive follow-up pattern from Conduent confirms they actively monitor settled cases and escalate when payment is delayed.
+- In a case (DOI 11/2023, KY), Conduent adjuster correspondence showed detailed email exchanges about lien amounts and payment timing, with the adjuster (Kristy Caldwell) maintaining consistent follow-up.
+- In 5+ cases, "First Lien Letter faxed to Conduent" was documented during file setup, confirming the standard workflow of early Medicaid lien identification.
+- The Medicaid lien amounts observed ranged from small ($73.48, $211.36) to substantial ($3,047.28, $12,000+), depending on the extent of Medicaid-covered treatment.
+
+### Batch Arch 3 Evidence (32 Medicaid lien cases from 230 archived)
+
+- 32 cases (14%) involved Medicaid liens, and 25 of those also showed settlement activity — confirming that Medicaid lien resolution is a critical step in the settlement pipeline.
+- Medicaid liens were the most common government lien type in this batch.

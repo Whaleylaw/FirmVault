@@ -4,8 +4,8 @@ slug: kentucky-assigned-claims-process
 phase: [phase_1_file_setup, phase_2_treatment, phase_4_negotiation]
 category: financial
 tags: [kac, assigned-claims, pip, uninsured, kentucky, nationwide]
-confidence: low
-evidence_count: 1
+confidence: high
+evidence_count: 50
 created: 2026-04-12
 updated: 2026-04-12
 related:
@@ -47,6 +47,13 @@ The KAC claim lifecycle:
   - The Conduent (Medicaid) lien of $20,669.08 had to be coordinated with KAC payments
   - A "Follow up on coverage" task was set repeatedly (every 1-2 weeks) tracking whether the KAC carrier had confirmed coverage
   - The KAC carrier investigated coverage status in parallel with the BI carrier's coverage investigation
+- Across 14 additional KAC cases in batch 2/3, the KAC process was confirmed as highly standardized:
+  - State Farm was the most frequently assigned KAC carrier (assigned in 8+ of the 14 cases), confirming State Farm's dominant role in KY's assigned claims pool
+  - The KAC application emails follow a standard format: "KACP: Your claim application KY[number] for control [number] has been assigned to [Carrier]"
+  - In companion cases (e.g., siblings from the same accident), each companion required a separate KAC application with a distinct control number, even when assigned to the same carrier
+  - KAC claims were typically set up within the first 2 weeks of file setup, immediately after determining that no standard PIP was available
+  - In multiple cases, the KAC carrier (State Farm) was also the PIP carrier assigned to handle medical bill payments — the firm tracked these as standard PIP claims once assigned
+  - KAC cases frequently involved Conduent/Medicaid liens running in parallel, creating a three-way coordination between KAC payments, Medicaid liens, and eventual BI settlement
 
 ## Agent Guidance
 
@@ -74,3 +81,16 @@ The KAC claim lifecycle:
 - [[pip-claims-management]] — KAC is the fallback PIP mechanism when no standard PIP is available
 - [[coverage-denial-and-litigation]] — coverage denial triggers the need for KAC
 - [[lien-management-health-insurance]] — Medicaid liens interact with KAC payments
+
+### Batch 4 Evidence (8 KAC cases)
+
+- In 8 cases from this batch, KAC claim involvement was documented. Cases with uninsured at-fault drivers triggered KAC claims through various assigned carriers.
+- In a case (DOI 12/2022, KY), the KAC claim was set up alongside standard PIP processing, with KAC bill submission tracking documented in parallel with demand preparation.
+- In a case (DOI 11/2022, KY), the KAC claim interacted with Medicaid liens: the firm coordinated PIP-paid amounts with Medicaid subrogation, ensuring that bills paid by KAC were not double-counted in the demand.
+- In multiple cases, KAC-assigned carriers included State Farm and Liberty Mutual, confirming that the KAC assignment pool includes major national carriers.
+- The pattern of KAC as a fallback when no BI coverage exists continues: cases identified at file setup as "no BI, no UM" trigger KAC filing for PIP-only coverage.
+
+### Batch Arch 3 Evidence (60 KAC cases from 230 archived)
+
+- 60 cases (26%) involved KAC claims — a much higher prevalence than previously documented, indicating that uninsured/underinsured at-fault drivers are common in the firm's case portfolio.
+- KAC cases co-occurred with PIP and no-coverage patterns, confirming KAC as the primary PIP mechanism when the at-fault driver has no insurance.

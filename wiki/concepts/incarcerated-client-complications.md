@@ -4,8 +4,8 @@ slug: incarcerated-client-complications
 phase: [phase_4_negotiation, phase_5_settlement]
 category: edge-cases
 tags: [incarcerated, jail, client-communication, settlement, unreachable, document-signing]
-confidence: low
-evidence_count: 2
+confidence: medium
+evidence_count: 6
 created: 2026-04-12
 updated: 2026-04-12
 related:
@@ -67,3 +67,7 @@ related:
 - [[negotiation-after-demand]] — incarceration during negotiation creates settlement authorization problems
 - [[client-expectations-management]] — incarcerated clients have even less visibility into case status
 - [[case-phase-transitions]] — incarceration may require pausing phase transitions until client is available
+
+### Batch Arch 3 Evidence (3 incarcerated client cases from 230 archived)
+
+- 3 cases involved incarcerated clients, increasing evidence to 6 total and upgrading confidence from low to medium.

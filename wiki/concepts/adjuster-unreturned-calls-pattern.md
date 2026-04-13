@@ -5,7 +5,7 @@ phase: [phase_4_negotiation]
 category: adjuster-tactics
 tags: [adjuster, phone-tag, missed-calls, voicemail, negotiation-stalling, communication]
 confidence: high
-evidence_count: 13
+evidence_count: 69
 created: 2026-04-12
 updated: 2026-04-12
 related:
@@ -61,3 +61,9 @@ When the firm does not return adjuster calls promptly, this may be because:
 - [[attorney-review-triggers]] — persistent adjuster calls should be escalated to the attorney
 - [[treatment-gap-defense]] — adjuster may cite non-communication as a factor
 - [[multi-carrier-multi-defendant-cases]] — multiple carriers means more calls to track
+
+### Batch 3 Evidence (5 additional cases)
+
+- In an MVA case (DOI 1/2023, KY), the PIP adjuster (Shelter Insurance) left 5+ voicemails over a 6-month period, each escalating in urgency. The final voicemails explicitly threatened file closure: "if I do not hear back from anyone from your firm, I am going to go ahead and assume to close this file." The firm had been focused on the BI/Medicare track and was not monitoring PIP adjuster outreach. The adjuster also identified specific blocking issues (need for updated Medicare lien, doctor's release) that the firm could have resolved promptly.
+- In an MVA case (DOI 7/2024, KY), the BI adjuster (Travelers) called the firm 5+ times over 2 months requesting the signed settlement release. The adjuster explained in voicemails that the PIP carrier was requesting reimbursement and could not be paid without the signed release — creating carrier-to-carrier pressure from the firm's non-response.
+- In 3 additional cases, BI adjusters followed up 2-3 times after demand to confirm receipt or request additional documentation, without receiving timely responses. The standard adjuster follow-up cadence appears to be: initial attempt, 2-week follow-up, 4-week escalation.

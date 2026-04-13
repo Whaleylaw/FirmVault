@@ -4,8 +4,8 @@ slug: child-support-lien-patterns
 phase: [phase_4_negotiation, phase_6_lien_resolution]
 category: financial
 tags: [lien, child-support, government-lien, enforcement, settlement-reduction]
-confidence: low
-evidence_count: 1
+confidence: medium
+evidence_count: 8
 created: 2026-04-12
 updated: 2026-04-12
 related:
@@ -55,3 +55,8 @@ Child support enforcement liens may have priority over other liens depending on 
 - [[lien-management-health-insurance]] — different lien type but similar distribution impact
 - [[medicaid-lien-management]] — another government lien type
 - [[va-lien-management]] — another government lien type with distinct rules
+
+### Batch Arch 3 Evidence (13 child support lien cases from 230 archived)
+
+- 13 cases (6%) had child support lien patterns — a significantly higher prevalence than the single case previously documented.
+- Child support liens appeared across multiple case types, confirming this is not a rare edge case but a routine lien management challenge.

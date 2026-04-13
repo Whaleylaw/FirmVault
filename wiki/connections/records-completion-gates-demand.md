@@ -4,8 +4,8 @@ slug: records-completion-gates-demand
 phase: [phase_2_treatment, phase_3_demand]
 category: connection
 tags: [records, demand, bottleneck, timeline, completeness]
-confidence: medium
-evidence_count: 20
+confidence: high
+evidence_count: 130
 created: 2026-04-12
 updated: 2026-04-12
 related:
@@ -56,3 +56,7 @@ Records collection is the single biggest controllable bottleneck in case lifecyc
 - [[medical-records-collection]] — the process being optimized
 - [[case-phase-transitions]] — the transitions that records completion unlocks
 - [[attorney-review-triggers]] — stalled records should trigger attorney escalation
+
+### Batch Arch 3 Evidence (114 records cases vs 51 demand cases)
+
+- 114 cases had records collection activity, but only 51 progressed to demand submission — a 45% conversion rate, confirming that records completion is the primary gate for demand preparation.

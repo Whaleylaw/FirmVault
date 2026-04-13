@@ -4,8 +4,8 @@ slug: client-frustration-drives-premature-settlement
 phase: [phase_4_negotiation, phase_5_settlement]
 category: connection
 tags: [client-communication, frustration, settlement, attrition, negotiation]
-confidence: medium
-evidence_count: 14
+confidence: high
+evidence_count: 70
 created: 2026-04-12
 updated: 2026-04-12
 related:
@@ -43,3 +43,17 @@ In Case N (premises liability estate, 5+ year litigation), the surviving spouse 
 3. Maintain 2-week check-in schedule during active negotiation
 4. When a client shows Stage 2 frustration signs, escalate to the attorney for a personal call within 24 hours
 5. Ensure all staff members know the current case status so they can answer client questions coherently
+
+### Batch 6 Evidence (5 attrition cases)
+
+- In 5 cases from this batch, client frustration directly led to case closure via client termination (attrition), not premature settlement. The attrition pattern:
+  - In an MVA case (DOI 12/2023, KY), the client emailed terminating the firm because her case was "unresolved." The case was in Treatment phase — the client perceived inaction during the records-gathering phase.
+  - In an MVA case (DOI 9/2024, KY), the client "called to say she already had someone to take the case previously." The firm had only been retained 6 days earlier — the client had dual-retained and chose the other firm.
+  - In an MVA case (DOI 11/2024, KY), the client terminated within 4 days of intake. The firm had not yet completed file setup. The email subject was "Terminate of attorney." Extremely early terminations suggest the client signed up with multiple firms simultaneously.
+  - In an MVA case (DOI 7/2024, KY), the firm discovered the client was "being represented by Morgan and Morgan" when calling the carrier for claim info. The client had never told the firm she had hired another attorney. The carrier notified the firm of the competing representation — a novel discovery pathway.
+  - In an MVA case (DOI 6/2025, KY), the client terminated after months of non-communication from the firm and retained new counsel. The new firm could not get the file transferred for weeks. This is the most severe attrition outcome observed: the client is harmed by both the lack of service AND the difficulty of transitioning away.
+- **Closing pattern**: Unlike premature settlement (where the client gets a lower recovery), attrition cases result in the client getting NO recovery from the first firm and having to restart with new counsel — a worse outcome for the client and a total loss for the firm.
+
+### Batch Arch 3 Evidence (51 frustration cases, 128 settlement cases)
+
+- Client frustration appeared in 51 cases, and settlement in 128. The overlap confirms that frustration-driven settlement pressure remains a common pattern.

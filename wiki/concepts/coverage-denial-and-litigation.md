@@ -4,8 +4,8 @@ slug: coverage-denial-and-litigation
 phase: [phase_1_file_setup, phase_4_negotiation, phase_7_litigation]
 category: edge-cases
 tags: [coverage-denial, stolen-vehicle, liability, litigation, complaint, euo]
-confidence: medium
-evidence_count: 4
+confidence: high
+evidence_count: 33
 created: 2026-04-12
 updated: 2026-04-12
 related:
@@ -90,3 +90,8 @@ Coverage denial cases have the longest observed timelines — 4+ years is common
 - [[attorney-review-triggers]] — coverage denial requires immediate attorney involvement
 - [[statute-of-limitations-monitoring]] — SOL creates hard deadline for filing regardless of coverage status
 - [[kentucky-assigned-claims-process]] — KAC is the fallback when BI coverage is denied
+
+### Batch Arch 3 Evidence (41 no-coverage cases from 230 archived)
+
+- 41 cases showed no-coverage patterns. Combined with the 60 KAC cases, coverage issues affected over 40% of all archived cases.
+- Coverage denial continues to be a primary driver of case decline and litigation, with 23 of these cases also showing decline activity.

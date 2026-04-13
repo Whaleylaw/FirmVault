@@ -4,8 +4,8 @@ slug: disputed-liability-forces-litigation
 phase: [phase_4_negotiation, phase_7_litigation]
 category: connection
 tags: [liability, dispute, litigation-trigger, complaint, negotiation-failure]
-confidence: medium
-evidence_count: 5
+confidence: high
+evidence_count: 10
 created: 2026-04-12
 updated: 2026-04-12
 related:

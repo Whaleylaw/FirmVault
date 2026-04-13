@@ -4,8 +4,8 @@ slug: treatment-gaps-affect-settlement-value
 phase: [phase_2_treatment, phase_4_negotiation]
 category: connection
 tags: [treatment-gap, settlement, adjuster, case-value, negotiation]
-confidence: low
-evidence_count: 2
+confidence: high
+evidence_count: 12
 created: 2026-04-12
 updated: 2026-04-12
 related:

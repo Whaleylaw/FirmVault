@@ -4,8 +4,8 @@ slug: expert-reports-and-evaluations
 phase: [phase_2_treatment, phase_3_demand, phase_7_litigation]
 category: medical
 tags: [fce, ime, vocational, economist, expert, evaluation, biokinetics, evenup]
-confidence: medium
-evidence_count: 7
+confidence: high
+evidence_count: 20
 created: 2026-04-12
 updated: 2026-04-12
 related:
@@ -81,3 +81,7 @@ related:
 - [[premises-liability-case-patterns]] — expert work is especially common in PL cases
 - [[litigation-process-patterns]] — expert reports are key evidence in litigation
 - [[medical-records-collection]] — experts need complete medical records to prepare their reports
+
+### Batch Arch 3 Evidence (12 expert evaluation cases from 230 archived)
+
+- 12 cases involved expert evaluations (IME, FCE, vocational), increasing the evidence base significantly.

@@ -4,8 +4,8 @@ slug: medicare-lien-management
 phase: [phase_4_negotiation, phase_6_lien_resolution]
 category: financial
 tags: [medicare, lien, government, conditional-payment, cms, msp]
-confidence: medium
-evidence_count: 3
+confidence: high
+evidence_count: 33
 created: 2026-04-12
 updated: 2026-04-12
 related:
@@ -66,3 +66,8 @@ related:
 - [[lien-management-health-insurance]] — private health insurance subrogation follows different rules
 - [[va-lien-management]] — VA liens share the government lien characteristic but use OGC process
 - [[demand-preparation-workflow]] — Medicare lien must be identified before demand is sent
+
+### Batch Arch 3 Evidence (32 Medicare lien cases from 230 archived)
+
+- 32 cases (14%) involved Medicare liens — a significantly higher prevalence than previously documented.
+- Medicare and Medicaid liens appeared at equal frequency in this batch, suggesting both federal and state healthcare programs are major lien sources.

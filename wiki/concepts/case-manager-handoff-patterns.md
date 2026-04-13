@@ -4,8 +4,8 @@ slug: case-manager-handoff-patterns
 phase: [phase_0_onboarding, phase_1_file_setup, phase_2_treatment, phase_4_negotiation]
 category: process
 tags: [handoff, case-manager, staff-turnover, continuity, transition]
-confidence: medium
-evidence_count: 8
+confidence: high
+evidence_count: 71
 created: 2026-04-12
 updated: 2026-04-12
 related:

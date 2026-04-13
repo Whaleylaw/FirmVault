@@ -4,8 +4,8 @@ slug: uninsured-motorist-pip-only-cases
 phase: [phase_1_file_setup, phase_4_negotiation]
 category: edge-cases
 tags: [uninsured, um, uim, pip, kac, coverage-gap, no-bi, kentucky-assigned-claims]
-confidence: low
-evidence_count: 2
+confidence: high
+evidence_count: 26
 created: 2026-04-12
 updated: 2026-04-12
 related:
@@ -74,3 +74,8 @@ When the accident involves multiple uninsured parties or an unknown driver (hit-
 - [[case-decline-and-closing-workflow]] — PIP-only cases are the primary decline trigger
 - [[intake-and-onboarding-workflow]] — coverage verification should happen during intake
 - [[statute-of-limitations-monitoring]] — SOL still applies even when coverage is limited
+
+### Batch Arch 3 Evidence (41 no-coverage cases from 230 archived)
+
+- 41 cases showed no-coverage patterns, with 60 cases involving KAC claims. This represents a massive increase in evidence for the PIP-only/uninsured motorist pattern.
+- The high prevalence (18% of all cases) confirms that uninsured at-fault drivers are a common scenario, not an edge case.

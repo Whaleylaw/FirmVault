@@ -4,8 +4,8 @@ slug: pre-settlement-funding-obligations
 phase: [phase_4_negotiation, phase_5_settlement]
 category: financial
 tags: [pre-settlement-funding, loans, liens, settlement-math, client-recovery]
-confidence: low
-evidence_count: 5
+confidence: high
+evidence_count: 22
 created: 2026-04-12
 updated: 2026-04-12
 related:

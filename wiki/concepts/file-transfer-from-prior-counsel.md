@@ -4,8 +4,8 @@ slug: file-transfer-from-prior-counsel
 phase: [phase_1_file_setup]
 category: process
 tags: [prior-counsel, file-transfer, onboarding, case-takeover]
-confidence: medium
-evidence_count: 3
+confidence: high
+evidence_count: 14
 created: 2026-04-12
 updated: 2026-04-12
 related:
@@ -59,3 +59,8 @@ The entire process can take 1-2 weeks even with persistent follow-up.
 
 - [[demand-sent-by-prior-firm]] — when the prior firm already sent a demand
 - [[treatment-gap-defense]] — prior counsel cases often have treatment gaps that adjusters exploit
+
+### Batch Arch 3 Evidence (14 prior counsel cases from 230 archived)
+
+- 14 cases involved prior counsel or prior attorney references, more than doubling the previously documented evidence.
+- Prior counsel cases required file transfers, demand review (if demand was already sent), and coordination with carriers who had been notified by the prior firm.

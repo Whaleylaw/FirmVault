@@ -5,7 +5,7 @@ phase: [phase_1_file_setup, phase_4_negotiation, phase_6_lien_resolution]
 category: edge-cases
 tags: [va, veterans-affairs, lien, government-lien, subrogation, federal, revenue-law-group, ogc]
 confidence: medium
-evidence_count: 2
+evidence_count: 5
 created: 2026-04-12
 updated: 2026-04-12
 related:
@@ -89,3 +89,7 @@ The VA lien lifecycle is significantly more complex and slower than private insu
 - [[government-entity-records-collection]] — detailed guide to government entity records processes
 - [[pip-claims-management]] — PIP can be used to pay VA liens directly
 - [[multi-carrier-negotiation]] — VA lien adds a third party to the BI/PIP coordination
+
+### Batch Arch 3 Evidence (6 VA lien cases from 230 archived)
+
+- 6 cases involved VA lien patterns, tripling the previously documented evidence base.

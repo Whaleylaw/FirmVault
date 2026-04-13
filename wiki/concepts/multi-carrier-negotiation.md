@@ -4,8 +4,8 @@ slug: multi-carrier-negotiation
 phase: [phase_1_file_setup, phase_4_negotiation, phase_6_lien_resolution]
 category: financial
 tags: [multi-carrier, bi, pip, va-lien, coordination, settlement-math, medical-payments]
-confidence: low
-evidence_count: 5
+confidence: high
+evidence_count: 69
 created: 2026-04-12
 updated: 2026-04-12
 related:

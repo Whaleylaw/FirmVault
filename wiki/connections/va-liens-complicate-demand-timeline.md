@@ -5,7 +5,7 @@ phase: [phase_3_demand, phase_4_negotiation]
 category: connection
 tags: [va, lien, demand, timeline, records, delay]
 confidence: medium
-evidence_count: 2
+evidence_count: 6
 created: 2026-04-12
 updated: 2026-04-12
 related:
@@ -73,3 +73,7 @@ The key insight is that **waiting for perfect VA records is often worse than pro
 - [[government-entity-records-collection]] — the slow records process
 - [[records-completion-gates-demand]] — how records delays gate the demand
 - [[multi-carrier-negotiation]] — the full multi-carrier picture
+
+### Batch Arch 3 Evidence (6 VA lien cases)
+
+- 6 cases with VA liens confirmed the timeline complication pattern.

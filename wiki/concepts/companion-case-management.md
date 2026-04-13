@@ -4,8 +4,8 @@ slug: companion-case-management
 phase: [phase_0_onboarding, phase_1_file_setup, phase_7_litigation]
 category: process
 tags: [companion, family, multiple-plaintiffs, coordination, deposition]
-confidence: medium
-evidence_count: 10
+confidence: high
+evidence_count: 49
 created: 2026-04-12
 updated: 2026-04-12
 related:
@@ -72,3 +72,16 @@ related:
 - [[intake-and-onboarding-workflow]] — companion cases are discovered during intake
 - [[client-communication-through-family]] — primary client acts as intermediary for companions
 - [[litigation-process-patterns]] — companion cases may be joined in one lawsuit
+
+### Batch 4 Evidence (11 companion cases)
+
+- In 11 cases from this batch, companion case patterns were confirmed: same-accident family members (spouses, parents/children, siblings) filed separately but coordinated through the same BI adjuster and PIP carrier.
+- In a multi-plaintiff MVA case (DOI 10/2021, KY), four vehicles were involved and one party filed in circuit court, forcing all parties into litigation. The firm updated the companion client: "your claim is taking a bit longer due to the number of parties involved and one party has filed their claim with the Hopkins County Circuit Court." Inter-counsel coordination stalled resolution for months.
+- In companion case pairs (DOI 2/2024, KY), the same adjuster handled both adult and minor settlements, offering $4,250 for each companion in a single email thread. The firm accepted for both and requested check and release simultaneously.
+- In companion case pairs (DOI 7/2023, KY), three siblings from the same accident were represented by the firm. The adjuster made offers for each sibling separately, with an adult case receiving a standard offer and a minor case receiving $500. The pattern of lower offers for minors in companion cases was consistent.
+- In companion case pairs (DOI 3/2023, KY), the companion relationship included Medicaid lien coordination: Rawlings Company called "to see if I can get an update on the status of the case you all are handling for [adult] and minor child" — confirming that health insurance subrogation companies track companion cases as a unit.
+
+### Batch Arch 3 Evidence (37 companion cases from 230 archived)
+
+- 37 cases (16%) involved companion case coordination — typically family members in the same accident.
+- 3 companion cases also involved minor settlement procedures, confirming the overlap between companion and minor settlement workflows.

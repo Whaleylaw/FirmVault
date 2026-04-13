@@ -5,7 +5,7 @@ phase: [phase_0_onboarding, phase_1_file_setup, phase_2_treatment, phase_3_deman
 category: process
 tags: [phase-change, workflow, status, case-management, filevine, litigation-trigger]
 confidence: high
-evidence_count: 42
+evidence_count: 232
 created: 2026-04-12
 updated: 2026-04-12
 related:
@@ -106,3 +106,40 @@ Observed phase transitions across cases:
 - [[attorney-review-triggers]] — certain transitions require attorney review
 - [[premises-liability-case-patterns]] — PL cases have a different phase pattern (often skipping demand)
 - [[demand-preparation-workflow]] — demand phase entry requires specific prerequisites
+
+### Batch 6 Evidence (41 closing-phase transitions)
+
+- In 41 cases from this batch, the terminal phase transition to "Closing" was documented. The closing transition was observed from multiple origin phases:
+  - File Setup -> Closing: 12 cases (coverage gap or client already represented)
+  - Treatment -> Closing: 8 cases (client unreachable, no treatment, or client terminated)
+  - Demand in Progress -> Closing: 4 cases (client unreachable, insufficient case value)
+  - Negotiation -> Closing: 5 cases (client refused offers, client fired firm, unresolved rideshare liability)
+  - Active Litigation -> Closing (via court withdrawal): 1 case (premises liability, formal motion to withdraw)
+  - Unknown/direct: 11 cases (phase change documented without clear origin)
+- **Double phase change pattern**: In 2 cases, the attorney changed the phase twice in rapid succession: Treatment -> Demand in Progress -> Closing (same day), indicating the attorney reviewed the case, momentarily advanced it, then decided to close. This suggests a quick evaluation workflow where the attorney reviews case viability at each phase gate.
+- **Post-Closing phase persistence**: In 6+ cases, SOL countdown alerts continued firing for months or years after the case was closed, generating noise in the activity logs. These automated SOL alerts (from -180 days through 0 days and beyond) are not disabled when a case moves to Closing, creating unnecessary log entries.
+- **Closing-to-Closing stall**: Several cases remained in "Closing" status for months with continued activity (SOL alerts, carrier follow-up, records requests completing). The Closing phase is not truly terminal — it represents the start of the wind-down process, not the completion of it.
+- In a minor MVA case (DOI 9/2021, KY), the complete lifecycle was observed: File Setup -> Treatment -> Demand -> Negotiation -> Settlement -> Closing. The settlement-to-closing transition was delayed by 6+ months due to minor blocked account complications (bank document requirements, guardian address verification). This confirms that the Settlement -> Closing transition can be the longest in the lifecycle for minor cases.
+
+### Batch 7 Evidence (33 closing-phase cases)
+
+- In 33 closing cases, the following closing-phase source transitions were documented:
+  - File Setup -> Closing: 12 cases (coverage gaps discovered during setup, or client unreachable from intake)
+  - Treatment -> Closing: 5 cases (client stops treating, refuses treatment, or switches attorneys)
+  - Demand in Progress -> Closing: 8 cases (liability denial, no viable claim after investigation)
+  - Negotiation -> Closing: 2 cases (carrier denial, no settlement possible)
+  - Client MIA -> Closing: 2 cases (intermediate MIA phase before formal close)
+  - Lien -> Closing: 2 cases (chiropractor solicitation, lien asserted before closing)
+  - Litigation -> Closing: 1 case (court granted Motion to Withdraw)
+  - Potential New Client -> Closing: 1 case (rapid decline, no intake completed)
+- **Closing -> Archived -> Litigation cycle**: In one premises liability case (DOI 12/2020, KY), the phase went from Closing -> Archived after the court granted the Motion to Withdraw. The case was then reopened 6 months later (Archived -> Litigation) when the attorney decided to draft and file a new complaint. The case was subsequently re-closed (Litigation -> Closing) — demonstrating a full Closing -> Archived -> Litigation -> Closing cycle on a single case.
+- **Closing -> File Setup reversal**: In one case (DOI 3/2023, KY), the case was moved to Closing, decline letters were sent, and the attorney then reversed the decision. Phase went from Closing back to File Setup, then to Treatment. This is the only observed backward-from-Closing transition that resulted in the case continuing.
+- **Treatment -> Lien -> Closing pathway**: A new phase pathway was observed in 2 companion cases where the client switched attorneys after chiropractor solicitation. The firm moved the case from Treatment to "Lien" (a distinct phase not previously documented) to preserve attorney lien rights, then to Closing. This three-step closing pathway is distinct from all other observed patterns.
+
+### Batch Arch 3 Evidence (230 archived cases, 4789 logs)
+
+- In 230 archived cases with complete lifecycles, 193 cases (84%) had documented phase changes. The most common phase transitions observed: Treatment phase (most entries), Negotiation, Settlement, File Setup, Demand in Progress, and Closing.
+- Case type distribution: 191 mva, 16 workers comp, 9 unknown, 4 premises liability, 3 slip and fall, 2 medical malpractice, 1 dog bite, 1 dual wc pl, 1 dual wc mva, 1 general pi, 1 dual premise mva.
+- Overall case duration: median 330 days, average 351 days (range 1-835 days). MVA cases averaged 352 days (median 330).
+- 128 cases (56%) showed settlement activity, 117 (51%) showed decline/closing activity, 93 (40%) had documented negotiation, and 43 (19%) involved litigation.
+- Workers comp cases averaged 272 days — shorter than MVA cases. Premises liability averaged 438 days.

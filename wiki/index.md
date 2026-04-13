@@ -1,310 +1,516 @@
 # Law Firm Wiki — Index
 
-Last compiled: 2026-04-12 | Articles: 49 | Connections: 17
+Last compiled: 2026-04-12 | Articles: 65 | Connections: 28
 
 ## By Phase
 
 ### Phase 0: Onboarding
+
 | Article | Category | Confidence | Evidence |
 |---------|----------|------------|----------|
-| [[intake-and-onboarding-workflow]] | process | high | 43 |
-| [[case-phase-transitions]] | process | high | 42 |
-| [[client-communication-through-family]] | communication | high | 14 |
-| [[case-manager-handoff-patterns]] | process | medium | 8 |
-| [[companion-case-management]] | process | medium | 10 |
-| [[unreachable-client-patterns]] | communication | medium | 9 |
-| [[dog-bite-case-patterns]] | edge-cases | low | 2 |
-| [[employer-wc-claim-obstruction]] | edge-cases | low | 1 |
-| [[workers-compensation-case-patterns]] | edge-cases | medium | 4 |
-| [[wrongful-death-case-patterns]] | edge-cases | low | 2 |
-| [[medical-malpractice-case-patterns]] | edge-cases | low | 1 |
+| [[concepts/case-lifecycle-duration-patterns]] | process | high | 228 |
+| [[concepts/case-manager-handoff-patterns]] | process | high | 71 |
+| [[concepts/case-phase-transitions]] | process | high | 232 |
+| [[concepts/client-communication-through-family]] | communication | high | 87 |
+| [[concepts/companion-case-management]] | process | high | 49 |
+| [[concepts/dog-bite-case-patterns]] | edge-cases | low | 3 |
+| [[concepts/employer-wc-claim-obstruction]] | edge-cases | low | 1 |
+| [[concepts/intake-and-onboarding-workflow]] | process | high | 177 |
+| [[connections/language-barrier-delays-case-development]] | connection | medium | 8 |
+| [[concepts/medical-malpractice-case-patterns]] | edge-cases | low | 2 |
+| [[connections/sol-emergency-skips-normal-workflow]] | connection | high | 40 |
+| [[concepts/unreachable-client-patterns]] | communication | high | 113 |
+| [[concepts/workers-compensation-case-patterns]] | edge-cases | high | 14 |
+| [[concepts/wrongful-death-case-patterns]] | edge-cases | low | 3 |
+| [[connections/wrongful-death-skips-treatment-phase]] | connection | low | 2 |
 
 ### Phase 1: File Setup
+
 | Article | Category | Confidence | Evidence |
 |---------|----------|------------|----------|
-| [[intake-and-onboarding-workflow]] | process | high | 43 |
-| [[case-phase-transitions]] | process | high | 42 |
-| [[pip-claims-management]] | financial | high | 31 |
-| [[file-transfer-from-prior-counsel]] | process | medium | 3 |
-| [[multi-carrier-multi-defendant-cases]] | process | high | 12 |
-| [[multi-carrier-negotiation]] | financial | low | 5 |
-| [[uim-claim-management]] | financial | medium | 8 |
-| [[coverage-denial-and-litigation]] | edge-cases | medium | 4 |
-| [[kentucky-assigned-claims-process]] | financial | low | 1 |
-| [[medicaid-lien-management]] | financial | medium | 3 |
-| [[va-lien-management]] | edge-cases | medium | 2 |
-| [[case-decline-and-closing-workflow]] | process | low | 3 |
-| [[case-manager-handoff-patterns]] | process | medium | 8 |
-| [[companion-case-management]] | process | medium | 10 |
-| [[unreachable-client-patterns]] | communication | medium | 9 |
-| [[police-records-open-records-requests]] | process | low | 4 |
-| [[dog-bite-case-patterns]] | edge-cases | low | 2 |
-| [[employer-commercial-vehicle-liability]] | edge-cases | low | 2 |
-| [[employer-wc-claim-obstruction]] | edge-cases | low | 1 |
-| [[premises-liability-case-patterns]] | process | medium | 6 |
-| [[workers-compensation-case-patterns]] | edge-cases | medium | 4 |
-| [[wrongful-death-case-patterns]] | edge-cases | low | 2 |
-| [[uninsured-motorist-pip-only-cases]] | edge-cases | low | 2 |
-| [[medical-malpractice-case-patterns]] | edge-cases | low | 1 |
+| [[concepts/coverage-denial-and-litigation]] | edge-cases | high | 33 |
+| [[concepts/case-decline-and-closing-workflow]] | process | high | 111 |
+| [[concepts/case-lifecycle-duration-patterns]] | process | high | 228 |
+| [[concepts/case-manager-handoff-patterns]] | process | high | 71 |
+| [[concepts/case-phase-transitions]] | process | high | 232 |
+| [[connections/client-fault-triggers-case-decline]] | connection | medium | 4 |
+| [[concepts/client-initiated-termination]] | communication | medium | 7 |
+| [[concepts/companion-case-management]] | process | high | 49 |
+| [[connections/coverage-denial-forces-early-litigation]] | connection | high | 29 |
+| [[concepts/dog-bite-case-patterns]] | edge-cases | low | 3 |
+| [[concepts/employer-wc-claim-obstruction]] | edge-cases | low | 1 |
+| [[concepts/employer-commercial-vehicle-liability]] | edge-cases | low | 2 |
+| [[concepts/file-transfer-from-prior-counsel]] | process | high | 14 |
+| [[connections/franchise-liability-complicates-pl-file-setup]] | connection | low | 2 |
+| [[concepts/gross-negligence-policy-limit-demand]] | process | medium | 5 |
+| [[connections/coverage-gaps-drive-case-decline]] | connection | high | 27 |
+| [[concepts/intake-and-onboarding-workflow]] | process | high | 177 |
+| [[concepts/kentucky-assigned-claims-process]] | financial | high | 50 |
+| [[connections/language-barrier-delays-case-development]] | connection | medium | 8 |
+| [[concepts/medicaid-lien-management]] | financial | high | 49 |
+| [[concepts/medical-malpractice-case-patterns]] | edge-cases | low | 2 |
+| [[concepts/multi-carrier-negotiation]] | financial | high | 69 |
+| [[concepts/multi-carrier-multi-defendant-cases]] | process | high | 76 |
+| [[concepts/pip-claims-management]] | financial | high | 168 |
+| [[concepts/phantom-vehicle-um-denial]] | edge-cases | medium | 3 |
+| [[concepts/police-records-open-records-requests]] | process | high | 40 |
+| [[concepts/premises-liability-case-patterns]] | process | high | 31 |
+| [[connections/premises-liability-requires-litigation-prep]] | connection | medium | 4 |
+| [[concepts/uim-claim-management]] | financial | high | 45 |
+| [[concepts/uninsured-motorist-pip-only-cases]] | edge-cases | high | 26 |
+| [[connections/unreachable-client-predicts-case-decline]] | connection | high | 64 |
+| [[concepts/unreachable-client-patterns]] | communication | high | 113 |
+| [[concepts/va-lien-management]] | edge-cases | medium | 5 |
+| [[concepts/workers-compensation-case-patterns]] | edge-cases | high | 14 |
+| [[concepts/workers-compensation-claim-patterns]] | process | high | 17 |
+| [[concepts/wrongful-death-case-patterns]] | edge-cases | low | 3 |
+| [[connections/wrongful-death-skips-treatment-phase]] | connection | low | 2 |
 
 ### Phase 2: Treatment
+
 | Article | Category | Confidence | Evidence |
 |---------|----------|------------|----------|
-| [[medical-records-collection]] | process | high | 27 |
-| [[case-phase-transitions]] | process | high | 42 |
-| [[pip-claims-management]] | financial | high | 31 |
-| [[client-expectations-management]] | communication | high | 20 |
-| [[medical-bill-collections-anxiety]] | financial | medium | 10 |
-| [[treatment-gap-defense]] | adjuster-tactics | medium | 8 |
-| [[concurrent-accident-apportionment]] | edge-cases | low | 1 |
-| [[government-entity-records-collection]] | edge-cases | low | 1 |
-| [[dental-injury-case-patterns]] | medical | medium | 2 |
-| [[kentucky-assigned-claims-process]] | financial | low | 1 |
-| [[case-manager-handoff-patterns]] | process | medium | 8 |
-| [[unreachable-client-patterns]] | communication | medium | 9 |
-| [[police-records-open-records-requests]] | process | low | 4 |
-| [[dog-bite-case-patterns]] | edge-cases | low | 2 |
-| [[expert-reports-and-evaluations]] | medical | medium | 7 |
-| [[premises-liability-case-patterns]] | process | medium | 6 |
-| [[workers-compensation-case-patterns]] | edge-cases | medium | 4 |
-| [[workers-compensation-claim-patterns]] | process | medium | 4 |
-| [[employer-wc-claim-obstruction]] | edge-cases | low | 1 |
+| [[concepts/adjuster-file-closure-threats]] | adjuster-tactics | high | 62 |
+| [[concepts/case-decline-and-closing-workflow]] | process | high | 111 |
+| [[concepts/case-lifecycle-duration-patterns]] | process | high | 228 |
+| [[concepts/case-manager-handoff-patterns]] | process | high | 71 |
+| [[concepts/case-phase-transitions]] | process | high | 232 |
+| [[concepts/chiropractor-solicitation-attorney-change]] | edge-cases | high | 10 |
+| [[connections/chiropractor-solicitation-triggers-lien-close]] | connection | medium | 2 |
+| [[concepts/client-communication-through-family]] | communication | high | 87 |
+| [[concepts/client-expectations-management]] | communication | high | 99 |
+| [[concepts/client-initiated-termination]] | communication | medium | 7 |
+| [[concepts/concurrent-accident-apportionment]] | edge-cases | medium | 5 |
+| [[concepts/dental-injury-case-patterns]] | medical | medium | 5 |
+| [[concepts/dog-bite-case-patterns]] | edge-cases | low | 3 |
+| [[concepts/employer-wc-claim-obstruction]] | edge-cases | low | 1 |
+| [[concepts/expert-reports-and-evaluations]] | medical | high | 20 |
+| [[concepts/government-entity-records-collection]] | edge-cases | low | 1 |
+| [[concepts/kentucky-assigned-claims-process]] | financial | high | 50 |
+| [[concepts/lost-wages-verification-workflow]] | process | high | 53 |
+| [[concepts/medical-bill-collections-anxiety]] | financial | high | 29 |
+| [[concepts/medical-malpractice-case-patterns]] | edge-cases | low | 2 |
+| [[concepts/medical-records-collection]] | process | high | 167 |
+| [[concepts/pip-claims-management]] | financial | high | 168 |
+| [[connections/pip-exhaustion-triggers-provider-billing-pressure]] | connection | high | 99 |
+| [[connections/pip-delays-cause-collections-anxiety]] | connection | high | 24 |
+| [[concepts/police-records-open-records-requests]] | process | high | 40 |
+| [[concepts/premises-liability-case-patterns]] | process | high | 31 |
+| [[connections/records-completion-gates-demand]] | connection | high | 130 |
+| [[connections/treatment-gaps-affect-settlement-value]] | connection | high | 12 |
+| [[connections/unreachable-client-predicts-case-decline]] | connection | high | 64 |
+| [[concepts/unreachable-client-patterns]] | communication | high | 113 |
+| [[concepts/workers-compensation-case-patterns]] | edge-cases | high | 14 |
+| [[concepts/workers-compensation-claim-patterns]] | process | high | 17 |
 
 ### Phase 3: Demand
+
 | Article | Category | Confidence | Evidence |
 |---------|----------|------------|----------|
-| [[demand-preparation-workflow]] | process | high | 21 |
-| [[case-phase-transitions]] | process | high | 42 |
-| [[attorney-review-triggers]] | process | high | 12 |
-| [[medical-records-collection]] | process | high | 27 |
-| [[demand-sent-by-prior-firm]] | edge-cases | low | 1 |
-| [[concurrent-accident-apportionment]] | edge-cases | low | 1 |
-| [[dental-injury-case-patterns]] | medical | medium | 2 |
-| [[treatment-gap-defense]] | adjuster-tactics | medium | 8 |
-| [[client-expectations-management]] | communication | high | 20 |
-| [[client-frustration-escalation]] | communication | high | 21 |
-| [[government-entity-records-collection]] | edge-cases | low | 1 |
-| [[expert-reports-and-evaluations]] | medical | medium | 7 |
-| [[premises-liability-case-patterns]] | process | medium | 6 |
+| [[concepts/adjuster-file-closure-threats]] | adjuster-tactics | high | 62 |
+| [[concepts/attorney-review-triggers]] | process | high | 86 |
+| [[concepts/case-lifecycle-duration-patterns]] | process | high | 228 |
+| [[concepts/case-phase-transitions]] | process | high | 232 |
+| [[concepts/client-expectations-management]] | communication | high | 99 |
+| [[concepts/client-frustration-escalation]] | communication | high | 102 |
+| [[concepts/concurrent-accident-apportionment]] | edge-cases | medium | 5 |
+| [[concepts/demand-preparation-workflow]] | process | high | 101 |
+| [[concepts/demand-sent-by-prior-firm]] | edge-cases | low | 4 |
+| [[concepts/dental-injury-case-patterns]] | medical | medium | 5 |
+| [[connections/disputed-liability-stalls-demand-phase]] | connection | medium | 7 |
+| [[concepts/expert-reports-and-evaluations]] | medical | high | 20 |
+| [[concepts/government-entity-records-collection]] | edge-cases | low | 1 |
+| [[concepts/gross-negligence-policy-limit-demand]] | process | medium | 5 |
+| [[concepts/lost-wages-verification-workflow]] | process | high | 53 |
+| [[concepts/medical-records-collection]] | process | high | 167 |
+| [[connections/pip-exhaustion-triggers-provider-billing-pressure]] | connection | high | 99 |
+| [[concepts/premises-liability-case-patterns]] | process | high | 31 |
+| [[connections/records-completion-gates-demand]] | connection | high | 130 |
+| [[concepts/robinson-v-bates-medical-specials-reduction]] | adjuster-tactics | medium | 3 |
+| [[concepts/treatment-gap-defense]] | adjuster-tactics | high | 68 |
+| [[connections/va-liens-complicate-demand-timeline]] | connection | medium | 6 |
 
 ### Phase 4: Negotiation
+
 | Article | Category | Confidence | Evidence |
 |---------|----------|------------|----------|
-| [[negotiation-after-demand]] | process | high | 14 |
-| [[case-phase-transitions]] | process | high | 42 |
-| [[pip-claims-management]] | financial | high | 31 |
-| [[lien-management-health-insurance]] | financial | high | 19 |
-| [[treatment-gap-defense]] | adjuster-tactics | medium | 8 |
-| [[pre-settlement-funding-obligations]] | financial | low | 5 |
-| [[statute-of-limitations-monitoring]] | legal | high | 15 |
-| [[multi-carrier-multi-defendant-cases]] | process | high | 12 |
-| [[adjuster-unreturned-calls-pattern]] | adjuster-tactics | high | 11 |
-| [[adjuster-reassignment-patterns]] | adjuster-tactics | low | 5 |
-| [[concurrent-accident-apportionment]] | edge-cases | low | 1 |
-| [[va-lien-management]] | edge-cases | medium | 2 |
-| [[multi-carrier-negotiation]] | financial | low | 5 |
-| [[uim-claim-management]] | financial | medium | 8 |
-| [[coverage-denial-and-litigation]] | edge-cases | medium | 4 |
-| [[kentucky-assigned-claims-process]] | financial | low | 1 |
-| [[medicaid-lien-management]] | financial | medium | 3 |
-| [[medicare-lien-management]] | financial | medium | 3 |
-| [[child-support-lien-patterns]] | financial | low | 1 |
-| [[client-expectations-management]] | communication | high | 20 |
-| [[client-frustration-escalation]] | communication | high | 21 |
-| [[client-communication-through-family]] | communication | high | 14 |
-| [[case-manager-handoff-patterns]] | process | medium | 8 |
-| [[demand-sent-by-prior-firm]] | edge-cases | low | 1 |
-| [[attorney-review-triggers]] | process | high | 12 |
-| [[incarcerated-client-complications]] | edge-cases | low | 2 |
-| [[government-entity-records-collection]] | edge-cases | low | 1 |
-| [[workers-compensation-claim-patterns]] | process | medium | 4 |
-| [[uninsured-motorist-pip-only-cases]] | edge-cases | low | 2 |
+| [[concepts/adjuster-file-closure-threats]] | adjuster-tactics | high | 62 |
+| [[concepts/adjuster-unreturned-calls-pattern]] | adjuster-tactics | high | 69 |
+| [[concepts/adjuster-reassignment-patterns]] | adjuster-tactics | high | 60 |
+| [[concepts/attorney-review-triggers]] | process | high | 86 |
+| [[concepts/coverage-denial-and-litigation]] | edge-cases | high | 33 |
+| [[concepts/coots-letter-and-uim-trigger]] | process | high | 12 |
+| [[concepts/case-decline-and-closing-workflow]] | process | high | 111 |
+| [[concepts/case-lifecycle-duration-patterns]] | process | high | 228 |
+| [[concepts/case-manager-handoff-patterns]] | process | high | 71 |
+| [[concepts/case-outcome-distribution]] | process | high | 230 |
+| [[concepts/case-phase-transitions]] | process | high | 232 |
+| [[concepts/child-support-lien-patterns]] | financial | medium | 8 |
+| [[concepts/client-communication-through-family]] | communication | high | 87 |
+| [[concepts/client-expectations-management]] | communication | high | 99 |
+| [[connections/client-frustration-drives-premature-settlement]] | connection | high | 70 |
+| [[concepts/client-frustration-escalation]] | communication | high | 102 |
+| [[concepts/concurrent-accident-apportionment]] | edge-cases | medium | 5 |
+| [[concepts/demand-sent-by-prior-firm]] | edge-cases | low | 4 |
+| [[connections/disputed-liability-forces-litigation]] | connection | high | 10 |
+| [[connections/disputed-liability-stalls-demand-phase]] | connection | medium | 7 |
+| [[connections/litigation-as-negotiation-leverage]] | connection | high | 33 |
+| [[concepts/government-entity-records-collection]] | edge-cases | low | 1 |
+| [[concepts/lien-management-health-insurance]] | financial | high | 122 |
+| [[concepts/incarcerated-client-complications]] | edge-cases | medium | 6 |
+| [[concepts/kentucky-assigned-claims-process]] | financial | high | 50 |
+| [[connections/language-barrier-delays-case-development]] | connection | medium | 8 |
+| [[connections/litigation-converts-to-settlement-majority]] | connection | high | 32 |
+| [[concepts/medicaid-lien-management]] | financial | high | 49 |
+| [[concepts/medical-bill-collections-anxiety]] | financial | high | 29 |
+| [[concepts/medicare-lien-management]] | financial | high | 33 |
+| [[concepts/multi-carrier-negotiation]] | financial | high | 69 |
+| [[concepts/multi-carrier-multi-defendant-cases]] | process | high | 76 |
+| [[concepts/negotiation-after-demand]] | process | high | 159 |
+| [[concepts/pip-claims-management]] | financial | high | 168 |
+| [[connections/pip-delays-cause-collections-anxiety]] | connection | high | 24 |
+| [[concepts/pre-settlement-funding-obligations]] | financial | high | 22 |
+| [[concepts/robinson-v-bates-medical-specials-reduction]] | adjuster-tactics | medium | 3 |
+| [[connections/split-settlement-complicates-multi-carrier-math]] | connection | high | 16 |
+| [[concepts/statute-of-limitations-monitoring]] | legal | high | 149 |
+| [[concepts/treatment-gap-defense]] | adjuster-tactics | high | 68 |
+| [[connections/treatment-gaps-affect-settlement-value]] | connection | high | 12 |
+| [[concepts/uim-claim-management]] | financial | high | 45 |
+| [[concepts/uninsured-motorist-pip-only-cases]] | edge-cases | high | 26 |
+| [[concepts/va-lien-management]] | edge-cases | medium | 5 |
+| [[connections/va-liens-complicate-demand-timeline]] | connection | medium | 6 |
+| [[connections/wc-settlement-uses-form-110-not-release]] | connection | low | 3 |
+| [[concepts/workers-compensation-claim-patterns]] | process | high | 17 |
 
 ### Phase 5: Settlement
+
 | Article | Category | Confidence | Evidence |
 |---------|----------|------------|----------|
-| [[pre-settlement-funding-obligations]] | financial | low | 5 |
-| [[client-frustration-escalation]] | communication | high | 21 |
-| [[incarcerated-client-complications]] | edge-cases | low | 2 |
+| [[concepts/coots-letter-and-uim-trigger]] | process | high | 12 |
+| [[concepts/case-lifecycle-duration-patterns]] | process | high | 228 |
+| [[concepts/case-outcome-distribution]] | process | high | 230 |
+| [[connections/client-frustration-drives-premature-settlement]] | connection | high | 70 |
+| [[concepts/client-frustration-escalation]] | communication | high | 102 |
+| [[concepts/incarcerated-client-complications]] | edge-cases | medium | 6 |
+| [[connections/lien-resolution-delays-disbursement]] | connection | high | 83 |
+| [[connections/litigation-converts-to-settlement-majority]] | connection | high | 32 |
+| [[concepts/minor-settlement-court-approval]] | process | high | 32 |
+| [[concepts/post-settlement-provider-disputes]] | financial | medium | 9 |
+| [[concepts/pre-settlement-funding-obligations]] | financial | high | 22 |
+| [[connections/release-delays-block-pip-reimbursement]] | connection | high | 52 |
+| [[concepts/settlement-disbursement-workflow]] | process | high | 95 |
+| [[connections/split-settlement-complicates-multi-carrier-math]] | connection | high | 16 |
+| [[connections/wc-settlement-uses-form-110-not-release]] | connection | low | 3 |
 
 ### Phase 6: Lien Resolution
+
 | Article | Category | Confidence | Evidence |
 |---------|----------|------------|----------|
-| [[lien-management-health-insurance]] | financial | high | 19 |
-| [[va-lien-management]] | edge-cases | medium | 2 |
-| [[medicaid-lien-management]] | financial | medium | 3 |
-| [[medicare-lien-management]] | financial | medium | 3 |
-| [[child-support-lien-patterns]] | financial | low | 1 |
-| [[multi-carrier-negotiation]] | financial | low | 5 |
-| [[attorney-review-triggers]] | process | high | 12 |
+| [[concepts/attorney-review-triggers]] | process | high | 86 |
+| [[concepts/child-support-lien-patterns]] | financial | medium | 8 |
+| [[concepts/lien-management-health-insurance]] | financial | high | 122 |
+| [[connections/lien-resolution-delays-disbursement]] | connection | high | 83 |
+| [[concepts/medicaid-lien-management]] | financial | high | 49 |
+| [[connections/medicaid-lien-negotiation-reduces-lien-significantly]] | connection | high | 15 |
+| [[concepts/medicare-lien-management]] | financial | high | 33 |
+| [[concepts/minor-settlement-court-approval]] | process | high | 32 |
+| [[concepts/multi-carrier-negotiation]] | financial | high | 69 |
+| [[concepts/post-settlement-provider-disputes]] | financial | medium | 9 |
+| [[connections/release-delays-block-pip-reimbursement]] | connection | high | 52 |
+| [[concepts/settlement-disbursement-workflow]] | process | high | 95 |
+| [[concepts/va-lien-management]] | edge-cases | medium | 5 |
 
 ### Phase 7: Litigation
+
 | Article | Category | Confidence | Evidence |
 |---------|----------|------------|----------|
-| [[litigation-process-patterns]] | legal | high | 22 |
-| [[statute-of-limitations-monitoring]] | legal | high | 15 |
-| [[case-phase-transitions]] | process | high | 42 |
-| [[attorney-review-triggers]] | process | high | 12 |
-| [[multi-carrier-multi-defendant-cases]] | process | high | 12 |
-| [[concurrent-accident-apportionment]] | edge-cases | low | 1 |
-| [[premises-liability-case-patterns]] | process | medium | 6 |
-| [[expert-reports-and-evaluations]] | medical | medium | 7 |
-| [[uim-claim-management]] | financial | medium | 8 |
-| [[coverage-denial-and-litigation]] | edge-cases | medium | 4 |
-| [[dental-injury-case-patterns]] | medical | medium | 2 |
-| [[companion-case-management]] | process | medium | 10 |
-| [[police-records-open-records-requests]] | process | low | 4 |
-| [[client-death-during-proceedings]] | edge-cases | low | 1 |
-| [[dog-bite-case-patterns]] | edge-cases | low | 2 |
-| [[employer-commercial-vehicle-liability]] | edge-cases | low | 2 |
-| [[workers-compensation-case-patterns]] | edge-cases | medium | 4 |
-| [[wrongful-death-case-patterns]] | edge-cases | low | 2 |
+| [[concepts/attorney-review-triggers]] | process | high | 86 |
+| [[concepts/attorney-withdrawal-in-litigation]] | legal | medium | 5 |
+| [[concepts/coverage-denial-and-litigation]] | edge-cases | high | 33 |
+| [[concepts/case-decline-and-closing-workflow]] | process | high | 111 |
+| [[concepts/case-outcome-distribution]] | process | high | 230 |
+| [[concepts/case-phase-transitions]] | process | high | 232 |
+| [[concepts/client-death-during-proceedings]] | edge-cases | low | 1 |
+| [[concepts/client-initiated-termination]] | communication | medium | 7 |
+| [[concepts/companion-case-management]] | process | high | 49 |
+| [[concepts/concurrent-accident-apportionment]] | edge-cases | medium | 5 |
+| [[connections/coverage-denial-forces-early-litigation]] | connection | high | 29 |
+| [[concepts/dental-injury-case-patterns]] | medical | medium | 5 |
+| [[connections/disputed-liability-forces-litigation]] | connection | high | 10 |
+| [[concepts/dog-bite-case-patterns]] | edge-cases | low | 3 |
+| [[concepts/employer-commercial-vehicle-liability]] | edge-cases | low | 2 |
+| [[concepts/expert-reports-and-evaluations]] | medical | high | 20 |
+| [[connections/litigation-as-negotiation-leverage]] | connection | high | 33 |
+| [[connections/franchise-liability-complicates-pl-file-setup]] | connection | low | 2 |
+| [[connections/litigation-converts-to-settlement-majority]] | connection | high | 32 |
+| [[concepts/litigation-process-patterns]] | legal | high | 42 |
+| [[connections/litigation-withdrawal-requires-court-approval]] | connection | medium | 5 |
+| [[concepts/multi-carrier-multi-defendant-cases]] | process | high | 76 |
+| [[concepts/police-records-open-records-requests]] | process | high | 40 |
+| [[concepts/premises-liability-case-patterns]] | process | high | 31 |
+| [[connections/premises-liability-requires-litigation-prep]] | connection | medium | 4 |
+| [[connections/sol-emergency-skips-normal-workflow]] | connection | high | 40 |
+| [[concepts/statute-of-limitations-monitoring]] | legal | high | 149 |
+| [[concepts/uim-claim-management]] | financial | high | 45 |
+| [[concepts/workers-compensation-case-patterns]] | edge-cases | high | 14 |
+| [[concepts/wrongful-death-case-patterns]] | edge-cases | low | 3 |
+| [[connections/wrongful-death-skips-treatment-phase]] | connection | low | 2 |
 
 ### Phase 8: Closed
+
 | Article | Category | Confidence | Evidence |
 |---------|----------|------------|----------|
-| [[case-decline-and-closing-workflow]] | process | low | 3 |
+| [[concepts/attorney-withdrawal-in-litigation]] | legal | medium | 5 |
+| [[concepts/case-decline-and-closing-workflow]] | process | high | 111 |
+| [[concepts/case-lifecycle-duration-patterns]] | process | high | 228 |
+| [[concepts/case-outcome-distribution]] | process | high | 230 |
+| [[concepts/chiropractor-solicitation-attorney-change]] | edge-cases | high | 10 |
+| [[connections/chiropractor-solicitation-triggers-lien-close]] | connection | medium | 2 |
+| [[connections/client-fault-triggers-case-decline]] | connection | medium | 4 |
+| [[concepts/client-initiated-termination]] | communication | medium | 7 |
+| [[connections/closing-triggers-review-request-antipattern]] | connection | high | 10 |
+| [[concepts/google-review-solicitation-at-close]] | tools | medium | 4 |
+| [[connections/coverage-gaps-drive-case-decline]] | connection | high | 27 |
+| [[connections/litigation-withdrawal-requires-court-approval]] | connection | medium | 5 |
+| [[concepts/phantom-vehicle-um-denial]] | edge-cases | medium | 3 |
+| [[concepts/post-closing-file-transfer-obligations]] | process | medium | 7 |
+| [[connections/premature-closing-forces-retraction]] | connection | medium | 2 |
+| [[connections/unreachable-client-predicts-case-decline]] | connection | high | 64 |
 
 ## By Category
 
 ### Process
-| Article | Phase | Confidence | Evidence |
-|---------|-------|------------|----------|
-| [[intake-and-onboarding-workflow]] | 0, 1 | high | 43 |
-| [[case-phase-transitions]] | 0-4, 7 | high | 42 |
-| [[medical-records-collection]] | 2, 3 | high | 27 |
-| [[demand-preparation-workflow]] | 3 | high | 21 |
-| [[negotiation-after-demand]] | 4 | high | 14 |
-| [[attorney-review-triggers]] | 3, 4, 6, 7 | high | 12 |
-| [[multi-carrier-multi-defendant-cases]] | 1, 4, 7 | high | 12 |
-| [[companion-case-management]] | 0, 1, 7 | medium | 10 |
-| [[case-manager-handoff-patterns]] | 0, 1, 2, 4 | medium | 8 |
-| [[premises-liability-case-patterns]] | 1, 2, 3, 7 | medium | 6 |
-| [[police-records-open-records-requests]] | 1, 2, 7 | low | 4 |
-| [[workers-compensation-claim-patterns]] | 1, 2, 4 | medium | 4 |
-| [[file-transfer-from-prior-counsel]] | 1 | medium | 3 |
-| [[case-decline-and-closing-workflow]] | 1, 8 | low | 3 |
+
+| Article | Phase | Confidence |
+|---------|-------|------------|
+| [[concepts/attorney-review-triggers]] | 3,4,6,7 | high |
+| [[concepts/coots-letter-and-uim-trigger]] | 4,5 | high |
+| [[concepts/case-decline-and-closing-workflow]] | 1,2,4,7,8 | high |
+| [[concepts/case-lifecycle-duration-patterns]] | 0,1,2,3,4,5,8 | high |
+| [[concepts/case-manager-handoff-patterns]] | 0,1,2,4 | high |
+| [[concepts/case-outcome-distribution]] | 4,5,7,8 | high |
+| [[concepts/case-phase-transitions]] | 0,1,2,3,4,7 | high |
+| [[concepts/companion-case-management]] | 0,1,7 | high |
+| [[concepts/demand-preparation-workflow]] | 3 | high |
+| [[concepts/file-transfer-from-prior-counsel]] | 1 | high |
+| [[concepts/gross-negligence-policy-limit-demand]] | 1,3 | medium |
+| [[concepts/intake-and-onboarding-workflow]] | 0,1 | high |
+| [[concepts/lost-wages-verification-workflow]] | 2,3 | high |
+| [[concepts/medical-records-collection]] | 2,3 | high |
+| [[concepts/minor-settlement-court-approval]] | 5,6 | high |
+| [[concepts/multi-carrier-multi-defendant-cases]] | 1,4,7 | high |
+| [[concepts/negotiation-after-demand]] | 4 | high |
+| [[concepts/police-records-open-records-requests]] | 1,2,7 | high |
+| [[concepts/post-closing-file-transfer-obligations]] | 8 | medium |
+| [[concepts/premises-liability-case-patterns]] | 1,2,3,7 | high |
+| [[concepts/settlement-disbursement-workflow]] | 5,6 | high |
+| [[concepts/workers-compensation-claim-patterns]] | 1,2,4 | high |
 
 ### Adjuster Tactics
-| Article | Phase | Confidence | Evidence |
-|---------|-------|------------|----------|
-| [[adjuster-unreturned-calls-pattern]] | 4 | high | 11 |
-| [[treatment-gap-defense]] | 3, 4 | medium | 8 |
-| [[adjuster-reassignment-patterns]] | 4 | low | 5 |
+
+| Article | Phase | Confidence |
+|---------|-------|------------|
+| [[concepts/adjuster-file-closure-threats]] | 2,3,4 | high |
+| [[concepts/adjuster-unreturned-calls-pattern]] | 4 | high |
+| [[concepts/adjuster-reassignment-patterns]] | 4 | high |
+| [[concepts/robinson-v-bates-medical-specials-reduction]] | 3,4 | medium |
+| [[concepts/treatment-gap-defense]] | 3,4 | high |
 
 ### Edge Cases
-| Article | Phase | Confidence | Evidence |
-|---------|-------|------------|----------|
-| [[coverage-denial-and-litigation]] | 1, 4, 7 | medium | 4 |
-| [[workers-compensation-case-patterns]] | 0, 1, 2, 7 | medium | 4 |
-| [[va-lien-management]] | 1, 4, 6 | medium | 2 |
-| [[dog-bite-case-patterns]] | 0, 1, 2, 7 | low | 2 |
-| [[employer-commercial-vehicle-liability]] | 1, 7 | low | 2 |
-| [[incarcerated-client-complications]] | 4, 5 | low | 2 |
-| [[uninsured-motorist-pip-only-cases]] | 1, 4 | low | 2 |
-| [[wrongful-death-case-patterns]] | 0, 1, 7 | low | 2 |
-| [[concurrent-accident-apportionment]] | 2, 3, 4, 7 | low | 1 |
-| [[government-entity-records-collection]] | 2, 3, 4 | low | 1 |
-| [[demand-sent-by-prior-firm]] | 3, 4 | low | 1 |
-| [[client-death-during-proceedings]] | 7 | low | 1 |
-| [[employer-wc-claim-obstruction]] | 0, 1, 2 | low | 1 |
-| [[medical-malpractice-case-patterns]] | 0, 1, 2 | low | 1 |
+
+| Article | Phase | Confidence |
+|---------|-------|------------|
+| [[concepts/coverage-denial-and-litigation]] | 1,4,7 | high |
+| [[concepts/chiropractor-solicitation-attorney-change]] | 2,8 | high |
+| [[concepts/client-death-during-proceedings]] | 7 | low |
+| [[concepts/concurrent-accident-apportionment]] | 2,3,4,7 | medium |
+| [[concepts/demand-sent-by-prior-firm]] | 3,4 | low |
+| [[concepts/dog-bite-case-patterns]] | 0,1,2,7 | low |
+| [[concepts/employer-wc-claim-obstruction]] | 0,1,2 | low |
+| [[concepts/employer-commercial-vehicle-liability]] | 1,7 | low |
+| [[concepts/government-entity-records-collection]] | 2,3,4 | low |
+| [[concepts/incarcerated-client-complications]] | 4,5 | medium |
+| [[concepts/medical-malpractice-case-patterns]] | 0,1,2 | low |
+| [[concepts/phantom-vehicle-um-denial]] | 1,8 | medium |
+| [[concepts/uninsured-motorist-pip-only-cases]] | 1,4 | high |
+| [[concepts/va-lien-management]] | 1,4,6 | medium |
+| [[concepts/workers-compensation-case-patterns]] | 0,1,2,7 | high |
+| [[concepts/wrongful-death-case-patterns]] | 0,1,7 | low |
 
 ### Communication
-| Article | Phase | Confidence | Evidence |
-|---------|-------|------------|----------|
-| [[client-frustration-escalation]] | 3, 4, 5 | high | 21 |
-| [[client-expectations-management]] | 2, 3, 4 | high | 20 |
-| [[client-communication-through-family]] | 0, 2, 4 | high | 14 |
-| [[unreachable-client-patterns]] | 0, 1, 2 | medium | 9 |
+
+| Article | Phase | Confidence |
+|---------|-------|------------|
+| [[concepts/client-communication-through-family]] | 0,2,4 | high |
+| [[concepts/client-expectations-management]] | 2,3,4 | high |
+| [[concepts/client-frustration-escalation]] | 3,4,5 | high |
+| [[concepts/client-initiated-termination]] | 1,2,7,8 | medium |
+| [[concepts/unreachable-client-patterns]] | 0,1,2 | high |
 
 ### Financial
-| Article | Phase | Confidence | Evidence |
-|---------|-------|------------|----------|
-| [[pip-claims-management]] | 1, 2, 4 | high | 31 |
-| [[lien-management-health-insurance]] | 4, 6 | high | 19 |
-| [[medical-bill-collections-anxiety]] | 2, 4 | medium | 10 |
-| [[uim-claim-management]] | 1, 4, 7 | medium | 8 |
-| [[multi-carrier-negotiation]] | 1, 4, 6 | low | 5 |
-| [[pre-settlement-funding-obligations]] | 4, 5 | low | 5 |
-| [[medicaid-lien-management]] | 1, 4, 6 | medium | 3 |
-| [[medicare-lien-management]] | 4, 6 | medium | 3 |
-| [[kentucky-assigned-claims-process]] | 1, 2, 4 | low | 1 |
-| [[child-support-lien-patterns]] | 4, 6 | low | 1 |
 
-### Legal
-| Article | Phase | Confidence | Evidence |
-|---------|-------|------------|----------|
-| [[litigation-process-patterns]] | 7 | high | 22 |
-| [[statute-of-limitations-monitoring]] | 4, 7 | high | 15 |
+| Article | Phase | Confidence |
+|---------|-------|------------|
+| [[concepts/child-support-lien-patterns]] | 4,6 | medium |
+| [[concepts/lien-management-health-insurance]] | 4,6 | high |
+| [[concepts/kentucky-assigned-claims-process]] | 1,2,4 | high |
+| [[concepts/medicaid-lien-management]] | 1,4,6 | high |
+| [[concepts/medical-bill-collections-anxiety]] | 2,4 | high |
+| [[concepts/medicare-lien-management]] | 4,6 | high |
+| [[concepts/multi-carrier-negotiation]] | 1,4,6 | high |
+| [[concepts/pip-claims-management]] | 1,2,4 | high |
+| [[concepts/post-settlement-provider-disputes]] | 5,6 | medium |
+| [[concepts/pre-settlement-funding-obligations]] | 4,5 | high |
+| [[concepts/uim-claim-management]] | 1,4,7 | high |
 
 ### Medical
-| Article | Phase | Confidence | Evidence |
-|---------|-------|------------|----------|
-| [[expert-reports-and-evaluations]] | 2, 3, 7 | medium | 7 |
-| [[dental-injury-case-patterns]] | 2, 3, 7 | medium | 2 |
 
-## Connections
+| Article | Phase | Confidence |
+|---------|-------|------------|
+| [[concepts/dental-injury-case-patterns]] | 2,3,7 | medium |
+| [[concepts/expert-reports-and-evaluations]] | 2,3,7 | high |
 
-| Article | Connects | Confidence | Evidence |
-|---------|----------|------------|----------|
-| [[records-completion-gates-demand]] | medical-records-collection + case-phase-transitions + attorney-review-triggers | medium | 14 |
-| [[client-frustration-drives-premature-settlement]] | client-frustration-escalation + client-expectations-management + negotiation-after-demand | medium | 14 |
-| [[litigation-as-negotiation-leverage]] | case-phase-transitions + attorney-review-triggers + statute-of-limitations + multi-carrier | medium | 11 |
-| [[disputed-liability-forces-litigation]] | case-phase-transitions + litigation-process-patterns + statute-of-limitations | medium | 5 |
-| [[pip-delays-cause-collections-anxiety]] | pip-claims-management + medical-bill-collections-anxiety + client-expectations | medium | 5 |
-| [[coverage-denial-forces-early-litigation]] | coverage-denial-and-litigation + kentucky-assigned-claims + uim-claim-management | medium | 4 |
-| [[coverage-gaps-drive-case-decline]] | uninsured-motorist-pip-only-cases + case-decline-and-closing-workflow + pip-claims | low | 3 |
-| [[split-settlement-complicates-multi-carrier-math]] | multi-carrier-negotiation + negotiation-after-demand + case-phase-transitions | low | 3 |
-| [[treatment-gaps-affect-settlement-value]] | treatment-gap-defense + demand-value-factors + settlement-offer-evaluation | low | 2 |
-| [[va-liens-complicate-demand-timeline]] | va-lien-management + government-entity-records + records-completion-gates-demand | medium | 2 |
-| [[premises-liability-requires-litigation-prep]] | premises-liability-case-patterns + litigation-process-patterns + medical-records | low | 2 |
-| [[client-fault-triggers-case-decline]] | case-decline-and-closing-workflow + intake-and-onboarding + police-records | low | 2 |
-| [[disputed-liability-stalls-demand-phase]] | demand-preparation-workflow + disputed-liability-forces-litigation + client-frustration | low | 2 |
-| [[language-barrier-delays-case-development]] | intake-and-onboarding + companion-case-management + client-communication-through-family | low | 1 |
-| [[sol-emergency-skips-normal-workflow]] | statute-of-limitations + case-phase-transitions + file-transfer-from-prior-counsel | low | 1 |
-| [[pip-exhaustion-triggers-provider-billing-pressure]] | pip-claims-management + medical-bill-collections-anxiety + demand-preparation | medium | 3 |
-| [[wrongful-death-skips-treatment-phase]] | wrongful-death-case-patterns + case-phase-transitions + expert-reports | low | 1 |
+### Legal
+
+| Article | Phase | Confidence |
+|---------|-------|------------|
+| [[concepts/attorney-withdrawal-in-litigation]] | 7,8 | medium |
+| [[concepts/litigation-process-patterns]] | 7 | high |
+| [[concepts/statute-of-limitations-monitoring]] | 4,7 | high |
+
+### Tools
+
+| Article | Phase | Confidence |
+|---------|-------|------------|
+| [[concepts/google-review-solicitation-at-close]] | 8 | medium |
+
+### Connections
+
+| Article | Phase | Confidence |
+|---------|-------|------------|
+| [[connections/chiropractor-solicitation-triggers-lien-close]] | 2,8 | medium |
+| [[connections/client-fault-triggers-case-decline]] | 1,8 | medium |
+| [[connections/client-frustration-drives-premature-settlement]] | 4,5 | high |
+| [[connections/closing-triggers-review-request-antipattern]] | 8 | high |
+| [[connections/coverage-denial-forces-early-litigation]] | 1,7 | high |
+| [[connections/disputed-liability-forces-litigation]] | 4,7 | high |
+| [[connections/disputed-liability-stalls-demand-phase]] | 3,4 | medium |
+| [[connections/litigation-as-negotiation-leverage]] | 4,7 | high |
+| [[connections/franchise-liability-complicates-pl-file-setup]] | 1,7 | low |
+| [[connections/coverage-gaps-drive-case-decline]] | 1,8 | high |
+| [[connections/language-barrier-delays-case-development]] | 0,1,4 | medium |
+| [[connections/lien-resolution-delays-disbursement]] | 5,6 | high |
+| [[connections/litigation-converts-to-settlement-majority]] | 4,5,7 | high |
+| [[connections/litigation-withdrawal-requires-court-approval]] | 7,8 | medium |
+| [[connections/medicaid-lien-negotiation-reduces-lien-significantly]] | 6 | high |
+| [[connections/pip-exhaustion-triggers-provider-billing-pressure]] | 2,3 | high |
+| [[connections/pip-delays-cause-collections-anxiety]] | 2,4 | high |
+| [[connections/premature-closing-forces-retraction]] | 8 | medium |
+| [[connections/premises-liability-requires-litigation-prep]] | 1,7 | medium |
+| [[connections/records-completion-gates-demand]] | 2,3 | high |
+| [[connections/release-delays-block-pip-reimbursement]] | 5,6 | high |
+| [[connections/sol-emergency-skips-normal-workflow]] | 0,7 | high |
+| [[connections/split-settlement-complicates-multi-carrier-math]] | 4,5 | high |
+| [[connections/treatment-gaps-affect-settlement-value]] | 2,4 | high |
+| [[connections/unreachable-client-predicts-case-decline]] | 1,2,8 | high |
+| [[connections/va-liens-complicate-demand-timeline]] | 3,4 | medium |
+| [[connections/wc-settlement-uses-form-110-not-release]] | 4,5 | low |
+| [[connections/wrongful-death-skips-treatment-phase]] | 0,1,7 | low |
 
 ## Recent Updates
 
 | Date | Article | Action |
 |------|---------|--------|
-| 2026-04-12 | intake-and-onboarding-workflow | updated (evidence_count: 32->49, batch 8: 17 small cases) |
-| 2026-04-12 | case-phase-transitions | updated (evidence_count: 37->54, batch 8) |
-| 2026-04-12 | medical-records-collection | updated (evidence_count: 24->41, batch 8) |
-| 2026-04-12 | pip-claims-management | updated (evidence_count: 27->44, batch 8) |
-| 2026-04-12 | treatment-gap-defense | updated (evidence_count: 6->8, confidence: low->medium, batch 8) |
-| 2026-04-12 | companion-case-management | updated (evidence_count: 8->11, batch 8) |
-| 2026-04-12 | demand-preparation-workflow | updated (evidence_count: 21->24, batch 8) |
-| 2026-04-12 | adjuster-unreturned-calls-pattern | updated (evidence_count: 11->13, batch 8) |
-| 2026-04-12 | statute-of-limitations-monitoring | updated (evidence_count: 15->17, batch 8) |
-| 2026-04-12 | attorney-review-triggers | updated (evidence_count: 12->14, batch 8) |
-| 2026-04-12 | intake-and-onboarding-workflow | updated (evidence_count: 38->43, final batch) |
-| 2026-04-12 | pip-claims-management | updated (evidence_count: 27->31, final batch) |
-| 2026-04-12 | coverage-denial-and-litigation | updated (evidence_count: 3->4, rapid denial at file setup) |
-| 2026-04-12 | companion-case-management | updated (evidence_count: 8->10, 4-family-member PIP pattern) |
-| 2026-04-12 | case-phase-transitions | updated (evidence_count: 37->42, final batch) |
-| 2026-04-12 | medical-records-collection | updated (evidence_count: 24->27, final batch) |
-| 2026-04-12 | unreachable-client-patterns | updated (evidence_count: 7->9, text-first-contact guidance) |
-| 2026-04-12 | police-records-open-records-requests | updated (evidence_count: 3->4, fax request pattern) |
-| 2026-04-12 | coverage-gaps-drive-case-decline | updated (evidence_count: 2->3, rapid coverage gap) |
-| 2026-04-12 | coverage-denial-forces-early-litigation | updated (evidence_count: 3->4, decline-vs-litigation path) |
-| 2026-04-12 | index.md | REBUILT from all 48 concepts + 16 connections on disk |
-
-## Knowledge Gaps
-
-The following areas need more case data to reach medium/high confidence:
-
-- **Settlement disbursement**: No cases reached completed settlement disbursement; disbursement workflow is undocumented
-- **Counter-offer exchange documentation**: Detailed back-and-forth negotiation tactics still lacking
-- **VA lien negotiation/reduction**: Unknown whether VA liens can be negotiated down
-- **KAC process resolution**: Need completed KAC claims from filing through payment
-- **UIM settlement outcomes**: Need completed UIM negotiations
-- **Dog bite case valuations**: No settlement data for comparison
-- **Workers' compensation resolution**: No WC case fully resolved
-- **Dental injury case values**: No settlement data for dental injury cases
-- **Medicare lien reduction via BCRC**: Process not yet observed
-- **Companion case settlement coordination**: How multiple settlements from same accident are finalized
-- **Government entity defendant resolution**: No completed case with government defendant
-- **Employer WC obstruction resolution**: Only one case, still in treatment
+| 2026-04-12 | [[connections/wrongful-death-skips-treatment-phase]] | created |
+| 2026-04-12 | [[concepts/wrongful-death-case-patterns]] | created |
+| 2026-04-12 | [[concepts/workers-compensation-claim-patterns]] | created |
+| 2026-04-12 | [[concepts/workers-compensation-case-patterns]] | created |
+| 2026-04-12 | [[connections/wc-settlement-uses-form-110-not-release]] | created |
+| 2026-04-12 | [[connections/va-liens-complicate-demand-timeline]] | created |
+| 2026-04-12 | [[concepts/va-lien-management]] | created |
+| 2026-04-12 | [[connections/unreachable-client-predicts-case-decline]] | created |
+| 2026-04-12 | [[concepts/unreachable-client-patterns]] | created |
+| 2026-04-12 | [[concepts/uninsured-motorist-pip-only-cases]] | created |
+| 2026-04-12 | [[concepts/uim-claim-management]] | created |
+| 2026-04-12 | [[connections/treatment-gaps-affect-settlement-value]] | created |
+| 2026-04-12 | [[concepts/treatment-gap-defense]] | created |
+| 2026-04-12 | [[concepts/statute-of-limitations-monitoring]] | created |
+| 2026-04-12 | [[connections/split-settlement-complicates-multi-carrier-math]] | created |
+| 2026-04-12 | [[connections/sol-emergency-skips-normal-workflow]] | created |
+| 2026-04-12 | [[concepts/settlement-disbursement-workflow]] | created |
+| 2026-04-12 | [[concepts/robinson-v-bates-medical-specials-reduction]] | created |
+| 2026-04-12 | [[connections/release-delays-block-pip-reimbursement]] | created |
+| 2026-04-12 | [[connections/records-completion-gates-demand]] | created |
+| 2026-04-12 | [[connections/premises-liability-requires-litigation-prep]] | created |
+| 2026-04-12 | [[concepts/premises-liability-case-patterns]] | created |
+| 2026-04-12 | [[connections/premature-closing-forces-retraction]] | created |
+| 2026-04-12 | [[concepts/pre-settlement-funding-obligations]] | created |
+| 2026-04-12 | [[concepts/post-settlement-provider-disputes]] | created |
+| 2026-04-12 | [[concepts/post-closing-file-transfer-obligations]] | created |
+| 2026-04-12 | [[concepts/police-records-open-records-requests]] | created |
+| 2026-04-12 | [[connections/pip-exhaustion-triggers-provider-billing-pressure]] | created |
+| 2026-04-12 | [[connections/pip-delays-cause-collections-anxiety]] | created |
+| 2026-04-12 | [[concepts/pip-claims-management]] | created |
+| 2026-04-12 | [[concepts/phantom-vehicle-um-denial]] | created |
+| 2026-04-12 | [[concepts/negotiation-after-demand]] | created |
+| 2026-04-12 | [[concepts/multi-carrier-negotiation]] | created |
+| 2026-04-12 | [[concepts/multi-carrier-multi-defendant-cases]] | created |
+| 2026-04-12 | [[concepts/minor-settlement-court-approval]] | created |
+| 2026-04-12 | [[concepts/medicare-lien-management]] | created |
+| 2026-04-12 | [[concepts/medical-records-collection]] | created |
+| 2026-04-12 | [[concepts/medical-malpractice-case-patterns]] | created |
+| 2026-04-12 | [[concepts/medical-bill-collections-anxiety]] | created |
+| 2026-04-12 | [[connections/medicaid-lien-negotiation-reduces-lien-significantly]] | created |
+| 2026-04-12 | [[concepts/medicaid-lien-management]] | created |
+| 2026-04-12 | [[concepts/lost-wages-verification-workflow]] | created |
+| 2026-04-12 | [[connections/litigation-withdrawal-requires-court-approval]] | created |
+| 2026-04-12 | [[concepts/litigation-process-patterns]] | created |
+| 2026-04-12 | [[connections/litigation-converts-to-settlement-majority]] | created |
+| 2026-04-12 | [[connections/litigation-as-negotiation-leverage]] | created |
+| 2026-04-12 | [[connections/lien-resolution-delays-disbursement]] | created |
+| 2026-04-12 | [[concepts/lien-management-health-insurance]] | created |
+| 2026-04-12 | [[connections/language-barrier-delays-case-development]] | created |
+| 2026-04-12 | [[concepts/kentucky-assigned-claims-process]] | created |
+| 2026-04-12 | [[concepts/intake-and-onboarding-workflow]] | created |
+| 2026-04-12 | [[concepts/incarcerated-client-complications]] | created |
+| 2026-04-12 | [[concepts/gross-negligence-policy-limit-demand]] | created |
+| 2026-04-12 | [[concepts/government-entity-records-collection]] | created |
+| 2026-04-12 | [[concepts/google-review-solicitation-at-close]] | created |
+| 2026-04-12 | [[connections/franchise-liability-complicates-pl-file-setup]] | created |
+| 2026-04-12 | [[concepts/file-transfer-from-prior-counsel]] | created |
+| 2026-04-12 | [[concepts/expert-reports-and-evaluations]] | created |
+| 2026-04-12 | [[concepts/employer-wc-claim-obstruction]] | created |
+| 2026-04-12 | [[concepts/employer-commercial-vehicle-liability]] | created |
+| 2026-04-12 | [[concepts/dog-bite-case-patterns]] | created |
+| 2026-04-12 | [[connections/disputed-liability-stalls-demand-phase]] | created |
+| 2026-04-12 | [[connections/disputed-liability-forces-litigation]] | created |
+| 2026-04-12 | [[concepts/dental-injury-case-patterns]] | created |
+| 2026-04-12 | [[concepts/demand-sent-by-prior-firm]] | created |
+| 2026-04-12 | [[concepts/demand-preparation-workflow]] | created |
+| 2026-04-12 | [[connections/coverage-gaps-drive-case-decline]] | created |
+| 2026-04-12 | [[connections/coverage-denial-forces-early-litigation]] | created |
+| 2026-04-12 | [[concepts/coverage-denial-and-litigation]] | created |
+| 2026-04-12 | [[concepts/coots-letter-and-uim-trigger]] | created |
+| 2026-04-12 | [[concepts/concurrent-accident-apportionment]] | created |
+| 2026-04-12 | [[concepts/companion-case-management]] | created |
+| 2026-04-12 | [[connections/closing-triggers-review-request-antipattern]] | created |
+| 2026-04-12 | [[concepts/client-initiated-termination]] | created |
+| 2026-04-12 | [[concepts/client-frustration-escalation]] | created |
+| 2026-04-12 | [[connections/client-frustration-drives-premature-settlement]] | created |
+| 2026-04-12 | [[connections/client-fault-triggers-case-decline]] | created |
+| 2026-04-12 | [[concepts/client-expectations-management]] | created |
+| 2026-04-12 | [[concepts/client-death-during-proceedings]] | created |
+| 2026-04-12 | [[concepts/client-communication-through-family]] | created |
+| 2026-04-12 | [[connections/chiropractor-solicitation-triggers-lien-close]] | created |
+| 2026-04-12 | [[concepts/chiropractor-solicitation-attorney-change]] | created |
+| 2026-04-12 | [[concepts/child-support-lien-patterns]] | created |
+| 2026-04-12 | [[concepts/case-phase-transitions]] | created |
+| 2026-04-12 | [[concepts/case-outcome-distribution]] | created |
+| 2026-04-12 | [[concepts/case-manager-handoff-patterns]] | created |
+| 2026-04-12 | [[concepts/case-lifecycle-duration-patterns]] | created |
+| 2026-04-12 | [[concepts/case-decline-and-closing-workflow]] | created |
+| 2026-04-12 | [[concepts/attorney-withdrawal-in-litigation]] | created |
+| 2026-04-12 | [[concepts/attorney-review-triggers]] | created |
+| 2026-04-12 | [[concepts/adjuster-unreturned-calls-pattern]] | created |
+| 2026-04-12 | [[concepts/adjuster-reassignment-patterns]] | created |
+| 2026-04-12 | [[concepts/adjuster-file-closure-threats]] | created |

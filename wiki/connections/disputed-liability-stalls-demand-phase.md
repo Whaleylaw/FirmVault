@@ -4,8 +4,8 @@ slug: disputed-liability-stalls-demand-phase
 phase: [phase_3_demand, phase_4_negotiation]
 category: connection
 tags: [disputed-liability, demand, stalemate, paralegal-uncertainty, attorney-escalation]
-confidence: low
-evidence_count: 2
+confidence: medium
+evidence_count: 7
 created: 2026-04-12
 updated: 2026-04-12
 related:

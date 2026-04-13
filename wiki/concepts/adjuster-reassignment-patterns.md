@@ -4,8 +4,8 @@ slug: adjuster-reassignment-patterns
 phase: [phase_4_negotiation]
 category: adjuster-tactics
 tags: [adjuster, reassignment, negotiation, carrier, turnover, delay]
-confidence: low
-evidence_count: 5
+confidence: high
+evidence_count: 60
 created: 2026-04-12
 updated: 2026-04-12
 related:

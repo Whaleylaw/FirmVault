@@ -4,8 +4,8 @@ slug: sol-emergency-skips-normal-workflow
 phase: [phase_0_onboarding, phase_7_litigation]
 category: connection
 tags: [sol, emergency, litigation, intake, workflow-bypass, prior-counsel-referral]
-confidence: low
-evidence_count: 1
+confidence: high
+evidence_count: 40
 created: 2026-04-12
 updated: 2026-04-12
 related:
@@ -61,3 +61,7 @@ related:
 - [[file-transfer-from-prior-counsel]] — the referral from prior counsel triggers this
 - [[litigation-process-patterns]] — the case enters litigation without normal precursors
 - [[workers-compensation-case-patterns]] — WC/BI dual-track cases are a common source of this pattern
+
+### Batch Arch 3 Evidence (71 SOL cases)
+
+- 71 cases (31%) had SOL-related activity, and many of these showed compressed timelines where SOL pressure forced accelerated case progression.

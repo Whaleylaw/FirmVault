@@ -4,8 +4,8 @@ slug: pip-exhaustion-triggers-provider-billing-pressure
 phase: [phase_2_treatment, phase_3_demand]
 category: connection
 tags: [pip, exhaustion, provider, billing, collections, balance, urgent-care]
-confidence: medium
-evidence_count: 3
+confidence: high
+evidence_count: 99
 created: 2026-04-12
 updated: 2026-04-12
 related:
@@ -51,3 +51,7 @@ This pattern is particularly common with urgent care and chiropractic providers 
 - [[pip-claims-management]] — PIP exhaustion is the trigger event
 - [[medical-bill-collections-anxiety]] — provider balance inquiries can escalate to collections if unresolved
 - [[demand-preparation-workflow]] — PIP exhaustion creates urgency to complete the demand
+
+### Batch Arch 3 Evidence (174 PIP cases)
+
+- With 174 cases showing PIP activity, the connection between PIP management and provider billing pressure is strongly confirmed across the case portfolio.

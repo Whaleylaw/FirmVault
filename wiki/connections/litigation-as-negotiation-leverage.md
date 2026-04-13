@@ -4,8 +4,8 @@ slug: litigation-as-negotiation-leverage
 phase: [phase_4_negotiation, phase_7_litigation]
 category: connection
 tags: [litigation, negotiation, leverage, low-offer, strategy, filing-suit]
-confidence: medium
-evidence_count: 11
+confidence: high
+evidence_count: 33
 created: 2026-04-12
 updated: 2026-04-12
 related:
@@ -43,3 +43,7 @@ Filing suit is not a last resort — it is a strategic tool. In cases with multi
 - [[attorney-review-triggers]] — the decision to file requires attorney judgment
 - [[statute-of-limitations-monitoring]] — filing preserves the claim regardless of negotiation outcome
 - [[multi-carrier-multi-defendant-cases]] — litigation against one creates pressure on others
+
+### Batch Arch 3 Evidence (32 litigation-settlement overlap cases)
+
+- 32 cases showed both litigation and settlement activity, confirming that filing suit frequently leads to settlement rather than trial — litigation serves as negotiation leverage.

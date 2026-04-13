@@ -5,7 +5,7 @@ phase: [phase_3_demand, phase_4_negotiation, phase_6_lien_resolution, phase_7_li
 category: process
 tags: [attorney, review, escalation, decision-point, approval, litigation-decision, ime]
 confidence: high
-evidence_count: 14
+evidence_count: 86
 created: 2026-04-12
 updated: 2026-04-12
 related:

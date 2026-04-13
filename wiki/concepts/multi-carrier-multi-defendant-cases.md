@@ -5,7 +5,7 @@ phase: [phase_1_file_setup, phase_4_negotiation, phase_7_litigation]
 category: process
 tags: [multi-defendant, multi-carrier, chain-reaction, apportionment, parallel-negotiation]
 confidence: high
-evidence_count: 14
+evidence_count: 76
 created: 2026-04-12
 updated: 2026-04-12
 related:

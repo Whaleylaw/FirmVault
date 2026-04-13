@@ -5,7 +5,7 @@ phase: [phase_0_onboarding, phase_1_file_setup, phase_7_litigation]
 category: edge-cases
 tags: [wrongful-death, estate, representative, multi-carrier, investigation, vocational-economics]
 confidence: low
-evidence_count: 2
+evidence_count: 3
 created: 2026-04-12
 updated: 2026-04-12
 related:

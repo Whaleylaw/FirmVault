@@ -4,8 +4,8 @@ slug: unreachable-client-patterns
 phase: [phase_0_onboarding, phase_1_file_setup, phase_2_treatment]
 category: communication
 tags: [client-communication, unreachable, voicemail-full, no-contact, phone-tag, text-fallback]
-confidence: medium
-evidence_count: 10
+confidence: high
+evidence_count: 113
 created: 2026-04-12
 updated: 2026-04-12
 related:
@@ -96,3 +96,39 @@ Unreachable clients often do eventually make contact, sometimes with a new phone
 - [[client-expectations-management]] — unreachable clients may still have expectations about case progress
 - [[intake-and-onboarding-workflow]] — unreachability most critically impacts intake tasks
 - [[case-decline-and-closing-workflow]] — persistent unreachability may contribute to case decline decisions
+
+### Batch 3 Evidence (8 additional cases)
+
+- In 8+ cases from this batch, clients were unreachable during critical negotiation phases. Patterns observed:
+  - Phone numbers disconnected or changed without notifying the firm (2 cases)
+  - Text messages would not go through (1 case)
+  - Multiple VM + text + email attempts over 2+ weeks with no response (3 cases)
+  - Client eventually called back after sending a contact letter (1 case)
+  - Client's phone number \"was no good\" — required updating contact card when client finally called (1 case)
+- In an MVA case (DOI 8/2024, KY), the client was unreachable for 3+ weeks during active negotiation. The firm attempted calls, texts, and emails. The client's phone number was not working and texts would not go through. An email was sent as a last resort. The client eventually responded and accepted the $4,900 offer — but the unreachability prevented counter-negotiation that might have improved the outcome.
+- In a case (DOI 1/2024, KY), the attorney personally called the client: \"My office has been trying to reach you. Give me a call or let me know a good time to call so we can talk about your case and get it settled. Put some money in your pocket.\" This attorney-level outreach was used after paralegal-level attempts failed, confirming escalation protocol.
+- The standard escalation for unreachable clients in this batch was: (1) call + VM, (2) text message, (3) email, (4) contact letter by mail, (5) attorney personal call. The full escalation took 2-4 weeks before the attorney was involved.
+
+### Batch 6 Evidence (7 unreachable-client closing cases)
+
+- In 7 closing cases from this batch, unreachable clients were the direct cause of case decline. The pattern: multiple outbound call attempts over weeks/months, escalating from paralegal to attorney, with no client response.
+- In an MVA case (DOI 2/2024), the paralegal logged "still no luck reaching out to client" across 4+ months (Jun-Aug 2024). Calls were attempted biweekly ("Two Week follow up with client initiated") with no answer. The case was changed to "Client MIA" status, then to "Closing" 3 months later. The full escalation lasted 6+ months from first unreachable attempt to close.
+- In an MVA case (DOI 7/2024), the client's phone was "not accepting calls at this time." Texts were sent, emails sent, but the client never responded during the entire case lifecycle. The case was declined from File Setup after 4+ months.
+- In an MVA case (DOI 1/2023), the client stopped responding to all outreach in August 2023. The paralegal flagged "@attorney — No Contact with Client since 08/2023" in June 2024. The case was changed to "Client MIA" status. The SOL was approaching (Jan 2025), and the attorney directed "Send decline rep letter and close" in January 2025 — 17 months after last client contact.
+- The "Client MIA" intermediate status is now confirmed as a standard Filevine workflow status used across 5+ cases before the final transition to "Closing." It serves as a holding pattern while the firm makes final attempts before closure.
+
+### Batch 6 Evidence (8 unreachable-client closing cases)
+
+- In 8 cases from this batch, client unreachability was either a contributing factor in case decline or was the primary reason for closing.
+- In an MVA case (DOI 1/2024, KY), the client's phone number was "not in service" across multiple months. A second contact letter was sent. The paralegal noted: "Client is still unreachable, 2 contact letter was already sent." The case was ultimately declined and closed. This confirms the pattern: persistent phone disconnection + unresponsive to contact letters = case decline.
+- In an MVA case (DOI 10/2024, KY), the client's "phone number cannot accept calls at this time" — a distinct signal from VM full or disconnected. The case was closed from Demand in Progress, skipping demand entirely because the client could not be reached.
+- In a companion MVA/KAC case (DOI 9/2023, KY), the client "answered but hung up right away" and did not respond to follow-up texts. This is a third distinct unreachability signal: active rejection of contact.
+- In a premises liability case (DOI 11/2024, KY), the client texted months after closing asking if the attorney was the one who called, suggesting the client only re-engaged when prompted by a new contact attempt. Clients who are unreachable during the case may resurface when the firm reaches out for file closure.
+- In 4 cases, unreachability directly caused the case to stall in File Setup for months before eventual decline — confirming that early-stage unreachability is a strong predictor of eventual case closure.
+
+### Batch Arch 3 Evidence (113 unreachable cases from 230 archived)
+
+- 113 cases (49%) had unreachable client patterns — nearly half of all cases experienced some form of client contact difficulty.
+- 112 cases involved voicemail patterns (left messages, VM full, no answer).
+- 64 cases with unreachable clients also showed decline activity, confirming the strong correlation between unreachability and case decline.
+- 60 cases involved text-based communication attempts, suggesting text/SMS is a standard fallback when phone contact fails.

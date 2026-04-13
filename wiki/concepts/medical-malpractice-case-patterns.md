@@ -5,7 +5,7 @@ phase: [phase_0_onboarding, phase_1_file_setup, phase_2_treatment]
 category: edge-cases
 tags: [medical-malpractice, med-mal, minor-client, hospital-records, pediatric, birth-injury]
 confidence: low
-evidence_count: 1
+evidence_count: 2
 created: 2026-04-12
 updated: 2026-04-12
 related:

@@ -4,8 +4,8 @@ slug: workers-compensation-case-patterns
 phase: [phase_0_onboarding, phase_1_file_setup, phase_2_treatment, phase_7_litigation]
 category: edge-cases
 tags: [workers-comp, wc, dwc, brc, ime, form-106, adjuster, defense-counsel]
-confidence: medium
-evidence_count: 4
+confidence: high
+evidence_count: 14
 created: 2026-04-12
 updated: 2026-04-12
 related:
@@ -117,3 +117,9 @@ related:
 - [[expert-reports-and-evaluations]] — IME coordination is similar but invoiced through WC process
 - [[litigation-process-patterns]] — WC uses DWC administrative proceedings rather than circuit court
 - [[medical-records-collection]] — records collection process is similar but may involve different authorization requirements
+
+### Batch Arch 3 Evidence (16 workers comp cases from 230 archived)
+
+- 16 workers compensation cases appeared in this batch (7% of cases), with an average duration of 272 days (median 263).
+- WC cases had shorter average duration than MVA cases, but included both straightforward claims and complex dual WC/MVA or WC/PL cases.
+- 1 case had Form 110 documentation. WC cases follow fundamentally different phase transitions than PI auto accident cases.

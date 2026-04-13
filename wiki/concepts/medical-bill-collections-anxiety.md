@@ -4,8 +4,8 @@ slug: medical-bill-collections-anxiety
 phase: [phase_2_treatment, phase_4_negotiation]
 category: financial
 tags: [collections, medical-bills, client-anxiety, credit, pip]
-confidence: medium
-evidence_count: 11
+confidence: high
+evidence_count: 29
 created: 2026-04-12
 updated: 2026-04-12
 related:

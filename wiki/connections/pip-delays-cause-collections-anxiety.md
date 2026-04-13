@@ -4,8 +4,8 @@ slug: pip-delays-cause-collections-anxiety
 phase: [phase_2_treatment, phase_4_negotiation]
 category: connection
 tags: [pip, collections, client-anxiety, delay, bills]
-confidence: medium
-evidence_count: 7
+confidence: high
+evidence_count: 24
 created: 2026-04-12
 updated: 2026-04-12
 related:
