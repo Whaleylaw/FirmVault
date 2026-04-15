@@ -41,8 +41,12 @@ concurrency:
   group: firmvault-worker-${{ github.event.issue.number || inputs.issue_number }}
   cancel-in-progress: false
 
+# DISABLED 2026-04-15: Proof-of-concept complete. Materializer/worker
+# system moving to local agent execution. See skills.tools.workflows/PLAN.md
+# To re-enable: remove the `if: false` line below each job name.
 jobs:
   work:
+    if: false  # DISABLED — moving to local execution
     # Run if manually dispatched, OR if the label that was just applied is
     # exactly status:ready. Any other label change is ignored.
     if: >-
