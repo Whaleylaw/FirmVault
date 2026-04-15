@@ -12,9 +12,11 @@
 
 ## Context
 
-The PHASE_DAG models the happy path: phases, landmarks, transitions. But real
-case work constantly generates ad-hoc problems that don't fit neatly into any
-phase or landmark:
+The PHASE_DAG is the "yellow brick road" — the ideal path every case travels.
+Phases, landmarks, and parallel tracks model the structural work that happens
+on every case. But real case work constantly generates problems that branch off
+that path — things an agent can't resolve in its current session because they
+require outside intervention, time to pass, or follow-up from someone else:
 
 - Adjuster says there's a coverage problem — needs investigation and follow-up
 - Client's car hasn't been repaired by the insurance company
@@ -143,6 +145,27 @@ Agents ask "what needs attention?" and get back:
 
 This is the operational heartbeat — not phase transitions (which happen every
 few weeks) but daily/hourly work items.
+
+### The Core Principle: Agent Can't Resolve → Issue
+
+The fundamental trigger for issue creation: **an agent finishes its session and
+the thing it was working on isn't done.** If resolution requires:
+
+- A callback from an adjuster or opposing counsel
+- Client action (signing, providing info, attending appointment)
+- Court action (hearing, ruling, filing deadline)
+- Time to pass (waiting period, statute clock, treatment completion)
+- Information that doesn't exist yet (records not yet received, report pending)
+
+...then the agent creates an issue before going to sleep. The issue captures
+what happened, what's needed, and when to follow up. This is what prevents
+the real-world failure mode: work gets started, needs follow-up, and then
+gets buried under everything else for months.
+
+If the happy path's own recurring workflows will handle the follow-up (e.g.,
+the client contact track's 14-day check-in will naturally resurface this),
+then no separate issue is needed. Issues exist for things that would otherwise
+fall through the cracks.
 
 ### Ad-hoc Issues
 
