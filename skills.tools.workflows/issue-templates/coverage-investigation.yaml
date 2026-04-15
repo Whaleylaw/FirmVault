@@ -1,0 +1,37 @@
+template_id: coverage-investigation
+name: Coverage Investigation / Denial
+description: >
+  Use when a BI carrier denies coverage, disputes liability, or coverage status is
+  "under investigation." Triggers include: denial letter received, adjuster states
+  coverage denied (stolen vehicle, policy lapse, unlisted driver), or BI adjuster
+  accepts only partial liability (e.g., 25%). Coverage issues affected 40%+ of
+  archived cases. Coverage denial forces a fundamentally different case trajectory —
+  skipping demand/negotiation and going directly to litigation or case decline.
+default_priority: high
+default_due_offset: 7d
+typical_phases: [phase_1_file_setup, phase_4_negotiation, phase_7_litigation]
+wiki_sources:
+  - coverage-denial-and-litigation
+  - coverage-denial-forces-early-litigation
+  - disputed-liability-forces-litigation
+  - kentucky-assigned-claims-process
+  - statute-of-limitations-monitoring
+  - case-decline-and-closing-workflow
+checklist:
+  - Escalate coverage denial to attorney immediately upon receipt of denial letter or verbal denial
+  - Obtain and review the police report — compare timeline against insured's claims (e.g., theft report filed after accident)
+  - Document all communications with BI adjuster regarding coverage status
+  - Investigate the factual basis for denial — the insured's story may be false
+  - Set 2-week follow-up tasks while coverage remains "under investigation"
+  - Begin parallel alternative recovery paths immediately — do not wait for denial to resolve
+  - "Evaluate KAC eligibility: file KAC application if at-fault driver is uninsured or coverage denied"
+  - Check client's own UIM coverage limits as alternative recovery
+  - Check household insurance before declining (attorney directive)
+  - "Monitor SOL countdown aggressively — file complaint before SOL if coverage still unresolved"
+  - If partial liability accepted (e.g., 25%), flag for attorney — disputed liability forces early litigation
+  - Preserve all liability evidence at intake (dash cam, photos, police report, witness statements)
+  - Prepare for 3-5+ year case timeline when coverage is denied and litigation required
+  - If no BI, no UM, no household insurance, and no treatment — flag for attorney decline review
+escalation_trigger: 14d
+blocks_landmark: demand_sent
+tags: [coverage-denial, liability, litigation, kac, uim, attorney-review]

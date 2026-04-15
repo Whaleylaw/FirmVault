@@ -1,0 +1,36 @@
+template_id: client-unreachable
+name: Client Unreachable / MIA
+description: >
+  Use when a client has not responded to 2+ contact attempts across multiple channels.
+  49% of all cases (113 of 230 archived) had unreachable client patterns. 64 of those
+  also showed decline activity — unreachability is a strong predictor of case decline.
+  Triggers include: voicemail full, no answer/no callback, phone number changed or
+  disconnected, email bounced. Early-stage unreachability in File Setup predicts
+  eventual case closure.
+default_priority: high
+default_due_offset: 7d
+typical_phases: [phase_0_onboarding, phase_1_file_setup, phase_2_treatment]
+wiki_sources:
+  - unreachable-client-patterns
+  - client-frustration-escalation
+  - case-decline-and-closing-workflow
+  - client-communication-through-family
+checklist:
+  - "Day 1: Outbound call — log outcome (answered, VM full, no answer, disconnected)"
+  - "Day 1: If call fails, immediately send text message with paralegal's direct number"
+  - "Day 1: Send email as third channel"
+  - "Day 2-3: Second outbound call attempt + follow-up text"
+  - "Week 2: Set 'Two Week follow up with client' task"
+  - "Week 3-4: Additional call + text + email attempts — log every attempt"
+  - "After 3 failed contact attempts: escalate to attorney with unreachability summary"
+  - "Ask for secondary contact number and emergency contact at every opportunity"
+  - "When client surfaces: gather ALL needed information in that single conversation — you may not get another chance"
+  - "If client calls from new number, update contact card in the system immediately"
+  - "Week 6+: Send formal contact letter by mail (30-day letter)"
+  - "Week 8+: Attorney personal call as final escalation"
+  - "If unreachable 3+ months: change status to 'Client MIA' (intermediate status)"
+  - "If no response to contact letter after 30 days: flag attorney for decline authorization"
+  - "Do not assume unreachability means disinterest — client may have medical/life issues"
+escalation_trigger: 14d
+blocks_landmark: null
+tags: [client-communication, unreachable, voicemail-full, mia, decline-risk]

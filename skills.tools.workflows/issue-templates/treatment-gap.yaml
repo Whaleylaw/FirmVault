@@ -1,0 +1,34 @@
+template_id: treatment-gap
+name: Treatment Gap Detected
+description: >
+  Use when a client has a gap of 30+ days between treatment visits, has stopped
+  treatment without completing recommended care, or when treatment continuity needs
+  to be addressed before demand. Treatment gaps are one of the most common adjuster
+  defenses in soft-tissue PI cases — adjusters routinely cite gaps to justify lower
+  offers. Observed in 68 cases with high confidence. Cases with documented gap
+  explanations recovered approximately 80% of expected value vs 50% for unexplained gaps.
+default_priority: high
+default_due_offset: 7d
+typical_phases: [phase_2_treatment, phase_3_demand]
+wiki_sources:
+  - treatment-gap-defense
+  - treatment-gaps-affect-settlement-value
+  - client-frustration-escalation
+  - pip-claims-management
+checklist:
+  - "Flag any client who has not followed up with recommended care within 30 days"
+  - "Contact client to determine reason for gap: work constraints, childcare, transportation, financial, medical staging, or choice"
+  - "Document the client's stated reason for the gap in the activity log — this is critical evidence"
+  - "Escalate to attorney so they can counsel client about impact on case value"
+  - "If client wants to resume treatment, help find practical solutions (providers with flexible hours, telehealth, closer location)"
+  - "If treatment cannot continue, document reasons thoroughly for the demand narrative"
+  - "Check if PIP benefits are still available to cover resumed treatment"
+  - "For dental/surgical gaps: verify if gap is medically justified (e.g., implant staging requirements)"
+  - "Monitor that client is not declining recommended chiropractic/PT — this creates the gap adjusters will exploit"
+  - "In demand preparation, proactively address any gap with explanation and supporting documentation"
+  - "Prepare counterarguments before negotiation — do not wait for adjuster to raise the gap issue"
+  - "Distinguish between: single-provider/minimal treatment, actual time gap, and treatment-relatedness disputes"
+  - "Track the treatment gap + pre-settlement funding equation to predict net client recovery early"
+escalation_trigger: 14d
+blocks_landmark: demand_sent
+tags: [treatment-gap, adjuster-defense, case-value, client-counseling]

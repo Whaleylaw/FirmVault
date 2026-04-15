@@ -1,0 +1,41 @@
+template_id: settlement-disbursement-delay
+name: Settlement Disbursement Delay
+description: >
+  Use when there is a delay in the settlement-to-disbursement pipeline: release not
+  signed, check not received, lien not resolved, or client unable to receive funds.
+  The period between "settled" and "money in client's pocket" is the #1 source of
+  post-settlement client frustration. Observed in 95+ cases. Common delays: VineSign
+  non-response (client doesn't see release email), carrier delays check issuance,
+  Medicaid lien amount increases during negotiation, minor settlement requires blocked
+  bank account (adds 3-6 months). Clients calling about settlement checks they haven't
+  received is a recurring pattern.
+default_priority: high
+default_due_offset: 7d
+typical_phases: [phase_5_settlement, phase_6_lien_resolution]
+wiki_sources:
+  - settlement-disbursement-workflow
+  - lien-resolution-delays-disbursement
+  - lien-management-health-insurance
+  - client-frustration-escalation
+  - medicaid-lien-management
+checklist:
+  - "Identify the specific bottleneck: release signing, check issuance, lien resolution, or distribution"
+  - "RELEASE: Send release to client via VineSign immediately upon settlement agreement"
+  - "RELEASE: If client has not signed within 48 hours, call and explain the document"
+  - "RELEASE: Once signed, return release to carrier/defense counsel the same day"
+  - "RELEASE: Review release language for matching negotiated terms (exclusive vs inclusive of PIP, indemnity)"
+  - "CHECK: Set 14-day follow-up for settlement check receipt after release returned"
+  - "CHECK: Confirm 'Have we received settlement check?' before authorizing any disbursement"
+  - "CHECK: Do NOT deposit settlement checks until all releases are fully executed and returned"
+  - "LIEN: Begin lien resolution immediately upon settlement acceptance — do not wait for carrier check"
+  - "LIEN: Use ZipLiens for complex lien negotiations, especially Medicaid"
+  - "LIEN: If Medicaid increases lien amount during negotiations, verify itemization with attorney before proceeding"
+  - "LIEN: Confirm ALL liens resolved before calculating disbursement: health insurance, PIP subrogation, Medicaid, child support, pre-settlement funding"
+  - "CLIENT: Ask client preference for check delivery (mail with tracking vs pickup)"
+  - "CLIENT: Proactively communicate that disbursement takes 2-6 weeks after settlement due to lien resolution"
+  - "CLIENT: Send clear disbursement statement showing gross, fees, liens, expenses, and net to client"
+  - "MINOR: If minor settlement, coordinate blocked bank account — expect 3-6 month additional delay"
+  - "If check needs reissue (lost in mail), request immediately and track new check number"
+escalation_trigger: 14d
+blocks_landmark: case_closed
+tags: [settlement, disbursement, release, check, lien-resolution, client-frustration]

@@ -1,0 +1,35 @@
+template_id: vehicle-repair
+name: Vehicle Repair / Property Damage Issue
+description: >
+  Use when the client's vehicle has not been repaired or replaced by the at-fault
+  carrier, or when there is a property damage dispute. Property damage issues create
+  immediate client frustration — clients need transportation for daily life, medical
+  appointments, and work. Vehicle repair is typically handled on the PD claim track
+  separate from BI, but unresolved PD issues drive client dissatisfaction. Clients have
+  reported cancelled medical appointments and transportation hardship within days of
+  the accident due to vehicle issues.
+default_priority: normal
+default_due_offset: 14d
+typical_phases: [phase_1_file_setup, phase_2_treatment]
+wiki_sources:
+  - intake-and-onboarding-workflow
+  - client-frustration-escalation
+  - client-expectations-management
+  - coverage-denial-and-litigation
+checklist:
+  - "Confirm whether client's vehicle is drivable or totaled"
+  - "Identify the PD claim number and adjuster (separate from BI claim)"
+  - "Determine if client has rental car coverage on their own policy"
+  - "If rental car agreement exists, obtain and file documentation"
+  - "Contact PD adjuster to determine status of repair estimate or total loss evaluation"
+  - "If carrier is not responding on PD claim, log follow-up calls at 7-day intervals"
+  - "Advise client that PD claim is typically handled separately from their injury claim"
+  - "If vehicle is totaled, confirm fair market value offer from carrier"
+  - "If client disputes total loss valuation, escalate to attorney"
+  - "Document any transportation hardship affecting medical treatment (cancelled appointments, inability to get to provider)"
+  - "If no PD coverage (uninsured driver), discuss options with attorney — client may need to use collision coverage"
+  - "Track rental car duration limits — carriers typically cap rental at 30 days"
+  - "Set client expectations: PD and BI are separate tracks with different timelines"
+escalation_trigger: 30d
+blocks_landmark: null
+tags: [property-damage, vehicle-repair, rental-car, total-loss, client-frustration]

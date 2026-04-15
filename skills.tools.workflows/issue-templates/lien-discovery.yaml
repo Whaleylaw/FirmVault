@@ -1,0 +1,38 @@
+template_id: lien-discovery
+name: New Lien Discovered
+description: >
+  Use when a new lien is identified that was not part of the original intake — health
+  insurance subrogation, Medicaid/Conduent, child support enforcement, VA, provider
+  lien, or pre-settlement funding lien. 57% of all cases (131 of 230 archived) had
+  lien-related activity. Liens directly reduce client net recovery and must be factored
+  into settlement math. Undiscovered liens at disbursement create legal exposure.
+  Common lien types: Anthem/Carelon, Conduent (KY Medicaid), union trusts (TeamCare),
+  child support, VA, provider liens.
+default_priority: high
+default_due_offset: 14d
+typical_phases: [phase_2_treatment, phase_4_negotiation, phase_6_lien_resolution]
+wiki_sources:
+  - lien-management-health-insurance
+  - medicaid-lien-management
+  - va-lien-management
+  - child-support-lien-patterns
+  - lien-resolution-delays-disbursement
+  - pip-claims-management
+checklist:
+  - "Log the new lien immediately: lien holder name, type, claim/file number, contact info, asserted amount"
+  - "Request detailed itemization showing each date of service and amount paid"
+  - "Compare lien itemization against case's actual accident-related treatment dates"
+  - "Flag any dates of service outside the treatment window or for unrelated conditions (pre-existing)"
+  - "If unrelated charges found, draft dispute letter citing specific dates and reasons for removal"
+  - "For health insurance liens: use ZipLiens for verification and resolution tracking"
+  - "For Medicaid/Conduent liens: expect active monitoring — Conduent will call requesting status updates"
+  - "For child support liens: verify amount with enforcement agency — these are generally NOT negotiable like medical liens"
+  - "For VA liens: expect 12+ month resolution timeline — contact VA OGC early"
+  - "For union trust liens (TeamCare, etc.): call main trust line and escalate if member status shows inactive"
+  - "Obtain updated lien ledger in writing after any disputed charges are removed"
+  - "Factor adjusted lien amount into settlement math and update attorney"
+  - "Alert attorney whenever lien amount changes materially"
+  - "Track all lien holders in a single dashboard — multiple 'Unknown' lien holders are common in multi-provider cases"
+escalation_trigger: 30d
+blocks_landmark: settlement_disbursed
+tags: [lien, subrogation, medicaid, health-insurance, settlement-math]

@@ -22,26 +22,43 @@
 #   case.section_bullets("Insurance Claims") > 0
 #   case.contacts(role="treating_provider").count > 0
 #   case.claims.count > 0
+#   case.claims.where(type="BI").count > 0
+#   case.claims.where(type="PIP").count > 0
+#   case.claims.where(type="UIM").count > 0
 #   case.liens.where(status="outstanding").count == 0
 #   case.activity.last("client_contact").age_days < 30
+#   case.activity.has("followup", since="demand_sent_date+7d")
+#   case.activity.has("mediation")
 #   all(p.records_requested for p in case.providers)
 #   any(p.records_received for p in case.providers)
 #   case.flag("attorney_approved_demand")    # bool flag in frontmatter
+#   case.frontmatter.disposition in ("settled","verdict","dismissed")
+#   case.offers.count > 0
 #
 # Authors: write predicates that touch ONLY the vault. Anything that
 # would require a database, an API call, or external state belongs in
 # a Task with a worker, not in a predicate.
 
-schema_version: 1
+schema_version: 2
 
-phases:
+# ======================================================================
+# CORE PHASES — sequential, one active at a time
+#
+# Core phases: 0 → 1 → 2 → 3 → 4 → 5 → 8
+# Lien resolution is now a parallel track (lien_track), not Phase 6.
+# Litigation is now a parallel track (litigation_track), not Phase 7.
+# Decline can happen from ANY core phase via decline_reasons.
+# ======================================================================
+
+core_phases:
 
   # ──────────────────────────────────────────────────────────────────
   phase_0_onboarding:
     name: Onboarding
     description: >
       Initial client retention. Three signed documents must be on file
-      before any substantive work begins.
+      before any substantive work begins. Case type classification
+      determines which variant workflows apply downstream.
     entry_triggers:
       - new_case_created
     landmarks:
@@ -66,14 +83,24 @@ phases:
         produced_by:
           - workflow: document_collection
             step: receive_signed_hipaa
+      - id: case_type_classified
+        # NEW in v2 — determines which variant workflows apply
+        name: Case Type Classified
+        mandatory: true
+        condition: case.frontmatter.case_type is not null
+        produced_by:
+          - workflow: case_setup
+            step: classify_case_type
     exit_blockers:
-      hard: [client_info_received, contract_signed, medical_auth_signed]
+      hard: [client_info_received, contract_signed, medical_auth_signed, case_type_classified]
       soft: []
     transitions:
       - to: phase_1_file_setup
         when: all_hard_blockers_satisfied
       - to: phase_8_closed
         when: case.flag("declined_representation")
+    decline_reasons: [not_viable, conflict_of_interest, client_declined]
+    sla: 3 business days
 
   # ──────────────────────────────────────────────────────────────────
   phase_1_file_setup:
@@ -81,7 +108,8 @@ phases:
     description: >
       Detailed intake, accident report, claims opened, providers
       identified. All landmarks are soft — case can advance with
-      attorney override if any are missing.
+      attorney override if any are missing. Triggers parallel tracks:
+      PIP track, Lien track, KAC/UIM if applicable.
     entry_triggers:
       - phase_0_onboarding.exited
     landmarks:
@@ -97,25 +125,60 @@ phases:
         condition: case.has_document("police report") or case.has_document("crash report")
         produced_by:
           - workflow: accident_report
-      - id: insurance_claims_setup
-        name: Insurance Claims Setup
+      - id: bi_claim_opened
+        name: BI Claim Opened
         mandatory: false
-        condition: case.claims.count > 0
+        condition: case.claims.where(type="BI").count > 0
         produced_by:
           - workflow: insurance_bi_claim
-          - workflow: insurance_pip_claim
-      - id: providers_setup
-        name: Providers Setup
+      - id: providers_identified
+        name: Providers Identified
         mandatory: false
         condition: case.contacts(role="treating_provider").count > 0
         produced_by:
           - workflow: medical_provider_setup
+      # Parallel track triggers
+      - id: pip_track_initiated
+        name: PIP Track Initiated
+        mandatory: false
+        condition: case.claims.where(type="PIP").count > 0
+        triggers: [pip_track]
+        produced_by:
+          - workflow: insurance_pip_claim
+      - id: lien_track_initiated
+        name: Lien Track Initiated
+        mandatory: false
+        condition: true  # always start tracking liens
+        triggers: [lien_track]
+        produced_by:
+          - workflow: case_setup
+            step: initiate_lien_tracking
+      # Variant workflow triggers
+      - id: kac_determination
+        # 26% of cases need this
+        name: KAC Determination
+        mandatory: false
+        condition: case.frontmatter.kac_required is not null
+        triggers_if_true: [kac_variant]
+        produced_by:
+          - workflow: case_setup
+            step: kac_evaluation
+      - id: uim_determination
+        name: UIM Determination
+        mandatory: false
+        condition: case.frontmatter.uim_applicable is not null
+        triggers_if_true: [uim_variant]
+        produced_by:
+          - workflow: case_setup
+            step: uim_evaluation
     exit_blockers:
       hard: []
-      soft: [full_intake_complete, accident_report_obtained, insurance_claims_setup, providers_setup]
+      soft: [full_intake_complete, accident_report_obtained, bi_claim_opened, providers_identified]
     transitions:
       - to: phase_2_treatment
         when: all_soft_blockers_satisfied_or_overridden
+    decline_reasons: [no_coverage, client_at_fault, not_viable, client_unreachable]
+    sla: 14 days
 
   # ──────────────────────────────────────────────────────────────────
   phase_2_treatment:
@@ -123,17 +186,10 @@ phases:
     description: >
       Client receives medical care. Recurring check-ins maintain
       contact and capture progress. Records and bills are requested
-      as treatment proceeds.
+      as treatment proceeds. This is typically the longest phase.
     entry_triggers:
       - phase_1_file_setup.exited
     landmarks:
-      - id: client_check_in_active
-        name: Client Check-in Active
-        mandatory: false
-        recurring: every_14_days
-        condition: case.activity.last("client_contact").age_days < 30
-        produced_by:
-          - workflow: client_check_in
       - id: records_requested_all_providers
         name: Records Requested From All Providers
         mandatory: false
@@ -155,24 +211,36 @@ phases:
     exit_blockers:
       hard: []
       soft: [treatment_complete]
+    exit_condition: >
+      treatment_complete OR attorney flags early_demand.
+      NOTE: Records may still be outstanding — this is normal.
+      The records-to-demand conversion rate is only 45%.
     transitions:
       - to: phase_3_demand
         when: case.frontmatter.treatment_complete == true or case.flag("early_demand")
+    decline_reasons: [client_unreachable, client_refused_treatment, treatment_unrelated, client_terminated]
+    sla: null  # highly variable — median ~6 months for MVA
+    notes: >
+      Treatment gaps > 30 days become adjuster ammunition.
+      Wiki evidence: treatment-gap-defense (HIGH, confirmed pattern).
 
   # ──────────────────────────────────────────────────────────────────
   phase_3_demand:
     name: Demand In Progress
     description: >
-      Assemble the demand package and send. Sending the demand is
-      the only hard blocker for this phase.
+      Assemble the demand package and send. Records chase continues here.
+      Attorney review is the key gate. Sending the demand is the hard
+      blocker for this phase.
     entry_triggers:
       - phase_2_treatment.exited
     landmarks:
-      - id: all_records_received
-        name: All Records Received
+      - id: records_received_sufficient
+        # CHANGED from v1 "all_records_received" — "all" is aspirational;
+        # "sufficient" reflects reality (45% conversion rate)
+        name: Records Received (Sufficient)
         mandatory: false
         override_available: true
-        condition: all(p.records_received for p in case.providers)
+        condition: case.frontmatter.records_sufficient == true
         produced_by:
           - workflow: gather_demand_materials
       - id: all_bills_received
@@ -188,9 +256,9 @@ phases:
         condition: case.has_document("demand")
         produced_by:
           - workflow: draft_demand
-      - id: attorney_approved_demand
-        name: Attorney Approved Demand
-        mandatory: false
+      - id: attorney_reviewed_demand
+        name: Attorney Reviewed Demand
+        mandatory: true
         condition: case.flag("attorney_approved_demand")
         produced_by:
           - workflow: draft_demand
@@ -202,11 +270,16 @@ phases:
         produced_by:
           - workflow: send_demand
     exit_blockers:
-      hard: [demand_sent]
-      soft: [all_records_received, all_bills_received, demand_drafted, attorney_approved_demand]
+      hard: [attorney_reviewed_demand, demand_sent]
+      soft: [records_received_sufficient, all_bills_received, demand_drafted]
     transitions:
       - to: phase_4_negotiation
         when: demand_sent
+    decline_reasons: [client_unreachable, not_viable]
+    sla: 30 days from treatment complete
+    notes: >
+      EvenUp AI demand tool may produce higher initial offers (emerging evidence).
+      Robinson v. Bates: KY adjusters will reduce specials to collateral source amounts.
 
   # ──────────────────────────────────────────────────────────────────
   phase_4_negotiation:
@@ -214,7 +287,8 @@ phases:
     description: >
       Follow up after demand, exchange offers, and reach settlement
       or declare impasse. Branches to settlement (Phase 5) or
-      litigation (Phase 7).
+      litigation (litigation_track). Typical pattern: defense starts
+      at ~30% of demand, converges in 3-5 rounds.
     entry_triggers:
       - phase_3_demand.exited
     landmarks:
@@ -256,96 +330,332 @@ phases:
     transitions:
       - to: phase_5_settlement
         when: settlement_reached
-      - to: phase_7_litigation
+      - to: litigation_track
         when: impasse_declared
+    decline_reasons: [client_unreachable, client_terminated, coverage_denial]
+    sla: 45 days from demand sent to first offer (typical)
+    notes: >
+      Adjuster reassignment resets negotiation (60 cases, HIGH).
+      Adjuster unreturned calls: 5-call pattern before escalation works (69 cases).
+      Adjuster file closure threats on PIP side when firm focuses BI (62 cases).
 
   # ──────────────────────────────────────────────────────────────────
   phase_5_settlement:
     name: Settlement
     description: >
-      Process the agreed settlement: prepare statement, get client
-      authorization, execute release, receive funds. Funds reaching
-      the client is the hard blocker.
+      Process the agreed settlement. Multiple sub-workflows depending
+      on case type (standard, minor, WC). Which variant runs depends
+      on case_type. Funds reaching the client is the hard blocker for
+      the standard variant.
     entry_triggers:
       - phase_4_negotiation.exited (settlement_reached)
-      - phase_7_litigation.exited (settlement_reached)
-    landmarks:
-      - id: settlement_statement_prepared
-        name: Settlement Statement Prepared
-        mandatory: true
-        condition: case.has_document("settlement statement")
-        produced_by:
-          - workflow: settlement_processing
-            step: prepare_settlement_statement
-      - id: authorization_to_settle_prepared
-        name: Authorization to Settle Prepared
-        mandatory: true
-        condition: case.has_document("authorization to settle")
-        produced_by:
-          - workflow: settlement_processing
-      - id: client_authorized
-        name: Client Authorized
-        mandatory: true
-        condition: case.flag("client_signed_authorization")
-        produced_by:
-          - workflow: settlement_processing
-            step: get_client_signature
-      - id: release_executed
-        name: Release Executed
-        mandatory: true
-        condition: case.has_document("release") and case.flag("release_signed")
-        produced_by:
-          - workflow: settlement_processing
-            step: execute_release
-      - id: funds_received
-        name: Funds Received In Trust
-        mandatory: true
-        condition: case.frontmatter.settlement_funds_received == true
-        produced_by:
-          - workflow: settlement_processing
-            step: receive_funds
-      - id: client_distributed
-        name: Client Funds Distributed
-        mandatory: true
-        condition: case.frontmatter.client_distribution_date is not null
-        produced_by:
-          - workflow: settlement_processing
-            step: distribute_to_client
+      - litigation_track.exited (disposition == "settled")
+    variants:
+      standard:
+        description: >
+          Standard BI settlement. Prepare statement, get client
+          authorization, execute release, receive funds.
+        landmarks:
+          - id: settlement_statement_prepared
+            name: Settlement Statement Prepared
+            mandatory: true
+            condition: case.has_document("settlement statement")
+            produced_by:
+              - workflow: settlement_processing
+                step: prepare_settlement_statement
+          - id: authorization_to_settle_prepared
+            name: Authorization to Settle Prepared
+            mandatory: true
+            condition: case.has_document("authorization to settle")
+            produced_by:
+              - workflow: settlement_processing
+          - id: client_authorized
+            name: Client Authorized
+            mandatory: true
+            condition: case.flag("client_signed_authorization")
+            produced_by:
+              - workflow: settlement_processing
+                step: get_client_signature
+          - id: release_executed
+            name: Release Executed
+            mandatory: true
+            condition: case.has_document("release") and case.flag("release_signed")
+            produced_by:
+              - workflow: settlement_processing
+                step: execute_release
+          - id: funds_received
+            name: Funds Received In Trust
+            mandatory: true
+            condition: case.frontmatter.settlement_funds_received == true
+            produced_by:
+              - workflow: settlement_processing
+                step: receive_funds
+          - id: client_distributed
+            name: Client Funds Distributed
+            mandatory: true
+            condition: case.frontmatter.client_distribution_date is not null
+            produced_by:
+              - workflow: settlement_processing
+                step: distribute_to_client
+      minor_settlement:
+        # 29 cases in wiki show this pattern
+        description: >
+          Minor client settlement. Requires guardian authorization, LPOA
+          filing, court approval, and blocked account deposit.
+        landmarks:
+          - id: settlement_statement_prepared
+            name: Settlement Statement Prepared
+            mandatory: true
+            condition: case.has_document("settlement statement")
+            produced_by:
+              - workflow: settlement_processing
+                step: prepare_settlement_statement
+          - id: guardian_authorized
+            name: Guardian Authorized
+            mandatory: true
+            condition: case.flag("guardian_signed_authorization")
+            produced_by:
+              - workflow: settlement_processing
+                step: get_guardian_signature
+          - id: lpoa_filed
+            name: LPOA Filed
+            mandatory: true
+            condition: case.has_document("LPOA")
+            produced_by:
+              - workflow: settlement_processing
+                step: file_lpoa
+          - id: court_approval_obtained
+            name: Court Approval Obtained
+            mandatory: true
+            condition: case.frontmatter.court_approval_date is not null
+            produced_by:
+              - workflow: settlement_processing
+                step: obtain_court_approval
+          - id: blocked_account_opened
+            name: Blocked Account Opened
+            mandatory: true
+            condition: case.frontmatter.blocked_account_number is not null
+            produced_by:
+              - workflow: settlement_processing
+                step: open_blocked_account
+          - id: funds_deposited_to_blocked_account
+            name: Funds Deposited to Blocked Account
+            mandatory: true
+            condition: case.frontmatter.blocked_account_funded == true
+            produced_by:
+              - workflow: settlement_processing
+                step: deposit_to_blocked_account
+      wc_settlement:
+        # WC uses Form 110, 20% fee, DWC approval
+        description: >
+          Workers' Compensation settlement. Requires Form 110 preparation,
+          DWC fee approval, and DWC settlement approval.
+        landmarks:
+          - id: form_110_prepared
+            name: Form 110 Prepared
+            mandatory: true
+            condition: case.has_document("Form 110")
+            produced_by:
+              - workflow: settlement_processing
+                step: prepare_form_110
+          - id: dwc_fee_approved
+            name: DWC Fee Approved
+            mandatory: true
+            condition: case.flag("dwc_fee_approved")
+            produced_by:
+              - workflow: settlement_processing
+                step: obtain_dwc_fee_approval
+          - id: settlement_approved
+            name: WC Settlement Approved
+            mandatory: true
+            condition: case.frontmatter.wc_settlement_approved == true
+            produced_by:
+              - workflow: settlement_processing
+                step: obtain_wc_settlement_approval
+    exit_condition: >
+      All mandatory landmarks for the applicable variant satisfied.
+      If outstanding liens exist → lien_track handles them (parallel).
     exit_blockers:
-      hard: [settlement_statement_prepared, client_authorized, release_executed, funds_received, client_distributed]
+      # Exit blockers vary by variant — listed per variant above via mandatory flags
+      hard: []  # determined dynamically by active variant's mandatory landmarks
       soft: []
     transitions:
-      - to: phase_6_lien
-        when: client_distributed and case.liens.where(status="outstanding").count > 0
       - to: phase_8_closed
-        when: client_distributed and case.liens.where(status="outstanding").count == 0
+        when: all_variant_mandatory_landmarks_satisfied
+    decline_reasons: [client_unreachable, client_terminated]
+    sla: 30 days standard, 90 days minor (court approval)
+    notes: >
+      Release signing delays block PIP reimbursement (5 cases, connection).
+      Fee disputes at pickup happen (emerging pattern).
+      Pre-settlement funding liens (Oasis, USClaims) complicate math.
 
   # ──────────────────────────────────────────────────────────────────
-  phase_6_lien:
-    name: Lien Resolution
+  phase_8_closed:
+    name: Closed
     description: >
-      Resolve outstanding liens after settlement. Two hard blockers:
-      all liens paid and final distribution complete.
+      NOT terminal. Wind-down phase with real work. Post-close obligations
+      can persist for months (PIP cleanup, carrier disengagement, file
+      transfers, archiving). Final letter sent, file archived, all
+      obligations verified.
     entry_triggers:
-      - phase_5_settlement.exited (with outstanding_liens)
+      - phase_5_settlement.exited
+      - litigation_track.exited (verdict or dismissed)
+      - any_phase.exited (declined_representation)
     landmarks:
-      - id: outstanding_liens_identified
-        name: Outstanding Liens Identified
+      - id: all_obligations_verified
+        name: All Obligations Verified
         mandatory: true
-        condition: all(l.holder and l.type for l in case.liens.where(status="outstanding"))
+        condition: case.flag("all_obligations_complete")
+        produced_by:
+          - workflow: close_case
+            step: verify_complete
+      - id: final_letter_sent
+        name: Final Letter Sent
+        mandatory: true
+        condition: case.has_document("final letter") or case.has_document("closing letter")
+        produced_by:
+          - workflow: close_case
+            step: send_final_letter
+      - id: case_archived
+        name: Case Archived
+        mandatory: true
+        condition: case.frontmatter.archived_date is not null
+        produced_by:
+          - workflow: close_case
+            step: archive
+      # NEW in v2 — wind-down landmarks
+      - id: gdrive_archived
+        name: Google Drive Archived
+        mandatory: false
+        condition: case.flag("archived_to_gdrive")
+        produced_by:
+          - workflow: close_case
+            step: archive_gdrive
+      - id: carrier_disengagement_complete
+        name: Carrier Disengagement Complete
+        mandatory: false
+        condition: case.flag("carriers_notified_of_close")
+        produced_by:
+          - workflow: close_case
+            step: notify_carriers
+      - id: pip_cleanup_complete
+        name: PIP Cleanup Complete
+        mandatory: false
+        condition: not case.claims.where(type="PIP", status="open").count > 0
+        produced_by:
+          - workflow: close_case
+            step: cleanup_pip
+    # NOT terminal — can reopen
+    reopen_transitions:
+      - to: litigation_track
+        when: case.flag("reopened_for_litigation")
+    decline_subtype:
+      # Track WHY it closed — essential for analytics
+      reasons:
+        - settled
+        - declined_no_coverage
+        - declined_client_mia
+        - declined_not_viable
+        - declined_client_at_fault
+        - declined_client_terminated
+        - declined_retained_other_attorney
+        - litigation_dismissed
+        - litigation_verdict
+    decline_reasons: []  # phase 8 itself is the destination for declines
+    sla: 14 days for wind-down tasks
+    notes: >
+      SOL alerts continue firing after close (FileVine automation gap — suppress).
+      Google review task fires on ALL closings including declines (anti-pattern — suppress).
+
+# ======================================================================
+# PARALLEL TRACKS — run concurrently with core phases
+#
+# These tracks have their own landmarks and lifecycles but do not
+# replace the core phase progression. A case can be in Phase 3 (Demand)
+# while simultaneously running the PIP track, Lien track, and SOL monitor.
+# ======================================================================
+
+parallel_tracks:
+
+  # ──────────────────────────────────────────────────────────────────
+  pip_track:
+    name: PIP Claims Management
+    description: >
+      Runs from File Setup through post-settlement. PIP is simultaneously
+      a funding source, a payment mechanism, and a potential lien.
+      76% of cases involve PIP.
+    activated_by: phase_1.pip_track_initiated
+    terminates_when: case.claims.where(type="PIP").all(status="closed")
+    landmarks:
+      - id: pip_application_filed
+        name: PIP Application Filed
+        mandatory: false
+        condition: case.claims.where(type="PIP").any(application_date is not null)
+        produced_by:
+          - workflow: insurance_pip_claim
+            step: file_application
+      - id: pip_approved
+        name: PIP Approved
+        mandatory: false
+        condition: case.claims.where(type="PIP").any(status="approved")
+        produced_by:
+          - workflow: insurance_pip_claim
+            step: confirm_approval
+      - id: pip_benefits_exhausted
+        # Triggers provider billing pressure (connection)
+        name: PIP Benefits Exhausted
+        mandatory: false
+        condition: case.claims.where(type="PIP").any(status="exhausted")
+        produced_by:
+          - workflow: insurance_pip_claim
+            step: track_exhaustion
+      - id: pip_reimbursement_resolved
+        # Post-settlement: carrier wants reimbursement
+        name: PIP Reimbursement Resolved
+        mandatory: false
+        condition: case.claims.where(type="PIP").all(reimbursement_status != "pending")
+        produced_by:
+          - workflow: insurance_pip_claim
+            step: resolve_reimbursement
+    notes: >
+      PIP adjuster file closure threats are real when firm focuses BI track.
+      PIP carrier can pay Medicaid liens directly on firm's direction.
+
+  # ──────────────────────────────────────────────────────────────────
+  lien_track:
+    name: Lien Identification & Resolution
+    description: >
+      Continuous process. Liens are identified early, tracked throughout,
+      negotiated during settlement, and resolved before final distribution.
+      NOT a sequential phase after settlement (was Phase 6 in v1).
+    activated_by: phase_1.lien_track_initiated
+    terminates_when: case.liens.where(status="outstanding").count == 0
+    lien_types:
+      - health_insurance   # 122 cases, HIGH
+      - medicaid           # 37 cases, HIGH — Conduent; negotiable down 90%+
+      - medicare           # CMS; non-negotiable formula
+      - va                 # VA liens
+      - child_support      # 6% prevalence, discovered late
+      - pre_settlement_funding  # Oasis, USClaims — contractual, not negotiable
+    landmarks:
+      - id: liens_identified
+        name: Liens Identified
+        mandatory: false
+        recurring: every_30_days  # New liens can appear
+        condition: case.flag("lien_audit_current")
         produced_by:
           - workflow: lien_negotiation
             step: identify
       - id: final_amounts_requested
         name: Final Lien Amounts Requested
-        mandatory: true
+        mandatory: false
         condition: all(l.final_amount_requested_date for l in case.liens.where(status="outstanding"))
         produced_by:
           - workflow: lien_negotiation
             step: request_final
       - id: final_amounts_received
         name: Final Lien Amounts Received
-        mandatory: true
+        mandatory: false
         condition: all(l.final_amount for l in case.liens.where(status="outstanding"))
         produced_by:
           - workflow: lien_negotiation
@@ -359,38 +669,86 @@ phases:
             step: negotiate
       - id: liens_paid
         name: Liens Paid
-        mandatory: true
+        mandatory: false
         condition: case.liens.where(status="outstanding").count == 0
         produced_by:
           - workflow: final_distribution
             step: pay_liens
-      - id: final_distribution
-        name: Final Distribution Completed
-        mandatory: true
-        condition: case.frontmatter.final_distribution_date is not null
-        produced_by:
-          - workflow: final_distribution
-    exit_blockers:
-      hard: [liens_paid, final_distribution]
-      soft: [outstanding_liens_identified, final_amounts_requested, final_amounts_received]
-    transitions:
-      - to: phase_8_closed
-        when: liens_paid and final_distribution
+    notes: >
+      Medicaid liens negotiable down 90%+ ($12K to $1,250 — wiki evidence).
+      Lien discovery at settlement causes months of delay.
+      Child support liens often discovered last.
 
   # ──────────────────────────────────────────────────────────────────
-  phase_7_litigation:
+  sol_monitor:
+    name: Statute of Limitations Monitor
+    description: >
+      Background process. Fires alerts at 180, 90, 30, 15 days before
+      SOL expiration. SOL emergency skips normal workflow (connection article).
+    activated_by: case_created
+    terminates_when: case.phase in ["phase_8_closed"] and case.decline_reason is not null
+    alerts:
+      - at: 180_days_before
+        priority: normal
+      - at: 90_days_before
+        priority: high
+        action: attorney_notification
+      - at: 30_days_before
+        priority: critical
+        action: emergency_filing_evaluation
+      - at: 15_days_before
+        priority: critical
+        action: must_file_or_decline
+    notes: >
+      SOL near-miss with attorney reprimand documented in wiki.
+      SOL alerts continue firing on closed cases (FileVine bug — suppress post-close).
+
+  # ──────────────────────────────────────────────────────────────────
+  client_contact:
+    name: Client Contactability
+    description: >
+      Recurring check. 49% of cases have unreachable client patterns.
+      This is the #1 predictor of case decline.
+    activated_by: case_created
+    terminates_when: case.phase == "phase_8_closed"
+    check_interval: 14_days during treatment, 30_days otherwise
+    landmarks:
+      - id: client_reachable
+        name: Client Reachable
+        mandatory: false
+        recurring: true
+        condition: case.activity.last("client_contact").age_days < 30
+        produced_by:
+          - workflow: client_check_in
+      - id: client_mia_flag
+        # After 3 failed attempts
+        name: Client MIA Flag
+        mandatory: false
+        condition: case.flag("client_unreachable")
+        triggers: decline_evaluation
+    escalation:
+      - after: 30_days_no_contact
+        action: attempt via family/emergency contact
+      - after: 60_days_no_contact
+        action: attorney review for decline
+      - after: 90_days_no_contact
+        action: auto-recommend decline
+    notes: >
+      Client communication through family is a documented pattern.
+      Client frustration escalation follows: confusion → impatience → threats → termination.
+
+  # ──────────────────────────────────────────────────────────────────
+  litigation_track:
     name: Litigation
     description: >
-      Formal legal process. Has internal sub-phases (complaint,
-      discovery, motions, trial-prep, trial). Hard blocker is filing
-      the complaint. Exit can be settlement (→ Phase 5) or judgment
-      (→ Phase 8).
-    entry_triggers:
-      - phase_4_negotiation.exited (impasse_declared)
-      - manual: attorney_decision
+      Not a core phase — a parallel track that branches from negotiation
+      and usually returns to settlement (74% of the time). Has internal
+      sub-phases (complaint, discovery, motions, trial-prep, trial).
+    activated_by: phase_4.impasse_declared OR attorney_decision OR sol_emergency
+    terminates_when: disposition in ["settled", "verdict", "dismissed"]
     landmarks:
-      - id: litigation_commenced
-        name: Litigation Commenced
+      - id: litigation_decision
+        name: Litigation Decision Made
         mandatory: true
         condition: case.frontmatter.litigation_decision_date is not null
         produced_by:
@@ -421,62 +779,165 @@ phases:
         condition: case.activity.has("mediation")
         produced_by:
           - workflow: mediation_prep
-      - id: trial_or_settlement
-        name: Trial Reached Or Settlement
+      - id: disposition
+        name: Case Disposition
         mandatory: true
-        condition: case.frontmatter.disposition in ("settled","verdict","dismissed")
+        condition: case.frontmatter.disposition is not null
         produced_by:
           - workflow: trial_presentation
           - workflow: settlement_processing
-    exit_blockers:
-      hard: [complaint_filed, service_completed, trial_or_settlement]
-      soft: [discovery_completed, mediation_attempted]
     transitions:
       - to: phase_5_settlement
-        when: case.frontmatter.disposition == "settled"
+        when: disposition == "settled"  # 74% of cases
       - to: phase_8_closed
-        when: case.frontmatter.disposition in ("verdict","dismissed")
+        when: disposition in ["verdict", "dismissed"]
+    notes: >
+      Attorney withdrawal requires Motion to Withdraw + court hearing.
+      Client deposition no-show triggers sanctions.
+      Litigation is primarily a settlement leverage mechanism.
+
+# ======================================================================
+# VARIANT WORKFLOWS — replace or modify standard flow when triggered
+#
+# Variants are activated by conditions detected during File Setup.
+# They add/modify landmarks in specific core phases.
+# ======================================================================
+
+variant_workflows:
 
   # ──────────────────────────────────────────────────────────────────
-  phase_8_closed:
-    name: Closed
+  kac_variant:
+    name: Kentucky Assigned Claims
     description: >
-      Terminal phase. Final letter sent, file archived, all
-      obligations verified.
-    entry_triggers:
-      - phase_5_settlement.exited (no liens)
-      - phase_6_lien.exited
-      - phase_7_litigation.exited (verdict or dismissed)
-      - phase_0_onboarding.exited (declined_representation)
-    landmarks:
-      - id: all_obligations_verified
-        name: All Obligations Verified
-        mandatory: true
-        condition: case.flag("all_obligations_complete")
-        produced_by:
-          - workflow: close_case
-            step: verify_complete
-      - id: final_letter_sent
-        name: Final Letter Sent
-        mandatory: true
-        condition: case.has_document("final letter") or case.has_document("closing letter")
-        produced_by:
-          - workflow: close_case
-            step: send_final_letter
-      - id: case_archived
-        name: Case Archived
-        mandatory: true
-        condition: case.frontmatter.archived_date is not null
-        produced_by:
-          - workflow: close_case
-            step: archive
-    exit_blockers:
-      hard: []
-      soft: []
-    transitions: []  # terminal
+      26% of cases. Uninsured motorist → KAC assigns a carrier.
+      Modifies negotiation timeline and carrier behavior.
+    modifies: [phase_1_file_setup, phase_3_demand, phase_4_negotiation]
+    additional_landmarks:
+      phase_1:
+        - id: kac_application_filed
+          name: KAC Application Filed
+          mandatory: false
+          condition: case.has_document("KAC application")
+          produced_by:
+            - workflow: kac_claim
+              step: file_application
+        - id: kac_carrier_assigned
+          name: KAC Carrier Assigned
+          mandatory: false
+          condition: case.frontmatter.kac_carrier is not null
+          produced_by:
+            - workflow: kac_claim
+              step: receive_assignment
+      phase_4:
+        - id: kac_carrier_contacted
+          name: KAC Carrier Contacted
+          mandatory: false
+          condition: case.activity.has("kac_carrier_contact")
+          produced_by:
+            - workflow: kac_claim
+              step: contact_carrier
+    notes: >
+      State Farm dominates KAC carrier assignments.
+      KAC claims have longer negotiation timelines.
 
-# ──────────────────────────────────────────────────────────────────
-# Materializer hints
+  # ──────────────────────────────────────────────────────────────────
+  uim_variant:
+    name: Underinsured Motorist
+    description: >
+      Parallel BI + UIM negotiation. UIM triggered by COOTS letter
+      after BI settlement.
+    modifies: [phase_4_negotiation, phase_5_settlement]
+    additional_landmarks:
+      phase_4:
+        - id: coots_letter_sent
+          # KY-specific trigger for UIM claim
+          name: COOTS Letter Sent
+          mandatory: false
+          condition: case.has_document("COOTS letter")
+          produced_by:
+            - workflow: uim_claim
+              step: send_coots_letter
+        - id: uim_claim_opened
+          name: UIM Claim Opened
+          mandatory: false
+          condition: case.claims.where(type="UIM").count > 0
+          produced_by:
+            - workflow: uim_claim
+              step: open_claim
+        - id: uim_settlement_reached
+          name: UIM Settlement Reached
+          mandatory: false
+          condition: case.claims.where(type="UIM").any(status="settled")
+          produced_by:
+            - workflow: uim_claim
+              step: settle
+    notes: >
+      COOTS letter must be sent BEFORE accepting BI settlement.
+      UIM negotiation runs parallel to or after BI settlement.
+
+  # ──────────────────────────────────────────────────────────────────
+  companion_case_variant:
+    name: Companion Cases
+    description: >
+      Multiple injured parties from same accident. Cross-case
+      coordination required for demands, settlements, splits.
+    overlay: true  # doesn't replace, adds coordination layer
+    additional_landmarks:
+      - id: companion_cases_linked
+        name: Companion Cases Linked
+        mandatory: false
+        condition: case.frontmatter.companion_case_ids is not null
+        produced_by:
+          - workflow: companion_case_coordination
+            step: link_cases
+      - id: joint_demand_coordinated
+        name: Joint Demand Coordinated
+        mandatory: false
+        condition: case.flag("companion_demand_coordinated")
+        produced_by:
+          - workflow: companion_case_coordination
+            step: coordinate_demands
+      - id: inter_plaintiff_split_agreed
+        name: Inter-Plaintiff Split Agreed
+        mandatory: false
+        condition: case.flag("split_agreed") or case.companions.count == 0
+        produced_by:
+          - workflow: companion_case_coordination
+            step: agree_split
+    notes: >
+      Minor companion offers significantly lower than adult.
+      Carrier-funded mediation used for inter-plaintiff split disputes.
+
+# ======================================================================
+# ISSUE SYSTEM — case issue tracker integration
+#
+# Issues are the materialized work items. Templates define the shape
+# of each task type; issues are stored per-case.
+# ======================================================================
+
+issue_system:
+  template_path: skills.tools.workflows/issue-templates/
+  issue_store: cases/<slug>/issues/
+  description: >
+    The materializer creates issues from templates when landmark
+    preconditions are met. Workers claim and execute issues. Each
+    issue references a landmark ID and a skill. Completed issues
+    commit vault changes that satisfy the referenced landmark.
+  lifecycle:
+    - ready       # preconditions met, unclaimed
+    - claimed     # worker has picked it up
+    - in_progress # work underway
+    - blocked     # waiting on external dependency
+    - done        # landmark satisfied
+    - failed      # needs retry or escalation
+  labels:
+    phase: "phase:<phase_id>"
+    track: "track:<track_id>"
+    priority: "priority:<critical|high|normal|low>"
+    variant: "variant:<variant_id>"
+
+# ======================================================================
+# Materializer v2
 #
 # These rules tell the materializer how to translate landmark gaps
 # into actionable Tasks. A landmark whose condition is false and
@@ -484,15 +945,48 @@ phases:
 #
 # Tasks have lifecycle: ready → claimed → in_progress → done
 # (or → blocked / failed). See runtime/task_schema.md.
+# ======================================================================
 
 materializer:
+  version: 2
   default_task_status: ready
   default_priority: normal
-  high_priority_when:
-    - landmark.id == "demand_sent" and case.statute_of_limitations.days_until < 90
-    - landmark.id == "service_completed" and case.frontmatter.complaint_file_date.age_days > 60
-    - phase == "phase_5_settlement" and landmark.id == "client_distributed"
-  recurring_tasks:
-    - landmark.recurring == "every_14_days":
-        emit_every: 14d
-        only_when: phase in ("phase_2_treatment",)
+
+  # Task priority rules
+  priority_rules:
+    critical:
+      - sol_monitor.alert_level == "critical"
+      - client_contact.client_mia_flag == true and days_since > 60
+    high:
+      - sol_monitor.alert_level == "high"
+      - phase == "phase_5_settlement"  # money on the line
+      - lien_track.liens_identified == false and phase >= "phase_3_demand"
+      - landmark.id == "demand_sent" and case.statute_of_limitations.days_until < 90
+      - landmark.id == "service_completed" and case.frontmatter.complaint_file_date.age_days > 60
+      - landmark.id == "client_distributed"
+    normal:
+      - default
+
+  # Suppress rules (reduce noise from known anti-patterns)
+  suppress:
+    - sol_monitor.alerts when case.phase == "phase_8_closed" and case.decline_reason is not null
+    - google_review_task when case.decline_reason is not null
+    - client_contact.check when case.phase == "phase_8_closed"
+
+  # SLA tracking — alerts when phase exceeds expected duration
+  sla_alerts:
+    phase_0_onboarding: 3_business_days
+    phase_1_file_setup: 14_days
+    phase_3_demand: 30_days_from_treatment_complete
+    phase_4_negotiation: 45_days_to_first_offer
+    phase_5_settlement: 30_days_standard, 90_days_minor
+    litigation_track.complaint_filed: 30_days_from_decision
+
+  # Recurring tasks — emitted on schedule while conditions hold
+  recurring:
+    client_contact.check:
+      interval: 14d during phase_2_treatment, 30d otherwise
+    lien_track.liens_identified:
+      interval: 30d
+    pip_track.status_check:
+      interval: 30d

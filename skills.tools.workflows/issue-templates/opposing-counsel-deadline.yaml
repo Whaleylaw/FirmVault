@@ -1,0 +1,36 @@
+template_id: opposing-counsel-deadline
+name: Opposing Counsel Deadline / Discovery Dispute
+description: >
+  Use when defense counsel has missed a deadline, failed to respond to discovery,
+  or when a discovery dispute requires motion practice. Litigation was observed in
+  19% of cases (43 of 230 archived), with 53% involving active discovery. Defense
+  counsel routinely requests extensions (60-day extensions observed), reschedules
+  depositions multiple times, and may unilaterally schedule proceedings. Motions to
+  compel are needed when opposing party does not respond to discovery. Court deadlines
+  are frequently extended via joint motion.
+default_priority: high
+default_due_offset: 7d
+typical_phases: [phase_7_litigation]
+wiki_sources:
+  - litigation-process-patterns
+  - statute-of-limitations-monitoring
+  - coverage-denial-and-litigation
+  - disputed-liability-forces-litigation
+checklist:
+  - "Identify the specific deadline missed or discovery obligation outstanding"
+  - "Review court scheduling order for applicable deadline and any extensions already granted"
+  - "Send written follow-up to defense counsel requesting response within 7 days"
+  - "If no response within 7 days, escalate to attorney for motion to compel decision"
+  - "Draft motion to compel discovery if defense counsel remains non-responsive"
+  - "Track all court notifications (NEF, NCP) from eFiling system and file appropriately"
+  - "If defense counsel requests extension, evaluate with attorney — joint motions to extend are common and may be strategic"
+  - "For deposition scheduling disputes: document all attempts to coordinate — firm may unilaterally schedule if counsel is unresponsive"
+  - "If defense counsel cancels deposition, immediately reschedule and document the cancellation"
+  - "Monitor supplemental discovery obligations — new information must be disclosed timely"
+  - "Track discovery checklist: what's been requested, produced, and outstanding for both sides"
+  - "For subpoena responses, track third-party compliance deadlines"
+  - "Update litigation calendar whenever deadlines change"
+  - "If motion hearing is rescheduled by court (common), update all parties immediately"
+escalation_trigger: 7d
+blocks_landmark: null
+tags: [litigation, discovery, deadline, motion-to-compel, defense-counsel, deposition]

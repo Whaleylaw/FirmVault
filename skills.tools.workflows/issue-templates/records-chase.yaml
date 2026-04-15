@@ -1,0 +1,35 @@
+template_id: records-chase
+name: Medical Records / Bills Chase
+description: >
+  Use when a provider has not responded to records or billing requests within 14 days.
+  Records collection is the #1 controllable bottleneck in the case lifecycle — 50% of
+  cases have documented records collection activity, but only 45% of those progress to
+  demand. Demand cannot be sent until ALL providers have returned both records AND bills.
+  A single non-responsive provider can stall a case for months. Evidence: 167 cases
+  with records collection patterns.
+default_priority: high
+default_due_offset: 7d
+typical_phases: [phase_2_treatment, phase_3_demand]
+wiki_sources:
+  - medical-records-collection
+  - records-completion-gates-demand
+  - demand-preparation-workflow
+  - government-entity-records-collection
+checklist:
+  - Identify which specific provider(s) have not responded and what is missing (records, bills, or both)
+  - "Check original request date — if 14+ days ago with no response, initiate follow-up"
+  - Re-send request via the fastest available channel (fax for hospitals, email for small clinics)
+  - Call the provider's records department directly to confirm receipt of request
+  - "If authorization was rejected (missing DOB, missing signature date), correct and re-submit immediately"
+  - "Verify entity name matches — billing name may differ from clinical name (e.g., 'Norton Leatherman' vs 'Norton Neuro & Spine')"
+  - "For KY providers, cite KRS 422.317 if records vendor sends an invoice — first copy is free"
+  - Ask client to pull records from patient portal (MyChart) as interim measure
+  - "Track records and bills separately for each provider — receiving records does not mean you have bills"
+  - "For VA/government providers, expect 12+ month timelines — escalate through VA OGC"
+  - Set 7-day recurring follow-up until records received
+  - "When records arrive, check for referrals to unknown providers — add and request those too"
+  - "Use appropriate platform per provider: ChartSwap for community hospitals, EpicLink for Norton, MRO for UofL Health"
+  - Update the per-case provider tracker showing each provider's records + bills status
+escalation_trigger: 30d
+blocks_landmark: demand_sent
+tags: [records, bills, provider, bottleneck, hipaa, fax]

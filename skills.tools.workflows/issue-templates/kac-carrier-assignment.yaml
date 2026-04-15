@@ -1,0 +1,37 @@
+template_id: kac-carrier-assignment
+name: KAC Application & Carrier Assignment
+description: >
+  Use when a Kentucky Assigned Claims (KAC) application is needed because the at-fault
+  driver has no valid insurance (uninsured, coverage denied, policy lapsed). KAC was
+  involved in 26% of all cases (60 of 230 archived). KAC assigns the claim to a
+  carrier (State Farm most frequently, also Nationwide and Liberty Mutual) who acts as
+  the PIP carrier. The KAC process differs from standard PIP in documentation
+  requirements and bill submission rules. Each companion requires a separate KAC
+  application even if assigned to the same carrier.
+default_priority: high
+default_due_offset: 7d
+typical_phases: [phase_1_file_setup, phase_2_treatment]
+wiki_sources:
+  - kentucky-assigned-claims-process
+  - pip-claims-management
+  - coverage-denial-and-litigation
+  - coverage-denial-forces-early-litigation
+  - uninsured-motorist-pip-only-cases
+checklist:
+  - "Confirm that no standard PIP coverage is available (check client's own policy, at-fault policy, household insurance)"
+  - "File KAC application immediately — do not wait for BI coverage dispute to resolve"
+  - "Include required documentation: accident report, proof of no coverage, client information"
+  - "Watch for assignment email: 'KACP: Your claim application KY[number] for control [number] has been assigned to [Carrier]'"
+  - "Record assigned carrier, claim number, and control number in case system"
+  - "Contact assigned carrier to identify KAC adjuster and establish communication"
+  - "For companion cases: file separate KAC application for each companion with distinct control numbers"
+  - "Submit medical bills to KAC carrier with documentation of accident-relatedness"
+  - "Set 2-week follow-up tasks to confirm coverage status with KAC carrier"
+  - "Track which bills are submitted to KAC and which are excluded (attorney may negotiate exclusions)"
+  - "Coordinate KAC payments with Medicaid/health insurance liens — track who paid what"
+  - "If BI coverage is eventually accepted, be prepared for KAC carrier to seek reimbursement"
+  - "Once assigned, manage KAC claim as standard PIP: submit bills with 'direction to pay,' request ledger updates"
+  - "Monitor for PIP exhaustion on the KAC track — same $10K limit applies"
+escalation_trigger: 14d
+blocks_landmark: null
+tags: [kac, assigned-claims, pip, uninsured, coverage, kentucky]

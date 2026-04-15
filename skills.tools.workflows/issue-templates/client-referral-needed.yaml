@@ -1,0 +1,37 @@
+template_id: client-referral-needed
+name: Client Specialist Referral Needed
+description: >
+  Use when a client needs a specialist referral due to new symptoms, worsening
+  condition, second opinion, or when the treating provider recommends additional
+  evaluation (orthopedics, neurosurgery, pain management, imaging). Discovering
+  new providers during demand preparation delays the case — referrals found in
+  records review required adding providers and requesting their records, delaying
+  demand. Expert evaluations (FCE, IME) also require specialist coordination.
+  Client may need help finding providers, especially if PCP office was disrupted
+  (e.g., natural disaster).
+default_priority: normal
+default_due_offset: 14d
+typical_phases: [phase_2_treatment, phase_3_demand, phase_7_litigation]
+wiki_sources:
+  - medical-records-collection
+  - expert-reports-and-evaluations
+  - treatment-gap-defense
+  - pip-claims-management
+checklist:
+  - "Identify what type of specialist is needed (orthopedic, neurosurgery, pain management, dental, imaging)"
+  - "Check if treating provider has already made a referral — obtain referral documentation"
+  - "If client needs help finding a provider, assist with locating one (flexible hours, close to client)"
+  - "Confirm PIP benefits are available to cover the specialist visit"
+  - "If PIP exhausted, discuss payment options with client and attorney"
+  - "Add new provider to case system immediately upon identification"
+  - "Send HIPAA authorization and records/billing request to new provider preemptively"
+  - "For expert evaluations (FCE/IME): confirm provider, date, location, and cost with attorney"
+  - "Send client notification of specialist appointment via email AND USPS mail"
+  - "Instruct client NOT to reschedule specialist appointments without contacting firm first"
+  - "Set 14-day follow-up for specialist records/report after appointment"
+  - "When report received, route to attorney for review"
+  - "Track specialist expenses on case expense log"
+  - "Monitor for treatment gap — referral delay should not create an exploitable gap in treatment continuity"
+escalation_trigger: 21d
+blocks_landmark: null
+tags: [referral, specialist, fce, ime, provider, treatment-continuity]

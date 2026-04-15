@@ -2,7 +2,7 @@
 
 | Field             | Value          |
 |-------------------|----------------|
-| **Status**        | Proposed       |
+| **Status**        | Accepted       |
 | **Date**          | 2026-04-12     |
 | **Author**        | Roscoe/Hermes  |
 | **Supersedes**    | —              |

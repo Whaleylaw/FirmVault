@@ -1,0 +1,32 @@
+template_id: adjuster-unresponsive
+name: Adjuster Unresponsive / Unreturned Calls
+description: >
+  Use when an insurance adjuster (BI, PIP, or UIM) has not returned calls or responded
+  to outreach within 48 hours. Observed in 69 cases with high confidence. Adjusters
+  may call 5+ times over months leaving voicemails "to discuss settlement" — if the
+  firm does not respond, the adjuster may close the file or reduce settlement authority.
+  A 5-call escalation pattern was observed: initial attempt, 2-week follow-up, 4-week
+  escalation, then threats of file closure.
+default_priority: high
+default_due_offset: 7d
+typical_phases: [phase_4_negotiation, phase_1_file_setup]
+wiki_sources:
+  - adjuster-unreturned-calls-pattern
+  - adjuster-reassignment-patterns
+  - adjuster-file-closure-threats
+  - multi-carrier-multi-defendant-cases
+checklist:
+  - Log every adjuster voicemail with full transcription and create a follow-up task
+  - "Return adjuster calls within 48 hours — even if case is not ready for negotiation, provide a brief status update"
+  - "Track number of unreturned adjuster calls — more than 3 triggers alert to attorney"
+  - "If adjuster says they want to 'discuss settlement,' treat as priority callback"
+  - "Check if firm is managing multiple carrier tracks on same case — some carriers' outreach falls through the cracks"
+  - "If firm is deliberately delaying engagement for strategic reasons, document attorney's direction to do so"
+  - "Distinguish between strategic non-response (attorney-directed) and operational failure (nobody noticed)"
+  - "Watch for file closure threats: 'if I do not hear back, I will close this file' — escalate immediately to attorney"
+  - "If adjuster identifies specific blocking issues (updated lien, doctor's release), resolve those items promptly"
+  - "For PIP adjusters: verify they have all submitted bills on file — they may only have one bill despite multiple providers"
+  - "After adjuster reassignment, identify new adjuster and re-establish contact within 1 week"
+escalation_trigger: 14d
+blocks_landmark: null
+tags: [adjuster, phone-tag, negotiation-stalling, file-closure, communication]
